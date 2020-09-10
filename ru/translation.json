@@ -327,6 +327,7 @@
   "Language.Time.Months.Plural.Abbr": "{{months}} мес",
   "Language.Time.Months.Singluar": "1 месяц",
   "Language.Time.Months.Singluar.Abbr": "1 мес",
+  "Language.Time.Relative.Future": "через {{duration}}",
   "Language.Time.Relative.Past": "{{duration}} назад",
   "Language.Time.Seconds.Plural": "{{seconds}} секунд",
   "Language.Time.Seconds.Plural.Abbr": "{{seconds}} сек",
