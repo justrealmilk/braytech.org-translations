@@ -624,7 +624,7 @@
   "Something very unexpected and irrecoverable occurred.": "Qualcosa di molto inaspettato e irrecuperabile è successo.",
   "Something went wrong while trying to access browser storage.\n\nSome browsers disallow access to _Indexed DB_ when browsing in private modes.\n\nPlease reload the app and try again.": "Qualcosa è andato storto durante il tentativo di accedere all'archiviazione del browser.\n\nAlcuni browser non consentono l'accesso a _Indexed DB_ durante la navigazione in modalità privata.\n\nPer favore ricarica l'applicazione e riprova.",
   "Something went wrong while trying to download the item manifest from Bungie.\n\nPlease reload the app and try again.": "Qualcosa è andato storto durante il download del manifest da Bungie.\n\nPer favore ricarica l'applicazione e riprova.",
-  "Something went wrong while trying to update the item manifest.\n\nPlease reload the app and try again.": "Qualcosa è andato storto durante l'aggiornamento del manifest.\n\n.Per favore ricarica l'applicazione e riprova.",
+  "Something went wrong while trying to update the item manifest.\n\nPlease reload the app and try again.": "Qualcosa è andato storto durante l'aggiornamento del manifest.\n\nPer favore ricarica l'applicazione e riprova.",
   "Sorted by completion": "Ordina per completamento",
   "Sorted by rarity": "Ordina per rarità",
   "Sorted by score": "Ordina per punti",
