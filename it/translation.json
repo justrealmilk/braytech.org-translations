@@ -327,7 +327,7 @@
   "Language.Time.Months.Plural.Abbr": "{{months}} M",
   "Language.Time.Months.Singluar": "1 Mese",
   "Language.Time.Months.Singluar.Abbr": "1 M",
-  "#####Language.Time.Relative.Future": "🌐",
+  "Language.Time.Relative.Future": "tra {{duration}}",
   "Language.Time.Relative.Past": "{{duration}} fa",
   "Language.Time.Seconds.Plural": "{{seconds}} Secondi",
   "Language.Time.Seconds.Plural.Abbr": "{{seconds}} s",
