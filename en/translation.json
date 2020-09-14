@@ -521,7 +521,7 @@
   "Search": "Search",
   "Search for player": "Search for player",
   "Search.Results.NoMatches": "Nothing matched your terms.",
-  "Search.Results.Suggestions": "Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value contains the term \"mida\".\n\nSupported prefixes:\n- name\n- description\n- source\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
+  "Search.Results.Suggestions": "Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value contains the term \"mida.\"\n\nSupported prefixes:\n- name\n- description\n- source\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
   "Season": "Season",
   "Season countdown": "Season countdown",
   "Season pass": "Season pass",
