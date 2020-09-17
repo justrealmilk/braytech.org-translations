@@ -148,7 +148,7 @@
   "CustomisableLayout.Error.HeaderSingleColumnModules": "Il primo gruppo supporta solo moduli a colonna singola.",
   "CustomisableLayout.Error.HeaderSingleModule": "Il primo gruppo non supporta più di un modulo per colonna.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Quel modulo non è permesso qua.",
-  "CustomisableLayout.Error.RenderModule": "Errore nel caricamento del modulo {{moduleName}}",
+  "CustomisableLayout.Error.RenderModule": "Errore nel caricamento del seguente modulo: {{moduleName}}",
   "Customise": "Personalizza",
   "Data caches decrypted": "Casse di dati decriptate",
   "Data Recovered": "Dati recuperati",
