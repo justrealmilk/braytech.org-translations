@@ -544,7 +544,7 @@
   "Season rank": "赛季等级",
   "Season resets": "赛季重置次数",
   "#####Season {{number}}": "🌐",
-  "Season {{number}}": "赛季 {{season}}",
+  "Season {{number}}": "赛季 {{number}}",
   "Seasonal artifact": "赛季神器",
   "Seasonal progression": "赛季进度",
   "#####Secret Triumph": "🌐",
