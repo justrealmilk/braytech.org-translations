@@ -358,7 +358,7 @@
   "Loading.IndexedDBError.Description": "Something went wrong while trying to access browser storage.\n\nSome browsers disallow access to _Indexed DB_ when browsing in private modes.\n\nPlease reload the app and try again.",
   "Loading.MaintenanceError.Description": "The Bungie API is currently down for maintenance.\n\nTune into @BungieHelp on Twitter for more information.",
   "Loading.MaintenanceError.Name": "Bungie Maintenance",
-  "Loading.ManifestDownloadError.Description": "Something went wrong while trying to update the manifest with Bungie.\n\nPlease reload the app and try again.",
+  "Loading.ManifestDownloadError.Description": "Something went wrong while trying to download the manifest from Bungie.\n\nPlease reload the app and try again.",
   "Loading.ManifestDownloadError.Name": "Manifest download failed",
   "Loading.ManifestError.Description": "Something went wrong while trying to update the manifest with Bungie.\n\nPlease reload the app and try again.",
   "Loading.ManifestError.Name": "Manifest error",
