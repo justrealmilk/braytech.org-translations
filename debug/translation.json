@@ -362,6 +362,8 @@
   "Loading.ManifestDownloadError.Name": "🌐",
   "Loading.ManifestError.Description": "🌐",
   "Loading.ManifestError.Name": "🌐",
+  "Loading.ManifestFetchError.Description": "🌐",
+  "Loading.ManifestFetchError.Name": "🌐",
   "Loading.NoInternetError.Description": "🌐",
   "Loading.Status.DownloadingManifest": "🌐",
   "Loading.Status.FatalError": "🌐",

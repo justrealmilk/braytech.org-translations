@@ -362,6 +362,8 @@
   "Loading.ManifestDownloadError.Name": "Scaricamento del manifest fallito",
   "Loading.ManifestError.Description": "Qualcosa è andato storto durante l'aggiornamento del manifest.\n\nPer favore ricarica l'applicazione e riprova.",
   "Loading.ManifestError.Name": "Errore del manifest",
+  "#####Loading.ManifestFetchError.Description": "🌐",
+  "#####Loading.ManifestFetchError.Name": "🌐",
   "Loading.NoInternetError.Description": "Sei offline? Il tuo browser crede che tu lo sia...",
   "Loading.Status.DownloadingManifest": "Scaricando dati da Bungie",
   "Loading.Status.FatalError": "Errore fatale",
