@@ -356,6 +356,7 @@
   "Likeness of Oryx": "Semejanza de Oryx",
   "Loading.Error.Description": "Algo muy inesperado e irrecuperable ocurrió.",
   "Loading.IndexedDBError.Description": "Algo salió mal al tratar de acceder al almacenamiento del navegador.\n\nAlgunos navegadores no permiten el acceso a la _Base de datos indexada_ cuando se navega en modo privado.\n\nPor favor, recarga la aplicación e inténtalo de nuevo.",
+  "#####Loading.IndexedDBOpenFailedError.Description": "🌐",
   "Loading.MaintenanceError.Description": "La API de Bungie está actualmente fuera de servicio por mantenimiento. \n\nPara más información, visita @BungieHelp en Twitter.",
   "Loading.MaintenanceError.Name": "Mantenimiento de Bungie",
   "Loading.ManifestDownloadError.Description": "Algo salió mal mientras se intentaba descargar el manifiesto de objetos de Bungie.\n\nPor favor, actualiza la aplicación e inténtalo de nuevo.",
