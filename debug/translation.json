@@ -356,6 +356,7 @@
   "Likeness of Oryx": "🌐",
   "Loading.Error.Description": "🌐",
   "Loading.IndexedDBError.Description": "🌐",
+  "Loading.IndexedDBOpenFailedError.Description": "🌐",
   "Loading.MaintenanceError.Description": "🌐",
   "Loading.MaintenanceError.Name": "🌐",
   "Loading.ManifestDownloadError.Description": "🌐",
