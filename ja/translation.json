@@ -790,7 +790,7 @@
   "#####Weapon stats": "🌐",
   "Weapons": "武器",
   "#####Week {{number}}": "🌐",
-  "Week {{number}}": "{{weekNumber}}週",
+  "Week {{number}}": "{{number}}週",
   "Weekly Clan XP": "今週のクランXP",
   "What is Braytech": "Braytechとは？",
   "Who builds it": "誰が作ったの？",
