@@ -151,7 +151,7 @@
   "Data caches decrypted": "Caches de dados descriptografados",
   "Data Recovered": "Dados Recuperados",
   "Deaths": "Mortes",
-  "Deception encounter: break the Deception's shield 5 times during phase in which he is defeated i.e. a single phase.": "Encontro do Engodo: quebre o escudo do Engogo 5 vezes durante a rodada em que ele é derrotada. Ex: uma rodada.",
+  "Deception encounter: break the Deception's shield 5 times during the phase in which he is defeated i.e. a single phase.": "Encontro do Engodo: quebre o escudo do Engogo 5 vezes durante a rodada em que ele é derrotada. Ex: uma rodada.",
   "Defeat": "Derrota",
   "Defeat this Nightmare to progress record _{{recordName}}_.": "Derrote este pesadelo para progredir no registro _{{recordName}}_.",
   "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.": "Excluir os dados de autenticação armazenados no seu dispositivo. Embora desnecessário, essa função server para deixa-lo com a mente em paz.",

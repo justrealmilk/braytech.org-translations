@@ -151,7 +151,7 @@
   "Data caches decrypted": "已解密数据缓存",
   "Data Recovered": "恢复数据",
   "Deaths": "死亡",
-  "Deception encounter: break the Deception's shield 5 times during phase in which he is defeated i.e. a single phase.": "分身关：在击败分身的阶段内五次击破分身的护盾，比如单阶段通关。",
+  "Deception encounter: break the Deception's shield 5 times during the phase in which he is defeated i.e. a single phase.": "分身关：在击败分身的阶段内五次击破分身的护盾，比如单阶段通关。",
   "Defeat": "击杀",
   "Defeat this Nightmare to progress record _{{recordName}}_.": "击败该梦魇以取得 _{{recordName}}_ 的进度",
   "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.": "清除设备上存储的授权数据，必要时使用该功能可以让你淡定下来。",

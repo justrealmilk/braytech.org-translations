@@ -151,7 +151,7 @@
   "Data caches decrypted": "해독한 데이터 저장소",
   "#####Data Recovered": "🌐",
   "Deaths": "사망",
-  "Deception encounter: break the Deception's shield 5 times during phase in which he is defeated i.e. a single phase.": "기만 교전: 기만을 쓰러트린 페이즈동안 기만의 보호막을 5번 파괴하기",
+  "Deception encounter: break the Deception's shield 5 times during the phase in which he is defeated i.e. a single phase.": "기만 교전: 기만을 쓰러트린 페이즈동안 기만의 보호막을 5번 파괴하기",
   "Defeat": "패배/처치",
   "Defeat this Nightmare to progress record _{{recordName}}_.": "이 악몽을 처치하여 _{{recordName}}_ 진행",
   "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.": "기기에 저장된 인증 정보를 제거합니다. 불필요한 기능이지만, 당신의 마음의 평화를 위해 제공하고 있습니다.",
