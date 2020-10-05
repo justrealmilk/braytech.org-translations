@@ -134,7 +134,7 @@
   "CustomisableLayout.Error.HeaderSingleColumnModules": "The header group supports single column modules only.",
   "CustomisableLayout.Error.HeaderSingleModule": "The header group supports no more than one module per column.",
   "CustomisableLayout.Error.ModuleNotAllowed": "That module isn't allowed here.",
-  "CustomisableLayout.Error.RenderModule": "An error occurred while attempting to render module: {{moduleName}}",
+  "CustomisableLayout.Error.RenderModule": "An error occurred while attempting to render module: {{moduleName}}. This is probably a temporary error. If you want to change modules, select _Customise_ from the action bar below.",
   "Customise": "Customise",
   "Data Recovered": "Data Recovered",
   "Data caches decrypted": "Data caches decrypted",
