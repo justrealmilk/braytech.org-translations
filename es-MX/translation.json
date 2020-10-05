@@ -134,7 +134,7 @@
   "CustomisableLayout.Error.HeaderSingleColumnModules": "El grupo del encabezado sólo admite módulos de una sola columna.",
   "CustomisableLayout.Error.HeaderSingleModule": "El grupo del encabezado no soporta más de un módulo por columna.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Ese módulo no está permitido aquí.",
-  "CustomisableLayout.Error.RenderModule": "Se produjo un error al intentar renderizar el módulo: {{moduleName}}",
+  "CustomisableLayout.Error.RenderModule": "Se produjo un error al intentar renderizar el módulo: {{moduleName}}. Esto es probablemente un error temporal. Si deseas cambiar los módulos, selecciona _Personalizar_ en la barra de acciones de abajo.",
   "Customise": "Personalizar",
   "Data Recovered": "Datos recuperados",
   "Data caches decrypted": "Alijos de datos desencriptados",
