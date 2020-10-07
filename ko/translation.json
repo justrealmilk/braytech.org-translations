@@ -507,7 +507,7 @@
   "Settings.Developer.Maps.LogDetails.Description": "마우스 실행된 노드에 대한 Console.log 정보",
   "Settings.Developer.Maps.LogDetails.Name": "노드 상세 정보 기록",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "연결된 스크린샷이 없는 지역 상자 등의 맵 노드는 지도 데이터 기여를 돕기 위해 강조 처리됩니다.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "스크린샷 없이 노드 강조",
+  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "스크린샷이 없는 노드 강조",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "체크리스트 항목을 완료하면 체크리스트 화면에서 숨김",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "완료한 체크리스트 항목 숨김",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "수집품을 획득하면 수집품 화면에서 숨김",
