@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "印のレアリティ",
   "Triumphs.Secret.Description": "A mystery that you haven't yet unraveled.",
   "Triumphs.Secret.Name": "Secret Triumph",
+  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs",
   "Triumphs.Unredeemed.ScoreValue": "Redeem these records and increase your triumph score by {{value}} points.",
   "Troubleshooting": "トラブルシューティング",
   "Unknown": "不明",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} players have collected this.",
   "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}}は残り{{timeRemaining}}。",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}}は{{destinationName}}で待っている。",
-  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}}は{{destinationName}}で待っている。"
 }

@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Raridade do selo",
   "Triumphs.Secret.Description": "Um misterio que você ainda não descobriu.",
   "Triumphs.Secret.Name": "Triunfo Secreto",
+  "Triumphs.Unredeemed.Number": "{{number}} triunfos não resgatados",
   "Triumphs.Unredeemed.ScoreValue": "Resgate esses triunfos e aumente sua pontuação de triunfo em {{value}} pontos. ",
   "Troubleshooting": "Solução de Problemas",
   "Unknown": "Desconhecido",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} jogadores coletaram isso.",
   "{{players}} players have redeemed this.": "{{players}} jogadores resgataram isso.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} tem {{timeRemaining}} restantes.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} está lhe esperando em seu local, {{destinationName}}",
-  "Triumphs.Unredeemed.Number": "{{number}} triunfos não resgatados"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} está lhe esperando em seu local, {{destinationName}}"
 }

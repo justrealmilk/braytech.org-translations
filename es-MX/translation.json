@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Rareza del sello",
   "Triumphs.Secret.Description": "Un misterio que aún no has resuelto.",
   "Triumphs.Secret.Name": "Triunfo secreto",
+  "Triumphs.Unredeemed.Number": "{{number}} triunfos sin canjear",
   "Triumphs.Unredeemed.ScoreValue": "Canjea estos triunfos y aumenta tu puntaje de triunfos en {{value}} puntos.",
   "Troubleshooting": "Resolución de problemas",
   "Unknown": "Desconocido",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} jugadores consiguieron esto.",
   "{{players}} players have redeemed this.": "{{players}} jugadores canjearon esto.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "A la {{seasonName}} le quedan {{timeRemaining}}.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} te está esperando en {{destinationName}}.",
-  "Triumphs.Unredeemed.Number": "{{number}} triunfos sin canjear"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} te está esperando en {{destinationName}}."
 }

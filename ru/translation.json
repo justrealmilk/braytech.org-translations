@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Редкость печати",
   "Triumphs.Secret.Description": "Загадка, которую вы еще не разгадали",
   "Triumphs.Secret.Name": "Секретный триумф",
+  "Triumphs.Unredeemed.Number": "Неполученных триумфов: {{number}}",
   "Triumphs.Unredeemed.ScoreValue": "Выполните эти триумфы и увеличьте свой счет триумфов на {{value}} очков.",
   "Troubleshooting": "Решение проблем",
   "Unknown": "Неизвестно",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "Получено {{players}} игроками.",
   "{{players}} players have redeemed this.": "Получено {{players}} игроками.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} завершится через {{timeRemaining}}.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} ждет тебя в {{destinationName}}.",
-  "Triumphs.Unredeemed.Number": "Неполученных триумфов: {{number}}"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} ждет тебя в {{destinationName}}."
 }

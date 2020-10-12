@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Seal commonality",
   "Triumphs.Secret.Description": "A mystery that you haven't yet unraveled.",
   "Triumphs.Secret.Name": "Secret triumph",
+  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs",
   "Triumphs.Unredeemed.ScoreValue": "Redeem these records and increase your triumph score by {{value}} points.",
   "Troubleshooting": "Troubleshooting",
   "Unknown": "Unknown",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} players have collected this.",
   "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} has {{timeRemaining}} remaining.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} is waiting for you at {{destinationName}}.",
-  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} is waiting for you at {{destinationName}}."
 }

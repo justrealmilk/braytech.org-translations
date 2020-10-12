@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Rarità del sigillo",
   "Triumphs.Secret.Description": "Un mistero che non hai ancora svelato.",
   "Triumphs.Secret.Name": "Trionfo Segreto",
+  "Triumphs.Unredeemed.Number": "{{number}} trionfi non riscattati",
   "Triumphs.Unredeemed.ScoreValue": "Riscatta questi trionfi e aumenta il tuo punteggio trionfale di {{value}} punti.",
   "Troubleshooting": "Risoluzione problemi",
   "Unknown": "Sconosciuto",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} giocatori l'hanno collezionato.",
   "{{players}} players have redeemed this.": "{{players}} giocatori l'hanno riscattato.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "La {{seasonName}} finirà tra {{timeRemaining}}",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} ti sta aspettando alla sua destinazione: {{destinationName}}",
-  "Triumphs.Unredeemed.Number": "{{number}} trionfi non riscattati"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} ti sta aspettando alla sua destinazione: {{destinationName}}"
 }

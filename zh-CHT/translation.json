@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "印章持有率",
   "Triumphs.Secret.Description": "A mystery that you haven't yet unraveled.",
   "Triumphs.Secret.Name": "Secret Triumph",
+  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs",
   "Triumphs.Unredeemed.ScoreValue": "Redeem these records and increase your triumph score by {{value}} points.",
   "Troubleshooting": "問題追蹤",
   "Unknown": "未知",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} 名玩家已经收集。",
   "{{players}} players have redeemed this.": "{{players}}名玩家已兑换。",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} 还有 {{timeRemaining}} 结束。",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} 在 {{destinationName}} 等妳.",
-  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} 在 {{destinationName}} 等妳."
 }

@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Siegel Häufigkeit",
   "Triumphs.Secret.Description": "Ein Mysterium, das dir noch verborgen bleibt.",
   "Triumphs.Secret.Name": "Versteckter Triumph",
+  "Triumphs.Unredeemed.Number": "{{number}} nicht eingelöste Triumphe",
   "Triumphs.Unredeemed.ScoreValue": "Löse diese Triumphe ein und erhöhe deine Triumphpunktzahl um {{value}}.",
   "Troubleshooting": "Fehlerbehebung",
   "Unknown": "Unbekannt",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} haben dieses Item gefunden.",
   "{{players}} players have redeemed this.": "{{players}} haben diesen Triumph errungen.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} läuft noch {{timeRemaining}}.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} wartet hier auf dich: {{destinationName}}",
-  "Triumphs.Unredeemed.Number": "{{number}} nicht eingelöste Triumphe"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} wartet hier auf dich: {{destinationName}}"
 }

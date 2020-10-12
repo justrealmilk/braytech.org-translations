@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Rareté du sceau",
   "Triumphs.Secret.Description": "A mystery that you haven't yet unraveled.",
   "Triumphs.Secret.Name": "Secret Triumph",
+  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs",
   "Triumphs.Unredeemed.ScoreValue": "Échangez ces enregistrements et augmentez votre score de triomphe de {{value}} points.",
   "Troubleshooting": "Dépannage",
   "Unknown": "Inconnu",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} players have collected this.",
   "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "Il reste {{timeRemaining}} avant la fin de la {{seasonName}}",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} vous attend à {{destinationName}}.",
-  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} vous attend à {{destinationName}}."
 }

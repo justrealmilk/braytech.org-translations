@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "Pospolitość pieczęci",
   "Triumphs.Secret.Description": "A mystery that you haven't yet unraveled.",
   "Triumphs.Secret.Name": "Ukryty Tryiumf",
+  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs",
   "Triumphs.Unredeemed.ScoreValue": "Redeem these records and increase your triumph score by {{value}} points.",
   "Troubleshooting": "Rozwiązywanie problemów",
   "Unknown": "Nieznany",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}} graczy zdobyło",
   "{{players}} players have redeemed this.": "{{players}} graczy wykupiło",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} has {{timeRemaining}} remaining.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} czeka na ciebie na {{destinationName}}.",
-  "Triumphs.Unredeemed.Number": "{{number}} unredeemed triumphs"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}} czeka na ciebie na {{destinationName}}."
 }

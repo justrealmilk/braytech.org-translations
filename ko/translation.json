@@ -627,6 +627,7 @@
   "Triumphs.Seals.Commonality.Name": "인장 희소성",
   "Triumphs.Secret.Description": "아직 풀지 못한 수수께끼입니다.",
   "Triumphs.Secret.Name": "비밀 업적",
+  "Triumphs.Unredeemed.Number": "{{number}}개의 확인하지 않은 업적",
   "Triumphs.Unredeemed.ScoreValue": "이 업적들을 확인고 업적 점수 {{value}} 점을 획득하세요.",
   "Troubleshooting": "문제 해결",
   "Unknown": "알 수 없음",
@@ -814,6 +815,5 @@
   "{{players}} players have collected this.": "{{players}}명의 유저가 이것을 수집했습니다.",
   "{{players}} players have redeemed this.": "{{players}}명의 유저가 이것을 획득했습니다.",
   "{{seasonName}} has {{timeRemaining}} remaining.": "{{seasonName}} 이 {{timeRemaining}} 남았습니다.",
-  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}}이/가 {{destinationName}}에서 당신을 기다립니다.",
-  "Triumphs.Unredeemed.Number": "{{number}}개의 확인하지 않은 업적"
+  "{{vendorName}} is waiting for you at {{destinationName}}.": "{{vendorName}}이/가 {{destinationName}}에서 당신을 기다립니다."
 }
