@@ -615,6 +615,7 @@
   "Triumphs.Classified.Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
   "Triumphs.Classified.Name": "機密の記録",
   "Triumphs.Details.Completed": "🦘",
+  "Triumphs.Details.NoClanOrFireteam": "🦘",
   "Triumphs.Details.NotCompleted": "🦘",
   "Triumphs.Record.Commonality.Description": "🦘",
   "Triumphs.Seals.Commonality.Description": "印のレアリティは、VOLUSPAによってインデックス化されたプレイヤーの割合です。",
