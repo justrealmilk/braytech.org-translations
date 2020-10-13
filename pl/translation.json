@@ -470,7 +470,7 @@
   "Search for player": "Szukaj gracza",
   "Search.Results.NoMatches": "Nic nie pasuje do twojego zapytania.",
   "Search.ShortcutKey": "### Wcisnij  aby wlączyć przeszukiwanie zewsząd",
-  "Search.Suggestions": "Wyszukiwanie obsługuje filtry jako przedrostki. Spróbuj „name: mida”, aby dopasować tylko jednostki, których wartość nazwy zawiera termin \ "mida \" \n\nObsługiwane przedrostki: \n- name\n- description\n- source\n\nMożesz także wyszukiwać według manifestu `hash`.\n\nWyniki będą traktowane priorytetowo według nazwy, źródła i opisu.",
+  "Search.Suggestions": "Wyszukiwanie obsługuje filtry jako przedrostki. Spróbuj `name: mida` aby dopasować tylko jednostki, których wartość nazwy zawiera termin \"mida\"\n\nObsługiwane przedrostki: \n- name\n- description\n- source\n\nMożesz także wyszukiwać według manifestu `hash`.\n\nWyniki będą traktowane priorytetowo według nazwy, źródła i opisu.",
   "Season": "Sezon",
   "Season countdown": "Odliczanie sezonu",
   "Season pass": "Przepustka sezonowa",
