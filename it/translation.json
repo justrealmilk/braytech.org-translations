@@ -620,6 +620,7 @@
   "Triumphs.Record.Commonality.Description": "Percentuale di giocatori indicizzati da VOLUSPA che hanno riscattato questo trionfo.",
   "Triumphs.Seals.Commonality.Description": "Percentuale di giocatori indicizzati da VOLUSPA che hanno acquisito questo titolo.",
   "Triumphs.Seals.Commonality.Name": "Rarità Sigillo",
+  "Triumphs.Details.OpenView": "🦘",
   "Triumphs.Secret.Description": "Un mistero che non hai ancora svelato.",
   "Triumphs.Secret.Name": "Trionfo Segreto",
   "Triumphs.Unredeemed.Number": "{{number}} trionfi non riscattati",
