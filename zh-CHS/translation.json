@@ -615,6 +615,7 @@
   "Triumphs.Classified.Description": "这个记录已被归档并可能在之后被解密。",
   "Triumphs.Classified.Name": "已分类记录",
   "Triumphs.Details.Completed": "🦘",
+  "Triumphs.Details.NoClanOrFireteam": "🦘",
   "Triumphs.Details.NotCompleted": "🦘",
   "Triumphs.Record.Commonality.Description": "🦘",
   "Triumphs.Seals.Commonality.Description": "印章稀有度代表了 VOLUSPA 跟踪的玩家的获取百分比.",
