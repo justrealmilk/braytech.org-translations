@@ -618,6 +618,8 @@
   "Triumphs.Details.NoClanOrFireteam": "🦘",
   "Triumphs.Details.NotCompleted": "🦘",
   "Triumphs.Details.OpenView": "🦘",
+  "Triumphs.Details.TrackRecord": "🦘",
+  "Triumphs.Details.UntrackRecord": "🦘",
   "Triumphs.Record.Commonality.Description": "🦘",
   "Triumphs.Seals.Commonality.Description": "La rareté est représentée par le pourcentage de joueurs indexés par VOLUSPA ayant obtenu ce sceau.",
   "Triumphs.Seals.Commonality.Name": "Rareté du sceau",
