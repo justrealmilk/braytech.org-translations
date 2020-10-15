@@ -755,7 +755,7 @@
   "UserModules.SeasonArtifact.Progression.PowerBonus": "보너스 전투력",
   "UserModules.SeasonArtifact.Progression.PowerBonusProgress": "다음 전투력 보너스",
   "UserModules.SeasonArtifact.Progression.UnlockProgress": "다음 유물 잠금 해제",
-  "UserModules.SeasonArtifact.Progression.Unlocks": "유물 잠금 ",
+  "UserModules.SeasonArtifact.Progression.Unlocks": "유물 잠금 해제",
   "UserModules.SeasonArtifact.TimeRemaining": "{{season}} 이 {{duration}} 남았습니다.",
   "UserModules.TrialsOfOsiris.Info": "세인트-14와 대화하여 시련을 시작하세요.",
   "UserModules.WeeklyVanguardSinge.Description": "이번 주 대부분의 활동에서 공유되는 발화 원소입니다. 활동은 {{activities}} 등이 있습니다.",
