@@ -618,6 +618,8 @@
   "Triumphs.Details.NoClanOrFireteam": "🦘",
   "Triumphs.Details.NotCompleted": "🦘",
   "Triumphs.Details.OpenView": "🦘",
+  "Triumphs.Details.TrackRecord": "🦘",
+  "Triumphs.Details.UntrackRecord": "🦘",
   "Triumphs.Record.Commonality.Description": "🦘",
   "Triumphs.Seals.Commonality.Description": "印のレアリティは、VOLUSPAによってインデックス化されたプレイヤーの割合です。",
   "Triumphs.Seals.Commonality.Name": "印のレアリティ",
