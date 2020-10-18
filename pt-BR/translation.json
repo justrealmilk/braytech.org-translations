@@ -618,6 +618,8 @@
   "Triumphs.Details.NoClanOrFireteam": "Entre em um esquadrão ou clã para ver como os seus colegas Guardiões se comportam ao seu lado!",
   "Triumphs.Details.NotCompleted": "Não completado",
   "Triumphs.Details.OpenView": "🦘",
+  "Triumphs.Details.TrackRecord": "🦘",
+  "Triumphs.Details.UntrackRecord": "🦘",
   "Triumphs.Record.Commonality.Description": "Porcentagem de jogadores que são indexados por VOLUSPA que resgataram este registro.",
   "Triumphs.Seals.Commonality.Description": "A raridade do selo é representada como uma porcentagem dos jogadores que são classificados por VOLUSPA.",
   "Triumphs.Seals.Commonality.Name": "Raridade do selo",
