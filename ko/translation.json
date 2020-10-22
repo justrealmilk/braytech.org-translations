@@ -105,6 +105,7 @@
   "Checklists.CatStatues.Prefix": "고양이 친구",
   "Checklists.CatStatues.ProgressDescription": "친구가 된 고양이",
   "Checklists.CorruptedEggs.ItemName": "부패한 알",
+  "Checklists.CorruptedEggs.ItemName_plural": "🦘 Corrupted Eggs",
   "Checklists.CorruptedEggs.Prefix": "부패한 알",
   "Checklists.CorruptedEggs.ProgressDescription": "파괴한 알",
   "Checklists.GhostScans.ItemName": "고스트 스캔",

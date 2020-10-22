@@ -105,6 +105,7 @@
   "Checklists.CatStatues.Prefix": "Ami félin",
   "Checklists.CatStatues.ProgressDescription": "Amis félins satisfaits",
   "Checklists.CorruptedEggs.ItemName": "Œuf corrompu",
+  "Checklists.CorruptedEggs.ItemName_plural": "🦘 Corrupted Eggs",
   "Checklists.CorruptedEggs.Prefix": "Oeuf",
   "Checklists.CorruptedEggs.ProgressDescription": "Œufs détruits",
   "Checklists.GhostScans.ItemName": "Scan de spectre",

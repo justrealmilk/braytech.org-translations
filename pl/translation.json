@@ -105,6 +105,7 @@
   "Checklists.CatStatues.Prefix": "Koci przyjaciel",
   "Checklists.CatStatues.ProgressDescription": "Usatysfakcjonowanych kocich przyjaciół",
   "Checklists.CorruptedEggs.ItemName": "Zepsute jajo",
+  "Checklists.CorruptedEggs.ItemName_plural": "🦘 Corrupted Eggs",
   "Checklists.CorruptedEggs.Prefix": "Jajo",
   "Checklists.CorruptedEggs.ProgressDescription": "Zniszczonych Jaj",
   "Checklists.GhostScans.ItemName": "Skan ducha",
