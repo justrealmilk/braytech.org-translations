@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Całkowita kolekcja",
   "Common.Collections": "Kolekcje",
   "Common.Commonality": "Pospolitość",
+  "Common.Error": "Błąd",
   "Common.FireteamMembers": "Członkowie Drużyny ogniowej",
   "Common.GloryPoints": "Punkty Sławy",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "Zamknij",
   "Display name": "Nazwa wyświetlana",
   "Download roster data": "Pobierz dane",
-  "Dump service worker": "Zrzuć Service Worker",
   "Dungeons": "Lochy",
   "Elo": "Elo",
   "Emblem Background Color": "Kolor tła emblematu",
@@ -210,7 +210,6 @@
   "Energy cost": "Koszt energii",
   "Engrams": "Engramy",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Wyposaż modyfikacje zbroi Dreambane, aby wzmocnić swoje światło podczas tej aktywności.",
-  "Error": "Błąd",
   "Escalation Protocol": "Protokół Eskalacji",
   "Event": "Zdarzenie",
   "Event.FestivalOfTheLost.Description": "Śmiej się w twarz śmierci, zbieraj cukierki, noś maski i walcz z nadciągającą ciemnością. \n\nEva Levante powróciła jako zwiastun Święta Utraconych. To święto to czas dla Strażników, aby rozkoszować się słodyczami, przywdziewać lekceważące maski i celebrować wspomnienia tych, których straciliśmy.\n\nNawiedzony Las znów jest otwarty i tym razem Pająk chce się targować o Twoją współpracę.",
@@ -421,8 +420,6 @@
   "Record": "Wpis",
   "Records": "Wpisy",
   "RefreshService.Inactive.Description": "Z powodu braku aktywności użytkownika Braytech wstrzymał w tle odświeżanie danych profilu.",
-  "Reload": "Przeładuj",
-  "Reload the app": "Przeładuj aplikację",
   "Remove group": "Usuń grupę",
   "Report player": "Zaraportuj gracza",
   "Reports.Modes.Core": "Tryby podstawowe",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} graczy",
   "{{players}} players have collected this.": "{{players}} graczy zdobyło",
-  "{{players}} players have redeemed this.": "{{players}} graczy wykupiło"
+  "{{players}} players have redeemed this.": "{{players}} graczy wykupiło",
+  "Common.ReloadApp": "Przeładuj aplikację"
 }

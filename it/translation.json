@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Totale collezioni",
   "Common.Collections": "Collezioni",
   "Common.Commonality": "Rarità",
+  "Common.Error": "Errore",
   "Common.FireteamMembers": "Membri squadra",
   "Common.GloryPoints": "Punti gloria",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "OK",
   "Display name": "Nome visualizzato",
   "Download roster data": "Scarica dati dei membri",
-  "Dump service worker": "Scarta service worker",
   "Dungeons": "Segrete",
   "Elo": "Elo",
   "Emblem Background Color": "Colore di sfondo effigie",
@@ -210,7 +210,6 @@
   "Energy cost": "Costo di energia",
   "Engrams": "Engrammi",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equipaggia le modifiche d'armatura Scacciaincubi per migliorare la tua luce in questa attività.",
-  "Error": "Errore",
   "Escalation Protocol": "Protocollo d'Intensificazione",
   "Event": "Evento",
   "Event.FestivalOfTheLost.Description": "Ridi in faccia alla morte, raccogli caramelle, indossa maschere e combatti contro l'oscurità incombente.",
@@ -421,8 +420,6 @@
   "Record": "Trionfo",
   "Records": "Trionfi",
   "RefreshService.Inactive.Description": "A causa di inattività, Braytech ha sospeso l'aggiornamento in background dei dati del profilo.",
-  "Reload": "Ricarica",
-  "Reload the app": "Ricarica l'app",
   "Remove group": "Rimuovi gruppo",
   "Report player": "Segnala giocatore",
   "Reports.Modes.Core": "Modalità base",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} giocatori",
   "{{players}} players have collected this.": "{{players}} giocatori l'hanno collezionato.",
-  "{{players}} players have redeemed this.": "{{players}} giocatori l'hanno riscattato."
+  "{{players}} players have redeemed this.": "{{players}} giocatori l'hanno riscattato.",
+  "Common.ReloadApp": "Ricarica l'app"
 }

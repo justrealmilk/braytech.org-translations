@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "전체 수집품",
   "Common.Collections": "수집품",
   "Common.Commonality": "희소성",
+  "Common.Error": "오류",
   "Common.FireteamMembers": "화력팀원",
   "Common.GloryPoints": "영광 점수",
   "Common.HistoricalStats": "기록 통계",
@@ -199,7 +200,6 @@
   "Dismiss": "닫기",
   "Display name": "닉네임",
   "Download roster data": "구성원 정보 다운로드",
-  "Dump service worker": "서비스 워크 덤프",
   "Dungeons": "던전",
   "Elo": "Elo",
   "Emblem Background Color": "엠블럼 보조 색상",
@@ -210,7 +210,6 @@
   "Energy cost": "에너지 비용",
   "Engrams": "엔그램",
   "Equip Dreambane armor mods to enhance your light within this activity.": "꿈의 파멸 방어구 개조 부품을 착용하여 이 활동에서의 전투력을 강화하세요.",
-  "Error": "오류",
   "Escalation Protocol": "확대 프로토콜",
   "Event": "이벤트",
   "Event.FestivalOfTheLost.Description": "죽음 앞에서 웃고, 사탕을 모으고, 마스크를 쓰고, 잠식하는 어둠과 맞서 싸우세요.\n\n에바 레반테가 사자들의 축제의 전령으로 다시 돌아왔습니다. 이 축제는 수호자들이 단것을 마음껏 먹고, 무서운 가면을 쓰고, 먼저 세상을 떠난 이들을 기리는 기간입니다.\n\n유령의 숲이 다시 열립니다. 이번엔 거미가 거래를 하자고 합니다. ",
@@ -421,8 +420,6 @@
   "Record": "업적",
   "Records": "업적",
   "RefreshService.Inactive.Description": "사용자가 Braytech를 사용하지 않아 프로필 데이터 자동 새로고침을 일시 중지했습니다.",
-  "Reload": "새로고침",
-  "Reload the app": "앱을 새로 불러옵니다",
   "Remove group": "그룹 제거",
   "Report player": "플레이어 신고",
   "Reports.Modes.Core": "코어 모드",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} 온라인",
   "{{players}} players": "{{players}}명",
   "{{players}} players have collected this.": "{{players}}명의 유저가 이것을 수집했습니다.",
-  "{{players}} players have redeemed this.": "{{players}}명의 유저가 이것을 획득했습니다."
+  "{{players}} players have redeemed this.": "{{players}}명의 유저가 이것을 획득했습니다.",
+  "Common.ReloadApp": "앱을 새로 불러옵니다"
 }

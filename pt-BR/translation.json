@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Coleção total",
   "Common.Collections": "Coleções",
   "Common.Commonality": "Raridades",
+  "Common.Error": "Erro",
   "Common.FireteamMembers": "Membros do Esquadrão",
   "Common.GloryPoints": "Pontos de Glória",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "Dispensar",
   "Display name": "Nome de exibição",
   "Download roster data": "Baixar dados do elenco",
-  "Dump service worker": "Apagar Service Worker",
   "Dungeons": "Masmorras",
   "Elo": "Elo",
   "Emblem Background Color": "Cor de fundo do Emblema",
@@ -210,7 +210,6 @@
   "Energy cost": "Custo de energia",
   "Engrams": "Engramas",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equipe mod de armadura de Matador de Sonhos para melhorar sua luz nessas atividades",
-  "Error": "Erro",
   "Escalation Protocol": "Protocolo de Agravamento",
   "Event": "Evento",
   "Event.FestivalOfTheLost.Description": "Ria da morte, colete doces e lute mascarado contra as forças das trevas.\n\nEva Levante está de volta como ícone do Festival dos Finados. Este feriado é tempo de Guardiões aproveitarem gostosuras, usarem máscaras irreverentes e homenagearem aqueles que já que se foram.\n\nA Floresta Assombrada se abre novamente, e, desta vez, o Aranha quer barganhar por sua cooperação.",
@@ -421,8 +420,6 @@
   "Record": "Registro",
   "Records": "Registros",
   "RefreshService.Inactive.Description": "Devido a sua inatividade, Braytech parou de atualizar seus dados em segundo plano.",
-  "Reload": "Recarregar",
-  "Reload the app": "Recarregar o app",
   "Remove group": "Remover grupo",
   "Report player": "Reportar jogador",
   "Reports.Modes.Core": "Modos centrais",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} jogadores",
   "{{players}} players have collected this.": "{{players}} jogadores coletaram isso.",
-  "{{players}} players have redeemed this.": "{{players}} jogadores resgataram isso."
+  "{{players}} players have redeemed this.": "{{players}} jogadores resgataram isso.",
+  "Common.ReloadApp": "Recarregar o app"
 }

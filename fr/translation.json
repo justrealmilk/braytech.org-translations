@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Collection totale",
   "Common.Collections": "Collections",
   "Common.Commonality": "Rareté",
+  "Common.Error": "Erreur",
   "Common.FireteamMembers": "Membres d'escouade",
   "Common.GloryPoints": "Points de Gloire",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "Annuler",
   "Display name": "Display name",
   "Download roster data": "Télécharger les données",
-  "Dump service worker": "Dump service worker",
   "Dungeons": "Dungeons",
   "Elo": "Elo",
   "Emblem Background Color": "Couleur de fond de l'emblème",
@@ -210,7 +210,6 @@
   "Energy cost": "Coût d'énergie",
   "Engrams": "Engrammes",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equipez des mods d'armure du Fléau des rêves pour augmenter votre puissance durant cette activité",
-  "Error": "Erreur",
   "Escalation Protocol": "Protocole Intensification",
   "Event": "Evènement",
   "Event.FestivalOfTheLost.Description": "Riez face à la mort, récupérez des bonbons, portez des masques et combattez les ténèbres envahissantes.\n\nEva Levante est de retour en tant que héraut du Festival des Âmes perdues. Cette fête est le moment pour les Gardiens de s'adonner à la gourmandise, de revêtir des masques irrévérencieux et de célébrer les souvenirs de ceux que nous avons perdus.\n\nLa Forêt Hantée est à nouveau ouverte, et cette fois, l'Araignée veut négocier votre coopération .",
@@ -421,8 +420,6 @@
   "Record": "Triomphe",
   "Records": "Triomphes",
   "RefreshService.Inactive.Description": "En raison de l'inactivité de l'utilisateur, Braytech a suspendu les tâches d'arrière-plan pour actualiser les données de votre profil.",
-  "Reload": "Recharger",
-  "Reload the app": "Recharger l'application",
   "Remove group": "Retirer le groupe",
   "Report player": "Signaler le joueur",
   "Reports.Modes.Core": "Modes principaux",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} en ligne",
   "{{players}} players": "{{players}} joueurs",
   "{{players}} players have collected this.": "{{players}} joueurs l'ont obtenu.",
-  "{{players}} players have redeemed this.": "{{players}} joueurs l'ont validé."
+  "{{players}} players have redeemed this.": "{{players}} joueurs l'ont validé.",
+  "Common.ReloadApp": "Recharger l'application"
 }

@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Collection Total",
   "Common.Collections": "Collections",
   "Common.Commonality": "Commonality",
+  "Common.Error": "Error",
   "Common.FireteamMembers": "Fireteam Members",
   "Common.GloryPoints": "Glory Points",
   "Common.HistoricalStats": "Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "Dismiss",
   "Display name": "Display name",
   "Download roster data": "Download roster data",
-  "Dump service worker": "Dump service worker",
   "Dungeons": "Dungeons",
   "Elo": "Elo",
   "Emblem Background Color": "Emblem Background Color",
@@ -210,7 +210,6 @@
   "Energy cost": "Energy cost",
   "Engrams": "Engrams",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equip Dreambane armor mods to enhance your light within this activity.",
-  "Error": "Error",
   "Escalation Protocol": "Escalation Protocol",
   "Event": "Event",
   "Event.FestivalOfTheLost.Description": "Laugh in the face of death, collect candies, wear masks, and fight back against the encroaching darkness.",
@@ -421,8 +420,6 @@
   "Record": "Record",
   "Records": "Records",
   "RefreshService.Inactive.Description": "Due to user inactivity, Braytech has paused background refreshing your profile data.",
-  "Reload": "Reload",
-  "Reload the app": "Reload the app",
   "Remove group": "Remove group",
   "Report player": "Report player",
   "Reports.Modes.Core": "Core modes",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} players",
   "{{players}} players have collected this.": "{{players}} players have collected this.",
-  "{{players}} players have redeemed this.": "{{players}} players have redeemed this."
+  "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
+  "Common.ReloadApp": "Reload the app"
 }

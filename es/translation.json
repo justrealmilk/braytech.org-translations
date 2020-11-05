@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "Elementos en colecciones",
   "Common.Collections": "Colecciones",
   "Common.Commonality": "Rareza",
+  "Common.Error": "Error",
   "Common.FireteamMembers": "Miembros de la escuadra",
   "Common.GloryPoints": "Puntos de Gloria",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "Cerrar",
   "Display name": "Nombre de usuario",
   "Download roster data": "Descargar datos de jugadores",
-  "Dump service worker": "Verter service worker",
   "Dungeons": "Mazmorras",
   "Elo": "Elo",
   "Emblem Background Color": "Color del fondo del emblema",
@@ -210,7 +210,6 @@
   "Energy cost": "Coste de energía",
   "Engrams": "Engramas",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equipa modificadores de armadura Sueño de la perdición para mejorar tu luz durante esta misión.",
-  "Error": "Error",
   "Escalation Protocol": "Protocolo de Aumento",
   "Event": "Evento",
   "Event.FestivalOfTheLost.Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante ha vuelto para celebrar la Fiesta de las Almas Perdidas. En esta celebración, los guardianes se dan un festín, llevan máscaras irreverentes y honran el recuerdo de los que hemos perdido.\n\nEl Bosque Encantado ha vuelto a abrir, y esta vez, la Araña quiere negociar para que le ayudes.",
@@ -421,8 +420,6 @@
   "Record": "Triunfo",
   "Records": "Triunfos",
   "RefreshService.Inactive.Description": "A causa de la inactividad, Braytech ha pausado la actualización en segundo plano de tus datos de perfil.",
-  "Reload": "Recargar",
-  "Reload the app": "Recarga la aplicación",
   "Remove group": "Eliminar grupo",
   "Report player": "Denunciar jugador",
   "Reports.Modes.Core": "Modos núcleo",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} en línea",
   "{{players}} players": "{{players}} jugadores",
   "{{players}} players have collected this.": "{{players}} jugadores han conseguido esto.",
-  "{{players}} players have redeemed this.": "{{players}} jugadores han canjeado esto."
+  "{{players}} players have redeemed this.": "{{players}} jugadores han canjeado esto.",
+  "Common.ReloadApp": "Recarga la aplicación"
 }

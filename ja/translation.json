@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "コレクションの合計",
   "Common.Collections": "コレクション",
   "Common.Commonality": "共通性",
+  "Common.Error": "エラー",
   "Common.FireteamMembers": "🦘 Fireteam Members",
   "Common.GloryPoints": "栄光ポイント",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "閉じる",
   "Display name": "表示名",
   "Download roster data": "名簿をダウンロード",
-  "Dump service worker": "Dump service worker",
   "Dungeons": "Dungeons",
   "Elo": "Elo",
   "Emblem Background Color": "エンブレムの背景色",
@@ -210,7 +210,6 @@
   "Energy cost": "エナジーコスト",
   "Engrams": "エングラム",
   "Equip Dreambane armor mods to enhance your light within this activity.": "Equip Dreambane armor mods to enhance your light within this activity.",
-  "Error": "エラー",
   "Escalation Protocol": "エスカレーション・プロトコル",
   "Event": "Event",
   "Event.FestivalOfTheLost.Description": "Laugh in the face of death, collect candies, wear masks, and fight back against the encroaching darkness.\n\nEva Levante has returned as the herald of the Festival of the Lost. This holiday is a time for Guardians to indulge their sweet tooth, don irreverent masks, and celebrate the memories of those we have lost.\n\nThe Haunted Forest is open once again, and this time, The Spider wants to bargain for your cooperation.",
@@ -421,8 +420,6 @@
   "Record": "記録",
   "Records": "勝利の道のり",
   "RefreshService.Inactive.Description": "Due to user inactivity, Braytech has paused background refreshing your profile data.",
-  "Reload": "再起動",
-  "Reload the app": "アプリを再起動",
   "Remove group": "グループを削除",
   "Report player": "Report player",
   "Reports.Modes.Core": "コアプレイリスト",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} players",
   "{{players}} players have collected this.": "{{players}} players have collected this.",
-  "{{players}} players have redeemed this.": "{{players}} players have redeemed this."
+  "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
+  "Common.ReloadApp": "アプリを再起動"
 }

@@ -164,6 +164,7 @@
   "Common.CollectionTotal": "收藏品总计",
   "Common.Collections": "收藏品",
   "Common.Commonality": "持有率",
+  "Common.Error": "错误",
   "Common.FireteamMembers": "火力战队成员",
   "Common.GloryPoints": "荣耀点数",
   "Common.HistoricalStats": "🦘 Historical Stats",
@@ -199,7 +200,6 @@
   "Dismiss": "取消",
   "Display name": "显示名称",
   "Download roster data": "下载时间表数据",
-  "Dump service worker": "禁用 service worker",
   "Dungeons": "地牢",
   "Elo": "Elo",
   "Emblem Background Color": "名片背景色",
@@ -210,7 +210,6 @@
   "Energy cost": "能量消耗",
   "Engrams": "公会奖励",
   "Equip Dreambane armor mods to enhance your light within this activity.": "装备梦境祸根护甲模组，在此任务中强化你的力量。",
-  "Error": "错误",
   "Escalation Protocol": "恶化规程",
   "Event": "事件",
   "Event.FestivalOfTheLost.Description": "Laugh in the face of death, collect candies, wear masks, and fight back against the encroaching darkness.\n\nEva Levante has returned as the herald of the Festival of the Lost. This holiday is a time for Guardians to indulge their sweet tooth, don irreverent masks, and celebrate the memories of those we have lost.\n\nThe Haunted Forest is open once again, and this time, The Spider wants to bargain for your cooperation.",
@@ -421,8 +420,6 @@
   "Record": "成就",
   "Records": "成就",
   "RefreshService.Inactive.Description": "由于用户不活动，Braytech 已停止刷新玩家数据。",
-  "Reload": "重载",
-  "Reload the app": "重载应用",
   "Remove group": "删除分组",
   "Report player": "玩家报告",
   "Reports.Modes.Core": "核心模式",
@@ -792,5 +789,6 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} 名玩家",
   "{{players}} players have collected this.": "{{players}} 名玩家已经收集。",
-  "{{players}} players have redeemed this.": "{{players}} 名玩家已兑换。"
+  "{{players}} players have redeemed this.": "{{players}} 名玩家已兑换。",
+  "Common.ReloadApp": "重载应用"
 }
