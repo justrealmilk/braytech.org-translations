@@ -1,5 +1,6 @@
 {
   "Accept": "接受",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "活動事件",
   "Activities": "活動",
   "Activities including": "參與活動",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "激活的特效",
+  "Common.AscendantChallenge": "上維挑戰",
   "Common.Challenge": "挑戰",
   "Common.Checklists": "清單",
   "Common.ClanMembers": "🦘 Clan Members",
@@ -248,7 +250,6 @@
   "Gly": "榮耀分",
   "Go to Bungie.net": "轉到 Bungie.net",
   "Go to Twitter": "轉到 Twitter",
-  "Go to maps": "🦘 Go to maps",
   "Greater": "詛咒最强",
   "Heroic collectibles": "英雄收集品",
   "Hide acquired": "隱藏已獲取",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} players",
   "{{players}} players have collected this.": "{{players}} 名玩家已经收集。",
-  "{{players}} players have redeemed this.": "{{players}}名玩家已兑换。",
-  "Common.AscendantChallenge": "上維挑戰"
+  "{{players}} players have redeemed this.": "{{players}}名玩家已兑换。"
 }

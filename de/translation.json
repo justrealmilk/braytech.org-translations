@@ -1,5 +1,6 @@
 {
   "Accept": "Akzeptieren",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "Aktives Event",
   "Activities": "Aktivitäten",
   "Activities including": "In folgenden Aktivitäten: ",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Einige erworben, {{invisible}} unsichtbar.",
   "Common.Activate": "Aktivieren",
   "Common.ActiveModifiers": "Aktive Modifikatoren",
+  "Common.AscendantChallenge": "Aszendenten-Herausforderung",
   "Common.Challenge": "Herausforderung",
   "Common.Checklists": "Checklisten",
   "Common.ClanMembers": "Clan-Mitglieder",
@@ -248,7 +250,6 @@
   "Gly": "Glyphe",
   "Go to Bungie.net": "Gehe zu Bungie.net",
   "Go to Twitter": "Gehe zu Twitter",
-  "Go to maps": "Gehe zu Karten",
   "Greater": "Stark",
   "Heroic collectibles": "Heroische Sammlerstücke",
   "Hide acquired": "Erworbene Beiträge ausblenden",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} Online",
   "{{players}} players": "{{players}} Spieler",
   "{{players}} players have collected this.": "{{players}} haben dieses Item gefunden.",
-  "{{players}} players have redeemed this.": "{{players}} haben diesen Triumph errungen.",
-  "Common.AscendantChallenge": "Aszendenten-Herausforderung"
+  "{{players}} players have redeemed this.": "{{players}} haben diesen Triumph errungen."
 }

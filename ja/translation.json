@@ -1,5 +1,6 @@
 {
   "Accept": "Accept",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "Active event",
   "Activities": "アクティビティ",
   "Activities including": "バンガードの作戦とは：",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "作戦条件",
+  "Common.AscendantChallenge": "アセンダントの挑戦",
   "Common.Challenge": "チャレンジ",
   "Common.Checklists": "チェックリスト",
   "Common.ClanMembers": "🦘 Clan Members",
@@ -248,7 +250,6 @@
   "Gly": "栄光",
   "Go to Bungie.net": "Bungie.netに行く",
   "Go to Twitter": "Go to Twitter",
-  "Go to maps": "🦘 Go to maps",
   "Greater": "重度",
   "Heroic collectibles": "英雄収集物",
   "Hide acquired": "回収済みを非表示",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} players",
   "{{players}} players have collected this.": "{{players}} players have collected this.",
-  "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
-  "Common.AscendantChallenge": "アセンダントの挑戦"
+  "{{players}} players have redeemed this.": "{{players}} players have redeemed this."
 }

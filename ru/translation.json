@@ -1,5 +1,6 @@
 {
   "Accept": "Принять",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "Активное мероприятие",
   "Activities": "Задания",
   "Activities including": "Задания включают",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "Активные модификаторы",
+  "Common.AscendantChallenge": "Высшее испытание",
   "Common.Challenge": "Испытание",
   "Common.Checklists": "Списки объектов",
   "Common.ClanMembers": "Клан",
@@ -248,7 +250,6 @@
   "Gly": "Слв",
   "Go to Bungie.net": "Перейти на Bungie.net",
   "Go to Twitter": "Перейти в Твиттер",
-  "Go to maps": "Перейти к картам",
   "Greater": "На пике",
   "Heroic collectibles": "Героические предметы",
   "Hide acquired": "Скрыть полученные",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} онлайн",
   "{{players}} players": "{{players}} игроки",
   "{{players}} players have collected this.": "Получено {{players}} игроками.",
-  "{{players}} players have redeemed this.": "Получено {{players}} игроками.",
-  "Common.AscendantChallenge": "Высшее испытание"
+  "{{players}} players have redeemed this.": "Получено {{players}} игроками."
 }

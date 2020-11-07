@@ -1,5 +1,6 @@
 {
   "Accept": "Accetta",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "Evento Attivo",
   "Activities": "Attività",
   "Activities including": "Attività tra le quali",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
   "Common.Activate": "Attiva",
   "Common.ActiveModifiers": "Modificatori attivi",
+  "Common.AscendantChallenge": "Sfida Ascendente",
   "Common.Challenge": "Sfida",
   "Common.Checklists": "Lista Collezionabili",
   "Common.ClanMembers": "Membri clan",
@@ -248,7 +250,6 @@
   "Gly": "Glr",
   "Go to Bungie.net": "Vai su Bungie.net",
   "Go to Twitter": "Vai su Twitter",
-  "Go to maps": "Vai su Mappe",
   "Greater": "Massima",
   "Heroic collectibles": "Collezionabili eroici",
   "Hide acquired": "Nascondi acquisiti",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} giocatori",
   "{{players}} players have collected this.": "{{players}} giocatori l'hanno collezionato.",
-  "{{players}} players have redeemed this.": "{{players}} giocatori l'hanno riscattato.",
-  "Common.AscendantChallenge": "Sfida Ascendente"
+  "{{players}} players have redeemed this.": "{{players}} giocatori l'hanno riscattato."
 }

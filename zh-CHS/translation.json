@@ -1,5 +1,6 @@
 {
   "Accept": "接受",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "活动事件",
   "Activities": "活动",
   "Activities including": "活动包括",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "激活的修改器",
+  "Common.AscendantChallenge": "上维挑战",
   "Common.Challenge": "挑战",
   "Common.Checklists": "清单",
   "Common.ClanMembers": "公会成员",
@@ -248,7 +250,6 @@
   "Gly": "荣耀分",
   "Go to Bungie.net": "转到 Bungie.net",
   "Go to Twitter": "转到 Twitter",
-  "Go to maps": "转到地图",
   "Greater": "诅咒最强",
   "Heroic collectibles": "英雄收藏品",
   "Hide acquired": "隐藏已获取",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} 名玩家",
   "{{players}} players have collected this.": "{{players}} 名玩家已经收集。",
-  "{{players}} players have redeemed this.": "{{players}} 名玩家已兑换。",
-  "Common.AscendantChallenge": "上维挑战"
+  "{{players}} players have redeemed this.": "{{players}} 名玩家已兑换。"
 }

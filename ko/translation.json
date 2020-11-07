@@ -1,5 +1,6 @@
 {
   "Accept": "승인",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "활성화된 이벤트",
   "Activities": "활동",
   "Activities including": "다음을 포함한 활동: ",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
   "Common.Activate": "활성화",
   "Common.ActiveModifiers": "활성화된 조정 옵션",
+  "Common.AscendantChallenge": "승천 도전",
   "Common.Challenge": "도전",
   "Common.Checklists": "체크리스트",
   "Common.ClanMembers": "클랜원",
@@ -248,7 +250,6 @@
   "Gly": "영광",
   "Go to Bungie.net": "Bungie.net 방문",
   "Go to Twitter": "트위터 방문",
-  "Go to maps": "지도에서 보기",
   "Greater": "가장 강력함",
   "Heroic collectibles": "영웅 수집품",
   "Hide acquired": "획득한 항목 숨기기",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} 온라인",
   "{{players}} players": "{{players}}명",
   "{{players}} players have collected this.": "{{players}}명의 유저가 이것을 수집했습니다.",
-  "{{players}} players have redeemed this.": "{{players}}명의 유저가 이것을 획득했습니다.",
-  "Common.AscendantChallenge": "승천 도전"
+  "{{players}} players have redeemed this.": "{{players}}명의 유저가 이것을 획득했습니다."
 }

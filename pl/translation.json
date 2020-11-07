@@ -1,5 +1,6 @@
 {
   "Accept": "Akceptuj",
+  "Action.GoToMaps": "🦘 undefined",
   "Active event": "Aktywne wydarzenie",
   "Activities": "Aktywności",
   "Activities including": "Aktywności zawierają",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Niektóre nabyte, {{invisible}} niewidzialne",
   "Common.Activate": "Aktywuj",
   "Common.ActiveModifiers": "Aktywne modyfikatory",
+  "Common.AscendantChallenge": "Ascendant Challenge",
   "Common.Challenge": "Wyzwanie",
   "Common.Checklists": "Znajdźki",
   "Common.ClanMembers": "Członkowie Klanu",
@@ -248,7 +250,6 @@
   "Gly": "Słw.",
   "Go to Bungie.net": "Idź do Bungie.net",
   "Go to Twitter": "Wpadnij na Twittera",
-  "Go to maps": "Przejdź do mapy",
   "Greater": "Więcej",
   "Heroic collectibles": "Heroiczne znajdźki",
   "Hide acquired": "Ukryj zebrane",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} graczy",
   "{{players}} players have collected this.": "{{players}} graczy zdobyło",
-  "{{players}} players have redeemed this.": "{{players}} graczy wykupiło",
-  "Common.AscendantChallenge": "Ascendant Challenge"
+  "{{players}} players have redeemed this.": "{{players}} graczy wykupiło"
 }

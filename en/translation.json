@@ -1,5 +1,6 @@
 {
   "Accept": "Accept",
+  "Action.GoToMaps": "Go to Maps",
   "Active event": "Active event",
   "Activities": "Activities",
   "Activities including": "Activities including",
@@ -156,6 +157,7 @@
   "Collections.SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
   "Common.Activate": "Activate",
   "Common.ActiveModifiers": "Active Modifiers",
+  "Common.AscendantChallenge": "Ascendant Challenge",
   "Common.Challenge": "Challenge",
   "Common.Checklists": "Checklists",
   "Common.ClanMembers": "Clan Members",
@@ -248,7 +250,6 @@
   "Gly": "Gly",
   "Go to Bungie.net": "Go to Bungie.net",
   "Go to Twitter": "Go to Twitter",
-  "Go to maps": "Go to maps",
   "Greater": "Greater",
   "Heroic collectibles": "Heroic collectibles",
   "Hide acquired": "Hide acquired",
@@ -789,6 +790,5 @@
   "{{online}} online": "{{online}} online",
   "{{players}} players": "{{players}} players",
   "{{players}} players have collected this.": "{{players}} players have collected this.",
-  "{{players}} players have redeemed this.": "{{players}} players have redeemed this.",
-  "Common.AscendantChallenge": "Ascendant Challenge"
+  "{{players}} players have redeemed this.": "{{players}} players have redeemed this."
 }
