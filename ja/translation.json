@@ -166,6 +166,8 @@
   "Collections.Badges.Progress": "記章の進捗",
   "Collections.Collectible.Commonality": "The collectible's rarity represented as a percentage of players who are indexed by VOLUSPA who've collected it.",
   "Collections.SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
+  "Common.Acknowledgements": "🦘 Acknowledgements",
+  "Common.AcknowledgementsInfo": "🦘 Some of this content is generously provided by third parties. Please think of them and the effort invested when consuming their works.",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "作戦条件",
   "Common.AscendantChallenge": "アセンダントの挑戦",

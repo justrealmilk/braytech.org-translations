@@ -166,6 +166,8 @@
   "Collections.Badges.Progress": "Прогресс карточки",
   "Collections.Collectible.Commonality": "Редкость предмета представлена в проценте игроков заиндексированных VOLUSPA, которые получили этот предмет.",
   "Collections.SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
+  "Common.Acknowledgements": "🦘 Acknowledgements",
+  "Common.AcknowledgementsInfo": "🦘 Some of this content is generously provided by third parties. Please think of them and the effort invested when consuming their works.",
   "Common.Activate": "🦘 Activate",
   "Common.ActiveModifiers": "Активные модификаторы",
   "Common.AscendantChallenge": "Высшее испытание",
