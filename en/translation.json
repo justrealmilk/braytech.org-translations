@@ -18,6 +18,8 @@
   "App.BungieError": "Bungie Error",
   "App.ErrorBoundary.Discord": "Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.braytech.org) for further assistance.",
   "App.ErrorBoundary.Version": "Please quote the following string when reporting this error.",
+  "App.NetworkError.Description": "A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
+  "App.NetworkError.Name": "Network Error",
   "App.ServiceWorkerUpdate.Description": "A fresh update for Braytech is available. Please select reload to use a better version of this app.\n\nCheck the change log on the index view for details on what's new.",
   "App.ServiceWorkerUpdate.Name": "Update Available",
   "App.UnknownError": "Unknown Error",
