@@ -763,7 +763,7 @@
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} players have collected this.",
   "Voluspa.Indexed": "{{number}} players are currently indexed by Voluspa.",
-  "Voluspa.LastIndexed": "{{time}} last indexed",
+  "Voluspa.LastIndexed": "Last indexed {{time}}",
   "Voluspa.RedeemedBy": "{{number}} players have redeemed this.",
   "Waiting for Bungie": "Waiting for Bungie",
   "Weapon stats": "Weapon stats",
