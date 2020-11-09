@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "Le groupe d'en-tête ne prend pas en charge plus d'un module par colonne.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Ce module n'est pas autorisé ici.",
   "CustomisableLayout.Error.RenderModule": "Une erreur est survenue lors du rendu du module : {{moduleName}}",
-  "CustomisableLayout.Group.Add": "Ajouter un module",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Modifier",

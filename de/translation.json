@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "Die Header-Gruppe unterstützt nicht mehr als ein Modul pro Spalte.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Dieses Modul ist hier nicht erlaubt.",
   "CustomisableLayout.Error.RenderModule": "Beim Versuch das Modul: {{moduleName}} zu rendern, ist ein Fehler aufgetreten.",
-  "CustomisableLayout.Group.Add": "Modul hinzufügen",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Anpassen",

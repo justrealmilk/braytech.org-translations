@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "Главная группа не поддерживает более одного модуля в столбец.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Этот модуль здесь не разрешен",
   "CustomisableLayout.Error.RenderModule": "Произошла ошибка при попытке создать модуль: {{moduleName}}",
-  "CustomisableLayout.Group.Add": "Добавить модуль",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Настройка",

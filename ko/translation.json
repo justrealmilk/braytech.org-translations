@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "헤더 그룹은 열당 하나의 모듈만 지원합니다.",
   "CustomisableLayout.Error.ModuleNotAllowed": "이 모듈은 여기엔 안되요.",
   "CustomisableLayout.Error.RenderModule": "모듈 {{muduleName}} 을 출력하는 도중 오류가 발생했습니다:",
-  "CustomisableLayout.Group.Add": "모듈 추가",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "커스텀 설정",

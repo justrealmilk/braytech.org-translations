@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "Grupa nagłówka obsługuje nie więcej niż jeden moduł na kolumnę.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Ten moduł nie jest tutaj dozwolony",
   "CustomisableLayout.Error.RenderModule": "Błąd podczas próby renderowania modułu: {{moduleName}}",
-  "CustomisableLayout.Group.Add": "Dodaj moduł",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Dostosuj",

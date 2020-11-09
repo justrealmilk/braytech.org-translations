@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "El grupo del encabezado no soporta más de un módulo por columna.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Ese módulo no está permitido aquí.",
   "CustomisableLayout.Error.RenderModule": "Se ha producido un error al intentar renderizar el módulo: {{moduleName}}. Esto es probablemente un error temporal. Si deseas cambiar los módulos, selecciona _Personalizar_ en la barra de acciones de abajo.",
-  "CustomisableLayout.Group.Add": "Añadir un módulo",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Personalizar",

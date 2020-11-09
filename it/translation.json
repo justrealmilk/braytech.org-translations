@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "Il primo gruppo non supporta più di un modulo per colonna.",
   "CustomisableLayout.Error.ModuleNotAllowed": "Quel modulo non è permesso qua.",
   "CustomisableLayout.Error.RenderModule": "Errore nel caricamento del seguente modulo: {{moduleName}}. Probabilmente questo è un errore temporaneo. Se vuoi cambiare moduli seleziona _Personalizza_ nella barra inferiore.",
-  "CustomisableLayout.Group.Add": "Aggiungi modulo",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "Rimuovi gruppo",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "Personalizza",

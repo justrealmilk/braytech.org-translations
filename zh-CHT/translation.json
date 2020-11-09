@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "標題組每列只支持不超過一個模塊",
   "CustomisableLayout.Error.ModuleNotAllowed": "這個模塊是不允許的",
   "CustomisableLayout.Error.RenderModule": "嘗試渲染下列模塊時發生錯誤：{{moduleName}}",
-  "CustomisableLayout.Group.Add": "添加模塊",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "自定义",

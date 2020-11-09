@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "ヘッダーグループは列ごとに1つのモジュールしかサポートしません。",
   "CustomisableLayout.Error.ModuleNotAllowed": "このモジュールはここには置けません。",
   "CustomisableLayout.Error.RenderModule": "モジュールのレンダリング中にエラーが発生しました：{{moduleName}}",
-  "CustomisableLayout.Group.Add": "モジュールを追加",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "カスタマイズ",

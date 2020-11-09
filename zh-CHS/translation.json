@@ -240,7 +240,7 @@
   "CustomisableLayout.Error.HeaderSingleModule": "顶部每列不得超过一个模块",
   "CustomisableLayout.Error.ModuleNotAllowed": "此处不允许使用模块",
   "CustomisableLayout.Error.RenderModule": "尝试渲染下列模块时发生错误：{{moduleName}}",
-  "CustomisableLayout.Group.Add": "添加模块",
+  "CustomisableLayout.Group.Add": "🦘 Add Group",
   "CustomisableLayout.Group.Remove": "🦘 Remove Group",
   "CustomisableLayout.Module.Add": "🦘 Add Module",
   "Customise": "自定义",
