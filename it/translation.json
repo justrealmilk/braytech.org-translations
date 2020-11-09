@@ -18,6 +18,8 @@
   "App.BungieError": "Errore da parte di Bungie",
   "App.ErrorBoundary.Discord": "Braytech ha incontrato un errore fatale. Se una delle azioni disponibili non risolve il problema, per favore unisciti al [Discord](https://discord.braytech.org) per ulteriore assistenza (inglese).",
   "App.ErrorBoundary.Version": "Per favore fai riferimento alla seguente stringa quando segnali questo errore.",
+  "App.NetworkError.Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
+  "App.NetworkError.Name": "🦘 Network Error",
   "App.ServiceWorkerUpdate.Description": "È disponibile un nuovo aggiornamento per Braytech. Per favore ricarica per utilizzare la versione migliore.\n\nControlla il changelog nella pagina principale per vedere dettagli sulle novità.",
   "App.ServiceWorkerUpdate.Name": "Aggiornamento disponibile",
   "App.UnknownError": "Errore sconosciuto",
