@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Abrir página de detalhes",
   "Triumphs.Record.Commonality.Description": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "A raridade do selo é representada como uma porcentagem dos jogadores que são classificados por Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Raridade do selo",
   "Triumphs.Seals.SealCompleted": "Selo completo",

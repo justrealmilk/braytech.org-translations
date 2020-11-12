@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Detailansicht öffnen",
   "Triumphs.Record.Commonality.Description": "Pronzent der Spieler, die Voluspa indiziert sind und diesen Eintrag freigeschaltet haben.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "Die Seltenheit des Siegels ist der Anteil aller Spieler, die dieses Item gefunden haben und Voluspa indiziert sind.",
   "Triumphs.Seals.Commonality.Name": "Siegel Häufigkeit",
   "Triumphs.Seals.SealCompleted": "Siegel abgeschlossen",

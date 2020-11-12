@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Ouvrir la vue des détails",
   "Triumphs.Record.Commonality.Description": "Pourcentage de joueurs indexés par Voluspa qui ont validé cette entrée.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "La rareté est représentée par le pourcentage de joueurs indexés par Voluspa ayant obtenu ce sceau.",
   "Triumphs.Seals.Commonality.Name": "Rareté du sceau",
   "Triumphs.Seals.SealCompleted": "Sceau complété",

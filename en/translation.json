@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Open Details View",
   "Triumphs.Record.Commonality.Description": "Percentage of players who are indexed by Voluspa who've redeemed this record.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "Seals",
+  "Triumphs.Seal_plural": "Seals",
   "Triumphs.Seals.Commonality.Description": "Percentage of players who are indexed by Voluspa who've acquired this title.",
   "Triumphs.Seals.Commonality.Name": "Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Seal Completed",

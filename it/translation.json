@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Vedi dettagli",
   "Triumphs.Record.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno riscattato questo trionfo.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito questo titolo.",
   "Triumphs.Seals.Commonality.Name": "Rarità sigillo",
   "Triumphs.Seals.SealCompleted": "Sigillo completato",

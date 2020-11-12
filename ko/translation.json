@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "세부 정보",
   "Triumphs.Record.Commonality.Description": "업적의 희소성은 Voluspa에서 확인되는 플레이어의 백분율로 나타납니다.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "인장의 희소성은 Voluspa에서 확인되는 플레이어의 백분율로 나타납니다.",
   "Triumphs.Seals.Commonality.Name": "인장 희소성",
   "Triumphs.Seals.SealCompleted": "완료한 인장",

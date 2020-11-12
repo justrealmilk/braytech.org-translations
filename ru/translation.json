@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "Показать детали",
   "Triumphs.Record.Commonality.Description": "Редкость триумфа отображает процент игроков индексированных Voluspa.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "Редкость печати отображает процент игроков индексируемых Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Редкость печати",
   "Triumphs.Seals.SealCompleted": "Печать получена",

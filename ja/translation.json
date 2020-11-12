@@ -542,7 +542,7 @@
   "Triumphs.Details.OpenView": "🦘 Open details view",
   "Triumphs.Record.Commonality.Description": "🦘 Percentage of players who are indexed by Voluspa who've redeemed this record.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Seals": "🦘 Seals",
+  "Triumphs.Seal_plural": "🦘",
   "Triumphs.Seals.Commonality.Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
   "Triumphs.Seals.Commonality.Name": "印のレアリティ",
   "Triumphs.Seals.SealCompleted": "終了した印",
