@@ -538,6 +538,7 @@
   "Triumphs.Details.NoClanOrFireteam": "Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
   "Triumphs.Details.NotCompleted": "Not Completed",
   "Triumphs.Details.OpenView": "Open Details View",
+  "Triumphs.LegacySeal_plural": "Legacy Seals",
   "Triumphs.LegacyTriumph_plural": "Legacy Triumphs",
   "Triumphs.Record.Commonality.Description": "Percentage of players who are indexed by Voluspa who've redeemed this record.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} of {{denominator}}",
