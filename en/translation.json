@@ -569,7 +569,7 @@
   "UserModules.Challenges.Bounties": "Bounties",
   "UserModules.Challenges.Seasonal": "Seasonal",
   "UserModules.Challenges.Strikes": "Strikes",
-  "UserModules.Challenges.CrucibleGambit": "Crucible and Gambit",
+  "UserModules.Challenges.Activities": "Activities",
   "UserModules.Challenges.RewardsRemaining": "{{rewardsRemaining}} rewards remaining",
   "UserModules.Challenges.ShowAllRewards": "Any Rewards",
   "UserModules.Challenges.ShowPinnacleRewards": "Pinnacle Rewards Only",
