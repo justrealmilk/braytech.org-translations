@@ -451,7 +451,7 @@
   "Settings.LocalData.ResetTrackedTriumphs.Name": "Сбросить отслеживаемые триумфы",
   "Settings.Maps.Checklists.Info": "Настраивайте отображение объектов на карте. Держите карту в чистоте.",
   "Settings.Maps.Developer.Info": "Инструменты для помощи разработчикам при работе с _Картами_",
-  "Settings.SubCategory.Authentication": "Аутентификация",
+  "Settings.SubCategory.Authentication": "Авторизация",
   "Settings.SubCategory.Developer": "Для разработчиков",
   "Settings.SubCategory.ItemVisibility": "Настройка отображения",
   "Settings.SubCategory.Language": "Язык",
