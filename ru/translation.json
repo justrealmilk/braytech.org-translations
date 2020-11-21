@@ -510,7 +510,7 @@
   "Tooltip.Activity.RecommendedLight": "Рекомендуемая сила",
   "Tooltip.Activity.SinglePlayer": "Для одного игрока",
   "Tooltip.Activity.Team.Opposition": "Команда противника",
-  "Tooltip.Activity.Tean.Allies": "Их команда 🦘",
+  "Tooltip.Activity.Tean.Allies": "Их команда",
   "Tooltip.Highlight.DreambaneArmorMods": "Используйте модификаторы брони Погибели Снов, чтобы повысить уровень своей силы в ходе выполнения этого задания.",
   "Tooltip.Item.ExpiresIn": "Истекает через {{duration}}.",
   "Tooltip.Item.Quantity": "Количество",
