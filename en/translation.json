@@ -87,6 +87,7 @@
   "Checklists.LostSectors.ProgressDescription_plural": "Discovered",
   "Checklists.LostSectors.ProgressDescription_singular": "Discovered",
   "Checklists.LunasLost.ProgressDescription": "Ghost fragments recovered",
+  "Checklists.RegardingStasis.ProgressDescription": "Entropic shards destroyed",
   "Checklists.RegionChests.ItemName": "Region Chest",
   "Checklists.RegionChests.ItemName_plural": "Region Chests",
   "Checklists.RegionChests.ProgressDescription": "Chests opened",
