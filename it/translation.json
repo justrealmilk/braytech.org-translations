@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Accetta",
   "Action.AllClasses": "Tutte le classi",
-  "Action.AllPages": "Tutte le pagine",
   "Action.Back": "Indietro",
   "Action.BecomeAPatron": "Diventa un Patron",
   "Action.Cancel": "Annulla",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Sigilli storici",
   "Triumphs.LegacyTriumph_plural": "Trionfi storici",
   "Triumphs.LegacyTriumphs.Description": "Trionfi del passato, questi trionfi non sono più ottenibili ma sono preservati qui per posterità e revisione.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno riscattato questo trionfo.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} di {{denominator}}",
   "Triumphs.Seal_plural": "Sigilli",

@@ -1,7 +1,6 @@
 {
   "Action.Accept": "🦘 Accept",
   "Action.AllClasses": "🦘 All Classes",
-  "Action.AllPages": "🦘 All Pages",
   "Action.Back": "戻る",
   "Action.BecomeAPatron": "Patronになる",
   "Action.Cancel": "🦘 Cancel",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "🦘 Legacy Seals",
   "Triumphs.LegacyTriumph_plural": "🦘 Legacy Triumphs",
   "Triumphs.LegacyTriumphs.Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "🦘 Percentage of players who are indexed by Voluspa who've redeemed this record.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
   "Triumphs.Seal_plural": "🦘 Seals",

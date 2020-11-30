@@ -1,7 +1,6 @@
 {
   "Action.Accept": "🦘 Accept",
   "Action.AllClasses": "🦘 All Classes",
-  "Action.AllPages": "🦘 All Pages",
   "Action.Back": "返回",
   "Action.BecomeAPatron": "成为众筹用户",
   "Action.Cancel": "取消",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "传承印章",
   "Triumphs.LegacyTriumph_plural": "传承成就",
   "Triumphs.LegacyTriumphs.Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "🦘 Percentage of players who are indexed by Voluspa who've redeemed this record.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
   "Triumphs.Seal_plural": "印章",

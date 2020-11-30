@@ -1,7 +1,6 @@
 {
   "Action.Accept": "🦘 Accept",
   "Action.AllClasses": "🦘 All Classes",
-  "Action.AllPages": "🦘 All Pages",
   "Action.Back": "뒤로",
   "Action.BecomeAPatron": "Patron이 되세요",
   "Action.Cancel": "🦘 Cancel",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "🦘 Legacy Seals",
   "Triumphs.LegacyTriumph_plural": "🦘 Legacy Triumphs",
   "Triumphs.LegacyTriumphs.Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "업적의 희소성은 Voluspa에서 확인되는 플레이어의 백분율로 나타납니다.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
   "Triumphs.Seal_plural": "🦘 Seals",

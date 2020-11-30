@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Bestätigen",
   "Action.AllClasses": "Alle Klassen",
-  "Action.AllPages": "Alle Seiten",
   "Action.Back": "Zurück",
   "Action.BecomeAPatron": "Werde ein Patron",
   "Action.Cancel": "Abbrechen",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Abgelaufene Siegel",
   "Triumphs.LegacyTriumph_plural": "Abgelaufene Triumphe",
   "Triumphs.LegacyTriumphs.Description": "Triumphe aus der Vergangenheit, diese Aufzeichnungen sind nicht mehr erhältlich, sondern werden hier für die Nachwelt und zur Überprüfung aufbewahrt.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} von {{denominator}}",
   "Triumphs.Seal_plural": "Siegel",

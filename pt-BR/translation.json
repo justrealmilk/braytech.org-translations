@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Aceitar",
   "Action.AllClasses": "Todas as Classes",
-  "Action.AllPages": "Todas as Páginas",
   "Action.Back": "Voltar",
   "Action.BecomeAPatron": "Torne-se um Patron",
   "Action.Cancel": "Cancelar",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Selos Clássicos",
   "Triumphs.LegacyTriumph_plural": "Triunfos Clássicos",
   "Triumphs.LegacyTriumphs.Description": "Triunfos do passado, estes registros não são mais obtíveis, mas estão aqui preservados para revisão futura.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
   "Triumphs.Seal_plural": "Selos",

@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Zaakceptuj",
   "Action.AllClasses": "Wszystkie Klasy",
-  "Action.AllPages": "Wszystkie strony",
   "Action.Back": "Wstecz",
   "Action.BecomeAPatron": "Zostań patronem",
   "Action.Cancel": "Anuluj",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Klasyczne Pieczęci",
   "Triumphs.LegacyTriumph_plural": "Klasyczne Triumfy",
   "Triumphs.LegacyTriumphs.Description": "Triumfy z przeszłości, te zapisy nie są już dostępne, ale są tutaj zachowane dla potomności i wglądu.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Procent graczy zindeksowanych przez Voluspa, którzy wykorzystali ten rekord.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} z {{denominator}}",
   "Triumphs.Seal_plural": "Pieczęci",

@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Принять",
   "Action.AllClasses": "Все классы",
-  "Action.AllPages": "Все страницы",
   "Action.Back": "Назад",
   "Action.BecomeAPatron": "Стать Patron",
   "Action.Cancel": "Отмена",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Прошлые печати",
   "Triumphs.LegacyTriumph_plural": "Прошлые триумфы",
   "Triumphs.LegacyTriumphs.Description": "Триумфы прошлого, эти триумфы больше не получить, но они сохранены для просмотра и грядущих поколений.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Редкость триумфа отображает процент игроков индексированных Voluspa.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} из {{denominator}}",
   "Triumphs.Seal_plural": "Печати",

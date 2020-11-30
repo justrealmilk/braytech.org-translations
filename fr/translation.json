@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Accepter",
   "Action.AllClasses": "Toute les Classes",
-  "Action.AllPages": "Toute les Pages",
   "Action.Back": "Retour",
   "Action.BecomeAPatron": "Devenez un Patron !",
   "Action.Cancel": "Annuler",
@@ -542,6 +541,7 @@
   "Triumphs.LegacySeal_plural": "Sceaux du passé",
   "Triumphs.LegacyTriumph_plural": "Triomphe du passé",
   "Triumphs.LegacyTriumphs.Description": "Triomphes du passé, ces documents ne sont plus disponibles mais sont conservés ici pour la postérité.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Pourcentage de joueurs indexés par Voluspa qui ont validé cette entrée.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} par {{denominator}}",
   "Triumphs.Seal_plural": "Sceaux",
