@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Aceptar",
   "Action.AllClasses": "Todas las clases",
-  "Action.AllPages": "Todas las páginas",
   "Action.Back": "Atrás",
   "Action.BecomeAPatron": "Conviértete en Patron",
   "Action.Cancel": "Cancelar",
@@ -179,6 +178,7 @@
   "Common.Completed": "Completado",
   "Common.Crucible": "Crisol",
   "Common.Dungeon_plural": "Mazmorras",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Error",
   "Common.Event": "Evento",
   "Common.Exit": "Salir",
@@ -542,6 +542,7 @@
   "Triumphs.LegacySeal_plural": "Sellos de legado",
   "Triumphs.LegacyTriumph_plural": "Triunfos de legado",
   "Triumphs.LegacyTriumphs.Description": "Triunfos del pasado que ya no se pueden obtener, pero están conservados aquí para la posteridad y puedan ser revisados.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Porcentaje de jugadores indexados por Voluspa que han canjeado este triunfo.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
   "Triumphs.Seal_plural": "Sellos",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "La Ciudad Ensoñada: maldición de Savathûn",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Atraviesa el reino donde comenzó la maldición, y derriba a sus miserables magas.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "La Ciudad Ensoñada: El trono destrozado",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Rastrea a tu escuadra",
   "UserModules.Customise.Fireteam.Name": "Escuadra",
   "UserModules.Customise.Flashpoint.Description": "Completa varias actividades alrededor del Punto crítico actual, incluyendo eventos públicos, Sectores perdidos y operaciones heroicas.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Su voluntad no es la suya. Sé testigo de su comportamiento instruido",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} jugadores han conseguido esto.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} jugadores están indexados por Voluspa.",
-  "Voluspa.LastIndexed": "indexado por última vez {{time}}",
-  "Voluspa.RedeemedBy": "{{number}} jugadores han canjeado esto."
+  "Voluspa.LastIndexed": "indexado por última vez {{time}}"
 }

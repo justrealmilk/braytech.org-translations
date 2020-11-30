@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Accetta",
   "Action.AllClasses": "Tutte le classi",
-  "Action.AllPages": "Tutte le pagine",
   "Action.Back": "Indietro",
   "Action.BecomeAPatron": "Diventa un Patron",
   "Action.Cancel": "Annulla",
@@ -179,6 +178,7 @@
   "Common.Completed": "Completato",
   "Common.Crucible": "Crogiolo",
   "Common.Dungeon_plural": "Segrete",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Errore",
   "Common.Event": "Evento",
   "Common.Exit": "Esci",
@@ -542,6 +542,7 @@
   "Triumphs.LegacySeal_plural": "Sigilli storici",
   "Triumphs.LegacyTriumph_plural": "Trionfi storici",
   "Triumphs.LegacyTriumphs.Description": "Trionfi del passato, questi trionfi non sono più ottenibili ma sono preservati qui per posterità e revisione.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno riscattato questo trionfo.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} di {{denominator}}",
   "Triumphs.Seal_plural": "Sigilli",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "La Città Sognante: Maledizione di Savathûn",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Attraversa il regno dove è iniziata la maledizione e abbatti i loro nefasti stregoni.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "La Città Sognante: Il Trono Infranto",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Traccia la tua squadra",
   "UserModules.Customise.Fireteam.Name": "Squadra",
   "UserModules.Customise.Flashpoint.Description": "Completa varie attività nella destinazione del focolaio, inclusi gli eventi pubblici, i settori perduti e le avventure eroiche.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "La sua volontà non gli appartiene. Testimonia il suo comportamento istruito.",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} giocatori l'hanno collezionato.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} giocatori indicizzati da Voluspa.",
-  "Voluspa.LastIndexed": "Ultima indicizzazione: {{time}}",
-  "Voluspa.RedeemedBy": "{{number}} giocatori l'hanno riscattato."
+  "Voluspa.LastIndexed": "Ultima indicizzazione: {{time}}"
 }

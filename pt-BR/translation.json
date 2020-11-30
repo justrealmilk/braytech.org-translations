@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Aceitar",
   "Action.AllClasses": "Todas as Classes",
-  "Action.AllPages": "Todas as Páginas",
   "Action.Back": "Voltar",
   "Action.BecomeAPatron": "Torne-se um Patron",
   "Action.Cancel": "Cancelar",
@@ -179,6 +178,7 @@
   "Common.Completed": "Completado",
   "Common.Crucible": "Crisol",
   "Common.Dungeon_plural": "Masmorras",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Erro",
   "Common.Event": "Evento",
   "Common.Exit": "Sair",
@@ -542,6 +542,7 @@
   "Triumphs.LegacySeal_plural": "Selos Clássicos",
   "Triumphs.LegacyTriumph_plural": "Triunfos Clássicos",
   "Triumphs.LegacyTriumphs.Description": "Triunfos do passado, estes registros não são mais obtíveis, mas estão aqui preservados para revisão futura.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
   "Triumphs.Seal_plural": "Selos",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "A Cidade Onírica: Maldição de Savathûn",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Atravesse o reino onde a maldição começou e acabe com as suas miseráveis feiticeiras.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "A Cidade Onírica: Trono Estilhaçado",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Acompanhe seu esquadrão",
   "UserModules.Customise.Fireteam.Name": "Esquadrão",
   "UserModules.Customise.Flashpoint.Description": "Complete várias atividades no local da Blitz atual, como Eventos Públicos, Setores Perdidos e Aventuras Heróicas.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Sua vontade não é sua. Testemunhe seu comportamento instruído",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} jogadores coletaram isso.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} jogadores são indexados por Voluspa.",
-  "Voluspa.LastIndexed": "última indexação {{time}} ",
-  "Voluspa.RedeemedBy": "{{number}} jogadores resgataram isso."
+  "Voluspa.LastIndexed": "última indexação {{time}} "
 }

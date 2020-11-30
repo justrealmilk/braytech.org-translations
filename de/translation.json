@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Bestätigen",
   "Action.AllClasses": "Alle Klassen",
-  "Action.AllPages": "Alle Seiten",
   "Action.Back": "Zurück",
   "Action.BecomeAPatron": "Werde ein Patron",
   "Action.Cancel": "Abbrechen",
@@ -179,6 +178,7 @@
   "Common.Completed": "Vollständig",
   "Common.Crucible": "Schmelztiegel",
   "Common.Dungeon_plural": "Dungeons",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Fehler",
   "Common.Event": "Event",
   "Common.Exit": "Beenden",
@@ -222,7 +222,7 @@
   "Common.Rewards": "Belohnungen",
   "Common.Savathûn'sCurse": "Savathûns Fluch",
   "Common.Score": "Ergebnis",
-  "Common.ScoreValue": "🦘 Score Value",
+  "Common.ScoreValue": "Triumphpunkte",
   "Common.Screenshot": "Screenshot",
   "Common.Search": "Suche",
   "Common.Season": "Saison {{number}}",
@@ -542,7 +542,8 @@
   "Triumphs.LegacySeal_plural": "Abgelaufene Siegel",
   "Triumphs.LegacyTriumph_plural": "Abgelaufene Triumphe",
   "Triumphs.LegacyTriumphs.Description": "Triumphe aus der Vergangenheit, diese Aufzeichnungen sind nicht mehr erhältlich, sondern werden hier für die Nachwelt und zur Überprüfung aufbewahrt.",
-  "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag freigeschaltet haben.",
+  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
+  "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} von {{denominator}}",
   "Triumphs.Seal_plural": "Siegel",
   "Triumphs.Seals.Commonality.Description": "Die Seltenheit des Siegels ist der Anteil aller Spieler, die dieses Item gefunden haben und Voluspa indiziert sind.",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "Die Träumende Stadt: Savathûn's Fluch",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Durchquere das Reich, in dem der Fluch begann, und schlag ihre elenden Zauberer nieder.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "Die Träumende Stadt: Der Zebrochene Thron",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Verfolge deinen Einsatztrupp",
   "UserModules.Customise.Fireteam.Name": "Einsatztrupp",
   "UserModules.Customise.Flashpoint.Description": "Schließe verschiedene Aktivitäten rund um den aktuellen Flashpoint ab, darunter öffentliche Veranstaltungen, verlorene Sektoren und heroische Abenteuer.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Sein Wille ist nicht sein Eigener. Erleben Sie sein angewiesenes Verhalten",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} Spieler haben dies erlangt.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} Spieler sind von Voluspa indiziert.",
-  "Voluspa.LastIndexed": "{{time}} zuletzt indiziert",
-  "Voluspa.RedeemedBy": "{{number}} Spieler haben dies erfüllt."
+  "Voluspa.LastIndexed": "{{time}} zuletzt indiziert"
 }

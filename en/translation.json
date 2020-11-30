@@ -1,7 +1,6 @@
 {
   "Action.Accept": "Accept",
   "Action.AllClasses": "All Classes",
-  "Action.AllPages": "All Pages",
   "Action.Back": "Back",
   "Action.BecomeAPatron": "Become a Patron",
   "Action.Cancel": "Cancel",
@@ -179,6 +178,7 @@
   "Common.Completed": "Completed",
   "Common.Crucible": "Crucible",
   "Common.Dungeon_plural": "Dungeons",
+  "Common.EmpireHunt": "Empire Hunt",
   "Common.Error": "Error",
   "Common.Event": "Event",
   "Common.Exit": "Exit",
@@ -542,6 +542,7 @@
   "Triumphs.LegacySeal_plural": "Legacy Seals",
   "Triumphs.LegacyTriumph_plural": "Legacy Triumphs",
   "Triumphs.LegacyTriumphs.Description": "Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review.",
+  "Triumphs.Lore.SelectEntry": "Select an entry to read.",
   "Triumphs.Record.Commonality.Description": "Percentage of players who are indexed by Voluspa who've completed this record.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} of {{denominator}}",
   "Triumphs.Seal_plural": "Seals",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "The Dreaming City: Savathûn's Curse",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Traverse the realm where the curse began, and strike down their wretched sorcerers.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "The Dreaming City: Shattered Throne",
+  "UserModules.Customise.EmpireHunts.Description": "Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Track your Fireteam",
   "UserModules.Customise.Fireteam.Name": "Fireteam",
   "UserModules.Customise.Flashpoint.Description": "Complete various activities around the current Flashpoint, including public events, Lost Sectors, and Heroic adventures.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "His will is not his own. Witness his predetermined behaviour",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} players have collected this.",
+  "Voluspa.CompletedBy": "{{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} players are currently indexed by Voluspa.",
-  "Voluspa.LastIndexed": "Last indexed {{time}}",
-  "Voluspa.RedeemedBy": "{{number}} players have redeemed this."
+  "Voluspa.LastIndexed": "Last indexed {{time}}"
 }
