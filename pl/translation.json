@@ -178,6 +178,7 @@
   "Common.Completed": "Ukończono",
   "Common.Crucible": "Tygiel",
   "Common.Dungeon_plural": "Lochy",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Błąd",
   "Common.Event": "Wydarzenie",
   "Common.Exit": "Wyjdź",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "Śniące Miasto: Klątwa Savathûn",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Przemierzaj krainę, w której zaczęła się klątwa, i powal ich nieszczęsnych czarowników.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "Śniące Miasto: Strzaskany Tron",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Śledź swoją drużynę ogniową",
   "UserModules.Customise.Fireteam.Name": "Drużyna Ogniowa",
   "UserModules.Customise.Flashpoint.Description": "Ukończ różne aktywności związane z aktualnym Punktem Zapalnym, w tym wydarzenia publiczne, utracone sektory i heroiczne przygody.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Jego wola nie jest jego  wolą. Doświadcz jego zaplanowanego działania.",
   "Views.Xûr.Name": "Xûr: Wysłannik Dziewiątki",
   "Voluspa.CollectedBy": "{{number}} graczy to zebrało.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} graczy zaindeksowanych przez Voluspa.",
-  "Voluspa.LastIndexed": "{{time}} ostatnio indeksowano",
-  "Voluspa.RedeemedBy": "{{number}}graczy to odebrało."
+  "Voluspa.LastIndexed": "{{time}} ostatnio indeksowano"
 }

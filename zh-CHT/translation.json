@@ -178,6 +178,7 @@
   "Common.Completed": "完整",
   "Common.Crucible": "熔爐競技場",
   "Common.Dungeon_plural": "地牢",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "錯誤",
   "Common.Event": "事件",
   "Common.Exit": "退出",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "🦘 The Dreaming City: Savathûn's Curse",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "🦘 Traverse the realm where the curse began, and strike down their wretched sorcerers.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "🦘 The Dreaming City: Shattered Throne",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "🦘 Track your Fireteam",
   "UserModules.Customise.Fireteam.Name": "🦘 Fireteam",
   "UserModules.Customise.Flashpoint.Description": "🦘 Complete various activities around the current Flashpoint, including public events, Lost Sectors, and Heroic adventures.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "🦘 His will is not his own. Witness his instructed behaviour",
   "Views.Xûr.Name": "🦘 Xûr",
   "Voluspa.CollectedBy": "🦘 {{number}} players have collected this.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "🦘 {{number}} players are indexed by Voluspa.",
-  "Voluspa.LastIndexed": "🦘 {{time}} last indexed",
-  "Voluspa.RedeemedBy": "🦘 {{number}} players have redeemed this."
+  "Voluspa.LastIndexed": "🦘 {{time}} last indexed"
 }

@@ -178,6 +178,7 @@
   "Common.Completed": "Complétés",
   "Common.Crucible": "Epreuve",
   "Common.Dungeon_plural": "Donjon",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Erreur",
   "Common.Event": "Evènement",
   "Common.Exit": "Fermer",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "La Cité des Rêves : Malédiction de Savathûn",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Traversez le royaume où la malédiction a commencé, et abattez leurs misérables sorciers.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "La Cité des Rêves : Le Trône brisé",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Suivez votre escouade",
   "UserModules.Customise.Fireteam.Name": "Escouade",
   "UserModules.Customise.Flashpoint.Description": "Réalisez diverses activités autour de la Poudrière actuelle, notamment des événements publics, des secteurs oubliés et des aventures épiques.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Sa volonté n'est pas la sienne. Témoignez de son comportement",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} joueurs possèdent cela.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} joueurs analysés par Voluspa.",
-  "Voluspa.LastIndexed": "{{time}} depuis la dernière analyse",
-  "Voluspa.RedeemedBy": "{{number}} joueurs ont rendu cela."
+  "Voluspa.LastIndexed": "{{time}} depuis la dernière analyse"
 }

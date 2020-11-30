@@ -178,6 +178,7 @@
   "Common.Completed": "Vollständig",
   "Common.Crucible": "Schmelztiegel",
   "Common.Dungeon_plural": "Dungeons",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "Fehler",
   "Common.Event": "Event",
   "Common.Exit": "Beenden",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "Die Träumende Stadt: Savathûn's Fluch",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "Durchquere das Reich, in dem der Fluch begann, und schlag ihre elenden Zauberer nieder.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "Die Träumende Stadt: Der Zebrochene Thron",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "Verfolge deinen Einsatztrupp",
   "UserModules.Customise.Fireteam.Name": "Einsatztrupp",
   "UserModules.Customise.Flashpoint.Description": "Schließe verschiedene Aktivitäten rund um den aktuellen Flashpoint ab, darunter öffentliche Veranstaltungen, verlorene Sektoren und heroische Abenteuer.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "Sein Wille ist nicht sein Eigener. Erleben Sie sein angewiesenes Verhalten",
   "Views.Xûr.Name": "Xûr",
   "Voluspa.CollectedBy": "{{number}} Spieler haben dies erlangt.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} Spieler sind von Voluspa indiziert.",
-  "Voluspa.LastIndexed": "{{time}} zuletzt indiziert",
-  "Voluspa.RedeemedBy": "{{number}} Spieler haben dies erfüllt."
+  "Voluspa.LastIndexed": "{{time}} zuletzt indiziert"
 }

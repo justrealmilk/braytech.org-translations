@@ -178,6 +178,7 @@
   "Common.Completed": "🦘 Completed",
   "Common.Crucible": "🦘 Crucible",
   "Common.Dungeon_plural": "🦘 Dungeons",
+  "Common.EmpireHunt": "🦘 Empire Hunt",
   "Common.Error": "오류",
   "Common.Event": "🦘 Event",
   "Common.Exit": "🦘 Exit",
@@ -597,6 +598,8 @@
   "UserModules.Customise.DreamingCityCurse.Name": "꿈의 도시: 사바툰의 저주",
   "UserModules.Customise.DreamingCityShatteredThrone.Description": "저주가 시작된 곳을 가로질러 비열한 마법사들을 쳐부수세요.",
   "UserModules.Customise.DreamingCityShatteredThrone.Name": "꿈의 도시: 조각난 왕관",
+  "UserModules.Customise.EmpireHunts.Description": "🦘 Track down and defeat Eramis's commanders.",
+  "UserModules.Customise.EmpireHunts.Name": "🦘 Empire Hunts",
   "UserModules.Customise.Fireteam.Description": "당신이 속한 화력팀을 추적합니다.",
   "UserModules.Customise.Fireteam.Name": "화력팀",
   "UserModules.Customise.Flashpoint.Description": "공개 이벤트, 잊혀진 구역, 영웅 모험 등 화약고 주변의 다양한 활동을 완료하세요.",
@@ -701,7 +704,7 @@
   "Views.Xûr.Description": "그의 의지는 자신의 것이 아닙니다. 명령에 따라 움직이는 그를 지켜보세요.",
   "Views.Xûr.Name": "쥴",
   "Voluspa.CollectedBy": "🦘 {{number}} players have collected this.",
+  "Voluspa.CompletedBy": "🦘 {{number}} players have completed this.",
   "Voluspa.Indexed": "🦘 {{number}} players are indexed by Voluspa.",
-  "Voluspa.LastIndexed": "🦘 {{time}} last indexed",
-  "Voluspa.RedeemedBy": "🦘 {{number}} players have redeemed this."
+  "Voluspa.LastIndexed": "🦘 {{time}} last indexed"
 }
