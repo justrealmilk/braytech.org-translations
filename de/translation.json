@@ -542,7 +542,7 @@
   "Triumphs.LegacySeal_plural": "Abgelaufene Siegel",
   "Triumphs.LegacyTriumph_plural": "Abgelaufene Triumphe",
   "Triumphs.LegacyTriumphs.Description": "Triumphe aus der Vergangenheit, diese Aufzeichnungen sind nicht mehr erhältlich, sondern werden hier für die Nachwelt und zur Überprüfung aufbewahrt.",
-  "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag freigeschaltet haben.",
+  "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
   "Triumphs.Record.IntervalFraction": "{{numerator}} von {{denominator}}",
   "Triumphs.Seal_plural": "Siegel",
   "Triumphs.Seals.Commonality.Description": "Die Seltenheit des Siegels ist der Anteil aller Spieler, die dieses Item gefunden haben und Voluspa indiziert sind.",
