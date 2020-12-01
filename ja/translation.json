@@ -637,6 +637,7 @@
   "UserModules.Menagerie.Pagouri.Name": "カルスの寵臣パゴーリ",
   "UserModules.Nightfalls.ModifiersUnavailable": "作戦条件はありません。",
   "UserModules.NightmareHunts.Description": "最も恐れられ、破壊され、苦しめられるナイトメアが生まれ変わる―ガーディアン、あなたの決意では動かない。",
+  "UserModules.Raids.ChallengeUnavailable": "🦘 The challenge couldn't be determined at this time.",
   "UserModules.Raids.Challenges.ALinkToTheChain": "During the Consecrated Mind encounter, all players must refresh their Enlightened buff at approximately the same time. However, the team may be split up at different tethers.",
   "UserModules.Raids.Challenges.AllForOneOneForAll": "Vault Access encounter: Each Guardian must grab and deposit each Phase Radiance buff once (boss must be killed in 3 damage phases).",
   "UserModules.Raids.Challenges.ColiseumChampion": "Shuro Chi chase encounter: Guardians must not take damage from Shuro Chi's Arc Blast.",
