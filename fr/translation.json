@@ -528,6 +528,7 @@
   "Tooltip.Item.QuantityMax": "Max",
   "Tooltip.Items.StatTotal": "Total",
   "Tooltip.Maps.Availability": "Disponible: toute les {{number}} semaines",
+  "Tooltip.Maps.UntrackedChecklist": "🦘 Untracked Checklist",
   "Tooltip.TrialsPassage.Losses": "Défaites",
   "Tooltip.TrialsPassage.Wins": "Victoires",
   "Triumphs.AllCompleted": "Tout a été complété",
