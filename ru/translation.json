@@ -528,7 +528,7 @@
   "Tooltip.Item.QuantityMax": "Максимум",
   "Tooltip.Items.StatTotal": "Всего",
   "Tooltip.Maps.Availability": "Доступно: каждые {{number}} недель",
-  "Tooltip.Maps.UntrackedChecklist": "Неотслеживаемый объект",
+  "Tooltip.Maps.UntrackableChecklist": "Неотслеживаемый объект",
   "Tooltip.TrialsPassage.Losses": "Поражений",
   "Tooltip.TrialsPassage.Wins": "Побед",
   "Triumphs.AllCompleted": "Все получены",
