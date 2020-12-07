@@ -708,5 +708,5 @@
   "Voluspa.CollectedBy": "{{number}}명의 유저기 이것을 획득했습니다.",
   "Voluspa.CompletedBy": "{{number}}명의 유저가 이것을 완료했습니다.",
   "Voluspa.Indexed": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
-  "Voluspa.LastIndexed": "{{time}} 색인됨"
+  "Voluspa.LastIndexed": "{{time}} 전 색인됨"
 }
