@@ -292,6 +292,7 @@
   "Item.Sunset": "시즌 전투력 상한선",
   "Item.WeaponStats": "최대 사용 가능한 시즌",
   "Landing.Blog": "블로그",
+  "Landing.Blog.AllPosts": "🦘 All Posts",
   "Landing.Blog.Error": "지금은 블로그 게시글을 불러올 수 없습니다.",
   "Landing.Features.Description": "Braytech의 시작은 작은 웹 앱 입니다. 이 앱의 개발은 2년 이상 지속되어 왔으며, 많은 기능의 추가와 함께 개선되어 왔습니다. 개발자인 Tom Chapman은 데스티니의 디자인을 알려주는 [MacKey Clark](https://www.artstation.com/mackayclark)와 [Ryan Klaverweide](https://www.artstation.com/alrightok), [Joseph Cross](https://www.artstation.com/josephacross) 및 여러 다른 디자이너들의 팬입니다. 또한 이들은 Braytech의 디자인과 미적 감각에 대해 굉장한 영향을 주었습니다.\n\n소규모로 시작한 Braytech는 많은 기능들을 탑재하면서 성장했습니다. 특히, 게임의 _업적_ 과 _수집품_ 보기의 내용을 복사해 보여줍니다.\n\n오늘날의 Braytech는 업적 기록과 체크리스트 이상의 일을 하고 있습니다. 이러한 모든 인터페이스를 구축하는 것이 첫 번째 단계였습니다. 죽, 퀘스트가 게임 내 세계의 특정한 위치에 연결되는 방식과 같이 하위 단계에서 인터페이스를 서로 연결하고 데이터 간의 관계를 구현하는 작업이 포함됩니다.\n\n급하게 칮으시는게 있나요? 를 누르고 입력하세요! Braytech는 앱 어디에서나 쓸 수 있는 검색 HUD를 가지고 있습니다. \n\n처음의 Braytech는 데스크탑 사용자를 위해 만들어졌으나, 모바일 앱으로도 아름답게 작동할 수 있습니다. 실제로 플레이스토어에 [안드로이드 앱](https://play.google.com/store/apps/details?id=braytech.org.twa)이 있습니다.",
   "Landing.Features.List.Bounties": "현상금",
