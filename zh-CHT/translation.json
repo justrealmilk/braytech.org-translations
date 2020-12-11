@@ -270,6 +270,8 @@
   "Event.SolsticeOfHeroes.Description": "緬懷各地守護者奉獻犧牲的年度傳統再次到來。伊娃回到高塔，正在英豪之像旁等你。聚集在一起來慶祝人類偉大守護者堅強的韌性",
   "Event.SolsticeOfHeroes.Description.Extended": "於歐洲空域(EAZ)翱翔、迎戰邪魔族、卡巴爾與墮落者。在此三人組隊戰鬥的活動中消滅你的敵人、在歐洲空域捕獲所有寶箱。擊敗越多的頭目，就能獲得越多獎勵",
   "Event.SolsticeOfHeroes.Name": "英豪二至點2020",
+  "Event.TheDawning.Description": "🦘 Even the biting chill of Europa can’t freeze the warm hearts of Guardians during this special time of year. The Dawning has returned.",
+  "Event.TheDawning.Name": "🦘 The Dawning",
   "FAQ.API.StatDiscrepancy.Description": "There are multiple sources for stats in Destiny. Clan Historical Stats is based on the HistoricalStats API endpoint while others source their data from PGCRs. It's hard to determine which holds the most accurate truth.\n\nTo display stats in the manner seen on Clan Historical Stats would require downloading terabytes of data from Bungie servers and significant compute power. This said, they're accurate enough for some friendly competition.",
   "FAQ.API.StatDiscrepancy.Name": "公會歷史統計並不壹定與其他統計保持壹致",
   "FAQ.Braytech.AnatomyCollectiblesRecords.Description": "🌐",
