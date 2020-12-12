@@ -29,4 +29,9 @@ export default [
     membershipType: 1,
     membershipId: '4611686018446596986', // Dekayra
   },
+  {
+    language: 'ko',
+    membershipType: 3,
+    membershipId: '4611686018481210032', // misov_
+  },
 ];
