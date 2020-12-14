@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Can only hold one at a time",
   "Views.Archives.Description": "Interactive tools, manuals, legends, and other content, preserved by the Cryptarchs for future generations",
   "Views.Archives.Name": "Archives",
+  "Views.Character.Description": "Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "Character",
   "Views.CharacterSelect.Name": "Character Select",
   "Views.Checklists.Description": "Ghost scans and item checklists spanning the Sol system",
   "Views.Clan.Description": "About your clan, its roster, summative historical stats for all members, and admin mode",

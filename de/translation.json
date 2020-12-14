@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Besitz nur einfach möglich",
   "Views.Archives.Description": "Interaktive Tools, Handbücher, Legenden und weiteren Inhalten",
   "Views.Archives.Name": "Archiv",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "Charakterauswahl",
   "Views.Checklists.Description": "Geist-Scans und Checklisten für Gegenstände, die sich über das Sol-System erstrecken",
   "Views.Clan.Description": "Informationen zu deinem Clan, seiner Besatzung, historische Statistiken für alle Mitglieder und einem Admin Modus",

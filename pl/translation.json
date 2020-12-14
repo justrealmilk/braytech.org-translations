@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Możesz posiadać tylko jedno naraz",
   "Views.Archives.Description": "Interaktywne narzędzia, podręczniki, legendy i inne zachowane treści",
   "Views.Archives.Name": "Archiwa",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "Wybierz postać",
   "Views.Checklists.Description": "Skany duchów i listy przedmiotów i znajdziek dostepnych w układzie Słonecznym",
   "Views.Clan.Description": "Informacje o klanie, jego składzie, sumarycznych statystykach historycznych dla wszystkich członków i trybie administratora",

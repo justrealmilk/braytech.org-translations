@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "한 번에 하나만 소지할 수 있습니다.",
   "Views.Archives.Description": "상호작용형 도구, 매뉴얼, 범례 및 기타 콘텐트 보존",
   "Views.Archives.Name": "보관소",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "캐릭터 선택",
   "Views.Checklists.Description": "태양계의 고스트 스캔 및 아이템 체크리스트",
   "Views.Clan.Description": "당신의 클랜과 그 명단, 모든 클랜원들의 지난 통계 요약 및 관리자 모드",

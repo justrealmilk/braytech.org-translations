@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Ne peut en tenir qu'un à la fois",
   "Views.Archives.Description": "Outils intéractifs, manuels, légendes, et autre contenu préservé",
   "Views.Archives.Name": "Archives",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "Sélection du personnage",
   "Views.Checklists.Description": "Scans de Spectre et listes d'objets à récupérer dans le système solaire",
   "Views.Clan.Description": "A propos de votre clan, de ses membres, des statistiques globales et du mode d'administration",

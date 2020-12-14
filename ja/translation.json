@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Can only hold one at a time",
   "Views.Archives.Description": "インタラクティブなツール、マニュアル、記録、その他のコンテンツ",
   "Views.Archives.Name": "アーカイブ",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "🦘 Character Select",
   "Views.Checklists.Description": "太陽系全体のゴーストスキャンとアイテムのチェックリスト",
   "Views.Clan.Description": "クランのステータス、クランメンバーの名簿、メンバーのアクティビティ一覧、および管理モード",

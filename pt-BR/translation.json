@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Só pode possuir um por vez",
   "Views.Archives.Description": "Ferramentas interativas, manuais, lendas, e outros conteúdos preservados",
   "Views.Archives.Name": "Depósito",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "Selecionar Personagem",
   "Views.Checklists.Description": "Escaneáveis de fantasmas e itens de checklist dentro do sistema solar",
   "Views.Clan.Description": "Seu clã, elenco, estatísticas históricas de todos os membros somadas e modo administrador",

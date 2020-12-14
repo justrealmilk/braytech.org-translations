@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "同时只能持有一件",
   "Views.Archives.Description": "交互式工具，手册，传奇报告和其他保留内容",
   "Views.Archives.Name": "归档",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "🦘 Character Select",
   "Views.Checklists.Description": "所有目的地的机灵扫描和物品清单",
   "Views.Clan.Description": "关于你的公会，公会成员名单，所有成员的汇总历史统计信息以及管理员模式",

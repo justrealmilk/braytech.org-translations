@@ -704,6 +704,8 @@
   "Vendor.FailureStrings.UniquenessViolation": "Can only hold one at a time",
   "Views.Archives.Description": "交互式工具，手冊，傳奇報告，和其他保留内容",
   "Views.Archives.Name": "歸檔",
+  "Views.Character.Description": "🦘 Review your Guardian's equipment and inventory",
+  "Views.Character.Name": "🦘 Character",
   "Views.CharacterSelect.Name": "🦘 Character Select",
   "Views.Checklists.Description": "所有目的地的機靈掃描和物品清單",
   "Views.Clan.Description": "關於妳的公會，公會成員名單，所有成員的匯總歷史統計信息以及管理員模式",
