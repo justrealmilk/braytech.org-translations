@@ -674,7 +674,7 @@
   "UserModules.Raids.Challenges.OfAllTrades": "[CENSURADO]",
   "UserModules.Raids.Challenges.PleasureGardens.Description": "Cada portador de la reliquia solo puede disparar una planta por fase.",
   "UserModules.Raids.Challenges.PleasureGardens.Name": "Jardines de Placer",
-  "UserModules.Raids.Challenges.RedRover": "[CENSURADO]",
+  "UserModules.Raids.Challenges.RedRover": "Desactiva la seguridad de la cripta mientras pasas el aumento del operador a todos los miembros de la escuadra. Cada Operador debe activar dos paneles cada uno a lo largo de tres fases de daño.",
   "UserModules.Raids.Challenges.RoyalPools.Description": "Un Guardián debe permanecer en el centro con los pies en el agua durante todo el encuentro.",
   "UserModules.Raids.Challenges.RoyalPools.Name": "Estanques Reales",
   "UserModules.Raids.Challenges.StayingAlive": "Completa el encuentro de la Mente consagrada sin matar a los cíclopes que aparezcan en presencia de la arpía jefe. Los cíclopes que aparezcan en otras zonas, y durante el esprint final, se pueden matar.",
