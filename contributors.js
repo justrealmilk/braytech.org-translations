@@ -36,7 +36,7 @@ export default [
   },
   {
     language: 'zh-CHS',
-    membershipType: 3,
+    membershipType: 1,
     membershipId: '4611686018470203938', // Tuuu Nya
   },
 ];
