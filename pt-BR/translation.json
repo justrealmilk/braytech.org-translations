@@ -525,6 +525,7 @@
   "SyncService.Sync.Failure.Description": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária.",
   "SyncService.Sync.Success.Description": "Suas configurações foram sincronizadas.",
   "Tooltip.Actions.Equip": "Equipar",
+  "Tooltip.Actions.Inspect": "🦘 Inspect",
   "Tooltip.Actions.Lock": "Travar",
   "Tooltip.Actions.Store": "Guardar",
   "Tooltip.Actions.Unlock": "Destravar",

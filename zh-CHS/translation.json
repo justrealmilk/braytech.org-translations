@@ -525,6 +525,7 @@
   "SyncService.Sync.Failure.Description": "While trying to sync your settings, there was an error. This is a temporary failure.",
   "SyncService.Sync.Success.Description": "你的设置已成功同步",
   "Tooltip.Actions.Equip": "装备",
+  "Tooltip.Actions.Inspect": "🦘 Inspect",
   "Tooltip.Actions.Lock": "锁定",
   "Tooltip.Actions.Store": "寄存",
   "Tooltip.Actions.Unlock": "解锁",

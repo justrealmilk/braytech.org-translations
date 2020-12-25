@@ -525,6 +525,7 @@
   "SyncService.Sync.Failure.Description": "Синхронизация настроек завершилась неудачей. Это временное явление.",
   "SyncService.Sync.Success.Description": "Ваши настройки успешно синхронизированы.",
   "Tooltip.Actions.Equip": "🦘 Equip",
+  "Tooltip.Actions.Inspect": "🦘 Inspect",
   "Tooltip.Actions.Lock": "🦘 Lock",
   "Tooltip.Actions.Store": "🦘 Store",
   "Tooltip.Actions.Unlock": "🦘 Unlock",

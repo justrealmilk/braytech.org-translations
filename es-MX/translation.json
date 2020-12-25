@@ -525,6 +525,7 @@
   "SyncService.Sync.Failure.Description": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal.",
   "SyncService.Sync.Success.Description": "Tus ajustes se sincronizaron.",
   "Tooltip.Actions.Equip": "Equipar",
+  "Tooltip.Actions.Inspect": "🦘 Inspect",
   "Tooltip.Actions.Lock": "Bloquear",
   "Tooltip.Actions.Store": "Transferir",
   "Tooltip.Actions.Unlock": "Desbloquear",
