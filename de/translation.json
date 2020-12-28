@@ -525,7 +525,7 @@
   "SyncService.Sync.Failure.Description": "Während der Synchronisation der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär.",
   "SyncService.Sync.Success.Description": "Deine Einstellungen wurden synchornisiert.",
   "Tooltip.Actions.Equip": "Ausrüsten",
-  "Tooltip.Actions.Inspect": "🦘 Inspect",
+  "Tooltip.Actions.Inspect": "Ansehen",
   "Tooltip.Actions.Lock": "Sperren",
   "Tooltip.Actions.Store": "Ablegen",
   "Tooltip.Actions.Unlock": "Entsperren",
