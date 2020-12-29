@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "基本特徵",
   "Item.BreakerType": "職業類型",
   "Item.CollectionsRoll": "收藏品",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "能量類型",
   "Item.EnergyCapacity": "能量",
   "Item.EnergyCost": "能量",

@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "Базовые характеристики",
   "Item.BreakerType": "Тип пробивания",
   "Item.CollectionsRoll": "Характеристики из коллекции",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "Тип стихии",
   "Item.EnergyCapacity": "Энергия",
   "Item.EnergyCost": "Энергия",

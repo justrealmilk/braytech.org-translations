@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "基本信息",
   "Item.BreakerType": "🦘 BreakerType",
   "Item.CollectionsRoll": "🦘 Collections Roll",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "能量类型",
   "Item.EnergyCapacity": "能量",
   "Item.EnergyCost": "能量",

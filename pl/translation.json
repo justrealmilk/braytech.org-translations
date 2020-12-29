@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "Podstawowe cechy",
   "Item.BreakerType": "BreakerType",
   "Item.CollectionsRoll": "Kolekcje Rolli",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "Koligacja Energii",
   "Item.EnergyCapacity": "Energia",
   "Item.EnergyCost": "Koszt energii",

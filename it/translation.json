@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "Caratteristiche Base",
   "Item.BreakerType": "Tipo peculiarità anti-campione",
   "Item.CollectionsRoll": "Caratteristiche delle collezioni",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "Affinità",
   "Item.EnergyCapacity": "Energia",
   "Item.EnergyCost": "Energia",

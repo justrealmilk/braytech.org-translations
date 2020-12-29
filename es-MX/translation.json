@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "Características básicas",
   "Item.BreakerType": "Tipo de interrupción",
   "Item.CollectionsRoll": "Estadísticas de colecciones",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "Afinidad de energía",
   "Item.EnergyCapacity": "Energía",
   "Item.EnergyCost": "Coste de energía",

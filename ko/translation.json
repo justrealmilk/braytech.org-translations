@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "기본 속성",
   "Item.BreakerType": "대 용사 속성",
   "Item.CollectionsRoll": "수집품 스텟",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "에너지 속성",
   "Item.EnergyCapacity": "에너지",
   "Item.EnergyCost": "에너지 비용",

@@ -284,6 +284,7 @@
   "Item.BasicCharacteristics": "Caractéristiques de base",
   "Item.BreakerType": "Type de Champion",
   "Item.CollectionsRoll": "🦘 Collections Roll",
+  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
   "Item.EnergyAffinity": "Affinité Energétique",
   "Item.EnergyCapacity": "Energie",
   "Item.EnergyCost": "Energie",
