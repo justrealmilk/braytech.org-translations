@@ -284,7 +284,7 @@
   "Item.BasicCharacteristics": "Grundlegende Eigenschaften",
   "Item.BreakerType": "🦘 Breaker Type",
   "Item.CollectionsRoll": "Sammlungs-Werte",
-  "Item.CurrentlyCantRoll": "🦘 This perk currently does not roll on this weapon",
+  "Item.CurrentlyCantRoll": "Dieser Perk ist derzeit nicht für diese Waffe verfügbar",
   "Item.EnergyAffinity": "Energieart",
   "Item.EnergyCapacity": "Energie",
   "Item.EnergyCost": "Energie",
