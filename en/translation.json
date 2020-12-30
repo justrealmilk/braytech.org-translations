@@ -678,7 +678,7 @@
   "UserModules.Raids.Challenges.HoldTheLine": "Botza District encounter: the map generator must not fall below half charge.",
   "UserModules.Raids.Challenges.KeepOut": "Vault encounter: knights must be killed in the rooms they spawn in.",
   "UserModules.Raids.Challenges.LimitedBlessings": "Ritual encounter: no more than two Guardians may have the Witch's Blessing buff at one time during The Hive Ritual.",
-  "UserModules.Raids.Challenges.OfAllTrades": "[REDACTED]",
+  "UserModules.Raids.Challenges.OfAllTrades": "Over the course of the Descent encounter, each Guardian must equip each augment once. Await an augment deactivation before beginning the changeover. Play in pairs, shadowing a leader's rotation.",
   "UserModules.Raids.Challenges.PleasureGardens.Description": "Each relic holder may only shoot one plant per phase.",
   "UserModules.Raids.Challenges.PleasureGardens.Name": "The Pleasure Gardens",
   "UserModules.Raids.Challenges.RedRover": "Bypass Crypt Security while passing the Operator Augment to each fireteam member. Each Operator should activate two panels each over three damage phases.",
