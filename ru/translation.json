@@ -119,7 +119,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Цвет эмблемы",
   "Clan.ClanBannerBuilder.Name": "Настройка знамени клана",
   "Clan.ClanRoster": "Список участников",
-  "Clan.HistoricalStats.ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`.",
+  "Clan.HistoricalStats.ViewportWidth": "Статистика клана предназначена для дисплеев большего размера. Пожалуйста, используйте дисплей с шириной не менее `1024` пикселей.",
   "Clan.Members": "Участников: {{number}}",
   "Clan.MembersOnline": "онлайн: {{number}}",
   "Clan.NoClan.Description": "Кланы это сообщества из друзей, игра с которыми разнообразит ваш игровой опыт онлайн. Кооперируйтесь с вашими сокланами для участия в совместных испытаниях или просто пустите их в свою одиночную игру для получения дополнительных наград.\n\nВступите в клан вашего друга, заведите новых друзей или создайте свой собственный через приложение-компаньона либо на bungie.net.",
