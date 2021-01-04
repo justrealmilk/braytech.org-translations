@@ -446,7 +446,7 @@
   "Search.Placeholder": "enter name or description",
   "Search.Results.NoMatches": "Nothing matched your terms.",
   "Search.ShortcutKey": "### Press  to toggle search from anywhere",
-  "Search.Suggestions": "Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value includes the term \"mida.\"\n\nSupported prefixes:\n- name\n- description\n- source\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
+  "Search.Suggestions": "Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value includes the term \"mida.\"\n\nSupported prefixes:\n- name\n- description\n- source\n- expiration\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
   "Settings.Category.Advanced.Name": "Advanced",
   "Settings.Category.Common.Name": "Common",
   "Settings.Developer.Lists.Description": "Enable developer lists by overriding links.",
