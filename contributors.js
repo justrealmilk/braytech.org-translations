@@ -34,4 +34,9 @@ export default [
     membershipType: 3,
     membershipId: '4611686018481210032', // misov_
   },
+  {
+    language: 'zh-CHS',
+    membershipType: 3,
+    membershipId: '4611686018491391736', // Tuuu Nya
+  },
 ];
