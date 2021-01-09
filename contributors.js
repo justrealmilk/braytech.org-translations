@@ -39,4 +39,9 @@ export default [
     membershipType: 3,
     membershipId: '4611686018491391736', // Tuuu Nya
   },
+  {
+    language: 'zh-CHT',
+    membershipType: 3,
+    membershipId: '4611686018483456899', // AinaSnow
+  },
 ];
