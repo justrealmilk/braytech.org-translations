@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "ノードの内容をlogに表示",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "スクリーンショットが関連付けられていない地域のクレートなどのマップノードは、ユーザーがマップデータに貢献できるように強調表示されます。",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "スクリーンショットのないノードをハイライトする",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
   "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
   "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",

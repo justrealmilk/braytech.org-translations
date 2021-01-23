@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "記錄節點詳細日誌",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "沒有關聯截圖的地圖節點, 比如地區寶箱, 會被高亮以幫助用戶貢獻地圖數據.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "高亮無截圖的節點",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
   "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
   "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",

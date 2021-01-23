@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "Registrar detalhes de nódulos",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Nódulos de mapa, como baús regionais, que não tem uma screenshot associada serão realçados para ajudar jogadores que querem contribuir para informações do mapa.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Realçar nódulos sem screenshots",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
   "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
   "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",

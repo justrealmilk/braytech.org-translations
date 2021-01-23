@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "Détails du nœud de journal",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Les nœuds de carte, tels que les coffres de région, qui n'ont pas de capture d'écran associée seront mis en évidence afin d'aider les utilisateurs à contribuer aux données des cartes.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Mettez en surbrillance les nœuds sans captures d'écran",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
   "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
   "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",

@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "Stampa dettagli dei nodi",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "I nodi della mappa, come forzieri della regione, che non hanno uno screenshot saranno evidenziati per aiutare gli utenti a contribuire alla completezza delle mappe.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Evidenzia nodi senza screenshot",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "Elimina il manifest di Destiny salvato su questo dispositivo. Braytech necessita del manifest per funzionare e sarà scaricato di nuovo alla prossima apertura dell'app.",
   "Settings.IDB.ClearManifest.Name": "Elimina manifest",
   "Settings.IDB.ClearReports.Description": "Elimina tutti i riepiloghi della carneficina post partita salvati su questo dispositivo.",

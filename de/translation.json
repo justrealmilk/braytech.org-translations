@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "Knotendetails loggen",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Kartenelemente wie Region-Truhen, die keinen zugeordneten Screenshot besitzen werden hervorgehoben, um Nutzern zu helfen, Kartendaten beizutragen.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Knoten ohne Screenshots hervorheben",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "Lösche das Destiny Manifest von diesem Gerät. Braytech braucht das Manifest um zu funktionieren und wird es beim nächsten Start der App erneut herunterladen.",
   "Settings.IDB.ClearManifest.Name": "Lösche Manifest",
   "Settings.IDB.ClearReports.Description": "Lösche alle Berichte von diesem Gerät.",

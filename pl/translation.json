@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "Szczegóły dziennika",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Węzły mapy, takie jak skrzynie regionalne, które nie mają skojarzonego zrzutu ekranu, zostaną podświetlone, aby pomóc użytkownikom w tworzeniu danych map.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Podświetl węzły bez zrzutów ekranu",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "Usuń manifest Destiny przechowywany na tym urządzeniu. Braytech wymaga, aby manifest działał i zostanie pobrany ponownie przy następnym uruchomieniu aplikacji.",
   "Settings.IDB.ClearManifest.Name": "Wyczyść Manifest",
   "Settings.IDB.ClearReports.Description": "Usuń wszystkie raporty Jatki po grze przechowywane na tym urządzeniu.",

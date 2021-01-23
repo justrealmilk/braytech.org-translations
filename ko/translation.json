@@ -459,6 +459,8 @@
   "Settings.Developer.Maps.LogDetails.Name": "노드 상세 정보 기록",
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "연결된 스크린샷이 없는 지역 상자 등의 맵 노드는 지도 데이터 기여를 돕기 위해 강조 처리됩니다.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "스크린샷이 없는 노드 강조",
+  "Settings.IDB.ClearCache.Description": "🦘",
+  "Settings.IDB.ClearCache.Name": "🦘",
   "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
   "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
   "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",
