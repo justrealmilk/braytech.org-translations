@@ -1,6 +1,12 @@
 # Braytech
 _Translations for Braytech.org_
 
+This file describes how to contributing translations to this repo. It has three guides:
+- **TL;DR** for an experienced users
+- **online aka easy translation** for newbies who want to help but not to dig into git stuff
+- **with local repo aka pro geek** for newbies who are ready for everything
+
+
 ## Contributing translations TL;DR
 
 1.  Fork the repo
@@ -8,6 +14,7 @@ _Translations for Braytech.org_
 2.  Add translations by changing the lines started with 🦘 (delete roo emoji after translation)
 
 3.  Create a pull request
+
 
 ## Contributing translations online aka easy translation
 
@@ -55,6 +62,7 @@ On top right angle find an edit icon and click it.
 11. You will be shown where you are going to transfer data and the list of lines changed.
 You have to click button **Create pull request** and then you can text short title and description. Press button **Create** once more after that.
 There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
+
 
 ## Contributing translations with local repo aka pro geek
 
