@@ -148,9 +148,9 @@ This will bring the last data from tom's repo to the brach in your fork so you c
 
     ![mergecommit](https://cdn.discordapp.com/attachments/604182196319944704/770585175260266536/unknown.png)
 
-Here you uncheck creating commit and then merge.
+    Here you uncheck creating commit and then merge.
 
-   ![mergeconfirm](https://media.discordapp.net/attachments/604182196319944704/770585327651913768/unknown.png)
+    ![mergeconfirm](https://media.discordapp.net/attachments/604182196319944704/770585327651913768/unknown.png)
 
 #### Translation and commit
 
