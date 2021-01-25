@@ -9,7 +9,7 @@ _Translations for Braytech.org_
 
 3.  Create a pull request
 
-## Contributing translations in two detailed guides
+## Contributing translations online aka easy translation
 
 #### GitHub
 
@@ -20,8 +20,6 @@ _Translations for Braytech.org_
    ![Fork repo](https://i.ibb.co/4Pk6FGX/2021-01-25-03-16-24.png)
 
 3. You can edit translations online or mirror repo files to your PC.
-
-### Online aka easy translation (option 1)
 
 #### Update your repo with last files from parent repo
 
@@ -58,9 +56,17 @@ On top right angle find an edit icon and click it.
 You have to click button **Create pull request** and then you can text short title and description. Press button **Create** once more after that.
 There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
 
-### Local aka geek (option 2)
+## Contributing translations with local repo aka pro geek
 
-List numbers are started from 4 as online list is ignored
+#### GitHub
+
+1. First of all if you don't have a github account __create a github account__
+
+2. You can't make changes directly to this repository, so you have to __fork it to your page__
+
+   ![Fork repo](https://i.ibb.co/4Pk6FGX/2021-01-25-03-16-24.png)
+
+3. You can edit translations online or mirror repo files to your PC.
 
 #### VS Code
 
