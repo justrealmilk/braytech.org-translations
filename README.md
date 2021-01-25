@@ -2,9 +2,9 @@
 _Translations for Braytech.org_
 
 This file describes how to contributing translations to this repo. It has three guides:
-- **TL;DR** for experienced users
-- **online aka easy translation** for newbies who want to help but not to dig into git stuff
-- **with local repo aka pro geek** for newbies who are ready for everything
+- **TL;DR** for experienced users;
+- **online aka easy translation** for newbies who want to help but not to dig into git stuff;
+- **with local repo aka pro geek** for newbies who are ready for everything.
 
 
 ## Contributing translations TL;DR
