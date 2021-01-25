@@ -36,7 +36,7 @@ You should open you repo and on top of it there will be some sort of this:
    ![needupdate](https://i.ibb.co/pyjzsP2/2021-01-25-05-34-22.png)
    
 5. Click pull request. And it will show you **There isn’t anything to compare.**
-That's OK. Pay attention. It is trying you merge your branch into the origin one. But you branch is behind.
+That's OK. Pay attention. It is trying to merge your branch into the origin one. But you branch is behind.
 Just a little bit below this text there is a link to *switch the base*. Click it.
 
    ![switchit](https://i.ibb.co/yBJmMSF/2021-01-25-05-42-09.png)
@@ -44,7 +44,7 @@ Just a little bit below this text there is a link to *switch the base*. Click it
 Now you see lots of changes.   
 
 6. Click **Create pull request** and type a title to it. Anything. "update" will be okay. 
-Click once more time **Create pull request**, scroll down, click **Merge pull request** and **Confirm**.
+Click one more time **Create pull request**, scroll down, click **Merge pull request** and **Confirm**.
 
 7. Now you have all files up to date.
 
@@ -88,7 +88,7 @@ There have to be line *These branches can be automatically merged.* If not consu
 
    ![Auth](https://i.ibb.co/b3gCXmS/2021-01-25-03-34-24.png)
 
-7. Then click on the repo name (it will be like yourGitAccountName/braytech.org-translations) and select thw folder on your PC where to save the repo files.
+7. Then click on the repo name (it will be like yourGitAccountName/braytech.org-translations) and select the folder on your PC where to save the repo files.
 
    ![Repo list](https://i.ibb.co/jzGH96d/2021-01-25-03-34-36.png)
 
