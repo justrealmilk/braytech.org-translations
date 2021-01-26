@@ -18,51 +18,23 @@ This file describes how to contributing translations to this repo. It has three 
 
 ## Contributing translations online aka easy translation
 
-#### GitHub
-
-1. First of all if you don't have a github account __create a github account__
-
-2. You can't make changes directly to this repository, so you have to __fork it to your page__
-
-   ![Fork repo](https://i.ibb.co/4Pk6FGX/2021-01-25-03-16-24.png)
-
-3. You can edit translations online or mirror repo files to your PC.
-
-#### Update your repo with last files from parent repo
-
-4. Before every contribution you have to update your repo with origin one. 
-You should open you repo and on top of it there will be some sort of this:
-
-   ![needupdate](https://i.ibb.co/pyjzsP2/2021-01-25-05-34-22.png)
-   
-5. Click pull request. And it will show you **There isn’t anything to compare.**
-That's OK. Pay attention. It is trying to merge your branch into the origin one. But you branch is behind.
-Just a little bit below this text there is a link to *switch the base*. Click it.
-
-   ![switchit](https://i.ibb.co/yBJmMSF/2021-01-25-05-42-09.png)
-
-Now you see lots of changes.   
-
-6. Click **Create pull request** and type a title to it. Anything. "update" will be okay. 
-Click one more time **Create pull request**, scroll down, click **Merge pull request** and **Confirm**.
-
-7. Now you have all files up to date.
-
-#### Translation, commit and pull
-
-8. Open the folder with you language and click on translation file.
+1. In this repo open the folder with you language and click on translation file.
 On top right angle find an edit icon and click it.
 
-   ![editfile](https://i.ibb.co/yBCysL6/2021-01-25-05-22-18.png)
+   ![editfile](https://i.ibb.co/LvySBnX/2021-01-26-12-06-05.png)
 
-9. Find the line with 🦘, translate it, make sure to delete english text and roo emoji, repeate.
+2. Find the line with 🦘, translate it, make sure to delete english text and roo emoji, repeate.
 
-10. Now you have to save and commit changes. Commit is the name of a single contribution to the repo. At the bottom of the page you will find a section where you can title changes and text short description. Below that select `Create a new branch for this commit and start a pull request.` and commit changes.
+3. At the bottom of the page you will find a section where you can title changes and text short description. After that press button "**Propose changes**".
 
-11. You will be shown where you are going to transfer data and the list of lines changed.
-You have to click button **Create pull request** and then you can text short title and description. Press button **Create** once more after that.
+   ![propose changes](https://i.ibb.co/vdFKgr2/2021-01-26-12-10-35.png)
+
+4. You will be shown where you are going to transfer data and the list of lines changed.
+You have to click button **Create pull request**.
 There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
+Press button **Create pull request** once more after that.
 
+5. Wait until Tom checks it and confirms the merge.
 
 ## Contributing translations with local repo aka pro geek
 
@@ -172,8 +144,9 @@ Click right mouse button on your branch label in git graph and select "Create pu
 You may be asked a question if you want to push branch first you can do that (this is almost the same as sync buttom from line 23) and then a web browser page will be opened.
 
 25. On the web page you will be shown from which branch to which you are going to transfer data, the list of commits affected and lines changed.
-You have to click button **Create pull request** and then you can text short title and description. Press button **Create** once more after that.
+You have to click button **Create pull request** and then you can text short title and description.
 There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
+Press button **Create pull request** once more after that.
 
 26. Now you have just to wait until Tom checks it and confirms the merge.
 
