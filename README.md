@@ -18,23 +18,25 @@ This file describes how to contributing translations to this repo. It has three 
 
 ## Contributing translations online aka easy translation
 
-1. In this repo open the folder with you language and click on translation file.
+1. First of all if you don't have a github account __create a github account__
+
+2. In this repo open the folder with you language and click on translation file.
 On top right angle find an edit icon and click it.
 
    ![editfile](https://i.ibb.co/LvySBnX/2021-01-26-12-06-05.png)
 
-2. Find the line with 🦘, translate it, make sure to delete english text and roo emoji, repeate.
+3. Find the line with 🦘, translate it, make sure to delete english text and roo emoji, repeate.
 
-3. At the bottom of the page you will find a section where you can title changes and text short description. After that press button "**Propose changes**".
+4. At the bottom of the page you will find a section where you can title changes and text short description. After that press button "**Propose changes**".
 
    ![propose changes](https://i.ibb.co/vdFKgr2/2021-01-26-12-10-35.png)
 
-4. You will be shown where you are going to transfer data and the list of lines changed.
+5. You will be shown where you are going to transfer data and the list of lines changed.
 You have to click button **Create pull request**.
 There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
 Press button **Create pull request** once more after that.
 
-5. Wait until Tom checks it and confirms the merge.
+6. Wait until Tom checks it and confirms the merge.
 
 ## Contributing translations with local repo aka pro geek
 
