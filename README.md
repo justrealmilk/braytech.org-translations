@@ -9,16 +9,16 @@ This file describes how to contributing translations to this repo. It has three 
 
 ## Contributing translations TL;DR
 
-1.  Fork the repo
+1.  Fork the repo.
 
-2.  Add translations by changing the lines started with 🦘 (delete roo emoji after translation)
+2.  Add translations by changing the lines started with 🦘 (delete roo emoji after translation).
 
-3.  Create a pull request
+3.  Create a pull request.
 
 
 ## Contributing translations online a.k.a. easy translation
 
-1. First of all if you don't have a GitHub account __create a GitHub account__
+1. First of all if you don't have a GitHub account __create a GitHub account__.
 
 2. In this repo open the folder with you language and click on translation file.
 On top right angle find an edit icon and click it.
@@ -42,9 +42,9 @@ Press **Create pull request** button once more after that.
 
 #### GitHub
 
-1. First of all if you don't have a GitHub account __create a GitHub account__
+1. First of all if you don't have a GitHub account __create a GitHub account__.
 
-2. You can't make changes directly to this repository, so you need to __fork it to your page__
+2. You can't make changes directly to this repository, so you need to __fork it to your page__.
 
    ![Fork repo](https://i.ibb.co/4Pk6FGX/2021-01-25-03-16-24.png)
 
@@ -54,7 +54,7 @@ Press **Create pull request** button once more after that.
 
 4. There're different software used to work with git on PC, we recommend [VS Code](https://code.visualstudio.com/) as an all-in-one tool.
 
-5. After installing and opening VSCode select **Clone repository**
+5. After installing and opening VSCode select **Clone repository**.
 
    ![Clone repo](https://i.ibb.co/x6h5TWf/2021-01-25-03-31-17.png)
 
@@ -100,7 +100,7 @@ Also I advise you to rename remotes so that you can easily identify them. Use "E
 
     ![remotegit](https://i.ibb.co/0fswtSD/2021-01-25-04-15-54.png)
 
-16. Not so important, but very usefull. **Pull Request Creation**
+16. Not so important, but very usefull. **Pull Request Creation**.
 Click "Configure" and set source to your fork and destination to toms. Second step just for checking data. Save.
 
     ![pull](https://i.ibb.co/Tq5kmXh/2021-01-25-04-54-22.png)
