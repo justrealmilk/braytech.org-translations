@@ -105,7 +105,7 @@ Click "Configure" and set source to your fork and destination to toms. Second st
 
     ![pull](https://i.ibb.co/Tq5kmXh/2021-01-25-04-54-22.png)
 
-17. All the settings we did are handled by VS Code and stored in project folder. So you do not have to repeat them every time you open Vs Code.
+17. All the settings we did are handled by VS Code and stored in the project folder. So you do not have to repeat them every time you open VS Code.
 
 #### Update your repo with last files from parent repo
 
