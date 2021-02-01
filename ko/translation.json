@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "플레이어 검색",
   "CharacterSelect.SearchPlaceholder": "게임태그 또는 SteamId64 입력",
   "CharacterSelect.SelectACharacter": "캐릭터 선택",
+  "CharacterSelect.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "아함카라의 뼈",
   "Checklists.AhamkaraBones.ItemName_plural": "아함카라의 뼈",
   "Checklists.AhamkaraBones.ProgressDescription": "발견한 뼈",

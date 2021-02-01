@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "搜索玩家",
   "CharacterSelect.SearchPlaceholder": "输入游戏标签或 Steam 64位ID",
   "CharacterSelect.SelectACharacter": "选择一个角色",
+  "CharacterSelect.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "阿罕卡拉遗骨",
   "Checklists.AhamkaraBones.ItemName_plural": "阿罕卡拉遗骨",
   "Checklists.AhamkaraBones.ProgressDescription": "已发现遗骨",

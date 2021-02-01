@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "Recherche de joueur",
   "CharacterSelect.SearchPlaceholder": "Entrer un pseudo ou un SteamID64",
   "CharacterSelect.SelectACharacter": "Sélectionner un personnage",
+  "CharacterSelect.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "Os d'Ahamkara",
   "Checklists.AhamkaraBones.ItemName_plural": "Os d'Ahamkara",
   "Checklists.AhamkaraBones.ProgressDescription": "Os trouvés",

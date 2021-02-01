@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "Найти игрока",
   "CharacterSelect.SearchPlaceholder": "Введите ник или SteamId64",
   "CharacterSelect.SelectACharacter": "Выбрите персонажа",
+  "CharacterSelect.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "Кость Ахамкары",
   "Checklists.AhamkaraBones.ItemName_plural": "Кости Ахамкары",
   "Checklists.AhamkaraBones.ProgressDescription": "Костей найдено",

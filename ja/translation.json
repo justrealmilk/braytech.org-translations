@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "プレイヤーを検索する",
   "CharacterSelect.SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
   "CharacterSelect.SelectACharacter": "キャラクターを選択する",
+  "CharacterSelect.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "アハンカーラの骨",
   "Checklists.AhamkaraBones.ItemName_plural": "🦘 Ahamkara Bones",
   "Checklists.AhamkaraBones.ProgressDescription": "発見した骨",

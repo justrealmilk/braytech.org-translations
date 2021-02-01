@@ -67,6 +67,7 @@
   "CharacterSelect.SearchForPlayer": "Search For Player",
   "CharacterSelect.SearchPlaceholder": "insert gamertag or SteamId64",
   "CharacterSelect.SelectACharacter": "Select a character",
+  "CharacterSelect.TemporaryError": "A temporary Bungie error occurred.",
   "Checklists.AhamkaraBones.ItemName": "Ahamkara Bone",
   "Checklists.AhamkaraBones.ItemName_plural": "Ahamkara Bones",
   "Checklists.AhamkaraBones.ProgressDescription": "Bones found",
