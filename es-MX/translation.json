@@ -458,6 +458,7 @@
   "Reports.Team.Bravo": "Bravo",
   "Search.Placeholder": "introduce nombre o descripción",
   "Search.Results.NoMatches": "Nada coincide con tus términos.",
+  "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "### Pulsa  para activar la búsqueda desde cualquier sitio.",
   "Search.Suggestions": "La búsqueda permite utilizar filtros por medio de prefijos. Prueba `name:mida` para buscar solo objetos cuyo nombre contenga el término \"mida\".\n\nPrefijos compatibles:\n- name\n- description\n- source\n- expiration\n\nTambién puedes buscar por el número `hash` del manifiesto.\n\nLos resultados se priorizarán por nombre, fuente y descripción.",
   "Settings.Category.Advanced.Name": "Avanzado",

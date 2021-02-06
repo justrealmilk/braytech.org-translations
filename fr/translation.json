@@ -458,6 +458,7 @@
   "Reports.Team.Bravo": "Bravo",
   "Search.Placeholder": "entrez un nom ou une description",
   "Search.Results.NoMatches": "Rien de correspond à votre recherche.",
+  "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "### Pressez  pour activer la recherche depuis n'importe où",
   "Search.Suggestions": "La recherche prend en charge les filtres comme préfixes. Essayez `nom: mida` pour ne faire correspondre que les entités dont la valeur de nom inclut le terme \"mida\" \n\nPréfixes pris en charge: \n- nom \n- description \n- source \n\nVous pouvez également rechercher par manifeste `hash`. \n\nLes résultats seront classés par ordre de priorité par nom, source et description.",
   "Settings.Category.Advanced.Name": "Avancé",

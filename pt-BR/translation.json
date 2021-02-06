@@ -458,6 +458,7 @@
   "Reports.Team.Bravo": "Bravo",
   "Search.Placeholder": "digite o nome ou descrição",
   "Search.Results.NoMatches": "Nada foi encontrado a partir do que você escreveu.",
+  "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "### Pressione  para ativar a Busca de qualquer lugar",
   "Search.Suggestions": "A ferramenta de busca permite filtros como prefixos. Tente `name:mida` para buscar apenas por resultados onde o nome contém \"mida.\"\n\nPrefixos existentes:\n- name\n- description\n- source\n\nVocê também pode buscar pelo `hash` do manifesto.\n\nResultados terão como prioridade o nome, fonte e descrição.",
   "Settings.Category.Advanced.Name": "Avançado",

@@ -458,6 +458,7 @@
   "Reports.Team.Bravo": "Bravo",
   "Search.Placeholder": "Wprowadź nazwę lub opis",
   "Search.Results.NoMatches": "Nic nie pasuje do twojego zapytania.",
+  "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "### Wcisnij  aby wlączyć przeszukiwanie zewsząd",
   "Search.Suggestions": "Wyszukiwanie obsługuje filtry jako przedrostki. Spróbuj `name: mida` aby dopasować tylko jednostki, których wartość nazwy zawiera termin \"mida\"\n\nObsługiwane przedrostki: \n- name\n- description\n- source\n\nMożesz także wyszukiwać według manifestu `hash`.\n\nWyniki będą traktowane priorytetowo według nazwy, źródła i opisu.",
   "Settings.Category.Advanced.Name": "Zaawansowane",
