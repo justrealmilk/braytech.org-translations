@@ -458,7 +458,7 @@
   "Reports.Team.Bravo": "Bravo",
   "Search.Placeholder": "Name oder Beschreibung eingeben",
   "Search.Results.NoMatches": "Keine Übereinstimmungen gefunden.",
-  "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
+  "Search.Results.Top10": "Zeigt die ersten 10 Resultate. Drücke  um die komplette Suche zu öffnen.",
   "Search.ShortcutKey": "### Drücke  um die Suchen überall aufzurufen",
   "Search.Suggestions": "Die Suche unterstützt Filter als Präfixe. Versuchen Sie `name: mida`, nur Entitäten zuzuordnen, deren Namenswert den Begriff \"mida\" enthält.\n\nUnterstützte Präfixe: \n- Name\n- Beschreibung\n- Quelle\n\nSie können auch nach Manifest `hash` suchen.\n\nErgebnisse werden nach Name, Quelle und Beschreibung priorisiert.",
   "Settings.Category.Advanced.Name": "Erweitert",
