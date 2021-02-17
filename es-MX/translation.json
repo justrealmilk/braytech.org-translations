@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Sellos",
   "Triumphs.Seals.Commonality.Description": "Porcentaje de jugadores indexados por Voluspa que canjearon este título.",
   "Triumphs.Seals.Commonality.Name": "Rareza del sello",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Sello completado",
   "Triumphs.Seals.SealGilded": "Sello dorado",
   "Triumphs.Seals.SealGildedProgress": "Progreso de sellos dorado",

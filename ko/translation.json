@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "인장",
   "Triumphs.Seals.Commonality.Description": "Voluspa에서 확인되는 유저 중 이 인장을 획득한 플레이어 비율입니다.",
   "Triumphs.Seals.Commonality.Name": "인장 희소성",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "완료한 인장",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "印章",
   "Triumphs.Seals.Commonality.Description": "印章稀有度代表了 Voluspa 跟踪的玩家的获取百分比。",
   "Triumphs.Seals.Commonality.Name": "印章持有率",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "已完成印章",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Печати",
   "Triumphs.Seals.Commonality.Description": "Редкость печати отображает процент игроков индексируемых Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Редкость печати",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Печать получена",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

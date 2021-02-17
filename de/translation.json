@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Siegel",
   "Triumphs.Seals.Commonality.Description": "Die Seltenheit des Siegels ist der Anteil aller Spieler, die dieses Item gefunden haben und Voluspa indiziert sind.",
   "Triumphs.Seals.Commonality.Name": "Siegel Häufigkeit",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Siegel abgeschlossen",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

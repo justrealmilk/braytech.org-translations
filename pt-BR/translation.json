@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Selos",
   "Triumphs.Seals.Commonality.Description": "A raridade do selo é representada como uma porcentagem dos jogadores que são classificados por Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Raridade do selo",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Selo completo",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

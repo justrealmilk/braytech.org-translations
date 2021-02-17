@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Sigilli",
   "Triumphs.Seals.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito questo titolo.",
   "Triumphs.Seals.Commonality.Name": "Rarità sigillo",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Sigillo completato",
   "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
   "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",

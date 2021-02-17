@@ -609,6 +609,8 @@
   "Triumphs.Seal_plural": "Pieczęci",
   "Triumphs.Seals.Commonality.Description": "Rzadkość pieczęci reprezentowana jest jako procent graczy indeksowanych przez Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Pospolitość pieczęci",
+  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are indexed by Voluspa who've acquired and gilded this title.",
+  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
   "Triumphs.Seals.SealCompleted": "Ukończone pieczęci",
   "Triumphs.Seals.SealGilded": "Pieczęć Pozłocona",
   "Triumphs.Seals.SealGildedProgress": "Postęp Pozłacania",
