@@ -255,6 +255,7 @@
   "Common.Weapon": "武器",
   "Common.WeekNth": "周 {{number}}",
   "Common.Week_plural": "周",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "雙排與全寬的模塊是獨占列的，嘗試將模塊添加到另一列。",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "標題組只支持單列模塊",
   "CustomisableLayout.Error.HeaderSingleModule": "標題組每列只支持不超過一個模塊",

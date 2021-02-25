@@ -255,6 +255,7 @@
   "Common.Weapon": "Arme",
   "Common.WeekNth": "Semaine {{number}}",
   "Common.Week_plural": "Semaines",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "Les modules les plus larges occupent toutes les colonnes. Ajoutez un module sur une autre colonne.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "Le groupe d'en-tête prend uniquement en charge les modules à colonne unique.",
   "CustomisableLayout.Error.HeaderSingleModule": "Le groupe d'en-tête ne prend pas en charge plus d'un module par colonne.",

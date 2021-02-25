@@ -255,6 +255,7 @@
   "Common.Weapon": "Weapon",
   "Common.WeekNth": "Week {{number}}",
   "Common.Week_plural": "Weeks",
+  "Compare.SearchPlayer": "Compare.SearchPlayer",
   "CustomisableLayout.Error.ColumnExclusives": "Double and full-width modules are column exclusives. Try adding a module to another column.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "The header group supports single column modules only.",
   "CustomisableLayout.Error.HeaderSingleModule": "The header group supports no more than one module per column.",

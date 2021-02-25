@@ -255,6 +255,7 @@
   "Common.Weapon": "武器",
   "Common.WeekNth": "第 {{number}} 周",
   "Common.Week_plural": "周",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "双列跟全宽度模块只能在列上使用，尝试添加一个模块到另一列",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "顶部只支持单列模块",
   "CustomisableLayout.Error.HeaderSingleModule": "顶部每列不得超过一个模块",

@@ -255,6 +255,7 @@
   "Common.Weapon": "武器",
   "Common.WeekNth": "🦘 Week {{number}}",
   "Common.Week_plural": "🦘 Weeks",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "二倍およびフルサイズのモジュールは排他的です。別の列にモジュールを追加してみてください。",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "ヘッダーグループは、一倍サイズのモジュールのみをサポートします。",
   "CustomisableLayout.Error.HeaderSingleModule": "ヘッダーグループは列ごとに1つのモジュールしかサポートしません。",

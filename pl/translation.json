@@ -255,6 +255,7 @@
   "Common.Weapon": "Broń",
   "Common.WeekNth": "tydzień {{number}}",
   "Common.Week_plural": "Tygodnie",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "Moduły o podwójnej i pełnej szerokości są dostępne wyłączne dla kolumn. Spróbuj dodać moduł do innej kolumny.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "Grupa nagłówka obsługuje tylko moduły jednokolumnowe.",
   "CustomisableLayout.Error.HeaderSingleModule": "Grupa nagłówka obsługuje nie więcej niż jeden moduł na kolumnę.",

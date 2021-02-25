@@ -255,6 +255,7 @@
   "Common.Weapon": "Waffe",
   "Common.WeekNth": "Woche {{number}}",
   "Common.Week_plural": "Wochen",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "Module mit doppelter und voller Breite sind exklusive Spalten. Versuch, ein Modul zu einer anderen Spalte hinzuzufügen.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "Die Header-Gruppe unterstützt nur einspaltige Module.",
   "CustomisableLayout.Error.HeaderSingleModule": "Die Header-Gruppe unterstützt nicht mehr als ein Modul pro Spalte.",

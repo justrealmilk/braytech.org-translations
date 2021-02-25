@@ -255,6 +255,7 @@
   "Common.Weapon": "Armi",
   "Common.WeekNth": "Settimana {{number}}",
   "Common.Week_plural": "Settimane",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "Moduli a larghezza doppia o piena sono esclusivi per colonna. Prova ad aggiungere un modulo ad un'altra colonna.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "Il primo gruppo supporta solo moduli a colonna singola.",
   "CustomisableLayout.Error.HeaderSingleModule": "Il primo gruppo non supporta più di un modulo per colonna.",

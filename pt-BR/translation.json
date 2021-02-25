@@ -255,6 +255,7 @@
   "Common.Weapon": "Arma",
   "Common.WeekNth": "Semana {{number}}",
   "Common.Week_plural": "Semanas",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "Módulos duplos e de tamanho cheio são exclusivos para a coluna. Tente adicionar um módulo em outra coluna.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "O cabeçalho do grupo suporta apenas módulos de coluna única.",
   "CustomisableLayout.Error.HeaderSingleModule": "O cabeçalho do grupo não suporta mais que um módeulo por coluna.",

@@ -255,6 +255,7 @@
   "Common.Weapon": "무기",
   "Common.WeekNth": "{{number}}주",
   "Common.Week_plural": "주일",
+  "Compare.SearchPlayer": "🦘",
   "CustomisableLayout.Error.ColumnExclusives": "이중 및 전체 너비 모듈은 열 에서 제외됩니다. 다른 열에 모둘을 추가해 주세요.",
   "CustomisableLayout.Error.HeaderSingleColumnModules": "헤더 그룹은 단일 열 모듈만 지원합니다.",
   "CustomisableLayout.Error.HeaderSingleModule": "헤더 그룹은 열 당 하나의 모듈만 지원합니다.",
