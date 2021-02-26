@@ -419,7 +419,7 @@
   "Notifications.NthMore": "and {{number}} more",
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "The Postmaster is almost out of space. If you do not retrieve your items, you will lose them forever!",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
-  "Notifications.PostmasterCapacityWarning.Name": "WARNING!",
+  "Notifications.PostmasterCapacityWarning.Name": "Warning!",
   "Quests.Category.All.Description": "All quests and related items in your inventory",
   "Quests.Category.All.Name": "All quests",
   "Quests.Category.Exotics.Description": "Exotic Gear and Catalyst quests",
