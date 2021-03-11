@@ -14,6 +14,7 @@
   "Action.HideAcquired": "Erlangte Einträge ausblenden",
   "Action.HideCompleted": "Abgeschlossene Einträge ausblenden",
   "Action.HideRedeemed": "Eingelöste Einträge ausblenden",
+  "Action.MemberRemove": "🦘 Remove Member",
   "Action.NextNth": "🦘 Next {{number}}",
   "Action.NextPage": "nächste Seite",
   "Action.Open": "Öffnen",

@@ -14,6 +14,7 @@
   "Action.HideAcquired": "Masquer acquis",
   "Action.HideCompleted": "Masquer complétés",
   "Action.HideRedeemed": "Masquer rendus",
+  "Action.MemberRemove": "🦘 Remove Member",
   "Action.NextNth": "🦘 Next {{number}}",
   "Action.NextPage": "Page suivante",
   "Action.Open": "Ouvrir",

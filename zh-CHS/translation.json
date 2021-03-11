@@ -14,6 +14,7 @@
   "Action.HideAcquired": "隐藏已取得项",
   "Action.HideCompleted": "隐藏已完成项",
   "Action.HideRedeemed": "隐藏已兑换项",
+  "Action.MemberRemove": "🦘 Remove Member",
   "Action.NextNth": "🦘 Next {{number}}",
   "Action.NextPage": "下一页",
   "Action.Open": "打开",

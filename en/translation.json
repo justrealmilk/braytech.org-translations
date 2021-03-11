@@ -14,6 +14,7 @@
   "Action.HideAcquired": "Hide Acquired",
   "Action.HideCompleted": "Hide Completed",
   "Action.HideRedeemed": "Hide Redeemed",
+  "Action.MemberRemove": "Remove Member",
   "Action.NextNth": "Next {{number}}",
   "Action.NextPage": "Next Page",
   "Action.Open": "Open",
