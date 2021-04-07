@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "Exemplo: o nódulo não está mais acessível",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Capturas de Tela propostas devem obedecer um critério muito estrito:\n- Possuir resolução de 1920x1080\n- HUD invisível\n-Nenhum Guardião ou equipamento visível\n- Nenhum inimigo visível\n- Configurações de vídeo máximas\n  - Incluir uma resolução de renderização de 200%",
   "Maps.ScreenshotUnavailable": "Captura de Tela Indisponível",
+  "Maps.Surveyor.Capture": "🦘 Capture Position",
   "Maps.Surveyor.CopyDefinitions": "Copiar Definições",
   "Maps.Surveyor.CopyNodes": "Copiar nódulo",
   "Maps.Surveyor.NoNodes": "Selecione uma posição no mapa para começar.",
