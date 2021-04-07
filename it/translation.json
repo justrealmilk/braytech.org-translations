@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "Esempio: questo nodo non è più accessibile",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Gli screenshot proposti devono soddisfare certi critri di qualità:\n- risoluzione display in 1920x1080\n- nessuna interfaccia visibile\n- nessun Guardiano o equipaggiamento visibili\n- nessun nemico visibile\n- impostazioni video al massimo\n  - risoluzione render 200%",
   "Maps.ScreenshotUnavailable": "Screenshot non disponibile",
+  "Maps.Surveyor.CopyDefinitions": "🦘",
   "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
   "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
   "Maps.Surveyor.ScrapNodes": "🦘 Scrap Nodes",

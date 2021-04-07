@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "例如：该节点不再可访问",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Proposed screenshots must meet a strict quality criteria:\n- display resolution of 1920x1080\n- no visible HUD\n- no visible Guardians or equipment\n- no visible enemies\n- maximum video settings\n  - including a render resolution of 200%",
   "Maps.ScreenshotUnavailable": "截图不可用",
+  "Maps.Surveyor.CopyDefinitions": "🦘",
   "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
   "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
   "Maps.Surveyor.ScrapNodes": "🦘 Scrap Nodes",

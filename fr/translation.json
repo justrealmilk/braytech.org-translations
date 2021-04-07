@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "Exemple: le nœud n'est plus accessible",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Les captures d'écran proposées doivent répondre à des critères de qualité stricts:\n- résolution d'affichage de 1920 x 1080\n- aucun HUD visible\n- aucun gardien ou équipement visible\n- aucun ennemi visible\n- paramètres vidéo maximum\n - y compris une résolution de rendu de 200%",
   "Maps.ScreenshotUnavailable": "Capture d'écran indisponible",
+  "Maps.Surveyor.CopyDefinitions": "🦘",
   "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
   "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
   "Maps.Surveyor.ScrapNodes": "🦘 Scrap Nodes",

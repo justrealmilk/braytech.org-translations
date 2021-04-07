@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "Przykład: węzeł nie jest już dostępny",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Proponowane zrzuty ekranu muszą spełniać surowe kryteria jakościowe: \n- rozdzielczość ekranu 1920 x 1080 \n- brak widocznego HUD \n- brak widocznych strażników lub sprzętu \n- brak widocznych wrogów \n- maksymalne ustawienia wideo \n - w tym rozdzielczość renderowania 200%",
   "Maps.ScreenshotUnavailable": "Zrzut ekranu niedostępny",
+  "Maps.Surveyor.CopyDefinitions": "🦘",
   "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
   "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
   "Maps.Surveyor.ScrapNodes": "🦘 Scrap Nodes",

@@ -403,6 +403,7 @@
   "Maps.ProposeChanges.Form.Issues.Placeholder": "Beispiel: Knoten ist nicht mehr Verfügbar",
   "Maps.ProposeChanges.Form.Screenshots.Description": "Für Screenshots gelten strikte Anforderungen:\n- Auflösung von 1920x1080\n- kein sichtbares HUD\n- keine sichtbare Hüter Ausrüstung\n- keine Gegner\n- höchste Grafikeinstellungen\n  - insberondere eine Renderauflösung von 200$",
   "Maps.ScreenshotUnavailable": "Screenshot nicht verfügbar",
+  "Maps.Surveyor.CopyDefinitions": "🦘",
   "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
   "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
   "Maps.Surveyor.ScrapNodes": "🦘 Scrap Nodes",
