@@ -537,7 +537,7 @@
   "Settings.Sync.State.Merged": "Dernière fusion depuis {{duration}}",
   "Settings.Sync.State.Synced": "Dernière synchronisation depuis {{duration}}",
   "Settings.System.ReloadAppAutomatically.Description": "Lorsqu'une mise à jour pour Braytech est prête, rechargez automatiquement l'application indépendamment de ce que vous faites.",
-  "Settings.System.ReloadAppAutomatically.Name": "Recharger automatiquement l'application",
+  "Settings.System.ReloadAppAutomatically.Name": "Recharger automatiquement",
   "Settings.Theme.Dark.Name": "Foncé",
   "Settings.Theme.Light.Name": "Clair",
   "Settings.Theme.SystemPreference.Name": "Système",
