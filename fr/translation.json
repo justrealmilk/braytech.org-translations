@@ -475,7 +475,7 @@
   "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Les nœuds de carte, tels que les coffres de région, qui n'ont pas de capture d'écran associée seront mis en évidence afin d'aider les utilisateurs à contribuer aux données des cartes.",
   "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Mettre en surbrillance les nœuds sans captures d'écran",
   "Settings.Developer.Maps.Surveyor.Description": "Un contrôle de cartes supplémentaire permettant la collecte facile et rapide de positions cartographiques.",
-  "Settings.Developer.Maps.Surveyor.Name": "Utiliser 'Surveyor'",
+  "Settings.Developer.Maps.Surveyor.Name": "Utiliser l'Arpenteur",
   "Settings.IDB.ClearCache.Description": "Effacez les ressources mises en cache telles que les images cartographiques. Ces éléments sont téléchargés au fur et à mesure de leurs besoins.",
   "Settings.IDB.ClearCache.Name": "Vider le cache",
   "Settings.IDB.ClearManifest.Description": "Supprimez le manifeste Destiny stocké sur cet appareil. Braytech a besoin du manifeste pour fonctionner et il sera téléchargé à nouveau au prochain démarrage de l'application.",
