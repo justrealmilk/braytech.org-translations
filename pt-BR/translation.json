@@ -514,7 +514,7 @@
   "Settings.Language.Action.Reload.Name": "Salvar e reiniciar",
   "Settings.Maps.Checklists.Info": "Alternar a visibilidade das Checklists. Mantenha-a limpa.",
   "Settings.Maps.Developer.Info": "Ferramentas para ajudar desenvolvedores quando trabalharem no _Mapas_",
-  "Settings.Maps.Visual.Atmosphere.Description": "Exibir o clima, como nuvens cobertas.",
+  "Settings.Maps.Visual.Atmosphere.Description": "Exibir o clima, como cobertura de nuvens.",
   "Settings.Maps.Visual.Atmosphere.Name": "Atmosfera",
   "Settings.Maps.VisualFidelity.Info": "Altere o número de enfeites visuais",
   "Settings.SubCategory.Authentication": "Autenticação",
