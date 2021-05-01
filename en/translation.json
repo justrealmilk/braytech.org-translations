@@ -117,7 +117,7 @@
   "Checklists.StasisSealedChests.Prefix": "Artifact",
   "Clan.About.Founded": "Founded {{time}}",
   "Clan.About.RewardEngrams": "Reward Engrams",
-  "Clan.Administration.ViewportWidth": "Administration is intended for use on larger displays. Please use a display with a viewport of atleast `1500px`.",
+  "Clan.Administration.ViewportWidth": "Administration is intended for use on larger displays. Please use a display with a viewport of atleast `1280px`.",
   "Clan.BannerPerks": "Banner Perks",
   "Clan.ClanAdministration": "Administration",
   "Clan.ClanBannerBuilder.BannerColor": "Banner Color",
