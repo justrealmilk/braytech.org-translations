@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "名片前景色",
   "Clan.ClanBannerBuilder.Name": "公会旗帜生成器",
   "Clan.ClanRoster": "🦘 Roster",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "历史数据适用于分辨率更大的窗口，请保证您的窗口分辨率大于 `1024像素` 。",
   "Clan.Members": "{{number}} 成员",
   "Clan.MembersOnline": "🦘 {{number}} Online",

@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "エンブレムの前景色",
   "Clan.ClanBannerBuilder.Name": "クランバナービルダー",
   "Clan.ClanRoster": "🦘 Roster",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`.",
   "Clan.Members": "🦘 {{number}} Members",
   "Clan.MembersOnline": "🦘 {{number}} Online",

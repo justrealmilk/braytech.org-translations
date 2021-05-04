@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Cor da frente do Emblema",
   "Clan.ClanBannerBuilder.Name": "Construtor de Banner de Clã",
   "Clan.ClanRoster": "Elenco",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`.",
   "Clan.Members": "{{number}} Membros",
   "Clan.MembersOnline": "{{number}} Online",

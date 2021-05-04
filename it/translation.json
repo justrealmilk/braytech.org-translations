@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Colore in primo piano effigie",
   "Clan.ClanBannerBuilder.Name": "Crea stendardo",
   "Clan.ClanRoster": "Membri",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "La modalità Statistiche storiche del clan può essere utilizzata solo su schermi grandi. Per favore utilizza un display con una larghezza di almeno `1024px`.",
   "Clan.Members": "{{number}} membri",
   "Clan.MembersOnline": "{{number}} online",

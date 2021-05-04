@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Couleur de premier plan de l'emblème",
   "Clan.ClanBannerBuilder.Name": "Éditeur de bannière de clan",
   "Clan.ClanRoster": "Escouades",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Les statistiques historiques sont destinées à être utilisées sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1024px`.",
   "Clan.Members": "{{number}} Membres",
   "Clan.MembersOnline": "{{number}} en ligne",

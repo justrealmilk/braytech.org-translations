@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Kolor wiodący emblematu",
   "Clan.ClanBannerBuilder.Name": "Budowniczy Chorągwi klanu",
   "Clan.ClanRoster": "Skład",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Statystyki historyczne są przeznaczone do użytku na większych wyświetlaczach. Użyj ekranu z widocznym obszarem co najmniej 1024px.",
   "Clan.Members": " {{number}} Członków",
   "Clan.MembersOnline": "{{number}} Online",

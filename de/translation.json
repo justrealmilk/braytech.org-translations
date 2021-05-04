@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Abzeichen-Vordergrundfarbe",
   "Clan.ClanBannerBuilder.Name": "Clan-Banner-Ersteller",
   "Clan.ClanRoster": "Übersicht",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Die historische Statistik ist für große Displays ausgelegt. Daher ist diese Seite nur für einen Viewport von mindestens 1024px Breite verfügbar",
   "Clan.Members": "{{number}} Mitglieder",
   "Clan.MembersOnline": "{{number}} Online",

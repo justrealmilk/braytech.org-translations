@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Color en primer plano del emblema",
   "Clan.ClanBannerBuilder.Name": "Diseñador de estandartes de clan",
   "Clan.ClanRoster": "Jugadores",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`.",
   "Clan.Members": "{{number}} miembros",
   "Clan.MembersOnline": "{{number}} en línea",

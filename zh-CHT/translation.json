@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "名片前景色",
   "Clan.ClanBannerBuilder.Name": "公會旗幟生成器",
   "Clan.ClanRoster": "名冊",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "歷史信息統計應該在較大的顯示器上使用，請保證最少為`1024px`.",
   "Clan.Members": "{{number}} 成員",
   "Clan.MembersOnline": "{{number}} 在綫",

@@ -132,6 +132,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "엠블럼 주 색상",
   "Clan.ClanBannerBuilder.Name": "클랜 배너 생성기",
   "Clan.ClanRoster": "명단",
+  "Clan.ClanTimetable": "🦘 Timetable",
   "Clan.HistoricalStats.ViewportWidth": "전적 통계는 더 큰 화면에서 사용할 수 있습니다. 화면 크기가 `1024px` 이상인 화면을 사용하십시오.",
   "Clan.Members": "{{number}}명",
   "Clan.MembersOnline": "{{number}}명 접속중",
