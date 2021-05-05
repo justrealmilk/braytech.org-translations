@@ -1,6 +1,6 @@
 {
   "Action.Accept": "Accetta",
-  "Action.AddEvent": "🦘 Add Event",
+  "Action.AddEvent": "Aggiungi evento",
   "Action.AllClasses": "Tutte le classi",
   "Action.Back": "Indietro",
   "Action.BecomeAPatron": "Diventa un Patron",
@@ -133,7 +133,7 @@
   "Clan.ClanBannerBuilder.EmblemForegroundColor": "Colore in primo piano effigie",
   "Clan.ClanBannerBuilder.Name": "Crea stendardo",
   "Clan.ClanRoster": "Membri",
-  "Clan.ClanTimetable": "Orari",
+  "Clan.ClanTimetable": "Programmazione",
   "Clan.HistoricalStats.ViewportWidth": "La modalità Statistiche storiche del clan può essere utilizzata solo su schermi grandi. Per favore utilizza un display con una larghezza di almeno `1024px`.",
   "Clan.Members": "{{number}} membri",
   "Clan.MembersOnline": "{{number}} online",
