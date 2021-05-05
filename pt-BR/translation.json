@@ -1,6 +1,6 @@
 {
   "Action.Accept": "Aceitar",
-  "Action.AddEvent": "🦘 Add Event",
+  "Action.AddEvent": "Adicionar evento",
   "Action.AllClasses": "Todas as Classes",
   "Action.Back": "Voltar",
   "Action.BecomeAPatron": "Torne-se um Patron",
@@ -205,7 +205,7 @@
   "Common.Collections": "Coleções",
   "Common.Commonality": "Raridades",
   "Common.Completed": "Completado",
-  "Common.DateTime": "🦘 Date Time",
+  "Common.DateTime": "Data/Hora",
   "Common.EmpireHunt": "Caçada Imperial",
   "Common.Error": "Erro",
   "Common.Event": "Evento",
