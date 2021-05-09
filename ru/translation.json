@@ -1,5 +1,6 @@
 {
   "Action.Accept": "Принять",
+  "Action.AddBookmark": "🦘 Add Bookmark",
   "Action.AddEvent": "Добавить мероприятие",
   "Action.AllClasses": "Все классы",
   "Action.Back": "Назад",
@@ -27,6 +28,7 @@
   "Action.PreviousPage": "Предыдущая страница",
   "Action.ReloadApp": "Перезагрузить приложение",
   "Action.ReloadAppAutomatically": "Перезагружать приложение автоматически",
+  "Action.RemoveBookmark": "🦘 Remove Bookmark",
   "Action.Set": "Установить",
   "Action.Share": "Поделиться",
   "Action.ShowAll": "Показать всё",

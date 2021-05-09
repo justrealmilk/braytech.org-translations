@@ -1,5 +1,6 @@
 {
   "Action.Accept": "接受",
+  "Action.AddBookmark": "🦘 Add Bookmark",
   "Action.AddEvent": "🦘 Add Event",
   "Action.AllClasses": "所有類",
   "Action.Back": "返回",
@@ -27,6 +28,7 @@
   "Action.PreviousPage": "上壹頁",
   "Action.ReloadApp": "重新載入Braytech",
   "Action.ReloadAppAutomatically": "🦘 Reload App Automatically",
+  "Action.RemoveBookmark": "🦘 Remove Bookmark",
   "Action.Set": "設置",
   "Action.Share": "分享",
   "Action.ShowAll": "展示所有",

@@ -1,5 +1,6 @@
 {
   "Action.Accept": "Aceptar",
+  "Action.AddBookmark": "🦘 Add Bookmark",
   "Action.AddEvent": "Añadir evento",
   "Action.AllClasses": "Todas las clases",
   "Action.Back": "Atrás",
@@ -27,6 +28,7 @@
   "Action.PreviousPage": "Página anterior",
   "Action.ReloadApp": "Recargar aplicación",
   "Action.ReloadAppAutomatically": "Recargar la aplicación automáticamente",
+  "Action.RemoveBookmark": "🦘 Remove Bookmark",
   "Action.Set": "Establecer",
   "Action.Share": "Compartir",
   "Action.ShowAll": "Mostrar todo",

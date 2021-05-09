@@ -1,5 +1,6 @@
 {
   "Action.Accept": "🦘 Accept",
+  "Action.AddBookmark": "🦘 Add Bookmark",
   "Action.AddEvent": "🦘 Add Event",
   "Action.AllClasses": "🦘 All Classes",
   "Action.Back": "戻る",
@@ -27,6 +28,7 @@
   "Action.PreviousPage": "前のページ",
   "Action.ReloadApp": "🦘 Common.ReloadApp",
   "Action.ReloadAppAutomatically": "🦘 Reload App Automatically",
+  "Action.RemoveBookmark": "🦘 Remove Bookmark",
   "Action.Set": "🦘 Set",
   "Action.Share": "🦘 Share",
   "Action.ShowAll": "すべてを表示する",

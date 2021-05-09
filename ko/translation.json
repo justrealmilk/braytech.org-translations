@@ -1,5 +1,6 @@
 {
   "Action.Accept": "확인",
+  "Action.AddBookmark": "🦘 Add Bookmark",
   "Action.AddEvent": "🦘 Add Event",
   "Action.AllClasses": "모든 직업",
   "Action.Back": "뒤로",
@@ -27,6 +28,7 @@
   "Action.PreviousPage": "지난 페이지",
   "Action.ReloadApp": "앱 재시작",
   "Action.ReloadAppAutomatically": "🦘 Reload App Automatically",
+  "Action.RemoveBookmark": "🦘 Remove Bookmark",
   "Action.Set": "설정",
   "Action.Share": "공유",
   "Action.ShowAll": "모두 보기",
