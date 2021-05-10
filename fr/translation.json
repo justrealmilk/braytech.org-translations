@@ -155,6 +155,8 @@
   "Clan.Relationships.GroupsAndHistory.Description": "En cours d'analyse de l'historique des clans et des activités",
   "Clan.Relationships.HydrateReportsCache.Description": "Les données des rapports sont en cours de chargement dans la mémoire à partir du stockage de l'appareil.",
   "Clan.Relationships.Name": "Relations",
+  "Clan.Relationships.NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
+  "Clan.Relationships.NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
   "Clan.Relationships.RomanticPartnerships": "Partenariats romantiques",
   "Clan.Roster.Approve": "Approuver",
   "Clan.Roster.Ban": "Bannir",

@@ -155,6 +155,8 @@
   "Clan.Relationships.GroupsAndHistory.Description": "Analizando el historial del clan y de las actividades",
   "Clan.Relationships.HydrateReportsCache.Description": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
   "Clan.Relationships.Name": "Relaciones",
+  "Clan.Relationships.NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
+  "Clan.Relationships.NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
   "Clan.Relationships.RomanticPartnerships": "Relaciones románticas",
   "Clan.Roster.Approve": "Aprobar",
   "Clan.Roster.Ban": "Prohibir",

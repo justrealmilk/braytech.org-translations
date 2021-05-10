@@ -155,6 +155,8 @@
   "Clan.Relationships.GroupsAndHistory.Description": "Анализируем клан и историю активностей",
   "Clan.Relationships.HydrateReportsCache.Description": "Данные активностей загружаются в память из локального хранилища.",
   "Clan.Relationships.Name": "Взаимоотношения",
+  "Clan.Relationships.NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
+  "Clan.Relationships.NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
   "Clan.Relationships.RomanticPartnerships": "Больше, чем друзья",
   "Clan.Roster.Approve": "Принять",
   "Clan.Roster.Ban": "Забанить",
