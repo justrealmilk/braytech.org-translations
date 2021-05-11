@@ -49,4 +49,9 @@ export default [
     membershipType: 3,
     membershipId: '4611686018483456899', // AinaSnow
   },
+  {
+    language: 'fr',
+    membershipType: 3,
+    membershipId: '4611686018471834151', // Saumon Sauvage
+  }
 ];
