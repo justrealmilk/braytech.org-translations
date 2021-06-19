@@ -338,6 +338,8 @@
   "Landing.Blog.AllPosts": "🦘 All Posts",
   "Landing.Blog.Error": "Blog posts couldn't be loaded at this time.",
   "Landing.Blog.Name": "🦘 Blog",
+  "Landing.Features.Description": "🦘 Braytech is a passion project. Its development has been ongoing for over two years and has seen many incremental additions and improvements. Its developer, Tom Chapman, is a fan of Destiny's design and it strongly influences Braytech's aesthetic.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search HUD, available anywhere in the app.\n\nBraytech is built for desktop users first, but works and looks beautiful as a mobile app. In fact, there's an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa) in the Play store.",
+  "Landing.Features.Name": "🦘 Talented",
   "Landing.Support.Description": "Building these beautiful interfaces and fencing with Bungie's APIs takes effort and time. I can only devote so much of it to hobby ventures, which also cost money to keep online. I have a firm stance against ads on web sites as we know them. As such, I prefer to support these projects out of my own pocket and depend on the generosity of my community.\n\nBy supporting me, you can help ensure that I can keep these projects online, as well as help enable me to continue adding cool new features.",
   "Landing.Support.Name": "🦘 Support Braytech",
   "Landing.Tagline.Description": "🦘 A Guardian's second favourite Multi-Tool",
