@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "Zakładki",
   "Activity.DownloadReports.Description": "Pobieranie Raportu",
   "Activity.DownloadReports.Name": "Zbieranie danych drużyny ogniowej z Bungie.net. Może to chwilę potrwać w zależności od Twojej sieci i wymaganej liczby.",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Błąd Bungie",
   "App.ErrorBoundary.Discord": "Braytech napotkał błąd krytyczny. Jesli jedna z dostępnych akcji nie rozwiązuje Twojego problemu, prosze dołącz do [Discord](https://discord.braytech.org) aby uzyskać dalsza pomoc.",
   "App.ErrorBoundary.Version": "Zgłaszając ten błąd, zacytuj następujący ciąg informacji.",

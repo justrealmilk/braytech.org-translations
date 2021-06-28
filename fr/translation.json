@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "Favoris",
   "Activity.DownloadReports.Description": "Téléchargement des rapports",
   "Activity.DownloadReports.Name": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Erreur Bungie",
   "App.ErrorBoundary.Discord": "Braytech a rencontré une erreur fatale. Si l'une des actions disponibles ne résout pas votre problème, veuillez rejoindre le [Discord] (https://discord.braytech.org) pour obtenir de l'aide.",
   "App.ErrorBoundary.Version": "Veuillez citer la chaîne suivante lorsque vous signalez cette erreur.",

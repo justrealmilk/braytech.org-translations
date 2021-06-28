@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "书签",
   "Activity.DownloadReports.Description": "正在下载报告",
   "Activity.DownloadReports.Name": "正在从 Bungie.net 收集火力战队数据，所需的时间将取决于你的网络和请求的数据量。",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Bungie 发生错误",
   "App.ErrorBoundary.Discord": "Braytech遇到了致命错误。如果帮助文档无法解决您的问题请加入[Discord](https://discord.braytech.org)以获得进一步帮助 ",
   "App.ErrorBoundary.Version": "请在报告错误时带上下方的文字",

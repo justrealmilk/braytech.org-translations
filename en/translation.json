@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "Bookmarks",
   "Activity.DownloadReports.Description": "Collecting fireteam data from Bungie.net",
   "Activity.DownloadReports.Name": "Downloading Reports",
+  "Activity.Graphs.Name": "Graphs",
   "App.BungieError": "Bungie Error",
   "App.ErrorBoundary.Discord": "Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.braytech.org) for further assistance.",
   "App.ErrorBoundary.Version": "Please quote the following string when reporting this error.",

@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "Favoritos",
   "Activity.DownloadReports.Description": "Descargando informes",
   "Activity.DownloadReports.Name": "Recolectando datos de escuadra de Bungie.net. Esto puede llevar un tiempo en función de tu red y del número requerido.",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Error de Bungie",
   "App.ErrorBoundary.Discord": "Braytech encontró un error fatal. Si una de las acciones disponibles no resuelve tu problema, por favor únete al [Discord](https://discord.braytech.org) para obtener más ayuda.",
   "App.ErrorBoundary.Version": "Por favor, cita la siguiente línea cuando informes de este error.",

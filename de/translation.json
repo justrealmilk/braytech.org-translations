@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "Lesezeichen",
   "Activity.DownloadReports.Description": "Bericht herunterladen",
   "Activity.DownloadReports.Name": "Sammeln von Fireteam-Daten von Bungie.net. Dies kann je nach Netzwerk und Menge eine Weile dauern.",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Bungie Fehler",
   "App.ErrorBoundary.Discord": "Braytech hat einen schwerwiegenden Fehler festgestellt. Wenn eine der vorgeschlagenen Aktionen dein Problem nicht behebt, tritt dem [Discord](https://discord.braytech.org) bei, um weitere Hilfe zu erhalten.",
   "App.ErrorBoundary.Version": "Bitte geben Sie die folgenden Text an, wenn Sie diesen Fehler melden.",

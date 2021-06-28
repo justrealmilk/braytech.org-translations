@@ -38,6 +38,7 @@
   "Activity.Bookmarks.Name": "🦘 Bookmarks",
   "Activity.DownloadReports.Description": "🦘 Downloading Reports",
   "Activity.DownloadReports.Name": "🦘 Collecting fireteam data from Bungie.net. This might take a while based on your network and the number required.",
+  "Activity.Graphs.Name": "🦘 Graphs",
   "App.BungieError": "Bungie 오류",
   "App.ErrorBoundary.Discord": "Braytech에서 치명적인 오류가 발생했습니다. 사용할 수 있는 작업 중 하나도 문제를 해결하지 못할 경우 [Discord](https://discord.braytech.org)에 참여해 추가 지원을 받을 수 있습니다.",
   "App.ErrorBoundary.Version": "이 오류를 제보할 때 다음 내용을 첨부해주세요.",
