@@ -784,7 +784,7 @@
   "UserModules.SeasonArtifact.Progression.UnlockProgress": "Prochain déverrouillage d'artéfact",
   "UserModules.SeasonArtifact.Progression.Unlocks": "Déverouillage d'artéfact",
   "UserModules.SeasonArtifact.TimeRemaining": "Il reste {{duration}} avant la fin de la {{season}}",
-  "UserModules.SeasonChallenges.Name": "🦘",
+  "UserModules.SeasonChallenges.Name": "Défis saisonniers",
   "UserModules.SeasonPass.Name": "Pass saisonnier",
   "UserModules.TrialsOfOsiris.GameHistory": "Historique des parties",
   "UserModules.TrialsOfOsiris.Info": "Commencez vos passages en Jugement en parlant avec Saint-14.",
