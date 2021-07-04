@@ -96,7 +96,7 @@
   "Auth.PatreonAssociation.Success": "Thanks! Your email is now associated with your profiles",
   "Auth.PatreonAssociation.Text": "Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name.\n\nEnable display of relevant flair by entering the email associated with your Patreon account.",
   "Auth.Suggestion.Subtle": "Login with Bungie.net to unlock more features.",
-  "Character.DIMSync.Description": "This feature requires DIM Sync to function. Enable Dim Sync in Settings.",
+  "Character.DIMSync.Description": "This feature requires DIM Sync to function. Enable DIM Sync in _Settings_.",
   "Character.DIMSync.Name": "DIM Sync",
   "CharacterSelect.ActiveProfile": "Active Profile",
   "CharacterSelect.BNetProfile": "Bungie.net Profile",
