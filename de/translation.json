@@ -51,6 +51,7 @@
   "Activity.Modes.Last100.PvE": "Letzten 100 Aktivitäten",
   "Activity.Modes.Last100.PvP": "Letzten 100 Matches",
   "Activity.Modes.Lifetime": "Lebenslang",
+  "Activity.Modes.Line.AverageKD": "🦘 Average K/D",
   "Activity.Modes.Line.PvPKD": "🦘 K/D Ratio",
   "Activity.Modes.Scatter.PvEFailure": "Gescheitert",
   "Activity.Modes.Scatter.PvEFlawless": "Makellos",

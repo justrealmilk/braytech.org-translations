@@ -51,6 +51,7 @@
   "Activity.Modes.Last100.PvE": "🦘 Last 100 Activities",
   "Activity.Modes.Last100.PvP": "🦘 Last 100 Matches",
   "Activity.Modes.Lifetime": "Lifetime",
+  "Activity.Modes.Line.AverageKD": "🦘 Average K/D",
   "Activity.Modes.Line.PvPKD": "🦘 K/D Ratio",
   "Activity.Modes.Scatter.PvEFailure": "🦘 Failure",
   "Activity.Modes.Scatter.PvEFlawless": "🦘 Flawless",

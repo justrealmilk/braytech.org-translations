@@ -51,6 +51,7 @@
   "Activity.Modes.Last100.PvE": "최근 활동 100회",
   "Activity.Modes.Last100.PvP": "최근 매치 100회",
   "Activity.Modes.Lifetime": "전체 기간",
+  "Activity.Modes.Line.AverageKD": "🦘 Average K/D",
   "Activity.Modes.Line.PvPKD": "🦘 K/D Ratio",
   "Activity.Modes.Scatter.PvEFailure": "🦘 Failure",
   "Activity.Modes.Scatter.PvEFlawless": "무결점",

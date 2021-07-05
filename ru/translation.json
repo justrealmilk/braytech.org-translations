@@ -51,6 +51,7 @@
   "Activity.Modes.Last100.PvE": "Последние 100 активностей",
   "Activity.Modes.Last100.PvP": "Последние 100 матчей",
   "Activity.Modes.Lifetime": "Все время",
+  "Activity.Modes.Line.AverageKD": "🦘 Average K/D",
   "Activity.Modes.Line.PvPKD": "🦘 K/D Ratio",
   "Activity.Modes.Scatter.PvEFailure": "Неудача",
   "Activity.Modes.Scatter.PvEFlawless": "Безупречно",
