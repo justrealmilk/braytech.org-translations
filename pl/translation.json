@@ -561,6 +561,7 @@
   "Settings.Sync.State.Synced": "Ostatnio synchronizowano {{duration}} temu",
   "Settings.System.ReloadAppAutomatically.Description": "Gdy aktualizacja Braytech jest gotowa, automatycznie przeładuj aplikację, niezależnie od tego, co robisz.",
   "Settings.System.ReloadAppAutomatically.Name": "Przeładuj aplikację automatycznie",
+  "Settings.Theme.Black.Name": "🦘 Black",
   "Settings.Theme.Dark.Name": "Ciemny",
   "Settings.Theme.Light.Name": "Jasny",
   "Settings.Theme.SystemPreference.Name": "Zdefiniowany przez system",

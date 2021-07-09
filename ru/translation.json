@@ -561,6 +561,7 @@
   "Settings.Sync.State.Synced": "Синхронизировано {{duration}} назад",
   "Settings.System.ReloadAppAutomatically.Description": "При появлении обновления для Braytech-а, перезагружать приложение вне зависимости от того, чем вы заняты.",
   "Settings.System.ReloadAppAutomatically.Name": "Перезагружать приложение автоматически",
+  "Settings.Theme.Black.Name": "🦘 Black",
   "Settings.Theme.Dark.Name": "Темная",
   "Settings.Theme.Light.Name": "Светлая",
   "Settings.Theme.SystemPreference.Name": "Выбрано системой",

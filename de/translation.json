@@ -560,6 +560,7 @@
   "Settings.Sync.State.Synced": "Letzte Synchronisation vor {{duration}}",
   "Settings.System.ReloadAppAutomatically.Description": "Wenn ein Update für Braytech bereitsteht wird die App, unabhängig davon was du gerade tust, automatisch neu geladen.",
   "Settings.System.ReloadAppAutomatically.Name": "App automatisch neuladen",
+  "Settings.Theme.Black.Name": "🦘 Black",
   "Settings.Theme.Dark.Name": "Dunkel",
   "Settings.Theme.Light.Name": "Hell",
   "Settings.Theme.SystemPreference.Name": "Dem System anpassen",

@@ -559,6 +559,7 @@
   "Settings.Sync.State.Synced": "上次同步于 {{duration}} 前",
   "Settings.System.ReloadAppAutomatically.Description": "🦘 When an update for Braytech is ready, reload the app automatically irregardless of what you're doing.",
   "Settings.System.ReloadAppAutomatically.Name": "🦘 Reload App Automatically",
+  "Settings.Theme.Black.Name": "🦘 Black",
   "Settings.Theme.Dark.Name": "暗",
   "Settings.Theme.Light.Name": "亮",
   "Settings.Theme.SystemPreference.Name": "匹配系統",
