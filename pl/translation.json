@@ -333,7 +333,7 @@
   "FAQ.Braytech.ServiceWorkerUpdate.Name": "🦘 Braytech won't update",
   "FAQ.Voluspa.About.Description": "🦘 _Voluspa_, named after a sub-mind of _Rasputin_, is what I've named the serverside component of Braytech. It's responsible for collating the profile data of Braytech's users for commonality statistics, settings sync, and other key features.",
   "FAQ.Voluspa.About.Name": "🦘 About Voluspa",
-  "GettingStarted.Header.Description": "🦘 Welcome to Braytech! Before you get started, I've got a handful of tips for you.",
+  "GettingStarted.Header.Description": "🦘 Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on Discord or you can check out the FAQ!",
   "GettingStarted.Header.Name": "🦘 Getting Started",
   "GettingStarted.Header.SubName": "🦘 Clovis Bray Technologies",
   "GettingStarted.Tips.Customise.Description": "🦘 Customise _Weeklies_ view to your liking by adjusting which modules are visible.\n\nTap _Customise_ from the toolbar and drag and drop some blocks!",
