@@ -776,6 +776,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "🦘 Game History",
   "UserModules.TrialsOfOsiris.Info": "與聖人-14交談開始妳的試煉",
   "UserModules.TrialsOfOsiris.SelectedPassage": "🦘 Selected Passage",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "Not Enough Materials",
   "Vendor.FailureStrings.NoInventorySpace": "Not Enough Space",
   "Vendor.FailureStrings.UniquenessViolation": "Can only hold one at a time",

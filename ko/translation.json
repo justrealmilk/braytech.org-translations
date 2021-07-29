@@ -776,6 +776,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "게임 기록",
   "UserModules.TrialsOfOsiris.Info": "세인트-14와 대화하여 시련을 시작하세요.",
   "UserModules.TrialsOfOsiris.SelectedPassage": "선택한 통행권",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "재료가 충분하지 않습니다.",
   "Vendor.FailureStrings.NoInventorySpace": "공간이 부족합니다.",
   "Vendor.FailureStrings.UniquenessViolation": "한 번에 하나만 소지할 수 있습니다.",

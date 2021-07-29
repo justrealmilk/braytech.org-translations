@@ -778,6 +778,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "🦘 Game History",
   "UserModules.TrialsOfOsiris.Info": "🦘 Begin your trials by speaking with Saint-14.",
   "UserModules.TrialsOfOsiris.SelectedPassage": "🦘 Selected Passage",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "🦘 Not Enough Materials",
   "Vendor.FailureStrings.NoInventorySpace": "🦘 Not Enough Space",
   "Vendor.FailureStrings.UniquenessViolation": "🦘 Can only hold one at a time",

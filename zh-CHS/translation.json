@@ -776,6 +776,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "游玩记录",
   "UserModules.TrialsOfOsiris.Info": "与圣-14交谈开始你的试炼。",
   "UserModules.TrialsOfOsiris.SelectedPassage": "已选择的入场券",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "没有足够材料",
   "Vendor.FailureStrings.NoInventorySpace": "没有足够空间",
   "Vendor.FailureStrings.UniquenessViolation": "同时只能持有一件",

@@ -777,6 +777,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "Spielverlauf",
   "UserModules.TrialsOfOsiris.Info": "Beginne deine Prüfungen indem du mit dem 14. Heiligen sprichst.",
   "UserModules.TrialsOfOsiris.SelectedPassage": "Ausgewählter Pass",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "Nicht ausreichend Materialien",
   "Vendor.FailureStrings.NoInventorySpace": "Nicht ausreichend Platz",
   "Vendor.FailureStrings.UniquenessViolation": "Besitz nur einfach möglich",

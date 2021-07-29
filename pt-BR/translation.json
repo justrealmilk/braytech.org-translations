@@ -777,6 +777,8 @@
   "UserModules.TrialsOfOsiris.GameHistory": "Histórico de Jogos",
   "UserModules.TrialsOfOsiris.Info": "Comece os desafios falando com São-14",
   "UserModules.TrialsOfOsiris.SelectedPassage": "Passagem Selecionada",
+  "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
+  "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his load out will show up here.",
   "Vendor.FailureStrings.NoFunds": "Materiais Insuficientes",
   "Vendor.FailureStrings.NoInventorySpace": "Espaço Insuficiente",
   "Vendor.FailureStrings.UniquenessViolation": "Só pode possuir um por vez",
