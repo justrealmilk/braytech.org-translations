@@ -687,7 +687,7 @@
   "UserModules.Challenges.Activities": "Activities",
   "UserModules.Challenges.Bounties": "Bounties",
   "UserModules.Challenges.Name": "Weekly Rituals",
-  "UserModules.Challenges.NoChallenges": "It seems your Guardian has smashed all of their available challenges this week.",
+  "UserModules.Challenges.NoChallenges": "You've smashed all of your available challenges this week!",
   "UserModules.Challenges.Seasonal": "Seasonal",
   "UserModules.Challenges.Type.Bounties": "Bounties",
   "UserModules.Challenges.Type.Crucible": "Crucible",
