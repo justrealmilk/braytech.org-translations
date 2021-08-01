@@ -636,7 +636,7 @@
   "Triumphs.Record.Expiration.Description": "🦘 This record may no longer be obtainable once expired.",
   "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
   "Triumphs.Record.Score.Description": "🦘 This record's finite triumph score value.",
-  "Triumphs.Record.ScoreInterval.Description": "🦘 The current interval's score value over the total record value.",
+  "Triumphs.Record.ScoreInterval.Description": "🦘 The next unredeemed interval's score value over the total record value.",
   "Triumphs.Seal_plural": "🦘 Seals",
   "Triumphs.Seals.Commonality.Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
   "Triumphs.Seals.Commonality.Name": "印のレアリティ",
