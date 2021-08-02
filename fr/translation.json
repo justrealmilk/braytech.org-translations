@@ -639,7 +639,7 @@
   "Triumphs.Record.Expiration.Description": "Cet enregistrement a expiré ou n'est plus accessible",
   "Triumphs.Record.IntervalFraction": "{{numerator}} par {{denominator}}",
   "Triumphs.Record.Score.Description": "Valeur du score de triomphe terminé pour cet enregistrement.",
-  "Triumphs.Record.ScoreInterval.Description": "Valeur de score de l'intervalle actuel sur la valeur totale de l'enregistrement.",
+  "Triumphs.Record.ScoreInterval.Description": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement.",
   "Triumphs.Seal_plural": "Sceaux",
   "Triumphs.Seals.Commonality.Description": "La rareté est représentée par le pourcentage de joueurs indexés par Voluspa ayant obtenu ce sceau.",
   "Triumphs.Seals.Commonality.Name": "Rareté du sceau",
