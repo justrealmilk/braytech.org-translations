@@ -27,6 +27,7 @@
   "Action.Open": "Открыть",
   "Action.Previous": "Предыдущие",
   "Action.PreviousPage": "Предыдущая страница",
+  "Action.PullPostmaster": "🦘 Pull From Postmaster",
   "Action.ReloadApp": "Перезагрузить приложение",
   "Action.ReloadAppAutomatically": "Перезагружать приложение автоматически",
   "Action.RemoveBookmark": "🦘 Remove Bookmark",

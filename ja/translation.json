@@ -27,6 +27,7 @@
   "Action.Open": "🦘 Open",
   "Action.Previous": "🦘 Previous",
   "Action.PreviousPage": "前のページ",
+  "Action.PullPostmaster": "🦘 Pull From Postmaster",
   "Action.ReloadApp": "🦘 Common.ReloadApp",
   "Action.ReloadAppAutomatically": "🦘 Reload App Automatically",
   "Action.RemoveBookmark": "🦘 Remove Bookmark",

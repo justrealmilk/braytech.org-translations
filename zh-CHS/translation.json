@@ -27,6 +27,7 @@
   "Action.Open": "打开",
   "Action.Previous": "往前",
   "Action.PreviousPage": "上一页",
+  "Action.PullPostmaster": "🦘 Pull From Postmaster",
   "Action.ReloadApp": "通用.重载应用",
   "Action.ReloadAppAutomatically": "自动重载应用",
   "Action.RemoveBookmark": "移除书签",

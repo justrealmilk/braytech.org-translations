@@ -27,6 +27,7 @@
   "Action.Open": "Abrir",
   "Action.Previous": "Anterior",
   "Action.PreviousPage": "Página anterior",
+  "Action.PullPostmaster": "🦘 Pull From Postmaster",
   "Action.ReloadApp": "Reiniciar App",
   "Action.ReloadAppAutomatically": "Reiniciar App automaticamente",
   "Action.RemoveBookmark": "Remover dos Favoritos",
