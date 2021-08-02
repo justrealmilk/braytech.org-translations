@@ -677,7 +677,7 @@
   "UserModules.AuthUpsell.Upsell2.Name": "Administration du clan",
   "UserModules.AuthUpsell.Upsell3.Description": "Recevez des rappels utiles concernant la prochaine alerte du commis des postes",
   "UserModules.AuthUpsell.Upsell4.Description": "De nouvelles fonctionnalités secrètes sont toujours en préparation...",
-  "UserModules.Challenges.NoChallenges": "Il semble que votre Gardien ait relevé tous les défis disponibles cette semaine.",
+  "UserModules.Challenges.NoChallenges": "Vous avez réussi tous vos défis disponibles cette semaine !",
   "UserModules.Challenges.Type.Bounties": "🦘 Bounties",
   "UserModules.Challenges.Type.Crucible": "🦘 Crucible",
   "UserModules.Challenges.Type.Dungeon": "🦘 Dungeon",
