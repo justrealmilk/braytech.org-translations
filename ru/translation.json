@@ -645,6 +645,7 @@
   "Triumphs.Record.IntervalFraction": "{{numerator}} из {{denominator}}",
   "Triumphs.Record.Score.Description": "Очки триумфов начисляемые за получение триумфа.",
   "Triumphs.Record.ScoreInterval.Description": "Очки триумфов начисляемые за текущий этап в сравнении с очками за все этапы.",
+  "Triumphs.SealTitleSeasonSuffix": "🦘 {{title}} (Season {{season}})",
   "Triumphs.Seal_plural": "Печати",
   "Triumphs.Seals.Commonality.Description": "Редкость печати отображает редкость получения печати среди игроков индексируемых Voluspa.",
   "Triumphs.Seals.Commonality.Name": "Редкость печати",

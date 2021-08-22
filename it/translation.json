@@ -644,6 +644,7 @@
   "Triumphs.Record.IntervalFraction": "{{numerator}} di {{denominator}}",
   "Triumphs.Record.Score.Description": "Il punteggio trionfale finito di questo trionfo.",
   "Triumphs.Record.ScoreInterval.Description": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo.",
+  "Triumphs.SealTitleSeasonSuffix": "🦘 {{title}} (Season {{season}})",
   "Triumphs.Seal_plural": "Sigilli",
   "Triumphs.Seals.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito questo titolo.",
   "Triumphs.Seals.Commonality.Name": "Rarità sigillo",

@@ -643,6 +643,7 @@
   "Triumphs.Record.IntervalFraction": "{{denominator}}分之{{numerator}}",
   "Triumphs.Record.Score.Description": "🦘 This record's finite triumph score value.",
   "Triumphs.Record.ScoreInterval.Description": "🦘 The next unredeemed interval's score value over the total record value.",
+  "Triumphs.SealTitleSeasonSuffix": "🦘 {{title}} (Season {{season}})",
   "Triumphs.Seal_plural": "印章",
   "Triumphs.Seals.Commonality.Description": "印章稀有度代表了 Voluspa 跟踪的玩家的获取百分比。",
   "Triumphs.Seals.Commonality.Name": "印章持有率",

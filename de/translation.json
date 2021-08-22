@@ -644,6 +644,7 @@
   "Triumphs.Record.IntervalFraction": "{{numerator}} von {{denominator}}",
   "Triumphs.Record.Score.Description": "Die finale Triumph Punktzahl.",
   "Triumphs.Record.ScoreInterval.Description": "Die Triumph Punktzahl des aktuellen Intervalls.",
+  "Triumphs.SealTitleSeasonSuffix": "🦘 {{title}} (Season {{season}})",
   "Triumphs.Seal_plural": "Siegel",
   "Triumphs.Seals.Commonality.Description": "Die Seltenheit des Siegels ist der Anteil aller Spieler, die dieses Item gefunden haben und Voluspa indiziert sind.",
   "Triumphs.Seals.Commonality.Name": "Siegel Häufigkeit",

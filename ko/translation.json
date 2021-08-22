@@ -643,6 +643,7 @@
   "Triumphs.Record.IntervalFraction": "{{numerator}} / {{denominator}}",
   "Triumphs.Record.Score.Description": "이 업적에서 얻을 수 있는 점수입니다.",
   "Triumphs.Record.ScoreInterval.Description": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다.",
+  "Triumphs.SealTitleSeasonSuffix": "🦘 {{title}} (Season {{season}})",
   "Triumphs.Seal_plural": "인장",
   "Triumphs.Seals.Commonality.Description": "Voluspa에서 확인되는 유저 중 이 인장을 획득한 플레이어 비율입니다.",
   "Triumphs.Seals.Commonality.Name": "인장 희소성",
