@@ -466,7 +466,7 @@
   "ProfileSearch.PreviousSearches": "Previous Searches",
   "ProfileSearch.SavedProfile": "Saved Profile",
   "ProfileSearch.SearchForPlayer": "Search For Player",
-  "ProfileSearch.SearchPlaceholder": "insert gamertag or SteamId64",
+  "ProfileSearch.SearchPlaceholder": "enter name#code",
   "ProfileSearch.SelectACharacter": "Select A Character",
   "ProfileSearch.TemporaryError": "A temporary Bungie error occurred.",
   "Quests.Details.RelatedMapMode": "This quest step has a related map node, such as a scannable artifact or location.",
