@@ -753,6 +753,7 @@
   "UserModules.SeasonPass.ProgressPassLevel": "Progreso en el rango de temporada",
   "UserModules.SeasonPass.ProgressPowerBonus": "Progreso de la bonificación de potencia",
   "UserModules.TrialsOfOsiris.Determining": "Rasputín ha activado sus recursos para determinar los parámetros del crisol de San-14.",
+  "UserModules.TrialsOfOsiris.Unavailable": "🦘 Saint-14 has suspended Trials until {{date}}, when he'll unveil new challenges and rewards.",
   "UserModules.Xûr.Error": "Se ha producido un error temporal en la comunicación con Voluspa.",
   "UserModules.Xûr.Locating": "Xûr no ha sido visto todavía, pero cuando lo sea, sus mercancías se mostrarán aquí.",
   "Vendor.FailureStrings.NoFunds": "No hay suficientes materiales",

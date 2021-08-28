@@ -752,6 +752,7 @@
   "UserModules.SeasonPass.ProgressPassLevel": "🦘 Season Rank Progress",
   "UserModules.SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",
   "UserModules.TrialsOfOsiris.Determining": "🦘 Rasputin has activated assets to determine the parameters of Saint-14's crucible.",
+  "UserModules.TrialsOfOsiris.Unavailable": "🦘 Saint-14 has suspended Trials until {{date}}, when he'll unveil new challenges and rewards.",
   "UserModules.Xûr.Error": "🦘 A temporary error occurred while communicating with Voluspa.",
   "UserModules.Xûr.Locating": "🦘 Xûr hasn't been spotted yet, but once he has been his sales will be displayed here.",
   "Vendor.FailureStrings.NoFunds": "没有足够材料",
