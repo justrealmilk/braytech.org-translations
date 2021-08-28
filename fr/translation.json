@@ -618,6 +618,7 @@
   "Tooltip.Activity.Team.Opposition": "Equipe ennemie",
   "Tooltip.Highlight.DreambaneArmorMods": "Equipez des mods d'armure du Fléau des rêves pour augmenter votre puissance durant cette activité",
   "Tooltip.Item.ExpiresIn": "Expire dans {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Quantitée",
   "Tooltip.Item.QuantityMax": "Max",
   "Tooltip.Items.StatTotal": "Total",

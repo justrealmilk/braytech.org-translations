@@ -618,6 +618,7 @@
   "Tooltip.Activity.Team.Opposition": "Equipo enemigo",
   "Tooltip.Highlight.DreambaneArmorMods": "Equipa modificadores de armadura Sueño de la perdición para mejorar tu luz durante esta misión.",
   "Tooltip.Item.ExpiresIn": "Caduca en {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Cantidad",
   "Tooltip.Item.QuantityMax": "Cantidad máxima",
   "Tooltip.Items.StatTotal": "Total",

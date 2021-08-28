@@ -617,6 +617,7 @@
   "Tooltip.Activity.Team.Opposition": "敌方队伍",
   "Tooltip.Highlight.DreambaneArmorMods": "装备梦境祸根护甲模组，在此任务中强化你的力量。",
   "Tooltip.Item.ExpiresIn": "在 {{duration}} 后过期",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "数量",
   "Tooltip.Item.QuantityMax": "最大值",
   "Tooltip.Items.StatTotal": "总计",

@@ -618,6 +618,7 @@
   "Tooltip.Activity.Team.Opposition": "Time Oponente",
   "Tooltip.Highlight.DreambaneArmorMods": "Equipe mod de armadura de Matador de Sonhos para melhorar sua luz nessas atividades",
   "Tooltip.Item.ExpiresIn": "Expira em {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Quantidade",
   "Tooltip.Item.QuantityMax": "Máx",
   "Tooltip.Items.StatTotal": "Total",

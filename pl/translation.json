@@ -619,6 +619,7 @@
   "Tooltip.Activity.Team.Opposition": "🦘 Enemy Team",
   "Tooltip.Highlight.DreambaneArmorMods": "🦘 Equip Dreambane armor mods to enhance your light within this activity.",
   "Tooltip.Item.ExpiresIn": "🦘 Expires in {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "🦘 Quantity",
   "Tooltip.Item.QuantityMax": "🦘 Max",
   "Tooltip.Items.StatTotal": "🦘 Total",

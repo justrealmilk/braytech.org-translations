@@ -617,6 +617,7 @@
   "Tooltip.Activity.Team.Opposition": "敵方隊伍",
   "Tooltip.Highlight.DreambaneArmorMods": "裝備驅夢护甲模组，在此任務中强化妳的力量",
   "Tooltip.Item.ExpiresIn": "在 {{duration}} 失效",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "數量",
   "Tooltip.Item.QuantityMax": "最大",
   "Tooltip.Items.StatTotal": "共計",

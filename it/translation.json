@@ -616,6 +616,7 @@
   "Tooltip.Activity.Team.Opposition": "Squadra avversaria",
   "Tooltip.Highlight.DreambaneArmorMods": "Equipaggia le modifiche d'armatura Scacciaincubi per migliorare il tuo potere in questa attività.",
   "Tooltip.Item.ExpiresIn": "Scade tra {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Quantità",
   "Tooltip.Item.QuantityMax": "Max",
   "Tooltip.Items.StatTotal": "Totale",

@@ -619,6 +619,7 @@
   "Tooltip.Activity.Team.Opposition": "Команда противника",
   "Tooltip.Highlight.DreambaneArmorMods": "Используйте модификаторы брони Погибели Снов, чтобы повысить уровень своей силы в ходе выполнения этого задания.",
   "Tooltip.Item.ExpiresIn": "Истекает через {{duration}}.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Количество",
   "Tooltip.Item.QuantityMax": "Максимум",
   "Tooltip.Items.StatTotal": "Всего",

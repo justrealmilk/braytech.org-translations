@@ -618,6 +618,7 @@
   "Tooltip.Activity.Team.Opposition": "gegnerisches Team",
   "Tooltip.Highlight.DreambaneArmorMods": "Rüste Traumfluch-Rüstungs-Modifikationen aus um deine Stärke in dieser Aktivität zu verbessern.",
   "Tooltip.Item.ExpiresIn": "Läuft in {{duration}} ab.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "Anzahl",
   "Tooltip.Item.QuantityMax": "Maximal",
   "Tooltip.Items.StatTotal": "Total",

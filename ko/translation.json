@@ -617,6 +617,7 @@
   "Tooltip.Activity.Team.Opposition": "적군 팀",
   "Tooltip.Highlight.DreambaneArmorMods": "꿈의 파멸 방어구 개조 부품을 착용하여 이 활동에서의 전투력을 강화하세요.",
   "Tooltip.Item.ExpiresIn": "{{duration}} 후에 만료됩니다.",
+  "Tooltip.Item.NoDescription": "🦘 No description available.",
   "Tooltip.Item.Quantity": "수량",
   "Tooltip.Item.QuantityMax": "최대",
   "Tooltip.Items.StatTotal": "총",
