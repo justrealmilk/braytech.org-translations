@@ -58,5 +58,5 @@ export default [
     language: 'zh-CHS',
     membershipType: 3,
     membershipId: '4611686018471262818', // SnowArk
-  },
+  }
 ];
