@@ -53,5 +53,10 @@ export default [
     language: 'fr',
     membershipType: 3,
     membershipId: '4611686018471834151', // Saumon Sauvage
+  },
+  {
+    language: 'zh-CHS',
+    membershipType: 3,
+    membershipId: '4611686018471262818', // SnowArk
   }
 ];
