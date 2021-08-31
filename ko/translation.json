@@ -749,6 +749,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "🦘 During the confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "신성한 정신 교전: 중계기에 첫 티끌이 들어간 순간, 10초 이내로 그 중계기에 총합 30개의 티끌이 모두 들어가야 합니다.",
   "UserModules.SeasonPass.Name": "시즌 패스",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "🦘 Days Remaining In Season",
   "UserModules.SeasonPass.ProgressPassLevel": "🦘 Season Rank Progress",
   "UserModules.SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",

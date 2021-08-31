@@ -750,6 +750,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "🦘 During the confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "Während der Begegnung mit dem Geweihten Geist deponiere alle 30 Partikel an beiden Vex-Relais. Bei jedem Relais müssen alle 30 Partikel innerhalb von 10 Sekunden deponiert werden.",
   "UserModules.SeasonPass.Name": "Saison Pass",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "🦘 Days Remaining In Season",
   "UserModules.SeasonPass.ProgressPassLevel": "🦘 Season Rank Progress",
   "UserModules.SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",

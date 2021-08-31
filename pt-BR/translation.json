@@ -750,6 +750,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "Durante o encontro dos Confluxos, destrua as sepers apenas quando estiverem se sacrificando contra o confluxo.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "Durante o encontro da Mente Santificada, deposite 30 fagulhas em cada relé Vex. Para cada relé, as 30 fagulhas devem ser depositadas dentro de 10 segundos a partir do primeiro depósito.",
   "UserModules.SeasonPass.Name": "Passe de Temporada",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "Dias Restantes na Temporada",
   "UserModules.SeasonPass.ProgressPassLevel": "Progresso de Ranque da Temporada",
   "UserModules.SeasonPass.ProgressPowerBonus": "Progresso de Bonus de Poder",

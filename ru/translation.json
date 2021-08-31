@@ -751,6 +751,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "🦘 During the confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "На протяжении этапа с убийством финального босса игроки должны заполнить оба шпиля за 10 секунд после первого внесения частиц.",
   "UserModules.SeasonPass.Name": "Сезонный пропуск",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "🦘 Days Remaining In Season",
   "UserModules.SeasonPass.ProgressPassLevel": "🦘 Season Rank Progress",
   "UserModules.SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",

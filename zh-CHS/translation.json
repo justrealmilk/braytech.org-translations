@@ -749,6 +749,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "汇流遭遇战中，只在飞龙进行献祭时摧毁它们。",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "击杀圣洁首脑阶段，每个继电器都必须存满 30 个荧光。对于每个继电器，必须在 10 秒内存满。",
   "UserModules.SeasonPass.Name": "季票",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "赛季剩余天数",
   "UserModules.SeasonPass.ProgressPassLevel": "赛季等级进度",
   "UserModules.SeasonPass.ProgressPowerBonus": "能量加成进度",

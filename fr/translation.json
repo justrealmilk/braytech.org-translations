@@ -750,6 +750,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "Pendant la rencontre avec les conflux, détruisez les Wyvernes uniquement pendant qu'ils se sacrifient contre un conflux.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "Pendant le raid de l'Esprit Sanctifié, accumulez 30 particules à chaque relais Vex. À chaque relais, les 30 particules doivent être déposées dans les 10 secondes les unes des autres.",
   "UserModules.SeasonPass.Name": "Pass saisonnier",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "Jours restants dans la saison",
   "UserModules.SeasonPass.ProgressPassLevel": "Progression du rang saisonnier",
   "UserModules.SeasonPass.ProgressPowerBonus": "Progression du bonus de Puissance",

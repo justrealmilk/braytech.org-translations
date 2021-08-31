@@ -749,6 +749,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "🦘 During the confluxes encounter, destroy Wyverns only while they're sacrificing against a conflux.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "During the Sanctified Mind encounter, bank 30 motes at each Vex relay. At each relay, all 30 motes must be deposited within 10 seconds of one another.",
   "UserModules.SeasonPass.Name": "賽季通行證",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "🦘 Days Remaining In Season",
   "UserModules.SeasonPass.ProgressPassLevel": "🦘 Season Rank Progress",
   "UserModules.SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",

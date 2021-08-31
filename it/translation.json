@@ -748,6 +748,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "Durante lo scontro delle Confluenze, distruggi le Viverne solo mentre si stanno sacrificando contro una confluenza.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "Nello scontro della Mente Santificata deposita 30 particelle a ogni ripetitore Vex. Per ogni ripetitore Vex, tutte le 30 particelle vanno depositate entro 10 secondi dalle altre.",
   "UserModules.SeasonPass.Name": "Pass stagionale",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "Giorni rimanenti alla stagione",
   "UserModules.SeasonPass.ProgressPassLevel": "Progresso grado stagionale",
   "UserModules.SeasonPass.ProgressPowerBonus": "Progresso potere bonus",

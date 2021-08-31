@@ -750,6 +750,7 @@
   "UserModules.Raids.Challenges.WaitForIt": "Durante el encuentro de las Confluencias, destruye a los guivernos únicamente mientras se están sacrificando en una confluencia.",
   "UserModules.Raids.Challenges.ZeroToOneHundred": "Durante el encuentro de la Mente santificada, deposita 30 motas en ambos transmisores Vex. En cada transmisor, las 30 motas deben ser depositadas dentro de un plazo de 10 segundos.",
   "UserModules.SeasonPass.Name": "Pase de temporada",
+  "UserModules.SeasonPass.ProgressDaysPassed": "🦘 Season Progress",
   "UserModules.SeasonPass.ProgressDaysRemaining": "Días restantes de la temporada",
   "UserModules.SeasonPass.ProgressPassLevel": "Progreso en el rango de temporada",
   "UserModules.SeasonPass.ProgressPowerBonus": "Progreso de la bonificación de potencia",
