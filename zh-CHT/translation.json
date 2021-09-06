@@ -322,7 +322,7 @@
   "FAQ.Braytech.AppStore.Name": "App stores",
   "FAQ.Braytech.Commonality.Description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}",
   "FAQ.Braytech.Commonality.Name": "共性",
-  "FAQ.Braytech.ProfilePrivacy.Description": " 如果你對游玩天命的隱私或者API將你的游戲進程和活動記錄報告給第三方有所擔心你可以在 [Bungie.net](https://bungie.net/en/Profile/Settings/?category=Privacy)更改你的隱私設定.\n\n在這之後繼續使用Braytech將需要從Bungie獲得授權",
+  "FAQ.Braytech.ProfilePrivacy.Description": " 如果你對游玩天命的隱私或者API將你的游戲進程和活動記錄報告給第三方有所擔心你可以在 [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)更改你的隱私設定.\n\n在這之後繼續使用Braytech將需要從Bungie獲得授權",
   "FAQ.Braytech.ProfilePrivacy.Name": "賬戶隱私",
   "FAQ.Braytech.ServiceWorkerUpdate.Description": "從 _Settings_ 視圖, 您可以嘗試各種操作 開始 _Update service worker_. 稍等片刻，系統會提示您重新載入.\n\n如果失敗，您可以嘗試選擇 _Reload_ 刷新應用程式. 如果問題仍然存在請選擇 _Dump service worker_.\n\n_For the technically inclined, Braytech uses a service worker and sometimes they're fussy._",
   "FAQ.Braytech.ServiceWorkerUpdate.Name": "Braytech不會更新到最新版本",
