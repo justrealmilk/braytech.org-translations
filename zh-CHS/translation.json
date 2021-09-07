@@ -458,7 +458,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "邮政长已经用完了所有空间。如果你不取回你的物品, 你会永远失去它们！",
   "Notifications.PostmasterCapacityWarning.Name": "警告!",
   "ProfileSearch.ActiveProfile": "当前档案",
-  "ProfileSearch.BNetProfile": "Bungie.net资料",
+  "ProfileSearch.BungieNetProfile": "Bungie.net资料",
   "ProfileSearch.ChangeProfile": "更换档案",
   "ProfileSearch.Error.CharacterMissing.Description": "你尝试加载的角色不可用，可能已被删除.",
   "ProfileSearch.Error.CharacterMissing.Name": "选择不可用",

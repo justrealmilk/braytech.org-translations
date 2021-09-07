@@ -460,7 +460,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "У почтмейстера заполнилось место! Если вы не заберете их, вы потеряете их навсегда!",
   "Notifications.PostmasterCapacityWarning.Name": "ВНИМАНИЕ!",
   "ProfileSearch.ActiveProfile": "Активный профиль",
-  "ProfileSearch.BNetProfile": "Профиль Bungie.net",
+  "ProfileSearch.BungieNetProfile": "Профиль Bungie.net",
   "ProfileSearch.ChangeProfile": "Сменить профиль",
   "ProfileSearch.Error.CharacterMissing.Description": "Персонажа, которого вы пытались загрузить, недоступен, возможно, он удален.",
   "ProfileSearch.Error.CharacterMissing.Name": "Персонаж недоступен",

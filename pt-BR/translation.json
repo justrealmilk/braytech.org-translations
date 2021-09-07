@@ -459,7 +459,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "O correio está completamente sem espaço. Se você não retirar seus itens, você os perderá para sempre!",
   "Notifications.PostmasterCapacityWarning.Name": "CUIDADO!",
   "ProfileSearch.ActiveProfile": "Perfil Ativo",
-  "ProfileSearch.BNetProfile": "Perfil Bungie.net",
+  "ProfileSearch.BungieNetProfile": "Perfil Bungie.net",
   "ProfileSearch.ChangeProfile": "Mudar Perfil",
   "ProfileSearch.Error.CharacterMissing.Description": "O personagem que você tentou carregar está indisponível-talvez ele foi deletado.",
   "ProfileSearch.Error.CharacterMissing.Name": "Personagem indisponível",

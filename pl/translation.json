@@ -460,7 +460,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "🦘 The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
   "Notifications.PostmasterCapacityWarning.Name": "🦘 Warning!",
   "ProfileSearch.ActiveProfile": "🦘 Active Profile",
-  "ProfileSearch.BNetProfile": "🦘 Bungie.net Profile",
+  "ProfileSearch.BungieNetProfile": "🦘 Bungie.net Profile",
   "ProfileSearch.ChangeProfile": "🦘 Change Profile",
   "ProfileSearch.Error.CharacterMissing.Description": "🦘 The character you tried to load is unavailable—maybe it's been deleted.",
   "ProfileSearch.Error.CharacterMissing.Name": "🦘 Character Unavailable",

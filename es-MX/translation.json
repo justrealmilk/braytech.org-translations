@@ -459,7 +459,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "La administración está llena. ¡Si no reúnes tus objetos, los perderás para siempre!",
   "Notifications.PostmasterCapacityWarning.Name": "¡ADVERTENCIA!",
   "ProfileSearch.ActiveProfile": "Perfil activo",
-  "ProfileSearch.BNetProfile": "Perfil de Bungie.net",
+  "ProfileSearch.BungieNetProfile": "Perfil de Bungie.net",
   "ProfileSearch.ChangeProfile": "Cambiar perfil",
   "ProfileSearch.Error.CharacterMissing.Description": "El personaje que intentaste cargar no está disponible; tal vez fue borrado.",
   "ProfileSearch.Error.CharacterMissing.Name": "Personaje no disponible",

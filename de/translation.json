@@ -459,7 +459,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "Die Poststelle ist komplett voll. Wenn du deine Items nicht abholst, gehen sie für immer verloren!",
   "Notifications.PostmasterCapacityWarning.Name": "WARNUNG!",
   "ProfileSearch.ActiveProfile": "Aktives Profil",
-  "ProfileSearch.BNetProfile": "Bungie.net Profile",
+  "ProfileSearch.BungieNetProfile": "Bungie.net Profile",
   "ProfileSearch.ChangeProfile": "Profil wechseln",
   "ProfileSearch.Error.CharacterMissing.Description": "Dieser Charakter ist nicht verfügbar - vielleicht ist er gelöscht.",
   "ProfileSearch.Error.CharacterMissing.Name": "Charakter nicht verfügbar",

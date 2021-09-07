@@ -458,7 +458,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "우편함이 완전히 가득찼습니다. 아이템을 회수하지 않으면, 완전히 잃어버리게 됩니다!",
   "Notifications.PostmasterCapacityWarning.Name": "경고!",
   "ProfileSearch.ActiveProfile": "활성화된 프로필",
-  "ProfileSearch.BNetProfile": "Bungie.net 프로필",
+  "ProfileSearch.BungieNetProfile": "Bungie.net 프로필",
   "ProfileSearch.ChangeProfile": "프로필 변경",
   "ProfileSearch.Error.CharacterMissing.Description": "해당 캐릭터를 불러올 수 없습니다. — 삭제되었을 수 있습니다.",
   "ProfileSearch.Error.CharacterMissing.Name": "캐릭터 없음",

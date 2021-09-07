@@ -458,7 +458,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
   "Notifications.PostmasterCapacityWarning.Name": "注意！",
   "ProfileSearch.ActiveProfile": "アクティブプロファイル",
-  "ProfileSearch.BNetProfile": "🦘 Bungie.net Profile",
+  "ProfileSearch.BungieNetProfile": "🦘 Bungie.net Profile",
   "ProfileSearch.ChangeProfile": "プロファイルを変更",
   "ProfileSearch.Error.CharacterMissing.Description": "The character you tried to load is unavailable—maybe it's been deleted.",
   "ProfileSearch.Error.CharacterMissing.Name": "Character unavailable",

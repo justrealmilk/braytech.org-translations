@@ -459,7 +459,7 @@
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "Le commis des postes est complètement à court d'espace. Si vous ne récupérez pas vos objets, vous les perdrez pour toujours !",
   "Notifications.PostmasterCapacityWarning.Name": "ATTENTION !",
   "ProfileSearch.ActiveProfile": "Profil actif",
-  "ProfileSearch.BNetProfile": "Profil Bungie.net",
+  "ProfileSearch.BungieNetProfile": "Profil Bungie.net",
   "ProfileSearch.ChangeProfile": "Changer de profil",
   "ProfileSearch.Error.CharacterMissing.Description": "Le personnage que vous avez essayé de charger n'est pas disponible - il a peut-être été supprimé.",
   "ProfileSearch.Error.CharacterMissing.Name": "Personnage indisponible",
