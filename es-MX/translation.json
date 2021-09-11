@@ -77,6 +77,8 @@
   "App.ServiceWorkerReload.Description": "Hay disponible una nueva actualización para Braytech. Por favor, selecciona recargar para usar una versión mejorada de esta aplicación.\n\nRevisa el registro de cambios en la página de inicio para ver los detalles sobre las novedades.",
   "App.ServiceWorkerReload.Name": "Actualización disponible",
   "App.UnknownError": "Error desconocido",
+  "App.UnsupportedBrowser.Description": "🦘 Braytech requires modern browser fetaures in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Name": "🦘 Unsupported Browser",
   "App.Version": "Versión",
   "Archives.ChaliceOfOpulence.Description": "Una herramienta que permite a los usuarios descubrir rápidamente las combinaciones necesarias para obtener recompensas específicas de la _Casa de las Fieras_, una actividad de la Temporada de la Opulencia en Destiny 2.\n\nLa _Casa de las Fieras_ es una enorme prisión-museo situada en las cubiertas inferiores del Leviatán de Calus. Sirvió como refugio para todas las diferentes especies que Calus reunió en sus viajes, incluyendo la Colmena, Vex y Nacidos del arco, y los enfrenta a los Guardianes invitados a bordo en busca de placer y gloria, así como para su propio entretenimiento.",
   "Archives.ChaliceOfOpulence.Name": "Cáliz de la Opulencia",

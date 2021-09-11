@@ -77,6 +77,8 @@
   "App.ServiceWorkerReload.Description": "Ein neues Update für Braytech ist verfügbar. Bitte wähle neuladen um die verbesserte Version dieser App verwenden zu können.\n\nPrüfe das Änderungsprotokoll auf der Start-Seite um mehr Details über die Neuerungen zu erfahren.",
   "App.ServiceWorkerReload.Name": "Update verfügbar",
   "App.UnknownError": "Unbekannter Fehler",
+  "App.UnsupportedBrowser.Description": "🦘 Braytech requires modern browser fetaures in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Name": "🦘 Unsupported Browser",
   "App.Version": "Version",
   "Archives.ChaliceOfOpulence.Description": "Ein Tool, mit dem Hüter schnell die erforderlichen Runenkombinationen für bestimmte Belohnungen aus _Der Menagerie_ finden können, einer Aktivität aus Destiny 2's Season of Opulenz\n\n_Die Menagerie_ ist ein riesiges gefängnisähnliches Museum in den unteren Decks von Calus' Leviathan. Es diente als Gehege für alle Arten, die Calus während seiner Reisen gesammelt hatte, einschließlich Schar, Vex und Arkborn, und stellte sie gegen die Hüter, die zu ihrem Vergnügen und Ruhm sowie zu seiner eigenen Unterhaltung an Bord eingeladen wurden.",
   "Archives.ChaliceOfOpulence.Name": "Kelch der Opulenz",

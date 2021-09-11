@@ -77,6 +77,8 @@
   "App.ServiceWorkerReload.Description": "Une nouvelle mise à jour pour Braytech est disponible. Veuillez appuyer sur Recharger pour utiliser une meilleure version de cette application.\n\nVérifiez le journal des modifications dans la vue de l'index pour plus de détails sur les nouveautés.",
   "App.ServiceWorkerReload.Name": "Mise à jour disponible",
   "App.UnknownError": "Erreur inconnue",
+  "App.UnsupportedBrowser.Description": "🦘 Braytech requires modern browser fetaures in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Name": "🦘 Unsupported Browser",
   "App.Version": "Version",
   "Archives.ChaliceOfOpulence.Description": "Un outil qui permet aux utilisateurs de découvrir rapidement les combinaisons de runes requises pour des récompenses spécifiques de _La Ménagerie_, une activité de la Saison de l'Opulence de Destiny 2.\n\n_La Ménagerie_ est un vaste musée ressemblant à une prison situé dans les ponts inférieurs du Léviathan de Calus. Il sert d'enclos aux différentes espèces que Calus a collectées au cours de ses voyages, dont la Ruche, les Vex et les Arkborn, et les oppose aux Gardiens invités à bord pour leur plaisir et leur gloire ainsi que pour son propre divertissement.",
   "Archives.ChaliceOfOpulence.Name": "Coupe de l'Opulence",

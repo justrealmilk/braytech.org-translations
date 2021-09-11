@@ -77,6 +77,8 @@
   "App.ServiceWorkerReload.Description": "Braytech的更新檔可用請選擇“重新加載”以使用最新版本，請檢查索引中的更新檔日志來獲得更新檔的詳細信息.",
   "App.ServiceWorkerReload.Name": "可用的更新檔",
   "App.UnknownError": "未知錯誤",
+  "App.UnsupportedBrowser.Description": "🦘 Braytech requires modern browser fetaures in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Name": "🦘 Unsupported Browser",
   "App.Version": "版本",
   "Archives.ChaliceOfOpulence.Description": "讓玩家快速確認奇珍異獸園獎勵對於符文組合的工具",
   "Archives.ChaliceOfOpulence.Name": "豐足聖杯",
