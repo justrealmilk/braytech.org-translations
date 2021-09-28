@@ -483,6 +483,8 @@
   "Progression.ResetVendor": "返回NPC以重置您的等級",
   "Progression.Streak": "條紋",
   "Progression.TrialsPassage.Flawless": "🦘 Flawless",
+  "Progression.TrialsPassage.FlawlessPassage": "🦘 Flawless Passage",
+  "Progression.TrialsPassage.WeeklyTimesFlawless": "🦘 Flawless This Week",
   "Progression.TrialsPassage.Wins": "勝利",
   "Quests.Details.RelatedMapMode": "該任務目標有一個關聯的地圖節點，例如掃描目標或特定地點",
   "Quests.Details.Steps": "步驟",

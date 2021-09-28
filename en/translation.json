@@ -479,6 +479,8 @@
   "Progression.ResetVendor": "Return to the vendor to reset your rank",
   "Progression.Streak": "Streak",
   "Progression.TrialsPassage.Flawless": "Flawless",
+  "Progression.TrialsPassage.FlawlessPassage": "Flawless Passage",
+  "Progression.TrialsPassage.WeeklyTimesFlawless": "Flawless This Week",
   "Progression.TrialsPassage.Wins": "Wins",
   "Quests.Details.RelatedMapMode": "This quest step has a related map node, such as a scannable artifact or location.",
   "Quests.Details.Steps": "Steps",

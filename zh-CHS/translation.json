@@ -483,6 +483,8 @@
   "Progression.ResetVendor": "回去找商人重置你的等级",
   "Progression.Streak": "连胜",
   "Progression.TrialsPassage.Flawless": "无暇",
+  "Progression.TrialsPassage.FlawlessPassage": "🦘 Flawless Passage",
+  "Progression.TrialsPassage.WeeklyTimesFlawless": "🦘 Flawless This Week",
   "Progression.TrialsPassage.Wins": "胜",
   "Quests.Details.RelatedMapMode": "该任务步骤有一个关联的地图节点，例如扫描目标或特定地点。",
   "Quests.Details.Steps": "步骤",

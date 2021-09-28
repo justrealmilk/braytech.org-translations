@@ -483,6 +483,8 @@
   "Progression.ResetVendor": "NPC에게 돌아가 등급을 초기화하세요.",
   "Progression.Streak": "연승 및 연패",
   "Progression.TrialsPassage.Flawless": "🦘 Flawless",
+  "Progression.TrialsPassage.FlawlessPassage": "🦘 Flawless Passage",
+  "Progression.TrialsPassage.WeeklyTimesFlawless": "🦘 Flawless This Week",
   "Progression.TrialsPassage.Wins": "승리",
   "Quests.Details.RelatedMapMode": "이 퀘스트 단계에는 스캔 가능한 구조물 또는 위치와 관련된 맵 노드가 있습니다.",
   "Quests.Details.Steps": "단계",
