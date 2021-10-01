@@ -768,7 +768,7 @@
   "UserModules.SeasonPass.SeasonProgress": "赛季进度",
   "UserModules.SeasonPass.SeasonProgressDays": "🦘 Days",
   "UserModules.TrialsOfOsiris.Determining": "拉斯普廷已经激活了资产来确定圣-14的熔炉竞技场参数。",
-  "UserModules.TrialsOfOsiris.Unavailable": "圣-14将在{{date}}前暂停试炼, 届时他将公布新的挑战和奖励。",
+  "UserModules.TrialsOfOsiris.UnavailableUntil": "圣-14将在{{date}}前暂停试炼, 届时他将公布新的挑战和奖励。",
   "UserModules.Xûr.Error": "在与Voluspa建立联系时发生错误。",
   "UserModules.Xûr.Locating": "仄还没被发现, 一旦他被发现，我们会将他的商品显示在这里。",
   "Vendor.FailureStrings.NoFunds": "没有足够材料",

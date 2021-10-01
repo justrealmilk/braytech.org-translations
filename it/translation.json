@@ -765,7 +765,7 @@
   "UserModules.SeasonPass.SeasonProgress": "Progresso stagione",
   "UserModules.SeasonPass.SeasonProgressDays": "🦘 Days",
   "UserModules.TrialsOfOsiris.Determining": "Rasputin ha attivato risorse per determinare i parametri del crogiolo di Saint-14.",
-  "UserModules.TrialsOfOsiris.Unavailable": "Saint-14 ha sospeso le Prove fino al {{date}}, giorno il quale svelerà nuove sfide e ricompense.",
+  "UserModules.TrialsOfOsiris.UnavailableUntil": "Saint-14 ha sospeso le Prove fino al {{date}}, giorno il quale svelerà nuove sfide e ricompense.",
   "UserModules.Xûr.Error": "Si è verificato un errore temporaneo durante la comunicazione con Voluspa.",
   "UserModules.Xûr.Locating": "Xûr non è stato ancora individuato, ma quando lo sarà, la sua mercanzia verrà visualizzata qui.",
   "Vendor.FailureStrings.NoFunds": "Non hai abbastanza materiali",
