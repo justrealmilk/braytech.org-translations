@@ -772,6 +772,7 @@
   "UserModules.SeasonPass.SeasonProgress": "Progression de la saison",
   "UserModules.SeasonPass.SeasonProgressDays": "Jours",
   "UserModules.TrialsOfOsiris.Determining": "Raspoutine a activé des atouts pour déterminer les paramètres de l'Épreuve de Saint-14.",
+  "UserModules.TrialsOfOsiris.UnavailableIronBanner": "🦘 Saint-14 has capitulated to a stronger, wiser Guardian, and suspended Trials for the duration of Lord Saladin's Iron Banner event.",
   "UserModules.TrialsOfOsiris.UnavailableUntil": "Saint-14 a suspendu le Jugement jusqu'à {{date}}, quand il dévoilera de nouveaux défis et récompenses.",
   "UserModules.Xûr.Error": "Une erreur temporaire s'est produite lors de la communication avec Voluspa.",
   "UserModules.Xûr.Locating": "Xûr n'a pas encore été repéré, mais une fois qu'il l'aura été, ses ventes seront affichées ici.",
