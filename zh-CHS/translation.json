@@ -325,6 +325,8 @@
   "FAQ.Braytech.AppStore.Name": "应用商店",
   "FAQ.Braytech.Commonality.Description": "经常有人问, \"收藏品和成就记录右边那个有趣的百分比是啥？\"\n\n这是已经发现或兑换这项物品在玩家中的百分比。 每隔几天， _Voluspa_ 就会从 _Braytech_ 的用户收集数据并记录玩家们获取的物品。\n\n很多人会问这东西准确有用吗？事实上所有的统计都无法保证准确且没有任何用处， _除非_ 你能把所有可能的数据都统计在内。\n\n你可以认为这些数据是偏向于休闲玩家的(根据被记录的玩家的水平，这个百分比可能会偏高)。\n\n如果有的话，提示中的数字包括被算作这个指标一部分的玩家总数。{{indexed}}",
   "FAQ.Braytech.Commonality.Name": "公开数据",
+  "FAQ.Braytech.KeyboardShortcuts.Description": "🦘 In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press  to go to _Triumphs_ and  to return here.",
+  "FAQ.Braytech.KeyboardShortcuts.Name": "🦘 Keyboard Shortcuts",
   "FAQ.Braytech.ProfilePrivacy.Description": "如果你对游玩命运的隐私，或者API如何将你的游戏进程和活动记录报告给第三方有所担心，你可以在[Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy) 更改你的设置。\n\n在这之后继续使用Braytech将需要从Bungie授权。",
   "FAQ.Braytech.ProfilePrivacy.Name": "账户隐私",
   "FAQ.Braytech.ServiceWorkerUpdate.Description": "在 _设置_ 页面, 你可以配置许多东西。点击 _更新Braytech后台脚本_ ，等一小会，你应该会被提示说重启加载应用。\n\n如果更新失败，你可以点击 _重新载入Braytech_ 来刷新应用后再试一遍。如果问题一直出现的话，请点击 _关闭Braytech后台脚本_ 。\n\n _从技术角度来解释，Braytech使用了Service Worker，但Service Worker有时候会出点问题_ ",
