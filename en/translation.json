@@ -518,7 +518,7 @@
   "Settings.IDB.ClearReports.Name": "Clear Reports",
   "Settings.IDB.Usage.Description": "Storage used by Destiny's manifest, cached post game carnage reports, and cached assets.",
   "Settings.IDB.Usage.Name": "Usage",
-  "Settings.Interface.Bindings.Info": "Alter the appearance of buttons. This is currently a visual-only effect.",
+  "Settings.Interface.Bindings.Info": "Alter the appearance and bindings of buttons.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "If a checklist item is completed, it will be hidden under the Checklist view.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Hide Completed Checklist Items",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "If a collectible has been acquired, it will be hidden under Collections views.",
