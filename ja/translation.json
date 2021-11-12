@@ -658,6 +658,7 @@
   "Triumphs.Lore.SelectEntry": "読みたい伝承を選択してください",
   "Triumphs.Record.Commonality.Description": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。",
   "Triumphs.Record.Expiration.Description": "この項目は、期限が切れると入手できなくなる可能性があります。",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} of {{denominator}}",
   "Triumphs.Record.Score.Description": "このレコードの勝利スコアは有限です。",
   "Triumphs.Record.ScoreInterval.Description": "🦘 The next unredeemed interval's score value over the total record value.",

@@ -653,6 +653,7 @@
   "Triumphs.Lore.SelectEntry": "Selecciona una página para leer.",
   "Triumphs.Record.Commonality.Description": "Porcentaje de jugadores indexados por Voluspa que canjearon este triunfo.",
   "Triumphs.Record.Expiration.Description": "Es posible que este triunfo ya no se pueda obtener una vez que caduque.",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
   "Triumphs.Record.Score.Description": "El valor del puntaje final de este triunfo.",
   "Triumphs.Record.ScoreInterval.Description": "El valor del puntaje del paso actual sobre el valor total del triunfo.",

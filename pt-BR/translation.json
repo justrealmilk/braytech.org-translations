@@ -659,6 +659,7 @@
   "Triumphs.Lore.SelectEntry": "Selecione uma página para ler.",
   "Triumphs.Record.Commonality.Description": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
   "Triumphs.Record.Expiration.Description": "Este registro pode não ser mais obtido assim que expirar.",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
   "Triumphs.Record.Score.Description": "A pontuação total deste triunfo.",
   "Triumphs.Record.ScoreInterval.Description": "O intervalo atual de pontuação sobre a pontuação total.",

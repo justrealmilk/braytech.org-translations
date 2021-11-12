@@ -658,6 +658,7 @@
   "Triumphs.Lore.SelectEntry": "選擇需要查閲的條目",
   "Triumphs.Record.Commonality.Description": "被Voluspa收錄的玩家中有多少人獲得了這個記錄.",
   "Triumphs.Record.Expiration.Description": "此記錄一旦過期可能無法再獲取.",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": " {{numerator}} 的 {{denominator}}",
   "Triumphs.Record.Score.Description": " 該記錄的有限成就分數值.",
   "Triumphs.Record.ScoreInterval.Description": "在總記錄值的下一個未兌換區間的分數值.",

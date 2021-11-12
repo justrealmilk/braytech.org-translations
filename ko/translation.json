@@ -658,6 +658,7 @@
   "Triumphs.Lore.SelectEntry": "읽을 지식을 선택하세요.",
   "Triumphs.Record.Commonality.Description": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다.",
   "Triumphs.Record.Expiration.Description": "이 업적은 만료되면 더 이상 얻을 수 없습니다.",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} / {{denominator}}",
   "Triumphs.Record.Score.Description": "이 업적에서 얻을 수 있는 점수입니다.",
   "Triumphs.Record.ScoreInterval.Description": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다.",

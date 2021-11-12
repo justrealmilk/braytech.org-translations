@@ -659,6 +659,7 @@
   "Triumphs.Lore.SelectEntry": "Sélectionnez une entrée à lire",
   "Triumphs.Record.Commonality.Description": "Pourcentage de joueurs indexés par Voluspa qui ont validé cette entrée.",
   "Triumphs.Record.Expiration.Description": "Cet enregistrement a expiré ou n'est plus accessible",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} par {{denominator}}",
   "Triumphs.Record.Score.Description": "Valeur du score de triomphe terminé pour cet enregistrement.",
   "Triumphs.Record.ScoreInterval.Description": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement.",

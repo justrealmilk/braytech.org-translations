@@ -659,6 +659,7 @@
   "Triumphs.Lore.SelectEntry": "Wähle eine Seite zum Lesen.",
   "Triumphs.Record.Commonality.Description": "Prozent der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
   "Triumphs.Record.Expiration.Description": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar.",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} von {{denominator}}",
   "Triumphs.Record.Score.Description": "Die finale Triumph Punktzahl.",
   "Triumphs.Record.ScoreInterval.Description": "Die Triumph Punktzahl des aktuellen Intervalls.",

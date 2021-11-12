@@ -658,6 +658,7 @@
   "Triumphs.Lore.SelectEntry": "选择一项来阅读。",
   "Triumphs.Record.Commonality.Description": "Voluspa所追踪玩家获得此成就的比例",
   "Triumphs.Record.Expiration.Description": "这一成就失效后将无法再次获得。",
+  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
   "Triumphs.Record.IntervalFraction": "{{denominator}}分之{{numerator}}",
   "Triumphs.Record.Score.Description": "这个成就的分数",
   "Triumphs.Record.ScoreInterval.Description": "距离下次获取成就分所需要的数目",
