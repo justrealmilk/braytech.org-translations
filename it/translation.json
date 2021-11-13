@@ -653,7 +653,7 @@
   "Triumphs.Lore.SelectEntry": "Seleziona una pagina da leggere.",
   "Triumphs.Record.Commonality.Description": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo.",
   "Triumphs.Record.Expiration.Description": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto.",
-  "Triumphs.Record.Expires": "🦘 Expires at the end of Season {{season}}",
+  "Triumphs.Record.Expires": "Scade al termine della Stagione {{season}}",
   "Triumphs.Record.IntervalFraction": "{{numerator}} di {{denominator}}",
   "Triumphs.Record.Score.Description": "Il punteggio trionfale finito di questo trionfo.",
   "Triumphs.Record.ScoreInterval.Description": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo.",
