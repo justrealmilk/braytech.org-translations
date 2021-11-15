@@ -429,6 +429,7 @@
   "Loading.Status.StoreManifest": "正在保存清单数据",
   "Loading.Status.VerifyingManifest": "正在校验清单数据",
   "Loading.WaitingForBungie": "等待 Bungie 响应",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "指令",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "描述",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "问题",

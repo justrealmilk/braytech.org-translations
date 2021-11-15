@@ -431,6 +431,7 @@
   "Loading.Status.StoreManifest": "🦘 Storing manifest data",
   "Loading.Status.VerifyingManifest": "🦘 Verifying manifest data",
   "Loading.WaitingForBungie": "🦘 Waiting For Bungie",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "🦘 Instructions",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "🦘 Description",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "🦘 Issues",

@@ -429,6 +429,7 @@
   "Loading.Status.StoreManifest": "Manifest 데이터 저장중",
   "Loading.Status.VerifyingManifest": "Manifest 정보 검증중",
   "Loading.WaitingForBungie": "Bungie 기다리는 중",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "상세 설명",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "설명",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "이슈",

@@ -430,6 +430,7 @@
   "Loading.Status.StoreManifest": "Stockage des données du manifeste",
   "Loading.Status.VerifyingManifest": "Vérification des données du manifeste",
   "Loading.WaitingForBungie": "En attente de Bungie",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "Instructions",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "Description",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "Problèmes",

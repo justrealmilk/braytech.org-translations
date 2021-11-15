@@ -429,6 +429,7 @@
   "Loading.Status.StoreManifest": "マニフェストデータをダウンロードしています",
   "Loading.Status.VerifyingManifest": "マニフェストデータを確認中",
   "Loading.WaitingForBungie": "Bungieからの応答を待っています",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "使い方",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "説明",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "問題",

@@ -425,6 +425,7 @@
   "Loading.Status.SettingsFetch": "Conectando con Bungie.net",
   "Loading.Status.StoreManifest": "Almacenando datos del manifiesto",
   "Loading.WaitingForBungie": "Esperando a Bungie",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "Instrucciones",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "Descripción",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "Problemas",

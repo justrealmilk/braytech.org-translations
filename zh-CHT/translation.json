@@ -429,6 +429,7 @@
   "Loading.Status.StoreManifest": "正在保存清單數據",
   "Loading.Status.VerifyingManifest": "正在校驗清單數據",
   "Loading.WaitingForBungie": "等待Bungie",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "使用说明",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "描述",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "問題",

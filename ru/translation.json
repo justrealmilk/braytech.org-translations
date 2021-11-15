@@ -431,6 +431,7 @@
   "Loading.Status.StoreManifest": "Кэширование данных манифеста",
   "Loading.Status.VerifyingManifest": "Проверка данных",
   "Loading.WaitingForBungie": "Ожидаем ответ от Bungie",
+  "Maps.Checklists.NoItems": "🦘 No items detected",
   "Maps.Inspect.Instructions": "Инструкции",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "Описание",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "Проблемы",
