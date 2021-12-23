@@ -502,6 +502,7 @@
   "Quests.Info.NoBounties": "🦘 Bounties you acquire will appear here.",
   "Quests.Info.NoQuests": "🦘 Quests you acquire will appear here.",
   "RefreshService.Inactive.Description": "🦘 Due to user inactivity, Braytech has paused background refreshing your profile data.",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "🦘 enter name or description",
   "Search.Results.MatchesAllHidden_0": "🦘 There is a match, but you've chosen to hide it!",
   "Search.Results.MatchesAllHidden_1": "🦘 There is a match, but you've chosen to hide it!",

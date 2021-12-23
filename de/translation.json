@@ -501,6 +501,7 @@
   "Quests.Info.NoBounties": "Beutezüge die du erwirbst, erscheinen hier.",
   "Quests.Info.NoQuests": "Quests die du erwirbst, erscheinen hier.",
   "RefreshService.Inactive.Description": "Hintergrundaktualisierungen wurden auf Grund von Inaktivität eingestellt.",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "Name oder Beschreibung eingeben",
   "Search.Results.MatchesAllHidden": "🦘 There is a match, but you've chosen to hide it!",
   "Search.Results.MatchesAllHidden_plural": "🦘 There is a match, but you've chosen to hide it!",

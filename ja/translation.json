@@ -500,6 +500,7 @@
   "Quests.Info.NoBounties": "バウンティを引き受けるとここに表示されます。",
   "Quests.Info.NoQuests": "クエストを引き受けるとここに表示されます。",
   "RefreshService.Inactive.Description": "プレイ期間がかなり空いていたため、Braytechはあなたのプロフィールデータのバックグラウンド更新を一時停止していました。",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "検索したい名前や説明(日本語)を入力してください",
   "Search.Results.MatchesAllHidden_0": "🦘 There is a match, but you've chosen to hide it!",
   "Search.Results.NoMatches": "検索しましたが見つかりませんでした",

@@ -501,6 +501,7 @@
   "Quests.Info.NoBounties": "Contratos que você adquirir aparecerão aqui",
   "Quests.Info.NoQuests": "Jornadas que você adquirir aparecerão aqui.",
   "RefreshService.Inactive.Description": "Devido a sua inatividade, Braytech parou de atualizar seus dados em segundo plano.",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "digite o nome ou descrição",
   "Search.Results.MatchesAllHidden": "Há uma correspondência, mas você optou por escondê-la!",
   "Search.Results.MatchesAllHidden_plural": "Há uma correspondênca, mas vocês optaram por escondê-la!",

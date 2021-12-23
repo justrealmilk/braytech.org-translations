@@ -500,6 +500,7 @@
   "Quests.Info.NoBounties": "획득한 현상금이 여기 표시됩니다.",
   "Quests.Info.NoQuests": "획득한 퀘스트가 여기 표시됩니다.",
   "RefreshService.Inactive.Description": "사용자가 Braytech를 사용하지 않아 프로필 데이터 자동 새로고침을 일시 중지했습니다.",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "이름 또는 설명을 입력하세요",
   "Search.Results.MatchesAllHidden_0": "🦘 There is a match, but you've chosen to hide it!",
   "Search.Results.NoMatches": "설정한 조건과 맞는 결과가 없습니다.",

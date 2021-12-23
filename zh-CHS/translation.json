@@ -500,6 +500,7 @@
   "Quests.Info.NoBounties": "您获得的奖励将显示在这里。",
   "Quests.Info.NoQuests": "您获得的任务将出现在这里。",
   "RefreshService.Inactive.Description": "由于用户不活动，Braytech 已停止刷新玩家数据。",
+  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
   "Search.Placeholder": "输入名称或描述",
   "Search.Results.MatchesAllHidden_0": "🦘 There is a match, but you've chosen to hide it!",
   "Search.Results.NoMatches": "未找到结果",
