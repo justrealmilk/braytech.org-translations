@@ -616,6 +616,7 @@
   "SyncService.Merge.Success.Description": "설정이 병합되었습니다.",
   "SyncService.Sync.Failure.Description": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다.",
   "SyncService.Sync.Success.Description": "설정이 동기화되었습니다.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "장착",
   "Tooltip.Actions.Inspect": "상세 정보",
   "Tooltip.Actions.Lock": "잠금",

@@ -618,6 +618,7 @@
   "SyncService.Merge.Success.Description": "Deine Einstellungen wurden zusammengeführt.",
   "SyncService.Sync.Failure.Description": "Während der Synchronisation der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär.",
   "SyncService.Sync.Success.Description": "Deine Einstellungen wurden synchornisiert.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "Ausrüsten",
   "Tooltip.Actions.Inspect": "Ansehen",
   "Tooltip.Actions.Lock": "Sperren",

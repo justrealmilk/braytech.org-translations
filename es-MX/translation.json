@@ -617,6 +617,7 @@
   "SyncService.Merge.Success.Description": "Tus ajustes se fusionaron.",
   "SyncService.Sync.Failure.Description": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal.",
   "SyncService.Sync.Success.Description": "Tus ajustes se sincronizaron.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "Equipar",
   "Tooltip.Actions.Inspect": "Detalles",
   "Tooltip.Actions.Lock": "Bloquear",

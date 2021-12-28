@@ -620,6 +620,7 @@
   "SyncService.Merge.Success.Description": "Ваши настройки успешно сохранены на сервер.",
   "SyncService.Sync.Failure.Description": "Синхронизация настроек завершилась неудачей. Это временное явление.",
   "SyncService.Sync.Success.Description": "Ваши настройки успешно синхронизированы.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "Надеть",
   "Tooltip.Actions.Inspect": "Осмотреть",
   "Tooltip.Actions.Lock": "Заблокировать",

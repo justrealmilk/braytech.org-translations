@@ -616,6 +616,7 @@
   "SyncService.Merge.Success.Description": "設定をマージしました。",
   "SyncService.Sync.Failure.Description": "設定を同期しようとしたところ、エラーが発生しました。これは一時的な障害です。",
   "SyncService.Sync.Success.Description": "設定を同期しました",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "装備",
   "Tooltip.Actions.Inspect": "詳細",
   "Tooltip.Actions.Lock": "ロックする",

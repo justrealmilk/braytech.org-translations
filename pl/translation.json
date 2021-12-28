@@ -620,6 +620,7 @@
   "SyncService.Merge.Success.Description": "🦘 Your settings have been merged.",
   "SyncService.Sync.Failure.Description": "🦘 While trying to sync your settings, there was an error. This is a temporary failure.",
   "SyncService.Sync.Success.Description": "🦘 Your settings have been synced.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "🦘 Equip",
   "Tooltip.Actions.Inspect": "🦘 Inspect",
   "Tooltip.Actions.Lock": "🦘 Lock",

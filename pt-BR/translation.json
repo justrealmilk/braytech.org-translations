@@ -618,6 +618,7 @@
   "SyncService.Merge.Success.Description": "Suas configurações foram mescladas.",
   "SyncService.Sync.Failure.Description": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária.",
   "SyncService.Sync.Success.Description": "Suas configurações foram sincronizadas.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "Equipar",
   "Tooltip.Actions.Inspect": "Inspecionar",
   "Tooltip.Actions.Lock": "Travar",

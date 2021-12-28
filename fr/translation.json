@@ -618,6 +618,7 @@
   "SyncService.Merge.Success.Description": "Vos paramètres ont été fusionnés.",
   "SyncService.Sync.Failure.Description": "En essayant de synchroniser vos paramètres, il y a eu une erreur. Il s'agit d'une défaillance temporaire.",
   "SyncService.Sync.Success.Description": "Vos réglages ont été synchronisés.",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "Équiper",
   "Tooltip.Actions.Inspect": "Inspecter",
   "Tooltip.Actions.Lock": "Verrouiller",

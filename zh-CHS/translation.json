@@ -616,6 +616,7 @@
   "SyncService.Merge.Success.Description": "你的设置已成功合并",
   "SyncService.Sync.Failure.Description": "尝试同步你的设置项时出现了错误。这是一个临时错误。",
   "SyncService.Sync.Success.Description": "你的设置已成功同步",
+  "Tooltip.Actions.Compare": "🦘 Compare",
   "Tooltip.Actions.Equip": "装备",
   "Tooltip.Actions.Inspect": "检视",
   "Tooltip.Actions.Lock": "锁定",
