@@ -374,6 +374,7 @@
   "Item.State": "🦘 State",
   "Item.Stats": "능력치",
   "Item.Sunset": "시즌 전투력 상한선",
+  "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.WeaponStats": "최대 사용 가능한 시즌",
   "Landing.Blog.AllPosts": "모든 게시글",
   "Landing.Blog.Error": "지금은 블로그 게시글을 불러올 수 없습니다.",

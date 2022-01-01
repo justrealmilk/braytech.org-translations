@@ -373,6 +373,7 @@
   "Item.State": "🦘 State",
   "Item.Stats": "Estadísticas",
   "Item.Sunset": "Depositado",
+  "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.WeaponStats": "Estadísticas del arma",
   "Landing.Blog.AllPosts": "Todas las publicaciones",
   "Landing.Blog.Error": "Las entradas del blog no se pueden cargar en este momento.",

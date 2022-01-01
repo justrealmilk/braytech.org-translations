@@ -374,6 +374,7 @@
   "Item.State": "🦘 State",
   "Item.Stats": "統計",
   "Item.Sunset": "引退",
+  "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.WeaponStats": "武器性能",
   "Landing.Blog.AllPosts": "すべての記事",
   "Landing.Blog.Error": "ブログ記事の読み込みができませんでした。",
