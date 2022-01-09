@@ -521,7 +521,7 @@
   "Settings.Category.Common.Name": "Common",
   "Settings.DIMSync.Action.Disable.Description": "Disable sync and delete stored DIM Sync authentication token.",
   "Settings.DIMSync.Action.Enable.Description": "Enable sync by exchanging your Bungie.net authentication token with DIM Sync.",
-  "Settings.DIMSync.Info": "Sync your settings for loadouts with DIM.",
+  "Settings.DIMSync.Info": "Sync your settings for loadouts and item tags with DIM.",
   "Settings.Developer.Lists.Description": "Enable developer lists by overriding links.",
   "Settings.Developer.Lists.Name": "Enable Lists",
   "Settings.Developer.Maps.Debug.Description": "Enable Maps debugging settings.",
