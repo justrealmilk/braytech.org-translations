@@ -583,6 +583,7 @@
   "Settings.SubCategory.Developer": "開発者",
   "Settings.SubCategory.IDB": "データベース容量",
   "Settings.SubCategory.Interface.Bindings": "キー入力表示設定",
+  "Settings.SubCategory.Interface.ItemSize": "🦘 Inventory Item Size",
   "Settings.SubCategory.ItemVisibility": "アイテム表示",
   "Settings.SubCategory.LS": "ローカルデータ",
   "Settings.SubCategory.Language": "言語",

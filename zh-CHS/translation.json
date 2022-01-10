@@ -583,6 +583,7 @@
   "Settings.SubCategory.Developer": "开发者选项",
   "Settings.SubCategory.IDB": "数据库存储",
   "Settings.SubCategory.Interface.Bindings": "按钮外观",
+  "Settings.SubCategory.Interface.ItemSize": "🦘 Inventory Item Size",
   "Settings.SubCategory.ItemVisibility": "清单项可见度",
   "Settings.SubCategory.LS": "本地数据",
   "Settings.SubCategory.Language": "语言",
