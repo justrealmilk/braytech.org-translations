@@ -669,7 +669,7 @@
   "Tooltip.Maps.UntrackableChecklist": "无法追踪的清单项",
   "Tooltip.TrialsPassage.Losses": "负",
   "Triumphs.AllCompleted": "全部完成",
-  "Triumphs.AlmostComplete.SeeNext": "查看接下来 {{limit}} 个",
+  "Triumphs.AlmostComplete.SeeNext": "查看接下来 {{number}} 个",
   "Triumphs.AlmostCompleteTriumphs": "即将完成",
   "Triumphs.Classified.Description": "这个记录为绝密并可能在之后被解密。",
   "Triumphs.Classified.Name": "绝密记录",

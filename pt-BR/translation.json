@@ -671,7 +671,7 @@
   "Tooltip.Maps.UntrackableChecklist": "Checklist não seguida",
   "Tooltip.TrialsPassage.Losses": "Derrotas",
   "Triumphs.AllCompleted": "Tudo completado",
-  "Triumphs.AlmostComplete.SeeNext": "Ver próximos {{limit}}",
+  "Triumphs.AlmostComplete.SeeNext": "Ver próximos {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Quase completado",
   "Triumphs.Classified.Description": "Este registro está escondido e pode ser revelado futuramente.",
   "Triumphs.Classified.Name": "Registro secreto",

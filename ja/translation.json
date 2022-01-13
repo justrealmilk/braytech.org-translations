@@ -669,7 +669,7 @@
   "Tooltip.Maps.UntrackableChecklist": "追跡不可能なチェックリスト",
   "Tooltip.TrialsPassage.Losses": "敗北",
   "Triumphs.AllCompleted": "すべて達成済",
-  "Triumphs.AlmostComplete.SeeNext": "次の{{limit}}件を見る",
+  "Triumphs.AlmostComplete.SeeNext": "次の{{number}}件を見る",
   "Triumphs.AlmostCompleteTriumphs": "もうすぐ完成",
   "Triumphs.Classified.Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
   "Triumphs.Classified.Name": "機密の記録",

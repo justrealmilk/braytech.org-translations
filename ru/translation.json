@@ -673,7 +673,7 @@
   "Tooltip.Maps.UntrackableChecklist": "Неотслеживаемый объект",
   "Tooltip.TrialsPassage.Losses": "Поражений",
   "Triumphs.AllCompleted": "Все получены",
-  "Triumphs.AlmostComplete.SeeNext": "Следующие {{limit}}",
+  "Triumphs.AlmostComplete.SeeNext": "Следующие {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Почти выполненные",
   "Triumphs.Classified.Description": "Этот триумф скрыт и может быть открыт через некоторое время.",
   "Triumphs.Classified.Name": "Засекреченный триумф",

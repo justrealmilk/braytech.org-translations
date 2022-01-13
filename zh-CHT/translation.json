@@ -669,7 +669,7 @@
   "Tooltip.Maps.UntrackableChecklist": "無法追蹤的清單項",
   "Tooltip.TrialsPassage.Losses": "失敗",
   "Triumphs.AllCompleted": "所有完成項",
-  "Triumphs.AlmostComplete.SeeNext": "查看接下來 {{limit}} 個",
+  "Triumphs.AlmostComplete.SeeNext": "查看接下來 {{number}} 個",
   "Triumphs.AlmostCompleteTriumphs": "即將完成",
   "Triumphs.Classified.Description": "這個記錄已被歸檔並可能在之後被解密",
   "Triumphs.Classified.Name": "已分類記錄",

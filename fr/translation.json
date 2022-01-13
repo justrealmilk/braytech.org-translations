@@ -671,7 +671,7 @@
   "Tooltip.Maps.UntrackableChecklist": "Liste de contrôle impossible à suivre",
   "Tooltip.TrialsPassage.Losses": "Défaites",
   "Triumphs.AllCompleted": "Tout a été complété",
-  "Triumphs.AlmostComplete.SeeNext": "Voir les {{limit}} suivants",
+  "Triumphs.AlmostComplete.SeeNext": "Voir les {{number}} suivants",
   "Triumphs.AlmostCompleteTriumphs": "Presque terminé",
   "Triumphs.Classified.Description": "Cette entrée est confidentielle et sera probablement révélée plus tard.",
   "Triumphs.Classified.Name": "Triomphe confidentiel",
