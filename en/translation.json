@@ -365,6 +365,7 @@
   "Item.EnergyAffinity": "Energy Affinity",
   "Item.EnergyCapacity": "Energy",
   "Item.EnergyCost": "Energy",
+  "Item.EnergyMeter": "Energy",
   "Item.EnergyUnused": "Unused",
   "Item.Inspect": "Inspect",
   "Item.Intrinsic": "Intrinsic",
