@@ -108,6 +108,7 @@
   "Auth.PatreonAssociation.Success": "감사합니다! 이제 사용자의 이메일이 사용자의 프로필과 연결되었습니다.",
   "Auth.PatreonAssociation.Text": "일부 Patreon 후원자들은 플레이어 이름 옆에 표시되는 _증표_ 형태의 보상이 포함되어 있습니다.\n\nPatreon 계정과 연결된 이메일을 등록하여 당신에게 맞는 증표를 표시할 수 있습니다.",
   "Auth.Suggestion.Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",
+  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "이 기능을 사용하기 위해서는 DIM 동기화가 필요합니다. 설정에서 DIM 동기화를 활성화해주세요.",
   "Character.DIMSync.Name": "DIM 동기화",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",

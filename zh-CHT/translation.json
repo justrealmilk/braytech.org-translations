@@ -108,6 +108,7 @@
   "Auth.PatreonAssociation.Success": "感謝！你的電子郵件現在與你的個人資料關聯",
   "Auth.PatreonAssociation.Text": "某些Patreon等級包括 _flair_ 形式的獎勵該獎品會顯示在玩家姓名的側面\n\n請輸入與Patreon綁定的郵箱來獲得相關權益",
   "Auth.Suggestion.Subtle": "登錄到Bungie.net以解鎖更多内容",
+  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "此功能需要 DIM Sync 才能運行.在設置中啟用同步.",
   "Character.DIMSync.Name": "DIM Sync",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",

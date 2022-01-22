@@ -108,6 +108,7 @@
   "Auth.PatreonAssociation.Success": "Danke! Deine Email ist nun mit deinem Profil verbunden.",
   "Auth.PatreonAssociation.Text": "Einige Patreon-Stufen enthalten Belohnungen in Form von _flair_, die neben Ihrem Spielernamen angezeigt werden.\n\nErmöglichen Sie die Anzeige des relevanten Flairs, indem Sie die mit Ihrem Patreon-Konto verknüpfte E-Mail-Adresse eingeben.",
   "Auth.Suggestion.Subtle": "Mit Bungie.net einloggen, um mehr Features zu nutzen.",
+  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "🦘 This feature requires DIM Sync to function. Enable Dim Sync in Settings.",
   "Character.DIMSync.Name": "🦘 DIM Sync",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",

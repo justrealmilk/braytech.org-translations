@@ -108,6 +108,7 @@
   "Auth.PatreonAssociation.Success": "Grazie! La tua email è ora associata al tuo profilo",
   "Auth.PatreonAssociation.Text": "Alcuni livelli Patreon includono ricompense sotto forma di _icona_ visualizzata di fianco del nome del tuo giocatore.\n\nAttiva la visualizzazione dell'icona rilevante inserendo l'email associata al tuo account Patreon.",
   "Auth.Suggestion.Subtle": "Accedi con Bungie.net per sbloccare più funzionalità.",
+  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "Questa funzione richiede la Sincornizzazione DIM per funzionare. Abilita la Sincornizzazione DIM in _Impostazioni_.",
   "Character.DIMSync.Name": "Sincornizzazione DIM",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",

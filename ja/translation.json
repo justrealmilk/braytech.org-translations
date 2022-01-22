@@ -108,6 +108,7 @@
   "Auth.PatreonAssociation.Success": "ありがとうございます! これで、メールはあなたのプロファイルに関連付けられました",
   "Auth.PatreonAssociation.Text": "Patreonの一部のTierでは、プレイヤー名の横に_flair_という表示報酬が含まれています。\n\nあなたのPatreonアカウントで使用するEメールを入力することで、フレアの表示を有効にします。",
   "Auth.Suggestion.Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
+  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
   "Character.DIMSync.Name": "DIMと同期する",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",
