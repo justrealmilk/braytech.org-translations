@@ -111,6 +111,7 @@
   "Character.DIMSync.Description": "Cette fonction nécessite la synchronisation avec DIM pour fonctionner. Activez la synchronisation avec Dim dans les _Paramètres_.",
   "Character.DIMSync.Name": "Synchronisation DIM ",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",
+  "Character.Vendors.CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
   "Character.Vendors.EververseCalendar": "🦘 Eververse Calendar",
   "Character.Vendors.FeaturedBrightDustItems": "🦘 Featured Bright Dust Items",
   "Character.Vendors.FeaturedSilverItems": "🦘 Featured Silver Items",

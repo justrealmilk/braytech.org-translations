@@ -111,6 +111,7 @@
   "Character.DIMSync.Description": "此功能需要 DIM Sync 才能运行。在设置中启用 DIM Sync",
   "Character.DIMSync.Name": "DIM Sync",
   "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",
+  "Character.Vendors.CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
   "Character.Vendors.EververseCalendar": "🦘 Eververse Calendar",
   "Character.Vendors.FeaturedBrightDustItems": "🦘 Featured Bright Dust Items",
   "Character.Vendors.FeaturedSilverItems": "🦘 Featured Silver Items",
