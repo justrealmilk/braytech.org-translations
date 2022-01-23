@@ -392,6 +392,7 @@
   "Item.Stats": "Estadísticas",
   "Item.Sunset": "Almacenado",
   "Item.TransferMaximumStack": "{{name}} tiene un tamaño máximo para el montón de {{size}}. Consume algunos objetos y vuelve a intentarlo.",
+  "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
   "Item.WeaponStats": "Estadísticas del arma",
   "Landing.Blog.AllPosts": "Todas las publicaciones",
   "Landing.Blog.Error": "Las entradas del blog no se pueden cargar en este momento.",

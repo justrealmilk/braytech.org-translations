@@ -393,6 +393,7 @@
   "Item.Stats": "统计数据",
   "Item.Sunset": "退环境",
   "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
+  "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
   "Item.WeaponStats": "武器属性",
   "Landing.Blog.AllPosts": "所有文章",
   "Landing.Blog.Error": "目前无法载入博客文章",

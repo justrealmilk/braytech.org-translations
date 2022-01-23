@@ -395,6 +395,7 @@
   "Item.Stats": "🦘 Stats",
   "Item.Sunset": "Актуально по",
   "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
+  "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
   "Item.WeaponStats": "Характеристики оружия",
   "Landing.Blog.AllPosts": "Все статьи",
   "Landing.Blog.Error": "Статьи сейчас недоступны для загрузки.",
