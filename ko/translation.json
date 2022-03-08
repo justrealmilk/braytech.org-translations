@@ -574,7 +574,7 @@
   "Settings.Interface.FlipSubviewNav.Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
   "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
   "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
-  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of item icons for most Braytech features.",
+  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "체크리스트 항목을 완료하면 체크리스트 화면에서 숨김",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "완료한 체크리스트 항목 숨김",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "수집품을 획득하면 수집품 화면에서 숨김",

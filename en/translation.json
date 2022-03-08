@@ -573,7 +573,7 @@
   "Settings.Interface.FlipSubviewNav.Info": "For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
   "Settings.Interface.FlipSubviewNav.Left": "Left",
   "Settings.Interface.FlipSubviewNav.Right": "Right",
-  "Settings.Interface.ItemSize.Info": "Adjust the size of item icons for most Braytech features.",
+  "Settings.Interface.ItemSize.Info": "Adjust the size of inventory item icons for most Braytech features.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "If a checklist item is completed, it will be hidden under the Checklist view.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Hide Completed Checklist Items",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "If a collectible has been acquired, it will be hidden under Collections views.",

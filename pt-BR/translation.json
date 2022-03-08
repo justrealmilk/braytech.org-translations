@@ -576,7 +576,7 @@
   "Settings.Interface.FlipSubviewNav.Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
   "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
   "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
-  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of item icons for most Braytech features.",
+  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Se um item da checklist está completo, ele aparecerá escondido na página de Checklist.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Esconder itens da checklist completos",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Se um colecionável for adquirido, ele aparecerá escondido na página de Coleções.",

@@ -576,7 +576,7 @@
   "Settings.Interface.FlipSubviewNav.Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
   "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
   "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
-  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of item icons for most Braytech features.",
+  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Si un objectif est complété, il sera caché dans la page de la liste importante.",
   "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Masquer les objectifs de liste importante complétés",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Si une récompense a été obtenue, elle sera cachée dans la page des Collections",
