@@ -805,6 +805,8 @@
   "UserModules.Customise.SeasonPass.Name": "Season Pass",
   "UserModules.Customise.WeeklyMission.Description": "Conquer your past for glory and powerful gear.",
   "UserModules.Customise.WeeklyMission.Name": "Weekly Mission",
+  "UserModules.Customise.Wellspring.Description": "Prevent undesirable rituals from occurring.",
+  "UserModules.Customise.Wellspring.Name": "Wellspring",
   "UserModules.CustomiseTip.Description": "Did you know? You can customise the displayed modules by tapping _Customise_ in the bottom right.",
   "UserModules.CustomiseTip.Name": "Customise!",
   "UserModules.Events.ActiveEvent": "Active Event",
