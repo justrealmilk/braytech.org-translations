@@ -57,6 +57,8 @@
   "Activity.Graphs.Name": "Gráficos",
   "Activity.Graphs.SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba.",
   "Activity.HydrateReportsCache.Description": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
+  "Activity.Legends.Name": "🦘 Legends",
+  "Activity.Legends.NoRaidCompletions": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
   "Activity.Modes.Bar.PvPLoss": "Derrota",
   "Activity.Modes.Bar.PvPWin": "Victoria",
   "Activity.Modes.Last100.PvE": "Últimas 100 actividades",
