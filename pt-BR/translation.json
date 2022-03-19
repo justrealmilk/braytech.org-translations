@@ -574,8 +574,6 @@
   "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
   "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
   "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Se um item da checklist está completo, ele aparecerá escondido na página de Checklist.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Esconder itens da checklist completos",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Se um colecionável for adquirido, ele aparecerá escondido na página de Coleções.",
   "Settings.ItemVisibility.HideCompletedCollectibles.Name": "Esconder itens da coleção adquiridos",
   "Settings.ItemVisibility.HideCompletedRecords.Description": "Se um triunfo estiver completo e resgatado, ele aparecerá escondido na página de Triunfos.",

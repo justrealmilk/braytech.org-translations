@@ -578,8 +578,6 @@
   "Settings.Interface.FlipSubviewNav.Left": "Izquierda",
   "Settings.Interface.FlipSubviewNav.Right": "Derecha",
   "Settings.Interface.ItemSize.Info": "Ajusta el tamaño de los íconos de los elementos del inventario para la mayoría de las funciones de Braytech.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Si se completa un elemento de la lista, se ocultará en la sección Listas de coleccionables.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Ocultar elementos de la lista completados",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Si se adquirió un objeto de la colección, se ocultará en la sección Colecciones.",
   "Settings.ItemVisibility.HideCompletedCollectibles.Name": "Ocultar objetos de la colección adquiridos",
   "Settings.ItemVisibility.HideCompletedRecords.Description": "Si un triunfo está completado y canjeado, se ocultará en la sección Triunfos.",

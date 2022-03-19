@@ -578,8 +578,6 @@
   "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
   "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
   "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Se un collezionabile è stato ottenuto, sarà nascosto dalla sezione Collezionabili.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Nascondi collezionabili acquisiti",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Se un equipaggiamento è stato ottenuto, sarà nascosto dalla sezione Collezioni.",
   "Settings.ItemVisibility.HideCompletedCollectibles.Name": "Nascondi oggetti della collezione acquisiti",
   "Settings.ItemVisibility.HideCompletedRecords.Description": "Se un trionfo è stato completato e riscattato, sarà nascosto dalla sezione Trionfi.",

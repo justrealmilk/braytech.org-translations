@@ -574,8 +574,6 @@
   "Settings.Interface.FlipSubviewNav.Left": "Gauche",
   "Settings.Interface.FlipSubviewNav.Right": "Droite",
   "Settings.Interface.ItemSize.Info": "Ajustez la taille des icônes d'articles d'inventaire pour la plupart des fonctionnalités de Braytech.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Description": "Si un objectif est complété, il sera caché dans la page de la liste importante.",
-  "Settings.ItemVisibility.HideCompletedChecklistItems.Name": "Masquer les objectifs de liste importante complétés",
   "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Si une récompense a été obtenue, elle sera cachée dans la page des Collections",
   "Settings.ItemVisibility.HideCompletedCollectibles.Name": "Cacher les objets de collection obtenus",
   "Settings.ItemVisibility.HideCompletedRecords.Description": "Si un triomphe est complété et validé, il sera caché dans la page des Triomphes.",
