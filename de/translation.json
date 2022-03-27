@@ -68,6 +68,7 @@
   "Activity.Modes.Line.AverageKD": "Durchschnittliche K/D",
   "Activity.Modes.Scatter.PvEFailure": "Gescheitert",
   "Activity.Modes.Scatter.PvEFlawless": "Makellos",
+  "Activity.Modes.Scatter.PvPFlawless": "🦘 Flawless",
   "Activity.Modes.Scatter.PvPLoss": "Verloren",
   "Activity.Modes.Scatter.PvPWin": "Gewonnen",
   "Activity.Modes.TrialsPassage": "Trials Passage",

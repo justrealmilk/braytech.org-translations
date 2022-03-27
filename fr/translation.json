@@ -68,6 +68,7 @@
   "Activity.Modes.Line.AverageKD": "Moyenne F/M",
   "Activity.Modes.Scatter.PvEFailure": "Échec",
   "Activity.Modes.Scatter.PvEFlawless": "Sans-fautes",
+  "Activity.Modes.Scatter.PvPFlawless": "🦘 Flawless",
   "Activity.Modes.Scatter.PvPLoss": "Défaite",
   "Activity.Modes.Scatter.PvPWin": "Victoire",
   "Activity.Modes.TrialsPassage": "Passage du Jugement",

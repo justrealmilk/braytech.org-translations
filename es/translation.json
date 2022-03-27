@@ -68,6 +68,7 @@
   "Activity.Modes.Line.AverageKD": "Promedio de B/M",
   "Activity.Modes.Scatter.PvEFailure": "Fracaso",
   "Activity.Modes.Scatter.PvEFlawless": "Impecable",
+  "Activity.Modes.Scatter.PvPFlawless": "🦘 Flawless",
   "Activity.Modes.Scatter.PvPLoss": "Derrota",
   "Activity.Modes.Scatter.PvPWin": "Victoria",
   "Activity.Modes.TrialsPassage": "Pase de las Pruebas",

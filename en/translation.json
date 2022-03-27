@@ -68,6 +68,7 @@
   "Activity.Modes.Line.AverageKD": "Average K/D",
   "Activity.Modes.Scatter.PvEFailure": "Failure",
   "Activity.Modes.Scatter.PvEFlawless": "Flawless",
+  "Activity.Modes.Scatter.PvPFlawless": "Flawless",
   "Activity.Modes.Scatter.PvPLoss": "Loss",
   "Activity.Modes.Scatter.PvPWin": "Win",
   "Activity.Modes.TrialsPassage": "Trials Passage",

@@ -68,6 +68,7 @@
   "Activity.Modes.Line.AverageKD": "평균 K/D",
   "Activity.Modes.Scatter.PvEFailure": "실패",
   "Activity.Modes.Scatter.PvEFlawless": "무결점",
+  "Activity.Modes.Scatter.PvPFlawless": "🦘 Flawless",
   "Activity.Modes.Scatter.PvPLoss": "패배",
   "Activity.Modes.Scatter.PvPWin": "승리",
   "Activity.Modes.TrialsPassage": "시험 통행권",
