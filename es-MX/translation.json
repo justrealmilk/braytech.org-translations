@@ -530,6 +530,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "Perfil privado",
   "ProfileSearch.NoProfilesFound": "Ningún perfil encontrado",
   "ProfileSearch.PreviousSearches": "Búsquedas anteriores",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "Perfil guardado",
   "ProfileSearch.SearchForPlayer": "Buscar jugador",
   "ProfileSearch.SearchPlaceholder": "introduce NombreDelJugador#1234",

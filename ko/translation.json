@@ -525,6 +525,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "비공개 프로필",
   "ProfileSearch.NoProfilesFound": "검색된 프로필 없음",
   "ProfileSearch.PreviousSearches": "지난 검색",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "저장된 프로필",
   "ProfileSearch.SearchForPlayer": "플레이어 검색",
   "ProfileSearch.SearchPlaceholder": "게임태그 또는 SteamId64 입력",

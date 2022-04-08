@@ -525,6 +525,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "プライベートプロファイル",
   "ProfileSearch.NoProfilesFound": "プロファイルはありません",
   "ProfileSearch.PreviousSearches": "前の検索",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "保存したプロファイル",
   "ProfileSearch.SearchForPlayer": "プレイヤーを検索する",
   "ProfileSearch.SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",

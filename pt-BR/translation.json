@@ -526,6 +526,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "Perfil Privado",
   "ProfileSearch.NoProfilesFound": "Nenhum perfil encontrado",
   "ProfileSearch.PreviousSearches": "Buscas anteriores",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "Perfil salvo",
   "ProfileSearch.SearchForPlayer": "Procurar jogador",
   "ProfileSearch.SearchPlaceholder": "Insira a gamertag ou SteamId64",

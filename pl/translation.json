@@ -525,6 +525,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "🦘 Private Profile",
   "ProfileSearch.NoProfilesFound": "🦘 No Profiles Found",
   "ProfileSearch.PreviousSearches": "🦘 Previous Searches",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "🦘 Saved Profile",
   "ProfileSearch.SearchForPlayer": "🦘 Search For Player",
   "ProfileSearch.SearchPlaceholder": "🦘 enter name#code",

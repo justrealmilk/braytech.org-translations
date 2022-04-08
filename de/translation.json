@@ -530,6 +530,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "Privates Profil",
   "ProfileSearch.NoProfilesFound": "Keine Profile gefunden",
   "ProfileSearch.PreviousSearches": "Vorherige Suchen",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "Gespeichertes Profil",
   "ProfileSearch.SearchForPlayer": "Suche nach Spieler",
   "ProfileSearch.SearchPlaceholder": "BungieName#0434 eingeben",

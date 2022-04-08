@@ -526,6 +526,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "Profil privé",
   "ProfileSearch.NoProfilesFound": "Pas de profils trouvés",
   "ProfileSearch.PreviousSearches": "Recherches précédentes",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "Profil sauvegardé",
   "ProfileSearch.SearchForPlayer": "Recherche de joueur",
   "ProfileSearch.SearchPlaceholder": "Entrez un nom Bungie",

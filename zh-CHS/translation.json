@@ -525,6 +525,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "私密用户",
   "ProfileSearch.NoProfilesFound": "没有找到档案",
   "ProfileSearch.PreviousSearches": "历史搜索",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "已保存档案",
   "ProfileSearch.SearchForPlayer": "搜索玩家",
   "ProfileSearch.SearchPlaceholder": "请输入游戏标签或 Steam 64位ID",

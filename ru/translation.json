@@ -525,6 +525,7 @@
   "ProfileSearch.Error.PrivateProgression.Name": "Приватный профиль",
   "ProfileSearch.NoProfilesFound": "Нет найденных профилей",
   "ProfileSearch.PreviousSearches": "Прошлые поиски",
+  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
   "ProfileSearch.SavedProfile": "Сохраненный профиль",
   "ProfileSearch.SearchForPlayer": "Найти игрока",
   "ProfileSearch.SearchPlaceholder": "Введите ник или SteamId64",
