@@ -344,7 +344,7 @@
   "Common.WeekNth": "Week {{number}}",
   "Common.Week_plural": "Weeks",
   "CustomisableLayout.Error.ColumnExclusives": "Double and full-width modules are column exclusives. Try adding a module to another column.",
-  "CustomisableLayout.Error.RenderModule": "An error occurred while attempting to render module: {{moduleName}}. This is probably a temporary error. If you want to change modules, select _Customise_ from the action bar below.",
+  "CustomisableLayout.Error.RenderModule": "An error occurred while attempting to render module: {{moduleName}}. This is probably a temporary error.",
   "CustomisableLayout.Group.Add": "Add Group",
   "CustomisableLayout.Group.Remove": "Remove Group",
   "CustomisableLayout.Module.Add": "Add Module",
