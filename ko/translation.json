@@ -414,6 +414,7 @@
   "Item.Sunset": "시즌 전투력 상한선",
   "Item.TransferMaximumStack": "{{name}}는/은 한번에 최대 {{size}}개를 소지할 수 있습니다. 먼저 조금 사용하신 뒤 다시 시도.",
   "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
   "Item.WeaponStats": "최대 사용 가능한 시즌",
   "Landing.Blog.AllPosts": "모든 게시글",
   "Landing.Blog.Error": "지금은 블로그 게시글을 불러올 수 없습니다.",
