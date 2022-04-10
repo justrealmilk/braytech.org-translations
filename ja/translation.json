@@ -789,7 +789,7 @@
   "UserModules.Challenges.PlaylistBonus.Description": "今週、 {{mode}} では2倍の{{rank}}ボーナスが得られます。",
   "UserModules.Challenges.PlaylistBonus.Name": "プレイリストボーナス",
   "UserModules.Challenges.Power.Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
-　"UserModules.Challenges.Power.Name": "Light",
+  "UserModules.Challenges.Power.Name": "Light",
   "UserModules.Challenges.Type.Bounties": "バウンティ",
   "UserModules.Challenges.Type.Crucible": "クルーシブル",
   "UserModules.Challenges.Type.Dungeon": "迷宮",
