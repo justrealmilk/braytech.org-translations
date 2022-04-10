@@ -415,6 +415,7 @@
   "Item.Sunset": "Depositado",
   "Item.TransferMaximumStack": "{{name}} tiene un tamaño máximo para el montón de {{size}}. Consume algunos objetos y vuelve a intentarlo.",
   "Item.UndiscoveredCollectibleVendor": "Adquiere este objeto para añadirlo a tus Colecciones",
+  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
   "Item.WeaponStats": "Estadísticas del arma",
   "Landing.Blog.AllPosts": "Todas las publicaciones",
   "Landing.Blog.Error": "Las entradas del blog no se pueden cargar en este momento.",

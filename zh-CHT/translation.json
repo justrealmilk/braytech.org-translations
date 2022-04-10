@@ -414,6 +414,7 @@
   "Item.Sunset": "最後賽季",
   "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
   "Item.WeaponStats": "武器屬性",
   "Landing.Blog.AllPosts": "所有文章",
   "Landing.Blog.Error": "目前無法載入博客文章",

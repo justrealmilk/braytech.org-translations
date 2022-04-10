@@ -415,6 +415,7 @@
   "Item.Sunset": "Untergang",
   "Item.TransferMaximumStack": "{{name}} hat eine maximale Stapelgröße von {{size}}. Verbrauch einige Gegenstände und versuche es erneut.",
   "Item.UndiscoveredCollectibleVendor": "Erwirb diesen Gegenstand, um ihn zu den Sammlungen hinzuzufügen",
+  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
   "Item.WeaponStats": "Waffenwerte",
   "Landing.Blog.AllPosts": "Alle Beiträge",
   "Landing.Blog.Error": "Blog-Einträge konnten nicht geladen werden",

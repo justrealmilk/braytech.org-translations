@@ -414,6 +414,7 @@
   "Item.Sunset": "🦘 Sunset",
   "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
   "Item.WeaponStats": "🦘 Weapon Stats",
   "Landing.Blog.AllPosts": "🦘 All Posts",
   "Landing.Blog.Error": "🦘 Blog posts couldn't be loaded at this time.",
