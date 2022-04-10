@@ -415,7 +415,7 @@
   "Item.Sunset": "Aposentado",
   "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
   "Item.UndiscoveredCollectibleVendor": "Obtenha este item para adicioná-lo à sua Coleção",
-  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
+  "Item.WeaponKills": "🦘 Weapon Kills",
   "Item.WeaponStats": "Estatísticas de Arma",
   "Landing.Blog.AllPosts": "Todas as postagens",
   "Landing.Blog.Error": "Não foi possível carregar as postagens dessa vez.",

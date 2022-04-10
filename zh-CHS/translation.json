@@ -414,7 +414,7 @@
   "Item.Sunset": "退环境",
   "Item.TransferMaximumStack": " {{name}} 的最大堆积上限为 {{size}}. 消耗掉一些并于稍后再试！",
   "Item.UndiscoveredCollectibleVendor": "获取这个物品并添加进你的收藏之中",
-  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
+  "Item.WeaponKills": "🦘 Weapon Kills",
   "Item.WeaponStats": "武器属性",
   "Landing.Blog.AllPosts": "所有文章",
   "Landing.Blog.Error": "目前无法载入博客文章",

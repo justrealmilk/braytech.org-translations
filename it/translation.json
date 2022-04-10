@@ -415,7 +415,7 @@
   "Item.Sunset": "Stagione massima",
   "Item.TransferMaximumStack": "{{name}} può avere una quantità massima di {{size}}. Consumane alcuni e riprova.",
   "Item.UndiscoveredCollectibleVendor": "Acquisisci questo oggetto per aggiungerlo alle tue Collezioni",
-  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
+  "Item.WeaponKills": "🦘 Weapon Kills",
   "Item.WeaponStats": "Statistiche Arma",
   "Landing.Blog.AllPosts": "Tutti i post",
   "Landing.Blog.Error": "Al momento non è possibile caricare i post del blog",

@@ -415,7 +415,7 @@
   "Item.Sunset": "引退",
   "Item.TransferMaximumStack": "{{name}} は{{size}}の最大アイテム所持数に到達しました。スペースを開けてから再度お試しください。",
   "Item.UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
-  "Item.UniqueWeaponKills": "🦘 Unique Weapon Kills",
+  "Item.WeaponKills": "🦘 Weapon Kills",
   "Item.WeaponStats": "武器性能",
   "Landing.Blog.AllPosts": "すべての記事",
   "Landing.Blog.Error": "ブログ記事の読み込みができませんでした。",
