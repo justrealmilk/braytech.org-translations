@@ -53,6 +53,7 @@
   "Activity.Bookmarks.Name": "Favoris",
   "Activity.Carnage.SelectDate.Info": "🦘 Select a date below and prepare to jump",
   "Activity.Carnage.SelectDate.Loading": "🦘 Scanning... {{date}}",
+  "Activity.Carnage.SelectDate.NotFound": "🦘 The requested period could not be found in this character's activity history.",
   "Activity.Carnage.SelectDate.Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
   "Activity.DownloadReports.Description": "Téléchargement des rapports",
   "Activity.DownloadReports.Name": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",

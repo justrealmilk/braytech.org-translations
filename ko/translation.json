@@ -53,6 +53,7 @@
   "Activity.Bookmarks.Name": "북마크",
   "Activity.Carnage.SelectDate.Info": "🦘 Select a date below and prepare to jump",
   "Activity.Carnage.SelectDate.Loading": "🦘 Scanning... {{date}}",
+  "Activity.Carnage.SelectDate.NotFound": "🦘 The requested period could not be found in this character's activity history.",
   "Activity.Carnage.SelectDate.Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
   "Activity.DownloadReports.Description": "보고서 다운로드중",
   "Activity.DownloadReports.Name": "Bungie.net으로부터 화력팀 자료를 수집중입니다. 네트워크 연결 상태와 필요한 요청 수에 따라 시간이 좀 걸릴 수 있습니다.",
