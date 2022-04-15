@@ -38,6 +38,7 @@
   "Action.ReloadAppAutomatically": "自動的にアプリを再読み込みする",
   "Action.RemoveBookmark": "ブックマークから削除",
   "Action.Reset": "リセット",
+  "Action.SelectDate": "🦘 Select Date",
   "Action.SelectFilters": "フィルター",
   "Action.SelectMasterwork": "マスターワークを選択",
   "Action.Set": "セット",
