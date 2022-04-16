@@ -56,7 +56,7 @@
   "Activity.Carnage.SelectDate.Loading": " {{date}} をスキャン中...",
   "Activity.Carnage.SelectDate.NotFound": "このキャラクターの活動履歴は、指定した期間では見つかりませんでした。",
   "Activity.Carnage.SelectDate.Waiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。",
-    "Activity.DownloadReports.Description": "レポートをダウンロードしています",
+  "Activity.DownloadReports.Description": "レポートをダウンロードしています",
   "Activity.DownloadReports.Name": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
   "Activity.GenericError.Description": "何か問題が発生しました。もう一度お試しください。",
   "Activity.Graphs.Description": "アクティビティをグラフにプロットして、統計的に見やすいようにしました。",
