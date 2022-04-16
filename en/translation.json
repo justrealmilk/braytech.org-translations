@@ -484,7 +484,7 @@
   "Loading.Status.ReadStoredPGCR": "Load Stored Carnage Reports",
   "Loading.Status.SettingsFetch": "Connecting to Bungie.net",
   "Loading.Status.StoreManifest": "Storing Manifest Data",
-  "Loading.WaitingForBungie": "Waiting For Bungie",
+  "Loading.WaitingForBungie": "Waiting for Bungie",
   "Maps.Checklists.NoItems": "No items detected",
   "Maps.Inspect.Instructions": "Instructions",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "Description",
