@@ -1,4 +1,4 @@
-export default [
+const contributors = [
   {
     language: 'ru',
     membershipType: 3,
@@ -67,11 +67,13 @@ export default [
   {
     language: 'ru',
     membershipType: 3,
-    membershipId: '4611686018493887406' // solelychloe
+    membershipId: '4611686018493887406', // solelychloe
   },
   {
     language: 'de',
     membershipType: 3,
-    membershipId: '4611686018482652651' // nwL
-  }
+    membershipId: '4611686018482652651', // nwL
+  },
 ];
+
+export default contributors;
