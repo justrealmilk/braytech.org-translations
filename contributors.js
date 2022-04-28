@@ -63,5 +63,15 @@ export default [
     language: 'zh-CHS',
     membershipType: 3,
     membershipId: '4611686018511283225', // PaiJi
+  },
+  {
+    language: 'ru',
+    membershipType: 3,
+    membershipId: '4611686018493887406' // solelychloe
+  },
+  {
+    language: 'de',
+    membershipType: 3,
+    membershipId: '4611686018482652651' // nwL
   }
 ];
