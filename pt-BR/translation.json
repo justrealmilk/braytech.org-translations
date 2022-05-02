@@ -401,6 +401,7 @@
   "Item.CollectionsRoll": "Roll de Coleção",
   "Item.Compare": "Comparar",
   "Item.CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "Este perk não está disponível nesta arma no momento",
   "Item.EnergyAffinity": "Afinidade Energética",
   "Item.EnergyCapacity": "Energia",

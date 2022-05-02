@@ -400,6 +400,7 @@
   "Item.CollectionsRoll": "🦘 Collections Roll",
   "Item.Compare": "🦘 Compare",
   "Item.CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",
   "Item.EnergyAffinity": "🦘 Energy Affinity",
   "Item.EnergyCapacity": "🦘 Energy",

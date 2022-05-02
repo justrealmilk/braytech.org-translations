@@ -401,6 +401,7 @@
   "Item.CollectionsRoll": "Caratteristiche delle collezioni",
   "Item.Compare": "Confronta",
   "Item.CouldntFindItemForUnequip": "Non è stato possibile trovare un oggetto da equipaggiare al posto di {{name}} sul personaggio in cui si trova.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "Questa peculiarità non è disponibile su quest'arma",
   "Item.EnergyAffinity": "Affinità",
   "Item.EnergyCapacity": "Energia",

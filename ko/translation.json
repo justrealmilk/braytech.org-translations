@@ -400,6 +400,7 @@
   "Item.CollectionsRoll": "수집품 스텟",
   "Item.Compare": "🦘 Compare",
   "Item.CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "이 속성은 해당 무기에서 나오지 않습니다.",
   "Item.EnergyAffinity": "에너지 속성",
   "Item.EnergyCapacity": "에너지",

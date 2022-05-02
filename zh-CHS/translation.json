@@ -400,6 +400,7 @@
   "Item.CollectionsRoll": "收藏品",
   "Item.Compare": "比较",
   "Item.CouldntFindItemForUnequip": "未能在所指定的角色上找到 {{name}} 的位置上装备的物品。",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "该特性目前无法在该武器上取得",
   "Item.EnergyAffinity": "能量类型",
   "Item.EnergyCapacity": "能量",

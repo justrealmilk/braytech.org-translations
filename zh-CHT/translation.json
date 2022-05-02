@@ -400,6 +400,7 @@
   "Item.CollectionsRoll": "收藏品",
   "Item.Compare": "🦘 Compare",
   "Item.CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "該特性目前無法在該武器上取得",
   "Item.EnergyAffinity": "能量類型",
   "Item.EnergyCapacity": "能量",

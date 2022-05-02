@@ -401,6 +401,7 @@
   "Item.CollectionsRoll": "コレクション品のステータス",
   "Item.Compare": "比較する",
   "Item.CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "このパークは現在、この武器から出てきません。",
   "Item.EnergyAffinity": "エネルギー属性",
   "Item.EnergyCapacity": "エネルギー",

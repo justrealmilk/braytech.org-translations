@@ -401,6 +401,7 @@
   "Item.CollectionsRoll": "Sammlungs-Werte",
   "Item.Compare": "Vergleiche",
   "Item.CouldntFindItemForUnequip": "Ein anstelle von {{Name}} auszurüstender Gegenstand konnte nicht auf dem Charakter gefunden werden, auf dem er sich befindet.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "Dieser Perk ist derzeit nicht für diese Waffe verfügbar",
   "Item.EnergyAffinity": "Energieart",
   "Item.EnergyCapacity": "Energie",

@@ -401,6 +401,7 @@
   "Item.CollectionsRoll": "Collection d'attributs",
   "Item.Compare": "Comparer",
   "Item.CouldntFindItemForUnequip": "Un objet à équiper à la place de {{name}} est introuvable sur le personnage où il se trouve.",
+  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
   "Item.CurrentlyCantRoll": "Cet attribut n'est pas compatible avec cette arme",
   "Item.EnergyAffinity": "Affinité Energétique",
   "Item.EnergyCapacity": "Énergie",
