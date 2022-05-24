@@ -318,7 +318,7 @@
   "Common.Medals": "メダル",
   "Common.Name": "名前",
   "Common.Nightfall": "ナイトフォール",
-  "Common.Nightfall_plural": "🦘 Nightfalls",
+  "Common.Nightfall_plural": "ナイトフォール",
   "Common.NightmareHunt_plural": "ナイトメア狩り",
   "Common.NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
   "Common.NothingHereYet": "まだ何も無いようです",
@@ -936,6 +936,6 @@
   "Weeklies.Challenges.Type.Raid": "レイド",
   "Weeklies.Challenges.Type.Seasonal": "シーズン",
   "Weeklies.Challenges.Type.Strikes": "ストライク",
-  "Weeklies.Rotations.Description": "🦘 Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
-  "Weeklies.Rotations.Name": "🦘 Rotations"
+  "Weeklies.Rotations.Description": "ローテーションで執り行われる儀式の予定を知ることで、未入手の武器取得やアイテム厳選の計画が立てやすくなります。ローテーションの内容は開発にて変更されることがあり、このページもそれに合わせて更新されます。",
+  "Weeklies.Rotations.Name": "ローテーション"
 }
