@@ -264,6 +264,7 @@
   "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
   "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "Scoperti di recente",
+  "Collections.SetComplete": "🦘 Set complete",
   "Collections.SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
   "Common.Acknowledgements": "Ringraziamenti",
   "Common.AcknowledgementsInfo": "Alcuni di questi contenuti sono gentilmente offerti da terza parti. Per favore pensa al loro sforzo quando usi i loro lavori.",

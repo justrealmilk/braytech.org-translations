@@ -264,6 +264,7 @@
   "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
   "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "最近發現的",
+  "Collections.SetComplete": "🦘 Set complete",
   "Collections.SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
   "Common.Acknowledgements": "致謝",
   "Common.AcknowledgementsInfo": "其中一些内容是第三方無償提供的，請在使用的時候感謝他們",
