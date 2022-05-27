@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "Abzeichen vollständig",
   "Collections.Badges.Progress": "Abzeichen-Fortschritt",
   "Collections.Collectible.Commonality": "Die Seltenheit eines Gegenstands ist der Anteil aller Spieler, die dieses Item gefunden haben und von Voluspa indiziert sind.",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "Kürzlich entdeckt",
   "Collections.SomeAcquiredSomeInvisible": "Einige erworben, {{invisible}} unsichtbar.",
   "Common.Acknowledgements": "Danksagung",

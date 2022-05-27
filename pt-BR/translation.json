@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "Insígnia completada",
   "Collections.Badges.Progress": "Progesso da insígnia",
   "Collections.Collectible.Commonality": "A raridade do colecionável representa a porcentagem de jogadores indexados pela Voluspa que o coletaram.",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "Descobertos recentemente",
   "Collections.SomeAcquiredSomeInvisible": "Alguns adquiridos, {{invisible}} invisível",
   "Common.Acknowledgements": "Reconhecimentos",

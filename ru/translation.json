@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "Карточка получена",
   "Collections.Badges.Progress": "Прогресс карточки",
   "Collections.Collectible.Commonality": "Редкость предмета представлена в проценте игроков индексированных Voluspa, которые получили этот предмет.",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "Недавно найденные",
   "Collections.SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
   "Common.Acknowledgements": "Благодарности",

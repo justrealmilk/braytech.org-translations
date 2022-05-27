@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "Insignia completada",
   "Collections.Badges.Progress": "Progreso de insignia",
   "Collections.Collectible.Commonality": "Porcentaje de jugadores indexados por Voluspa que descubrieron este coleccionable.",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "Descubierto recientemente",
   "Collections.SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
   "Common.Acknowledgements": "Agradecimientos",

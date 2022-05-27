@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "배지 완료",
   "Collections.Badges.Progress": "배지 진행도",
   "Collections.Collectible.Commonality": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다.",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "최근 발견",
   "Collections.SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
   "Common.Acknowledgements": "감사의 말",

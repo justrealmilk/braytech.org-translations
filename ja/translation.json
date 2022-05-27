@@ -261,6 +261,8 @@
   "Collections.Badges.Completed": "記章は完了しました",
   "Collections.Badges.Progress": "記章の進捗",
   "Collections.Collectible.Commonality": "収集品のレア度は、Voluspaのインデックスに登録されているプレイヤーのうち、収集したプレイヤーの割合で表されます。",
+  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
+  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display",
   "Collections.RecentlyDiscovered": "最近の発見",
   "Collections.SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
   "Common.Acknowledgements": "謝辞",
