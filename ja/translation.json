@@ -931,6 +931,7 @@
   "Voluspa.CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
   "Voluspa.Indexed": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
   "Voluspa.LastIndexed": "{{time}}に更新されました",
+  "Weeklies.Challenges.ActivityBonus": "🦘 Activity Bonuses",
   "Weeklies.Challenges.ArtifactPower.Description": "得られた経験を通して、シーズンアーティファクトよってもたらされるライトレベルへのボーナス",
   "Weeklies.Challenges.ArtifactPower.Name": "アーティファクトパワーボーナス",
   "Weeklies.Challenges.GearPower.Description": "現在の装備の平均パワーレベルです。",

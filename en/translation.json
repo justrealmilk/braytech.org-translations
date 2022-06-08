@@ -929,6 +929,7 @@
   "Voluspa.CompletedBy": "{{number}} players have completed this.",
   "Voluspa.Indexed": "{{number}} players are currently indexed by Voluspa.",
   "Voluspa.LastIndexed": "Last indexed {{time}}",
+  "Weeklies.Challenges.ActivityBonus": "Activity Bonuses",
   "Weeklies.Challenges.ArtifactPower.Description": "A bonus to your Light level, channeled by your equipped seasonal artifact through experience gained.",
   "Weeklies.Challenges.ArtifactPower.Name": "Artifact Power Bonus",
   "Weeklies.Challenges.GearPower.Description": "The average Power level of your currently equipped armaments.",
@@ -945,7 +946,6 @@
   "Weeklies.Challenges.Type.Raid": "Raid",
   "Weeklies.Challenges.Type.Seasonal": "Seasonal",
   "Weeklies.Challenges.Type.Strikes": "Strikes",
-  "Weeklies.Challenges.ActivityBonus": "Activity Bonuses",
   "Weeklies.Rotations.Description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
   "Weeklies.Rotations.Name": "Rotations"
 }

@@ -929,6 +929,7 @@
   "Voluspa.CompletedBy": "{{number}} giocatori l'hanno completato.",
   "Voluspa.Indexed": "{{number}} giocatori indicizzati da Voluspa.",
   "Voluspa.LastIndexed": "Ultima indicizzazione: {{time}}",
+  "Weeklies.Challenges.ActivityBonus": "🦘 Activity Bonuses",
   "Weeklies.Challenges.ArtifactPower.Description": "Un bonus al tuo livello di Luce, incanalato dall'artefatto stagionale attraverso l'esperienza acquisita.",
   "Weeklies.Challenges.ArtifactPower.Name": "Potere bonus dell'artefatto",
   "Weeklies.Challenges.GearPower.Description": "La media del livello di Potere dell'equipaggiamento attuale.",
