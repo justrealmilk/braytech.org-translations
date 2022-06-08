@@ -934,8 +934,6 @@
   "Weeklies.Challenges.GearPower.Description": "The average Power level of your currently equipped armaments.",
   "Weeklies.Challenges.GearPower.Name": "Gear Power",
   "Weeklies.Challenges.NoChallenges": "You've smashed all of your available challenges this week!",
-  "Weeklies.Challenges.PlaylistBonus.Description": "This week, {{mode}} grants double {{rank}}.",
-  "Weeklies.Challenges.PlaylistBonus.Name": "Playlist Bonus",
   "Weeklies.Challenges.Power.Description": "Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
   "Weeklies.Challenges.Power.Name": "Light",
   "Weeklies.Challenges.Type.Bounties": "Bounties",
@@ -947,6 +945,7 @@
   "Weeklies.Challenges.Type.Raid": "Raid",
   "Weeklies.Challenges.Type.Seasonal": "Seasonal",
   "Weeklies.Challenges.Type.Strikes": "Strikes",
+  "Weeklies.Challenges.ActivityBonus": "Activity Bonuses",
   "Weeklies.Rotations.Description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
   "Weeklies.Rotations.Name": "Rotations"
 }
