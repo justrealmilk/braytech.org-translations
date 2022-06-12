@@ -659,7 +659,7 @@
   "Settings.Maps.VisualFidelity.Info": "Modifica la quantità di effetti visivi",
   "Settings.Profile.Info": "Braytech rende semplice visualizzare più profili contemporaneamente, ma ricorda l'ultimo profilo selezionato da [Ricerca profilo](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Seleziona un profilo",
-  "Settings.ReloadRequired.Description": "🦘 Select reload to activate your changes immediately.",
+  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "Una volta scaricati, i riepiloghi sono salvati nella memoria d'archiviazione del dispositivo. Tutti i riepiloghi sono associati tramite il profilo con il quale sono stati visualizzati. Qui puoi cancellarli, profilo per profilo. Potresti voler usare questa opzione per diminuire i tempi di caricamento iniziali quando hai scaricato molti riepiloghi.",
   "Settings.Reports.NoReports": "Non è stato trovato nessun riepilogo salvato su questo dispositivo.",

@@ -655,7 +655,7 @@
   "Settings.Maps.VisualFidelity.Info": "改變視覺繁榮的數量",
   "Settings.Profile.Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
   "Settings.Profile.NoProfileSelected": "🦘 Select a profile",
-  "Settings.ReloadRequired.Description": "🦘 Select reload to activate your changes immediately.",
+  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "下載後，報告將保存到設備存儲中，以便事後快速訪問.所有報告都與最初查看它們的成員相關聯.您可以在此處逐個清除它們.如果您下載了許多報告，您可能希望這樣做以最大程度地減少初始加載時間.",
   "Settings.Reports.NoReports": "此設備上未存儲任何報告.",

@@ -655,7 +655,7 @@
   "Settings.Maps.VisualFidelity.Info": "시작적 효과의 수 변경",
   "Settings.Profile.Info": "Braytech는 많은 플레이어들의 프로필을 쉽게 볼 수 있게 합니다. 하지만 가장 최근 [Profile Search](/profile-search)에서 선택한 프로필을 기억합니다.",
   "Settings.Profile.NoProfileSelected": "프로필 선택",
-  "Settings.ReloadRequired.Description": "🦘 Select reload to activate your changes immediately.",
+  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "보고서들이 다운로드가 되면 빠른 접근을 위해 장치 저장소에 저장됩니다. 모든 보고서들은 해당 보고서를 보기 위해 거쳐진 회원과 연결됩니다. 여기서 각 회원별로 보고서를 지울 수 있습니다. 너무 많은 보고서를 받은 경우, 초기 로딩 시간 최소화를 위해 이 작업을 할 수 있습니다.",
   "Settings.Reports.NoReports": "이 기기에 저장된 보고서가 없습니다.",

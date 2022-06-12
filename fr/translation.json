@@ -656,7 +656,7 @@
   "Settings.Maps.VisualFidelity.Info": "Modifier le nombre de fioritures visuelles",
   "Settings.Profile.Info": "Braytech permet de visualiser facilement plusieurs profils de joueurs à la fois, mais il se souvient du dernier profil que vous avez sélectionné depuis la [Recherche de Profil](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Sélectionnez un profil",
-  "Settings.ReloadRequired.Description": "🦘 Select reload to activate your changes immediately.",
+  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "Une fois téléchargés, les rapports sont enregistrés dans le stockage de l'appareil pour un accès rapide après coup. Tous les rapports sont associés au membre par lequel ils ont été initialement consultés. Vous pouvez les effacer ici, membre par membre. Vous souhaiterez peut-être faire cela afin de minimiser le temps de chargement initial, si vous avez téléchargé de nombreux rapports.",
   "Settings.Reports.NoReports": "Aucun rapport n'est stocké sur cet appareil.",

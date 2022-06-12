@@ -655,7 +655,7 @@
   "Settings.Maps.VisualFidelity.Info": "改变视觉装饰的数量",
   "Settings.Profile.Info": "Braytech 可以轻松地一次查看多个玩家资料，但它会默认从您中查询的最后一个玩家的资料开始 [玩家资料查询](/profile-search).",
   "Settings.Profile.NoProfileSelected": "选择玩家资料",
-  "Settings.ReloadRequired.Description": "🦘 Select reload to activate your changes immediately.",
+  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "报告一旦下载，就会被保存到你的设备存储器中，以便事后快速查阅。所有报告都与最初查看它们的成员相关联。你可以在这里按成员来清除报告。如果你已经下载了很多报告，你可能希望删除报告来加快读取速度，。",
   "Settings.Reports.NoReports": "暂无报告存储到设备道中",
