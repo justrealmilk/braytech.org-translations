@@ -122,7 +122,7 @@
   "Auth.PatreonAssociation.Name": "Patreon Association",
   "Auth.PatreonAssociation.Placeholder": "chonky_zuzuvala69@hotmail.reef",
   "Auth.PatreonAssociation.Success": "Thanks! Your email is now associated with your profiles",
-  "Auth.PatreonAssociation.Text": "Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name.\n\nEnable display of relevant flair by entering the email associated with your Patreon account.",
+  "Auth.PatreonAssociation.Text": "Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name. Enable display of relevant flair by entering the email associated with your Patreon account.",
   "Auth.Suggestion.Subtle": "Login with Bungie.net to unlock more features.",
   "Character.Breakdown.EffectiveMods": "Effective Mods",
   "Character.Breakdown.SlottedMods": "Slotted Mods",
