@@ -602,6 +602,8 @@
   "Settings.DIMSync.Action.Disable.Description": "Synchronisierung deaktivieren und das gespeicherte DIM-Sync-Authentifizierungstoken löschen.",
   "Settings.DIMSync.Action.Enable.Description": "Synchronisierung aktivieren und dein Bungie.net-Authentifizierungstoken mit DIM Sync austauschen.",
   "Settings.DIMSync.Info": "Synchronisiere deine Einstellungen mit DIM .",
+  "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
+  "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
   "Settings.Developer.Lists.Description": "Entwicklerlisten aktivieren, indem Links überschrieben werden.",
   "Settings.Developer.Lists.Name": "Listen aktivieren",
   "Settings.Developer.Maps.Debug.Description": "Karten-Debugging aktivieren",

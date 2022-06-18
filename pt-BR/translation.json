@@ -598,6 +598,8 @@
   "Settings.DIMSync.Action.Disable.Description": "Desative a sincronização e exclua o token de autenticação de sincronização DIM armazenado.",
   "Settings.DIMSync.Action.Enable.Description": "Habilite a sincronização trocando seu token de autenticação Bungie.net com DIM Sync.",
   "Settings.DIMSync.Info": "Sincronize suas configurações com DIM para ver seus sets.",
+  "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
+  "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
   "Settings.Developer.Lists.Description": "Habilitar listas de desenvolvedor ao sobrepor links",
   "Settings.Developer.Lists.Name": "Habilitar listas",
   "Settings.Developer.Maps.Debug.Description": "Habilitar configurações de depuração (debugging) para os mapas",

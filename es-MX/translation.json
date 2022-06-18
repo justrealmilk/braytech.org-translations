@@ -602,6 +602,8 @@
   "Settings.DIMSync.Action.Disable.Description": "Desactiva la sincronización y borra el _token_ de autenticación de la Sincronización DIM almacenado.",
   "Settings.DIMSync.Action.Enable.Description": "Activa la sincronización al compartir tu _token_ de autenticación de Bungie.net con la Sincronización DIM.",
   "Settings.DIMSync.Info": "Sincroniza tus ajustes con DIM para las equipaciones.",
+  "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
+  "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
   "Settings.Developer.Lists.Description": "Habilita las listas de desarrolladores mediante la anulación de enlaces.",
   "Settings.Developer.Lists.Name": "Habilitar listas",
   "Settings.Developer.Maps.Debug.Description": "Habilita la configuración de depuración de Mapas.",
