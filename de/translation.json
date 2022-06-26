@@ -762,6 +762,7 @@
   "Tooltip.Maps.Availability": "Verfügbar: jede {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "Nicht nachverfolgbare Checkliste",
   "Triumphs.AllCompleted": "Alle abgeschlossen",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "Zeige die Nächsten {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Fast abgeschlossen",
   "Triumphs.Classified.Description": "Dieser Triumph ist geheim und wird möglicherweise in Zukunft verfügbar sein.",

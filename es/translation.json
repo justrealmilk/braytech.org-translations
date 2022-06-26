@@ -762,6 +762,7 @@
   "Tooltip.Maps.Availability": "Disponible: cada {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "Lista de coleccionables no rastreable",
   "Triumphs.AllCompleted": "Todo completado",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "Ver los siguientes {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Casi completado",
   "Triumphs.Classified.Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",

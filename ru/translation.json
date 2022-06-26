@@ -756,6 +756,7 @@
   "Tooltip.Maps.Availability": "Доступно: каждые {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "Неотслеживаемый объект",
   "Triumphs.AllCompleted": "Все получены",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "Следующие {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Почти выполненные",
   "Triumphs.Classified.Description": "Этот триумф скрыт и может быть открыт через некоторое время.",

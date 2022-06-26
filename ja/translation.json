@@ -762,6 +762,7 @@
   "Tooltip.Maps.Availability": "入手可能: {{period}} ごと",
   "Tooltip.Maps.UntrackableChecklist": "追跡不可能なチェックリスト",
   "Triumphs.AllCompleted": "すべて達成済",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "次の{{number}}件を見る",
   "Triumphs.AlmostCompleteTriumphs": "もうすぐ完成",
   "Triumphs.Classified.Description": "この記録は機密扱いにされており、後日公開される可能性があります。",

@@ -762,6 +762,7 @@
   "Tooltip.Maps.Availability": "Available: every {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "Untrackable Checklist",
   "Triumphs.AllCompleted": "All Completed",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "See Next {{number}}",
   "Triumphs.AlmostCompleteTriumphs": "Almost Complete",
   "Triumphs.Classified.Description": "This record is classified and may be revealed at a later time.",

@@ -756,6 +756,7 @@
   "Tooltip.Maps.Availability": "🦘 Available: every {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "체크리스트 추적 해제",
   "Triumphs.AllCompleted": "모두 완료했습니다.",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "다음 {{number}}개 보기",
   "Triumphs.AlmostCompleteTriumphs": "거의 완료됨",
   "Triumphs.Classified.Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",

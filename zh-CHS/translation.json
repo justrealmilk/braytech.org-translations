@@ -756,6 +756,7 @@
   "Tooltip.Maps.Availability": "可用：每 {{period}}",
   "Tooltip.Maps.UntrackableChecklist": "无法追踪的清单项",
   "Triumphs.AllCompleted": "全部完成",
+  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "查看接下来 {{number}} 个",
   "Triumphs.AlmostCompleteTriumphs": "即将完成",
   "Triumphs.Classified.Description": "这个记录为绝密并可能在之后被解密。",
