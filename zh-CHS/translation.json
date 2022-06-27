@@ -754,7 +754,7 @@
   "Tooltip.Item.QuantityMax": "最大值",
   "Tooltip.Items.StatTotal": "总计",
   "Tooltip.Maps.Availability": "可用：每 {{period}}",
-  "Tooltip.Maps.UntrackableChecklist": "无法追踪的清单项",
+  "Tooltip.Maps.UntrackableChecklistItem": "无法追踪的清单项",
   "Triumphs.AllCompleted": "全部完成",
   "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "查看接下来 {{number}} 个",

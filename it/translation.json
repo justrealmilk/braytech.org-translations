@@ -760,7 +760,7 @@
   "Tooltip.Item.QuantityMax": "Max",
   "Tooltip.Items.StatTotal": "Totale",
   "Tooltip.Maps.Availability": "Disponibilità: ogni {{period}}",
-  "Tooltip.Maps.UntrackableChecklist": "Collezionabile non tracciabile",
+  "Tooltip.Maps.UntrackableChecklistItem": "Collezionabile non tracciabile",
   "Triumphs.AllCompleted": "Tutto completato",
   "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "Vedi i prossimi {{number}}",

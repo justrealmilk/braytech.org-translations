@@ -754,7 +754,7 @@
   "Tooltip.Item.QuantityMax": "최대",
   "Tooltip.Items.StatTotal": "총",
   "Tooltip.Maps.Availability": "🦘 Available: every {{period}}",
-  "Tooltip.Maps.UntrackableChecklist": "체크리스트 추적 해제",
+  "Tooltip.Maps.UntrackableChecklistItem": "체크리스트 추적 해제",
   "Triumphs.AllCompleted": "모두 완료했습니다.",
   "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
   "Triumphs.AlmostComplete.SeeNext": "다음 {{number}}개 보기",
