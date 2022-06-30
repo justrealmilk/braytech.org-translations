@@ -601,6 +601,7 @@
   "Search.Suggestions": "検索ではプレフィックスフィルターに対応してます。例えば `name:mida` と検索ワードの前に入力したら\"mida.\"から始まるワードだけを検索結果に表示させることができます。\n\n対応しているプレフィックスは以下の通りです\n- name\n- description\n- source\n\n他にも、マニフェストの `hash` で検索することもできます。\n\n結果は、名前、ソース、説明の順に優先されます。",
   "Settings.Category.Advanced.Name": "詳細設定",
   "Settings.Category.Common.Name": "共通設定",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "同期を無効にし、保存されているDIM Syncの認証トークンを削除します。",
   "Settings.DIMSync.Action.Enable.Description": "同期を有効にして、Bungie.net の認証トークンを DIM同期トークンと交換します。",
   "Settings.DIMSync.Info": "DIMのロードアウトと設定を同期します。",

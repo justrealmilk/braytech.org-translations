@@ -595,6 +595,7 @@
   "Search.Suggestions": "搜索支持使用前缀作为过滤器。试试`name:mida` 来搜索名字名字包含\"mida\"的物品。\n\n支持的前缀：\n- name\n- description\n- source\n\n你也可以通过物品的`hash`来搜索.\n\n结果将按照名称、来源和描述进行排序。",
   "Settings.Category.Advanced.Name": "高级",
   "Settings.Category.Common.Name": "普通",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "关闭同步并删除保存的DIM Sync认证Token",
   "Settings.DIMSync.Action.Enable.Description": "通过与DIM Sync交换你的Bungie.net认证Token来启用同步",
   "Settings.DIMSync.Info": "与DIM同步你对配装的设置",

@@ -595,6 +595,7 @@
   "Search.Suggestions": "🦘 Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value includes the term \"mida.\"\n\nSupported prefixes:\n- name\n- description\n- source\n- expiration\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
   "Settings.Category.Advanced.Name": "🦘 Advanced",
   "Settings.Category.Common.Name": "🦘 Common",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "🦘 Disable sync and delete stored DIM Sync authentication token.",
   "Settings.DIMSync.Action.Enable.Description": "🦘 Enable sync by exchanging your Bungie.net authentication token with DIM Sync.",
   "Settings.DIMSync.Info": "🦘 Sync your settings for loadouts with DIM.",

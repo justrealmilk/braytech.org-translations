@@ -595,6 +595,7 @@
   "Search.Suggestions": "搜索支持過濾器作為前綴.嘗試使用 `name:mida` 僅匹配名稱值包含術語 \"mida.\"\n\n支持的前綴：\n- name\n- description\n- source\n\n您也可以按清單搜索 `hash`。\n\n結果將按名稱、來源和描述進行優先排序",
   "Settings.Category.Advanced.Name": "高級",
   "Settings.Category.Common.Name": "普通",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "禁用同步並刪除存儲的 DIM 同步身份驗證令牌.",
   "Settings.DIMSync.Action.Enable.Description": "通過與 DIM Sync 交換您的 Bungie.net 身份驗證令牌來啟用同步.",
   "Settings.DIMSync.Info": "將您的設置與 DIM 同步以進行加載.",

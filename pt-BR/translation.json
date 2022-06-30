@@ -597,6 +597,7 @@
   "Search.Suggestions": "A ferramenta de busca permite filtros como prefixos. Tente `name:mida` para buscar apenas por resultados onde o nome contém \"mida.\"\n\nPrefixos existentes:\n- name\n- description\n- source\n\nVocê também pode buscar pelo `hash` do manifesto.\n\nResultados terão como prioridade o nome, fonte e descrição.",
   "Settings.Category.Advanced.Name": "Avançado",
   "Settings.Category.Common.Name": "Básico",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "Desative a sincronização e exclua o token de autenticação de sincronização DIM armazenado.",
   "Settings.DIMSync.Action.Enable.Description": "Habilite a sincronização trocando seu token de autenticação Bungie.net com DIM Sync.",
   "Settings.DIMSync.Info": "Sincronize suas configurações com DIM para ver seus sets.",

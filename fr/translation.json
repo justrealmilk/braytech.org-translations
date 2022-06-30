@@ -597,6 +597,7 @@
   "Search.Suggestions": "La recherche prend en charge les filtres comme préfixes. Essayez `nom: mida` pour ne faire correspondre que les entités dont la valeur de nom inclut le terme \"mida\" \n\nPréfixes pris en charge: \n- nom \n- description \n- source \n\nVous pouvez également rechercher par manifeste `hash`. \n\nLes résultats seront classés par ordre de priorité par nom, source et description.",
   "Settings.Category.Advanced.Name": "Avancé",
   "Settings.Category.Common.Name": "Général",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "Désactivez la synchronisation et supprimez le jeton d'authentification de 'DIM Sync' stocké.",
   "Settings.DIMSync.Action.Enable.Description": "Activez la synchronisation en échangeant votre jeton d'authentification Bungie.net avec 'DIM Sync'.",
   "Settings.DIMSync.Info": "Synchronisez vos paramètres avec DIM pour les chargements.",

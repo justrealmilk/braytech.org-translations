@@ -595,6 +595,7 @@
   "Search.Suggestions": "검색에서는 접두사 필터를 지원합니다. \"쏙독새\"라는 단어를 포함한 엔티티만 검색하려면 `name:쏙독새`를 입력합니다.\n\n지원하는 접두사:\n- name(이름)\n- description(설명)\n- source(출처)\n\nManifest의 `hash`로 검색할 수도 있습니다.\n\n검색 결과는 이름, 출처 및 설명에 따라 우선 순위가 지정됩니다.",
   "Settings.Category.Advanced.Name": "고급",
   "Settings.Category.Common.Name": "일반",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "동기화를 비활성화하고 저장된 DIM 인증 토큰을 삭제합니다.",
   "Settings.DIMSync.Action.Enable.Description": "Bungie.net 인증 토큰을 DIM과 교환해 동기화를 활성화합니다.",
   "Settings.DIMSync.Info": "로드아웃 기능을 위해 DIM과 설정을 동기화합니다.",

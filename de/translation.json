@@ -601,6 +601,7 @@
   "Search.Suggestions": "Die Suche unterstützt Filter als Präfixe. Versuche z.B. `name: mida`, um nur Sachen enzuzeigen, dessen Name den Begriff \"mida\" enthält.\n\nUnterstützte Präfixe: \n- name (Name)\n- description (Beschreibung)\n- source (Quelle)\n- expiration (Ablauf)\n\nDu kannst auch nach dem Manifest-`hash` suchen.\n\nErgebnisse werden nach Name, Quelle und Beschreibung priorisiert.",
   "Settings.Category.Advanced.Name": "Erweitert",
   "Settings.Category.Common.Name": "Gewöhnlich",
+  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
   "Settings.DIMSync.Action.Disable.Description": "Synchronisierung deaktivieren und das gespeicherte DIM-Sync-Authentifizierungstoken löschen.",
   "Settings.DIMSync.Action.Enable.Description": "Synchronisierung aktivieren und dein Bungie.net-Authentifizierungstoken mit DIM Sync austauschen.",
   "Settings.DIMSync.Info": "Synchronisiere deine Einstellungen mit DIM .",
