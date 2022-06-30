@@ -695,6 +695,7 @@
   "Settings.Sync.Action.DownloadSyncedSettings.Name": "同期しているデータをダウンロードする",
   "Settings.Sync.Action.Enable.Description": "定期的にデータとVoluspaと同期させる。",
   "Settings.Sync.Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
+  "Settings.Sync.RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
   "Settings.Sync.State.Merged": "最終マージ {{duration}} 前",
   "Settings.Sync.State.Synced": "最終同期 {{duration}} 前",
   "Settings.System.ReloadAppAutomatically.Description": "Braytechのアップデートの準備ができたら、強制的にアプリをリロードする.",

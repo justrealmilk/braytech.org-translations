@@ -689,6 +689,7 @@
   "Settings.Sync.Action.DownloadSyncedSettings.Name": "동기화된 설정 다운로드",
   "Settings.Sync.Action.Enable.Description": "Voluspa의 정기적인 동기화를 활성화합니다.",
   "Settings.Sync.Info": "아이템 보기, 지도, 추적한 업적 및 프로필 검색 기록에 대한 설정을 동기화합니다.",
+  "Settings.Sync.RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
   "Settings.Sync.State.Merged": "{{duration}} 전에 마지막 병합됨",
   "Settings.Sync.State.Synced": "{{duration}} 전에 마지막 동기화됨",
   "Settings.System.ReloadAppAutomatically.Description": "Braytech의 업데이트가 준비되면, 하던 일과 관계 없이 앱을 자동으로 재시작합니다.",

@@ -689,6 +689,7 @@
   "Settings.Sync.Action.DownloadSyncedSettings.Name": "下載同步配置文件",
   "Settings.Sync.Action.Enable.Description": "啓用同步，同時與Voluspa定期同步.",
   "Settings.Sync.Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
+  "Settings.Sync.RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
   "Settings.Sync.State.Merged": "上次合并于 {{duration}} 前",
   "Settings.Sync.State.Synced": "上次同步于 {{duration}} 前",
   "Settings.System.ReloadAppAutomatically.Description": "當 Braytech 的更新準備好時，無論您在做什麼，都會自動重新加載應用程序.",

@@ -691,6 +691,7 @@
   "Settings.Sync.Action.DownloadSyncedSettings.Name": "Baixar dados sincronizados",
   "Settings.Sync.Action.Enable.Description": "Habilitar sincronização e constante sincronização com Voluspa",
   "Settings.Sync.Info": "Sincronize suas configurações para a visibilidade de itens, mapas, triunfos seguidos e histórico de procura de perfis.",
+  "Settings.Sync.RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
   "Settings.Sync.State.Merged": "Última mesclagem {{duration}} atrás",
   "Settings.Sync.State.Synced": "Última sincronização {{duration}} atrás",
   "Settings.System.ReloadAppAutomatically.Description": "Quando uma atualização para Braytech estiver disponível, recarregue o aplicativo automaticamente, independentemente do que você esteja fazendo.",
