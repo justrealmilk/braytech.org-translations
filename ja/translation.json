@@ -667,6 +667,8 @@
   "Settings.Maps.VisualFidelity.Info": "視覚的な装飾の数を変える",
   "Settings.Profile.Info": "Braytechは、多くのプレイヤーのプロファイルを一度に見ることができますが、[プレイヤーを検索する](/profile-search)では最後に検索したプロフィールを記憶しています。",
   "Settings.Profile.NoProfileSelected": "プロファイルを選択",
+  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
   "Settings.ReloadRequired.Name": "リロードが必要です",
   "Settings.Reports.Info": " 一度ダウンロードしたレポートは、デバイスのストレージに保存され、アプリの起動準備ができたらすぐにアクセスできます。すべてのレポートは、最初に閲覧されたメンバーに関連付けられています。ここでは、メンバーごとにレポートを消去することができます。多くのレポートをダウンロードした場合、最初のロード時間を短縮するために、この機能を使用することができます。",

@@ -661,6 +661,8 @@
   "Settings.Maps.VisualFidelity.Info": "🦘 Alter the appearance of visual flourishes",
   "Settings.Profile.Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
   "Settings.Profile.NoProfileSelected": "🦘 Select a profile",
+  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "🦘 Once downloaded, reports are saved to device storage for rapid access after the fact. All reports are associated with the member through which they were originally viewed. You can clear them here, member by member. You may wish to do this in order to minimise initial load time, if you've downloaded many reports.",

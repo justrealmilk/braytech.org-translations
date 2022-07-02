@@ -667,6 +667,8 @@
   "Settings.Maps.VisualFidelity.Info": "Altera la cantidad de florituras visuales",
   "Settings.Profile.Info": "Braytech facilita la visualización de muchos perfiles de jugadores a la vez, pero recuerda el último perfil que seleccionaste desde [Búsqueda de perfil](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Selecciona un perfil",
+  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "Selecciona recargar la aplicación para activar los cambios inmediatamente.",
   "Settings.ReloadRequired.Name": "Se necesita recargar",
   "Settings.Reports.Info": "Una vez descargados, los informes se guardan en el dispositivo para poder acceder a ellos rápidamente. Todos los informes se asocian con el miembro que los visualizó originalmente. Puedes borrarlos aquí, miembro por miembro. Si has descargado muchos informes, es posible que quieras borrarlos para minimizar el tiempo de carga inicial.",

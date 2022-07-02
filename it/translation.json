@@ -667,6 +667,8 @@
   "Settings.Maps.VisualFidelity.Info": "Modifica la quantità di effetti visivi",
   "Settings.Profile.Info": "Braytech rende semplice visualizzare più profili contemporaneamente, ma ricorda l'ultimo profilo selezionato da [Ricerca profilo](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Seleziona un profilo",
+  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "Seleziona Ricarica per attivare immediatamente le modifiche.",
   "Settings.ReloadRequired.Name": "Ricaricamento necessario",
   "Settings.Reports.Info": "Una volta scaricati, i riepiloghi sono salvati nella memoria d'archiviazione del dispositivo. Tutti i riepiloghi sono associati tramite il profilo con il quale sono stati visualizzati. Qui puoi cancellarli, profilo per profilo. Potresti voler usare questa opzione per diminuire i tempi di caricamento iniziali quando hai scaricato molti riepiloghi.",

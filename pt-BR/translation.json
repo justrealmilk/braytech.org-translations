@@ -663,6 +663,8 @@
   "Settings.Maps.VisualFidelity.Info": "Altere o número de enfeites visuais",
   "Settings.Profile.Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Selecione um perfil",
+  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "Assim que baixado, os relatórios são salvos no dispositivos para um rápido acesso posterior. Todos os relatórios são associados ao membro por meio do qual foram originalmente vistos. Você pode limpar eles aqui, membro por membro. Você pode querer fazer isso para minimizar o tempo de carregamento inicial, se você baixou muitos relatórios.",
