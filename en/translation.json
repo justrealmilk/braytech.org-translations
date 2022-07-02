@@ -668,6 +668,7 @@
   "Settings.Profile.Info": "Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Select a profile",
   "Settings.PushNotifications.Incompatible": "Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.Info": "Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
   "Settings.PushNotifications.PermissionDenied": "Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "Reload Required",
