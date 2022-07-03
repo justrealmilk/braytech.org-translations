@@ -669,6 +669,7 @@
   "Settings.Profile.Info": "Braytechは、多くのプレイヤーのプロファイルを一度に見ることができますが、[プレイヤーを検索する](/profile-search)では最後に検索したプロフィールを記憶しています。",
   "Settings.Profile.NoProfileSelected": "プロファイルを選択",
   "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+  "Settings.PushNotifications.Incompatible-iOS": "🦘 iOS doesn't support push notifications for progressive web apps yet.",
   "Settings.PushNotifications.Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
   "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.ReloadRequired.Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
