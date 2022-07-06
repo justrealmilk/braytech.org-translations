@@ -679,6 +679,7 @@
   "Settings.PushNotifications.Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
+  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "下載後，報告將保存到設備存儲中，以便事後快速訪問.所有報告都與最初查看它們的成員相關聯.您可以在此處逐個清除它們.如果您下載了許多報告，您可能希望這樣做以最大程度地減少初始加載時間.",

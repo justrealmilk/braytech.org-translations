@@ -681,6 +681,7 @@
   "Settings.PushNotifications.Info": "As notificações push usam as APIs do navegador e do sistema operacional para enviar notificações mesmo quando você não estiver usando o aplicativo.\n\nSe quiser que o Braytech envie notificações, aqui você pode configurar os eventos e a frequencia para que elas sejam exibidas.",
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "Seu navegador diz que você negou a permissão de notificações. Você precisará habilitá-la ou redefini-la manualmente antes que possamos continuar.",
+  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "Assim que baixado, os relatórios são salvos no dispositivos para um rápido acesso posterior. Todos os relatórios são associados ao membro por meio do qual foram originalmente vistos. Você pode limpar eles aqui, membro por membro. Você pode querer fazer isso para minimizar o tempo de carregamento inicial, se você baixou muitos relatórios.",

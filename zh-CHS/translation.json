@@ -679,6 +679,7 @@
   "Settings.PushNotifications.Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
+  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "选择重载应用以使您的修改立即生效。",
   "Settings.ReloadRequired.Name": "需要重载",
   "Settings.Reports.Info": "报告一旦下载，就会被保存到你的设备存储器中，以便事后快速查阅。所有报告都与最初查看它们的成员相关联。你可以在这里按成员来清除报告。如果你已经下载了很多报告，你可能希望删除报告来加快读取速度，。",

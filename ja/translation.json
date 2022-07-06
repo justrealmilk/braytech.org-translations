@@ -685,6 +685,7 @@
   "Settings.PushNotifications.Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
+  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
   "Settings.ReloadRequired.Name": "リロードが必要です",
   "Settings.Reports.Info": " 一度ダウンロードしたレポートは、デバイスのストレージに保存され、アプリの起動準備ができたらすぐにアクセスできます。すべてのレポートは、最初に閲覧されたメンバーに関連付けられています。ここでは、メンバーごとにレポートを消去することができます。多くのレポートをダウンロードした場合、最初のロード時間を短縮するために、この機能を使用することができます。",

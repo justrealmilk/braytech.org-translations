@@ -685,6 +685,7 @@
   "Settings.PushNotifications.Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
+  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "Seleziona Ricarica per attivare immediatamente le modifiche.",
   "Settings.ReloadRequired.Name": "Ricaricamento necessario",
   "Settings.Reports.Info": "Una volta scaricati, i riepiloghi sono salvati nella memoria d'archiviazione del dispositivo. Tutti i riepiloghi sono associati tramite il profilo con il quale sono stati visualizzati. Qui puoi cancellarli, profilo per profilo. Potresti voler usare questa opzione per diminuire i tempi di caricamento iniziali quando hai scaricato molti riepiloghi.",
