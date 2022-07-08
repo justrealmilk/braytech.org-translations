@@ -683,7 +683,7 @@
   "Settings.PushNotifications.NoServiceWorker": "Веб служба пока не установлена. Попробуйте перезагрузить Braytech.",
   "Settings.PushNotifications.PermissionDenied": "Ваш браузер сообщает что вы запретили присылать вам уведомления. Вам нужно вручную включить или сбросить настройку уведомлений, прежде чем мы сможем продолжить.",
   "Settings.PushNotifications.PreviewNotifications.Description": "🦘 Dispatch enabled notifications immediately.",
-  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "🦘 Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
+  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "🦘 Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return to your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
   "Settings.PushNotifications.PreviewNotifications.Name": "🦘 Preview Notifications",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Веб служба устанавливается. Пожалуйста, подождите.",
   "Settings.ReloadRequired.Description": "Выберите перезагрузку приложения для активации измнений прямо сейчас.",

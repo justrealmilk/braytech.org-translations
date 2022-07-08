@@ -685,7 +685,7 @@
   "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
   "Settings.PushNotifications.PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
   "Settings.PushNotifications.PreviewNotifications.Description": "🦘 Dispatch enabled notifications immediately.",
-  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "🦘 Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
+  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "🦘 Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return to your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
   "Settings.PushNotifications.PreviewNotifications.Name": "🦘 Preview Notifications",
   "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
   "Settings.ReloadRequired.Description": "Sélectionnez 'Recharger l'application' pour activer vos changements immédiatement.",
