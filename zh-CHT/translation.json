@@ -526,6 +526,7 @@
   "ProfileSearch.TemporaryError": "Bungie發生了一個臨時錯誤",
   "Progression.PointsNextRank": "積分直到下一個等級",
   "Progression.PointsTotal": "總分",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "🦘 Rank {{number}}",
   "Progression.ResetVendor": "返回NPC以重置您的等級",
   "Progression.Streak": "條紋",

@@ -526,6 +526,7 @@
   "ProfileSearch.TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
   "Progression.PointsNextRank": "다음 등급까지 남은 점수",
   "Progression.PointsTotal": "총합 점수",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "{{number}}등급",
   "Progression.ResetVendor": "NPC에게 돌아가 등급을 초기화하세요.",
   "Progression.Streak": "연승 및 연패",

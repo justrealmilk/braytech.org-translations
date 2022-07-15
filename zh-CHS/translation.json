@@ -526,6 +526,7 @@
   "ProfileSearch.TemporaryError": "Bungie 发生了一个临时错误。",
   "Progression.PointsNextRank": "下一级所需分数",
   "Progression.PointsTotal": "总分",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "等级 {{number}}",
   "Progression.ResetVendor": "回去找商人重置你的等级",
   "Progression.Streak": "连胜",

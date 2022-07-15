@@ -526,6 +526,7 @@
   "ProfileSearch.TemporaryError": "🦘 A temporary Bungie error occurred.",
   "Progression.PointsNextRank": "🦘 Points until next rank",
   "Progression.PointsTotal": "🦘 Total points",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "🦘 Rank {{number}}",
   "Progression.ResetVendor": "🦘 Return to the vendor to reset your rank",
   "Progression.Streak": "🦘 Streak",

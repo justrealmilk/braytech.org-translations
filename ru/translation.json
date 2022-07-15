@@ -526,6 +526,7 @@
   "ProfileSearch.TemporaryError": "Произошла временная ошибка на стороне Bungie.",
   "Progression.PointsNextRank": "Очков до следующего ранга",
   "Progression.PointsTotal": "Всего очков",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "Ранг {{number}}",
   "Progression.ResetVendor": "Вернитесь к торговцу, чтобы обнулить ранг",
   "Progression.Streak": "Серия побед",

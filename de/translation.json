@@ -531,6 +531,7 @@
   "ProfileSearch.TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf.",
   "Progression.PointsNextRank": "Punkte bis zum nächsten Rang",
   "Progression.PointsTotal": "Gesamtpunkte",
+  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
   "Progression.RankNth": "Rank {{number}}",
   "Progression.ResetVendor": "Kehre zum Händler zurück, um deinen Rang zurückzusetzen",
   "Progression.Streak": "Strähne",
