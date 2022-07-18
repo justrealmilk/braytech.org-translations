@@ -508,6 +508,8 @@
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "Le commis des postes est presque à court d'espace. Si vous ne récupérez pas vos articles, vous les perdrez pour toujours !",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "Le commis des postes est complètement à court d'espace. Si vous ne récupérez pas vos objets, vous les perdrez pour toujours !",
   "Notifications.PostmasterCapacityWarning.Name": "ATTENTION !",
+  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
   "ProfileSearch.ActiveProfile": "Profil actif",
   "ProfileSearch.BungieNetProfile": "Profil Bungie.net",
   "ProfileSearch.ChangeProfile": "Changer de profil",

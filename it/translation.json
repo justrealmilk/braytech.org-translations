@@ -508,6 +508,8 @@
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "L'Amministratore è quasi pieno. Se non ritiri i tuoi oggetti li perderai per sempre!",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "L'Amministratore è pieno. Se non ritiri i tuoi oggetti li perderai per sempre!",
   "Notifications.PostmasterCapacityWarning.Name": "Attenzione!",
+  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
   "ProfileSearch.ActiveProfile": "Profilo attivo",
   "ProfileSearch.BungieNetProfile": "Profilo Bungie.net",
   "ProfileSearch.ChangeProfile": "Cambia profilo",

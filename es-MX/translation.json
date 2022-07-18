@@ -508,6 +508,8 @@
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "La administración se está quedando sin espacio. ¡Si no reúnes tus objetos, los perderás para siempre!",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "La administración está llena. ¡Si no reúnes tus objetos, los perderás para siempre!",
   "Notifications.PostmasterCapacityWarning.Name": "¡ADVERTENCIA!",
+  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
   "ProfileSearch.ActiveProfile": "Perfil activo",
   "ProfileSearch.BungieNetProfile": "Perfil de Bungie.net",
   "ProfileSearch.ChangeProfile": "Cambiar perfil",

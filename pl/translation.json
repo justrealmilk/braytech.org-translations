@@ -507,6 +507,8 @@
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "🦘 The Postmaster is almost out of space. If you do not retrieve your items, you will lose them forever!",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "🦘 The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
   "Notifications.PostmasterCapacityWarning.Name": "🦘 Warning!",
+  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
   "ProfileSearch.ActiveProfile": "🦘 Active Profile",
   "ProfileSearch.BungieNetProfile": "🦘 Bungie.net Profile",
   "ProfileSearch.ChangeProfile": "🦘 Change Profile",

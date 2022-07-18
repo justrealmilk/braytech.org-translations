@@ -508,6 +508,8 @@
   "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを取得しないと、アイテムは永久に失われます！",
   "Notifications.PostmasterCapacityWarning.DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
   "Notifications.PostmasterCapacityWarning.Name": "注意！",
+  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
   "ProfileSearch.ActiveProfile": "アクティブプロファイル",
   "ProfileSearch.BungieNetProfile": "Bungie.netに登録されているプロファイル",
   "ProfileSearch.ChangeProfile": "プロファイルを変更",
