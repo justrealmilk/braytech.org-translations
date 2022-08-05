@@ -895,7 +895,7 @@
   "Weeklies.Challenges.NoChallenges": "Scheint als hätte dein Hüter alle Herausforderungen für diese Woche gemeistert.",
   "Weeklies.Challenges.Power.Description": "Dein Powerlevel ist der Durchschnitt der Powerwerte aller deiner derzeit ausgerüsteten Gegenstände. Ein höheres Powerlevel verbessert sowohl deinen ausgeteilten Schaden als auch deine Verteidigung.",
   "Weeklies.Challenges.Power.Name": "Power",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "🦘 {{count}} Seasonal Challenges Available",
+  "Weeklies.Challenges.SeasonalChallenges.Available": "🦘 {{number}} Seasonal Challenges Available",
   "Weeklies.Challenges.SeasonalChallenges.Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
   "Weeklies.Challenges.SeasonalChallenges.Name": "🦘 Seasonal Challenges",
   "Weeklies.Challenges.Type.Bounties": "Beutezüge",
