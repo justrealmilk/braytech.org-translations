@@ -527,7 +527,7 @@
   "ProfileSearch.TemporaryError": "一時的にBungieでエラーが発生しています。",
   "Progression.PointsNextRank": "次ランクまでのポイント",
   "Progression.PointsTotal": "合計ポイント",
-  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
+  "Progression.PrestigeNth": "威光 {{number}}",
   "Progression.RankNth": "ランク {{number}}",
   "Progression.ResetVendor": "ランクをリセットするためベンダーまで戻ってください。",
   "Progression.Streak": "連続勝利",
