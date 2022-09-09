@@ -898,7 +898,7 @@
   "Weeklies.Challenges.NoChallenges": "どうやら今週のアクティビティすべてを回収したようです。",
   "Weeklies.Challenges.Power.Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
   "Weeklies.Challenges.Power.Name": "光のレベル",
-  "Weeklies.Challenges.SeasonalChallenges.Available": " {{number}} 個のシーズンの挑戦が可能です",
+  "Weeklies.Challenges.SeasonalChallenges.Available": "{{number}} 個のシーズンの挑戦が可能です",
   "Weeklies.Challenges.SeasonalChallenges.Description": "期間限定のシーズンランク、ブライストダスト、その他報酬がもらえる挑戦を完了しました。",
   "Weeklies.Challenges.SeasonalChallenges.Name": "シーズンの挑戦",
   "Weeklies.Challenges.Type.Bounties": "バウンティ",

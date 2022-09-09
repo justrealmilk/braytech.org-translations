@@ -891,7 +891,7 @@
   "Weeklies.Challenges.NoChallenges": "Parece que seu Guardião acabou com todos os desafios dessa semana.",
   "Weeklies.Challenges.Power.Description": "Seu nível de luz é um agregado do valor de energia em todos os seus equipamentos equipados atualmente. Um nível de luz mais alto melhora tanto seu danos quanto sua defesa.",
   "Weeklies.Challenges.Power.Name": "Luz",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "{{count}} Desafios Sazonais Disponíveis",
+  "Weeklies.Challenges.SeasonalChallenges.Available": "{{number}} Desafios Sazonais Disponíveis",
   "Weeklies.Challenges.SeasonalChallenges.Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
   "Weeklies.Challenges.SeasonalChallenges.Name": "Desafios Sazonais",
   "Weeklies.Challenges.Type.Bounties": "Contratos",
