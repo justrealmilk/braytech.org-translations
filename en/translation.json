@@ -303,6 +303,7 @@
   "Common.Screenshot": "Screenshot",
   "Common.Search": "Search",
   "Common.SeasonNth": "Season {{number}}",
+  "Common.SeasonYearNth": "Season {{season}}, Year {{year}}",
   "Common.SeasonRank": "Season Rank",
   "Common.Season_plural": "Seasons",
   "Common.Settings": "Settings",
