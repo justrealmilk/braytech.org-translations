@@ -628,6 +628,7 @@
   "Settings.PushNotifications.Condition.AnyReward": "Any Reward",
   "Settings.PushNotifications.Condition.AnySale": "Any Sale",
   "Settings.PushNotifications.Condition.Multiple": "Multiple",
+  "Settings.PushNotifications.Condition.Uncollected": "Uncollected",
   "Settings.PushNotifications.Conditions": "Conditions",
   "Settings.PushNotifications.Configure": "Configure Push Notifications",
   "Settings.PushNotifications.Event": "Event",
