@@ -74,6 +74,11 @@ const contributors = [
     membershipType: 3,
     membershipId: '4611686018482652651', // nwL
   },
+  {
+    language: 'ja',
+    membershipType: 3,
+    membershipId: '4611686018467423228', // RANDO:
+  },
 ];
 
 export default contributors;
