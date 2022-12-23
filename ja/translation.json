@@ -895,6 +895,7 @@
   "Views.Xûr.Description": "彼の意志は彼自身のものではない。彼の導かれた行動をその目で見届けろ",
   "Views.Xûr.Name": "シュール",
   "Voluspa.AdjustGraph.Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have discovered this collectible.",
+  "Voluspa.AdjustGraph.Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
   "Voluspa.AdjustGraph.Name": "🦘 Adjust Graph",
   "Voluspa.CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",
   "Voluspa.Commonality": "レア度",

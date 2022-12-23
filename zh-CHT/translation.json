@@ -883,6 +883,7 @@
   "Views.Xûr.Description": "身為珍奇古玩的小販，蘇爾的動機可並不只為自己.他效忠於遠方的主人們，九巨頭.",
   "Views.Xûr.Name": "蘇爾",
   "Voluspa.AdjustGraph.Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have discovered this collectible.",
+  "Voluspa.AdjustGraph.Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
   "Voluspa.AdjustGraph.Name": "🦘 Adjust Graph",
   "Voluspa.CollectedBy": " {{number}} 名玩家已收集",
   "Voluspa.Commonality": "共通",
