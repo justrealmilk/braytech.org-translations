@@ -173,7 +173,7 @@
   "Clan.HistoricalStats.ViewportWidth": "전적 통계는 더 큰 화면에서 사용할 수 있습니다. 화면 크기가 `1024px` 이상인 화면을 사용하십시오.",
   "Clan.Members": "{{number}}명",
   "Clan.MembersOnline": "{{number}}명 접속중",
-  "Clan.NoClan.Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 Bungie.net에서 직접 클랜을 만들 수 있습니다.",
+  "Clan.NoClan.Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 [Bungie.net](https://bungie.net/) 에서 직접 클랜을 만들 수 있습니다.",
   "Clan.NoClan.Name": "소속된 클랜 없음",
   "Clan.Relationships.BestFriends": "베프",
   "Clan.Relationships.ClanMembers": "클랜원",
