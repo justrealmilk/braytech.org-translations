@@ -88,6 +88,8 @@
   "Activity.Score.Team": "🦘 Team Score",
   "Activity.SelectMode": "Para detalhar uma atividade específica, selecione um modo na interface acima",
   "Activity.Standing.Defeat": "Derrota",
+  "Activity.Standing.DidNotFinish": "🦘 Player did not finish",
+  "Activity.Standing.Mercy": "🦘 Mercy",
   "Activity.Standing.Victory": "Vitória",
   "Activity.Team.Alpha": "Alfa",
   "Activity.Team.Bravo": "Bravo",

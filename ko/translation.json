@@ -88,6 +88,8 @@
   "Activity.Score.Team": "🦘 Team Score",
   "Activity.SelectMode": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
   "Activity.Standing.Defeat": "패배",
+  "Activity.Standing.DidNotFinish": "🦘 Player did not finish",
+  "Activity.Standing.Mercy": "🦘 Mercy",
   "Activity.Standing.Victory": "승리",
   "Activity.Team.Alpha": "알파",
   "Activity.Team.Bravo": "브라보",

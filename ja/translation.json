@@ -88,6 +88,8 @@
   "Activity.Score.Team": "チームスコア",
   "Activity.SelectMode": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
   "Activity.Standing.Defeat": "敗北",
+  "Activity.Standing.DidNotFinish": "🦘 Player did not finish",
+  "Activity.Standing.Mercy": "🦘 Mercy",
   "Activity.Standing.Victory": "勝利",
   "Activity.Team.Alpha": "アルファ",
   "Activity.Team.Bravo": "ブラボー",

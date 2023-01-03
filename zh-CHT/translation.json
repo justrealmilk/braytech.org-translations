@@ -88,6 +88,8 @@
   "Activity.Score.Team": "🦘 Team Score",
   "Activity.SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
   "Activity.Standing.Defeat": "擊敗",
+  "Activity.Standing.DidNotFinish": "🦘 Player did not finish",
+  "Activity.Standing.Mercy": "🦘 Mercy",
   "Activity.Standing.Victory": "勝利",
   "Activity.Team.Alpha": "第一小隊",
   "Activity.Team.Bravo": "第二小隊",
