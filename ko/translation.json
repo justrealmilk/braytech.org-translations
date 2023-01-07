@@ -595,6 +595,7 @@
   "Settings.Maps.VisualFidelity.Info": "시작적 효과의 수 변경",
   "Settings.Profile.Info": "Braytech는 많은 플레이어들의 프로필을 쉽게 볼 수 있게 합니다. 하지만 가장 최근 [Profile Search](/profile-search)에서 선택한 프로필을 기억합니다.",
   "Settings.Profile.NoProfileSelected": "프로필 선택",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "🦘 Any Activity",
   "Settings.PushNotifications.Condition.AnyMod": "🦘 Any Mod",
   "Settings.PushNotifications.Condition.AnyReward": "🦘 Any Reward",

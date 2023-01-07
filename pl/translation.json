@@ -595,6 +595,7 @@
   "Settings.Maps.VisualFidelity.Info": "🦘 Alter the appearance of visual flourishes",
   "Settings.Profile.Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
   "Settings.Profile.NoProfileSelected": "🦘 Select a profile",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "🦘 Any Activity",
   "Settings.PushNotifications.Condition.AnyMod": "🦘 Any Mod",
   "Settings.PushNotifications.Condition.AnyReward": "🦘 Any Reward",

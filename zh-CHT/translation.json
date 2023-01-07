@@ -595,6 +595,7 @@
   "Settings.Maps.VisualFidelity.Info": "改變視覺繁榮的數量",
   "Settings.Profile.Info": "Braytech可以輕鬆地一次性查看多個玩家資料，但他會默認從您中查詢的最後一個玩家資料開始[玩家資料查詢(/profile-search).",
   "Settings.Profile.NoProfileSelected": "選擇玩家資料",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "所有活動",
   "Settings.PushNotifications.Condition.AnyMod": "所有模組",
   "Settings.PushNotifications.Condition.AnyReward": "所有獎勵",

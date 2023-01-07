@@ -601,6 +601,7 @@
   "Settings.Maps.VisualFidelity.Info": "Ändern der Anzahl der optischen Verzierungen",
   "Settings.Profile.Info": "Braytech macht es einfach, viele Spielerprofile auf einmal anzusehen, aber es merkt sich das letzte Profil, das du über die [Profilsuche](/profile-search) ausgewählt hast.",
   "Settings.Profile.NoProfileSelected": "Wähle ein Profil",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "🦘 Any Activity",
   "Settings.PushNotifications.Condition.AnyMod": "🦘 Any Mod",
   "Settings.PushNotifications.Condition.AnyReward": "🦘 Any Reward",

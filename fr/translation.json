@@ -597,6 +597,7 @@
   "Settings.Maps.VisualFidelity.Info": "Modifier le nombre de fioritures visuelles",
   "Settings.Profile.Info": "Braytech permet de visualiser facilement plusieurs profils de joueurs à la fois, mais il se souvient du dernier profil que vous avez sélectionné depuis la [Recherche de Profil](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Sélectionnez un profil",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "Toutes les activités",
   "Settings.PushNotifications.Condition.AnyMod": "Tous les Mods",
   "Settings.PushNotifications.Condition.AnyReward": "Toutes les récompenses",

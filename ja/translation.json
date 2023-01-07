@@ -601,6 +601,7 @@
   "Settings.Maps.VisualFidelity.Info": "視覚的な装飾の数を変える",
   "Settings.Profile.Info": "Braytechは、多くのプレイヤーのプロファイルを一度に見ることができますが、[プレイヤーを検索する](/profile-search)では最後に検索したプロフィールを記憶しています。",
   "Settings.Profile.NoProfileSelected": "プロファイルを選択",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "すべてのアクティビティ",
   "Settings.PushNotifications.Condition.AnyMod": "すべてのMod",
   "Settings.PushNotifications.Condition.AnyReward": "すべての報酬",

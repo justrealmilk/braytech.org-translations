@@ -601,6 +601,7 @@
   "Settings.Maps.VisualFidelity.Info": "Modifica la quantità di effetti visivi",
   "Settings.Profile.Info": "Braytech rende semplice visualizzare più profili contemporaneamente, ma ricorda l'ultimo profilo selezionato da [Ricerca profilo](/profile-search).",
   "Settings.Profile.NoProfileSelected": "Seleziona un profilo",
+  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
   "Settings.PushNotifications.Condition.AnyActivity": "Qualsiasi attività",
   "Settings.PushNotifications.Condition.AnyMod": "Qualsiasi modifica",
   "Settings.PushNotifications.Condition.AnyReward": "Qualsiasi ricompensa",
