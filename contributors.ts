@@ -67,7 +67,7 @@ const contributors = [
   {
     language: 'ru',
     membershipType: 3,
-    membershipId: '4611686018493887406', // solelychloe
+    membershipId: '4611686018493887406', // solely
   },
   {
     language: 'de',
