@@ -67,12 +67,17 @@ const contributors = [
   {
     language: 'ru',
     membershipType: 3,
-    membershipId: '4611686018493887406', // solelychloe
+    membershipId: '4611686018493887406', // solely
   },
   {
     language: 'de',
     membershipType: 3,
     membershipId: '4611686018482652651', // nwL
+  },
+  {
+    language: 'ja',
+    membershipType: 3,
+    membershipId: '4611686018467423228', // RANDO:
   },
 ];
 
