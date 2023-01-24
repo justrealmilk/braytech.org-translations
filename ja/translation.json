@@ -658,6 +658,8 @@
   "Settings.Sync.RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
   "Settings.Sync.State.Merged": "最終マージ {{duration}} 前",
   "Settings.Sync.State.Synced": "最終同期 {{duration}} 前",
+  "Settings.System.PromptForMinorVersions.Description": "🦘 Notify me to update even for minor versions.",
+  "Settings.System.PromptForMinorVersions.Name": "🦘 Minor Version Updates",
   "Settings.System.ReloadAppAutomatically.Description": "Braytechのアップデートの準備ができたら、強制的にアプリをリロードする.",
   "Settings.System.ReloadAppAutomatically.Name": "アプリを自動的にリロードする",
   "Settings.Theme.Black.Name": "ブラック",

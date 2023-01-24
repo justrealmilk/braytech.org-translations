@@ -658,6 +658,8 @@
   "Settings.Sync.RequirementsNotMet": "Per poter attivare la sincronizzazione, prima devi autenticare Braytech con Bungie.net.",
   "Settings.Sync.State.Merged": "Aggiornato {{duration}} fa",
   "Settings.Sync.State.Synced": "Sincronizzato {{duration}} fa",
+  "Settings.System.PromptForMinorVersions.Description": "🦘 Notify me to update even for minor versions.",
+  "Settings.System.PromptForMinorVersions.Name": "🦘 Minor Version Updates",
   "Settings.System.ReloadAppAutomatically.Description": "Quando un aggiornamento per Braytech è pronto, ricarica l'app automaticamente indipendentemente da ciò che stai facendo.",
   "Settings.System.ReloadAppAutomatically.Name": "Ricarica l'app automaticamente",
   "Settings.Theme.Black.Name": "Nero",
