@@ -85,6 +85,7 @@
   "Activity.NoMedalsAwarded": "No Medals Awarded",
   "Activity.NoStatsAvailable": "No Stats Available",
   "Activity.RequestHistory.Description": "Analysing activity history",
+  "Activity.RequestHistoryPage.Description": "Retrieving activity history volume {{page}}",
   "Activity.Score.Team": "Team Score",
   "Activity.SelectMode": "To drill down to a specific activity, select a mode from the interface above",
   "Activity.Standing.Defeat": "Defeat",
