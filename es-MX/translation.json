@@ -67,7 +67,7 @@
   "Activity.Graphs.SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba.",
   "Activity.HydrateReportsCache.Description": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
   "Activity.Raids.Description": "La primera incursión de cada Guardián contra los enemigos más feroces de la humanidad es un recuerdo ligado a la emoción. Revisa estos recuerdos compartidos y reflexiona.",
-  "Activity.Raids.Name": "Leyendas",
+  "Activity.Raids.Name": "Raids",
   "Activity.Modes.Bar.PvPLoss": "Derrota",
   "Activity.Modes.Bar.PvPWin": "Victoria",
   "Activity.Modes.Last100.PvE": "Últimas 100 actividades",

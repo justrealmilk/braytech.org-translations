@@ -67,7 +67,7 @@
   "Activity.Graphs.SelectDate": "Select a date with activities played from the graph above.",
   "Activity.HydrateReportsCache.Description": "Restoring reports data from device storage",
   "Activity.Raids.Description": "Every Guardian's first raid against humanity's fiercest foes is a memory entwined and bound by raw emotion. Revisit these shared memories and reflect.",
-  "Activity.Raids.Name": "Legends",
+  "Activity.Raids.Name": "Raids",
   "Activity.Modes.Bar.PvPLoss": "Loss",
   "Activity.Modes.Bar.PvPWin": "Win",
   "Activity.Modes.Last100.PvE": "Last 100 Activities",

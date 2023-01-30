@@ -67,7 +67,7 @@
   "Activity.Graphs.SelectDate": "Выберите дату с активностями на графике выше.",
   "Activity.HydrateReportsCache.Description": "Данные активностей загружаются в память из локального хранилища.",
   "Activity.Raids.Description": "Для каждого Стража первый рейд против злейших врагов человечества - это память, переплетенная и связанная с чистыми эмоциями. Вернитесь к этим воспоминаниям и переживите их снова.",
-  "Activity.Raids.Name": "Легенды",
+  "Activity.Raids.Name": "Raids",
   "Activity.Modes.Bar.PvPLoss": "Поражение",
   "Activity.Modes.Bar.PvPWin": "Победа",
   "Activity.Modes.Last100.PvE": "Последние 100 активностей",
