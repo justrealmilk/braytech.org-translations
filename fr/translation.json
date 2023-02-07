@@ -93,7 +93,7 @@
   "Activity.Team.Alpha": "Alpha",
   "Activity.Team.Bravo": "Bravo",
   "App.BungieError": "Erreur Bungie",
-  "App.ErrorBoundary.Discord": "Braytech a rencontré une erreur fatale. Si l'une des actions disponibles ne résout pas votre problème, veuillez rejoindre le [Discord] (https://discord.bray.tech) pour obtenir de l'aide.",
+  "App.ErrorBoundary.Discord": "Braytech a rencontré une erreur fatale. Si l'une des actions disponibles ne résout pas votre problème, veuillez rejoindre le [Discord](https://discord.bray.tech) pour obtenir de l'aide.",
   "App.ErrorBoundary.Version": "Veuillez citer la chaîne suivante lorsque vous signalez cette erreur.",
   "App.FriendlyError.Description": "S'il vous plaît, ne le dites pas au commandant Zavala... Pour l'instant.",
   "App.FriendlyError.Name": "Excusez pour la poussière",
