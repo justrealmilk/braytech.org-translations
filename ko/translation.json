@@ -135,6 +135,7 @@
   "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "이 기능을 사용하기 위해서는 DIM 동기화가 필요합니다. 설정에서 DIM 동기화를 활성화해주세요.",
   "Character.DIMSync.Name": "DIM 동기화",
+  "Character.DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
   "Character.Equipment.Armor": "방어구",
   "Character.Equipment.Auxiliary": "🦘 Auxiliary",
   "Character.Equipment.Breakdown": "🦘 Breakdown",

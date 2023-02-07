@@ -135,6 +135,7 @@
   "Character.Compare.ObtainFromVendor": "{{name}}から入手する",
   "Character.DIMSync.Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
   "Character.DIMSync.Name": "DIMと同期する",
+  "Character.DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
   "Character.Equipment.Armor": "防具",
   "Character.Equipment.Auxiliary": "所持品",
   "Character.Equipment.Breakdown": "装備詳細",

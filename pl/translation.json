@@ -135,6 +135,7 @@
   "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
   "Character.DIMSync.Description": "🦘 This feature requires DIM Sync to function. Enable DIM Sync in _Settings_.",
   "Character.DIMSync.Name": "🦘 DIM Sync",
+  "Character.DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
   "Character.Equipment.Armor": "🦘 Armor",
   "Character.Equipment.Auxiliary": "🦘 Auxiliary",
   "Character.Equipment.Breakdown": "🦘 Breakdown",

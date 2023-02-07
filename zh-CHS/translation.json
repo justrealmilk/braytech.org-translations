@@ -135,6 +135,7 @@
   "Character.Compare.ObtainFromVendor": "从{{name}}获得",
   "Character.DIMSync.Description": "此功能需要 DIM Sync 才能运行。在设置中启用 DIM Sync",
   "Character.DIMSync.Name": "DIM Sync",
+  "Character.DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
   "Character.Equipment.Armor": "护甲",
   "Character.Equipment.Auxiliary": "杂项",
   "Character.Equipment.Breakdown": "总览",
