@@ -53,6 +53,7 @@ const contributors = [
     language: 'fr',
     membershipType: 3,
     membershipId: '4611686018471834151', // Saumon Sauvage
+    membershipId: '4611686018465457257', // K3nningar-107
   },
   {
     language: 'zh-CHS',
