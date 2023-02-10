@@ -53,7 +53,6 @@ const contributors = [
     language: 'fr',
     membershipType: 3,
     membershipId: '4611686018471834151', // Saumon Sauvage
-    membershipId: '4611686018465457257', // K3nningar-107
   },
   {
     language: 'zh-CHS',
@@ -79,6 +78,11 @@ const contributors = [
     language: 'ja',
     membershipType: 3,
     membershipId: '4611686018467423228', // RANDO:
+  },
+  {
+    language: 'fr',
+    membershipType: 2,
+    membershipId: '4611686018465457257', // K3nningar-107
   },
 ];
 
