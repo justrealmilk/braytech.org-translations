@@ -531,7 +531,6 @@
   "Search.Results.NoMatches": "🦘 Nothing matched your terms.",
   "Search.Results.Top10": "🦘 Showing the top 10 results. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "🦘 ### Press  to toggle search from anywhere",
-  "Search.Suggestions": "🦘 Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value includes the term \"mida.\"\n\nSupported prefixes:\n- name\n- description\n- source\n- expiration\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
   "Settings.Category.Advanced.Name": "🦘 Advanced",
   "Settings.Category.Common.Name": "🦘 Common",
   "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",

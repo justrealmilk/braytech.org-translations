@@ -531,7 +531,6 @@
   "Search.Results.NoMatches": "설정한 조건과 맞는 결과가 없습니다.",
   "Search.Results.Top10": "상위 10개의 결과를 표시합니다. 전체 검색 결과를 보려면  를 누르세요.",
   "Search.ShortcutKey": "### 어디서나  을 눌러 검색 기능을 사용하세요.",
-  "Search.Suggestions": "검색에서는 접두사 필터를 지원합니다. \"쏙독새\"라는 단어를 포함한 엔티티만 검색하려면 `name:쏙독새`를 입력합니다.\n\n지원하는 접두사:\n- name(이름)\n- description(설명)\n- source(출처)\n\nManifest의 `hash`로 검색할 수도 있습니다.\n\n검색 결과는 이름, 출처 및 설명에 따라 우선 순위가 지정됩니다.",
   "Settings.Category.Advanced.Name": "고급",
   "Settings.Category.Common.Name": "일반",
   "Settings.Category.PushNotifications.Name": "알림",

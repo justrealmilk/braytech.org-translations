@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "Rien ne correspond à votre recherche.",
   "Search.Results.Top10": "Affichage des 10 meilleurs résultats. Appuyer sur  à tout moment pour une expérience de recherche plus complète.",
   "Search.ShortcutKey": "### Pressez  pour activer la recherche depuis n'importe où",
-  "Search.Suggestions": "La recherche prend en charge les filtres comme préfixes. Essayez `nom: mida` pour ne faire correspondre que les entités dont la valeur de nom inclut le terme \"mida\" \n\nPréfixes pris en charge: \n- nom \n- description \n- source \n\nVous pouvez également rechercher par manifeste `hash`. \n\nLes résultats seront classés par ordre de priorité par nom, source et description.",
   "Settings.Category.Advanced.Name": "Avancé",
   "Settings.Category.Common.Name": "Général",
   "Settings.Category.PushNotifications.Name": "Notifications 'Push'",

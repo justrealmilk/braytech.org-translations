@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "Keine Übereinstimmungen gefunden.",
   "Search.Results.Top10": "Zeigt die ersten 10 Resultate. Drücke  um die komplette Suche zu öffnen.",
   "Search.ShortcutKey": "### Drücke , um die Suche von überall aus aufzurufen",
-  "Search.Suggestions": "Die Suche unterstützt Filter als Präfixe. Versuche z.B. `name: mida`, um nur Sachen enzuzeigen, dessen Name den Begriff \"mida\" enthält.\n\nUnterstützte Präfixe: \n- name (Name)\n- description (Beschreibung)\n- source (Quelle)\n- expiration (Ablauf)\n\nDu kannst auch nach dem Manifest-`hash` suchen.\n\nErgebnisse werden nach Name, Quelle und Beschreibung priorisiert.",
   "Settings.Category.Advanced.Name": "Erweitert",
   "Settings.Category.Common.Name": "Gewöhnlich",
   "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",

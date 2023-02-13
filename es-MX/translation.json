@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "Nada coincide con tus términos.",
   "Search.Results.Top10": "Mostrando los 10 primeros resultados. Pulsa  en cualquier momento para una experiencia de búsqueda completa.",
   "Search.ShortcutKey": "### Pulsa  para activar la búsqueda desde cualquier sitio.",
-  "Search.Suggestions": "La búsqueda permite utilizar filtros por medio de prefijos. Prueba `name:mida` para buscar solo objetos cuyo nombre contenga el término \"mida\".\n\nPrefijos compatibles:\n- name\n- description\n- source\n- expiration\n\nTambién puedes buscar por el número `hash` del manifiesto.\n\nLos resultados se priorizarán por nombre, fuente y descripción.",
   "Settings.Category.Advanced.Name": "Avanzado",
   "Settings.Category.Common.Name": "General",
   "Settings.Category.PushNotifications.Name": "Notificaciones push",

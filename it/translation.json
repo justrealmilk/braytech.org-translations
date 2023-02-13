@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "Nessun risultato corrispondente.",
   "Search.Results.Top10": "Stai vedendo i migliori 10 risultati. Premi  in qualsiasi momento per un'esperienza di ricerca completa.",
   "Search.ShortcutKey": "### Premi  per uscire dalla ricerca da ovunque",
-  "Search.Suggestions": "La ricerca supporta filtri sotto forma di prefissi. Prova `name:mida` per ottenere risultati contenenti il termine \"mida\" esclusivamente nel nome.\n\nPrefissi supportati:\n- name (nome)\n- description (descrizione)\n- source (fonte)\n- expiration (scadenza)\n\nPuoi anche cercare tramite il `hash` del manifest.\n\nI risultati avranno il seguente ordine di priorità: nome, fonte e poi descrizione.",
   "Settings.Category.Advanced.Name": "Avanzate",
   "Settings.Category.Common.Name": "Comuni",
   "Settings.Category.PushNotifications.Name": "Notifiche push",

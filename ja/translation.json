@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "検索しましたが見つかりませんでした",
   "Search.Results.Top10": "トップの検索結果10件を表示します。すべての検索結果を見たい場合は  キーを押して検索モードをご利用ください",
   "Search.ShortcutKey": "### いつでも  キーを押して検索できます",
-  "Search.Suggestions": "検索ではプレフィックスフィルターに対応してます。例えば `name:mida` と検索ワードの前に入力したら\"mida.\"から始まるワードだけを検索結果に表示させることができます。\n\n対応しているプレフィックスは以下の通りです\n- name\n- description\n- source\n\n他にも、マニフェストの `hash` で検索することもできます。\n\n結果は、名前、ソース、説明の順に優先されます。",
   "Settings.Category.Advanced.Name": "詳細設定",
   "Settings.Category.Common.Name": "共通設定",
   "Settings.Category.PushNotifications.Name": "プッシュ通知",

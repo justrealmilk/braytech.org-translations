@@ -533,7 +533,6 @@
   "Search.Results.NoMatches": "Nada foi encontrado a partir do que você escreveu.",
   "Search.Results.Top10": "Mostrando os 10 primeiros resultados. Pressione  a qualquer momento para uma experiência de busca completa.",
   "Search.ShortcutKey": "### Pressione  para ativar a Busca de qualquer lugar",
-  "Search.Suggestions": "A ferramenta de busca permite filtros como prefixos. Tente `name:mida` para buscar apenas por resultados onde o nome contém \"mida.\"\n\nPrefixos existentes:\n- name\n- description\n- source\n\nVocê também pode buscar pelo `hash` do manifesto.\n\nResultados terão como prioridade o nome, fonte e descrição.",
   "Settings.Category.Advanced.Name": "Avançado",
   "Settings.Category.Common.Name": "Básico",
   "Settings.Category.PushNotifications.Name": "Notificações",

@@ -531,7 +531,6 @@
   "Search.Results.NoMatches": "未找到結果",
   "Search.Results.Top10": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗",
   "Search.ShortcutKey": " 按  鍵可從任意位置呼出搜索功能",
-  "Search.Suggestions": "搜索支持過濾器作為前綴.嘗試使用 `name:mida` 僅匹配名稱值包含術語 \"mida.\"\n\n支持的前綴：\n- name\n- description\n- source\n\n您也可以按清單搜索 `hash`。\n\n結果將按名稱、來源和描述進行優先排序",
   "Settings.Category.Advanced.Name": "高級",
   "Settings.Category.Common.Name": "普通",
   "Settings.Category.PushNotifications.Name": "推送通知",
