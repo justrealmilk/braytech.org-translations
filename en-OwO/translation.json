@@ -534,7 +534,7 @@
   "Search.Results.MatchesAllHidden_plural": "Thewe awe {{count}} matches, but uu've chosen to hide them! OwO",
   "Search.Results.NoMatches": "Nothing matched uuw tewms.",
   "Search.Results.Top10": "Showing da top 10 matches. Pwess  at any time fow a fuww seawch expewience.",
-  "Search.ShortcutKey": "### Pwess  to toggwe seawch fwom anywhewe",
+  "Search.ShortcutKey": "Pwess  to toggwe seawch fwom anywhewe",
   "Search.Suggestions": "Seawch suppowts fiwtews as pwefixes. Twy `name:mida` to onwy match entities wheweby theiw name vawue incwudes da tewm \"mida.\"\n\nSuppowted pwefixes:\n- name\n- descwiption\n- souwce\n- expiwation\n\nUu may awso seawch by manifest `hazh`.\n\nWesuwts wiww be pwiowitised by name, souwce, and descwiption.",
   "Settings.Category.Advanced.Name": "Advanced",
   "Settings.Category.Common.Name": "Common",
