@@ -104,7 +104,7 @@
   "App.ServiceWorkerReload.Description": "Braytech의 새로운 업데이트를 사용할 수 있습니다. 앱의 더 나은 버전을 사용하려면 재시작하세요.\n\n새로운 기능에 대한 자세한 내용은 시작 페이지의 업데이트 항목를 확인해 주세요.",
   "App.ServiceWorkerReload.Name": "업데이트 사용 가능",
   "App.UnknownError": "알 수 없는 오류",
-  "App.UnsupportedBrowser.Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
   "App.UnsupportedBrowser.Name": "지원하지 않는 브라우저",
   "App.Version": "버전",
   "Archives.ChaliceOfOpulence.Description": "데스티니 가디언즈 풍요의 시즌 활동인 _전시장_ 에서 특정한 보상을 얻기 위한 룬 조합을 빠르게 검색할 수 있는 도구입니다.\n\n_전시장_ 은 칼루스의 리바이어던 하층 갑판에 위치한 거대한 박물관이자 감옥입니다. 그곳엔 칼루스가 군체, 벡스, 아크인을 포함해서 그가 여행 중에 수집한 수많은 종족의 은신처 역할을 했고, 그들이 황제의 기쁨과 영광, 그리고 유흥을 위해 초대받은 수호자들과 전투를 벌이는 공간입니다.",

@@ -104,7 +104,7 @@
   "App.ServiceWorkerReload.Description": "Braytech 有更新可用，请点击重载以体验新版本，详见更新日志。",
   "App.ServiceWorkerReload.Name": "有可用更新",
   "App.UnknownError": "未知错误",
-  "App.UnsupportedBrowser.Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@className=warning@",
   "App.UnsupportedBrowser.Name": "浏览器不被支持",
   "App.Version": "版本",
   "Archives.ChaliceOfOpulence.Description": "让玩家快速确认 _奇珍异兽园_ 奖励对应符文组合的工具。",

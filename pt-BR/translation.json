@@ -104,7 +104,7 @@
   "App.ServiceWorkerReload.Description": "Uma nova atualização para Braytech está disponível. Por favor, selecione recarregar para usar ume melhor versão deste app.\n\nVeja a Lista de Mudanças na página inicial para mais detalhes no que há de novo.",
   "App.ServiceWorkerReload.Name": "Atualização Diponível",
   "App.UnknownError": "Erro desconhecido",
-  "App.UnsupportedBrowser.Description": "Braytech requer funções de um navegador mais atual para operar. Os requisitos mínimos do navegador são definidos para permitir que navegadores com mais de um ano executem o Braytech. Por isso, se você encontrar esta mensagem, é hora de se mudar para algo novo.\n\nUm navegador baseado em Chromium como o Microsoft Edge é recomendado.@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Description": "Braytech requer funções de um navegador mais atual para operar. Os requisitos mínimos do navegador são definidos para permitir que navegadores com mais de um ano executem o Braytech. Por isso, se você encontrar esta mensagem, é hora de se mudar para algo novo.\n\nUm navegador baseado em Chromium como o Microsoft Edge é recomendado.@className=warning@",
   "App.UnsupportedBrowser.Name": "Navegador não Suportado",
   "App.Version": "Versão",
   "Archives.ChaliceOfOpulence.Description": "Uma ferramenta que permite aos usuários uma rápida descoberta das combinações necessárias para recompensas específicas do _Cativeiro_.",

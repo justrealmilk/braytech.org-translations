@@ -104,7 +104,7 @@
   "App.ServiceWorkerReload.Description": "Braytechの新しいアップデートを利用できます。リロードを選択して、最新版のアプリをご利用ください。\n\n新機能の詳細は、インデックスビューの変更履歴をご確認ください。",
   "App.ServiceWorkerReload.Name": "アップデートが利用可能です",
   "App.UnknownError": "不明のエラー",
-  "App.UnsupportedBrowser.Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@CLASSNAME=warning@",
+  "App.UnsupportedBrowser.Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
   "App.UnsupportedBrowser.Name": "非対応のブラウザー",
   "App.Version": "バージョン",
   "Archives.ChaliceOfOpulence.Description": "絢爛のシーズンのアクティビティである 「野獣の咆哮」から、特定の報酬を得るために必要なルーンの組み合わせを素早く発見することができるツールです。\n\n「野獣の咆哮」とは、カルスのリヴァイアサン下部デッキにある、広大な牢獄のようなコレクション置き場のことです。カルスが追放された旅の中でハイブ、ベックス、アークボーンなどさまざまな種族をこのコレクション置き場に収容し、ガーディアンと戦わせることで、彼らには勝利と栄光を、そしてカルス自身の娯楽のための施設となっています。",
