@@ -533,7 +533,7 @@
   "Search.Results.NoMatches": "Nothing matched your terms.",
   "Search.Results.Top10": "Showing the top 10 matches. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "### Press  to toggle search from anywhere",
-  "Search.Suggestions": "Search supports filters as prefixes. Try `name:mida` to only match entities whereby their name value includes the term \"mida.\"\n\nPrefix examples:\n- `name:mida`\n- `description:clovis bray`\n- `type:scout rifle`\n- `source:leveling`\n- `expiration:`\n\nYou may also search by manifest `hash`.\n\nResults will be prioritised by name, source, and description.",
+  "Search.Suggestions": "Search supports filters as prefixes. Prefix examples:\n- `name:mida`\n- `description:clovis bray`\n- `type:scout rifle`\n- `source:leveling`\n- `expiration:seraph`\n\nYou may also search by manifest identifier. For example, the best weapon in the game `564802913`.\n\nResults will be prioritised by name, source, and description.",
   "Settings.Category.Advanced.Name": "Advanced",
   "Settings.Category.Common.Name": "Common",
   "Settings.Category.PushNotifications.Name": "Push Notifications",
