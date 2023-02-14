@@ -147,7 +147,7 @@ You may be asked a question if you want to push branch first you can do that (th
 
 25. On the web page you'll be shown from which branch to which you are going to transfer data, the list of commits affected and lines changed.
 You need to click button **Create pull request** and then you can text short title and description.
-There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.braytech.org](https://discord.braytech.org)
+There have to be line *These branches can be automatically merged.* If not consult Tom or translation team in [discord.bray.tech](https://discord.bray.tech)
 Press button **Create pull request** once more after that.
 
 26. Now all there's left for you to do is to wait until Tom checks it and confirms the merge.
