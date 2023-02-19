@@ -539,7 +539,7 @@
   "Search.Results.NoMatches": "Nothing matched your terms.",
   "Search.Results.Top10": "Showing the top 10 matches. Press  at any time for a full search experience.",
   "Search.ShortcutKey": "Press  to toggle search from anywhere",
-  "Search.Suggestions": "Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nResults are prioritised by name, source, and description.",
+  "Search.Suggestions": "Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nTrying to find a Braytech feature? Search for what it may be named.\n\nResults are prioritised by name, source, and description.",
   "Search.VanguardArchives": "Welcome to the Vanguard archives.",
   "Settings.Category.Advanced.Name": "Advanced",
   "Settings.Category.Common.Name": "Common",
