@@ -639,6 +639,8 @@
   "Settings.Reports.NoReports": "このデバイスにレポートデータがありません。",
   "Settings.Reports.ReportsCount": "カウント",
   "Settings.Reports.ReportsMember": "メンバー",
+  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
+  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
   "Settings.Search.ItemVisibilityOverride.Description": "この設定は勝利の道のりとコレクションで設定した非表示設定を無効にして、検索結果に表示させる機能です。",
   "Settings.Search.ItemVisibilityOverride.Name": "入手済または達成済を表示",
   "Settings.SubCategory.Authentication": "認証",

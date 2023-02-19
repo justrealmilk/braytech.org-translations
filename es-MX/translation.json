@@ -639,6 +639,8 @@
   "Settings.Reports.NoReports": "No hay informes almacenados en este dispositivo.",
   "Settings.Reports.ReportsCount": "Cantidad",
   "Settings.Reports.ReportsMember": "Miembro",
+  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
+  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
   "Settings.Search.ItemVisibilityOverride.Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
   "Settings.Search.ItemVisibilityOverride.Name": "🦘 Show Completed and Acquired",
   "Settings.SubCategory.Authentication": "Autenticación",

@@ -637,6 +637,8 @@
   "Settings.Reports.NoReports": "이 기기에 저장된 보고서가 없습니다.",
   "Settings.Reports.ReportsCount": "개수",
   "Settings.Reports.ReportsMember": "회원",
+  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
+  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
   "Settings.Search.ItemVisibilityOverride.Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
   "Settings.Search.ItemVisibilityOverride.Name": "🦘 Show Completed and Acquired",
   "Settings.SubCategory.Authentication": "인증",

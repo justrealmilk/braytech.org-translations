@@ -637,6 +637,8 @@
   "Settings.Reports.NoReports": "此設備上未存儲任何報告.",
   "Settings.Reports.ReportsCount": "計數",
   "Settings.Reports.ReportsMember": "成員",
+  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
+  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
   "Settings.Search.ItemVisibilityOverride.Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
   "Settings.Search.ItemVisibilityOverride.Name": "🦘 Show Completed and Acquired",
   "Settings.SubCategory.Authentication": "身份驗證",

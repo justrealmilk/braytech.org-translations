@@ -639,6 +639,8 @@
   "Settings.Reports.NoReports": "Aucun rapport n'est stocké sur cet appareil.",
   "Settings.Reports.ReportsCount": "Nombre",
   "Settings.Reports.ReportsMember": "Membre",
+  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
+  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
   "Settings.Search.ItemVisibilityOverride.Description": "Utilisez ce paramètre pour remplacer les paramètres globaux de visibilité pour les enregistrements et les objets de collection.",
   "Settings.Search.ItemVisibilityOverride.Name": "Afficher terminés et acquis",
   "Settings.SubCategory.Authentication": "Authentification",
