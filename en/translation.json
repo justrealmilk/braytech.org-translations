@@ -90,6 +90,8 @@
   "Activity.State.RequestHistoryPage": "Analysing activity history... Retrieving page {{page}}",
   "Activity.Team.Alpha": "Alpha",
   "Activity.Team.Bravo": "Bravo",
+  "Views.Legend.Name": "Legend",
+  "Views.Legend.Description": "Life and death are liar's tools. Weave your own lie.",
   "App.BungieError": "Bungie Error",
   "App.ErrorBoundary.Discord": "Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
   "App.ErrorBoundary.Version": "Please quote the following string when reporting this error.",
