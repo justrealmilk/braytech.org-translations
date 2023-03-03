@@ -392,7 +392,7 @@
   "Item.PerkRecommended": "Рекомендуем эту особенность",
   "Item.Perks": "Перки",
   "Item.PowerLimit": "Максимальный уровень силы",
-  "Item.RedeemWithCode": "Используйте код `{{code}}` на сайте [https://www.bungie.net/redeem](https://www.bungie.net/redeem) чтобы разблокировать эту эмблему.",
+  "Item.RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
   "Item.ShapedDate": "Сформировано {{date}}",
   "Item.StatTotal": "Всего",
   "Item.State": "Состояние",

@@ -332,7 +332,7 @@
   "Item.PerkPvP": "🦘 This perk is encouraged for Crucible engagements",
   "Item.PerkRecommended": "🦘 This perk is recommended",
   "Item.Perks": "🦘 Perks",
-  "Item.RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem) to unlock this emblem.",
+  "Item.RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
   "Item.ShapedDate": "🦘 T.D. {{date}}",
   "Item.State": "🦘 State",
   "Item.Stats": "🦘 Stats",
