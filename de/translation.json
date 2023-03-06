@@ -365,6 +365,7 @@
   "GettingStarted.Tips.Settings.Description": "Braytech ist vollgepackt mit Einstellungen, von dunklen Modi über Sichtbarkeitsoptionen für Elemente bis hin zur Synchronisierung der Einstellungen.\n\nFinde _Einstellungen_ in der oberen rechten Ecke.",
   "GettingStarted.Tips.Settings.Name": "Einstellungen",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "🦘 Ammo",
   "Item.AmmoType": "Munitionsart",
   "Item.ArmorStats": "Rüstungswerte",

@@ -310,6 +310,7 @@
   "GettingStarted.Tips.Settings.Description": "🦘 Braytech is jam-packed full of settings from dark themes to item visibility options to settings sync.\n\nFind \"Settings\" in the top corner.",
   "GettingStarted.Tips.Settings.Name": "🦘 Settings",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "🦘 Ammo",
   "Item.Breaker": "🦘 Breaker",
   "Item.ClassEquipped": "🦘 {{name}} (Equipped)",

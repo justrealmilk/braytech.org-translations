@@ -365,6 +365,7 @@
   "GettingStarted.Tips.Settings.Description": " Braytech regorge de paramètres, de thèmes sombres aux options de visibilité des éléments en passant par la synchronisation des paramètres.\n\nRecherchez _Paramètres_ dans le coin supérieur.",
   "GettingStarted.Tips.Settings.Name": "Paramètres",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "Munition",
   "Item.AmmoType": "Type de munition",
   "Item.ArmorStats": "Statistiques d'armure",

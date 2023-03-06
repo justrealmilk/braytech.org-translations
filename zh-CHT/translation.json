@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Settings.Description": "Braytech 充滿了各種設置，從深色主題到項目可見性選項再到設置同步。\n\n在頂上找到 _Settings_",
   "GettingStarted.Tips.Settings.Name": "設定",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "彈藥",
   "Item.AmmoType": "彈藥類型",
   "Item.ArmorStats": "護甲屬性",

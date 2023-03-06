@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Settings.Description": "Braytech полон настроек: от тёмных тем до опций видимости элементов и синхронизации настроек.\n\nНайдите _Настройки_ в верхнем углу.",
   "GettingStarted.Tips.Settings.Name": "Настройки",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "Патроны",
   "Item.AmmoType": "Тип патронов",
   "Item.ArmorStats": "Характеристики брони",

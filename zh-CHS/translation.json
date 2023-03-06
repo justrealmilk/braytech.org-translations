@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Settings.Description": "Braytech 支持各种设置，从黑暗主题到项目可见性选项，再到设置同步。\n\n在上方角落找到 _设置_ 。",
   "GettingStarted.Tips.Settings.Name": "设置",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "弹药",
   "Item.AmmoType": "弹药类型",
   "Item.ArmorStats": "护甲属性",

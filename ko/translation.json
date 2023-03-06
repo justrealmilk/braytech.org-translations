@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Settings.Description": "Braytech는 다크 테마부터 아이템 가시성 설정, 설정 동기화까지 다양한 설정들로 가득차 있습니다.\n\n상단 모서리에서 _설정_ 을 찾아보세요.",
   "GettingStarted.Tips.Settings.Name": "설정",
   "GuardianRank.Current": "🦘 Current Rank: {{value}}",
+  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
   "Item.Ammo": "탄약",
   "Item.AmmoType": "사용 탄약",
   "Item.ArmorStats": "방어구 스텟",
