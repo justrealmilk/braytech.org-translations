@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Search.Name": "Busca",
   "GettingStarted.Tips.Settings.Description": "Braytech está repleto de configurações, desde temas escuros a opções de visibilidade de itens e a configurações de sincronização.\n\nAs _Configurações_ estão no canto superior.",
   "GettingStarted.Tips.Settings.Name": "Configurações",
+  "GuardianRank.Current": "🦘 Current Rank: {{value}}",
   "Item.Ammo": "Munição",
   "Item.AmmoType": "Tipo de Munição",
   "Item.ArmorStats": "Estatísticas da Armadura",

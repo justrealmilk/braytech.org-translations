@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Search.Name": "検索",
   "GettingStarted.Tips.Settings.Description": "Braytechには、ダークテーマからアイテムの可視化オプション、設定の同期までさまざまな設定が詰まっています。\n\n 画面上端にある _設定_ で確認しましょう",
   "GettingStarted.Tips.Settings.Name": "設定",
+  "GuardianRank.Current": "🦘 Current Rank: {{value}}",
   "Item.Ammo": "弾薬",
   "Item.AmmoType": "弾薬タイプ",
   "Item.ArmorStats": "アーマーステータス",

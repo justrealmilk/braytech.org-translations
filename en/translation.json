@@ -364,6 +364,7 @@
   "GettingStarted.Tips.Search.Name": "Search",
   "GettingStarted.Tips.Settings.Description": "Braytech is jam-packed full of settings from dark themes to item visibility options to settings sync.\n\nFind \"Settings\" in the top corner.",
   "GettingStarted.Tips.Settings.Name": "Settings",
+  "GuardianRank.Current": "Current Rank: {{value}}",
   "Item.Ammo": "Ammo",
   "Item.AmmoType": "Ammo Type",
   "Item.ArmorStats": "Armor Stats",
