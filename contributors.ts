@@ -89,6 +89,11 @@ const contributors = [
     membershipType: 2,
     membershipId: '4611686018465457257', // K3nningar-107
   },
+  {
+    language: 'zh-CHT',
+    membershipType: 3,
+    membershipId: '4611686018489393408', // Silver XIV
+  },
 ];
 
 export default contributors;
