@@ -1,5 +1,10 @@
 const contributors = [
   {
+    language: 'en-OwO',
+    membershipType: 3,
+    membershipId: '4611686018485161794', // ✨ richdestiny.app ✨ aka your bff lieuwe_berg
+  },
+  {
     language: 'ru',
     membershipType: 3,
     membershipId: '4611686018484533589', // Horodep
