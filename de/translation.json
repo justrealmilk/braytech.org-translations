@@ -564,8 +564,6 @@
   "Settings.DIMSync.Info": "Synchronisiere deine Einstellungen mit DIM .",
   "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
   "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
-  "Settings.Developer.Lists.Description": "Entwicklerlisten aktivieren, indem Links überschrieben werden.",
-  "Settings.Developer.Lists.Name": "Listen aktivieren",
   "Settings.Developer.Maps.Debug.Description": "Karten-Debugging aktivieren",
   "Settings.Developer.Maps.Debug.Name": "Karten-Debugmodus",
   "Settings.Developer.Maps.LogDetails.Description": "Console.log()-Ausgabe für Maus-aktivierte Knoten",

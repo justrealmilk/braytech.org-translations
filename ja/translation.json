@@ -564,8 +564,6 @@
   "Settings.DIMSync.Info": "DIMのロードアウトと設定を同期します。",
   "Settings.Developer.ExperimentalFeatures.Description": "まだ開発途中や、改良、品質チェックされていない可能性のある機能の使用する。",
   "Settings.Developer.ExperimentalFeatures.Name": "実験的な機能を有効にする",
-  "Settings.Developer.Lists.Description": "リンクを上書きして開発者リストを有効にする。",
-  "Settings.Developer.Lists.Name": "リストを有効にする",
   "Settings.Developer.Maps.Debug.Description": "マップデバッグ設定を有効にします。",
   "Settings.Developer.Maps.Debug.Name": "マップデバッグモード",
   "Settings.Developer.Maps.LogDetails.Description": "マウスオーバーされているノードの詳細をConsole.logに表示します。",

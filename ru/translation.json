@@ -562,8 +562,6 @@
   "Settings.DIMSync.Info": "Синхронизировать настройки и наборы с DIM.",
   "Settings.Developer.ExperimentalFeatures.Description": "Начать использовать функции, которые ещё не до конца разработаны, отполированы и проверены.",
   "Settings.Developer.ExperimentalFeatures.Name": "Включить Экспериментальные Функции",
-  "Settings.Developer.Lists.Description": "Включить списки разработчиков переопределяя ссылки.",
-  "Settings.Developer.Lists.Name": "Включить списки",
   "Settings.Developer.Maps.Debug.Description": "Включает отладку карт",
   "Settings.Developer.Maps.Debug.Name": "Режим отладки карт",
   "Settings.Developer.Maps.LogDetails.Description": "Отправлять подробности в Console.log при нажатии мышью на узел.",

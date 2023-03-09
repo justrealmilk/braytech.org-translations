@@ -562,8 +562,6 @@
   "Settings.DIMSync.Info": "將您的設置與 DIM 同步以進行加載.",
   "Settings.Developer.ExperimentalFeatures.Description": "開始使用可能仍未開發完畢，改善或檢查質量的特性",
   "Settings.Developer.ExperimentalFeatures.Name": "啓用實驗特性",
-  "Settings.Developer.Lists.Description": "通過覆蓋鏈接啟用開發人員列表.",
-  "Settings.Developer.Lists.Name": "啟用列表",
   "Settings.Developer.Maps.Debug.Description": "啟用地圖調試設定",
   "Settings.Developer.Maps.Debug.Name": "地圖調試模式",
   "Settings.Developer.Maps.LogDetails.Description": "通過連接重寫啟用開發人員名單",

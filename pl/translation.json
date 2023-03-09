@@ -496,8 +496,6 @@
   "Settings.DIMSync.Info": "🦘 Sync your settings for loadouts and item tags with DIM.",
   "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
   "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
-  "Settings.Developer.Lists.Description": "🦘 Enable developer lists by overriding links.",
-  "Settings.Developer.Lists.Name": "🦘 Enable Lists",
   "Settings.Developer.Maps.Debug.Description": "🦘 Enable Maps debugging settings.",
   "Settings.Developer.Maps.Debug.Name": "🦘 Maps Debug Mode",
   "Settings.Developer.Maps.LogDetails.Description": "🦘 Console.log details for the mouse-invoked node.",

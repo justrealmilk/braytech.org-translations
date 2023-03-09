@@ -562,8 +562,6 @@
   "Settings.DIMSync.Info": "与 DIM 同步你对配装的设置",
   "Settings.Developer.ExperimentalFeatures.Description": "开始使用可能仍未开发完毕、改善或检查质量的特性。",
   "Settings.Developer.ExperimentalFeatures.Name": "启用实验性特性",
-  "Settings.Developer.Lists.Description": "通过覆写连接来启用开发者列表",
-  "Settings.Developer.Lists.Name": "启用列表",
   "Settings.Developer.Maps.Debug.Description": "启用地图调试设置",
   "Settings.Developer.Maps.Debug.Name": "地图调试模式",
   "Settings.Developer.Maps.LogDetails.Description": "Console.log 记录鼠标唤起节点的细节日志",
