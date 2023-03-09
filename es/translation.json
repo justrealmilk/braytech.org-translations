@@ -564,8 +564,6 @@
   "Settings.DIMSync.Info": "Sincroniza tus ajustes con DIM para las equipaciones.",
   "Settings.Developer.ExperimentalFeatures.Description": "Empezar a utilizar funciones que aún no han sido debidamente desarrolladas, refinadas o sometidas a un control de calidad.",
   "Settings.Developer.ExperimentalFeatures.Name": "Habilitar las funciones experimentales",
-  "Settings.Developer.Lists.Description": "Habilita las listas de desarrolladores mediante la anulación de enlaces.",
-  "Settings.Developer.Lists.Name": "Habilitar listas",
   "Settings.Developer.Maps.Debug.Description": "Habilita la configuración de depuración de Mapas.",
   "Settings.Developer.Maps.Debug.Name": "Modo depuración de Mapas",
   "Settings.Developer.Maps.LogDetails.Description": "Detalles de Console.log para el nodo llamado por el ratón.",

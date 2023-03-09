@@ -564,8 +564,6 @@
   "Settings.DIMSync.Info": "Sincronize suas configurações com DIM para ver seus sets.",
   "Settings.Developer.ExperimentalFeatures.Description": "Comece a usar recursos que ainda não foram desenvolvidos, refinados ou verificados adequadamente.",
   "Settings.Developer.ExperimentalFeatures.Name": "Ativar recursos experimentais",
-  "Settings.Developer.Lists.Description": "Habilitar listas de desenvolvedor ao sobrepor links",
-  "Settings.Developer.Lists.Name": "Habilitar listas",
   "Settings.Developer.Maps.Debug.Description": "Habilitar configurações de depuração (debugging) para os mapas",
   "Settings.Developer.Maps.Debug.Name": "Modo debug para mapas",
   "Settings.Developer.Maps.LogDetails.Description": "Detalhes do console.log() para desenvolvedores.",

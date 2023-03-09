@@ -564,8 +564,6 @@
   "Settings.DIMSync.Info": "Synchronisez vos paramètres avec DIM pour les chargements.",
   "Settings.Developer.ExperimentalFeatures.Description": "Vous commencez à utiliser des fonctionnalités qui ne sont peut-être pas encore correctement développées, affinées ou contrôlées sur la qualité.",
   "Settings.Developer.ExperimentalFeatures.Name": "Activer les fonctions expérimentales",
-  "Settings.Developer.Lists.Description": "Activez les listes de développeurs en remplaçant les liens.",
-  "Settings.Developer.Lists.Name": "Activer les listes",
   "Settings.Developer.Maps.Debug.Description": "Activer les paramètres de débogage des cartes",
   "Settings.Developer.Maps.Debug.Name": "Mode de débogage des cartes",
   "Settings.Developer.Maps.LogDetails.Description": "Détails de Console.log pour le nœud invoqué par la souris.",

@@ -562,8 +562,6 @@
   "Settings.DIMSync.Info": "로드아웃 기능을 위해 DIM과 설정을 동기화합니다.",
   "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
   "Settings.Developer.ExperimentalFeatures.Name": "실험중인 기능 활성화",
-  "Settings.Developer.Lists.Description": "링크를 재정의하여 개발자 목록을 사용합니다.",
-  "Settings.Developer.Lists.Name": "목록 활성화",
   "Settings.Developer.Maps.Debug.Description": "지도 디버깅 설정 활성화",
   "Settings.Developer.Maps.Debug.Name": "지도 디버그 모드",
   "Settings.Developer.Maps.LogDetails.Description": "마우스 실행된 노드에 대한 Console.log 정보",

@@ -565,8 +565,6 @@
   "Settings.DIMSync.Info": "Sincronizza le tue impostazioni per etichette oggetti e dotazioni con DIM.",
   "Settings.Developer.ExperimentalFeatures.Description": "Inizia a utilizzare funzionalità che potrebbero non essere ancora adeguatamente sviluppate, perfezionate o che non abbiano ancora passato il controllo di qualità.",
   "Settings.Developer.ExperimentalFeatures.Name": "Attiva funzionalità sperimentali",
-  "Settings.Developer.Lists.Description": "Attiva le liste sviluppatore sovrascrivendo i collegamenti.",
-  "Settings.Developer.Lists.Name": "Attiva liste",
   "Settings.Developer.Maps.Debug.Description": "Attiva le opzioni sviluppatore della sezione Mappe.",
   "Settings.Developer.Maps.Debug.Name": "Mappe - modalità sviluppatore",
   "Settings.Developer.Maps.LogDetails.Description": "Dettagli in console.log per il nodo invocato dal mouse.",
