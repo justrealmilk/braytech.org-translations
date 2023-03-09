@@ -562,7 +562,7 @@
   "Settings.Category.PushNotifications.Name": "Notifiche push",
   "Settings.DIMSync.Action.Disable.Description": "Disabilita la sincronizzazione ed elimina il token di autenticazione di Sincronizzazione DIM memorizzato.",
   "Settings.DIMSync.Action.Enable.Description": "Abilita la sincronizzazione scambiando il tuo token di autenticazione di Bungie.net con Sincronizzazione DIM.",
-  "Settings.DIMSync.Info": "Sincronizza le tue impostazioni per etichette oggetti e loadout con DIM.",
+  "Settings.DIMSync.Info": "Sincronizza le tue impostazioni per etichette oggetti e dotazioni con DIM.",
   "Settings.Developer.ExperimentalFeatures.Description": "Inizia a utilizzare funzionalità che potrebbero non essere ancora adeguatamente sviluppate, perfezionate o che non abbiano ancora passato il controllo di qualità.",
   "Settings.Developer.ExperimentalFeatures.Name": "Attiva funzionalità sperimentali",
   "Settings.Developer.Lists.Description": "Attiva le liste sviluppatore sovrascrivendo i collegamenti.",
