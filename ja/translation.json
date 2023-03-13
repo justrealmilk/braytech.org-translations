@@ -436,7 +436,6 @@
   "Legend.Ranks.Vanguard.Description": "バンガードの汚れ仕事をこなし、辺境の地を支配下に置け。",
   "Legend.Ranks.Vanguard.Name": "バンガード",
   "Legend.Seals.Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
-  "Legend.Seals.Name": "勝利の印",
   "Loading.BungieError.Description": "今回、重要なAPIデータを読み込むことができませんでした。これは断続的に起こりうる問題です。しばらく待ってもこのエラーが続く場合は、Bungie API がより広い範囲で停止しているか、プレイ環境のローカルネットワークが Bungie API リクエストを制限している可能性があります。",
   "Loading.BungieError.Name": "Bungie側でエラーが発生しているようです",
   "Loading.Error.Description": "非常に予期せず回復不能なことが発生しました。",
