@@ -94,7 +94,7 @@
   "Activity.Team.Bravo": "Bravo",
   "App.BungieError": "Bungie Error",
   "App.ErrorBoundary.Discord": "Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
-  "App.ErrorBoundary.Version": "Please quote the following string when reporting this error.",
+  "App.ErrorBoundary.Version": "Please quote the following when reporting this error.",
   "App.FriendlyError.Description": "Please, do not tell Commander Zavala... Yet.",
   "App.FriendlyError.Name": "Pardon Our Dust",
   "App.NetworkError.Description": "A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
