@@ -103,7 +103,7 @@
   "App.ServiceWorkerReload.Description": "A fresh update for Braytech is available. Please select reload to use a better version of this app.\n\nCheck the change log on the index view for details on what's new.",
   "App.ServiceWorkerReload.Name": "Update Available",
   "App.UnknownError": "Unknown Error",
-  "App.UnsupportedBrowser.Description": "Braytech requires modern browser features in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
+  "App.UnsupportedBrowser.Description": "Braytech requires modern browser features in order to operate. If you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
   "App.UnsupportedBrowser.Name": "Unsupported Browser",
   "App.Version": "Version",
   "Archives.ChaliceOfOpulence.Description": "A tool that enables users to rapidly discover required rune combinations for specific rewards from _The Menagerie_, an activity from Destiny 2's Season of Opulence.\n\n_The Menagerie_ is a vast prison-like museum located in the lower decks of Calus's Leviathan. It served as an enclosure to all the different species Calus collected amidst his journeys, including the Hive, Vex, and Arkborn, and pits them against the Guardians invited aboard for their pleasure and glory as well as his own entertainment.",
