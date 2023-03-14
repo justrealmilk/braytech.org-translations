@@ -94,7 +94,7 @@
   "Activity.Team.Bravo": "Squadra Bravo",
   "App.BungieError": "Errore di Bungie",
   "App.ErrorBoundary.Discord": "Braytech ha incontrato un errore fatale. Se una delle azioni disponibili non risolve il problema, per favore unisciti al [Discord](https://discord.bray.tech) (in inglese) per ulteriore assistenza.",
-  "App.ErrorBoundary.Version": "Per favore fai riferimento alla seguente stringa quando segnali questo errore.",
+  "App.ErrorBoundary.Version": "Si prega di citare quanto segue quando si segnala questo errore.",
   "App.FriendlyError.Description": "Per favore, non dirlo al comandante Zavala... Non ancora.",
   "App.FriendlyError.Name": "Scusa per la polvere",
   "App.NetworkError.Description": "Si è verificato un errore di rete. Questo è un errore temporaneo e potrebbe risolversi ricaricando o andando in un'altra sezione.",
