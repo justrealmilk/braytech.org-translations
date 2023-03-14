@@ -103,7 +103,7 @@
   "App.ServiceWorkerReload.Description": "È disponibile un nuovo aggiornamento per Braytech. Per favore ricarica per utilizzare la versione migliore.\n\nControlla il changelog nella pagina principale per vedere dettagli sulle novità.",
   "App.ServiceWorkerReload.Name": "Aggiornamento disponibile",
   "App.UnknownError": "Errore sconosciuto",
-  "App.UnsupportedBrowser.Description": "Braytech richiede le funzionalità dei browser moderni per operare. I requisiti minimi del browser sono stati scelti per consentire ai browser che sono vecchi più di un anno di eseguire Braytech. Pertanto, se ricevi questo messaggio, è ora di passare a qualcosa di nuovo.\n\nSi consiglia un browser basato su Chromium come ad esempio Microsoft Edge.@className=warning@",
+  "App.UnsupportedBrowser.Description": "Braytech richiede le funzionalità dei browser moderni per operare. Se ricevi questo messaggio, è ora di passare a qualcosa di nuovo.\n\nSi consiglia un browser basato su Chromium come ad esempio Microsoft Edge.@className=warning@",
   "App.UnsupportedBrowser.Name": "Browser non supportato",
   "App.Version": "Versione",
   "Archives.ChaliceOfOpulence.Description": "Uno strumento che permette di scoprire velocemente le combinazioni per le ricompense specifiche del _Serraglio_, un'attività della Stagione della Ricchezza di Destiny 2.\n\n_Il Serraglio_ è un vasto museo con sembianze di una prigione situato nella parte inferiore del Leviatano di Calus. Serviva da contenitore per tutte le diverse specie che Calus collezionò durante i suoi viaggi, inclusi l'Alveare, i Vex e i Nati sull'Arca, e li schiera contro i Guardiani invitati a bordo per il loro piacere e gloria, oltre che per il suo divertimento.",
