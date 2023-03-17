@@ -504,8 +504,6 @@
   "Settings.Developer.Maps.Debug.Name": "🦘 Maps Debug Mode",
   "Settings.Developer.Maps.LogDetails.Description": "🦘 Console.log details for the mouse-invoked node.",
   "Settings.Developer.Maps.LogDetails.Name": "🦘 Log Node Details",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "🦘 Map nodes, such as region chests, which do not have an associated screenshot will be highlighted in order to assist users with contributing to maps data.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "🦘 Highlight Nodes Without Screenshots",
   "Settings.Developer.Maps.Surveyor.Description": "🦘 An additional maps control allowing the easy and rapid collection of map nodes.",
   "Settings.Developer.Maps.Surveyor.Name": "🦘 Use Surveyor",
   "Settings.IDB.ClearCache.Description": "🦘 Clear cached assets such as map images. These assets are downloaded as they're required.",

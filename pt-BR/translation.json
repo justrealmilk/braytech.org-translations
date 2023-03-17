@@ -572,8 +572,6 @@
   "Settings.Developer.Maps.Debug.Name": "Modo debug para mapas",
   "Settings.Developer.Maps.LogDetails.Description": "Detalhes do console.log() para desenvolvedores.",
   "Settings.Developer.Maps.LogDetails.Name": "Registrar detalhes de nódulos",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Nódulos de mapa, como baús regionais, que não tem uma screenshot associada serão realçados para ajudar jogadores que querem contribuir para informações do mapa.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Realçar nódulos sem screenshots",
   "Settings.Developer.Maps.Surveyor.Description": "Um controle de mapas adicional que permite a coleta fácil e rápida de nódulos do mapa.",
   "Settings.Developer.Maps.Surveyor.Name": "Usar inspetor",
   "Settings.IDB.ClearCache.Description": "Apagar dados armazenados como imagens dos mapas. Estes dados são baixados conforme são necessários.",

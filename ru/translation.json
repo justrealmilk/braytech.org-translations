@@ -570,8 +570,6 @@
   "Settings.Developer.Maps.Debug.Name": "Режим отладки карт",
   "Settings.Developer.Maps.LogDetails.Description": "Отправлять подробности в Console.log при нажатии мышью на узел.",
   "Settings.Developer.Maps.LogDetails.Name": "Подробные логи узлов",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Узлы карты, такие как сундуки региона, которые не имеют связанных скриншотов будут помечены в список для помощи игрокам, которые собирают данные карты.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Подсвечивание узлов без скриншотов",
   "Settings.Developer.Maps.Surveyor.Description": "Дополнительный инструмент, позволяющий легко и быстро создать коллекцию точек на карте.",
   "Settings.Developer.Maps.Surveyor.Name": "Использовать инспектор",
   "Settings.IDB.ClearCache.Description": "Очистить кэш ассетов, к примеру, изображения карт. Эти ассеты будут перезагружены, когда потребуются.",

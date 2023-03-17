@@ -570,8 +570,6 @@
   "Settings.Developer.Maps.Debug.Name": "地图调试模式",
   "Settings.Developer.Maps.LogDetails.Description": "Console.log 记录鼠标唤起节点的细节日志",
   "Settings.Developer.Maps.LogDetails.Name": "记录节点详细日志",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "没有关联截图的地图节点，比如地区宝箱，会被高亮以帮助贡献地图数据的用户。",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "高亮无截图的节点",
   "Settings.Developer.Maps.Surveyor.Description": "一个额外的地图控件，允许你轻松快速地收集地图节点。",
   "Settings.Developer.Maps.Surveyor.Name": "使用勘测员",
   "Settings.IDB.ClearCache.Description": "清除如地图图像的缓存。这些资料将在需要时被下载。",

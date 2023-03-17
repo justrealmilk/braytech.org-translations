@@ -572,8 +572,6 @@
   "Settings.Developer.Maps.Debug.Name": "Karten-Debugmodus",
   "Settings.Developer.Maps.LogDetails.Description": "Console.log()-Ausgabe für Maus-aktivierte Knoten",
   "Settings.Developer.Maps.LogDetails.Name": "Knotendetails loggen",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Kartenelemente, wie Regions-Truhen, die keinen zugeordneten Screenshot besitzen, werden hervorgehoben, um Nutzern zu helfen, Kartendaten beizutragen.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Knoten ohne Screenshots hervorheben",
   "Settings.Developer.Maps.Surveyor.Description": "Ein zusätzliches Karten-Steuerelement, das die einfache und schnelle Erfassung von Knotenpunkten ermöglicht.",
   "Settings.Developer.Maps.Surveyor.Name": "Landvermesser benutzen",
   "Settings.IDB.ClearCache.Description": "Lösche zwischengespeicherte Elemente wie Kartenbilder. Diese werden nach Bedarf wieder heruntergeladen.",

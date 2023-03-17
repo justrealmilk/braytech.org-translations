@@ -570,8 +570,6 @@
   "Settings.Developer.Maps.Debug.Name": "地圖調試模式",
   "Settings.Developer.Maps.LogDetails.Description": "通過連接重寫啟用開發人員名單",
   "Settings.Developer.Maps.LogDetails.Name": "記錄節點詳細日誌",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "沒有關聯截圖的地圖節點, 比如地區寶箱, 會被高亮以幫助用戶貢獻地圖數據.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "高亮無截圖的節點",
   "Settings.Developer.Maps.Surveyor.Description": " 額外的地圖控件允許輕鬆快速地收集地圖節點.",
   "Settings.Developer.Maps.Surveyor.Name": "使用測量",
   "Settings.IDB.ClearCache.Description": "清除緩存數據，如地圖.這些數據將按需下載.",

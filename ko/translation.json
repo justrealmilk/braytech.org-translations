@@ -570,8 +570,6 @@
   "Settings.Developer.Maps.Debug.Name": "지도 디버그 모드",
   "Settings.Developer.Maps.LogDetails.Description": "마우스 실행된 노드에 대한 Console.log 정보",
   "Settings.Developer.Maps.LogDetails.Name": "노드 상세 정보 기록",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "연결된 스크린샷이 없는 지역 상자 등의 맵 노드는 지도 데이터 기여를 돕기 위해 강조 처리됩니다.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "스크린샷이 없는 노드 강조",
   "Settings.Developer.Maps.Surveyor.Description": "쉽고 빠르게 지도의 노드들을 수집할 수 있는 부가적인 지도 제어입니다.",
   "Settings.Developer.Maps.Surveyor.Name": "측량기 사용",
   "Settings.IDB.ClearCache.Description": "지도 이미지 등의 캐시 항목을 삭제합니다. 이러한 항목은 필요할 때 다운로드합니다.",

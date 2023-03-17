@@ -572,8 +572,6 @@
   "Settings.Developer.Maps.Debug.Name": "マップデバッグモード",
   "Settings.Developer.Maps.LogDetails.Description": "マウスオーバーされているノードの詳細をConsole.logに表示します。",
   "Settings.Developer.Maps.LogDetails.Name": "ノードの内容をlogに表示",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "スクリーンショットが関連付けられていない地域のクレートなどのマップノードは、ユーザーがマップデータに貢献できるように強調表示されます。",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "スクリーンショットのないノードをハイライトする",
   "Settings.Developer.Maps.Surveyor.Description": "マップノード情報を簡単かつ迅速に収集できる追加のマップコントロール機能です。",
   "Settings.Developer.Maps.Surveyor.Name": "測量機能を使う",
   "Settings.IDB.ClearCache.Description": "マップ画像などのキャッシュされたデータをクリアします。 これらのデータは、必要に応じてダウンロードされます。",

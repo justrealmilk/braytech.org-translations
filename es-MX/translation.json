@@ -572,8 +572,6 @@
   "Settings.Developer.Maps.Debug.Name": "Modo depuración de Mapas",
   "Settings.Developer.Maps.LogDetails.Description": "Detalles de Console.log para el nodo llamado por el ratón.",
   "Settings.Developer.Maps.LogDetails.Name": "Detalles del registro del nodo",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "Los nodos de mapas, como los cofres de región, que no tengan una captura de pantalla asociada, se resaltarán para ayudar a los usuarios a que contribuyan a los datos de los mapas.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Destaca los nodos sin capturas",
   "Settings.Developer.Maps.Surveyor.Description": "Un control de mapas adicional que permite recolectar fácil y rápidamente los nodos de los mapas.",
   "Settings.Developer.Maps.Surveyor.Name": "Usar el inspector",
   "Settings.IDB.ClearCache.Description": "Borra los recursos en caché, como las imágenes de los mapas. Estos recursos se descargan a medida que se necesitan.",

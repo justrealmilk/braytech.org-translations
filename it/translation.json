@@ -573,8 +573,6 @@
   "Settings.Developer.Maps.Debug.Name": "Mappe - modalità sviluppatore",
   "Settings.Developer.Maps.LogDetails.Description": "Dettagli in console.log per il nodo invocato dal mouse.",
   "Settings.Developer.Maps.LogDetails.Name": "Stampa dettagli dei nodi",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Description": "I nodi della mappa, come forzieri della regione, che non hanno uno screenshot saranno evidenziati per aiutare gli utenti a contribuire alla completezza delle mappe.",
-  "Settings.Developer.Maps.NoScreenshotHighlight.Name": "Evidenzia nodi senza screenshot",
   "Settings.Developer.Maps.Surveyor.Description": "Un controllo aggiuntivo delle mappe che consente la raccolta facile e rapida dei nodi della mappa.",
   "Settings.Developer.Maps.Surveyor.Name": "Usa Ispettore",
   "Settings.IDB.ClearCache.Description": "Elimina risorse salvate come, ad esempio, immagini di mappe. Quest'ultime vengono scaricate quando necessarie.",
