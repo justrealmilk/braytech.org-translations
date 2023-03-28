@@ -122,6 +122,7 @@
   "Auth.Error.NoAuth.Name": "Требуется авторизация",
   "Auth.Error.Permissions.Profile.Description": "Вы не можете получить доступ к профилю другого пользователя, но по этим ссылкам вы можете вернуться к своему.\n\nБольше информации об авторизации можно получить на странице _Настроек_.",
   "Auth.Error.Permissions.Profile.Name": "Ой, дорогуша…",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "Зайти через Bungie.net",
   "Auth.Memberships.Description": "Эти профили в данный момент связаны с вашим Bungie.net аккаунтом.",
   "Auth.Memberships.Name": "Связанные профили",

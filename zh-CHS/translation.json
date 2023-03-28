@@ -122,6 +122,7 @@
   "Auth.Error.NoAuth.Name": "需要授权",
   "Auth.Error.Permissions.Profile.Description": "你未被授权查看其它用户的数据，但你可以使用这些有用的链接回到你的界面。\n\n你可以在 _设置_ 中找到更多有关授权的信息。",
   "Auth.Error.Permissions.Profile.Name": "噢噢噢，哈尼……亲爱的，小亲亲",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "登录到 Bungie.net",
   "Auth.Memberships.Description": "当前有多个成员与你的 Bungie.net 档案关联.",
   "Auth.Memberships.Name": "相关成员",

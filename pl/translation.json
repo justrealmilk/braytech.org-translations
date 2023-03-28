@@ -103,6 +103,7 @@
   "Auth.Error.NoAuth.Name": "🦘 Authentication Required",
   "Auth.Error.Permissions.Profile.Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
   "Auth.Error.Permissions.Profile.Name": "🦘 Oh, honey... Honnnnneyyyy",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "🦘 Login with Bungie.net",
   "Auth.Memberships.Description": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
   "Auth.Memberships.Name": "🦘 Associated Memberships",

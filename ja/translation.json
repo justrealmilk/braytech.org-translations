@@ -122,6 +122,7 @@
   "Auth.Error.NoAuth.Name": "認証が必要です",
   "Auth.Error.Permissions.Profile.Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
   "Auth.Error.Permissions.Profile.Name": "うわぁぁぁぁぁぁぁ!!!!",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "Bungie.netでログインする",
   "Auth.Memberships.Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
   "Auth.Memberships.Name": "連携したアカウント",

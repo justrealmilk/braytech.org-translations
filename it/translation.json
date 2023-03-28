@@ -122,6 +122,7 @@
   "Auth.Error.NoAuth.Name": "Autenticazione richiesta",
   "Auth.Error.Permissions.Profile.Description": "Non sei autorizzato all'accesso dei dati del profilo di altri utenti, ma potresti usare questi link utili per tornare al tuo.\n\nPuoi trovare più informazioni sulla tua autenticazione nella sezione _Impostazioni_.",
   "Auth.Error.Permissions.Profile.Name": "Oh, tesorino... che tesoroooo",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "Accedi con Bungie.net",
   "Auth.Memberships.Description": "Questi sono gli account attualmente collegati al tuo profilo Bungie.net.",
   "Auth.Memberships.Name": "Account collegati",

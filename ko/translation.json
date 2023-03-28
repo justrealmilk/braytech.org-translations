@@ -122,6 +122,7 @@
   "Auth.Error.NoAuth.Name": "인증이 필요합니다",
   "Auth.Error.Permissions.Profile.Description": "당신은 다른 유저의 프로필 데이터에 접근할 수 있는 권한이 없지만, 다른 유용한 링크를 통해서 자신의 프로필 데이터로 돌아갈 수 있습니다.\n\n인증에 대한 자세한 내용은 _설정_ 에서 확인하세요.",
   "Auth.Error.Permissions.Profile.Name": "오, 이런...아이고.....",
+  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
   "Auth.Login": "Bungie.net 으로 로그인",
   "Auth.Memberships.Description": "현재 Bungie.net 프로필에 연결된 회원 정보입니다.",
   "Auth.Memberships.Name": "연결된 회원정보",
