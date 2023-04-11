@@ -547,6 +547,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "プロファイルがBANされてます",
   "ProfileSearch.Error.PrivateProgression.Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
   "ProfileSearch.Error.PrivateProgression.Name": "プライベートプロファイル",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "プロファイルはありません",
   "ProfileSearch.PreviousSearches": "前の検索",
   "ProfileSearch.ReturnToAuthMembership": "{{displayName}} へ戻る",

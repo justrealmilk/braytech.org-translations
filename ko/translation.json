@@ -546,6 +546,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "프로필 배너",
   "ProfileSearch.Error.PrivateProgression.Description": "당신의 프로필 데이터를 사용할 수 없습니다. 당신의 프로필이 Bungie.net에서 비공개로 설정되어 있을 수 있습니다.\n\nBungie.net에서 개인정보 설정을 바꾸거나 Bungie.net에서 Braytech를 인증할 수 있습니다.",
   "ProfileSearch.Error.PrivateProgression.Name": "비공개 프로필",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "검색된 프로필 없음",
   "ProfileSearch.PreviousSearches": "지난 검색",
   "ProfileSearch.ReturnToAuthMembership": "{{displayName}}로 돌아가기",

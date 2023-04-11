@@ -547,6 +547,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "Profil gebannt",
   "ProfileSearch.Error.PrivateProgression.Description": "Dein Profil-Fortschritt ist nicht verfügbar. Möglicherweise ist dein Profil auf Bungie.net auf privat gesetzt.\n\nDu musst möglicherweise deine privaten Einstellungen auf Bungie.net aktualisieren oder dich in Braytech neu autorisieren",
   "ProfileSearch.Error.PrivateProgression.Name": "Privates Profil",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "Keine Profile gefunden",
   "ProfileSearch.PreviousSearches": "Vorherige Suchen",
   "ProfileSearch.ReturnToAuthMembership": "Zurückkehren zu {{displayName}}",

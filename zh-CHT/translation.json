@@ -546,6 +546,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "賬戶被禁用",
   "ProfileSearch.Error.PrivateProgression.Description": "您的個人資料數據不可用，可能您的個人資料在Bungie.net上設定爲隱私\n\n您可以在Bungie.net上更改隱私設定或是通過以下方式對Braytech進行Bungie.net的身份驗證.",
   "ProfileSearch.Error.PrivateProgression.Name": "隱私狀況",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "沒有找到檔案",
   "ProfileSearch.PreviousSearches": "歷史搜索",
   "ProfileSearch.ReturnToAuthMembership": "返回 {{displayName}}",

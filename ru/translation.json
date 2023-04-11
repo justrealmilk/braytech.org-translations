@@ -546,6 +546,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "Профиль забанен",
   "ProfileSearch.Error.PrivateProgression.Description": "Данные вашего профиля недоступны. Вероятно, это связано с настройками приватности на Bungie.net.\n\nИзмените настройки приватности на Bungie.net либо авторизуйтесь на Braytech через Bungie.net.",
   "ProfileSearch.Error.PrivateProgression.Name": "Приватный профиль",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "Нет найденных профилей",
   "ProfileSearch.PreviousSearches": "Прошлые поиски",
   "ProfileSearch.ReturnToAuthMembership": "Вернуться к {{displayName}}",

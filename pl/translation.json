@@ -482,6 +482,8 @@
   "ProfileSearch.Error.MemberBanned.Name": "🦘 Profile Banned",
   "ProfileSearch.Error.PrivateProgression.Description": "🦘 Your profile's progression data isn't available. Your profile may be set to private on Bungie.net.\n\nYou may change your privacy settings on Bungie.net or authenticate Braytech with Bungie.net",
   "ProfileSearch.Error.PrivateProgression.Name": "🦘 Private Profile",
+  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+  "ProfileSearch.NewLight": "🦘 New Light",
   "ProfileSearch.NoProfilesFound": "🦘 No Profiles Found",
   "ProfileSearch.PreviousSearches": "🦘 Previous Searches",
   "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
