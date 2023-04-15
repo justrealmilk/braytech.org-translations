@@ -102,7 +102,7 @@
   "Activity.State.HydratingReportsCache": "Berichtsdaten werden aus dem Gerätespeicher geladen.",
   "Activity.State.LoadingPeriod": "Scanne... {{date}}",
   "Activity.State.NoBookmarks": "Du hast noch keine Lesezeichen hinzugefügt!\n\n Du kannst deine Lesezeichen synchronisieren, indem du die Synchronisierung in den _Einstellungen_ aktivierst.",
-  "Activity.State.NoHistoryAvailable": "Finde einen Eisnatztrupp und erringe einen Triumph gegen die Feinde des Reisenden.",
+  "Activity.State.NoHistoryAvailable": "Finde einen Einsatztrupp und erringe einen Triumph gegen die Feinde des Reisenden.",
   "Activity.State.PeriodNotFound": "Der angeforderte Zeitraum konnte in der Aktivitätshistorie dieses Charakters nicht gefunden werden.",
   "Activity.State.RequestHistory": "Analyse des Aktivitätsverlaufs",
   "Activity.State.RequestHistoryPage": "Aktivitätsverlauf Band {{page}} wird abgerufen",
