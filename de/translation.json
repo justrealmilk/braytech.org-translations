@@ -105,7 +105,7 @@
   "Activity.State.NoHistoryAvailable": "Finde einen Einsatztrupp und erringe einen Triumph gegen die Feinde des Reisenden.",
   "Activity.State.PeriodNotFound": "Der angeforderte Zeitraum konnte in der Aktivitätshistorie dieses Charakters nicht gefunden werden.",
   "Activity.State.RequestHistory": "Analyse des Aktivitätsverlaufs",
-  "Activity.State.RequestHistoryPage": "Aktivitätsverlauf Band {{page}} wird abgerufen",
+  "Activity.State.RequestHistoryPage": "Aktivitätsverlauf wird abgerufen: Seite {{page}}",
   "Activity.Team.Allies": "eigenes Team",
   "Activity.Team.Alpha": "Alpha",
   "Activity.Team.Bravo": "Bravo",
