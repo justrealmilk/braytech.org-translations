@@ -194,7 +194,7 @@
   "Clan.HistoricalStats.ViewportWidth": "Die historische Statistik ist für große Displays ausgelegt. Daher ist diese Seite nur für einen Viewport von mindestens 1024px Breite verfügbar",
   "Clan.HistoricalStatsLoading": "Lade historische Statistiken",
   "Clan.Members": "{{number}} Mitglieder",
-  "Clan.MembersLoading": "{{name}} Mitglieder werden geladen.",
+  "Clan.MembersLoading": "Lade Mitglieder von {{name}}",
   "Clan.MembersOnline": "{{number}} Online",
   "Clan.NoClan.Description": "Clans sind optionale Gruppen von Freunden, die dein Online-Erlebnis verbessern. Sprich dich mit deinen Freunden ab, um Coop-Herausforderungen zu meistern, oder verdiene zusätzliche Belohnungen durch Solospiel.\n\nTritt einem Clan bei, triff neue Freunde, oder erstelle deinen eigenen Clan auf [Bungie.net](https://bungie.net/).",
   "Clan.NoClan.Name": "Du gehörst aktuell keinen Clan an",
