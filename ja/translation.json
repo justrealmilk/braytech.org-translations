@@ -679,6 +679,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "通知をすぐに開始する。\n\n 通知には、ホーム画面や別のアプリケーションに戻ったり、デバイスをロックしたりできるように、3秒間の遅延が追加されました。ホーム画面に戻ったり、ほかのアプリケーションを起動したり、デバイスをロックしたりすることができます。",
   "Settings.PushNotifications.PreviewNotifications.Name": "プレビュー通知",
   "Settings.PushNotifications.ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
   "Settings.ReloadRequired.Name": "リロードが必要です",
   "Settings.Reports.Info": " 一度ダウンロードしたレポートは、デバイスのストレージに保存され、アプリの起動準備ができたらすぐにアクセスできます。すべてのレポートは、最初に閲覧されたメンバーに関連付けられています。ここでは、メンバーごとにレポートを消去することができます。多くのレポートをダウンロードした場合、最初のロード時間を短縮するために、この機能を使用することができます。",

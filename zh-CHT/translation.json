@@ -677,6 +677,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "立即推送启用通知。\n\n此些通知已加入 3 秒的延迟，以允许您返回您的主屏幕、其它应用或锁定您的设备。如果您仍留在此页面，iOS 将阻止通知的推送。",
   "Settings.PushNotifications.PreviewNotifications.Name": "预览通知",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "选择重载应用以使您的修改立即生效。",
   "Settings.ReloadRequired.Name": "需要重载",
   "Settings.Reports.Info": "下載後，報告將保存到設備存儲中，以便事後快速訪問.所有報告都與最初查看它們的成員相關聯.您可以在此處逐個清除它們.如果您下載了許多報告，您可能希望這樣做以最大程度地減少初始加載時間.",

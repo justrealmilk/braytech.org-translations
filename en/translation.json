@@ -680,6 +680,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return to your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
   "Settings.PushNotifications.PreviewNotifications.Name": "Preview Notifications",
   "Settings.PushNotifications.ServiceWorkerInstalling": "A service worker is installing. Please wait.",
+  "Settings.PushNotifications.Users": "Users",
   "Settings.ReloadRequired.Description": "Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "Reload Required",
   "Settings.Reports.Info": "Once downloaded, reports are saved to device storage for rapid access after the fact. All reports are associated with the member through which they were originally viewed. You can clear them here, member by member. You may wish to do this in order to minimise initial load time, if you've downloaded many reports.",

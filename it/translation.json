@@ -680,6 +680,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "Invia le notifiche attivate immediatamente.\n\nA queste è stato aggiunto un ritardo di 3 secondi per consentirti di tornare alla schermata iniziale, a un'altra app o per bloccare il dispositivo. Se rimani qui, iOS le sopprimerà.",
   "Settings.PushNotifications.PreviewNotifications.Name": "Anteprima di notifiche",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Installazione del service worker. Attendere prego.",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "Seleziona Ricarica per attivare immediatamente le modifiche.",
   "Settings.ReloadRequired.Name": "Ricaricamento necessario",
   "Settings.Reports.Info": "Una volta scaricati, i riepiloghi sono salvati nella memoria d'archiviazione del dispositivo. Tutti i riepiloghi sono associati tramite il profilo con il quale sono stati visualizzati. Qui puoi cancellarli, profilo per profilo. Potresti voler usare questa opzione per diminuire i tempi di caricamento iniziali quando hai scaricato molti riepiloghi.",

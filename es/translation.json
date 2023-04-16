@@ -679,6 +679,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "Envía inmediatamente las notificaciones habilitadas.\n\nSe ha añadido un retraso de 3 segundos a estas notificaciones para que puedas volver a la pantalla de inicio, a otra app o bloquear el dispositivo. Si te quedas aquí, iOS las anulará.",
   "Settings.PushNotifications.PreviewNotifications.Name": "Probar las notificaciones",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "Selecciona recargar la aplicación para activar los cambios inmediatamente.",
   "Settings.ReloadRequired.Name": "Se necesita recargar",
   "Settings.Reports.Info": "Una vez descargados, los informes se guardan en el dispositivo para poder acceder a ellos rápidamente. Todos los informes se asocian con el miembro que los visualizó originalmente. Puedes borrarlos aquí, miembro por miembro. Si has descargado muchos informes, es posible que quieras borrarlos para minimizar el tiempo de carga inicial.",

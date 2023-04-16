@@ -679,6 +679,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "Envoyez immédiatement les notifications activées.\n\nUn délai de 3 secondes a été ajouté à ces notifications pour vous permettre de revenir à votre écran d'accueil, à une autre application ou de verrouiller votre appareil. Si vous restez ici, iOS les supprimera.",
   "Settings.PushNotifications.PreviewNotifications.Name": "Aperçu des notifications",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Un service worker est en train d'installer. S'il vous plaît, patientez.",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "Sélectionnez 'Recharger l'application' pour activer vos changements immédiatement.",
   "Settings.ReloadRequired.Name": "Rechargement requis",
   "Settings.Reports.Info": "Une fois téléchargés, les rapports sont enregistrés dans le stockage de l'appareil pour un accès rapide après coup. Tous les rapports sont associés au membre par lequel ils ont été initialement consultés. Vous pouvez les effacer ici, membre par membre. Vous souhaiterez peut-être faire cela afin de minimiser le temps de chargement initial, si vous avez téléchargé de nombreux rapports.",

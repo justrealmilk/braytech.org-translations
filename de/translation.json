@@ -679,6 +679,7 @@
   "Settings.PushNotifications.PreviewNotifications.Description-iOS": "🦘 Dispatch enabled notifications immediately.\n\nA 3 second delay has been added to these notifications to allow you to return to your home screen, another app, or to lock your device. If you remain here, iOS will suppress them.",
   "Settings.PushNotifications.PreviewNotifications.Name": "🦘 Preview Notifications",
   "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
+  "Settings.PushNotifications.Users": "🦘 Users",
   "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
   "Settings.ReloadRequired.Name": "🦘 Reload Required",
   "Settings.Reports.Info": "Nach dem Herunterladen werden die Berichte auf dem Gerät gespeichert, damit sie später schnell abgerufen werden können. Alle Berichte sind mit dem Mitglied verknüpft, über das sie ursprünglich eingesehen wurden. Du kannst sie hier löschen, Mitglied für Mitglied. Wenn du viele Berichte heruntergeladen hast, solltest du dies tun, um die anfängliche Ladezeit zu minimieren.",
