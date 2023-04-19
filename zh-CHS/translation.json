@@ -343,7 +343,7 @@
   "Common.ScoreValue": "分值",
   "Common.Screenshot": "截图",
   "Common.Search": "搜索",
-  "Common.SeasonNth": "赛季 {{number}} 周数 ",
+  "Common.SeasonNth": "第 {{number}} 赛季",
   "Common.SeasonPass": "季票",
   "Common.SeasonRank": "赛季等级",
   "Common.SeasonYearNth": "第 {{season}} 赛季, 年 {{year}}",
