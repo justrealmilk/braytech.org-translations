@@ -672,7 +672,6 @@
   "Settings.PushNotifications.NoServiceWorker": "サービスワーカーがインストールされていません。Braytechのページをリロードしてみてください。",
   "Settings.PushNotifications.PermissionDenied": "お使いのブラウザは、通知機能を無効にしています。続行するには、手動で通知を有効にするか、ブラウザの設定をリセットする必要があります。",
   "Settings.PushNotifications.PreviewNotifications.Description": "通知をすぐに開始する。",
-  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "通知をすぐに開始する。\n\n 通知には、ホーム画面や別のアプリケーションに戻ったり、デバイスをロックしたりできるように、3秒間の遅延が追加されました。ホーム画面に戻ったり、ほかのアプリケーションを起動したり、デバイスをロックしたりすることができます。",
   "Settings.PushNotifications.PreviewNotifications.Name": "プレビュー通知",
   "Settings.PushNotifications.ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
   "Settings.PushNotifications.Users": "🦘 Users",

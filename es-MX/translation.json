@@ -672,7 +672,6 @@
   "Settings.PushNotifications.NoServiceWorker": "Todavía no se instaló un _service worker_. Prueba a recargar Braytech.",
   "Settings.PushNotifications.PermissionDenied": "Tu navegador dice que denegaste el permiso para enviar notificaciones. Tendrás que habilitarlas o restablecerlas manualmente antes de poder continuar.",
   "Settings.PushNotifications.PreviewNotifications.Description": "Envía inmediatamente las notificaciones habilitadas.",
-  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "Envía inmediatamente las notificaciones habilitadas.\n\nSe añadió un retraso de 3 segundos a estas notificaciones para que puedas volver a la pantalla de inicio, a otra app o bloquear el dispositivo. Si te quedas aquí, iOS las anulará.",
   "Settings.PushNotifications.PreviewNotifications.Name": "Probar las notificaciones",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
   "Settings.PushNotifications.Users": "🦘 Users",

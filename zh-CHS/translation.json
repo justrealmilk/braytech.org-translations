@@ -673,7 +673,6 @@
   "Settings.PushNotifications.NoServiceWorker": "Service Worker 未被安装。请尝试重载 Braytech。",
   "Settings.PushNotifications.PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
   "Settings.PushNotifications.PreviewNotifications.Description": "立即推送启用通知。",
-  "Settings.PushNotifications.PreviewNotifications.Description-iOS": "立即推送启用通知。\n\n此些通知已加入 3 秒的延迟，以允许您返回您的主屏幕、其它应用或锁定您的设备。如果您仍留在此页面，iOS 将阻止通知的推送。",
   "Settings.PushNotifications.PreviewNotifications.Name": "预览通知",
   "Settings.PushNotifications.ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
   "Settings.PushNotifications.Users": "用户",
