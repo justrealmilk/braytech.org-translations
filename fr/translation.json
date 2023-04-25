@@ -197,7 +197,7 @@
   "Clan.HistoricalStatsLoading": "Chargement des statistiques historiques",
   "Clan.Members": "{{number}} Membres",
   "Clan.MembersLoading": "Chargement de {{name}} membres",
-  "Clan.MembersOnline": "{{number}} en ligne",
+  "Common.MembersOnline": "{{number}} en ligne",
   "Clan.NoClan.Description": "Les clans sont des groupes d'amis facultatifs qui améliorent votre expérience de jeu en ligne. Coordonnez-vous avec vos camarades de clan pour relever des défis en coopération ou simplement les représenter dans votre jeu en solo pour gagner des récompenses supplémentaires.\n\nRejoignez le clan de votre ami, rencontrez de nouveaux amis ou créez le vôtre sur l'application compagnon ou chez [Bungie.net](https://bungie.net/).",
   "Clan.NoClan.Name": "Pas de clan rejoint",
   "Clan.Relationships.BestFriends": "Meilleurs amis",

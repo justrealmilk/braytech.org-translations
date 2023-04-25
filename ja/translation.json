@@ -197,7 +197,7 @@
   "Clan.HistoricalStatsLoading": "履歴統計データを読み込んでいます",
   "Clan.Members": "合計 {{number}} 人",
   "Clan.MembersLoading": "{{name}} のデータを読み込んでいます",
-  "Clan.MembersOnline": "{{number}} はオンラインです",
+  "Common.MembersOnline": "{{number}} はオンラインです",
   "Clan.NoClan.Description": "クランとは、オンラインゲームを楽しむための任意の友人グループです。仲間と協力して協力プレイに挑戦したり、ソロプレイでも仲間を代表してプレイすることで、ゲーム内の特別な追加報酬を得ることができます。\n\n友達のクランに参加したり、新しい友達と出会ったり、コンパニオンアプリや[Bungie.net](https://bungie.net/)で自分のクランを作ったりしましょう。",
   "Clan.NoClan.Name": "クラン未所属",
   "Clan.Relationships.BestFriends": "ベストフレンド",

@@ -197,7 +197,7 @@
   "Clan.HistoricalStatsLoading": "正在加载历史统计数据",
   "Clan.Members": "{{number}} 成员",
   "Clan.MembersLoading": "正在加载公会 {{name}} 成员信息",
-  "Clan.MembersOnline": "目前有 {{number}} 人在线",
+  "Common.MembersOnline": "目前有 {{number}} 人在线",
   "Clan.NoClan.Description": "公会是一个朋友间提高您的游戏体验的可选的组织。与你的公会成员合作迎接挑战，或在独自游玩时代表他们，以此来获得一些额外的奖励。您可以在 [Bungie.net](https://bungie.net/) 或官方应用程序中加入公会来结识新朋友或者创建您自己的公会。",
   "Clan.NoClan.Name": "暂无所属公会",
   "Clan.Relationships.BestFriends": "好朋友",
