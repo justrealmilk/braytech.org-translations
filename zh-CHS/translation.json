@@ -795,7 +795,7 @@
   "Triumphs.Seals.Commonality.Name": "称号持有率",
   "Triumphs.Seals.CommonalityGilded.Description": "Voluspa 所追踪玩家获得并镀金该称号的比例",
   "Triumphs.Seals.CommonalityGilded.Name": "镀金称号持有率",
-  "Triumphs.Seals.PlayerTitle": "玩家头衔：**{{title}}**",
+  "Triumphs.Seals.PlayerTitle": "玩家称号：**{{title}}**",
   "Triumphs.Seals.SealCompleted": "已完成称号",
   "Triumphs.Seals.SealGilded": "称号已镀金",
   "Triumphs.Seals.SealGildedProgress": "镀金进度",
