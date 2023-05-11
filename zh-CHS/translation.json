@@ -764,7 +764,7 @@
   "Tooltip.Maps.UntrackableChecklistItem": "无法追踪的清单项",
   "Triumphs.AllCompleted": "全部完成",
   "Triumphs.AlmostComplete.NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
-  "Triumphs.AlmostComplete.SeeNext": "查看接下来 {{number}} 个",
+  "Triumphs.AlmostComplete.SeeNext": "查看其他成就（ {{number}} 个） ",
   "Triumphs.AlmostCompleteTriumphs": "即将完成",
   "Triumphs.Classified.Description": "这个记录为绝密并可能在之后被解密。",
   "Triumphs.Classified.Name": "绝密记录",
