@@ -99,6 +99,11 @@ const contributors = [
     membershipType: 3,
     membershipId: '4611686018529095285', // FR0Z3_N3.Polaris
   },
+  {
+    language: 'zh-CHS',
+    membershipType: 3,
+    membershipId: '4611686018455839117', // Sayathun
+  },
 ];
 
 export default contributors;
