@@ -101,7 +101,7 @@ const contributors = [
   },
   {
     language: 'zh-CHS',
-    membershipType: 3,
+    membershipType: 2,
     membershipId: '4611686018455839117', // Sayathun
   },
 ];
