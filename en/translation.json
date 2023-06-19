@@ -474,6 +474,8 @@
   "Legend.Ranks.Name": "Guardian Standing",
   "Legend.Seals.Commonality": "Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
   "Legend.Seals.Name": "Triumph Seals",
+  "Legend.Fishing.Description": "Cast a weighted line\n\nShowcase your aquarium and get competitive comparing your heftiest catches with your fellow anglers.",
+  "Legend.Fishing.Name": "Competitive Fishing",
   "Loading.BungieError.Description": "Crucial API data couldn't be loaded at this time. This is an intermittent issue. Please try again.\n\nIf this error does persist, the API may be experiencing a wider outage or your local network is restricting Bungie API requests.",
   "Loading.BungieError.Name": "Bungie Error",
   "Loading.Error.Description": "Something very unexpected and irrecoverable occurred.",
