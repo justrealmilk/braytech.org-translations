@@ -457,7 +457,7 @@
   "Landing.Support.Description": "构建这些漂亮的界面并与 Bungie 的 API 击剑，需要大量的努力和时间。我不得不把这么多的时间投入到爱好的事业中，而这些事业也需要花钱来维持在线。我对我们所知的网站上的广告持坚决反对的态度。因此，我更愿意自掏腰包支持这些项目，并依靠社区的慷慨解囊。通过支持我，你可以帮助确保我能够保持这些项目的正常运行，并帮助我继续增加很酷的新功能。",
   "Landing.Support.Name": "支持 Braytech",
   "Landing.Updates.Name": "最近更新",
-  "Language.Distance.Metres.Plural.Abbr": "{{metres}} 米",
+  "Language.Space.MetresAbr_plural": "{{count}} 米",
   "Language.Time.Frequency.Daily": "每天",
   "Language.Time.Frequency.Weekly": "每周",
   "Language.Time.Relative.Future": "将在 {{duration}}",

@@ -457,7 +457,7 @@
   "Landing.Support.Description": "Bwaytech is a fuww-time job—I design and devewop to impwove mysewf and to pwease uu. I'm anti-ads, (・`ω´・) to my own demise. Uuw suppowt hewps me keep da wights on and awwows me to do my best wowk.\n\nJoin da [Discowd](https://discord.bray.tech) and da othew patwons in da Bwaytech Weseawch Division.",
   "Landing.Support.Name": "Awe uu a fan? UwU Show uuw suppowt",
   "Landing.Updates.Name": "Updates",
-  "Language.Distance.Metres.Plural.Abbr": "{{metres}} Mtws",
+  "Language.Space.MetresAbr_plural": "{{count}} Mtws",
   "Language.Time.Frequency.Daily": "Daiwy",
   "Language.Time.Frequency.Weekly": "Weekwy",
   "Language.Time.Relative.Future": "in {{duration}}",

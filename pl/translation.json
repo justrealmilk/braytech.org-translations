@@ -392,7 +392,7 @@
   "Landing.Support.Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to please you. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work.\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
   "Landing.Support.Name": "🦘 Are you a fan? Show your support",
   "Landing.Updates.Name": "🦘 Updates",
-  "Language.Distance.Metres.Plural.Abbr": "🦘 {{metres}} Mtrs",
+  "Language.Space.MetresAbr_plural": "🦘 {{metres}} Mtrs",
   "Language.Time.Frequency.Daily": "🦘 Daily",
   "Language.Time.Frequency.Weekly": "🦘 Weekly",
   "Language.Time.Relative.Future": "🦘 in {{duration}}",

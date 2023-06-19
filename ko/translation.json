@@ -456,7 +456,7 @@
   "Landing.Support.Description": "전 매일 Braytech에서 디자인과 개발을 하며 일합니다. 저 스스로의 성장을 위해, 또 여러분을 기쁘게 하기 위해서요. 전 광고를 싫어합니다, 죽어도 싫어요. 여러분의 지원은 빛을 계속 지키고 제가 행복하게 작업할 수 있도록 도와줍니다.\n\n[Discord](https://discord.bray.tech) 에 합류해서 다른 Patrons가 있는 Braytech의 연구 부서로 오세요.",
   "Landing.Support.Name": "저의 팬인가요? 당신의 도움을 보여주세요.",
   "Landing.Updates.Name": "업데이트 내역",
-  "Language.Distance.Metres.Plural.Abbr": "{{metres}}미터",
+  "Language.Space.MetresAbr_plural": "{{count}}미터",
   "Language.Time.Frequency.Daily": "일간",
   "Language.Time.Frequency.Weekly": "주간",
   "Language.Time.Relative.Future": "{{duration}} 후",

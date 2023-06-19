@@ -457,7 +457,7 @@
   "Landing.Support.Description": "Construir essas lindas interfaces e lidar com as APIs da Bungie exige muito esforço e tempo. Só posso dedicar uma parte desse tempo à passatempos como o Braytech, que também custam dinheiro para se manter online. Tenho uma posição firme contra os anúncios em sites da forma como estamos acostumados. Então prefiro apoiar esses projetos com dinheiro do meu próprio bolso e depender da generosidade da minha comunidade.\n\nAo me apoiar, você estará ajudando a manter esses projetos online, além de me ajudar a continuar adicionando novos recursos bacanas.",
   "Landing.Support.Name": "Ajude Braytech",
   "Landing.Updates.Name": "Atualizações",
-  "Language.Distance.Metres.Plural.Abbr": "Mtrs",
+  "Language.Space.MetresAbr_plural": "Mtrs",
   "Language.Time.Frequency.Daily": "🦘 Daily",
   "Language.Time.Frequency.Weekly": "🦘 Weekly",
   "Language.Time.Relative.Future": "daqui {{duration}}",

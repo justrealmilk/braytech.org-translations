@@ -457,7 +457,7 @@
   "Landing.Support.Description": "Braytech es un trabajo a tiempo completo—yo diseño y desarrollo para mejorar y complacerte. Me opongo a usar anuncios, en contra de mis intereses. Tu apoyo me ayuda a mantener las luces encendidas y me permite hacer mi mejor trabajo.\n\nÚnete al [Discord](https://discord.bray.tech) y a los otros _patrons_ de la División de Investigación de Braytech.",
   "Landing.Support.Name": "¿Eres un fan? Muestra tu apoyo",
   "Landing.Updates.Name": "Actualizaciones",
-  "Language.Distance.Metres.Plural.Abbr": "{{metres}} m",
+  "Language.Space.MetresAbr_plural": "{{count}} m",
   "Language.Time.Frequency.Daily": "Diariamente",
   "Language.Time.Frequency.Weekly": "Semanalmente",
   "Language.Time.Relative.Future": "en {{duration}}",

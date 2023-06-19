@@ -457,7 +457,7 @@
   "Landing.Support.Description": "Destinyの世界観を尊重したインターフェイスを構築し、BungieのAPIを利用するには絶え間ない努力と開発時間が必要です。オンラインを維持するのにもお金がかかるこの取り組みに、すべて差し出したとしても個人の限界があります。私はウェブサイト上の広告には反対の立場をとっています。そのため、これらのプロジェクトを維持するため、コミュニティに参加されている皆さんの寛大さに頼りたいと思っています。\n\nみなさんの支援を、このプロジェクトをオンラインで維持し、クールな新機能を追加し続けることに使いたいと思います。",
   "Landing.Support.Name": "Braytechを支援する",
   "Landing.Updates.Name": "アップデート情報",
-  "Language.Distance.Metres.Plural.Abbr": "{{metres}} メートル",
+  "Language.Space.MetresAbr_plural": "{{count}} メートル",
   "Language.Time.Frequency.Daily": "デイリー",
   "Language.Time.Frequency.Weekly": "ウイークリー",
   "Language.Time.Relative.Future": "{{duration}} 後",
