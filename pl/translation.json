@@ -480,6 +480,7 @@
   "ProfileSearch.ActiveProfile": "🦘 Active Profile",
   "ProfileSearch.BungieNetProfile": "🦘 Bungie.net Profile",
   "ProfileSearch.ChangeProfile": "🦘 Change Profile",
+  "ProfileSearch.CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
   "ProfileSearch.Error.Banned.Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
   "ProfileSearch.Error.Banned.Dickhead": "🦘 Dickhead.",
   "ProfileSearch.Error.Banned.Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
