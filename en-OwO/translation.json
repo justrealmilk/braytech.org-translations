@@ -498,7 +498,7 @@
   "Loading.Status.SettingsFetch": "Connecting to Bungie.net",
   "Loading.Status.StoreManifest": "Stowing Manifest Data",
   "Loading.WaitingForBungie": "Waiting fow Bungie",
-  "Maps.Checklists.NoItems": "No items detected",
+  "Maps.Context.NoChecklistItems": "No items detected",
   "Maps.Inspect.Instructions": "Instwuctions",
   "Maps.Inspect.ProposeChanges.Form.Description.Name": "Descwiption",
   "Maps.Inspect.ProposeChanges.Form.Issues.Name": "*boops uuw nose* Issues",
