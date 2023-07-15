@@ -204,7 +204,7 @@
   "Clan.Relationships.ClanMembersUnmet": "Miembros sin conocer",
   "Clan.Relationships.Description": "Descubre oportunidades perdidas y amantes secretos. Estos Guardianes son aquellos con los que juegas más actividades. Apreciaos el uno al otro.\n\nEstos Guardianes son los miembros de tu clan y esta clasificación se restablece con cada nueva temporada.",
   "Clan.Relationships.FireteamCombinations": "Combinaciones de escuadras",
-  "Clan.Relationships.GroupsAndHistory.Description": "Analizando el historial del clan y de las actividades",
+  "Activity.State.LoadGroupMembers": "Analizando el historial del clan y de las actividades",
   "Clan.Relationships.Name": "Relaciones",
   "Clan.Relationships.NoFriends": "No estás solo; al final harás un amigo... ¡Invita a un compañero del clan a pasar el rato con un par de actividades!",
   "Clan.Relationships.NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",

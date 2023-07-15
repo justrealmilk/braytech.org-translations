@@ -204,7 +204,7 @@
   "Clan.Relationships.ClanMembersUnmet": "Незнакомые участники",
   "Clan.Relationships.Description": "Обнаружьте упущенные возможности и тайных любовников. С этими Стражами вы проводите больше всего времени. Дорожите друг другом.\n\nЭти Стражи ваши сокланы и этот ранг сбрасывается каждый сезон.",
   "Clan.Relationships.FireteamCombinations": "Комбинации боевых групп",
-  "Clan.Relationships.GroupsAndHistory.Description": "Анализируем клан и историю активностей",
+  "Activity.State.LoadGroupMembers": "Анализируем клан и историю активностей",
   "Clan.Relationships.Name": "Взаимоотношения",
   "Clan.Relationships.NoFriends": "Ты не один - рано или поздно ты с кем-то подружишься… Позови кого-то из клана сходить вместе в пару активностей!",
   "Clan.Relationships.NoParters": "Никто не говорил, что свидания это просто. Пора в бой, Страж!",

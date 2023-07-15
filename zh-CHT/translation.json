@@ -204,7 +204,7 @@
   "Clan.Relationships.ClanMembersUnmet": "未遇到過的成員",
   "Clan.Relationships.Description": "發現錯失的機會與愛人，這些守護者是跟你一起參加活動最多的人彼此珍惜。\n\n這些守護者是你的公會成員，此排名每個賽季都會重置",
   "Clan.Relationships.FireteamCombinations": "火力戰隊組合",
-  "Clan.Relationships.GroupsAndHistory.Description": "正在分析公會與活動歷史",
+  "Activity.State.LoadGroupMembers": "正在分析公會與活動歷史",
   "Clan.Relationships.Name": "關係",
   "Clan.Relationships.NoFriends": "你並不孤單！你遲早會找到朋友的....邀請你的公會夥伴一起做些活動吧！",
   "Clan.Relationships.NoParters": "約會很容易嗎？沒聼説過，繼續回歸戰鬥吧，守護者！",

@@ -204,7 +204,7 @@
   "Clan.Relationships.ClanMembersUnmet": "未遇到过的成员",
   "Clan.Relationships.Description": "发掘错失的机会或爱人。这些是和你进行过最多活动的守护者们。珍惜彼此吧。\n\n这些守护者是你的公会成员，这项排名每赛季都会重置。",
   "Clan.Relationships.FireteamCombinations": "火力战队组合",
-  "Clan.Relationships.GroupsAndHistory.Description": "正在分析公会与活动历史",
+  "Activity.State.LoadGroupMembers": "正在分析公会与活动历史",
   "Clan.Relationships.Name": "关系",
   "Clan.Relationships.NoFriends": "你并不孤单！你迟早会找到朋友的…… 邀请你的公会伙伴一同游玩吧！",
   "Clan.Relationships.NoParters": "约会很容易？没听说过。回去继续战斗吧，守护者！",
