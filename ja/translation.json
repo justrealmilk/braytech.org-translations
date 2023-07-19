@@ -1,872 +1,1466 @@
 {
-  "Action.Accept": "承認する",
-  "Action.AddBookmark": "ブックマークに追加",
-  "Action.AddEvent": "イベントを追加",
-  "Action.AllClasses": "すべてのクラス",
-  "Action.Back": "戻る",
-  "Action.BecomeAPatron": "支援者になる",
-  "Action.Browse": "ブラウズ",
-  "Action.Cancel": "キャンセル",
-  "Action.Close": "閉じる",
-  "Action.Collapse": "折りたたむ",
-  "Action.Confirm": "確認",
-  "Action.Customise": "カスタマイズ",
-  "Action.Delete": "消去",
-  "Action.Disable": "無効",
-  "Action.Dismiss": "閉じる",
-  "Action.Done": "完了",
-  "Action.Enable": "有効にする",
-  "Action.Expand": "展開する",
-  "Action.GatherInVault": "すべて保管庫に送る",
-  "Action.GoToBNet": "Bungie.netへ進む",
-  "Action.GoToMaps": "マップへ進む",
-  "Action.GoToTwitter": "Twitterへ進む",
-  "Action.HideAcquired": "取得済みを表示しない",
-  "Action.HideCollectionsRolls": "可能性があるロールを隠す",
-  "Action.HideCompleted": "完了済みを表示しない",
-  "Action.HideDiscovered": "発見済みは表示しない",
-  "Action.HideHiddenStats": "ステータス詳細",
-  "Action.HideRedeemed": "入手済みを表示しない",
-  "Action.Jump": "ジャンプ",
-  "Action.Lock": "ロックする",
-  "Action.MemberRemove": "メンバーを外す",
-  "Action.NextNth": "次の{{number}}件",
-  "Action.Now": "最新",
-  "Action.Open": "開く",
-  "Action.Previous": "戻る",
-  "Action.PullPostmaster": "ポストマスターからアイテムを取得する",
-  "Action.ReloadApp": "アプリをリロードする",
-  "Action.ReloadAppAutomatically": "自動的にアプリを再読み込みする",
-  "Action.RemoveBookmark": "ブックマークから削除",
-  "Action.Reset": "リセット",
-  "Action.SelectDate": "日付選択",
-  "Action.SelectFilters": "フィルター",
-  "Action.SelectMasterwork": "マスターワークを選択",
-  "Action.Set": "セット",
-  "Action.Share": "共有",
-  "Action.ShowAll": "すべてを表示する",
-  "Action.ShowCollectionsRolls": "可能性があるロールを表示",
-  "Action.ShowHiddenStats": "基本ステータス値",
-  "Action.TryAgain": "再試行",
-  "Action.Unlock": "アンロック",
-  "Action.UserReady": "すぐに始める",
-  "Action.ViewHistoricalData": "データ履歴を見る",
-  "Action.ViewMore": "展開する",
-  "Activity.ActiveRotator": "今週のローテーション",
-  "Activity.ApproximateLength": "おおよその長さ",
-  "Activity.Carnage.SelectDate.Info": "ジャンプ先を下記から日付を選択する",
-  "Activity.Carnage.SelectDate.Waiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。",
-  "Activity.Cooperative": "マッチメイキング可",
-  "Activity.Fireteam.Closed": "ファイアチームはクローズしました",
-  "Activity.Fireteam.Full": "ファイアチームは満員です",
-  "Activity.Fireteam.MatchLoading": "マッチを開始しています",
-  "Activity.Fireteam.Matchmaking": "マッチメイキング",
-  "Activity.Fireteam.Open": "ファイアチームはオープンです",
-  "Activity.Fireteam.SinglePlayer": "ソロプレイでのアクティビティ",
-  "Activity.FreeForAll": "ランブル",
-  "Activity.Graphs.SelectDate": "上のグラフからアクティビティが行われた日を選択してください。",
-  "Activity.LevelAdvantagesDisabled": "レベルアドバンテージが無効です",
-  "Activity.LevelAdvantagesEnabled": "レベルアドバンテージが有効です",
-  "Activity.Matchmaking": "マッチメイキング",
-  "Activity.MaxParty": "{{number}} 名のプレイヤー",
-  "Activity.Modes.Bar.PvPLoss": "敗北",
-  "Activity.Modes.Bar.PvPWin": "勝利",
-  "Activity.Modes.Last100.PvE": "直近100件のアクティビティ",
-  "Activity.Modes.Last100.PvP": "直近100件の対戦",
-  "Activity.Modes.Lifetime": "生涯",
-  "Activity.Modes.Line.AverageKD": "平均K/D",
-  "Activity.Modes.Scatter.PvEFailure": "失敗",
-  "Activity.Modes.Scatter.PvEFlawless": "完全制覇",
-  "Activity.Modes.Scatter.PvPFlawless": "不敗",
-  "Activity.Modes.Scatter.PvPLoss": "敗北",
-  "Activity.Modes.Scatter.PvPWin": "勝利",
-  "Activity.Modes.TrialsPassage": "試練の道のり",
-  "Activity.ModifiersUnavailable": "作戦条件はありません。",
-  "Activity.NoMedalsAwarded": "メダルを取得していません",
-  "Activity.NoStatsAvailable": "ステータスはありません",
-  "Activity.PvP": "対戦プレイ",
-  "Activity.RecommendedLight": "推奨パワー",
-  "Activity.Score.Team": "チームスコア",
-  "Activity.SelectMode": "モード選択",
-  "Activity.SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
-  "Activity.SinglePlayer": "シングルプレイヤー",
-  "Activity.Standing.Defeat": "敗北",
-  "Activity.Standing.DidNotFinish": "途中離脱",
-  "Activity.Standing.Mercy": "コールドゲーム",
-  "Activity.Standing.Tie": "引き分け",
-  "Activity.Standing.Victory": "勝利",
-  "Activity.State.ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
-  "Activity.State.DownloadingReports": "レポートをダウンロードしています",
-  "Activity.State.DownloadingReportsProgressValue": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
-  "Activity.State.GenericError": "何か問題が発生しました。もう一度お試しください。",
-  "Activity.State.HydratingReportsCache": "レポートデータをお使いのデバイスからメモリにロードしています。",
-  "Activity.State.LoadingPeriod": " {{date}} をスキャン中...",
-  "Activity.State.NoBookmarks": "まだブックマークが追加されていません!\n\n _Settings_ の同期を有効にすると、ブックマークを同期することができます。",
-  "Activity.State.NoHistoryAvailable": "ファイアチームを組んで、トラベラーの敵を倒せ。",
-  "Activity.State.PeriodNotFound": "このキャラクターの活動履歴は、指定した期間では見つかりませんでした。",
-  "Activity.State.RequestHistory": "アクティビティの履歴を分析しています",
-  "Activity.State.RequestHistoryPage": "{{page}}ページ目の活動履歴を取得しています",
-  "Activity.Team.Allies": "見方チーム",
-  "Activity.Team.Alpha": "アルファ",
-  "Activity.Team.Bravo": "ブラボー",
-  "Activity.Team.Opposition": "対戦チーム",
-  "Addendums.Credits.Origins.Description": "Braytechはこれまでも、そしてこれからも、開発者がよりよいプログラムや他者との共同作業を実践し、学ぶための場所であり続けます。 最初は暇つぶしの趣味だったのが、ちょっとしたモンスターになってしまいましたが。\n\nDestinyのサードパーティ開発コミュニティというのは不思議な出会いによって生まれた現象で、筆舌に尽くしがたいものです。この現象は素晴らしい参加者たちがその価値を更に広げ今までに見た事がない所までやってきました。それらはDestinyに携わるすべての方へ提供するために活動しています。",
-  "Addendums.Privacy.Info": "長くなりましたが、Braytechはクッキーやその他のメカニズムを使ってお客様を追跡したり、広告目的でお客様をターゲットにすることはありません（つまり、Braytechは広告を出していません）。\n\nこのお知らせの趣旨についてさらにご質問がある場合は、お気軽に[Discord](https://discord.bray.tech)までお問い合わせください。",
-  "Addendums.Privacy.Policy": "1.  はじめに\n    1. すべての目的において、本プライバシーポリシーの英語版が、当文章のオリジナルであり、支配的な文書であり、理解されているものとします。本プライバシーポリシーの英語版と、その後の他の言語への翻訳との間に矛盾が生じた場合、本英語版が優先して適用されるものとします。\n    2. Braytechは、ビデオゲーム「Destiny 2」のための無料のファンメイドサービスです。このプライバシーポリシーでは、お客様のデータが本アプリケーションでどのように使用されるかを説明しています。\n    3. Braytechは常に改善されており、開発者は、プライバシー慣行の変更を反映させるために、このプライバシーポリシーを随時変更することがあります。 利用者においては、本プライバシーポリシーを定期的にご確認いただき、本プライバシーポリシーの末尾に記載されている日付に最新版がないかどうかをご確認ください。\n    4. ここでは \"developer\"とはTom Chapmanのことを指します。\n    1. 利用者が提供する情報\n        1. あなたのプラットフォーム固有のプロフィール名は、あなたのDestinyプロフィールを読み込み、表示するために使用されます。 お客様の個人情報が収集・使用されることは一切ありません。\n        2. Braytechの支援者は、オプションとして、自分のDestinyプロフィールをPatreonアカウントに関連付ける手段として、自分の電子メールアドレスを追加で提供することができます。\n    2. 開発者が自動的に収集する情報について\n        1. 提供するサービスの利用者に関するデータには、IPアドレス、地理的な位置、ブラウザの名前とバージョン、オペレーティングシステム、参照元、訪問時間、ページビュー、ウェブサイトのナビゲーションパスのほか、利用者のサービス利用時間帯、頻度、パターンに関する情報が含まれる場合があります。\n3. 個人情報の取り扱いについて\n    1. DestinyとBungieのアカウント情報\n        1. Destinyのゲーム情報を表示したり操作したりするために、BraytechはBungie.net APIを使用しています。Braytechが取得する、またはアクセスする情報は、利用者のゲーム情報（アイテム、キャラクターなど）と、Bungie.netの会員IDを含む基本的なアカウント情報、および公開されているPSN、Xbox Live、Steam、Stadia、Blizzard、Bungie.netのユーザー名など、リンクされているサービスの識別子のみです。開発者は、Bungieやゲームプラットフォームが保有する利用者の電子メール、氏名、住所、支払情報、その他の個人情報にアクセスすることはありません。\n        2. Bungie.net APIの使用は、Bungie.netの[Terms of Use](https://www.bungie.net/7/en/Legal/Terms)と[Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy)に準拠しています。\n    2. Patreon\n        1. DestinyのプロファイルをPatreonアカウントに関連付ける目的でユーザーであるあなたが提供したデータは、その目的のためにのみ使用され、Voluspaを通じて安全に保管されます。\n    3. 収集したデータの取り扱いについて\n        1. この利用データは、ウェブサイトやサービスの利用状況を分析する目的で処理されることがあります。この処理の法的根拠は、利用者の同意、または当社の正当な利益、すなわち当社のウェブサイトおよびサービスの監視と改善です。\n    4. Braytechの同期設定について\n        1. Voluspaは利用者のデータ（Braytechの設定）を保存し、Braytechのインスタンス間で同期してBraytechの機能を実現します。この情報は、お客様と開発者しかアクセスできません。\n\n 最終更新日：2021年5月19日（水)",
-  "App.BungieError": "Bungieエラー",
-  "App.ErrorBoundary.Discord": "Braytech内部で致命的なエラーが発生しました。 問題が解決しない場合、[Discord](https://discord.bray.tech) からお問い合わせください。",
-  "App.ErrorBoundary.Version": "このエラーを報告する際には、以下の文字列を引用してください。",
-  "App.FriendlyError.Description": "ザヴァラ司令官にはまだ報告しないでください...",
-  "App.FriendlyError.Name": "ご迷惑をおかけします",
-  "App.NetworkError.Description": "ネットワークエラーが発生しました。これは一時的なエラーで、リロードするか、強制的に移動することで解決する場合があります。",
-  "App.NetworkError.Name": "ネットワークエラー",
-  "App.ServiceWorkerInstalling.Description": "アプリのアップデートがバックグラウンドで実行されています。",
-  "App.ServiceWorkerReload.Description": "Braytechの新しいアップデートを利用できます。リロードを選択して、最新版のアプリをご利用ください。\n\n新機能の詳細は、インデックスビューの変更履歴をご確認ください。",
-  "App.ServiceWorkerReload.Name": "アップデートが利用可能です",
-  "App.UnknownError": "不明のエラー",
-  "App.UnsupportedBrowser.Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
-  "App.UnsupportedBrowser.Name": "非対応のブラウザー",
-  "App.Version": "バージョン",
-  "Archives.Grimoire.Description": "古くからの伝承、Destiny 1のグリモアカードは、ここにバックアップ、アーカイブされています。グリモアとはDestiny1にあるデータベースです。  ゲームをプレイすることで、\"カード\"という形でアンロックされていきます。\n\nグリモアの項目は、「ガーディアン」「インベントリ」「味方」「敵」「場所」「アクティビティ」の6つのカテゴリーに分類されています。それぞれに、いくつかのサブカテゴリーがあります。",
-  "Archives.Grimoire.Name": "グリモア",
-  "Archives.Guides.VowOfTheDisciple.Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-  "Archives.Guides.VowOfTheDisciple.Name": "🦘 Archives.Guides.VowOfTheDisciple.Name",
-  "Auth.Data.Action": "データを抹消する",
-  "Auth.Data.Description": "デバイスの認証データを削除します。必要なものではないですが、心の平安につながるかもしれません。",
-  "Auth.Data.Name": "認証データ",
-  "Auth.Error.NoAuth.Description": "ユーザーのプライバシーを保護する目的から、Braytechの一部のサービスではユーザーの許可を必要とする設計になっています。\n\nこれらのサービスを使用するには、Bungie経由でアクセスを承認してください。この承認でAPIエンドポイントと認証コードのみがサービスに利用され、個人情報が他者へ共有されることはありません。",
-  "Auth.Error.NoAuth.Name": "認証が必要です",
-  "Auth.Error.Permissions.Profile.Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
-  "Auth.Error.Permissions.Profile.Name": "うわぁぁぁぁぁぁぁ!!!!",
-  "Auth.Friends.Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。",
-  "Auth.Login": "Bungie.netでログインする",
-  "Auth.Memberships.Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
-  "Auth.Memberships.Name": "連携したアカウント",
-  "Auth.PatreonAssociation.Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
-  "Auth.PatreonAssociation.Name": "Patreon認証",
-  "Auth.PatreonAssociation.Placeholder": "chonky_zuzuvala69@hotmail.reef",
-  "Auth.PatreonAssociation.Success": "おめでとうございます! これで、メールアドレスはあなたのプロファイルに関連付けられました",
-  "Auth.PatreonAssociation.Text": "Patreonの一部のTierでは、プレイヤー名の横に _flair_ という表示報酬が含まれています。\n\nあなたのPatreonアカウントで使用するEメールを入力することで、フレアの表示を有効にします。",
-  "Auth.Suggestion.Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
-  "Auth.Suggestion.Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。",
-  "Character.Breakdown.EffectiveMods": "効果適用中のMod",
-  "Character.Breakdown.SlottedMods": "装備済みMod",
-  "Character.Breakdown.UnusedEnergy": "スロットの空き",
-  "Character.Compare.ObtainFromVendor": "{{name}}から入手する",
-  "Character.DIMSync.Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
-  "Character.DIMSync.Name": "DIMと同期する",
-  "Character.DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
-  "Character.Equipment.Armor": "防具",
-  "Character.Equipment.Auxiliary": "所持品",
-  "Character.Equipment.Breakdown": "装備詳細",
-  "Character.Equipment.Weapons": "武器",
-  "Character.Filter.ArcDamage": "アークダメージ",
-  "Character.Filter.DeepsightResonance": "共振抽出待ち",
-  "Character.Filter.Favourite": "お気に入り",
-  "Character.Filter.Garbage": "不用品",
-  "Character.Filter.KineticDamage": "キネティックダメージ",
-  "Character.Filter.Shaped": "形成した武器",
-  "Character.Filter.SolarDamage": "ソーラーダメージ",
-  "Character.Filter.StasisDamage": "ステイシスダメージ",
-  "Character.Filter.StrandDamage": "ストランドダメージ",
-  "Character.Filter.VoidDamage": "ボイドダメージ",
-  "Character.Vendors.BrightDustItems": "ブライトダストで購入できるアイテム",
-  "Character.Vendors.CrossSaveSilver": "シルバーの残高は、現在ゲームをプレイしているプラットフォームのAPIを通じて表示します。",
-  "Character.Vendors.EververseCalendar": "エバーバースのカレンダー",
-  "Character.Vendors.FeaturedBrightDustItems": "ブライトダストで買えるオファーアイテム",
-  "Character.Vendors.FeaturedSilverItems": "シルバーで買えるオファーアイテム",
-  "Character.Vendors.ShowAllItems": "すべてのアイテムを表示",
-  "Character.Vendors.ShowSilverOnlyItems": "シルバーで買える物のみ表示",
-  "Character.Vendors.SilverOnlyItems": "シルバーでだけ買えるアイテム",
-  "Clan.Administration.ViewportWidth": "管理画面は大きなディスプレイでの使用を想定しています。少なくとも横解像度`1500px`以上のディスプレイを使用してください。",
-  "Clan.BannerPerks": "バナーパーク",
-  "Clan.ClanAdministration": "管理設定",
-  "Clan.ClanBannerBuilder.BannerColor": "バナーカラー",
-  "Clan.ClanBannerBuilder.BannerDetail": "バナーディテール",
-  "Clan.ClanBannerBuilder.BannerDetailColor": "バナーディテール色",
-  "Clan.ClanBannerBuilder.BannerEmblem": "バナーエンブレム",
-  "Clan.ClanBannerBuilder.Description": "新しいクランバナーでクランメンバーと協力しましょう。さまざまなオプションを選択すると、ページのURLが即座に更新され、カスタマイズを簡単に共有できます。",
-  "Clan.ClanBannerBuilder.EmblemBackgroundColor": "エンブレムの背景色",
-  "Clan.ClanBannerBuilder.EmblemForegroundColor": "エンブレムの前景色",
-  "Clan.ClanBannerBuilder.Name": "クランバナービルダー",
-  "Clan.ClanRoster": "名簿",
-  "Clan.ClanTimetable": "タイムテーブル",
-  "Clan.Founded": "設立日 {{time}}",
-  "Clan.HistoricalStats.ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。",
-  "Clan.HistoricalStatsLoading": "履歴統計データを読み込んでいます",
-  "Clan.Members": "合計 {{number}} 人",
-  "Clan.MembersLoading": "{{name}} のデータを読み込んでいます",
-  "Clan.NoClan.Description": "クランとは、オンラインゲームを楽しむための任意の友人グループです。仲間と協力して協力プレイに挑戦したり、ソロプレイでも仲間を代表してプレイすることで、ゲーム内の特別な追加報酬を得ることができます。\n\n友達のクランに参加したり、新しい友達と出会ったり、コンパニオンアプリや[Bungie.net](https://bungie.net/)で自分のクランを作ったりしましょう。",
-  "Clan.NoClan.Name": "クラン未所属",
-  "Clan.Relationships.BestFriends": "ベストフレンド",
-  "Clan.Relationships.ClanMembers": "メンバー",
-  "Clan.Relationships.ClanMembersInActivities": "アクティビティ中のメンバー",
-  "Clan.Relationships.ClanMembersUnmet": "まだ一緒にプレイしたことが無いメンバー",
-  "Clan.Relationships.Description": "遊べなかった人や仲が良かった人を探しましょう。彼らは、あなたが最も多くの活動を共にする人たちです。お互いを大切にしましょう。\n\nこれらのガーディアンはあなたのクランメンバーであり、このランキングは新しいシーズンごとにリセットされます。",
-  "Clan.Relationships.FireteamCombinations": "ファイアチームの組み合わせ",
-  "Activity.State.LoadGroupMembers": "クラン情報とアクティビティ履歴を分析しています。",
-  "Clan.Relationships.Name": "つながり",
-  "Clan.Relationships.NoFriends": "あなたは孤独ではありません。いずれ友人を作れるでしょう...クランに友人を誘って、いくつかのアクティビティに出かけてみましょう",
-  "Clan.Relationships.NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
-  "Clan.Relationships.RomanticPartnerships": "最も仲が良いプレーヤー",
-  "Clan.Relationships.SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
-  "Clan.Relationships.UndiscoveredFriends": "フレンド候補",
-  "Clan.RewardEngrams": "報酬のエングラム",
-  "Clan.Roster.Approve": "承認する",
-  "Clan.Roster.Ban": "BANする",
-  "Clan.Roster.Demote": "降格させる",
-  "Clan.Roster.Deny": "拒否する",
-  "Clan.Roster.DisplayName": "表示名",
-  "Clan.Roster.DownloadData": "データをダウンロードする",
-  "Clan.Roster.Glory": "栄光ランク",
-  "Clan.Roster.Infamy": "悪名ランク(リセット)",
-  "Clan.Roster.Joined": "参加しました",
-  "Clan.Roster.Kick": "追放する",
-  "Clan.Roster.LastActivity": "最後のアクティビティ",
-  "Clan.Roster.LastCharacter": "最後にプレイしたキャラ",
-  "Clan.Roster.LastPlatform": "プラットフォーム",
-  "Clan.Roster.Promote": "昇格する",
-  "Clan.Roster.Rank": "ランク",
-  "Clan.Roster.Valor": "武勇ランク (リセット)",
-  "Clan.Roster.WeeklyClanXP": "週間クラン経験値",
-  "Collections.AllAcquired": "すべて入手済です",
-  "Collections.Badge": "勲章",
-  "Collections.Badge_plural": "勲章",
-  "Collections.Badges.Commonality.Description": "記章のレアリティは、Voluspaによってインデックス化されたプレーヤーの割合から表示されます。",
-  "Collections.Badges.Commonality.Name": "記章のレアリティ",
-  "Collections.Badges.Completed": "記章は完了しました",
-  "Collections.Badges.Progress": "記章の進捗",
-  "Collections.CollectedBy": "入手済",
-  "Collections.Collectible.Commonality": "収集品のレア度は、Voluspaのインデックスに登録されているプレイヤーのうち、収集したプレイヤーの割合で表されます。",
-  "Collections.CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
-  "Collections.CollectiblesUnavailable": "表示できるコレクションはありません",
-  "Collections.Grouped.Season": "シーズン毎にグループ化",
-  "Collections.Grouped.Ungroup": "グループ解除",
-  "Collections.RecentlyDiscovered": "最近の発見",
-  "Collections.SetComplete": "すべて入手済み",
-  "Collections.SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
-  "Commendations.Received": "受け取った",
-  "Commendations.ReceivedAbr": "受領",
-  "Commendations.Sent": "贈った",
-  "Commendations.SentAbr": "進呈",
-  "Common.Acknowledgements": "謝辞",
-  "Common.AcknowledgementsInfo": "このコンテンツの一部は、第三者から惜しみなく提供されています。彼らの作品を利用する際には、彼らとその努力に思いを馳せてください。",
-  "Common.Actions": "アクション",
-  "Common.Activate": "起動する",
-  "Common.Active": "アクティブ",
-  "Common.ActiveModifiers": "作戦条件",
-  "Common.ActiveScore": "アクティビティスコア",
-  "Common.Activity": "アクティビティ",
-  "Common.ActivityBonus": "アクティビティ ボーナス",
-  "Common.ActivityMembers": "活動中のメンバー",
-  "Common.Activity_plural": "アクティビティ",
-  "Common.Addendums": "補足",
-  "Common.All": "すべて",
-  "Common.Armour": "防具",
-  "Common.AscendantChallenge": "アセンダントの挑戦",
-  "Common.Authenticate": "認証",
-  "Common.Available": "入手可能",
-  "Common.AvailableActivities": "利用可能なアクティビティ",
-  "Common.Cancel": "キャンセル",
-  "Common.Challenge": "チャレンジ",
-  "Common.Challenge_plural": "チャレンジ",
-  "Common.Character": "キャラクター",
-  "Common.CharacterClass": "キャラクタークラス",
-  "Common.CharacterLight": "キャラクターの光",
-  "Common.CharacterSpecific": "Braytechの他機能と同様、このページは選択中のキャラのデータとなります。",
-  "Common.Character_plural": "キャラクター",
-  "Common.Checklists": "チェックリスト",
-  "Common.Clan": "クラン",
-  "Common.ClanMembers": "クランメンバー",
-  "Common.Classified": "機密情報",
-  "Common.Collectibles": "収集品",
-  "Common.Collections": "コレクション",
-  "Common.CollectionsScore": "コレクションスコア",
-  "Common.CommendationAbr_plural": "称賛",
-  "Common.Completed": "完了",
-  "Common.CruciblePlaylist": "クルーシブルプレイリスト",
-  "Common.DateTime": "日時",
-  "Common.Equipment": "装備",
-  "Common.Error": "エラー",
-  "Common.Event": "イベント",
-  "Common.EventNth": "1 イベント",
-  "Common.EventNth_plural": "{{count}} イベント",
-  "Common.Examples": "例",
-  "Common.Expiration": "有効期限",
-  "Common.Expired": "期限切れ",
-  "Common.Expiry": "残り時間",
-  "Common.Failure": "失敗",
-  "Common.FeaturedEvent": "注目のイベント",
-  "Common.FeaturedNightfall": "注目のナイトフォール",
-  "Common.FeaturedPlaylist": "注目のプレイリストイベント",
-  "Common.Fireteam": "ファイアチーム",
-  "Common.FireteamMembers": "ファイアチームのメンバー",
-  "Common.FireteamReserves": "参加予定",
-  "Common.FireteamSize": "ファイアチームの大きさ",
-  "Common.Friends": "フレンド",
-  "Common.GloryPoints": "栄光ポイント",
-  "Common.GuardianRank": "ガーディアンランク",
-  "Common.Guardians": "ガーディアン",
-  "Common.Help": "ヘルプ",
-  "Common.HistoricalStats": "履歴統計",
-  "Common.InfamyPoints": "悪名ポイント",
-  "Common.Inspect": "詳細",
-  "Common.Inventory": "所持品",
-  "Common.ItemRolls": "ロール",
-  "Common.Items": "アイテム",
-  "Common.LegacyScore": "レガシースコア",
-  "Common.LevelNth": "レベル{{number}}",
-  "Common.Location": "ロケーション",
-  "Common.Lore": "伝承",
-  "Common.LoreBook": "伝承の書物",
-  "Common.Map": "マップ",
-  "Common.Medals": "メダル",
-  "Common.MembersOnline": "{{number}} はオンラインです",
-  "Common.Name": "名前",
-  "Common.NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
-  "Common.NothingHereYet": "まだ何も無いようです",
-  "Common.Objectives": "達成状況",
-  "Common.Offline": "オフライン",
-  "Common.Patron_plural": "支援者",
-  "Common.Player": "プレイヤー",
-  "Common.Preview": "プレビュー",
-  "Common.Profile": "プロファイル",
-  "Common.Progress": "進捗",
-  "Common.Progression": "進捗",
-  "Common.Quests": "クエスト",
-  "Common.Rank_plural": "各ランク",
-  "Common.Record": "伝承",
-  "Common.Record_plural": "記録",
-  "Common.Reputation": "評価",
-  "Common.Reset": "リセットする",
-  "Common.Reward": "報酬",
-  "Common.Reward_plural": "報酬",
-  "Common.Savathûn'sCurse": "サバスンの呪い",
-  "Common.Score": "スコア",
-  "Common.ScoreValue": "スコア値",
-  "Common.Screenshot": "スクリーショット",
-  "Common.Search": "検索",
-  "Common.SeasonNth": "シーズン {{number}} ",
-  "Common.SeasonPass": "シーズンパス",
-  "Common.SeasonRank": "シーズンランク",
-  "Common.SeasonYearNth": "{{year}}年目、第{{season}}シーズン",
-  "Common.Season_plural": "シーズン",
-  "Common.Settings": "設定",
-  "Common.Source": "入手方法",
-  "Common.SpecialCommendationAbr_plural": "摘要",
-  "Common.SpecialCommendation_plural": "特別欄",
-  "Common.Submit": "送信",
-  "Common.Support": "支援する",
-  "Common.TimePlayed": "プレイ時間",
-  "Common.TimeRemaining": "残り時間",
-  "Common.Translator_plural": "翻訳者",
-  "Common.TrialsPassage": "試練の道のり",
-  "Common.TrialsPoints": "試練のポイント",
-  "Common.TriumphScore": "勝利の道のりのスコア",
-  "Common.Triumphs": "勝利の道のり",
-  "Common.Unknown": "不明",
-  "Common.Users": "ユーザー",
-  "Common.ValorPoints": "武勇ポイント",
-  "Common.VanguardPoints": "ヴァンガードポイント",
-  "Common.Vendor": "ベンダー",
-  "Common.Vendor_plural": "ベンダー",
-  "Common.Views": "ビュー",
-  "Common.Weapon": "武器",
-  "Common.WeekNth": "第{{number}}週",
-  "Common.Week_plural": "週",
-  "Event.FestivalOfTheLost.Description": "死に直面しても笑い、キャンディーを集め、マスクを被り、迫り来る闇に立ち向かいます。\n\nエヴァ・レヴァンテが「失われた者の祭り」の使者として戻ってきました。 この祝日は、ガーディアンたちが甘いものに舌鼓を打ち、不謹慎なマスクを被り、失った人々の思い出を祝う時です。\n\n憑りつかれし森が再び開かれ、今度はスパイダーがあなたの協力を求めています。",
-  "Event.FestivalOfTheLost.Name": "Festival of the Lost",
-  "Event.IronBanner.Description": "一週間にわたる特別なクルーシブルのイベントで、6人のチームがコントロールの対戦に挑戦する。レベルアドバンテージ有効。",
-  "Event.TheDawning.Description": " エウロパの厳しい寒さも、この特別な時期のガーディアンの温かい心を凍らせることはできない。暁旦がやってきたのだ。",
-  "Event.TheDawning.Name": "暁旦",
-  "FAQ.API.StatDiscrepancy.Description": "Destinyの統計データには複数のソースで構成されています。クランの履歴統計はHistorical Stats APIエンドポイントに基づいており、その他はプレイデータ(PGCR:Post Game Carnage Reports）と組み合わせて計算されています。どれが最も正確な真実であるか判断するのは難しいため、プレイヤーにとっては想定した結果とは異なることがありえます。\n\n Clan Historical Statsで見られるような方法で統計を表示するには、Bungieのサーバーから何テラバイトものデータをダウンロードする必要があり、かなりの計算能力が必要となります。とはいえ、実際の制度を要求する場面は不要と判定して、現状で提供している精度で切磋琢磨するためのデータとしては十分な品質だと認識しています。",
-  "FAQ.API.StatDiscrepancy.Name": "クランの活動履歴で統計データが一致しない [その他]",
-  "FAQ.Braytech.AppStore.Description": "Braytechは[Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)と[Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)でご利用いただけます! しかし残念ながら、BraytechはiPhoneアプリストアではご利用いただけません。なぜなら、Appleへの支払い額が非常に大きく運営を阻害する要素になっているためです。もしiPhoneで利用したい場合は、Safariを使ってアプリにアクセスし、シェア機能ボタンを選択して、「ホーム画面に追加」を選択します。これにより、Braytechをネイティブアプリのように操作できます。AndroidユーザーでGoogle Playを使用できない場合は、Google Chromeが利用できると同様方法で利用できます。",
-  "FAQ.Braytech.AppStore.Name": "App stores",
-  "FAQ.Braytech.Commonality.Description": "本当によくある質問で、「アイテムやレコードの右側に表示されているこのパーセントの数値は何ですか？」と聞かれます。\n\n数日に一度、 _Voluspa_ が _Braytech_ のユーザーからデータを収集し、誰が何を持っているかを記録しています。これが正確かどうか、役に立つかどうかが話題になりますが、実際のところ、本当の統計であれば、可能な限りすべてのデータを収集しなければ役に立たない、参考にならないのは分かっています。\n\nこれらの統計は、カジュアルプレイヤーに偏っていると考えてよいでしょう（モニターされているユーザーのスキルやその瞬間の状態によって、パーセンテージが低いものが、高く表示される場合があります）。\n\n利用可能な場合、これらの統計のツールチップには、「{{indexed}}」というようにカウントされるプレイヤーの総数などが表示されます。",
-  "FAQ.Braytech.Commonality.Name": "レア度",
-  "FAQ.Braytech.KeyboardShortcuts.Description": "Braytechには、キーシンボルのあるアクションバーボタンに加えて、さまざまなキーボードショートカットが隠されています。プロファイルヘッダー (キャラクターエンブレムなど)で,   を押し続けると利用可能なショートカットを見ることができます。例えば、 例えば  を長押しすると _Triumphs_ へ進みもう一度押すと  へ戻れます。",
-  "FAQ.Braytech.KeyboardShortcuts.Name": "キーボードショートカット",
-  "FAQ.Braytech.ProfilePrivacy.Description": "Destinyをプレイしている間に自分のプライバシーや、APIによってプレイ内容やアクティビティが第三者に公開されることに不安を感じる場合は、[Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)でプライバシー設定を変更することができます。プライバシーは保護されますが、Braytechを使う度にBungieで認証する必要があります。",
-  "FAQ.Braytech.ProfilePrivacy.Name": "プレイヤーデータのプライバシーについて",
-  "FAQ.Braytech.ServiceWorkerUpdate.Description": "「設定」画面で解決できることがあるので、まずはそちらをお試しください。まず、「Service Workerをアップデートする」を選択してください。失敗した場合は、「アプリをリロードする」を選択してアプリを再読み込みしてください。それでも問題が解決しない場合は、_Service Workerを破棄する_ を選択し、Discordで報告してください。",
-  "FAQ.Braytech.ServiceWorkerUpdate.Name": "Braytechが最新版にアップデートできない場合",
-  "FAQ.Braytech.Widgets.Description": "ウィジェットは現在iOS対応デバイス（iPhone、iPad）のみで利用可能です。\n\nウィジェット一覧にBraytechやBraytechウィジェットがない場合は、デバイスやアプリの再起動の他にアプリの再インストール、時間を置いてから試してみてください。\n\n 現在利用している環境の特殊条件で発生する問題やインストール方法については対応出来ないことをご容赦ください。",
-  "FAQ.Braytech.Widgets.Name": "ウィジェット",
-  "FAQ.Braytech.Widgets.Video1Caption": "ウィジェットをホーム画面に追加する方法",
-  "FAQ.Braytech.Widgets.Video2Caption": "ウィジェットをロック画面に追加する方法",
-  "FAQ.Voluspa.About.Description": "ラスプーチンのサブマインドにちなんで名付けられたVoluspaは、Braytechではサーバーサイド・コンポーネントのことを指します。 Braytechのユーザーのプロファイルを精査し、共通の統計情報や設定の同期など、重要な機能を提供しています。",
-  "FAQ.Voluspa.About.Name": "Voluspaについて",
-  "GettingStarted.Header.Description": "Braytechへようこそ! 始める前にtipsを見ることをお勧めします。\n\nフィードバックや質問があれば、Discordで質問したりFAQを参照してみてください!",
-  "GettingStarted.Header.Name": "使い方",
-  "GettingStarted.Header.SubName": "クロビス・ブレイ テクノロジーズ",
-  "GettingStarted.Tips.Search.Description": "すばやくデータにアクセスしたい? Braytechはアプリ内にどこでも使える検索HUDがあります。\n\n  キーか虫眼鏡のアイコンをタップすれば検索ができます!",
-  "GettingStarted.Tips.Search.Name": "検索",
-  "GettingStarted.Tips.Settings.Description": "Braytechには、ダークテーマからアイテムの可視化オプション、設定の同期までさまざまな設定が詰まっています。\n\n 画面上端にある _設定_ で確認しましょう",
-  "GettingStarted.Tips.Settings.Name": "設定",
-  "GettingStarted.Tips.Views.Description": "アプリのトップから****を選択すると、Braytechの全機能を一覧で確認することができます。",
-  "GettingStarted.Tips.Views.Name": "続きを見る",
-  "GuardianRank.Current": "現在のランク: {{value}}",
-  "GuardianRank.SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
-  "Item.Ammo": "弾薬",
-  "Item.AmmoType": "弾薬タイプ",
-  "Item.ArmorStats": "アーマーステータス",
-  "Item.BasicCharacteristics": "基本特性",
-  "Item.Breaker": "チャンピオン属性",
-  "Item.BreakerType": "特殊属性",
-  "Item.ClassEquipped": "{{name}} (装備中)",
-  "Item.ClassPostmaster": "{{name}} (ポストマスター)",
-  "Item.CollectionsRoll": "コレクション品のステータス",
-  "Item.Compare": "比較する",
-  "Item.CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
-  "Item.CraftingRequiredLevel": "武器レベル {{number}} が必要です",
-  "Item.CurrentlyCantRoll": "このパークは現在、この武器から出てきません。",
-  "Item.Energy": "エネルギー",
-  "Item.EnergyAffinity": "エネルギー属性",
-  "Item.EnergyCapacity": "エネルギー",
-  "Item.EnergyCost": "エネルギー",
-  "Item.EnergyMeter": "エネルギー",
-  "Item.EnergyUnused": "残りスロット",
-  "Item.Inspect": "詳細",
-  "Item.Intrinsic": "内在特性",
-  "Item.ItemAction": "アイテム操作",
-  "Item.Mods": "MOD",
-  "Item.PerkEverything": "このパークは、すべてのアクティビティで非常に人気があります。",
-  "Item.PerkPvE": "このパークは、PvEコンテンツでの利用を推奨されています。",
-  "Item.PerkPvP": "このパークは、PvPコンテンツでの利用を推奨されています。",
-  "Item.PerkRecommended": "このパークはおすすめです",
-  "Item.Perks": "パーク",
-  "Item.PowerLimit": "パワーリミット",
-  "Item.RedeemWithCode": "[https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) で、コード`{{code}}`を入力するとエンブレムが入手できます。",
-  "Item.ShapedDate": "初回形成日 {{date}}",
-  "Item.StatTotal": "合計",
-  "Item.State": "状態",
-  "Item.Stats": "統計",
-  "Item.Sunset": "引退",
-  "Item.TransferMaximumStack": "{{name}} は{{size}}の最大アイテム所持数に到達しました。スペースを開けてから再度お試しください。",
-  "Item.UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
-  "Item.WeaponKills": "武器キル数",
-  "Item.WeaponStats": "武器性能",
-  "Landing.Blog.AllPosts": "すべての記事",
-  "Landing.Blog.Error": "ブログ記事の読み込みができませんでした。",
-  "Landing.Blog.Name": "Blog",
-  "Landing.CallToAction.Text": "Breytechで世界を探索し、暗黒の力との対決に必要な装備と見落としていたことを探し出しましょう",
-  "Landing.Featured.ThisWeek": "今週のDestiny2",
-  "Landing.Features.Description": "Braytechは情熱を持って取り組んでいるプロジェクトです。その開発は2年以上に渡って続けられており、何度も追加や改良が行われてきました。 開発者であるTom ChapmanはDestinyのデザインのファンであり、それがBraytechの美的感覚に強く反映されています。\n\nBraytechは、チェックリストアプリとしてスタートしましたが、今では多くの機能を持った存在になりました。常に洗練され、拡張されています。\n\n素早く探し物をしたい?  ボタンを押して検索ワードを入力してください。 Braytechは検索HUDがあり、アプリ内のどこでも利用できます。\n\nBraytechは、デスクトップユーザーへのアプリとして開発が始まりましたが、美しいモバイルアプリとしても機能します。実際、[Android用アプリ](https://play.google.com/store/apps/details?id=braytech.org.twa)もGoogle Playから入手できます",
-  "Landing.Features.Name": "Talented",
-  "Landing.Support.Description": "Destinyの世界観を尊重したインターフェイスを構築し、BungieのAPIを利用するには絶え間ない努力と開発時間が必要です。オンラインを維持するのにもお金がかかるこの取り組みに、すべて差し出したとしても個人の限界があります。私はウェブサイト上の広告には反対の立場をとっています。そのため、これらのプロジェクトを維持するため、コミュニティに参加されている皆さんの寛大さに頼りたいと思っています。\n\nみなさんの支援を、このプロジェクトをオンラインで維持し、クールな新機能を追加し続けることに使いたいと思います。",
-  "Landing.Support.Name": "Braytechを支援する",
-  "Landing.Updates.Name": "アップデート情報",
-  "Language.Space.MetresAbr_plural": "{{count}} メートル",
-  "Language.Time.Frequency.Daily": "デイリー",
-  "Language.Time.Frequency.Weekly": "ウイークリー",
-  "Language.Time.Relative.Future": "{{duration}} 後",
-  "Language.Time.Relative.Past": "{{duration}} 前",
-  "Leaderboards.ActiveScore": "アクティブな勝利の道のりスコア",
-  "Leaderboards.CollectionsScore": "コレクションスコア",
-  "Leaderboards.LegacyScore": "レガシースコア",
-  "Leaderboards.Rank": "ランク",
-  "Leaderboards.TriumphScore": "勝利の道のりスコア",
-  "Legend.Activity.Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
-  "Legend.Activity.Name": "最初の復活",
-  "Legend.Commonality.Description": "勝利し、報酬を掴め\n\n地球とその向こうの世界には、トラベラーがもたらした素晴らしくも奇想天外な神話の宝物が存在する。\n\n 追跡することに喜びがある。",
-  "Legend.Commonality.Name": "レアな宝物とエキゾチックなスタイル",
-  "Legend.Empty": "Empty",
-  "Legend.Fishing.Description": "今日のフィッシング\n\n釣り竿をキャストし、水槽を豪華にして、仲間と釣果を競争しよう。",
-  "Legend.Fishing.LargestFish": "最も大きな釣果",
-  "Legend.Fishing.Name": "競技フィッシング",
-  "Legend.Fishing.TypesCaught": "釣った種類",
-  "Legend.Ranks.Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
-  "Legend.Ranks.Guardian.Description": "光と仲間から評価されるように備えろ。",
-  "Legend.Ranks.Guardian.Name": "ガーディアン",
-  "Legend.Ranks.Name": "ガーディアンの地位",
-  "Legend.Seals.Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
-  "Loading.BungieError.Description": "今回、重要なAPIデータを読み込むことができませんでした。これは断続的に起こりうる問題です。しばらく待ってもこのエラーが続く場合は、Bungie API がより広い範囲で停止しているか、プレイ環境のローカルネットワークが Bungie API リクエストを制限している可能性があります。",
-  "Loading.BungieError.Name": "Bungie側でエラーが発生しているようです",
-  "Loading.Error.Description": "非常に予期せず回復不能なことが発生しました。",
-  "Loading.IndexedDBError.Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\n 再度このエラーが発生する場合は、お使いのブラウザや端末との相性が悪いか、設定が適切でない可能性があります。",
-  "Loading.IndexedDBErrorFatal.Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\nアプリをリロードして、もう一度試してください。",
-  "Loading.IndexedDBOpenFailedError.Description": "ブラウザのストレージにアクセスしようとして、何か問題が発生しました。\n\nブラウザによっては、プライベートモードでの閲覧時に _Indexed DB_ へのアクセスを禁止している場合がありますので、アプリを再読み込みしてもう一度試してください。",
-  "Loading.MaintenanceError.Description": "Bungie APIは現在メンテナンスのため停止中です。\n\n詳細については、Twitterの@BungieHelpをご覧ください。",
-  "Loading.MaintenanceError.Name": "Bungieメンテナンス",
-  "Loading.ManifestDownloadError.Description": "Bungieからのアイテムマニフェストのダウンロード時に問題が発生しました。\n\nアプリを再起動して、もう一度お試しください。",
-  "Loading.ManifestDownloadError.Name": "マニフェストのダウンロードに失敗しました",
-  "Loading.ManifestError.Description": "Bungieからのアイテムマニフェストのアップデート時に問題が発生しました。\n\nアプリを再起動して、もう一度お試しください。",
-  "Loading.ManifestError.Name": "マニフェストエラー",
-  "Loading.NoInternetError.Description": "オフラインになっていませんか?もしくはブラウザがオフラインになっていますか...?",
-  "Loading.SettingsFetchError.Description": "Bungie から API 構成を取得しようとして何か問題が発生しました。\n\nもう一度アプリをリロードしてみてください。",
-  "Loading.SettingsFetchError.Name": "設定が失敗しました。",
-  "Loading.Status.DownloadingManifest": "Bungieからデータをダウンロード中",
-  "Loading.Status.FatalError": "致命的なエラー",
-  "Loading.Status.NoInternetError": "インターネットに接続できません",
-  "Loading.Status.Other": "Windows 95を起動している",
-  "Loading.Status.ReadStoredPGCR": "保存しているcarnage reports(プレイログ)をロードしました。",
-  "Loading.Status.SettingsFetch": "Bungie.netへ接続中",
-  "Loading.Status.StoreManifest": "マニフェストデータをダウンロードしています",
-  "Loading.WaitingForBungie": "Bungieからの応答を待っています",
-  "Maps.Context.ChecklistsAndMore": "チェックリストとその他",
-  "Maps.Context.NoChecklistItems": "アイテムは検出されませんでした",
-  "Maps.Inspect.Instructions": "使い方",
-  "Maps.Inspect.ProposeChanges.Form.Description.Name": "説明",
-  "Maps.Inspect.ProposeChanges.Form.Issues.Name": "問題",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Name": "スクリーンショット",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Select": "スクリーンショットを選択する",
-  "Maps.Inspect.ProposeChanges.Form.Video.Name": "名前",
-  "Maps.Inspect.ProposeChanges.Name": "目的変更",
-  "Maps.Inspect.RelatedVideo": "このノードに関連した動画があります",
-  "Maps.Inspect.RelatedVideoAction": "動画ファイルを開く",
-  "Maps.Inspect.Vendor.NoSales": "在庫切れになったばかりのようです。",
-  "Maps.Nodes.Unavailable": "利用不可",
-  "Maps.Nodes.UnavailableInGame": "利用不可: このノードはゲーム内で利用できなくなりました。",
-  "Maps.Nodes.UnavailableUnreliableApi": "利用不可: 何かの理由で、このノードが信頼性のあるステータスを中継できない状態です。",
-  "Maps.ProposeChanges.Description": "他のガーディアンの助けになるよう、 maps ノードデータの変更提案をお願いします。",
-  "Maps.ProposeChanges.Form.Description.Placeholder": "例：最後の部屋の奥にある、岩のそば",
-  "Maps.ProposeChanges.Form.Issues.Placeholder": "例：そのノードにはアクセスできなくなった",
-  "Maps.ProposeChanges.Form.Screenshots.Description": "スクリーンショットを参考資料として提案する場合、有用性の観点から厳しい品質基準を満たす必要があります。:\n- 解像度が1920x1080の場合はHUD、他のガーディアンや自身の装備の映り込み、敵も表示していない状態が求められます。最大のビデオクオリティにして、レンダー解像度は200%で撮影したものをお送りください。",
-  "Maps.ScreenshotUnavailable": "スクリーンショットが利用できません",
-  "Maps.Surveyor.Capture": "位置をキャプチャする",
-  "Maps.Surveyor.CopyDefinitions": "定義を複製",
-  "Maps.Surveyor.CopyNodes": "ノードを複製",
-  "Maps.Surveyor.NoNodes": "はじめにマップ内座標を確定してください",
-  "Maps.Within.Activity": "アクティビティ中に発見",
-  "Maps.Within.ActivityName": "アクティビティ中に発見: {{string}}",
-  "Maps.Within.AscendantChallenge": "アセンダントの挑戦中に発見: {{string}}",
-  "Maps.Within.LostSector": "失われたセクターで発見: {{string}}",
-  "Maps.Within.Story": "ストーリー中に発見: {{string}}",
-  "Maps.Within.Strike": "ストライク中に発見: {{string}}",
-  "MemberLink.Error.Network.Description": "ネットワークエラーが発生しました。これは一時的なエラーであり、ダイアログを閉じてから再試行することで解決できるかもしれません。",
-  "MemberLink.Error.Network.Name": "ネットワークエラー",
-  "MemberLink.Error.PrivateProgression.Description": "このプロフィールの進捗データは利用できません。Bungie.netでプロフィールが非公開に設定されている可能性があります。彼らは決してあなたをブロックしているわけではありません。",
-  "MemberLink.Error.PrivateProgression.Name": "非公開のプロファイル",
-  "MemberService.Inactive.Description": "操作を行わなかったため、プロフィールデータのバックグラウンド更新が一時停止されました。\n\nアプリを再操作すれば、更新が再開されます。",
-  "Notifications.NthMore": "と {{number}} 件以上あります。",
-  "Notifications.NthRemaining": "他 {{number}} 件のお知らせ",
-  "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを取得しないと、アイテムは永久に失われます！",
-  "Notifications.PostmasterCapacityWarning.DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
-  "Notifications.PostmasterCapacityWarning.Name": "注意！",
-  "Notifications.PushNotifications.Description": "おそらく外出中の誤操作などで、Voluspaのプッシュ通知を送る権限を取り消してしまったと思われます。\n\n プッシュ通知を有効にしたい場合は、設定を確認してください。",
-  "Notifications.PushNotifications.Name": "プッシュ通知",
-  "ProfileSearch.ActiveProfile": "アクティブプロファイル",
-  "ProfileSearch.BungieNetProfile": "Bungie.netに登録されているプロファイル",
-  "ProfileSearch.ChangeProfile": "プロファイルを変更",
-  "ProfileSearch.CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
-  "ProfileSearch.Error.Banned.Botting": "非アクティブ検知対策（自動操作Bot使用の疑い）を回避する仕組みが確認されました。",
-  "ProfileSearch.Error.Banned.Dickhead": "あなたに対し、とても失望しました",
-  "ProfileSearch.Error.Banned.Hacking": "外部ツールを使ってゲーム内ルールを改竄しているのが確認されました（ハッキング）",
-  "ProfileSearch.Error.Banned.Teabagging": "他プレイヤーに対し、友好関係を妨害する行動をとっているのが観察されました。",
-  "ProfileSearch.Error.CharacterMissing.Description": "選ぼうとしたキャラクターが利用できません--もしかしたら削除してませんか?",
-  "ProfileSearch.Error.CharacterMissing.Name": "キャラクターが利用できません",
-  "ProfileSearch.Error.MemberBanned.Description": "選択されたDestinyプロファイルは、このアプリでは禁止されています。アプリエラーではありません。",
-  "ProfileSearch.Error.MemberBanned.Name": "プロファイルがBANされてます",
-  "ProfileSearch.Error.PrivateProgression.Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
-  "ProfileSearch.Error.PrivateProgression.Name": "プライベートプロファイル",
-  "ProfileSearch.GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
-  "ProfileSearch.NewLight": "新たな光",
-  "ProfileSearch.NoProfilesFound": "プロファイルはありません",
-  "ProfileSearch.PreviousSearches": "前の検索",
-  "ProfileSearch.ReturnToAuthMembership": "{{displayName}} へ戻る",
-  "ProfileSearch.SavedProfile": "保存したプロファイル",
-  "ProfileSearch.SearchForPlayer": "プレイヤーを検索する",
-  "ProfileSearch.SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
-  "ProfileSearch.SelectACharacter": "キャラクターを選択する",
-  "ProfileSearch.TemporaryError": "一時的にBungieでエラーが発生しています。",
-  "Progression.Points": "ポイント",
-  "Progression.PointsNextRank": "次ランクまでのポイント",
-  "Progression.PointsTotal": "合計ポイント",
-  "Progression.PrestigeNth": "威光 {{number}}",
-  "Progression.Rank": "ランク",
-  "Progression.RankNth": "ランク {{number}}",
-  "Progression.ResetVendor": "ランクをリセットするためベンダーまで戻ってください。",
-  "Progression.Streak": "連続勝利",
-  "Progression.Title": "タイトル",
-  "Progression.TrialsPassage.Flawless": "完全勝利",
-  "Progression.TrialsPassage.FlawlessPassage": "不敗の軌跡",
-  "Progression.TrialsPassage.WeeklyTimesFlawless": "今週の不敗",
-  "Progression.TrialsPassage.Wins": "勝利",
-  "Quests.Details.RelatedMapMode": "このクエストの過程には、スキャン可能なアーティファクトやロケーションなど、関連するマップノードがあります。",
-  "Quests.Details.Steps": "過程",
-  "Quests.Info.InventoryCapacity": "空きスロット/請け負ったクエストとバウンティの合計",
-  "Quests.Info.NoBounties": "バウンティを引き受けるとここに表示されます。",
-  "Quests.Info.NoQuests": "クエストを引き受けるとここに表示されます。",
-  "Search.Error.MissingDefinitions": "インデックスに定義がないため、マニフェストデータの検索に失敗しました。",
-  "Search.Examples.Description": "description:クロビスブレイ",
-  "Search.Examples.Expiration": "expiration:熾天使",
-  "Search.Examples.Name": "name:mida",
-  "Search.Examples.Source": "source:leveling",
-  "Search.Examples.Type": "type:スカウトライフル",
-  "Search.Placeholder": "検索したい名前や説明(日本語)を入力してください",
-  "Search.Results.MatchesAllHidden": "見つかりましたが、どうやら表示しないように設定しているようです。",
-  "Search.Results.MatchesAllHidden_plural": " {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
-  "Search.Results.NoMatches": "検索しましたが見つかりませんでした",
-  "Search.Results.Top10": "トップの検索結果10件を表示します。すべての検索結果を見たい場合は  キーを押して検索モードをご利用ください",
-  "Search.ShortcutKey": "いつでも  キーを押して検索できます",
-  "Search.Suggestions": "検索では、接頭語を入力するとフィルタとして利用できます。また、マニフェスト識別子でも検索できます。例えば、ゲーム内で最高の武器の一つ、 `564802913` で検索すると名前、ソース、および説明の順番で結果が優先されます。",
-  "Search.VanguardArchives": "バンガードのアーカイブへようこそ",
-  "SeasonPass.ProgressPassLevel": "シーズンランク進行状況",
-  "SeasonPass.ProgressPowerBonus": "パワーボーナス進行状況",
-  "SeasonPass.SeasonProgress": "シーズン経過日数",
-  "SeasonPass.SeasonProgressDays": "日経過",
-  "Settings.Category.Advanced.Name": "詳細設定",
-  "Settings.Category.Common.Name": "共通設定",
-  "Settings.Category.PushNotifications.Name": "プッシュ通知",
-  "Settings.DIMSync.Action.Disable.Description": "同期を無効にし、保存されているDIM Syncの認証トークンを削除します。",
-  "Settings.DIMSync.Action.Enable.Description": "同期を有効にして、Bungie.net の認証トークンを DIM同期トークンと交換します。",
-  "Settings.DIMSync.Info": "DIMのロードアウトと設定を同期します。",
-  "Settings.Developer.ExperimentalFeatures.Description": "まだ開発途中や、改良、品質チェックされていない可能性のある機能の使用する。",
-  "Settings.Developer.ExperimentalFeatures.Name": "実験的な機能を有効にする",
-  "Settings.Developer.Maps.Debug.Description": "マップデバッグ設定を有効にします。",
-  "Settings.Developer.Maps.Debug.Name": "マップデバッグモード",
-  "Settings.Developer.Maps.LogDetails.Description": "マウスオーバーされているノードの詳細をConsole.logに表示します。",
-  "Settings.Developer.Maps.LogDetails.Name": "ノードの内容をlogに表示",
-  "Settings.Developer.Maps.Surveyor.Description": "マップノード情報を簡単かつ迅速に収集できる追加のマップコントロール機能です。",
-  "Settings.Developer.Maps.Surveyor.Name": "測量機能を使う",
-  "Settings.IDB.ClearCache.Description": "マップ画像などのキャッシュされたデータをクリアします。 これらのデータは、必要に応じてダウンロードされます。",
-  "Settings.IDB.ClearCache.Name": "キャッシュを消去する",
-  "Settings.IDB.ClearManifest.Description": "このデバイスに保存されているDestinyのマニフェストデータを削除します。Braytechが機能するにはマニフェストが必要で、次回アプリを起動したときに再度ダウンロードされます。",
-  "Settings.IDB.ClearManifest.Name": "マニフェストデータを消去する",
-  "Settings.IDB.ClearReports.Description": "このデバイスに保存されているゲーム後のcarnage reports(プレイログ)をすべて削除します。",
-  "Settings.IDB.ClearReports.Name": "レポートデータを消去する",
-  "Settings.IDB.Usage.Description": "ストレージはDestinyのマニフェストデータと、ゲーム後のcarnage reports(プレイログ)をキャッシュしています。",
-  "Settings.IDB.Usage.Name": "データ使用容量",
-  "Settings.Interface.AlternateAppIcon.Info": "アプリのアイコンを変更する",
-  "Settings.Interface.Bindings.Info": "ボタンの外観を機種に合わせ変更します。これは現在、視覚のみの効果です。",
-  "Settings.Interface.FlipSubviewNav.Info": "モバイルデバイス向けで、利き手が違う人のためにデザインを変更します",
-  "Settings.Interface.FlipSubviewNav.Left": "左手モード",
-  "Settings.Interface.FlipSubviewNav.Right": "右手モード",
-  "Settings.Interface.ItemSize.Info": "所持品アイコンの大きさを変更する。",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Description": "コレクションアイテムを回収したら、コレクションのページで非表示にします。",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Name": "回収したアイテムを表示させない",
-  "Settings.ItemVisibility.HideCompletedRecords.Description": "完了した実績を、勝利の道のりのページ内で非表示にします。",
-  "Settings.ItemVisibility.HideCompletedRecords.Name": "完了した勝利の道のりを表示しない",
-  "Settings.ItemVisibility.HideDudRecords.Description": "不良（空または未使用）の記録を表示しないようにします",
-  "Settings.ItemVisibility.HideDudRecords.Name": "不良な勝利の道のりを表示させない",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Description": "ゲーム内で秘密のコレクションのアイテムをコレクションのページで非表示になります。",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Name": "秘密のコレクションのアイテムを表示しない",
-  "Settings.ItemVisibility.HideInvisibleRecords.Description": "勝利の道のりでシークレット扱いの物は、ネタバレしないように隠して表示します",
-  "Settings.ItemVisibility.HideInvisibleRecords.Name": "秘密の勝利の道のりを表示させない",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Description": "取得できない記録を非表示にします。",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Name": "入手不可能な勝利の道のりを非表示",
-  "Settings.LS.ResetEverything.Description": "ユーザー設定、保存データ、履歴などをすべてリセットします。",
-  "Settings.LS.ResetEverything.Name": "すべてをリセットする",
-  "Settings.LS.ResetNotifications.Description": "却下された通知をデフォルトの状態にリセットします。",
-  "Settings.LS.ResetNotifications.Name": "通知をリセット",
-  "Settings.LS.ResetProfileHistory.Description": "以前読み込まれたメンバープロファイルの保存リストを削除します（キャラクター選択）。",
-  "Settings.LS.ResetProfileHistory.Name": "プロファイル履歴をリセット",
-  "Settings.LS.ResetTips.Description": "ヒントをデフォルトの状態に戻します。",
-  "Settings.LS.ResetTips.Name": "ヒントをリセット",
-  "Settings.LS.ResetTrackedTriumphs.Description": "ユーザーが設定したすべての勝利の道のりの追跡を解除します。ゲーム内での状態には影響しません。",
-  "Settings.LS.ResetTrackedTriumphs.Name": "勝利の道のりをリセット",
-  "Settings.Language.Colloquial.Description": "公式テキストの代わりに、ユーザー投稿のスラングで表示する。",
-  "Settings.Language.Colloquial.Name": "口語体を使う",
-  "Settings.Maps.Checklists.Info": "チェックリストの表示/非表示を切り替えられます。見やすい状態を保ちましょう。",
-  "Settings.Maps.Developer.Info": "Maps の開発作業を支援するツールです。",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Description": "ノードを発見した場合、選択しない限りマップから省略する。",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Name": "発見済みのノードを隠す",
-  "Settings.Maps.ItemVisibility.HidePatrols.Description": "パトロールビーコンすべてを隠す",
-  "Settings.Maps.ItemVisibility.HidePatrols.Name": "パトロールを隠す",
-  "Settings.Maps.Visual.Atmosphere.Description": "雲などの天候レイヤーを表示します",
-  "Settings.Maps.Visual.Atmosphere.Name": "天候レイヤー",
-  "Settings.Maps.VisualFidelity.Info": "視覚的な装飾の数を変える",
-  "Settings.Profile.Info": "Braytechは、多くのプレイヤーのプロファイルを一度に見ることができますが、[プレイヤーを検索する](/profile-search)では最後に検索したプロフィールを記憶しています。",
-  "Settings.Profile.NoProfileSelected": "プロファイルを選択",
-  "Settings.PushNotifications.BraveBrowser": "おや、Braveブラウザを使っているようですね。 Braveの設定で \"プッシュ通知でGoogleサービスを利用する\" を有効にしているか確認してください。",
-  "Settings.PushNotifications.Condition.AnyActivity": "すべてのアクティビティ",
-  "Settings.PushNotifications.Condition.AnyMod": "すべてのMod",
-  "Settings.PushNotifications.Condition.AnyReward": "すべての報酬",
-  "Settings.PushNotifications.Condition.AnySale": "すべてのセール",
-  "Settings.PushNotifications.Condition.AnyShader": "すべてのシェーダー",
-  "Settings.PushNotifications.Condition.Multiple": "複数",
-  "Settings.PushNotifications.Condition.Uncollected": "未入手",
-  "Settings.PushNotifications.Conditions": "条件",
-  "Settings.PushNotifications.Configure": "プッシュ通知を設定する",
-  "Settings.PushNotifications.Event": "イベント",
-  "Settings.PushNotifications.Frequency": "頻度",
-  "Settings.PushNotifications.Incompatible": "このブラウザではプッシュ通知が利用できません",
-  "Settings.PushNotifications.Info": "プッシュ通知は、ブラウザやOSのAPIを利用して、アプリを使っていないときでも通知を確認できる機能です。\n\n Braytechの通知を利用する場合は、ユーザーでメッセージの種類、タイミングなどを設定できます。",
-  "Settings.PushNotifications.NoServiceWorker": "サービスワーカーがインストールされていません。Braytechのページをリロードしてみてください。",
-  "Settings.PushNotifications.PermissionDenied": "お使いのブラウザは、通知機能を無効にしています。続行するには、手動で通知を有効にするか、ブラウザの設定をリセットする必要があります。",
-  "Settings.PushNotifications.PreviewNotifications.Description": "通知をすぐに開始する。",
-  "Settings.PushNotifications.PreviewNotifications.Name": "プレビュー通知",
-  "Settings.PushNotifications.ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
-  "Settings.PushNotifications.Users": "ユーザー",
-  "Settings.ReloadRequired.Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
-  "Settings.ReloadRequired.Name": "リロードが必要です",
-  "Settings.Reports.Info": " 一度ダウンロードしたレポートは、デバイスのストレージに保存され、アプリの起動準備ができたらすぐにアクセスできます。すべてのレポートは、最初に閲覧されたメンバーに関連付けられています。ここでは、メンバーごとにレポートを消去することができます。多くのレポートをダウンロードした場合、最初のロード時間を短縮するために、この機能を使用することができます。",
-  "Settings.Reports.NoReports": "このデバイスにレポートデータがありません。",
-  "Settings.Reports.ReportsCount": "カウント",
-  "Settings.Reports.ReportsMember": "メンバー",
-  "Settings.Search.HideFeatureSuggestions.Description": "落ち着いて。自分でできるから。",
-  "Settings.Search.HideFeatureSuggestions.Name": "機能の提案を隠す",
-  "Settings.Search.ItemVisibilityOverride.Description": "この設定は勝利の道のりとコレクションで設定した非表示設定を無効にして、検索結果に表示させる機能です。",
-  "Settings.Search.ItemVisibilityOverride.Name": "入手済または達成済を表示",
-  "Settings.SubCategory.Authentication": "認証",
-  "Settings.SubCategory.DIMSync": "DIM Sync",
-  "Settings.SubCategory.Developer": "開発者",
-  "Settings.SubCategory.IDB": "データベース容量",
-  "Settings.SubCategory.Interface.AlternateAppIcon": "アプリのアイコン",
-  "Settings.SubCategory.Interface.Bindings": "キー入力表示設定",
-  "Settings.SubCategory.Interface.FlipSubviewNav": "サブ画面のナビを反転させる",
-  "Settings.SubCategory.Interface.ItemSize": "所持品のアイテムサイズ",
-  "Settings.SubCategory.ItemVisibility": "アイテム表示",
-  "Settings.SubCategory.LS": "ローカルデータ",
-  "Settings.SubCategory.Language": "言語",
-  "Settings.SubCategory.Reports": "ストレージ利用状況",
-  "Settings.SubCategory.SavedProfile": "保存したプロファイル",
-  "Settings.SubCategory.Search": "検索",
-  "Settings.SubCategory.Synchronisation": "データ同期",
-  "Settings.SubCategory.System": "システム",
-  "Settings.SubCategory.Theme": "テーマ",
-  "Settings.SubCategory.Troubleshooting": "トラブルシューティング",
-  "Settings.SubCategory.VisualFidelity": "表示設定",
-  "Settings.Sync.Action.DeleteSyncedSettings.Description": "同期を無効にして、Voluspaに保存されている設定を削除します。",
-  "Settings.Sync.Action.DeleteSyncedSettings.Name": "同期させたデータを消去する",
-  "Settings.Sync.Action.DownloadSyncedSettings.Description": "同期していたデータをダウンロードして、現在の設定に変更します。",
-  "Settings.Sync.Action.DownloadSyncedSettings.Name": "同期しているデータをダウンロードする",
-  "Settings.Sync.Action.Enable.Description": "定期的にデータとVoluspaと同期させる。",
-  "Settings.Sync.Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
-  "Settings.Sync.RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
-  "Settings.Sync.State.Merged": "最終マージ {{duration}} 前",
-  "Settings.Sync.State.Synced": "最終同期 {{duration}} 前",
-  "Settings.System.PromptForMinorVersions.Description": "マイナーバージョンでもアップデートがあったら通知する",
-  "Settings.System.PromptForMinorVersions.Name": "マイナーアップデート",
-  "Settings.System.ReloadAppAutomatically.Description": "Braytechのアップデートの準備ができたら、強制的にアプリをリロードする.",
-  "Settings.System.ReloadAppAutomatically.Name": "アプリを自動的にリロードする",
-  "Settings.Theme.Black.Name": "ブラック",
-  "Settings.Theme.Dark.Name": "ダーク",
-  "Settings.Theme.Light.Name": "ライト",
-  "Settings.Theme.SystemPreference.Name": "システムに合わせる",
-  "Settings.Theme.SystemPreference.Name.Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします",
-  "Settings.Troubleshooting.DumpServiceWorker.Description": "インストールされているService Workerの登録を解除します。成功した場合、アプリを再起動すると、新しいService Workerが代わりに使用できます。",
-  "Settings.Troubleshooting.DumpServiceWorker.Name": "Service Workerを破棄する",
-  "Settings.Troubleshooting.UpdateServiceWorker.Description": "サービスワーカーの即時更新を試みます。この機能はボタンを一時的に無効にします。バックグラウンドでアップデートを試みている間も、Braytechを使い続けることができます。成功すると、アプリを再起動するように促されます。",
-  "Settings.Troubleshooting.UpdateServiceWorker.Name": "Service Workerをアップデートする",
-  "Settings.VisualFidelity.Gay.Description": "オッスお願いしまーす! Braytech®限定でお届けする限定エディションの技術でライティングするってはっきりわかんだね。",
-  "Settings.VisualFidelity.Gay.Name": "あっ…（察し）✨",
-  "Settings.VisualFidelity.ReducedMotion.Description": "様々なアニメーションを無効にすることで、ユーザーインターフェースの動きを抑えることができます。CPU使用率を低減します。",
-  "Settings.VisualFidelity.ReducedMotion.Name": "モーションを抑制する",
-  "SyncService.Delete.Failure.Description": "設定を削除することができませんでした。これは一時的な障害です。",
-  "SyncService.Delete.Success.Description": "設定が削除されました。同期が無効になりました。",
-  "SyncService.Merge.Failure.Description": "設定をマージしようとしたところ、エラーが発生しました。これは一時的な障害です。",
-  "SyncService.Merge.Success.Description": "設定をマージしました。",
-  "SyncService.Sync.Failure.Description": "設定を同期しようとしたところ、エラーが発生しました。これは一時的な障害です。",
-  "SyncService.Sync.Success.Description": "設定を同期しました",
-  "Tooltip.Actions.Acquire": "取得する",
-  "Tooltip.Actions.Compare": "比較する",
-  "Tooltip.Actions.Equip": "装備",
-  "Tooltip.Actions.Favourite": "お気に入り",
-  "Tooltip.Actions.Garbage": "不用品",
-  "Tooltip.Actions.Inspect": "分析",
-  "Tooltip.Actions.Lock": "ロックする",
-  "Tooltip.Actions.NotGarbage": "不用品から戻す",
-  "Tooltip.Actions.Select": "選択",
-  "Tooltip.Actions.Store": "保管",
-  "Tooltip.Actions.Unfavourite": "お気に入りから外す",
-  "Tooltip.Actions.Unlock": "ロックを外す",
-  "Tooltip.Actions.Vault": "保管庫へ送る",
-  "Tooltip.Item.ExpiresIn": "{{duration}}後に無効になります.",
-  "Tooltip.Item.NoDescription": "説明文がありません。",
-  "Tooltip.Item.Quantity": "数量",
-  "Tooltip.Item.QuantityMax": "最大",
-  "Tooltip.Items.StatTotal": "合計",
-  "Tooltip.Maps.Availability": "入手可能: {{period}} ごと",
-  "Tooltip.Maps.UntrackableChecklistItem": "追跡不可能なチェックリスト",
-  "Triumphs.AllCompleted": "すべて達成済",
-  "Triumphs.AlmostComplete.NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
-  "Triumphs.AlmostComplete.SeeNext": "次の{{number}}件を見る",
-  "Triumphs.AlmostCompleteTriumphs": "もうすぐ完成",
-  "Triumphs.Classified.Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
-  "Triumphs.Classified.Name": "機密の記録",
-  "Triumphs.Details.Completed": "達成済",
-  "Triumphs.Details.FireteamLoading": "ファイアチームのメンバー情報を読み込んでいます",
-  "Triumphs.Details.NoClanOrFireteam": "ファイアチームやクランに参加して、仲間のガーディアンの実力を確認してみましょう!",
-  "Triumphs.Details.NotCompleted": "未達成",
-  "Triumphs.Details.OpenView": "詳細を見る",
-  "Triumphs.DudTriumphs": "工事中",
-  "Triumphs.EventCard": "イベントカード",
-  "Triumphs.LegacySeal_plural": "過去の印",
-  "Triumphs.LegacyTriumph_plural": "過去の勝利の道のり",
-  "Triumphs.LegacyTriumphs.Description": "過去の勝利の道のりは現在では挑戦できませんが、後世に残すためにここに保存されています。",
-  "Triumphs.Lore.SelectEntry": "読みたい伝承を選択してください",
-  "Triumphs.Record.Commonality.Description": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。",
-  "Triumphs.Record.Expiration.Description": "この項目は、期限が切れると入手できなくなる可能性があります。",
-  "Triumphs.Record.Expires": "シーズン{{season}}終了時に期限切れとなります。",
-  "Triumphs.Record.IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
-  "Triumphs.Record.Score.Description": "このレコードの勝利スコアは有限です。",
-  "Triumphs.Record.ScoreInterval.Description": "合計レコード値に対する次に獲得するスコア値",
-  "Triumphs.RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
-  "Triumphs.RecordsUnavailable": "表示できる未完了の挑戦はありません",
-  "Triumphs.Seal": "印",
-  "Triumphs.SealTitleSeasonSuffix": "{{title}} (シーズン {{season}})",
-  "Triumphs.Seal_plural": "印",
-  "Triumphs.Seals.AvailableTitle": "入手可能なタイトル: **{{title}}**",
-  "Triumphs.Seals.Commonality.Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
-  "Triumphs.Seals.Commonality.Name": "印のレアリティ",
-  "Triumphs.Seals.CommonalityGilded.Description": "Voluspaのインデックスに登録されているプレイヤーのうち、このタイトルを取得した人の割合。",
-  "Triumphs.Seals.CommonalityGilded.Name": "勝利の道のりの印のレア度",
-  "Triumphs.Seals.PlayerTitle": "プレイヤータイトル: **{{title}}**",
-  "Triumphs.Seals.SealCompleted": "終了した印",
-  "Triumphs.Seals.SealGilded": "勝利の道のりの印",
-  "Triumphs.Seals.SealGildedProgress": "勝利の道のりの印の進行状況",
-  "Triumphs.Seals.SealProgress": "印の進捗",
-  "Triumphs.Secret.Description": "まだ解き明かされていない謎",
-  "Triumphs.Secret.Name": "秘密の勝利の道のり",
-  "Triumphs.Sorted.Completion": "完了順に並び替え",
-  "Triumphs.Sorted.Name": "**名前順**で並び替え",
-  "Triumphs.Sorted.Rarity": "レア度順に並び替え",
-  "Triumphs.Sorted.Score": "スコア順に並び替え",
-  "Triumphs.Sorted.Unsorted": "Bungie指定の順に並び替え",
-  "Triumphs.Tracked.NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
-  "Triumphs.Tracked.SeeAll": "すべての追跡を見る",
-  "Triumphs.TrackedTriumphs": "追跡中の勝利の道のり",
-  "Triumphs.Triumph_plural": "勝利の道のり",
-  "Triumphs.UnobtainableTriumphs": "入手できません",
-  "Triumphs.Unredeemed.Info": "勝利を勝ち取り記録を塗り変えよ",
-  "Triumphs.Unredeemed.InfoWithScoreValue": "まだ取得してない勝利の道のりを解除するとスコアが {{value}} 点まで増えますよ。",
-  "Triumphs.Unredeemed.Number": "{{number}} 個の取得していない勝利の道のりがあります",
-  "Triumphs.UnredeemedTriumphs": "取得していない勝利の道のり",
-  "Upsell.Auth.Description": "自分の目標やその他の進捗データを確認したいですか？Bungie.netを使ってBraytechを認証し、プロフィールデータを安全に読み取れるようにしましょう。",
-  "Upsell.Patreon.Description": "私たちは皆、広告が嫌いです。彼らは醜い。広告はデザイン、世界を汚すものです。Patreonを通じてアプリを支援いただくことで、Braytechから広告を遠ざけることができます。一度だけの支援でも、継続的な支援でも、二束三文の支援でも構いません。",
-  "Upsell.Patreon.Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
-  "Upsell.Patreon.RewardResearcher": "Patreonのリサーチャーランクの方にはクロビス・ブレイのメダルアンロックされます",
-  "Upsell.Patreon.RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
-  "Upsell.Patreon.Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
-  "Upsell.Profile.Action": "キャラクターを選ぶ",
-  "Upsell.Profile.Description": "自分の目標達成状況、達成した記録、発見したコレクションなどを確認したいですか？ 自分のプロフィールを読み込んで、キャラクターを選択してください。",
-  "Vendor.FailureStrings.NoFunds": "資源が不足しています",
-  "Vendor.FailureStrings.NoInventorySpace": "空きスペースがありません",
-  "Vendor.FailureStrings.UniquenessViolation": "複数所持はできません",
-  "Voluspa.AdjustGraph.Description": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
-  "Voluspa.AdjustGraph.Description_record": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
-  "Voluspa.AdjustGraph.Name": "グラフ設定",
-  "Voluspa.CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",
-  "Voluspa.Commonality": "レア度",
-  "Voluspa.CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
-  "Voluspa.Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
-  "Voluspa.GraphType.Frequency": "レア度",
-  "Voluspa.GraphType.TimeSeries": "時系列",
-  "Voluspa.LastCrawled": "{{time}}に更新されました",
-  "Voluspa.ProfilesAssessed": "プレイヤー人数",
-  "Weeklies.Challenges.ActivityBonus": "アクティビティボーナス",
-  "Weeklies.Challenges.ArtifactPower.Description": "得られた経験を通して、シーズンアーティファクトよってもたらされるライトレベルへのボーナス",
-  "Weeklies.Challenges.ArtifactPower.Name": "アーティファクトパワーボーナス",
-  "Weeklies.Challenges.ArtifactPowerBonus": "パワーボーナス",
-  "Weeklies.Challenges.GearPower.Description": "現在の装備の平均パワーレベルです。",
-  "Weeklies.Challenges.GearPower.Name": "装備のパワー",
-  "Weeklies.Challenges.NoChallenges": "どうやら今週のアクティビティすべてを回収したようです。",
-  "Weeklies.Challenges.Power.Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
-  "Weeklies.Challenges.Power.Name": "光のレベル",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "{{number}} 個のシーズンの挑戦が可能です",
-  "Weeklies.Challenges.SeasonalChallenges.Description": "期間限定のシーズンランク、ブライトダスト、その他報酬がもらえる挑戦を完了しました。",
-  "Weeklies.Challenges.SeasonalChallenges.Name": "シーズンの挑戦",
-  "Weeklies.Challenges.Type.Bounties": "バウンティ",
-  "Weeklies.Challenges.Type.Crucible": "クルーシブル",
-  "Weeklies.Challenges.Type.Dungeon": "迷宮",
-  "Weeklies.Challenges.Type.Exotic": "エキゾチック",
-  "Weeklies.Challenges.Type.Expansion": "エキスパンション",
-  "Weeklies.Challenges.Type.Gambit": "ギャンビット",
-  "Weeklies.Challenges.Type.Raid": "レイド",
-  "Weeklies.Challenges.Type.Seasonal": "シーズン",
-  "Weeklies.Challenges.Type.Strikes": "ストライク",
-  "Weeklies.Rotations.Description": "ローテーションで執り行われる儀式の予定を知ることで、未入手の武器取得やアイテム厳選の計画が立てやすくなります。ローテーションの内容は開発にて変更されることがあり、このページもそれに合わせて更新されます。",
-  "Weeklies.Rotations.Name": "ローテーション"
+  "Action": {
+    "Accept": "承認する",
+    "AddBookmark": "ブックマークに追加",
+    "AddEvent": "イベントを追加",
+    "AllClasses": "すべてのクラス",
+    "Back": "戻る",
+    "BecomeAPatron": "支援者になる",
+    "Browse": "ブラウズ",
+    "Cancel": "キャンセル",
+    "Close": "閉じる",
+    "Collapse": "折りたたむ",
+    "Confirm": "確認",
+    "Customise": "カスタマイズ",
+    "Delete": "消去",
+    "Disable": "無効",
+    "Dismiss": "閉じる",
+    "Done": "完了",
+    "Enable": "有効にする",
+    "Expand": "展開する",
+    "GatherInVault": "すべて保管庫に送る",
+    "GoToBNet": "Bungie.netへ進む",
+    "GoToMaps": "マップへ進む",
+    "GoToTwitter": "Twitterへ進む",
+    "HideAcquired": "取得済みを表示しない",
+    "HideCollectionsRolls": "可能性があるロールを隠す",
+    "HideCompleted": "完了済みを表示しない",
+    "HideDiscovered": "発見済みは表示しない",
+    "HideHiddenStats": "ステータス詳細",
+    "HideRedeemed": "入手済みを表示しない",
+    "Jump": "ジャンプ",
+    "Lock": "ロックする",
+    "MemberRemove": "メンバーを外す",
+    "NextNth": "次の{{number}}件",
+    "Now": "最新",
+    "Open": "開く",
+    "Previous": "戻る",
+    "PullPostmaster": "ポストマスターからアイテムを取得する",
+    "ReloadApp": "アプリをリロードする",
+    "ReloadAppAutomatically": "自動的にアプリを再読み込みする",
+    "RemoveBookmark": "ブックマークから削除",
+    "Reset": "リセット",
+    "SelectDate": "日付選択",
+    "SelectFilters": "フィルター",
+    "SelectMasterwork": "マスターワークを選択",
+    "Set": "セット",
+    "Share": "共有",
+    "ShowAll": "すべてを表示する",
+    "ShowCollectionsRolls": "可能性があるロールを表示",
+    "ShowHiddenStats": "基本ステータス値",
+    "TryAgain": "再試行",
+    "Unlock": "アンロック",
+    "UserReady": "すぐに始める",
+    "ViewHistoricalData": "データ履歴を見る",
+    "ViewMore": "展開する"
+  },
+  "Activity": {
+    "ActiveRotator": "今週のローテーション",
+    "ApproximateLength": "おおよその長さ",
+    "Carnage": {
+      "SelectDate": {
+        "Info": "ジャンプ先を下記から日付を選択する",
+        "Waiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。"
+      }
+    },
+    "Cooperative": "マッチメイキング可",
+    "Fireteam": {
+      "Closed": "ファイアチームはクローズしました",
+      "Full": "ファイアチームは満員です",
+      "MatchLoading": "マッチを開始しています",
+      "Matchmaking": "マッチメイキング",
+      "Open": "ファイアチームはオープンです",
+      "SinglePlayer": "ソロプレイでのアクティビティ"
+    },
+    "FreeForAll": "ランブル",
+    "Graphs": {
+      "SelectDate": "上のグラフからアクティビティが行われた日を選択してください。"
+    },
+    "LevelAdvantagesDisabled": "レベルアドバンテージが無効です",
+    "LevelAdvantagesEnabled": "レベルアドバンテージが有効です",
+    "Matchmaking": "マッチメイキング",
+    "MaxParty": "{{number}} 名のプレイヤー",
+    "Modes": {
+      "Bar": {
+        "PvPLoss": "敗北",
+        "PvPWin": "勝利"
+      },
+      "Last100": {
+        "PvE": "直近100件のアクティビティ",
+        "PvP": "直近100件の対戦"
+      },
+      "Lifetime": "生涯",
+      "Line": {
+        "AverageKD": "平均K/D"
+      },
+      "Scatter": {
+        "PvEFailure": "失敗",
+        "PvEFlawless": "完全制覇",
+        "PvPFlawless": "不敗",
+        "PvPLoss": "敗北",
+        "PvPWin": "勝利"
+      },
+      "TrialsPassage": "試練の道のり"
+    },
+    "ModifiersUnavailable": "作戦条件はありません。",
+    "NoMedalsAwarded": "メダルを取得していません",
+    "NoStatsAvailable": "ステータスはありません",
+    "PvP": "対戦プレイ",
+    "RecommendedLight": "推奨パワー",
+    "Score": {
+      "Team": "チームスコア"
+    },
+    "SelectMode": "モード選択",
+    "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
+    "SinglePlayer": "シングルプレイヤー",
+    "Standing": {
+      "Defeat": "敗北",
+      "DidNotFinish": "途中離脱",
+      "Mercy": "コールドゲーム",
+      "Tie": "引き分け",
+      "Victory": "勝利"
+    },
+    "State": {
+      "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
+      "DownloadingReports": "レポートをダウンロードしています",
+      "DownloadingReportsProgressValue": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
+      "GenericError": "何か問題が発生しました。もう一度お試しください。",
+      "HydratingReportsCache": "レポートデータをお使いのデバイスからメモリにロードしています。",
+      "LoadGroupMembers": "クラン情報とアクティビティ履歴を分析しています。",
+      "LoadingPeriod": " {{date}} をスキャン中...",
+      "NoBookmarks": "まだブックマークが追加されていません!\n\n _Settings_ の同期を有効にすると、ブックマークを同期することができます。",
+      "NoHistoryAvailable": "ファイアチームを組んで、トラベラーの敵を倒せ。",
+      "PeriodNotFound": "このキャラクターの活動履歴は、指定した期間では見つかりませんでした。",
+      "RequestHistory": "アクティビティの履歴を分析しています",
+      "RequestHistoryPage": "{{page}}ページ目の活動履歴を取得しています"
+    },
+    "Team": {
+      "Allies": "見方チーム",
+      "Alpha": "アルファ",
+      "Bravo": "ブラボー",
+      "Opposition": "対戦チーム"
+    }
+  },
+  "Addendums": {
+    "Credits": {
+      "Origins": {
+        "Description": "Braytechはこれまでも、そしてこれからも、開発者がよりよいプログラムや他者との共同作業を実践し、学ぶための場所であり続けます。 最初は暇つぶしの趣味だったのが、ちょっとしたモンスターになってしまいましたが。\n\nDestinyのサードパーティ開発コミュニティというのは不思議な出会いによって生まれた現象で、筆舌に尽くしがたいものです。この現象は素晴らしい参加者たちがその価値を更に広げ今までに見た事がない所までやってきました。それらはDestinyに携わるすべての方へ提供するために活動しています。"
+      }
+    },
+    "Privacy": {
+      "Info": "長くなりましたが、Braytechはクッキーやその他のメカニズムを使ってお客様を追跡したり、広告目的でお客様をターゲットにすることはありません（つまり、Braytechは広告を出していません）。\n\nこのお知らせの趣旨についてさらにご質問がある場合は、お気軽に[Discord](https://discord.bray.tech)までお問い合わせください。",
+      "Policy": "1.  はじめに\n    1. すべての目的において、本プライバシーポリシーの英語版が、当文章のオリジナルであり、支配的な文書であり、理解されているものとします。本プライバシーポリシーの英語版と、その後の他の言語への翻訳との間に矛盾が生じた場合、本英語版が優先して適用されるものとします。\n    2. Braytechは、ビデオゲーム「Destiny 2」のための無料のファンメイドサービスです。このプライバシーポリシーでは、お客様のデータが本アプリケーションでどのように使用されるかを説明しています。\n    3. Braytechは常に改善されており、開発者は、プライバシー慣行の変更を反映させるために、このプライバシーポリシーを随時変更することがあります。 利用者においては、本プライバシーポリシーを定期的にご確認いただき、本プライバシーポリシーの末尾に記載されている日付に最新版がないかどうかをご確認ください。\n    4. ここでは \"developer\"とはTom Chapmanのことを指します。\n    1. 利用者が提供する情報\n        1. あなたのプラットフォーム固有のプロフィール名は、あなたのDestinyプロフィールを読み込み、表示するために使用されます。 お客様の個人情報が収集・使用されることは一切ありません。\n        2. Braytechの支援者は、オプションとして、自分のDestinyプロフィールをPatreonアカウントに関連付ける手段として、自分の電子メールアドレスを追加で提供することができます。\n    2. 開発者が自動的に収集する情報について\n        1. 提供するサービスの利用者に関するデータには、IPアドレス、地理的な位置、ブラウザの名前とバージョン、オペレーティングシステム、参照元、訪問時間、ページビュー、ウェブサイトのナビゲーションパスのほか、利用者のサービス利用時間帯、頻度、パターンに関する情報が含まれる場合があります。\n3. 個人情報の取り扱いについて\n    1. DestinyとBungieのアカウント情報\n        1. Destinyのゲーム情報を表示したり操作したりするために、BraytechはBungie.net APIを使用しています。Braytechが取得する、またはアクセスする情報は、利用者のゲーム情報（アイテム、キャラクターなど）と、Bungie.netの会員IDを含む基本的なアカウント情報、および公開されているPSN、Xbox Live、Steam、Stadia、Blizzard、Bungie.netのユーザー名など、リンクされているサービスの識別子のみです。開発者は、Bungieやゲームプラットフォームが保有する利用者の電子メール、氏名、住所、支払情報、その他の個人情報にアクセスすることはありません。\n        2. Bungie.net APIの使用は、Bungie.netの[Terms of Use](https://www.bungie.net/7/en/Legal/Terms)と[Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy)に準拠しています。\n    2. Patreon\n        1. DestinyのプロファイルをPatreonアカウントに関連付ける目的でユーザーであるあなたが提供したデータは、その目的のためにのみ使用され、Voluspaを通じて安全に保管されます。\n    3. 収集したデータの取り扱いについて\n        1. この利用データは、ウェブサイトやサービスの利用状況を分析する目的で処理されることがあります。この処理の法的根拠は、利用者の同意、または当社の正当な利益、すなわち当社のウェブサイトおよびサービスの監視と改善です。\n    4. Braytechの同期設定について\n        1. Voluspaは利用者のデータ（Braytechの設定）を保存し、Braytechのインスタンス間で同期してBraytechの機能を実現します。この情報は、お客様と開発者しかアクセスできません。\n\n 最終更新日：2021年5月19日（水)"
+    }
+  },
+  "App": {
+    "BungieError": "Bungieエラー",
+    "CopyLinkFail": "リンクをクリップボードにコピーできませんでした。",
+    "CopyLinkSuccess": "リンクをクリップボードにコピーしました。",
+    "ErrorBoundary": {
+      "Discord": "Braytech内部で致命的なエラーが発生しました。 問題が解決しない場合、[Discord](https://discord.bray.tech) からお問い合わせください。",
+      "Version": "このエラーを報告する際には、以下の文字列を引用してください。"
+    },
+    "FriendlyError": {
+      "Description": "ザヴァラ司令官にはまだ報告しないでください...",
+      "Name": "ご迷惑をおかけします"
+    },
+    "NetworkError": {
+      "Description": "ネットワークエラーが発生しました。これは一時的なエラーで、リロードするか、強制的に移動することで解決する場合があります。",
+      "Name": "ネットワークエラー"
+    },
+    "ServiceWorkerInstalling": {
+      "Description": "アプリのアップデートがバックグラウンドで実行されています。"
+    },
+    "ServiceWorkerReload": {
+      "Description": "Braytechの新しいアップデートを利用できます。リロードを選択して、最新版のアプリをご利用ください。\n\n新機能の詳細は、インデックスビューの変更履歴をご確認ください。",
+      "Name": "アップデートが利用可能です"
+    },
+    "UnknownError": "不明のエラー",
+    "UnsupportedBrowser": {
+      "Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
+      "Name": "非対応のブラウザー"
+    },
+    "Version": "バージョン"
+  },
+  "Archives": {
+    "Grimoire": {
+      "Description": "古くからの伝承、Destiny 1のグリモアカードは、ここにバックアップ、アーカイブされています。グリモアとはDestiny1にあるデータベースです。  ゲームをプレイすることで、\"カード\"という形でアンロックされていきます。\n\nグリモアの項目は、「ガーディアン」「インベントリ」「味方」「敵」「場所」「アクティビティ」の6つのカテゴリーに分類されています。それぞれに、いくつかのサブカテゴリーがあります。",
+      "Name": "グリモア"
+    },
+    "Guides": {
+      "VowOfTheDisciple": {
+        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
+        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
+      }
+    }
+  },
+  "Auth": {
+    "Data": {
+      "Action": "データを抹消する",
+      "Description": "デバイスの認証データを削除します。必要なものではないですが、心の平安につながるかもしれません。",
+      "Name": "認証データ"
+    },
+    "Error": {
+      "NoAuth": {
+        "Description": "ユーザーのプライバシーを保護する目的から、Braytechの一部のサービスではユーザーの許可を必要とする設計になっています。\n\nこれらのサービスを使用するには、Bungie経由でアクセスを承認してください。この承認でAPIエンドポイントと認証コードのみがサービスに利用され、個人情報が他者へ共有されることはありません。",
+        "Name": "認証が必要です"
+      },
+      "Permissions": {
+        "Profile": {
+          "Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
+          "Name": "うわぁぁぁぁぁぁぁ!!!!"
+        }
+      }
+    },
+    "Friends": {
+      "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
+    },
+    "Login": "Bungie.netでログインする",
+    "Memberships": {
+      "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
+      "Name": "連携したアカウント"
+    },
+    "PatreonAssociation": {
+      "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
+      "Name": "Patreon認証",
+      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
+      "Success": "おめでとうございます! これで、メールアドレスはあなたのプロファイルに関連付けられました",
+      "Text": "Patreonの一部のTierでは、プレイヤー名の横に _flair_ という表示報酬が含まれています。\n\nあなたのPatreonアカウントで使用するEメールを入力することで、フレアの表示を有効にします。"
+    },
+    "Suggestion": {
+      "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
+      "Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。"
+    }
+  },
+  "Character": {
+    "Breakdown": {
+      "EffectiveMods": "効果適用中のMod",
+      "SlottedMods": "装備済みMod",
+      "UnusedEnergy": "スロットの空き"
+    },
+    "Compare": {
+      "ObtainFromVendor": "{{name}}から入手する"
+    },
+    "DIMSync": {
+      "Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
+      "Name": "DIMと同期する"
+    },
+    "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
+    "Equipment": {
+      "Armor": "防具",
+      "Auxiliary": "所持品",
+      "Breakdown": "装備詳細",
+      "Weapons": "武器"
+    },
+    "Filter": {
+      "ArcDamage": "アークダメージ",
+      "DeepsightResonance": "共振抽出待ち",
+      "Favourite": "お気に入り",
+      "Garbage": "不用品",
+      "KineticDamage": "キネティックダメージ",
+      "Shaped": "形成した武器",
+      "SolarDamage": "ソーラーダメージ",
+      "StasisDamage": "ステイシスダメージ",
+      "StrandDamage": "ストランドダメージ",
+      "VoidDamage": "ボイドダメージ"
+    },
+    "Vendors": {
+      "BrightDustItems": "ブライトダストで購入できるアイテム",
+      "CrossSaveSilver": "シルバーの残高は、現在ゲームをプレイしているプラットフォームのAPIを通じて表示します。",
+      "EververseCalendar": "エバーバースのカレンダー",
+      "FeaturedBrightDustItems": "ブライトダストで買えるオファーアイテム",
+      "FeaturedSilverItems": "シルバーで買えるオファーアイテム",
+      "ShowAllItems": "すべてのアイテムを表示",
+      "ShowSilverOnlyItems": "シルバーで買える物のみ表示",
+      "SilverOnlyItems": "シルバーでだけ買えるアイテム"
+    }
+  },
+  "Clan": {
+    "Administration": {
+      "ViewportWidth": "管理画面は大きなディスプレイでの使用を想定しています。少なくとも横解像度`1500px`以上のディスプレイを使用してください。"
+    },
+    "BannerPerks": "バナーパーク",
+    "ClanAdministration": "管理設定",
+    "ClanBannerBuilder": {
+      "BannerColor": "バナーカラー",
+      "BannerDetail": "バナーディテール",
+      "BannerDetailColor": "バナーディテール色",
+      "BannerEmblem": "バナーエンブレム",
+      "Description": "新しいクランバナーでクランメンバーと協力しましょう。さまざまなオプションを選択すると、ページのURLが即座に更新され、カスタマイズを簡単に共有できます。",
+      "EmblemBackgroundColor": "エンブレムの背景色",
+      "EmblemForegroundColor": "エンブレムの前景色",
+      "Name": "クランバナービルダー"
+    },
+    "ClanRoster": "名簿",
+    "ClanTimetable": "タイムテーブル",
+    "Founded": "設立日 {{time}}",
+    "HistoricalStats": {
+      "ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。"
+    },
+    "HistoricalStatsLoading": "履歴統計データを読み込んでいます",
+    "Members": "合計 {{number}} 人",
+    "MembersLoading": "{{name}} のデータを読み込んでいます",
+    "NoClan": {
+      "Description": "クランとは、オンラインゲームを楽しむための任意の友人グループです。仲間と協力して協力プレイに挑戦したり、ソロプレイでも仲間を代表してプレイすることで、ゲーム内の特別な追加報酬を得ることができます。\n\n友達のクランに参加したり、新しい友達と出会ったり、コンパニオンアプリや[Bungie.net](https://bungie.net/)で自分のクランを作ったりしましょう。",
+      "Name": "クラン未所属"
+    },
+    "Relationships": {
+      "BestFriends": "ベストフレンド",
+      "Description": "遊べなかった人や仲が良かった人を探しましょう。彼らは、あなたが最も多くの活動を共にする人たちです。お互いを大切にしましょう。\n\nこれらのガーディアンはあなたのクランメンバーであり、このランキングは新しいシーズンごとにリセットされます。",
+      "Name": "つながり",
+      "NoFriends": "あなたは孤独ではありません。いずれ友人を作れるでしょう...クランに友人を誘って、いくつかのアクティビティに出かけてみましょう",
+      "NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
+      "Options": {
+        "LimitCurrentSeason": {
+          "Description": "今シーズンのアクティビティのみロードする。",
+          "Name": "現在のシーズン"
+        },
+        "LimitGroupMembers": {
+          "Description": "対戦者やファイヤーチームを自分のクランのメンバーだけに絞り込む。",
+          "Name": "クランメンバー"
+        }
+      },
+      "RomanticPartnerships": "最も仲が良いプレーヤー",
+      "SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
+      "TopFireteams": "トップの {{number}} ファイアチーム構成",
+      "TopFriends": "トップの {{number}} 一緒にアクティビティをプレイしたフレンド",
+      "UndiscoveredFriends": "フレンド候補"
+    },
+    "RewardEngrams": "報酬のエングラム",
+    "Roster": {
+      "Approve": "承認する",
+      "Ban": "BANする",
+      "Demote": "降格させる",
+      "Deny": "拒否する",
+      "DisplayName": "表示名",
+      "DownloadData": "データをダウンロードする",
+      "Glory": "栄光ランク",
+      "Infamy": "悪名ランク(リセット)",
+      "Joined": "参加しました",
+      "Kick": "追放する",
+      "LastActivity": "最後のアクティビティ",
+      "LastCharacter": "最後にプレイしたキャラ",
+      "LastPlatform": "プラットフォーム",
+      "Promote": "昇格する",
+      "Rank": "ランク",
+      "Valor": "武勇ランク (リセット)",
+      "WeeklyClanXP": "週間クラン経験値"
+    }
+  },
+  "Collections": {
+    "AllAcquired": "すべて入手済です",
+    "Badge": "勲章",
+    "Badge_plural": "勲章",
+    "Badges": {
+      "Commonality": {
+        "Description": "記章のレアリティは、Voluspaによってインデックス化されたプレーヤーの割合から表示されます。",
+        "Name": "記章のレアリティ"
+      },
+      "Completed": "記章は完了しました",
+      "Progress": "記章の進捗"
+    },
+    "CollectedBy": "入手済",
+    "Collectible": {
+      "Commonality": "収集品のレア度は、Voluspaのインデックスに登録されているプレイヤーのうち、収集したプレイヤーの割合で表されます。"
+    },
+    "CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
+    "CollectiblesUnavailable": "表示できるコレクションはありません",
+    "Grouped": {
+      "Season": "シーズン毎にグループ化",
+      "Ungroup": "グループ解除"
+    },
+    "RecentlyDiscovered": "最近の発見",
+    "SetComplete": "すべて入手済み",
+    "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません"
+  },
+  "Commendations": {
+    "Received": "受け取った",
+    "ReceivedAbr": "受領",
+    "Sent": "贈った",
+    "SentAbr": "進呈"
+  },
+  "Common": {
+    "Acknowledgements": "謝辞",
+    "AcknowledgementsInfo": "このコンテンツの一部は、第三者から惜しみなく提供されています。彼らの作品を利用する際には、彼らとその努力に思いを馳せてください。",
+    "Actions": "アクション",
+    "Activate": "起動する",
+    "Active": "アクティブ",
+    "ActiveModifiers": "作戦条件",
+    "ActiveScore": "アクティビティスコア",
+    "Activity": "アクティビティ",
+    "ActivityBonus": "アクティビティ ボーナス",
+    "ActivityMembers": "活動中のメンバー",
+    "Activity_plural": "アクティビティ",
+    "Addendums": "補足",
+    "All": "すべて",
+    "Armour": "防具",
+    "AscendantChallenge": "アセンダントの挑戦",
+    "Authenticate": "認証",
+    "Available": "入手可能",
+    "AvailableActivities": "利用可能なアクティビティ",
+    "Cancel": "キャンセル",
+    "Challenge": "チャレンジ",
+    "Challenge_plural": "チャレンジ",
+    "Character": "キャラクター",
+    "CharacterClass": "キャラクタークラス",
+    "CharacterLight": "キャラクターの光",
+    "CharacterSpecific": "Braytechの他機能と同様、このページは選択中のキャラのデータとなります。",
+    "Character_plural": "キャラクター",
+    "Checklists": "チェックリスト",
+    "Clan": "クラン",
+    "ClanMember_plural": "クランメンバー",
+    "ClanMembersNth": "クランメンバー",
+    "Classified": "機密情報",
+    "Collectibles": "収集品",
+    "Collections": "コレクション",
+    "CollectionsScore": "コレクションスコア",
+    "CommendationAbr_plural": "称賛",
+    "Completed": "完了",
+    "CruciblePlaylist": "クルーシブルプレイリスト",
+    "DateTime": "日時",
+    "Equipment": "装備",
+    "Error": "エラー",
+    "Event": "イベント",
+    "EventNth": "1 イベント",
+    "EventNth_plural": "{{count}} イベント",
+    "Examples": "例",
+    "Expiration": "有効期限",
+    "Expired": "期限切れ",
+    "Expiry": "残り時間",
+    "Failure": "失敗",
+    "FeaturedEvent": "注目のイベント",
+    "FeaturedNightfall": "注目のナイトフォール",
+    "FeaturedPlaylist": "注目のプレイリストイベント",
+    "Fireteam": "ファイアチーム",
+    "FireteamMembers": "ファイアチームのメンバー",
+    "FireteamReserves": "参加予定",
+    "FireteamSize": "ファイアチームの大きさ",
+    "Friend": "フレンド",
+    "Friend_plural": "フレンド",
+    "GloryPoints": "栄光ポイント",
+    "GuardianRank": "ガーディアンランク",
+    "Guardians": "ガーディアン",
+    "Help": "ヘルプ",
+    "HistoricalStats": "履歴統計",
+    "InfamyPoints": "悪名ポイント",
+    "Inspect": "詳細",
+    "Inventory": "所持品",
+    "ItemRolls": "ロール",
+    "Items": "アイテム",
+    "LegacyScore": "レガシースコア",
+    "LevelNth": "レベル{{number}}",
+    "Location": "ロケーション",
+    "Lore": "伝承",
+    "LoreBook": "伝承の書物",
+    "Map": "マップ",
+    "Medals": "メダル",
+    "MembersOnline": "{{number}} はオンラインです",
+    "Name": "名前",
+    "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
+    "NothingHereYet": "まだ何も無いようです",
+    "Objectives": "達成状況",
+    "Offline": "オフライン",
+    "Patron_plural": "支援者",
+    "Player": "プレイヤー",
+    "Preview": "プレビュー",
+    "Profile": "プロファイル",
+    "Progress": "進捗",
+    "Progression": "進捗",
+    "Quests": "クエスト",
+    "Rank_plural": "各ランク",
+    "Record": "伝承",
+    "Record_plural": "記録",
+    "Report_plural": "記録",
+    "Reputation": "評価",
+    "Reset": "リセットする",
+    "Reward": "報酬",
+    "Reward_plural": "報酬",
+    "Savathûn'sCurse": "サバスンの呪い",
+    "Score": "スコア",
+    "ScoreValue": "スコア値",
+    "Screenshot": "スクリーショット",
+    "Search": "検索",
+    "SeasonNth": "シーズン {{number}} ",
+    "SeasonPass": "シーズンパス",
+    "SeasonRank": "シーズンランク",
+    "SeasonYearNth": "{{year}}年目、第{{season}}シーズン",
+    "Season_plural": "シーズン",
+    "Settings": "設定",
+    "Source": "入手方法",
+    "SpecialCommendationAbr_plural": "摘要",
+    "SpecialCommendation_plural": "特別欄",
+    "Submit": "送信",
+    "Support": "支援する",
+    "TimePlayed": "プレイ時間",
+    "TimeRemaining": "残り時間",
+    "Translator_plural": "翻訳者",
+    "TrialsPassage": "試練の道のり",
+    "TrialsPoints": "試練のポイント",
+    "TriumphScore": "勝利の道のりのスコア",
+    "Triumphs": "勝利の道のり",
+    "Unknown": "不明",
+    "Users": "ユーザー",
+    "ValorPoints": "武勇ポイント",
+    "VanguardPoints": "ヴァンガードポイント",
+    "Vendor": "ベンダー",
+    "Vendor_plural": "ベンダー",
+    "Views": "ビュー",
+    "Weapon": "武器",
+    "WeekNth": "第{{number}}週",
+    "Week_plural": "週"
+  },
+  "Event": {
+    "FestivalOfTheLost": {
+      "Description": "死に直面しても笑い、キャンディーを集め、マスクを被り、迫り来る闇に立ち向かいます。\n\nエヴァ・レヴァンテが「失われた者の祭り」の使者として戻ってきました。 この祝日は、ガーディアンたちが甘いものに舌鼓を打ち、不謹慎なマスクを被り、失った人々の思い出を祝う時です。\n\n憑りつかれし森が再び開かれ、今度はスパイダーがあなたの協力を求めています。",
+      "Name": "Festival of the Lost"
+    },
+    "IronBanner": {
+      "Description": "一週間にわたる特別なクルーシブルのイベントで、6人のチームがコントロールの対戦に挑戦する。レベルアドバンテージ有効。"
+    },
+    "TheDawning": {
+      "Description": " エウロパの厳しい寒さも、この特別な時期のガーディアンの温かい心を凍らせることはできない。暁旦がやってきたのだ。",
+      "Name": "暁旦"
+    }
+  },
+  "FAQ": {
+    "API": {
+      "StatDiscrepancy": {
+        "Description": "Destinyの統計データには複数のソースで構成されています。クランの履歴統計はHistorical Stats APIエンドポイントに基づいており、その他はプレイデータ(PGCR:Post Game Carnage Reports）と組み合わせて計算されています。どれが最も正確な真実であるか判断するのは難しいため、プレイヤーにとっては想定した結果とは異なることがありえます。\n\n Clan Historical Statsで見られるような方法で統計を表示するには、Bungieのサーバーから何テラバイトものデータをダウンロードする必要があり、かなりの計算能力が必要となります。とはいえ、実際の制度を要求する場面は不要と判定して、現状で提供している精度で切磋琢磨するためのデータとしては十分な品質だと認識しています。",
+        "Name": "クランの活動履歴で統計データが一致しない [その他]"
+      }
+    },
+    "Braytech": {
+      "AppStore": {
+        "Description": "Braytechは[Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)と[Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)でご利用いただけます! しかし残念ながら、BraytechはiPhoneアプリストアではご利用いただけません。なぜなら、Appleへの支払い額が非常に大きく運営を阻害する要素になっているためです。もしiPhoneで利用したい場合は、Safariを使ってアプリにアクセスし、シェア機能ボタンを選択して、「ホーム画面に追加」を選択します。これにより、Braytechをネイティブアプリのように操作できます。AndroidユーザーでGoogle Playを使用できない場合は、Google Chromeが利用できると同様方法で利用できます。",
+        "Name": "App stores"
+      },
+      "Commonality": {
+        "Description": "本当によくある質問で、「アイテムやレコードの右側に表示されているこのパーセントの数値は何ですか？」と聞かれます。\n\n数日に一度、 _Voluspa_ が _Braytech_ のユーザーからデータを収集し、誰が何を持っているかを記録しています。これが正確かどうか、役に立つかどうかが話題になりますが、実際のところ、本当の統計であれば、可能な限りすべてのデータを収集しなければ役に立たない、参考にならないのは分かっています。\n\nこれらの統計は、カジュアルプレイヤーに偏っていると考えてよいでしょう（モニターされているユーザーのスキルやその瞬間の状態によって、パーセンテージが低いものが、高く表示される場合があります）。\n\n利用可能な場合、これらの統計のツールチップには、「{{indexed}}」というようにカウントされるプレイヤーの総数などが表示されます。",
+        "Name": "レア度"
+      },
+      "KeyboardShortcuts": {
+        "Description": "Braytechには、キーシンボルのあるアクションバーボタンに加えて、さまざまなキーボードショートカットが隠されています。プロファイルヘッダー (キャラクターエンブレムなど)で,   を押し続けると利用可能なショートカットを見ることができます。例えば、 例えば  を長押しすると _Triumphs_ へ進みもう一度押すと  へ戻れます。",
+        "Name": "キーボードショートカット"
+      },
+      "ProfilePrivacy": {
+        "Description": "Destinyをプレイしている間に自分のプライバシーや、APIによってプレイ内容やアクティビティが第三者に公開されることに不安を感じる場合は、[Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)でプライバシー設定を変更することができます。プライバシーは保護されますが、Braytechを使う度にBungieで認証する必要があります。",
+        "Name": "プレイヤーデータのプライバシーについて"
+      },
+      "ServiceWorkerUpdate": {
+        "Description": "「設定」画面で解決できることがあるので、まずはそちらをお試しください。まず、「Service Workerをアップデートする」を選択してください。失敗した場合は、「アプリをリロードする」を選択してアプリを再読み込みしてください。それでも問題が解決しない場合は、_Service Workerを破棄する_ を選択し、Discordで報告してください。",
+        "Name": "Braytechが最新版にアップデートできない場合"
+      },
+      "Widgets": {
+        "Description": "ウィジェットは現在iOS対応デバイス（iPhone、iPad）のみで利用可能です。\n\nウィジェット一覧にBraytechやBraytechウィジェットがない場合は、デバイスやアプリの再起動の他にアプリの再インストール、時間を置いてから試してみてください。\n\n 現在利用している環境の特殊条件で発生する問題やインストール方法については対応出来ないことをご容赦ください。",
+        "Name": "ウィジェット",
+        "Video1Caption": "ウィジェットをホーム画面に追加する方法",
+        "Video2Caption": "ウィジェットをロック画面に追加する方法"
+      }
+    },
+    "Voluspa": {
+      "About": {
+        "Description": "ラスプーチンのサブマインドにちなんで名付けられたVoluspaは、Braytechではサーバーサイド・コンポーネントのことを指します。 Braytechのユーザーのプロファイルを精査し、共通の統計情報や設定の同期など、重要な機能を提供しています。",
+        "Name": "Voluspaについて"
+      }
+    }
+  },
+  "GettingStarted": {
+    "Header": {
+      "Description": "Braytechへようこそ! 始める前にtipsを見ることをお勧めします。\n\nフィードバックや質問があれば、Discordで質問したりFAQを参照してみてください!",
+      "Name": "使い方",
+      "SubName": "クロビス・ブレイ テクノロジーズ"
+    },
+    "Tips": {
+      "Search": {
+        "Description": "すばやくデータにアクセスしたい? Braytechはアプリ内にどこでも使える検索HUDがあります。\n\n  キーか虫眼鏡のアイコンをタップすれば検索ができます!",
+        "Name": "検索"
+      },
+      "Settings": {
+        "Description": "Braytechには、ダークテーマからアイテムの可視化オプション、設定の同期までさまざまな設定が詰まっています。\n\n 画面上端にある _設定_ で確認しましょう",
+        "Name": "設定"
+      },
+      "Views": {
+        "Description": "アプリのトップから****を選択すると、Braytechの全機能を一覧で確認することができます。",
+        "Name": "続きを見る"
+      }
+    }
+  },
+  "GuardianRank": {
+    "Current": "現在のランク: {{value}}",
+    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}"
+  },
+  "Item": {
+    "Ammo": "弾薬",
+    "AmmoType": "弾薬タイプ",
+    "ArmorStats": "アーマーステータス",
+    "BasicCharacteristics": "基本特性",
+    "Breaker": "チャンピオン属性",
+    "BreakerType": "特殊属性",
+    "ClassEquipped": "{{name}} (装備中)",
+    "ClassPostmaster": "{{name}} (ポストマスター)",
+    "CollectionsRoll": "コレクション品のステータス",
+    "Compare": "比較する",
+    "CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
+    "CraftingRequiredLevel": "武器レベル {{number}} が必要です",
+    "CurrentlyCantRoll": "このパークは現在、この武器から出てきません。",
+    "Energy": "エネルギー",
+    "EnergyAffinity": "エネルギー属性",
+    "EnergyCapacity": "エネルギー",
+    "EnergyCost": "エネルギー",
+    "EnergyMeter": "エネルギー",
+    "EnergyUnused": "残りスロット",
+    "Inspect": "詳細",
+    "Intrinsic": "内在特性",
+    "ItemAction": "アイテム操作",
+    "Mods": "MOD",
+    "PerkEverything": "このパークは、すべてのアクティビティで非常に人気があります。",
+    "PerkPvE": "このパークは、PvEコンテンツでの利用を推奨されています。",
+    "PerkPvP": "このパークは、PvPコンテンツでの利用を推奨されています。",
+    "PerkRecommended": "このパークはおすすめです",
+    "Perks": "パーク",
+    "PowerLimit": "パワーリミット",
+    "RedeemWithCode": "[https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) で、コード`{{code}}`を入力するとエンブレムが入手できます。",
+    "ShapedDate": "初回形成日 {{date}}",
+    "StatTotal": "合計",
+    "State": "状態",
+    "Stats": "統計",
+    "Sunset": "引退",
+    "TransferMaximumStack": "{{name}} は{{size}}の最大アイテム所持数に到達しました。スペースを開けてから再度お試しください。",
+    "UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
+    "WeaponKills": "武器キル数",
+    "WeaponStats": "武器性能"
+  },
+  "Landing": {
+    "Blog": {
+      "AllPosts": "すべての記事",
+      "Error": "ブログ記事の読み込みができませんでした。",
+      "Name": "Blog"
+    },
+    "CallToAction": {
+      "Text": "Breytechで世界を探索し、暗黒の力との対決に必要な装備と見落としていたことを探し出しましょう"
+    },
+    "Featured": {
+      "ThisWeek": "今週のDestiny2"
+    },
+    "Features": {
+      "Description": "Braytechは情熱を持って取り組んでいるプロジェクトです。その開発は2年以上に渡って続けられており、何度も追加や改良が行われてきました。 開発者であるTom ChapmanはDestinyのデザインのファンであり、それがBraytechの美的感覚に強く反映されています。\n\nBraytechは、チェックリストアプリとしてスタートしましたが、今では多くの機能を持った存在になりました。常に洗練され、拡張されています。\n\n素早く探し物をしたい?  ボタンを押して検索ワードを入力してください。 Braytechは検索HUDがあり、アプリ内のどこでも利用できます。\n\nBraytechは、デスクトップユーザーへのアプリとして開発が始まりましたが、美しいモバイルアプリとしても機能します。実際、[Android用アプリ](https://play.google.com/store/apps/details?id=braytech.org.twa)もGoogle Playから入手できます",
+      "Name": "Talented"
+    },
+    "Support": {
+      "Description": "Destinyの世界観を尊重したインターフェイスを構築し、BungieのAPIを利用するには絶え間ない努力と開発時間が必要です。オンラインを維持するのにもお金がかかるこの取り組みに、すべて差し出したとしても個人の限界があります。私はウェブサイト上の広告には反対の立場をとっています。そのため、これらのプロジェクトを維持するため、コミュニティに参加されている皆さんの寛大さに頼りたいと思っています。\n\nみなさんの支援を、このプロジェクトをオンラインで維持し、クールな新機能を追加し続けることに使いたいと思います。",
+      "Name": "Braytechを支援する"
+    },
+    "Updates": {
+      "Name": "アップデート情報"
+    }
+  },
+  "Language": {
+    "Space": {
+      "MetresAbr_plural": "{{count}} メートル"
+    },
+    "Time": {
+      "Frequency": {
+        "Daily": "デイリー",
+        "Weekly": "ウイークリー"
+      },
+      "Relative": {
+        "Future": "{{duration}} 後",
+        "Past": "{{duration}} 前"
+      }
+    }
+  },
+  "Leaderboards": {
+    "ActiveScore": "アクティブな勝利の道のりスコア",
+    "CollectionsScore": "コレクションスコア",
+    "LegacyScore": "レガシースコア",
+    "Rank": "ランク",
+    "TriumphScore": "勝利の道のりスコア"
+  },
+  "Legend": {
+    "Activity": {
+      "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
+      "Name": "最初の復活"
+    },
+    "Commonality": {
+      "Description": "勝利し、報酬を掴め\n\n地球とその向こうの世界には、トラベラーがもたらした素晴らしくも奇想天外な神話の宝物が存在する。\n\n 追跡することに喜びがある。",
+      "Name": "レアな宝物とエキゾチックなスタイル"
+    },
+    "Empty": "Empty",
+    "Fishing": {
+      "Description": "今日のフィッシング\n\n釣り竿をキャストし、水槽を豪華にして、仲間と釣果を競争しよう。",
+      "LargestFish": "最も大きな釣果",
+      "Name": "競技フィッシング",
+      "TypesCaught": "釣った種類"
+    },
+    "Ranks": {
+      "Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
+      "Guardian": {
+        "Description": "光と仲間から評価されるように備えろ。",
+        "Name": "ガーディアン"
+      },
+      "Name": "ガーディアンの地位"
+    },
+    "Seals": {
+      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。"
+    }
+  },
+  "Loading": {
+    "BungieError": {
+      "Description": "今回、重要なAPIデータを読み込むことができませんでした。これは断続的に起こりうる問題です。しばらく待ってもこのエラーが続く場合は、Bungie API がより広い範囲で停止しているか、プレイ環境のローカルネットワークが Bungie API リクエストを制限している可能性があります。",
+      "Name": "Bungie側でエラーが発生しているようです"
+    },
+    "Error": {
+      "Description": "非常に予期せず回復不能なことが発生しました。"
+    },
+    "IndexedDBError": {
+      "Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\n 再度このエラーが発生する場合は、お使いのブラウザや端末との相性が悪いか、設定が適切でない可能性があります。"
+    },
+    "IndexedDBErrorFatal": {
+      "Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\nアプリをリロードして、もう一度試してください。"
+    },
+    "IndexedDBOpenFailedError": {
+      "Description": "ブラウザのストレージにアクセスしようとして、何か問題が発生しました。\n\nブラウザによっては、プライベートモードでの閲覧時に _Indexed DB_ へのアクセスを禁止している場合がありますので、アプリを再読み込みしてもう一度試してください。"
+    },
+    "MaintenanceError": {
+      "Description": "Bungie APIは現在メンテナンスのため停止中です。\n\n詳細については、Twitterの@BungieHelpをご覧ください。",
+      "Name": "Bungieメンテナンス"
+    },
+    "ManifestDownloadError": {
+      "Description": "Bungieからのアイテムマニフェストのダウンロード時に問題が発生しました。\n\nアプリを再起動して、もう一度お試しください。",
+      "Name": "マニフェストのダウンロードに失敗しました"
+    },
+    "ManifestError": {
+      "Description": "Bungieからのアイテムマニフェストのアップデート時に問題が発生しました。\n\nアプリを再起動して、もう一度お試しください。",
+      "Name": "マニフェストエラー"
+    },
+    "NoInternetError": {
+      "Description": "オフラインになっていませんか?もしくはブラウザがオフラインになっていますか...?"
+    },
+    "SettingsFetchError": {
+      "Description": "Bungie から API 構成を取得しようとして何か問題が発生しました。\n\nもう一度アプリをリロードしてみてください。",
+      "Name": "設定が失敗しました。"
+    },
+    "Status": {
+      "DownloadingManifest": "Bungieからデータをダウンロード中",
+      "FatalError": "致命的なエラー",
+      "NoInternetError": "インターネットに接続できません",
+      "Other": "Windows 95を起動している",
+      "ReadStoredPGCR": "保存しているcarnage reports(プレイログ)をロードしました。",
+      "SettingsFetch": "Bungie.netへ接続中",
+      "StoreManifest": "マニフェストデータをダウンロードしています"
+    },
+    "WaitingForBungie": "Bungieからの応答を待っています"
+  },
+  "Maps": {
+    "Context": {
+      "ChecklistsAndMore": "チェックリストとその他",
+      "NoChecklistItems": "アイテムは検出されませんでした"
+    },
+    "Inspect": {
+      "Instructions": "使い方",
+      "ProposeChanges": {
+        "Form": {
+          "Description": {
+            "Name": "説明"
+          },
+          "Issues": {
+            "Name": "問題"
+          },
+          "Screenshots": {
+            "Name": "スクリーンショット",
+            "Select": "スクリーンショットを選択する"
+          },
+          "Video": {
+            "Name": "名前"
+          }
+        },
+        "Name": "目的変更"
+      },
+      "RelatedVideo": "このノードに関連した動画があります",
+      "RelatedVideoAction": "動画ファイルを開く",
+      "Vendor": {
+        "NoSales": "在庫切れになったばかりのようです。"
+      }
+    },
+    "Nodes": {
+      "Unavailable": "利用不可",
+      "UnavailableInGame": "利用不可: このノードはゲーム内で利用できなくなりました。",
+      "UnavailableUnreliableApi": "利用不可: 何かの理由で、このノードが信頼性のあるステータスを中継できない状態です。"
+    },
+    "ProposeChanges": {
+      "Description": "他のガーディアンの助けになるよう、 maps ノードデータの変更提案をお願いします。",
+      "Form": {
+        "Description": {
+          "Placeholder": "例：最後の部屋の奥にある、岩のそば"
+        },
+        "Issues": {
+          "Placeholder": "例：そのノードにはアクセスできなくなった"
+        },
+        "Screenshots": {
+          "Description": "スクリーンショットを参考資料として提案する場合、有用性の観点から厳しい品質基準を満たす必要があります。:\n- 解像度が1920x1080の場合はHUD、他のガーディアンや自身の装備の映り込み、敵も表示していない状態が求められます。最大のビデオクオリティにして、レンダー解像度は200%で撮影したものをお送りください。"
+        }
+      }
+    },
+    "ScreenshotUnavailable": "スクリーンショットが利用できません",
+    "Surveyor": {
+      "Capture": "位置をキャプチャする",
+      "CopyDefinitions": "定義を複製",
+      "CopyNodes": "ノードを複製",
+      "NoNodes": "はじめにマップ内座標を確定してください"
+    },
+    "Within": {
+      "Activity": "アクティビティ中に発見",
+      "ActivityName": "アクティビティ中に発見: {{string}}",
+      "AscendantChallenge": "アセンダントの挑戦中に発見: {{string}}",
+      "LostSector": "失われたセクターで発見: {{string}}",
+      "Story": "ストーリー中に発見: {{string}}",
+      "Strike": "ストライク中に発見: {{string}}"
+    }
+  },
+  "MemberLink": {
+    "Error": {
+      "Network": {
+        "Description": "ネットワークエラーが発生しました。これは一時的なエラーであり、ダイアログを閉じてから再試行することで解決できるかもしれません。",
+        "Name": "ネットワークエラー"
+      },
+      "PrivateProgression": {
+        "Description": "このプロフィールの進捗データは利用できません。Bungie.netでプロフィールが非公開に設定されている可能性があります。彼らは決してあなたをブロックしているわけではありません。",
+        "Name": "非公開のプロファイル"
+      }
+    }
+  },
+  "MemberService": {
+    "Inactive": {
+      "Description": "操作を行わなかったため、プロフィールデータのバックグラウンド更新が一時停止されました。\n\nアプリを再操作すれば、更新が再開されます。"
+    }
+  },
+  "Notifications": {
+    "NthMore": "と {{number}} 件以上あります。",
+    "NthRemaining": "他 {{number}} 件のお知らせ",
+    "PostmasterCapacityWarning": {
+      "DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを取得しないと、アイテムは永久に失われます！",
+      "DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
+      "Name": "注意！"
+    },
+    "PushNotifications": {
+      "Description": "おそらく外出中の誤操作などで、Voluspaのプッシュ通知を送る権限を取り消してしまったと思われます。\n\n プッシュ通知を有効にしたい場合は、設定を確認してください。",
+      "Name": "プッシュ通知"
+    }
+  },
+  "ProfileSearch": {
+    "ActiveProfile": "アクティブプロファイル",
+    "BungieNetProfile": "Bungie.netに登録されているプロファイル",
+    "ChangeProfile": "プロファイルを変更",
+    "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
+    "Error": {
+      "Banned": {
+        "Botting": "非アクティブ検知対策（自動操作Bot使用の疑い）を回避する仕組みが確認されました。",
+        "Dickhead": "あなたに対し、とても失望しました",
+        "Hacking": "外部ツールを使ってゲーム内ルールを改竄しているのが確認されました（ハッキング）",
+        "Teabagging": "他プレイヤーに対し、友好関係を妨害する行動をとっているのが観察されました。"
+      },
+      "CharacterMissing": {
+        "Description": "選ぼうとしたキャラクターが利用できません--もしかしたら削除してませんか?",
+        "Name": "キャラクターが利用できません"
+      },
+      "MemberBanned": {
+        "Description": "選択されたDestinyプロファイルは、このアプリでは禁止されています。アプリエラーではありません。",
+        "Name": "プロファイルがBANされてます"
+      },
+      "PrivateProgression": {
+        "Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
+        "Name": "プライベートプロファイル"
+      }
+    },
+    "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
+    "NewLight": "新たな光",
+    "NoProfilesFound": "プロファイルはありません",
+    "PreviousSearches": "前の検索",
+    "ReturnToAuthMembership": "{{displayName}} へ戻る",
+    "SavedProfile": "保存したプロファイル",
+    "SearchForPlayer": "プレイヤーを検索する",
+    "SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
+    "SelectACharacter": "キャラクターを選択する",
+    "TemporaryError": "一時的にBungieでエラーが発生しています。"
+  },
+  "Progression": {
+    "Points": "ポイント",
+    "PointsNextRank": "次ランクまでのポイント",
+    "PointsTotal": "合計ポイント",
+    "PrestigeNth": "威光 {{number}}",
+    "Rank": "ランク",
+    "RankNth": "ランク {{number}}",
+    "ResetVendor": "ランクをリセットするためベンダーまで戻ってください。",
+    "Streak": "連続勝利",
+    "Title": "タイトル",
+    "TrialsPassage": {
+      "Flawless": "完全勝利",
+      "FlawlessPassage": "不敗の軌跡",
+      "WeeklyTimesFlawless": "今週の不敗",
+      "Wins": "勝利"
+    }
+  },
+  "Quests": {
+    "Details": {
+      "RelatedMapMode": "このクエストの過程には、スキャン可能なアーティファクトやロケーションなど、関連するマップノードがあります。",
+      "Steps": "過程"
+    },
+    "Info": {
+      "InventoryCapacity": "空きスロット/請け負ったクエストとバウンティの合計",
+      "NoBounties": "バウンティを引き受けるとここに表示されます。",
+      "NoQuests": "クエストを引き受けるとここに表示されます。"
+    }
+  },
+  "Search": {
+    "Error": {
+      "MissingDefinitions": "インデックスに定義がないため、マニフェストデータの検索に失敗しました。"
+    },
+    "Examples": {
+      "Description": "description:クロビスブレイ",
+      "Expiration": "expiration:熾天使",
+      "Name": "name:mida",
+      "Source": "source:leveling",
+      "Type": "type:スカウトライフル"
+    },
+    "Placeholder": "検索したい名前や説明(日本語)を入力してください",
+    "Results": {
+      "MatchesAllHidden": "見つかりましたが、どうやら表示しないように設定しているようです。",
+      "MatchesAllHidden_plural": " {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
+      "NoMatches": "検索しましたが見つかりませんでした",
+      "Top10": "トップの検索結果10件を表示します。すべての検索結果を見たい場合は  キーを押して検索モードをご利用ください"
+    },
+    "ShortcutKey": "いつでも  キーを押して検索できます",
+    "Suggestions": "検索では、接頭語を入力するとフィルタとして利用できます。また、マニフェスト識別子でも検索できます。例えば、ゲーム内で最高の武器の一つ、 `564802913` で検索すると名前、ソース、および説明の順番で結果が優先されます。",
+    "VanguardArchives": "バンガードのアーカイブへようこそ"
+  },
+  "SeasonPass": {
+    "ProgressPassLevel": "シーズンランク進行状況",
+    "ProgressPowerBonus": "パワーボーナス進行状況",
+    "SeasonProgress": "シーズン経過日数",
+    "SeasonProgressDays": "日経過"
+  },
+  "Settings": {
+    "Category": {
+      "Advanced": {
+        "Name": "詳細設定"
+      },
+      "Common": {
+        "Name": "共通設定"
+      },
+      "PushNotifications": {
+        "Name": "プッシュ通知"
+      }
+    },
+    "DIMSync": {
+      "Action": {
+        "Disable": {
+          "Description": "同期を無効にし、保存されているDIM Syncの認証トークンを削除します。"
+        },
+        "Enable": {
+          "Description": "同期を有効にして、Bungie.net の認証トークンを DIM同期トークンと交換します。"
+        }
+      },
+      "Info": "DIMのロードアウトと設定を同期します。"
+    },
+    "Developer": {
+      "ExperimentalFeatures": {
+        "Description": "まだ開発途中や、改良、品質チェックされていない可能性のある機能の使用する。",
+        "Name": "実験的な機能を有効にする"
+      },
+      "Maps": {
+        "Debug": {
+          "Description": "マップデバッグ設定を有効にします。",
+          "Name": "マップデバッグモード"
+        },
+        "LogDetails": {
+          "Description": "マウスオーバーされているノードの詳細をConsole.logに表示します。",
+          "Name": "ノードの内容をlogに表示"
+        },
+        "Surveyor": {
+          "Description": "マップノード情報を簡単かつ迅速に収集できる追加のマップコントロール機能です。",
+          "Name": "測量機能を使う"
+        }
+      }
+    },
+    "IDB": {
+      "ClearCache": {
+        "Description": "マップ画像などのキャッシュされたデータをクリアします。 これらのデータは、必要に応じてダウンロードされます。",
+        "Name": "キャッシュを消去する"
+      },
+      "ClearManifest": {
+        "Description": "このデバイスに保存されているDestinyのマニフェストデータを削除します。Braytechが機能するにはマニフェストが必要で、次回アプリを起動したときに再度ダウンロードされます。",
+        "Name": "マニフェストデータを消去する"
+      },
+      "ClearReports": {
+        "Description": "このデバイスに保存されているゲーム後のcarnage reports(プレイログ)をすべて削除します。",
+        "Name": "レポートデータを消去する"
+      },
+      "Usage": {
+        "Description": "ストレージはDestinyのマニフェストデータと、ゲーム後のcarnage reports(プレイログ)をキャッシュしています。",
+        "Name": "データ使用容量"
+      }
+    },
+    "Interface": {
+      "AlternateAppIcon": {
+        "Info": "アプリのアイコンを変更する"
+      },
+      "Bindings": {
+        "Info": "ボタンの外観を機種に合わせ変更します。これは現在、視覚のみの効果です。"
+      },
+      "FlipSubviewNav": {
+        "Info": "モバイルデバイス向けで、利き手が違う人のためにデザインを変更します",
+        "Left": "左手モード",
+        "Right": "右手モード"
+      },
+      "ItemSize": {
+        "Info": "所持品アイコンの大きさを変更する。"
+      }
+    },
+    "ItemVisibility": {
+      "HideCompletedCollectibles": {
+        "Description": "コレクションアイテムを回収したら、コレクションのページで非表示にします。",
+        "Name": "回収したアイテムを表示させない"
+      },
+      "HideCompletedRecords": {
+        "Description": "完了した実績を、勝利の道のりのページ内で非表示にします。",
+        "Name": "完了した勝利の道のりを表示しない"
+      },
+      "HideDudRecords": {
+        "Description": "不良（空または未使用）の記録を表示しないようにします",
+        "Name": "不良な勝利の道のりを表示させない"
+      },
+      "HideInvisibleCollectibles": {
+        "Description": "ゲーム内で秘密のコレクションのアイテムをコレクションのページで非表示になります。",
+        "Name": "秘密のコレクションのアイテムを表示しない"
+      },
+      "HideInvisibleRecords": {
+        "Description": "勝利の道のりでシークレット扱いの物は、ネタバレしないように隠して表示します",
+        "Name": "秘密の勝利の道のりを表示させない"
+      },
+      "HideUnobtainableRecords": {
+        "Description": "取得できない記録を非表示にします。",
+        "Name": "入手不可能な勝利の道のりを非表示"
+      }
+    },
+    "LS": {
+      "ResetEverything": {
+        "Description": "ユーザー設定、保存データ、履歴などをすべてリセットします。",
+        "Name": "すべてをリセットする"
+      },
+      "ResetNotifications": {
+        "Description": "却下された通知をデフォルトの状態にリセットします。",
+        "Name": "通知をリセット"
+      },
+      "ResetProfileHistory": {
+        "Description": "以前読み込まれたメンバープロファイルの保存リストを削除します（キャラクター選択）。",
+        "Name": "プロファイル履歴をリセット"
+      },
+      "ResetTips": {
+        "Description": "ヒントをデフォルトの状態に戻します。",
+        "Name": "ヒントをリセット"
+      },
+      "ResetTrackedTriumphs": {
+        "Description": "ユーザーが設定したすべての勝利の道のりの追跡を解除します。ゲーム内での状態には影響しません。",
+        "Name": "勝利の道のりをリセット"
+      }
+    },
+    "Language": {
+      "Colloquial": {
+        "Description": "公式テキストの代わりに、ユーザー投稿のスラングで表示する。",
+        "Name": "口語体を使う"
+      }
+    },
+    "Maps": {
+      "Checklists": {
+        "Info": "チェックリストの表示/非表示を切り替えられます。見やすい状態を保ちましょう。"
+      },
+      "Developer": {
+        "Info": "Maps の開発作業を支援するツールです。"
+      },
+      "ItemVisibility": {
+        "HideDiscoveredNodes": {
+          "Description": "ノードを発見した場合、選択しない限りマップから省略する。",
+          "Name": "発見済みのノードを隠す"
+        },
+        "HidePatrols": {
+          "Description": "パトロールビーコンすべてを隠す",
+          "Name": "パトロールを隠す"
+        }
+      },
+      "Visual": {
+        "Atmosphere": {
+          "Description": "雲などの天候レイヤーを表示します",
+          "Name": "天候レイヤー"
+        }
+      },
+      "VisualFidelity": {
+        "Info": "視覚的な装飾の数を変える"
+      }
+    },
+    "Profile": {
+      "Info": "Braytechは、多くのプレイヤーのプロファイルを一度に見ることができますが、[プレイヤーを検索する](/profile-search)では最後に検索したプロフィールを記憶しています。",
+      "NoProfileSelected": "プロファイルを選択"
+    },
+    "PushNotifications": {
+      "BraveBrowser": "おや、Braveブラウザを使っているようですね。 Braveの設定で \"プッシュ通知でGoogleサービスを利用する\" を有効にしているか確認してください。",
+      "Condition": {
+        "AnyActivity": "すべてのアクティビティ",
+        "AnyMod": "すべてのMod",
+        "AnyReward": "すべての報酬",
+        "AnySale": "すべてのセール",
+        "AnyShader": "すべてのシェーダー",
+        "Multiple": "複数",
+        "Uncollected": "未入手"
+      },
+      "Conditions": "条件",
+      "Configure": "プッシュ通知を設定する",
+      "Event": "イベント",
+      "Frequency": "頻度",
+      "Incompatible": "このブラウザではプッシュ通知が利用できません",
+      "Info": "プッシュ通知は、ブラウザやOSのAPIを利用して、アプリを使っていないときでも通知を確認できる機能です。\n\n Braytechの通知を利用する場合は、ユーザーでメッセージの種類、タイミングなどを設定できます。",
+      "NoServiceWorker": "サービスワーカーがインストールされていません。Braytechのページをリロードしてみてください。",
+      "PermissionDenied": "お使いのブラウザは、通知機能を無効にしています。続行するには、手動で通知を有効にするか、ブラウザの設定をリセットする必要があります。",
+      "PreviewNotifications": {
+        "Description": "通知をすぐに開始する。",
+        "Name": "プレビュー通知"
+      },
+      "ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
+      "Users": "ユーザー"
+    },
+    "ReloadRequired": {
+      "Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
+      "Name": "リロードが必要です"
+    },
+    "Reports": {
+      "Info": " 一度ダウンロードしたレポートは、デバイスのストレージに保存され、アプリの起動準備ができたらすぐにアクセスできます。すべてのレポートは、最初に閲覧されたメンバーに関連付けられています。ここでは、メンバーごとにレポートを消去することができます。多くのレポートをダウンロードした場合、最初のロード時間を短縮するために、この機能を使用することができます。",
+      "NoReports": "このデバイスにレポートデータがありません。",
+      "ReportsCount": "カウント",
+      "ReportsMember": "メンバー"
+    },
+    "Search": {
+      "HideFeatureSuggestions": {
+        "Description": "落ち着いて。自分でできるから。",
+        "Name": "機能の提案を隠す"
+      },
+      "ItemVisibilityOverride": {
+        "Description": "この設定は勝利の道のりとコレクションで設定した非表示設定を無効にして、検索結果に表示させる機能です。",
+        "Name": "入手済または達成済を表示"
+      }
+    },
+    "SubCategory": {
+      "Authentication": "認証",
+      "DIMSync": "DIM Sync",
+      "Developer": "開発者",
+      "IDB": "データベース容量",
+      "Interface": {
+        "AlternateAppIcon": "アプリのアイコン",
+        "Bindings": "キー入力表示設定",
+        "FlipSubviewNav": "サブ画面のナビを反転させる",
+        "ItemSize": "所持品のアイテムサイズ"
+      },
+      "ItemVisibility": "アイテム表示",
+      "LS": "ローカルデータ",
+      "Language": "言語",
+      "Reports": "ストレージ利用状況",
+      "SavedProfile": "保存したプロファイル",
+      "Search": "検索",
+      "Synchronisation": "データ同期",
+      "System": "システム",
+      "Theme": "テーマ",
+      "Troubleshooting": "トラブルシューティング",
+      "VisualFidelity": "表示設定"
+    },
+    "Sync": {
+      "Action": {
+        "DeleteSyncedSettings": {
+          "Description": "同期を無効にして、Voluspaに保存されている設定を削除します。",
+          "Name": "同期させたデータを消去する"
+        },
+        "DownloadSyncedSettings": {
+          "Description": "同期していたデータをダウンロードして、現在の設定に変更します。",
+          "Name": "同期しているデータをダウンロードする"
+        },
+        "Enable": {
+          "Description": "定期的にデータとVoluspaと同期させる。"
+        }
+      },
+      "Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
+      "RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
+      "State": {
+        "Merged": "最終マージ {{duration}} 前",
+        "Synced": "最終同期 {{duration}} 前"
+      }
+    },
+    "System": {
+      "PromptForMinorVersions": {
+        "Description": "マイナーバージョンでもアップデートがあったら通知する",
+        "Name": "マイナーアップデート"
+      },
+      "ReloadAppAutomatically": {
+        "Description": "Braytechのアップデートの準備ができたら、強制的にアプリをリロードする.",
+        "Name": "アプリを自動的にリロードする"
+      }
+    },
+    "Theme": {
+      "Black": {
+        "Name": "ブラック"
+      },
+      "Dark": {
+        "Name": "ダーク"
+      },
+      "Light": {
+        "Name": "ライト"
+      },
+      "SystemPreference": {
+        "Name": {
+          "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
+        }
+      }
+    },
+    "Troubleshooting": {
+      "DumpServiceWorker": {
+        "Description": "インストールされているService Workerの登録を解除します。成功した場合、アプリを再起動すると、新しいService Workerが代わりに使用できます。",
+        "Name": "Service Workerを破棄する"
+      },
+      "UpdateServiceWorker": {
+        "Description": "サービスワーカーの即時更新を試みます。この機能はボタンを一時的に無効にします。バックグラウンドでアップデートを試みている間も、Braytechを使い続けることができます。成功すると、アプリを再起動するように促されます。",
+        "Name": "Service Workerをアップデートする"
+      }
+    },
+    "VisualFidelity": {
+      "Gay": {
+        "Description": "オッスお願いしまーす! Braytech®限定でお届けする限定エディションの技術でライティングするってはっきりわかんだね。",
+        "Name": "あっ…（察し）✨"
+      },
+      "ReducedMotion": {
+        "Description": "様々なアニメーションを無効にすることで、ユーザーインターフェースの動きを抑えることができます。CPU使用率を低減します。",
+        "Name": "モーションを抑制する"
+      }
+    }
+  },
+  "SyncService": {
+    "Delete": {
+      "Failure": {
+        "Description": "設定を削除することができませんでした。これは一時的な障害です。"
+      },
+      "Success": {
+        "Description": "設定が削除されました。同期が無効になりました。"
+      }
+    },
+    "Merge": {
+      "Failure": {
+        "Description": "設定をマージしようとしたところ、エラーが発生しました。これは一時的な障害です。"
+      },
+      "Success": {
+        "Description": "設定をマージしました。"
+      }
+    },
+    "Sync": {
+      "Failure": {
+        "Description": "設定を同期しようとしたところ、エラーが発生しました。これは一時的な障害です。"
+      },
+      "Success": {
+        "Description": "設定を同期しました"
+      }
+    }
+  },
+  "Tooltip": {
+    "Actions": {
+      "Acquire": "取得する",
+      "Compare": "比較する",
+      "Equip": "装備",
+      "Favourite": "お気に入り",
+      "Garbage": "不用品",
+      "Inspect": "分析",
+      "Lock": "ロックする",
+      "NotGarbage": "不用品から戻す",
+      "Select": "選択",
+      "Store": "保管",
+      "Unfavourite": "お気に入りから外す",
+      "Unlock": "ロックを外す",
+      "Vault": "保管庫へ送る"
+    },
+    "Item": {
+      "ExpiresIn": "{{duration}}後に無効になります.",
+      "NoDescription": "説明文がありません。",
+      "Quantity": "数量",
+      "QuantityMax": "最大"
+    },
+    "Items": {
+      "StatTotal": "合計"
+    },
+    "Maps": {
+      "Availability": "入手可能: {{period}} ごと",
+      "UntrackableChecklistItem": "追跡不可能なチェックリスト"
+    }
+  },
+  "Triumphs": {
+    "AllCompleted": "すべて達成済",
+    "AlmostComplete": {
+      "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
+      "SeeNext": "次の{{number}}件を見る"
+    },
+    "AlmostCompleteTriumphs": "もうすぐ完成",
+    "Classified": {
+      "Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
+      "Name": "機密の記録"
+    },
+    "Details": {
+      "Completed": "達成済",
+      "FireteamLoading": "ファイアチームのメンバー情報を読み込んでいます",
+      "NoClanOrFireteam": "ファイアチームやクランに参加して、仲間のガーディアンの実力を確認してみましょう!",
+      "NotCompleted": "未達成",
+      "OpenView": "詳細を見る"
+    },
+    "DudTriumphs": "工事中",
+    "EventCard": "イベントカード",
+    "LegacySeal_plural": "過去の印",
+    "LegacyTriumph_plural": "過去の勝利の道のり",
+    "LegacyTriumphs": {
+      "Description": "過去の勝利の道のりは現在では挑戦できませんが、後世に残すためにここに保存されています。"
+    },
+    "Lore": {
+      "SelectEntry": "読みたい伝承を選択してください"
+    },
+    "Record": {
+      "Commonality": {
+        "Description": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。"
+      },
+      "Expiration": {
+        "Description": "この項目は、期限が切れると入手できなくなる可能性があります。"
+      },
+      "Expires": "シーズン{{season}}終了時に期限切れとなります。",
+      "IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
+      "Score": {
+        "Description": "このレコードの勝利スコアは有限です。"
+      },
+      "ScoreInterval": {
+        "Description": "合計レコード値に対する次に獲得するスコア値"
+      }
+    },
+    "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
+    "RecordsUnavailable": "表示できる未完了の挑戦はありません",
+    "Seal": "印",
+    "SealTitleSeasonSuffix": "{{title}} (シーズン {{season}})",
+    "Seal_plural": "印",
+    "Seals": {
+      "AvailableTitle": "入手可能なタイトル: **{{title}}**",
+      "Commonality": {
+        "Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
+        "Name": "印のレアリティ"
+      },
+      "CommonalityGilded": {
+        "Description": "Voluspaのインデックスに登録されているプレイヤーのうち、このタイトルを取得した人の割合。",
+        "Name": "勝利の道のりの印のレア度"
+      },
+      "PlayerTitle": "プレイヤータイトル: **{{title}}**",
+      "SealCompleted": "終了した印",
+      "SealGilded": "勝利の道のりの印",
+      "SealGildedProgress": "勝利の道のりの印の進行状況",
+      "SealProgress": "印の進捗"
+    },
+    "Secret": {
+      "Description": "まだ解き明かされていない謎",
+      "Name": "秘密の勝利の道のり"
+    },
+    "Sorted": {
+      "Completion": "完了順に並び替え",
+      "Name": "**名前順**で並び替え",
+      "Rarity": "レア度順に並び替え",
+      "Score": "スコア順に並び替え",
+      "Unsorted": "Bungie指定の順に並び替え"
+    },
+    "Tracked": {
+      "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
+      "SeeAll": "すべての追跡を見る"
+    },
+    "TrackedTriumphs": "追跡中の勝利の道のり",
+    "Triumph_plural": "勝利の道のり",
+    "UnobtainableTriumphs": "入手できません",
+    "Unredeemed": {
+      "Info": "勝利を勝ち取り記録を塗り変えよ",
+      "InfoWithScoreValue": "まだ取得してない勝利の道のりを解除するとスコアが {{value}} 点まで増えますよ。",
+      "Number": "{{number}} 個の取得していない勝利の道のりがあります"
+    },
+    "UnredeemedTriumphs": "取得していない勝利の道のり"
+  },
+  "Upsell": {
+    "Auth": {
+      "Description": "自分の目標やその他の進捗データを確認したいですか？Bungie.netを使ってBraytechを認証し、プロフィールデータを安全に読み取れるようにしましょう。"
+    },
+    "Patreon": {
+      "Description": "私たちは皆、広告が嫌いです。彼らは醜い。広告はデザイン、世界を汚すものです。Patreonを通じてアプリを支援いただくことで、Braytechから広告を遠ざけることができます。一度だけの支援でも、継続的な支援でも、二束三文の支援でも構いません。",
+      "Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
+      "RewardResearcher": "Patreonのリサーチャーランクの方にはクロビス・ブレイのメダルアンロックされます",
+      "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
+      "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます"
+    },
+    "Profile": {
+      "Action": "キャラクターを選ぶ",
+      "Description": "自分の目標達成状況、達成した記録、発見したコレクションなどを確認したいですか？ 自分のプロフィールを読み込んで、キャラクターを選択してください。"
+    }
+  },
+  "Vendor": {
+    "FailureStrings": {
+      "NoFunds": "資源が不足しています",
+      "NoInventorySpace": "空きスペースがありません",
+      "UniquenessViolation": "複数所持はできません"
+    }
+  },
+  "Voluspa": {
+    "AdjustGraph": {
+      "Description": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
+      "Description_record": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
+      "Name": "グラフ設定"
+    },
+    "CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",
+    "Commonality": "レア度",
+    "CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
+    "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
+    "GraphType": {
+      "Frequency": "レア度",
+      "TimeSeries": "時系列"
+    },
+    "LastCrawled": "{{time}}に更新されました",
+    "ProfilesAssessed": "プレイヤー人数"
+  },
+  "Weeklies": {
+    "Challenges": {
+      "ActivityBonus": "アクティビティボーナス",
+      "ArtifactPower": {
+        "Description": "得られた経験を通して、シーズンアーティファクトよってもたらされるライトレベルへのボーナス",
+        "Name": "アーティファクトパワーボーナス"
+      },
+      "ArtifactPowerBonus": "パワーボーナス",
+      "GearPower": {
+        "Description": "現在の装備の平均パワーレベルです。",
+        "Name": "装備のパワー"
+      },
+      "NoChallenges": "どうやら今週のアクティビティすべてを回収したようです。",
+      "Power": {
+        "Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
+        "Name": "光のレベル"
+      },
+      "SeasonalChallenges": {
+        "Available": "{{number}} 個のシーズンの挑戦が可能です",
+        "Description": "期間限定のシーズンランク、ブライトダスト、その他報酬がもらえる挑戦を完了しました。",
+        "Name": "シーズンの挑戦"
+      },
+      "Type": {
+        "Bounties": "バウンティ",
+        "Crucible": "クルーシブル",
+        "Dungeon": "迷宮",
+        "Exotic": "エキゾチック",
+        "Expansion": "エキスパンション",
+        "Gambit": "ギャンビット",
+        "Raid": "レイド",
+        "Seasonal": "シーズン",
+        "Strikes": "ストライク"
+      }
+    },
+    "Rotations": {
+      "Description": "ローテーションで執り行われる儀式の予定を知ることで、未入手の武器取得やアイテム厳選の計画が立てやすくなります。ローテーションの内容は開発にて変更されることがあり、このページもそれに合わせて更新されます。",
+      "Name": "ローテーション"
+    }
+  }
 }
