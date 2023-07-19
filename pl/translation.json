@@ -1,806 +1,1379 @@
 {
-  "Action.AddBookmark": "🦘 Add Bookmark",
-  "Action.Back": "🦘 Back",
-  "Action.BecomeAPatron": "🦘 Become a Patron",
-  "Action.Browse": "🦘 Browse",
-  "Action.Cancel": "🦘 Cancel",
-  "Action.Close": "🦘 Close",
-  "Action.Collapse": "🦘 Collapse",
-  "Action.Confirm": "🦘 Confirm",
-  "Action.Customise": "🦘 Customise",
-  "Action.Disable": "🦘 Disable",
-  "Action.Dismiss": "🦘 Dismiss",
-  "Action.Enable": "🦘 Enable",
-  "Action.Expand": "🦘 Expand",
-  "Action.GatherInVault": "🦘 Gather In Vault",
-  "Action.GoToBNet": "🦘 Go to Bungie.net",
-  "Action.GoToTwitter": "🦘 Go to Twitter",
-  "Action.HideAcquired": "🦘 Hide Acquired",
-  "Action.HideCollectionsRolls": "🦘 Hide Possible Rolls",
-  "Action.HideRedeemed": "🦘 Hide Redeemed",
-  "Action.Jump": "🦘 Jump",
-  "Action.MemberRemove": "🦘 Remove Member",
-  "Action.NextNth": "🦘 Next {{number}}",
-  "Action.Now": "🦘 Now",
-  "Action.Open": "🦘 Open",
-  "Action.Previous": "🦘 Previous",
-  "Action.PullPostmaster": "🦘 Pull From Postmaster",
-  "Action.ReloadApp": "🦘 Reload App",
-  "Action.ReloadAppAutomatically": "🦘 Reload App Automatically",
-  "Action.RemoveBookmark": "🦘 Remove Bookmark",
-  "Action.Reset": "🦘 Reset",
-  "Action.SelectDate": "🦘 Select Date",
-  "Action.SelectFilters": "🦘 Filters",
-  "Action.SelectMasterwork": "🦘 Any Masterwork",
-  "Action.Set": "🦘 Set",
-  "Action.Share": "🦘 Share",
-  "Action.ShowAll": "🦘 Show All",
-  "Action.ShowCollectionsRolls": "🦘 Show Possible Rolls",
-  "Action.TryAgain": "🦘 Try Again",
-  "Action.UserReady": "🦘 Let's go!",
-  "Action.ViewMore": "🦘 View More",
-  "Activity.ActiveRotator": "🦘 Active Rotator",
-  "Activity.Carnage.SelectDate.Info": "🦘 Select a date below and prepare to jump",
-  "Activity.Carnage.SelectDate.Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
-  "Activity.Cooperative": "🦘 Cooperative",
-  "Activity.Fireteam.Closed": "🦘 Fireteam Closed",
-  "Activity.Fireteam.Full": "🦘 Fireteam Full",
-  "Activity.Fireteam.MatchLoading": "🦘 Match Is Loading",
-  "Activity.Fireteam.Matchmaking": "🦘 Matchmaking",
-  "Activity.Fireteam.Open": "🦘 Fireteam Open",
-  "Activity.Fireteam.SinglePlayer": "🦘 Single Player Activity",
-  "Activity.FreeForAll": "🦘 Free For All",
-  "Activity.Graphs.SelectDate": "🦘 Select a date with activities played from the graph above.",
-  "Activity.LevelAdvantagesDisabled": "🦘 Level Advantages Disabled",
-  "Activity.LevelAdvantagesEnabled": "🦘 Level Advantages Enabled",
-  "Activity.Matchmaking": "🦘 Matchmaking",
-  "Activity.MaxParty": "🦘 {{number}} players",
-  "Activity.Modes.Bar.PvPLoss": "🦘 Loss",
-  "Activity.Modes.Bar.PvPWin": "🦘 Win",
-  "Activity.Modes.Last100.PvE": "🦘 Last 100 Activities",
-  "Activity.Modes.Last100.PvP": "🦘 Last 100 Matches",
-  "Activity.Modes.Lifetime": "🦘 Lifetime",
-  "Activity.Modes.Line.AverageKD": "🦘 Average K/D",
-  "Activity.Modes.Scatter.PvEFailure": "🦘 Failure",
-  "Activity.Modes.Scatter.PvEFlawless": "🦘 Flawless",
-  "Activity.Modes.Scatter.PvPFlawless": "🦘 Flawless",
-  "Activity.Modes.Scatter.PvPLoss": "🦘 Loss",
-  "Activity.Modes.Scatter.PvPWin": "🦘 Win",
-  "Activity.Modes.TrialsPassage": "🦘 Trials Passage",
-  "Activity.ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
-  "Activity.NoMedalsAwarded": "🦘 No Medals Awarded",
-  "Activity.PvP": "🦘 Player versus Player",
-  "Activity.RecommendedLight": "🦘 Recommended light",
-  "Activity.Score.Team": "🦘 Team Score",
-  "Activity.SelectMode": "🦘 Select Mode",
-  "Activity.SelectModeInfo": "🦘 To drill down to a specific activity, select a mode from the interface above",
-  "Activity.SinglePlayer": "🦘 Single Player",
-  "Activity.Standing.Defeat": "🦘 Defeat",
-  "Activity.Standing.DidNotFinish": "🦘 Player did not finish",
-  "Activity.Standing.Mercy": "🦘 Mercy",
-  "Activity.Standing.Tie": "🦘 Tie",
-  "Activity.Standing.Victory": "🦘 Victory",
-  "Activity.State.ActivityHistoryError": "🦘 Something went wrong while trying to load activity history. Please try again.",
-  "Activity.State.DownloadingReports": "🦘 Collecting fireteam data from Bungie.net",
-  "Activity.State.DownloadingReportsProgressValue": "🦘 Downloading Reports",
-  "Activity.State.GenericError": "🦘 Something went wrong. Please try again.",
-  "Activity.State.HydratingReportsCache": "🦘 Restoring reports data from device storage",
-  "Activity.State.LoadGroupMembers": "🦘 Analysing clan and activity history",
-  "Activity.State.LoadingPeriod": "🦘 Scanning... {{date}}",
-  "Activity.State.NoBookmarks": "🦘 You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in _Settings_.",
-  "Activity.State.NoHistoryAvailable": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
-  "Activity.State.PeriodNotFound": "🦘 The requested period could not be found in this character's activity history.",
-  "Activity.State.RequestHistory": "🦘 Analysing activity history",
-  "Activity.State.RequestHistoryPage": "🦘 Analysing activity history... Retrieving page {{page}}",
-  "Activity.Team.Allies": "🦘 Their Team",
-  "Activity.Team.Alpha": "🦘 Alpha",
-  "Activity.Team.Bravo": "🦘 Bravo",
-  "Activity.Team.Opposition": "🦘 Enemy Team",
-  "Addendums.Credits.Origins.Description": "🦘 Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone.",
-  "Addendums.Privacy.Info": "🦘 The long and skinny of it is that Braytech doesn't use cookies or any other mechanism to track you, nor does it target you for advertising purposes (I mean, Braytech doesn't have any ads).\n\nIf you have any questions further to the point of this notice, feel free to jump into the [Discord](https://discord.bray.tech).",
-  "Addendums.Privacy.Policy": "🦘 1.  Introduction\n    1. For all purposes, this English language version of this Privacy Policy shall be the original, governing instrument, and understanding of the parties. In the event of any conflict between this English language version of this Privacy Policy and any subsequent translation into any other language, this English language version shall govern and control.\n    2. Braytech is a free fan made service for Destiny 2, the video game. This privacy policy explains how your data is used by this application.\n    3. Braytech is constantly improving, and the developer may modify this Privacy Policy from time to time to reflect changes in their privacy practices. You are encouraged to review this Privacy Policy periodically and to check the date at the end of the Privacy Policy for the most recent version.\n    4. Herein, the \"developer\" refers to Tom Chapman.\n2. Information the developer collects\n    1. Information provided by You\n        1. Your platform specific profile name is used to load and display your Destiny profile. At no point are your private credentials collected or used.\n        2. Patrons of Braytech may also optionally provide their email address as a means to associate their Destiny profile with their Patreon account in order to receive the appropriate flair for their Patreon pledge.\n    2. Information the developer automatically collects\n        1. Data regarding your usage of the services provided including your IP address, geographical location, browser name and version, operating system, referral source, length of visit, page views, and navigation paths, as well as information about the timing, frequency, and pattern of your service use.\n3. How your personal data is used\n    1. Destiny and Bungie account info\n        1. In order to display and manipulate Destiny game information, Braytech uses the Bungie.net API. The only information Braytech receives, or has access to, is your game information (items, characters, etc.) and basic account information including your Bungie.net membership ID, and the identifiers of any linked services such as your public PSN, Xbox Live, Steam, Stadia, Blizzard, or Bungie.net usernames. The developer does not have access to your email, name, address, payment information, or any other personal information held by Bungie or the game platforms.\n        2. Use of the Bungie.net API is governed by the [Terms of Use](https://www.bungie.net/7/en/Legal/Terms) and [Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy) for Bungie.net.\n    2. Patreon\n        1. The data provided by you, the user, for the purpose of associating your Destiny profile with your Patreon account is only ever used for that fact, stored securely through Voluspa.\n    3. Usage data\n        1. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.\n    4. Braytech settings sync\n        1. Voluspa enables a Braytech feature which allows you, the user, to store your data (Braytech settings) and sync it between instances of Braytech. This information is only accessible to you and the developer.\n\nLast updated Wednesday, May 19, 2021.",
-  "App.BungieError": "🦘 Bungie Error",
-  "App.CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-  "App.CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
-  "App.ErrorBoundary.Discord": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
-  "App.ErrorBoundary.Version": "🦘 Please quote the following string when reporting this error.",
-  "App.FriendlyError.Description": "🦘 Please, do not tell Commander Zavala... Yet.",
-  "App.FriendlyError.Name": "🦘 Pardon Our Dust",
-  "App.NetworkError.Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
-  "App.ServiceWorkerInstalling.Description": "🦘 An app update is installing in the background.",
-  "App.ServiceWorkerReload.Description": "🦘 A fresh update for Braytech is available. Please select reload to use a better version of this app.\n\nCheck the change log on the index view for details on what's new.",
-  "App.ServiceWorkerReload.Name": "🦘 Update Available",
-  "App.UnknownError": "🦘 Unknown Error",
-  "App.UnsupportedBrowser.Description": "🦘 Braytech requires modern browser features in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
-  "App.UnsupportedBrowser.Name": "🦘 Unsupported Browser",
-  "App.Version": "🦘 Version",
-  "Archives.Grimoire.Description": "🦘 The lore of old, Destiny 1's Grimoire cards are backed up, archived, and preserved here. Grimoire is a database within Destiny. Entries were unlocked through playing the game in the form of \"cards.\"\n\nThe list of Grimoire entries is sorted into six main categories—Guardian, Inventory, Allies, Enemies, Places, and Activities. Each of these categories has a number of sub-categories.",
-  "Archives.Grimoire.Name": "🦘 Grimoire",
-  "Archives.Guides.VowOfTheDisciple.Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-  "Archives.Guides.VowOfTheDisciple.Name": "🦘 Archives.Guides.VowOfTheDisciple.Name",
-  "Auth.Data.Action": "🦘 Forget Me",
-  "Auth.Data.Description": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
-  "Auth.Data.Name": "🦘 Authentication Data",
-  "Auth.Error.NoAuth.Description": "🦘 Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
-  "Auth.Error.NoAuth.Name": "🦘 Authentication Required",
-  "Auth.Error.Permissions.Profile.Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
-  "Auth.Error.Permissions.Profile.Name": "🦘 Oh, honey... Honnnnneyyyy",
-  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
-  "Auth.Login": "🦘 Login with Bungie.net",
-  "Auth.Memberships.Description": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
-  "Auth.Memberships.Name": "🦘 Associated Memberships",
-  "Auth.PatreonAssociation.Description": "🦘 Associate this Bungie.net profile with a Patreon account.",
-  "Auth.PatreonAssociation.Name": "🦘 Patreon Association",
-  "Auth.PatreonAssociation.Placeholder": "🦘 chonky_zuzuvala69@hotmail.reef",
-  "Auth.PatreonAssociation.Success": "🦘 Thanks! Your email is now associated with your profiles",
-  "Auth.PatreonAssociation.Text": "🦘 Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name. Enable display of relevant flair by entering the email associated with your Patreon account.",
-  "Auth.Suggestion.Subtle": "🦘 Login with Bungie.net to unlock more features.",
-  "Auth.Suggestion.Text": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
-  "Character.Breakdown.EffectiveMods": "🦘 Effective Mods",
-  "Character.Breakdown.SlottedMods": "🦘 Slotted Mods",
-  "Character.Breakdown.UnusedEnergy": "🦘 Unused Energy",
-  "Character.Compare.ObtainFromVendor": "🦘 Obtain From {{name}}",
-  "Character.DIMSync.Description": "🦘 This feature requires DIM Sync to function. Enable DIM Sync in _Settings_.",
-  "Character.DIMSync.Name": "🦘 DIM Sync",
-  "Character.DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-  "Character.Equipment.Armor": "🦘 Armor",
-  "Character.Equipment.Auxiliary": "🦘 Auxiliary",
-  "Character.Equipment.Breakdown": "🦘 Breakdown",
-  "Character.Equipment.Weapons": "🦘 Weapons",
-  "Character.Filter.ArcDamage": "🦘 Arc Damage",
-  "Character.Filter.DeepsightResonance": "🦘 Deepsight",
-  "Character.Filter.Favourite": "🦘 Favourite",
-  "Character.Filter.Garbage": "🦘 Garbage",
-  "Character.Filter.KineticDamage": "🦘 Kinetic Damage",
-  "Character.Filter.Shaped": "🦘 Shaped",
-  "Character.Filter.SolarDamage": "🦘 Solar Damage",
-  "Character.Filter.StasisDamage": "🦘 Stasis Damage",
-  "Character.Filter.StrandDamage": "🦘 Strand Damage",
-  "Character.Filter.VoidDamage": "🦘 Void Damage",
-  "Character.Vendors.BrightDustItems": "🦘 Bright Dust Items",
-  "Character.Vendors.CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
-  "Character.Vendors.EververseCalendar": "🦘 Eververse Calendar",
-  "Character.Vendors.FeaturedBrightDustItems": "🦘 Featured Bright Dust Items",
-  "Character.Vendors.FeaturedSilverItems": "🦘 Featured Silver Items",
-  "Character.Vendors.ShowAllItems": "🦘 Show All Items",
-  "Character.Vendors.ShowSilverOnlyItems": "🦘 Show Silver-only Items",
-  "Character.Vendors.SilverOnlyItems": "🦘 Silver-only Items",
-  "Clan.Administration.ViewportWidth": "🦘 Administration is intended for use on larger displays. Please use a display with a viewport of atleast `1280px`.",
-  "Clan.BannerPerks": "🦘 Banner Perks",
-  "Clan.ClanAdministration": "🦘 Administration",
-  "Clan.ClanBannerBuilder.BannerColor": "🦘 Banner Color",
-  "Clan.ClanBannerBuilder.BannerDetail": "🦘 Banner Detail",
-  "Clan.ClanBannerBuilder.BannerDetailColor": "🦘 Banner Detail Color",
-  "Clan.ClanBannerBuilder.BannerEmblem": "🦘 Banner Emblem",
-  "Clan.ClanBannerBuilder.Description": "🦘 Collaborate with clan members on a new clan banner: make your selections and tap Share to show off your style.",
-  "Clan.ClanBannerBuilder.EmblemBackgroundColor": "🦘 Emblem Background Color",
-  "Clan.ClanBannerBuilder.EmblemForegroundColor": "🦘 Emblem Foreground Color",
-  "Clan.ClanBannerBuilder.Name": "🦘 Clan Banner Builder",
-  "Clan.ClanRoster": "🦘 Roster",
-  "Clan.Founded": "🦘 Founded {{time}}",
-  "Clan.HistoricalStats.ViewportWidth": "🦘 Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`.",
-  "Clan.HistoricalStatsLoading": "🦘 Loading historical stats",
-  "Clan.Members": "🦘 {{number}} Members",
-  "Clan.MembersLoading": "🦘 Loading {{name}} members",
-  "Clan.NoClan.Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
-  "Clan.NoClan.Name": "🦘 No clan affiliation",
-  "Clan.Relationships.BestFriends": "🦘 Best Friends",
-  "Clan.Relationships.Description": "🦘 Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other.\n\nThese Guardians are your clan members and this ranking resets with every new season.",
-  "Clan.Relationships.Name": "🦘 Relationships",
-  "Clan.Relationships.NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
-  "Clan.Relationships.NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
-  "Clan.Relationships.Options.LimitCurrentSeason.Description": "🦘 Only load activities from the current season.",
-  "Clan.Relationships.Options.LimitCurrentSeason.Name": "🦘 Current Season",
-  "Clan.Relationships.Options.LimitGroupMembers.Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-  "Clan.Relationships.Options.LimitGroupMembers.Name": "🦘 Clan Members",
-  "Clan.Relationships.RomanticPartnerships": "🦘 Romantic Partnerships",
-  "Clan.Relationships.SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-  "Clan.Relationships.TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-  "Clan.Relationships.TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-  "Clan.Relationships.UndiscoveredFriends": "🦘 Undiscovered Friends",
-  "Clan.RewardEngrams": "🦘 Reward Engrams",
-  "Clan.Roster.Approve": "🦘 Approve",
-  "Clan.Roster.Ban": "🦘 Ban",
-  "Clan.Roster.Demote": "🦘 Demote",
-  "Clan.Roster.Deny": "🦘 Deny",
-  "Clan.Roster.DisplayName": "🦘 Display Name",
-  "Clan.Roster.DownloadData": "🦘 Download Data",
-  "Clan.Roster.Glory": "🦘 Glory",
-  "Clan.Roster.Infamy": "🦘 Infamy",
-  "Clan.Roster.Joined": "🦘 Joined",
-  "Clan.Roster.Kick": "🦘 Kick",
-  "Clan.Roster.LastActivity": "🦘 Last Activity",
-  "Clan.Roster.LastCharacter": "🦘 Character",
-  "Clan.Roster.LastPlatform": "🦘 Platform",
-  "Clan.Roster.Promote": "🦘 Promote",
-  "Clan.Roster.Rank": "🦘 Rank",
-  "Clan.Roster.Valor": "🦘 Valor",
-  "Clan.Roster.WeeklyClanXP": "🦘 Weekly XP",
-  "Collections.Badge": "🦘 Badge",
-  "Collections.Badge_plural": "🦘 Badges",
-  "Collections.Badges.Commonality.Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this badge.",
-  "Collections.Badges.Commonality.Name": "🦘 Badge Commonality",
-  "Collections.Badges.Completed": "🦘 Badge Completed",
-  "Collections.Badges.Progress": "🦘 Badge Progress",
-  "Collections.CollectedBy": "🦘 Collected",
-  "Collections.CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them.",
-  "Collections.CollectiblesUnavailable": "🦘 There are no collectibles available for display.",
-  "Collections.Grouped.Season": "🦘 Group by Season",
-  "Collections.Grouped.Ungroup": "🦘 Ungroup",
-  "Collections.RecentlyDiscovered": "🦘 Recently Discovered",
-  "Collections.SetComplete": "🦘 Set complete",
-  "Collections.SomeAcquiredSomeInvisible": "🦘 Some acquired, {{invisible}} invisible",
-  "Commendations.Received": "🦘 Received",
-  "Commendations.ReceivedAbr": "🦘 Recvd.",
-  "Commendations.Sent": "🦘 Sent",
-  "Commendations.SentAbr": "🦘 Sent",
-  "Common.ActiveModifiers": "🦘 Active Modifiers",
-  "Common.ActiveScore": "🦘 Active Score",
-  "Common.Activity": "🦘 Activity",
-  "Common.ActivityBonus": "🦘 Activity Bonus",
-  "Common.ActivityMembers": "🦘 Activity Members",
-  "Common.Activity_plural": "🦘 Activities",
-  "Common.Addendums": "🦘 Addendums",
-  "Common.All": "🦘 All",
-  "Common.AscendantChallenge": "🦘 Ascendant Challenge",
-  "Common.Authenticate": "🦘 Authenticate",
-  "Common.AvailableActivities": "🦘 Available Activities",
-  "Common.Cancel": "🦘 Cancel",
-  "Common.Challenge": "🦘 Challenge",
-  "Common.Challenge_plural": "🦘 Challenges",
-  "Common.Character": "🦘 Character",
-  "Common.CharacterClass": "🦘 Character Class",
-  "Common.CharacterLight": "🦘 Character Light",
-  "Common.CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
-  "Common.Character_plural": "🦘 Characters",
-  "Common.Checklists": "🦘 Checklists",
-  "Common.Clan": "🦘 Clan",
-  "Common.ClanMember_plural": "🦘 Clan Members",
-  "Common.ClanMembersNth": "🦘 Clan Members",
-  "Common.Classified": "🦘 Classified",
-  "Common.Collectibles": "🦘 Collectibles",
-  "Common.Collections": "🦘 Collections",
-  "Common.CollectionsScore": "🦘 Collections Score",
-  "Common.CommendationAbr_plural": "🦘 Comms.",
-  "Common.Completed": "🦘 Completed",
-  "Common.CruciblePlaylist": "🦘 Crucible Playlist",
-  "Common.Equipment": "🦘 Equipment",
-  "Common.Error": "🦘 Error",
-  "Common.Examples": "🦘 Examples",
-  "Common.Expired": "🦘 Expired",
-  "Common.Expiry": "🦘 Expiry",
-  "Common.Failure": "🦘 Failure",
-  "Common.FeaturedEvent": "🦘 Featured Event",
-  "Common.FeaturedNightfall": "🦘 Featured Nightfall",
-  "Common.FeaturedPlaylist": "🦘 Featured Playlist",
-  "Common.Fireteam": "🦘 Fireteam",
-  "Common.FireteamMembers": "🦘 Fireteam Members",
-  "Common.Friend": "🦘 Friend",
-  "Common.Friend_plural": "🦘 Friends",
-  "Common.GloryPoints": "🦘 Glory Points",
-  "Common.GuardianRank": "🦘 Guardian Rank",
-  "Common.Guardians": "🦘 Guardians",
-  "Common.Help": "🦘 Help",
-  "Common.HistoricalStats": "🦘 Historical Stats",
-  "Common.InfamyPoints": "🦘 Infamy Points",
-  "Common.Inspect": "🦘 Inspect",
-  "Common.Inventory": "🦘 Inventory",
-  "Common.Items": "🦘 Items",
-  "Common.LegacyScore": "🦘 Legacy Score",
-  "Common.LevelNth": "🦘 Level {{number}}",
-  "Common.LoreBook": "🦘 Lore Book",
-  "Common.Medals": "🦘 Medals",
-  "Common.MembersOnline": "🦘 {{number}} Online",
-  "Common.Name": "🦘 Name",
-  "Common.NoActivitiesAvailable": "🦘 There aren't any activities available to you. Perhaps you don't meet the requirements...",
-  "Common.NothingHereYet": "🦘 There's nothing here yet",
-  "Common.Objectives": "🦘 Objectives",
-  "Common.Offline": "🦘 Offline",
-  "Common.Patron_plural": "🦘 Patrons",
-  "Common.Player": "🦘 Player",
-  "Common.Preview": "🦘 Preview",
-  "Common.Profile": "🦘 Profile",
-  "Common.Progress": "🦘 Progress",
-  "Common.Progression": "🦘 Progression",
-  "Common.Quests": "🦘 Quests",
-  "Common.Rank_plural": "🦘 Ranks",
-  "Common.Record": "🦘 Record",
-  "Common.Report_plural": "🦘 Reports",
-  "Common.Reset": "🦘 Reset",
-  "Common.Reward": "🦘 Reward",
-  "Common.Reward_plural": "🦘 Rewards",
-  "Common.Savathûn'sCurse": "🦘 Savathûn's Curse",
-  "Common.Score": "🦘 Score",
-  "Common.ScoreValue": "🦘 Score Value",
-  "Common.Search": "🦘 Search",
-  "Common.SeasonNth": "🦘 Season {{number}}",
-  "Common.SeasonPass": "🦘 Season Pass",
-  "Common.SeasonRank": "🦘 Season Rank",
-  "Common.SeasonYearNth": "🦘 Season {{season}}, Year {{year}}",
-  "Common.Settings": "🦘 Settings",
-  "Common.Source": "🦘 Source",
-  "Common.SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
-  "Common.SpecialCommendation_plural": "🦘 Special Comms.",
-  "Common.Submit": "🦘 Submit",
-  "Common.Support": "🦘 Support",
-  "Common.TimePlayed": "🦘 Time Played",
-  "Common.Translator_plural": "🦘 Translators",
-  "Common.TriumphScore": "🦘 Triumph Score",
-  "Common.Triumphs": "🦘 Triumphs",
-  "Common.Unknown": "🦘 Unknown",
-  "Common.Users": "🦘 Users",
-  "Common.ValorPoints": "🦘 Valor Points",
-  "Common.Vendor_plural": "🦘 Vendors",
-  "Common.Views": "🦘 Views",
-  "Common.Weapon": "🦘 Weapon",
-  "Common.WeekNth": "🦘 Week {{number}}",
-  "FAQ.API.StatDiscrepancy.Description": "🦘 There are multiple sources for stats in Destiny. Clan Historical Stats is based on the HistoricalStats API endpoint while others source their data from PGCRs (Post Game Carnage Reports). It's hard to determine which holds the most accurate truth.\n\nTo display stats in the manner seen on Clan Historical Stats would require downloading terabytes of data from Bungie servers and significant compute power. This said, they're accurate enough for some friendly competition.",
-  "FAQ.API.StatDiscrepancy.Name": "🦘 Clan Historical Stats don't match [other thing]",
-  "FAQ.Braytech.AppStore.Description": "🦘 Braytech is available on Apple's [App Store](https://apps.apple.com/app/braytech/id1593151816), [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa), and the [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)!",
-  "FAQ.Braytech.AppStore.Name": "🦘 App stores",
-  "FAQ.Braytech.Commonality.Description": "🦘 Commonly asked, \"What is the funny percentage to the right of collectibles and records?\"\n\nIt's a percentage of players who've either discovered or redeemed the item. Every few days, _Voluspa_ collects data from users of _Braytech_ and takes note of who's got what.\n\nIt's been a hot topic as to whether it's accurate or useful and the truth is that all statistics are useless and dumb _unless_ you've included every single piece of data possible.\n\nIt's fair to assume that these stats are bias towards casual players (percentages may appear higher rather than lower due to the skill and attention of the users that are monitored).\n\nWhere available, tooltips for these stats include the total number of players who are counted as a part of this metric.{{crawled}}",
-  "FAQ.Braytech.Commonality.Name": "🦘 Commonality",
-  "FAQ.Braytech.KeyboardShortcuts.Description": "🦘 In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press  to go to _Triumphs_ and  to return here.",
-  "FAQ.Braytech.KeyboardShortcuts.Name": "🦘 Keyboard Shortcuts",
-  "FAQ.Braytech.ProfilePrivacy.Description": "🦘 If you're concerned for your privacy while playing Destiny and how the API exposes your progression and activities for use by third parties, you may alter your privacy settings on [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy).\n\nDoing so will require that you authenticate Braytech with Bungie for continued use.",
-  "FAQ.Braytech.ProfilePrivacy.Name": "🦘 Profile privacy",
-  "FAQ.Braytech.ServiceWorkerUpdate.Description": "🦘 From the _Settings_ view, you can try a variety of things. Start by selecting _Update Service Worker_.\n\nIf this fails, you can try reloading the app by selecting _Reload App_. If the problem continues to persist, please select _Dump Service Worker_ and report the issue via Discord.",
-  "FAQ.Braytech.ServiceWorkerUpdate.Name": "🦘 Braytech won't update",
-  "FAQ.Braytech.Widgets.Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
-  "FAQ.Braytech.Widgets.Name": "🦘 Widgets",
-  "FAQ.Braytech.Widgets.Video1Caption": "🦘 How to add widgets to your home screen.",
-  "FAQ.Braytech.Widgets.Video2Caption": "🦘 How to add widgets to your lock screen.",
-  "FAQ.Voluspa.About.Description": "🦘 _Voluspa_, named after a sub-mind of _Rasputin_, is what I've named the serverside component of Braytech. It's responsible for collating the profile data of Braytech's users for commonality statistics, settings sync, and other key features.",
-  "FAQ.Voluspa.About.Name": "🦘 About Voluspa",
-  "GettingStarted.Header.Description": "🦘 Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on Discord or you can check out the FAQ!",
-  "GettingStarted.Header.Name": "🦘 Getting Started",
-  "GettingStarted.Header.SubName": "🦘 Clovis Bray Technologies",
-  "GettingStarted.Tips.Search.Description": "🦘 Need to find something quick? Braytech has a search HUD, available anywhere in the app.\n\nPress  or tap the magnifying glass button, and start typing!",
-  "GettingStarted.Tips.Search.Name": "🦘 Search",
-  "GettingStarted.Tips.Settings.Description": "🦘 Braytech is jam-packed full of settings from dark themes to item visibility options to settings sync.\n\nFind \"Settings\" in the top corner.",
-  "GettingStarted.Tips.Settings.Name": "🦘 Settings",
-  "GettingStarted.Tips.Views.Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
-  "GettingStarted.Tips.Views.Name": "🦘 More",
-  "GuardianRank.Current": "🦘 Current Rank: {{value}}",
-  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
-  "Item.Ammo": "🦘 Ammo",
-  "Item.Breaker": "🦘 Breaker",
-  "Item.ClassEquipped": "🦘 {{name}} (Equipped)",
-  "Item.ClassPostmaster": "🦘 {{name}} (Postmaster)",
-  "Item.CollectionsRoll": "🦘 Collections Roll",
-  "Item.Compare": "🦘 Compare",
-  "Item.CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
-  "Item.CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
-  "Item.CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",
-  "Item.Energy": "🦘 Energy",
-  "Item.EnergyCapacity": "🦘 Energy",
-  "Item.EnergyCost": "🦘 Energy",
-  "Item.EnergyMeter": "🦘 Energy",
-  "Item.EnergyUnused": "🦘 Unused",
-  "Item.Inspect": "🦘 Inspect",
-  "Item.Intrinsic": "🦘 Intrinsic",
-  "Item.ItemAction": "🦘 Item Action",
-  "Item.Mods": "🦘 Mods",
-  "Item.PerkEverything": "🦘 This perk is highly sought after for all activities",
-  "Item.PerkPvE": "🦘 This perk is encouraged for Vanguard engagements",
-  "Item.PerkPvP": "🦘 This perk is encouraged for Crucible engagements",
-  "Item.PerkRecommended": "🦘 This perk is recommended",
-  "Item.Perks": "🦘 Perks",
-  "Item.RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
-  "Item.ShapedDate": "🦘 T.D. {{date}}",
-  "Item.State": "🦘 State",
-  "Item.Stats": "🦘 Stats",
-  "Item.TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
-  "Item.UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
-  "Item.WeaponKills": "🦘 Weapon Kills",
-  "Landing.Blog.AllPosts": "🦘 All Posts",
-  "Landing.Blog.Error": "🦘 Blog posts couldn't be loaded at this time.",
-  "Landing.Blog.Name": "🦘 Blog",
-  "Landing.CallToAction.Text": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness",
-  "Landing.Featured.ThisWeek": "🦘 This Week",
-  "Landing.Features.Description": "🦘 A project of pure passion, Braytech is years of experience, incremental additions, and improvements. While its original goal was professional development, it has since swelled into a staple of many Destiny players' experiences as Guardians.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search HUD, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa).\n\nWant to make a suggestion? Join the [Discord](https://discord.bray.tech) or checkout the GitHub [Discussions](https://github.com/justrealmilk/braytech.org-discussion/discussions)!",
-  "Landing.Features.Name": "🦘 Braytech",
-  "Landing.Support.Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to please you. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work.\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-  "Landing.Support.Name": "🦘 Are you a fan? Show your support",
-  "Landing.Updates.Name": "🦘 Updates",
-  "Language.Space.MetresAbr_plural": "🦘 {{metres}} Mtrs",
-  "Language.Time.Frequency.Daily": "🦘 Daily",
-  "Language.Time.Frequency.Weekly": "🦘 Weekly",
-  "Language.Time.Relative.Future": "🦘 in {{duration}}",
-  "Language.Time.Relative.Past": "🦘 {{duration}} ago",
-  "Leaderboards.ActiveScore": "🦘 Active Score",
-  "Leaderboards.CollectionsScore": "🦘 Collections Score",
-  "Leaderboards.LegacyScore": "🦘 Legacy Score",
-  "Leaderboards.Rank": "🦘 Rank",
-  "Leaderboards.TriumphScore": "🦘 Triumph Score",
-  "Legend.Activity.Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
-  "Legend.Activity.Name": "🦘 First Risen",
-  "Legend.Commonality.Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
-  "Legend.Commonality.Name": "🦘 Rare Treasures & Exotic Style",
-  "Legend.Empty": "🦘 Empty",
-  "Legend.Fishing.Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-  "Legend.Fishing.LargestFish": "🦘 Largest Fish",
-  "Legend.Fishing.Name": "🦘 Competitive Fishing",
-  "Legend.Fishing.TypesCaught": "🦘 Types Caught",
-  "Legend.Ranks.Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
-  "Legend.Ranks.Guardian.Description": "🦘 Prepare to be evaluated by the Light and your peers.",
-  "Legend.Ranks.Guardian.Name": "🦘 Guardian",
-  "Legend.Ranks.Name": "🦘 Guardian Standing",
-  "Legend.Seals.Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-  "Loading.BungieError.Description": "🦘 Crucial API data couldn't be loaded at this time. This is an intermittent issue. Please try again.\n\nIf this error does persist, the API may be experiencing a wider outage or your local network is restricting Bungie API requests.",
-  "Loading.BungieError.Name": "🦘 Bungie Error",
-  "Loading.Error.Description": "🦘 Something very unexpected and irrecoverable occurred.",
-  "Loading.IndexedDBError.Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured.",
-  "Loading.IndexedDBErrorFatal.Description": "🦘 Something went wrong while trying to access browser storage.\n\nPlease reload the app and try again.",
-  "Loading.IndexedDBOpenFailedError.Description": "🦘 Something went wrong while trying to access browser storage.\n\nSome browsers disallow access to _Indexed DB_ when browsing in private modes.\n\nPlease reload the app and try again.",
-  "Loading.MaintenanceError.Description": "🦘 The Bungie API is currently down for maintenance.\n\nTune into @BungieHelp on Twitter for more information.",
-  "Loading.MaintenanceError.Name": "🦘 Bungie Maintenance",
-  "Loading.ManifestDownloadError.Description": "🦘 Something went wrong while trying to download the manifest from Bungie.\n\nPlease reload the app and try again.",
-  "Loading.ManifestDownloadError.Name": "🦘 Manifest download failed",
-  "Loading.ManifestError.Description": "🦘 Something went wrong while trying to update the manifest with Bungie.\n\nPlease reload the app and try again.",
-  "Loading.ManifestError.Name": "🦘 Manifest error",
-  "Loading.NoInternetError.Description": "🦘 Are you offline? Your web browser thinks you are...",
-  "Loading.SettingsFetchError.Description": "🦘 Something went wrong while trying to collect the API configuration from Bungie.\n\nPlease reload the app and try again.",
-  "Loading.SettingsFetchError.Name": "🦘 Configuration failure",
-  "Loading.Status.DownloadingManifest": "🦘 Downloading Data From Bungie",
-  "Loading.Status.FatalError": "🦘 Fatal Error",
-  "Loading.Status.NoInternetError": "🦘 No Internet",
-  "Loading.Status.Other": "🦘 Starting Windows 95",
-  "Loading.Status.ReadStoredPGCR": "🦘 Load Stored Carnage Reports",
-  "Loading.Status.SettingsFetch": "🦘 Connecting to Bungie.net",
-  "Loading.Status.StoreManifest": "🦘 Storing Manifest Data",
-  "Loading.WaitingForBungie": "🦘 Waiting for Bungie",
-  "Maps.Context.ChecklistsAndMore": "🦘 Checklists + More",
-  "Maps.Context.NoChecklistItems": "🦘 No items detected",
-  "Maps.Inspect.Instructions": "🦘 Instructions",
-  "Maps.Inspect.ProposeChanges.Form.Description.Name": "🦘 Description",
-  "Maps.Inspect.ProposeChanges.Form.Issues.Name": "🦘 Issues",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Name": "🦘 Screenshots",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Select": "🦘 Select Screenshots",
-  "Maps.Inspect.ProposeChanges.Form.Video.Name": "🦘 Name",
-  "Maps.Inspect.ProposeChanges.Name": "🦘 Propose Changes",
-  "Maps.Inspect.RelatedVideo": "🦘 This node has a related video.",
-  "Maps.Inspect.RelatedVideoAction": "🦘 Open Video File",
-  "Maps.Inspect.Vendor.NoSales": "🦘 Fresh out of stock.",
-  "Maps.Nodes.Unavailable": "🦘 Unavailable",
-  "Maps.Nodes.UnavailableInGame": "🦘 Unavailable: this node is no longer available in-game.",
-  "Maps.Nodes.UnavailableUnreliableApi": "🦘 Unavailable: something is preventing this node from relaying its status reliably.",
-  "Maps.ProposeChanges.Description": "🦘 Submit a proposal for changes to this node's data and improve maps for other Guardians.",
-  "Maps.ProposeChanges.Form.Description.Placeholder": "🦘 Example: by a rock on the far side of the last room",
-  "Maps.ProposeChanges.Form.Issues.Placeholder": "🦘 Example: the node is no longer accessible",
-  "Maps.ProposeChanges.Form.Screenshots.Description": "🦘 Proposed screenshots must meet a strict quality criteria:\n- display resolution of 1920x1080\n- no visible HUD\n- no visible Guardians or equipment\n- no visible enemies\n- maximum video settings\n  - including a render resolution of 200%",
-  "Maps.ScreenshotUnavailable": "🦘 Screenshot Unavailable",
-  "Maps.Surveyor.Capture": "🦘 Capture Position",
-  "Maps.Surveyor.CopyDefinitions": "🦘 Copy Definitions",
-  "Maps.Surveyor.CopyNodes": "🦘 Copy Nodes",
-  "Maps.Surveyor.NoNodes": "🦘 Select a position on the map to begin.",
-  "Maps.Within.Activity": "🦘 Found within activity",
-  "Maps.Within.ActivityName": "🦘 Found within activity: {{string}}",
-  "Maps.Within.AscendantChallenge": "🦘 Found within Ascendant Challenge: {{string}}",
-  "Maps.Within.LostSector": "🦘 Found within Lost Sector: {{string}}",
-  "Maps.Within.Story": "🦘 Found within Story: {{string}}",
-  "Maps.Within.Strike": "🦘 Found within Strike: {{string}}",
-  "MemberLink.Error.Network.Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-  "MemberLink.Error.Network.Name": "🦘 Network Error",
-  "MemberLink.Error.PrivateProgression.Description": "🦘 This profile's progression data isn't available. Their profile may be set to private on Bungie.net. They're definitely not trying to hide anything.",
-  "MemberLink.Error.PrivateProgression.Name": "🦘 Private Profile",
-  "MemberService.Inactive.Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
-  "Notifications.NthMore": "🦘 and {{number}} more",
-  "Notifications.NthRemaining": "🦘 {{number}} others",
-  "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "🦘 The Postmaster is almost out of space. If you do not retrieve your items, you will lose them forever!",
-  "Notifications.PostmasterCapacityWarning.DescriptionFull": "🦘 The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
-  "Notifications.PostmasterCapacityWarning.Name": "🦘 Warning!",
-  "Notifications.PushNotifications.Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
-  "Notifications.PushNotifications.Name": "🦘 Push Notifications",
-  "ProfileSearch.ActiveProfile": "🦘 Active Profile",
-  "ProfileSearch.BungieNetProfile": "🦘 Bungie.net Profile",
-  "ProfileSearch.ChangeProfile": "🦘 Change Profile",
-  "ProfileSearch.CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
-  "ProfileSearch.Error.Banned.Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
-  "ProfileSearch.Error.Banned.Dickhead": "🦘 Dickhead.",
-  "ProfileSearch.Error.Banned.Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
-  "ProfileSearch.Error.Banned.Teabagging": "🦘 Player was observed engaging in behaviours that are not conducive of a friendly environment.",
-  "ProfileSearch.Error.CharacterMissing.Description": "🦘 The character you tried to load is unavailable—maybe it's been deleted.",
-  "ProfileSearch.Error.CharacterMissing.Name": "🦘 Character Unavailable",
-  "ProfileSearch.Error.MemberBanned.Description": "🦘 This Destiny profile has been banned from this app. This isn't an error.",
-  "ProfileSearch.Error.MemberBanned.Name": "🦘 Profile Banned",
-  "ProfileSearch.Error.PrivateProgression.Description": "🦘 Your profile's progression data isn't available. Your profile may be set to private on Bungie.net.\n\nYou may change your privacy settings on Bungie.net or authenticate Braytech with Bungie.net",
-  "ProfileSearch.Error.PrivateProgression.Name": "🦘 Private Profile",
-  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
-  "ProfileSearch.NewLight": "🦘 New Light",
-  "ProfileSearch.NoProfilesFound": "🦘 No Profiles Found",
-  "ProfileSearch.PreviousSearches": "🦘 Previous Searches",
-  "ProfileSearch.ReturnToAuthMembership": "🦘 Return to {{displayName}}",
-  "ProfileSearch.SavedProfile": "🦘 Saved Profile",
-  "ProfileSearch.SearchForPlayer": "🦘 Profile Search",
-  "ProfileSearch.SearchPlaceholder": "🦘 enter BungieName#0343",
-  "ProfileSearch.SelectACharacter": "🦘 Select A Character",
-  "ProfileSearch.TemporaryError": "🦘 A temporary Bungie error occurred.",
-  "Progression.Points": "🦘 Points",
-  "Progression.PointsNextRank": "🦘 Points until next rank",
-  "Progression.PointsTotal": "🦘 Total points",
-  "Progression.PrestigeNth": "🦘 Prestige {{number}}",
-  "Progression.Rank": "🦘 Rank",
-  "Progression.RankNth": "🦘 Rank {{number}}",
-  "Progression.ResetVendor": "🦘 Return to the vendor to reset your rank",
-  "Progression.Streak": "🦘 Streak",
-  "Progression.Title": "🦘 Title",
-  "Progression.TrialsPassage.FlawlessPassage": "🦘 Flawless Passage",
-  "Progression.TrialsPassage.WeeklyTimesFlawless": "🦘 Flawless This Week",
-  "Progression.TrialsPassage.Wins": "🦘 Wins",
-  "Quests.Details.Steps": "🦘 Steps",
-  "Quests.Info.InventoryCapacity": "🦘 Total Quest and Bounty Capacity",
-  "Quests.Info.NoBounties": "🦘 Bounties you acquire will appear here.",
-  "Quests.Info.NoQuests": "🦘 Quests you acquire will appear here.",
-  "Search.Error.MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index.",
-  "Search.Examples.Description": "🦘 description:clovis bray",
-  "Search.Examples.Expiration": "🦘 expiration:seraph",
-  "Search.Examples.Name": "🦘 name:mida",
-  "Search.Examples.Source": "🦘 source:leveling",
-  "Search.Examples.Type": "🦘 type:scout rifle",
-  "Search.Placeholder": "🦘 enter name or description",
-  "Search.Results.MatchesAllHidden": "🦘 There is a match, but you've chosen to hide it!",
-  "Search.Results.NoMatches": "🦘 Nothing matched your terms.",
-  "Search.Results.Top10": "🦘 Showing the top 10 matches. Press  at any time for a full search experience.",
-  "Search.ShortcutKey": "🦘 Press  to toggle search from anywhere",
-  "Search.Suggestions": "🦘 Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nTrying to find a Braytech feature? Search for what it may be named.\n\nResults are prioritised by name, source, and description.",
-  "Search.VanguardArchives": "🦘 Welcome to the Vanguard archives.",
-  "SeasonPass.ProgressPowerBonus": "🦘 Power Bonus Progress",
-  "SeasonPass.SeasonProgress": "🦘 Season Progress",
-  "SeasonPass.SeasonProgressDays": "🦘 Days",
-  "Settings.Category.Advanced.Name": "🦘 Advanced",
-  "Settings.Category.Common.Name": "🦘 Common",
-  "Settings.Category.PushNotifications.Name": "🦘 Push Notifications",
-  "Settings.DIMSync.Action.Disable.Description": "🦘 Disable sync and delete stored DIM Sync authentication token.",
-  "Settings.DIMSync.Action.Enable.Description": "🦘 Enable sync by exchanging your Bungie.net authentication token with DIM Sync.",
-  "Settings.DIMSync.Info": "🦘 Sync your settings for loadouts and item tags with DIM.",
-  "Settings.Developer.ExperimentalFeatures.Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
-  "Settings.Developer.ExperimentalFeatures.Name": "🦘 Enable Experimental Features",
-  "Settings.Developer.Maps.Debug.Description": "🦘 Enable Maps debugging settings.",
-  "Settings.Developer.Maps.Debug.Name": "🦘 Maps Debug Mode",
-  "Settings.Developer.Maps.LogDetails.Description": "🦘 Console.log details for the mouse-invoked node.",
-  "Settings.Developer.Maps.LogDetails.Name": "🦘 Log Node Details",
-  "Settings.Developer.Maps.Surveyor.Description": "🦘 An additional maps control allowing the easy and rapid collection of map nodes.",
-  "Settings.Developer.Maps.Surveyor.Name": "🦘 Use Surveyor",
-  "Settings.IDB.ClearCache.Description": "🦘 Clear cached assets such as map images. These assets are downloaded as they're required.",
-  "Settings.IDB.ClearCache.Name": "🦘 Clear Cache",
-  "Settings.IDB.ClearManifest.Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
-  "Settings.IDB.ClearManifest.Name": "🦘 Clear Manifest",
-  "Settings.IDB.ClearReports.Description": "🦘 Delete all post game carnage reports stored on this device.",
-  "Settings.IDB.ClearReports.Name": "🦘 Clear Reports",
-  "Settings.IDB.Usage.Description": "🦘 Storage used by Destiny's manifest, cached post game carnage reports, and cached assets.",
-  "Settings.IDB.Usage.Name": "🦘 Usage",
-  "Settings.Interface.AlternateAppIcon.Info": "🦘 Alter the appearance of the app's icon.",
-  "Settings.Interface.Bindings.Info": "🦘 Alter the appearance and bindings of action buttons.",
-  "Settings.Interface.FlipSubviewNav.Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
-  "Settings.Interface.FlipSubviewNav.Left": "🦘 Left",
-  "Settings.Interface.FlipSubviewNav.Right": "🦘 Right",
-  "Settings.Interface.ItemSize.Info": "🦘 Adjust the size of inventory item icons for most Braytech features.",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Description": "🦘 If a collectible has been acquired, it will be hidden under Collections views.",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Name": "🦘 Hide Acquired Collection Items",
-  "Settings.ItemVisibility.HideCompletedRecords.Description": "🦘 If a triumph record is completed and redeemed, it will be hidden under Triumphs views.",
-  "Settings.ItemVisibility.HideCompletedRecords.Name": "🦘 Hide Completed Triumph Records",
-  "Settings.ItemVisibility.HideDudRecords.Description": "🦘 Hide dud (empty or unused) records from view. This is a manually curated [list](/triumphs/dud).",
-  "Settings.ItemVisibility.HideDudRecords.Name": "🦘 Hide Dud Triumph Records",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Description": "🦘 If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Name": "🦘 Hide Invisible Collection Items",
-  "Settings.ItemVisibility.HideInvisibleRecords.Description": "🦘 If the game specifies that you are unable to see a particular record, it will render as \"Secret\" under Triumphs views.",
-  "Settings.ItemVisibility.HideInvisibleRecords.Name": "🦘 Hide Invisible Triumph Records",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Description": "🦘 Hide unobtainable records from view. This is a manually curated [list](/triumphs/unobtainable).",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Name": "🦘 Hide Unobtainable Triumph Records",
-  "Settings.LS.ResetEverything.Description": "🦘 Reset all user settings, saved data, and history.",
-  "Settings.LS.ResetEverything.Name": "🦘 Reset Everything",
-  "Settings.LS.ResetNotifications.Description": "🦘 Reset dismissed notifications to their default state.",
-  "Settings.LS.ResetNotifications.Name": "🦘 Reset Notifications",
-  "Settings.LS.ResetProfileHistory.Description": "🦘 Delete the stored list of previously loaded profiles (Profile Search).",
-  "Settings.LS.ResetProfileHistory.Name": "🦘 Reset Profile History",
-  "Settings.LS.ResetTips.Description": "🦘 Restore informational tips to their default state.",
-  "Settings.LS.ResetTips.Name": "🦘 Reset Tips",
-  "Settings.LS.ResetTrackedTriumphs.Description": "🦘 Untrack all user-tracked triumphs. Will not affect the state of in-game triumphs.",
-  "Settings.LS.ResetTrackedTriumphs.Name": "🦘 Reset Tracked Triumphs",
-  "Settings.Language.Colloquial.Description": "🦘 Activate user-contributed slang in place of official texts.",
-  "Settings.Language.Colloquial.Name": "🦘 Use Colloquial Language",
-  "Settings.Maps.Checklists.Info": "🦘 Toggle the visibility of checklists. Keep it clean.",
-  "Settings.Maps.Developer.Info": "🦘 Tools to assist developers when working on maps",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Description": "🦘 If a node has been discovered, omit it from the map unless selected.",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Name": "🦘 Hide Discovered Nodes",
-  "Settings.Maps.ItemVisibility.HidePatrols.Description": "🦘 Hide all patrol beacons.",
-  "Settings.Maps.ItemVisibility.HidePatrols.Name": "🦘 Hide Patrols",
-  "Settings.Maps.Visual.Atmosphere.Description": "🦘 Display weather such as cloud cover.",
-  "Settings.Maps.Visual.Atmosphere.Name": "🦘 Atmosphere",
-  "Settings.Maps.VisualFidelity.Info": "🦘 Alter the appearance of visual flourishes",
-  "Settings.Profile.Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
-  "Settings.Profile.NoProfileSelected": "🦘 Select a profile",
-  "Settings.PushNotifications.BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
-  "Settings.PushNotifications.Condition.AnyActivity": "🦘 Any Activity",
-  "Settings.PushNotifications.Condition.AnyMod": "🦘 Any Mod",
-  "Settings.PushNotifications.Condition.AnyReward": "🦘 Any Reward",
-  "Settings.PushNotifications.Condition.AnySale": "🦘 Any Sale",
-  "Settings.PushNotifications.Condition.AnyShader": "🦘 Any Shader",
-  "Settings.PushNotifications.Condition.Multiple": "🦘 Multiple",
-  "Settings.PushNotifications.Condition.Uncollected": "🦘 Uncollected",
-  "Settings.PushNotifications.Conditions": "🦘 Conditions",
-  "Settings.PushNotifications.Configure": "🦘 Configure Push Notifications",
-  "Settings.PushNotifications.Event": "🦘 Event",
-  "Settings.PushNotifications.Frequency": "🦘 Frequency",
-  "Settings.PushNotifications.Incompatible": "🦘 Your browser doesn't support push notifications yet.",
-  "Settings.PushNotifications.Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
-  "Settings.PushNotifications.NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
-  "Settings.PushNotifications.PermissionDenied": "🦘 You've denied permission to send notifications. You'll need to manually enable or reset them before we can continue. Check your browser and device settings.",
-  "Settings.PushNotifications.PreviewNotifications.Description": "🦘 Dispatch enabled notifications immediately.",
-  "Settings.PushNotifications.PreviewNotifications.Name": "🦘 Preview Notifications",
-  "Settings.PushNotifications.ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
-  "Settings.PushNotifications.Users": "🦘 Users",
-  "Settings.ReloadRequired.Description": "🦘 Select reload app to activate your changes immediately.",
-  "Settings.ReloadRequired.Name": "🦘 Reload Required",
-  "Settings.Reports.Info": "🦘 Once downloaded, reports are saved to device storage for rapid access after the fact. All reports are associated with the member through which they were originally viewed. You can clear them here, member by member. You may wish to do this in order to minimise initial load time, if you've downloaded many reports.",
-  "Settings.Reports.NoReports": "🦘 No reports are stored on this device.",
-  "Settings.Reports.ReportsCount": "🦘 Count",
-  "Settings.Reports.ReportsMember": "🦘 Member",
-  "Settings.Search.HideFeatureSuggestions.Description": "🦘 Hold your breath–I know what I'm doing.",
-  "Settings.Search.HideFeatureSuggestions.Name": "🦘 Hide Feature Suggestions",
-  "Settings.Search.ItemVisibilityOverride.Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
-  "Settings.Search.ItemVisibilityOverride.Name": "🦘 Show Completed and Acquired",
-  "Settings.SubCategory.Authentication": "🦘 Authentication",
-  "Settings.SubCategory.Developer": "🦘 Developer",
-  "Settings.SubCategory.IDB": "🦘 Database Storage",
-  "Settings.SubCategory.Interface.AlternateAppIcon": "🦘 App Icon",
-  "Settings.SubCategory.Interface.Bindings": "🦘 Bindings",
-  "Settings.SubCategory.Interface.FlipSubviewNav": "🦘 Flip Subview Nav",
-  "Settings.SubCategory.Interface.ItemSize": "🦘 Inventory Item Size",
-  "Settings.SubCategory.ItemVisibility": "🦘 Item Visibility",
-  "Settings.SubCategory.LS": "🦘 Local Storage",
-  "Settings.SubCategory.Language": "🦘 Language",
-  "Settings.SubCategory.Reports": "🦘 Reports Storage",
-  "Settings.SubCategory.SavedProfile": "🦘 Saved Profile",
-  "Settings.SubCategory.Search": "🦘 Search",
-  "Settings.SubCategory.Synchronisation": "🦘 Synchronisation",
-  "Settings.SubCategory.System": "🦘 System",
-  "Settings.SubCategory.Theme": "🦘 Theme",
-  "Settings.SubCategory.Troubleshooting": "🦘 Troubleshooting",
-  "Settings.SubCategory.VisualFidelity": "🦘 Visual Fidelity",
-  "Settings.Sync.Action.DeleteSyncedSettings.Description": "🦘 Disable sync and delete settings stored with Voluspa.",
-  "Settings.Sync.Action.DeleteSyncedSettings.Name": "🦘 Delete Synced Settings",
-  "Settings.Sync.Action.DownloadSyncedSettings.Description": "🦘 Download synced settings immediately, overwriting current settings.",
-  "Settings.Sync.Action.DownloadSyncedSettings.Name": "🦘 Download Synced Settings",
-  "Settings.Sync.Action.Enable.Description": "🦘 Enable sync and regularly sync with Voluspa.",
-  "Settings.Sync.Info": "🦘 Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
-  "Settings.Sync.RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
-  "Settings.Sync.State.Merged": "🦘 Last merged {{duration}} ago",
-  "Settings.Sync.State.Synced": "🦘 Last synced {{duration}} ago",
-  "Settings.System.PromptForMinorVersions.Description": "🦘 Notify me to update even for minor versions.",
-  "Settings.System.PromptForMinorVersions.Name": "🦘 Minor Version Updates",
-  "Settings.System.ReloadAppAutomatically.Description": "🦘 When an update for Braytech is ready, reload the app automatically irregardless of what you're doing.",
-  "Settings.System.ReloadAppAutomatically.Name": "🦘 Reload App Automatically",
-  "Settings.Theme.Black.Name": "🦘 Black",
-  "Settings.Theme.Dark.Name": "🦘 Dark",
-  "Settings.Theme.Light.Name": "🦘 Light",
-  "Settings.Theme.SystemPreference.Name": "🦘 Match System",
-  "Settings.Theme.SystemPreference.Name.Description": "🦘 Where supported, Braytech will mirror your system preference.",
-  "Settings.Troubleshooting.DumpServiceWorker.Description": "🦘 Attempt to unregister the installed service worker. If successful, reloading the app will allow a new service worker to take its place.",
-  "Settings.Troubleshooting.DumpServiceWorker.Name": "🦘 Dump Service Worker",
-  "Settings.Troubleshooting.UpdateServiceWorker.Description": "🦘 Attempt to update the service worker immediately. This function will disable the button temporarily. You may continue to use Braytech while it attempts to update in the background. If successful, you will be prompted to reload the app.",
-  "Settings.Troubleshooting.UpdateServiceWorker.Name": "🦘 Update Service Worker",
-  "Settings.VisualFidelity.Gay.Description": "🦘 Gay it up, bitch. Light up your life with fabulous, limited edition, ground-shattering, Braytech® exclusive! technological innovation.",
-  "Settings.VisualFidelity.Gay.Name": "🦘 Enable 🌈",
-  "Settings.VisualFidelity.ReducedMotion.Description": "🦘 Reduce the motion of the user interface, namely by disabling various animations. Reduces CPU usage.",
-  "Settings.VisualFidelity.ReducedMotion.Name": "🦘 Reduced Motion",
-  "SyncService.Delete.Failure.Description": "🦘 Your settings could not be deleted at this time. This is a temporary failure.",
-  "SyncService.Delete.Success.Description": "🦘 Your settings have been deleted. Sync is now disabled.",
-  "SyncService.Merge.Failure.Description": "🦘 While trying to merge your settings, there was an error. This is a temporary failure.",
-  "SyncService.Merge.Success.Description": "🦘 Your settings have been merged.",
-  "SyncService.Sync.Failure.Description": "🦘 While trying to sync your settings, there was an error. This is a temporary failure.",
-  "SyncService.Sync.Success.Description": "🦘 Your settings have been synced.",
-  "Tooltip.Actions.Acquire": "🦘 Acquire",
-  "Tooltip.Actions.Compare": "🦘 Compare",
-  "Tooltip.Actions.Equip": "🦘 Equip",
-  "Tooltip.Actions.Favourite": "🦘 Favourite",
-  "Tooltip.Actions.Garbage": "🦘 Garbage",
-  "Tooltip.Actions.Inspect": "🦘 Inspect",
-  "Tooltip.Actions.Lock": "🦘 Lock",
-  "Tooltip.Actions.NotGarbage": "🦘 Not Garbage",
-  "Tooltip.Actions.Select": "🦘 Select",
-  "Tooltip.Actions.Store": "🦘 Store",
-  "Tooltip.Actions.Unfavourite": "🦘 Unfavourite",
-  "Tooltip.Actions.Unlock": "🦘 Unlock",
-  "Tooltip.Actions.Vault": "🦘 Vault",
-  "Tooltip.Item.ExpiresIn": "🦘 Expires in {{duration}}.",
-  "Tooltip.Item.NoDescription": "🦘 No description available.",
-  "Tooltip.Item.Quantity": "🦘 Quantity",
-  "Tooltip.Item.QuantityMax": "🦘 Max",
-  "Tooltip.Maps.Availability": "🦘 Available: every {{period}}",
-  "Tooltip.Maps.UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
-  "Triumphs.AlmostComplete.NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
-  "Triumphs.AlmostComplete.SeeNext": "🦘 See Next {{number}}",
-  "Triumphs.AlmostCompleteTriumphs": "🦘 Almost Complete",
-  "Triumphs.Classified.Description": "🦘 This record is classified and may be revealed at a later time.",
-  "Triumphs.Classified.Name": "🦘 Classified Record",
-  "Triumphs.Details.Completed": "🦘 Completed",
-  "Triumphs.Details.FireteamLoading": "🦘 Loading fireteam members",
-  "Triumphs.Details.NoClanOrFireteam": "🦘 Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
-  "Triumphs.Details.NotCompleted": "🦘 Not Completed",
-  "Triumphs.Details.OpenView": "🦘 Open Details View",
-  "Triumphs.DudTriumphs": "🦘 Duds",
-  "Triumphs.EventCard": "🦘 Event Card",
-  "Triumphs.LegacySeal_plural": "🦘 Legacy Seals",
-  "Triumphs.LegacyTriumph_plural": "🦘 Legacy Triumphs",
-  "Triumphs.LegacyTriumphs.Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review.",
-  "Triumphs.Lore.SelectEntry": "🦘 Select an entry to read.",
-  "Triumphs.Record.Commonality.Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
-  "Triumphs.Record.IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-  "Triumphs.Record.Score.Description": "🦘 This record's finite triumph score value.",
-  "Triumphs.Record.ScoreInterval.Description": "🦘 The next unredeemed interval's score value over the total record value.",
-  "Triumphs.RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
-  "Triumphs.RecordsUnavailable": "🦘 There are no records available for display.",
-  "Triumphs.Seal": "🦘 Seal",
-  "Triumphs.Seal_plural": "🦘 Seals",
-  "Triumphs.Seals.AvailableTitle": "🦘 Available title: **{{title}}**",
-  "Triumphs.Seals.Commonality.Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-  "Triumphs.Seals.Commonality.Name": "🦘 Seal Commonality",
-  "Triumphs.Seals.CommonalityGilded.Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-  "Triumphs.Seals.CommonalityGilded.Name": "🦘 Gilded Seal Commonality",
-  "Triumphs.Seals.PlayerTitle": "🦘 Player title: **{{title}}**",
-  "Triumphs.Seals.SealCompleted": "🦘 Seal Completed",
-  "Triumphs.Seals.SealGilded": "🦘 Seal Gilded",
-  "Triumphs.Seals.SealGildedProgress": "🦘 Gilded Progress",
-  "Triumphs.Seals.SealProgress": "🦘 Seal Progress",
-  "Triumphs.Secret.Description": "🦘 A mystery that you haven't yet unraveled.",
-  "Triumphs.Secret.Name": "🦘 Secret Triumph",
-  "Triumphs.Sorted.Completion": "🦘 Sorted by Completion",
-  "Triumphs.Sorted.Name": "🦘 Sorted by **Name**",
-  "Triumphs.Sorted.Rarity": "🦘 Sorted by Rarity",
-  "Triumphs.Sorted.Score": "🦘 Sorted by Score",
-  "Triumphs.Sorted.Unsorted": "🦘 Sorted by Bungie",
-  "Triumphs.Tracked.NoTrackedRecords": "🦘 You aren't tracking any records yet!",
-  "Triumphs.Tracked.SeeAll": "🦘 See All Tracked",
-  "Triumphs.TrackedTriumphs": "🦘 Tracked Records",
-  "Triumphs.Triumph_plural": "🦘 Triumphs",
-  "Triumphs.UnobtainableTriumphs": "🦘 Unobtainable",
-  "Triumphs.Unredeemed.Info": "🦘 Revel in your triumphs and redeem these records.",
-  "Triumphs.Unredeemed.InfoWithScoreValue": "🦘 Redeem these records and increase your triumph score by {{value}} points.",
-  "Triumphs.Unredeemed.Number": "🦘 {{number}} Unredeemed Triumphs",
-  "Triumphs.UnredeemedTriumphs": "🦘 Unredeemed Triumphs",
-  "Upsell.Auth.Description": "🦘 Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data.",
-  "Upsell.Patreon.Description": "🦘 We all hate ads. They're ugly. They're annoying. They collect your data and sell it to third parties.\n\nI would never threaten you with adding ads to Braytech, but your contributions do directly support my family by paying rent, electricity, water, and health bills. Whether it's a one time thing or an ongoing commitment, every **couple of dollars** helps!",
-  "Upsell.Patreon.Name": "🦘 Love Braytech?",
-  "Upsell.Patreon.RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
-  "Upsell.Patreon.RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-  "Upsell.Patreon.Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-  "Upsell.Profile.Action": "🦘 Select Your Character",
-  "Upsell.Profile.Description": "🦘 Want to see your objective progress, redeemed records, discovered collectibles, and way more? Load your profile and select your character.",
-  "Vendor.FailureStrings.NoFunds": "🦘 Not Enough Materials",
-  "Vendor.FailureStrings.NoInventorySpace": "🦘 Not Enough Space",
-  "Vendor.FailureStrings.UniquenessViolation": "🦘 Can only hold one at a time",
-  "Voluspa.AdjustGraph.Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have discovered this collectible.",
-  "Voluspa.AdjustGraph.Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
-  "Voluspa.AdjustGraph.Name": "🦘 Adjust Graph",
-  "Voluspa.Commonality": "🦘 Commonality",
-  "Voluspa.Crawled": "🦘 {{number}} players are currently crawled by Voluspa.",
-  "Voluspa.GraphType.Frequency": "🦘 Frequency",
-  "Voluspa.GraphType.TimeSeries": "🦘 Time Series",
-  "Voluspa.LastCrawled": "🦘 Last crawled {{time}}",
-  "Voluspa.ProfilesAssessed": "🦘 Profiles Assessed",
-  "Weeklies.Challenges.ActivityBonus": "🦘 Activity Bonuses",
-  "Weeklies.Challenges.ArtifactPower.Description": "🦘 A bonus to your Light level, channeled by your equipped seasonal artifact through experience gained.",
-  "Weeklies.Challenges.ArtifactPower.Name": "🦘 Artifact Power Bonus",
-  "Weeklies.Challenges.ArtifactPowerBonus": "🦘 Power Bonus",
-  "Weeklies.Challenges.GearPower.Description": "🦘 The average Power level of your currently equipped armaments.",
-  "Weeklies.Challenges.GearPower.Name": "🦘 Gear Power",
-  "Weeklies.Challenges.NoChallenges": "🦘 You've smashed all of your available challenges this week!",
-  "Weeklies.Challenges.Power.Description": "🦘 Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
-  "Weeklies.Challenges.Power.Name": "🦘 Light",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "🦘 {{number}} Seasonal Challenges Available",
-  "Weeklies.Challenges.SeasonalChallenges.Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-  "Weeklies.Challenges.SeasonalChallenges.Name": "🦘 Seasonal Challenges",
-  "Weeklies.Challenges.Type.Bounties": "🦘 Bounties",
-  "Weeklies.Challenges.Type.Crucible": "🦘 Crucible",
-  "Weeklies.Challenges.Type.Dungeon": "🦘 Dungeon",
-  "Weeklies.Challenges.Type.Exotic": "🦘 Exotic",
-  "Weeklies.Challenges.Type.Expansion": "🦘 Expansion",
-  "Weeklies.Challenges.Type.Gambit": "🦘 Gambit",
-  "Weeklies.Challenges.Type.Raid": "🦘 Raid",
-  "Weeklies.Challenges.Type.Seasonal": "🦘 Seasonal",
-  "Weeklies.Challenges.Type.Strikes": "🦘 Strikes",
-  "Weeklies.Rotations.Description": "🦘 Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
-  "Weeklies.Rotations.Name": "🦘 Rotations"
+  "Action": {
+    "AddBookmark": "🦘 Add Bookmark",
+    "Back": "🦘 Back",
+    "BecomeAPatron": "🦘 Become a Patron",
+    "Browse": "🦘 Browse",
+    "Cancel": "🦘 Cancel",
+    "Close": "🦘 Close",
+    "Collapse": "🦘 Collapse",
+    "Confirm": "🦘 Confirm",
+    "Customise": "🦘 Customise",
+    "Disable": "🦘 Disable",
+    "Dismiss": "🦘 Dismiss",
+    "Enable": "🦘 Enable",
+    "Expand": "🦘 Expand",
+    "GatherInVault": "🦘 Gather In Vault",
+    "GoToBNet": "🦘 Go to Bungie.net",
+    "GoToTwitter": "🦘 Go to Twitter",
+    "HideAcquired": "🦘 Hide Acquired",
+    "HideCollectionsRolls": "🦘 Hide Possible Rolls",
+    "HideRedeemed": "🦘 Hide Redeemed",
+    "Jump": "🦘 Jump",
+    "MemberRemove": "🦘 Remove Member",
+    "NextNth": "🦘 Next {{number}}",
+    "Now": "🦘 Now",
+    "Open": "🦘 Open",
+    "Previous": "🦘 Previous",
+    "PullPostmaster": "🦘 Pull From Postmaster",
+    "ReloadApp": "🦘 Reload App",
+    "ReloadAppAutomatically": "🦘 Reload App Automatically",
+    "RemoveBookmark": "🦘 Remove Bookmark",
+    "Reset": "🦘 Reset",
+    "SelectDate": "🦘 Select Date",
+    "SelectFilters": "🦘 Filters",
+    "SelectMasterwork": "🦘 Any Masterwork",
+    "Set": "🦘 Set",
+    "Share": "🦘 Share",
+    "ShowAll": "🦘 Show All",
+    "ShowCollectionsRolls": "🦘 Show Possible Rolls",
+    "TryAgain": "🦘 Try Again",
+    "UserReady": "🦘 Let's go!",
+    "ViewMore": "🦘 View More"
+  },
+  "Activity": {
+    "ActiveRotator": "🦘 Active Rotator",
+    "Carnage": {
+      "SelectDate": {
+        "Info": "🦘 Select a date below and prepare to jump",
+        "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
+      }
+    },
+    "Cooperative": "🦘 Cooperative",
+    "Fireteam": {
+      "Closed": "🦘 Fireteam Closed",
+      "Full": "🦘 Fireteam Full",
+      "MatchLoading": "🦘 Match Is Loading",
+      "Matchmaking": "🦘 Matchmaking",
+      "Open": "🦘 Fireteam Open",
+      "SinglePlayer": "🦘 Single Player Activity"
+    },
+    "FreeForAll": "🦘 Free For All",
+    "Graphs": {
+      "SelectDate": "🦘 Select a date with activities played from the graph above."
+    },
+    "LevelAdvantagesDisabled": "🦘 Level Advantages Disabled",
+    "LevelAdvantagesEnabled": "🦘 Level Advantages Enabled",
+    "Matchmaking": "🦘 Matchmaking",
+    "MaxParty": "🦘 {{number}} players",
+    "Modes": {
+      "Bar": {
+        "PvPLoss": "🦘 Loss",
+        "PvPWin": "🦘 Win"
+      },
+      "Last100": {
+        "PvE": "🦘 Last 100 Activities",
+        "PvP": "🦘 Last 100 Matches"
+      },
+      "Lifetime": "🦘 Lifetime",
+      "Line": {
+        "AverageKD": "🦘 Average K/D"
+      },
+      "Scatter": {
+        "PvEFailure": "🦘 Failure",
+        "PvEFlawless": "🦘 Flawless",
+        "PvPFlawless": "🦘 Flawless",
+        "PvPLoss": "🦘 Loss",
+        "PvPWin": "🦘 Win"
+      },
+      "TrialsPassage": "🦘 Trials Passage"
+    },
+    "ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
+    "NoMedalsAwarded": "🦘 No Medals Awarded",
+    "PvP": "🦘 Player versus Player",
+    "RecommendedLight": "🦘 Recommended light",
+    "Score": {
+      "Team": "🦘 Team Score"
+    },
+    "SelectMode": "🦘 Select Mode",
+    "SelectModeInfo": "🦘 To drill down to a specific activity, select a mode from the interface above",
+    "SinglePlayer": "🦘 Single Player",
+    "Standing": {
+      "Defeat": "🦘 Defeat",
+      "DidNotFinish": "🦘 Player did not finish",
+      "Mercy": "🦘 Mercy",
+      "Tie": "🦘 Tie",
+      "Victory": "🦘 Victory"
+    },
+    "State": {
+      "ActivityHistoryError": "🦘 Something went wrong while trying to load activity history. Please try again.",
+      "DownloadingReports": "🦘 Collecting fireteam data from Bungie.net",
+      "DownloadingReportsProgressValue": "🦘 Downloading Reports",
+      "GenericError": "🦘 Something went wrong. Please try again.",
+      "HydratingReportsCache": "🦘 Restoring reports data from device storage",
+      "LoadGroupMembers": "🦘 Analysing clan and activity history",
+      "LoadingPeriod": "🦘 Scanning... {{date}}",
+      "NoBookmarks": "🦘 You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in _Settings_.",
+      "NoHistoryAvailable": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
+      "PeriodNotFound": "🦘 The requested period could not be found in this character's activity history.",
+      "RequestHistory": "🦘 Analysing activity history",
+      "RequestHistoryPage": "🦘 Analysing activity history... Retrieving page {{page}}"
+    },
+    "Team": {
+      "Allies": "🦘 Their Team",
+      "Alpha": "🦘 Alpha",
+      "Bravo": "🦘 Bravo",
+      "Opposition": "🦘 Enemy Team"
+    }
+  },
+  "Addendums": {
+    "Credits": {
+      "Origins": {
+        "Description": "🦘 Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone."
+      }
+    },
+    "Privacy": {
+      "Info": "🦘 The long and skinny of it is that Braytech doesn't use cookies or any other mechanism to track you, nor does it target you for advertising purposes (I mean, Braytech doesn't have any ads).\n\nIf you have any questions further to the point of this notice, feel free to jump into the [Discord](https://discord.bray.tech).",
+      "Policy": "🦘 1.  Introduction\n    1. For all purposes, this English language version of this Privacy Policy shall be the original, governing instrument, and understanding of the parties. In the event of any conflict between this English language version of this Privacy Policy and any subsequent translation into any other language, this English language version shall govern and control.\n    2. Braytech is a free fan made service for Destiny 2, the video game. This privacy policy explains how your data is used by this application.\n    3. Braytech is constantly improving, and the developer may modify this Privacy Policy from time to time to reflect changes in their privacy practices. You are encouraged to review this Privacy Policy periodically and to check the date at the end of the Privacy Policy for the most recent version.\n    4. Herein, the \"developer\" refers to Tom Chapman.\n2. Information the developer collects\n    1. Information provided by You\n        1. Your platform specific profile name is used to load and display your Destiny profile. At no point are your private credentials collected or used.\n        2. Patrons of Braytech may also optionally provide their email address as a means to associate their Destiny profile with their Patreon account in order to receive the appropriate flair for their Patreon pledge.\n    2. Information the developer automatically collects\n        1. Data regarding your usage of the services provided including your IP address, geographical location, browser name and version, operating system, referral source, length of visit, page views, and navigation paths, as well as information about the timing, frequency, and pattern of your service use.\n3. How your personal data is used\n    1. Destiny and Bungie account info\n        1. In order to display and manipulate Destiny game information, Braytech uses the Bungie.net API. The only information Braytech receives, or has access to, is your game information (items, characters, etc.) and basic account information including your Bungie.net membership ID, and the identifiers of any linked services such as your public PSN, Xbox Live, Steam, Stadia, Blizzard, or Bungie.net usernames. The developer does not have access to your email, name, address, payment information, or any other personal information held by Bungie or the game platforms.\n        2. Use of the Bungie.net API is governed by the [Terms of Use](https://www.bungie.net/7/en/Legal/Terms) and [Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy) for Bungie.net.\n    2. Patreon\n        1. The data provided by you, the user, for the purpose of associating your Destiny profile with your Patreon account is only ever used for that fact, stored securely through Voluspa.\n    3. Usage data\n        1. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.\n    4. Braytech settings sync\n        1. Voluspa enables a Braytech feature which allows you, the user, to store your data (Braytech settings) and sync it between instances of Braytech. This information is only accessible to you and the developer.\n\nLast updated Wednesday, May 19, 2021."
+    }
+  },
+  "App": {
+    "BungieError": "🦘 Bungie Error",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
+    "ErrorBoundary": {
+      "Discord": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
+      "Version": "🦘 Please quote the following string when reporting this error."
+    },
+    "FriendlyError": {
+      "Description": "🦘 Please, do not tell Commander Zavala... Yet.",
+      "Name": "🦘 Pardon Our Dust"
+    },
+    "NetworkError": {
+      "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view."
+    },
+    "ServiceWorkerInstalling": {
+      "Description": "🦘 An app update is installing in the background."
+    },
+    "ServiceWorkerReload": {
+      "Description": "🦘 A fresh update for Braytech is available. Please select reload to use a better version of this app.\n\nCheck the change log on the index view for details on what's new.",
+      "Name": "🦘 Update Available"
+    },
+    "UnknownError": "🦘 Unknown Error",
+    "UnsupportedBrowser": {
+      "Description": "🦘 Braytech requires modern browser features in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
+      "Name": "🦘 Unsupported Browser"
+    },
+    "Version": "🦘 Version"
+  },
+  "Archives": {
+    "Grimoire": {
+      "Description": "🦘 The lore of old, Destiny 1's Grimoire cards are backed up, archived, and preserved here. Grimoire is a database within Destiny. Entries were unlocked through playing the game in the form of \"cards.\"\n\nThe list of Grimoire entries is sorted into six main categories—Guardian, Inventory, Allies, Enemies, Places, and Activities. Each of these categories has a number of sub-categories.",
+      "Name": "🦘 Grimoire"
+    },
+    "Guides": {
+      "VowOfTheDisciple": {
+        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
+        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
+      }
+    }
+  },
+  "Auth": {
+    "Data": {
+      "Action": "🦘 Forget Me",
+      "Description": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+      "Name": "🦘 Authentication Data"
+    },
+    "Error": {
+      "NoAuth": {
+        "Description": "🦘 Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
+        "Name": "🦘 Authentication Required"
+      },
+      "Permissions": {
+        "Profile": {
+          "Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
+          "Name": "🦘 Oh, honey... Honnnnneyyyy"
+        }
+      }
+    },
+    "Friends": {
+      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
+    },
+    "Login": "🦘 Login with Bungie.net",
+    "Memberships": {
+      "Description": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+      "Name": "🦘 Associated Memberships"
+    },
+    "PatreonAssociation": {
+      "Description": "🦘 Associate this Bungie.net profile with a Patreon account.",
+      "Name": "🦘 Patreon Association",
+      "Placeholder": "🦘 chonky_zuzuvala69@hotmail.reef",
+      "Success": "🦘 Thanks! Your email is now associated with your profiles",
+      "Text": "🦘 Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name. Enable display of relevant flair by entering the email associated with your Patreon account."
+    },
+    "Suggestion": {
+      "Subtle": "🦘 Login with Bungie.net to unlock more features.",
+      "Text": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net."
+    }
+  },
+  "Character": {
+    "Breakdown": {
+      "EffectiveMods": "🦘 Effective Mods",
+      "SlottedMods": "🦘 Slotted Mods",
+      "UnusedEnergy": "🦘 Unused Energy"
+    },
+    "Compare": {
+      "ObtainFromVendor": "🦘 Obtain From {{name}}"
+    },
+    "DIMSync": {
+      "Description": "🦘 This feature requires DIM Sync to function. Enable DIM Sync in _Settings_.",
+      "Name": "🦘 DIM Sync"
+    },
+    "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
+    "Equipment": {
+      "Armor": "🦘 Armor",
+      "Auxiliary": "🦘 Auxiliary",
+      "Breakdown": "🦘 Breakdown",
+      "Weapons": "🦘 Weapons"
+    },
+    "Filter": {
+      "ArcDamage": "🦘 Arc Damage",
+      "DeepsightResonance": "🦘 Deepsight",
+      "Favourite": "🦘 Favourite",
+      "Garbage": "🦘 Garbage",
+      "KineticDamage": "🦘 Kinetic Damage",
+      "Shaped": "🦘 Shaped",
+      "SolarDamage": "🦘 Solar Damage",
+      "StasisDamage": "🦘 Stasis Damage",
+      "StrandDamage": "🦘 Strand Damage",
+      "VoidDamage": "🦘 Void Damage"
+    },
+    "Vendors": {
+      "BrightDustItems": "🦘 Bright Dust Items",
+      "CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
+      "EververseCalendar": "🦘 Eververse Calendar",
+      "FeaturedBrightDustItems": "🦘 Featured Bright Dust Items",
+      "FeaturedSilverItems": "🦘 Featured Silver Items",
+      "ShowAllItems": "🦘 Show All Items",
+      "ShowSilverOnlyItems": "🦘 Show Silver-only Items",
+      "SilverOnlyItems": "🦘 Silver-only Items"
+    }
+  },
+  "Clan": {
+    "Administration": {
+      "ViewportWidth": "🦘 Administration is intended for use on larger displays. Please use a display with a viewport of atleast `1280px`."
+    },
+    "BannerPerks": "🦘 Banner Perks",
+    "ClanAdministration": "🦘 Administration",
+    "ClanBannerBuilder": {
+      "BannerColor": "🦘 Banner Color",
+      "BannerDetail": "🦘 Banner Detail",
+      "BannerDetailColor": "🦘 Banner Detail Color",
+      "BannerEmblem": "🦘 Banner Emblem",
+      "Description": "🦘 Collaborate with clan members on a new clan banner: make your selections and tap Share to show off your style.",
+      "EmblemBackgroundColor": "🦘 Emblem Background Color",
+      "EmblemForegroundColor": "🦘 Emblem Foreground Color",
+      "Name": "🦘 Clan Banner Builder"
+    },
+    "ClanRoster": "🦘 Roster",
+    "Founded": "🦘 Founded {{time}}",
+    "HistoricalStats": {
+      "ViewportWidth": "🦘 Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
+    },
+    "HistoricalStatsLoading": "🦘 Loading historical stats",
+    "Members": "🦘 {{number}} Members",
+    "MembersLoading": "🦘 Loading {{name}} members",
+    "NoClan": {
+      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
+      "Name": "🦘 No clan affiliation"
+    },
+    "Relationships": {
+      "BestFriends": "🦘 Best Friends",
+      "Description": "🦘 Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other.\n\nThese Guardians are your clan members and this ranking resets with every new season.",
+      "Name": "🦘 Relationships",
+      "NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
+      "NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
+      "Options": {
+        "LimitCurrentSeason": {
+          "Description": "🦘 Only load activities from the current season.",
+          "Name": "🦘 Current Season"
+        },
+        "LimitGroupMembers": {
+          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
+          "Name": "🦘 Clan Members"
+        }
+      },
+      "RomanticPartnerships": "🦘 Romantic Partnerships",
+      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "UndiscoveredFriends": "🦘 Undiscovered Friends"
+    },
+    "RewardEngrams": "🦘 Reward Engrams",
+    "Roster": {
+      "Approve": "🦘 Approve",
+      "Ban": "🦘 Ban",
+      "Demote": "🦘 Demote",
+      "Deny": "🦘 Deny",
+      "DisplayName": "🦘 Display Name",
+      "DownloadData": "🦘 Download Data",
+      "Glory": "🦘 Glory",
+      "Infamy": "🦘 Infamy",
+      "Joined": "🦘 Joined",
+      "Kick": "🦘 Kick",
+      "LastActivity": "🦘 Last Activity",
+      "LastCharacter": "🦘 Character",
+      "LastPlatform": "🦘 Platform",
+      "Promote": "🦘 Promote",
+      "Rank": "🦘 Rank",
+      "Valor": "🦘 Valor",
+      "WeeklyClanXP": "🦘 Weekly XP"
+    }
+  },
+  "Collections": {
+    "Badge": "🦘 Badge",
+    "Badge_plural": "🦘 Badges",
+    "Badges": {
+      "Commonality": {
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this badge.",
+        "Name": "🦘 Badge Commonality"
+      },
+      "Completed": "🦘 Badge Completed",
+      "Progress": "🦘 Badge Progress"
+    },
+    "CollectedBy": "🦘 Collected",
+    "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them.",
+    "CollectiblesUnavailable": "🦘 There are no collectibles available for display.",
+    "Grouped": {
+      "Season": "🦘 Group by Season",
+      "Ungroup": "🦘 Ungroup"
+    },
+    "RecentlyDiscovered": "🦘 Recently Discovered",
+    "SetComplete": "🦘 Set complete",
+    "SomeAcquiredSomeInvisible": "🦘 Some acquired, {{invisible}} invisible"
+  },
+  "Commendations": {
+    "Received": "🦘 Received",
+    "ReceivedAbr": "🦘 Recvd.",
+    "Sent": "🦘 Sent",
+    "SentAbr": "🦘 Sent"
+  },
+  "Common": {
+    "ActiveModifiers": "🦘 Active Modifiers",
+    "ActiveScore": "🦘 Active Score",
+    "Activity": "🦘 Activity",
+    "ActivityBonus": "🦘 Activity Bonus",
+    "ActivityMembers": "🦘 Activity Members",
+    "Activity_plural": "🦘 Activities",
+    "Addendums": "🦘 Addendums",
+    "All": "🦘 All",
+    "AscendantChallenge": "🦘 Ascendant Challenge",
+    "Authenticate": "🦘 Authenticate",
+    "AvailableActivities": "🦘 Available Activities",
+    "Cancel": "🦘 Cancel",
+    "Challenge": "🦘 Challenge",
+    "Challenge_plural": "🦘 Challenges",
+    "Character": "🦘 Character",
+    "CharacterClass": "🦘 Character Class",
+    "CharacterLight": "🦘 Character Light",
+    "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
+    "Character_plural": "🦘 Characters",
+    "Checklists": "🦘 Checklists",
+    "Clan": "🦘 Clan",
+    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMembersNth": "🦘 Clan Members",
+    "Classified": "🦘 Classified",
+    "Collectibles": "🦘 Collectibles",
+    "Collections": "🦘 Collections",
+    "CollectionsScore": "🦘 Collections Score",
+    "CommendationAbr_plural": "🦘 Comms.",
+    "Completed": "🦘 Completed",
+    "CruciblePlaylist": "🦘 Crucible Playlist",
+    "Equipment": "🦘 Equipment",
+    "Error": "🦘 Error",
+    "Examples": "🦘 Examples",
+    "Expired": "🦘 Expired",
+    "Expiry": "🦘 Expiry",
+    "Failure": "🦘 Failure",
+    "FeaturedEvent": "🦘 Featured Event",
+    "FeaturedNightfall": "🦘 Featured Nightfall",
+    "FeaturedPlaylist": "🦘 Featured Playlist",
+    "Fireteam": "🦘 Fireteam",
+    "FireteamMembers": "🦘 Fireteam Members",
+    "Friend": "🦘 Friend",
+    "Friend_plural": "🦘 Friends",
+    "GloryPoints": "🦘 Glory Points",
+    "GuardianRank": "🦘 Guardian Rank",
+    "Guardians": "🦘 Guardians",
+    "Help": "🦘 Help",
+    "HistoricalStats": "🦘 Historical Stats",
+    "InfamyPoints": "🦘 Infamy Points",
+    "Inspect": "🦘 Inspect",
+    "Inventory": "🦘 Inventory",
+    "Items": "🦘 Items",
+    "LegacyScore": "🦘 Legacy Score",
+    "LevelNth": "🦘 Level {{number}}",
+    "LoreBook": "🦘 Lore Book",
+    "Medals": "🦘 Medals",
+    "MembersOnline": "🦘 {{number}} Online",
+    "Name": "🦘 Name",
+    "NoActivitiesAvailable": "🦘 There aren't any activities available to you. Perhaps you don't meet the requirements...",
+    "NothingHereYet": "🦘 There's nothing here yet",
+    "Objectives": "🦘 Objectives",
+    "Offline": "🦘 Offline",
+    "Patron_plural": "🦘 Patrons",
+    "Player": "🦘 Player",
+    "Preview": "🦘 Preview",
+    "Profile": "🦘 Profile",
+    "Progress": "🦘 Progress",
+    "Progression": "🦘 Progression",
+    "Quests": "🦘 Quests",
+    "Rank_plural": "🦘 Ranks",
+    "Record": "🦘 Record",
+    "Report_plural": "🦘 Reports",
+    "Reset": "🦘 Reset",
+    "Reward": "🦘 Reward",
+    "Reward_plural": "🦘 Rewards",
+    "Savathûn'sCurse": "🦘 Savathûn's Curse",
+    "Score": "🦘 Score",
+    "ScoreValue": "🦘 Score Value",
+    "Search": "🦘 Search",
+    "SeasonNth": "🦘 Season {{number}}",
+    "SeasonPass": "🦘 Season Pass",
+    "SeasonRank": "🦘 Season Rank",
+    "SeasonYearNth": "🦘 Season {{season}}, Year {{year}}",
+    "Settings": "🦘 Settings",
+    "Source": "🦘 Source",
+    "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
+    "SpecialCommendation_plural": "🦘 Special Comms.",
+    "Submit": "🦘 Submit",
+    "Support": "🦘 Support",
+    "TimePlayed": "🦘 Time Played",
+    "Translator_plural": "🦘 Translators",
+    "TriumphScore": "🦘 Triumph Score",
+    "Triumphs": "🦘 Triumphs",
+    "Unknown": "🦘 Unknown",
+    "Users": "🦘 Users",
+    "ValorPoints": "🦘 Valor Points",
+    "Vendor_plural": "🦘 Vendors",
+    "Views": "🦘 Views",
+    "Weapon": "🦘 Weapon",
+    "WeekNth": "🦘 Week {{number}}"
+  },
+  "FAQ": {
+    "API": {
+      "StatDiscrepancy": {
+        "Description": "🦘 There are multiple sources for stats in Destiny. Clan Historical Stats is based on the HistoricalStats API endpoint while others source their data from PGCRs (Post Game Carnage Reports). It's hard to determine which holds the most accurate truth.\n\nTo display stats in the manner seen on Clan Historical Stats would require downloading terabytes of data from Bungie servers and significant compute power. This said, they're accurate enough for some friendly competition.",
+        "Name": "🦘 Clan Historical Stats don't match [other thing]"
+      }
+    },
+    "Braytech": {
+      "AppStore": {
+        "Description": "🦘 Braytech is available on Apple's [App Store](https://apps.apple.com/app/braytech/id1593151816), [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa), and the [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)!",
+        "Name": "🦘 App stores"
+      },
+      "Commonality": {
+        "Description": "🦘 Commonly asked, \"What is the funny percentage to the right of collectibles and records?\"\n\nIt's a percentage of players who've either discovered or redeemed the item. Every few days, _Voluspa_ collects data from users of _Braytech_ and takes note of who's got what.\n\nIt's been a hot topic as to whether it's accurate or useful and the truth is that all statistics are useless and dumb _unless_ you've included every single piece of data possible.\n\nIt's fair to assume that these stats are bias towards casual players (percentages may appear higher rather than lower due to the skill and attention of the users that are monitored).\n\nWhere available, tooltips for these stats include the total number of players who are counted as a part of this metric.{{crawled}}",
+        "Name": "🦘 Commonality"
+      },
+      "KeyboardShortcuts": {
+        "Description": "🦘 In addition to any action bar buttons with key symbols, Braytech has a variety of hidden keyboard shortcuts. From any view with a profile header (your character emblem, etc.), press and hold  to see which shortcuts are available. For example, press  to go to _Triumphs_ and  to return here.",
+        "Name": "🦘 Keyboard Shortcuts"
+      },
+      "ProfilePrivacy": {
+        "Description": "🦘 If you're concerned for your privacy while playing Destiny and how the API exposes your progression and activities for use by third parties, you may alter your privacy settings on [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy).\n\nDoing so will require that you authenticate Braytech with Bungie for continued use.",
+        "Name": "🦘 Profile privacy"
+      },
+      "ServiceWorkerUpdate": {
+        "Description": "🦘 From the _Settings_ view, you can try a variety of things. Start by selecting _Update Service Worker_.\n\nIf this fails, you can try reloading the app by selecting _Reload App_. If the problem continues to persist, please select _Dump Service Worker_ and report the issue via Discord.",
+        "Name": "🦘 Braytech won't update"
+      },
+      "Widgets": {
+        "Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
+        "Name": "🦘 Widgets",
+        "Video1Caption": "🦘 How to add widgets to your home screen.",
+        "Video2Caption": "🦘 How to add widgets to your lock screen."
+      }
+    },
+    "Voluspa": {
+      "About": {
+        "Description": "🦘 _Voluspa_, named after a sub-mind of _Rasputin_, is what I've named the serverside component of Braytech. It's responsible for collating the profile data of Braytech's users for commonality statistics, settings sync, and other key features.",
+        "Name": "🦘 About Voluspa"
+      }
+    }
+  },
+  "GettingStarted": {
+    "Header": {
+      "Description": "🦘 Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on Discord or you can check out the FAQ!",
+      "Name": "🦘 Getting Started",
+      "SubName": "🦘 Clovis Bray Technologies"
+    },
+    "Tips": {
+      "Search": {
+        "Description": "🦘 Need to find something quick? Braytech has a search HUD, available anywhere in the app.\n\nPress  or tap the magnifying glass button, and start typing!",
+        "Name": "🦘 Search"
+      },
+      "Settings": {
+        "Description": "🦘 Braytech is jam-packed full of settings from dark themes to item visibility options to settings sync.\n\nFind \"Settings\" in the top corner.",
+        "Name": "🦘 Settings"
+      },
+      "Views": {
+        "Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
+        "Name": "🦘 More"
+      }
+    }
+  },
+  "GuardianRank": {
+    "Current": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
+  },
+  "Item": {
+    "Ammo": "🦘 Ammo",
+    "Breaker": "🦘 Breaker",
+    "ClassEquipped": "🦘 {{name}} (Equipped)",
+    "ClassPostmaster": "🦘 {{name}} (Postmaster)",
+    "CollectionsRoll": "🦘 Collections Roll",
+    "Compare": "🦘 Compare",
+    "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
+    "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
+    "CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",
+    "Energy": "🦘 Energy",
+    "EnergyCapacity": "🦘 Energy",
+    "EnergyCost": "🦘 Energy",
+    "EnergyMeter": "🦘 Energy",
+    "EnergyUnused": "🦘 Unused",
+    "Inspect": "🦘 Inspect",
+    "Intrinsic": "🦘 Intrinsic",
+    "ItemAction": "🦘 Item Action",
+    "Mods": "🦘 Mods",
+    "PerkEverything": "🦘 This perk is highly sought after for all activities",
+    "PerkPvE": "🦘 This perk is encouraged for Vanguard engagements",
+    "PerkPvP": "🦘 This perk is encouraged for Crucible engagements",
+    "PerkRecommended": "🦘 This perk is recommended",
+    "Perks": "🦘 Perks",
+    "RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
+    "ShapedDate": "🦘 T.D. {{date}}",
+    "State": "🦘 State",
+    "Stats": "🦘 Stats",
+    "TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
+    "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+    "WeaponKills": "🦘 Weapon Kills"
+  },
+  "Landing": {
+    "Blog": {
+      "AllPosts": "🦘 All Posts",
+      "Error": "🦘 Blog posts couldn't be loaded at this time.",
+      "Name": "🦘 Blog"
+    },
+    "CallToAction": {
+      "Text": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness"
+    },
+    "Featured": {
+      "ThisWeek": "🦘 This Week"
+    },
+    "Features": {
+      "Description": "🦘 A project of pure passion, Braytech is years of experience, incremental additions, and improvements. While its original goal was professional development, it has since swelled into a staple of many Destiny players' experiences as Guardians.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search HUD, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa).\n\nWant to make a suggestion? Join the [Discord](https://discord.bray.tech) or checkout the GitHub [Discussions](https://github.com/justrealmilk/braytech.org-discussion/discussions)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to please you. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work.\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": {
+      "Name": "🦘 Updates"
+    }
+  },
+  "Language": {
+    "Space": {
+      "MetresAbr_plural": "🦘 {{metres}} Mtrs"
+    },
+    "Time": {
+      "Frequency": {
+        "Daily": "🦘 Daily",
+        "Weekly": "🦘 Weekly"
+      },
+      "Relative": {
+        "Future": "🦘 in {{duration}}",
+        "Past": "🦘 {{duration}} ago"
+      }
+    }
+  },
+  "Leaderboards": {
+    "ActiveScore": "🦘 Active Score",
+    "CollectionsScore": "🦘 Collections Score",
+    "LegacyScore": "🦘 Legacy Score",
+    "Rank": "🦘 Rank",
+    "TriumphScore": "🦘 Triumph Score"
+  },
+  "Legend": {
+    "Activity": {
+      "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
+      "Name": "🦘 First Risen"
+    },
+    "Commonality": {
+      "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
+      "Name": "🦘 Rare Treasures & Exotic Style"
+    },
+    "Empty": "🦘 Empty",
+    "Fishing": {
+      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
+      "LargestFish": "🦘 Largest Fish",
+      "Name": "🦘 Competitive Fishing",
+      "TypesCaught": "🦘 Types Caught"
+    },
+    "Ranks": {
+      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
+      "Guardian": {
+        "Description": "🦘 Prepare to be evaluated by the Light and your peers.",
+        "Name": "🦘 Guardian"
+      },
+      "Name": "🦘 Guardian Standing"
+    },
+    "Seals": {
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+    }
+  },
+  "Loading": {
+    "BungieError": {
+      "Description": "🦘 Crucial API data couldn't be loaded at this time. This is an intermittent issue. Please try again.\n\nIf this error does persist, the API may be experiencing a wider outage or your local network is restricting Bungie API requests.",
+      "Name": "🦘 Bungie Error"
+    },
+    "Error": {
+      "Description": "🦘 Something very unexpected and irrecoverable occurred."
+    },
+    "IndexedDBError": {
+      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."
+    },
+    "IndexedDBErrorFatal": {
+      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nPlease reload the app and try again."
+    },
+    "IndexedDBOpenFailedError": {
+      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nSome browsers disallow access to _Indexed DB_ when browsing in private modes.\n\nPlease reload the app and try again."
+    },
+    "MaintenanceError": {
+      "Description": "🦘 The Bungie API is currently down for maintenance.\n\nTune into @BungieHelp on Twitter for more information.",
+      "Name": "🦘 Bungie Maintenance"
+    },
+    "ManifestDownloadError": {
+      "Description": "🦘 Something went wrong while trying to download the manifest from Bungie.\n\nPlease reload the app and try again.",
+      "Name": "🦘 Manifest download failed"
+    },
+    "ManifestError": {
+      "Description": "🦘 Something went wrong while trying to update the manifest with Bungie.\n\nPlease reload the app and try again.",
+      "Name": "🦘 Manifest error"
+    },
+    "NoInternetError": {
+      "Description": "🦘 Are you offline? Your web browser thinks you are..."
+    },
+    "SettingsFetchError": {
+      "Description": "🦘 Something went wrong while trying to collect the API configuration from Bungie.\n\nPlease reload the app and try again.",
+      "Name": "🦘 Configuration failure"
+    },
+    "Status": {
+      "DownloadingManifest": "🦘 Downloading Data From Bungie",
+      "FatalError": "🦘 Fatal Error",
+      "NoInternetError": "🦘 No Internet",
+      "Other": "🦘 Starting Windows 95",
+      "ReadStoredPGCR": "🦘 Load Stored Carnage Reports",
+      "SettingsFetch": "🦘 Connecting to Bungie.net",
+      "StoreManifest": "🦘 Storing Manifest Data"
+    },
+    "WaitingForBungie": "🦘 Waiting for Bungie"
+  },
+  "Maps": {
+    "Context": {
+      "ChecklistsAndMore": "🦘 Checklists + More",
+      "NoChecklistItems": "🦘 No items detected"
+    },
+    "Inspect": {
+      "Instructions": "🦘 Instructions",
+      "ProposeChanges": {
+        "Form": {
+          "Description": {
+            "Name": "🦘 Description"
+          },
+          "Issues": {
+            "Name": "🦘 Issues"
+          },
+          "Screenshots": {
+            "Name": "🦘 Screenshots",
+            "Select": "🦘 Select Screenshots"
+          },
+          "Video": {
+            "Name": "🦘 Name"
+          }
+        },
+        "Name": "🦘 Propose Changes"
+      },
+      "RelatedVideo": "🦘 This node has a related video.",
+      "RelatedVideoAction": "🦘 Open Video File",
+      "Vendor": {
+        "NoSales": "🦘 Fresh out of stock."
+      }
+    },
+    "Nodes": {
+      "Unavailable": "🦘 Unavailable",
+      "UnavailableInGame": "🦘 Unavailable: this node is no longer available in-game.",
+      "UnavailableUnreliableApi": "🦘 Unavailable: something is preventing this node from relaying its status reliably."
+    },
+    "ProposeChanges": {
+      "Description": "🦘 Submit a proposal for changes to this node's data and improve maps for other Guardians.",
+      "Form": {
+        "Description": {
+          "Placeholder": "🦘 Example: by a rock on the far side of the last room"
+        },
+        "Issues": {
+          "Placeholder": "🦘 Example: the node is no longer accessible"
+        },
+        "Screenshots": {
+          "Description": "🦘 Proposed screenshots must meet a strict quality criteria:\n- display resolution of 1920x1080\n- no visible HUD\n- no visible Guardians or equipment\n- no visible enemies\n- maximum video settings\n  - including a render resolution of 200%"
+        }
+      }
+    },
+    "ScreenshotUnavailable": "🦘 Screenshot Unavailable",
+    "Surveyor": {
+      "Capture": "🦘 Capture Position",
+      "CopyDefinitions": "🦘 Copy Definitions",
+      "CopyNodes": "🦘 Copy Nodes",
+      "NoNodes": "🦘 Select a position on the map to begin."
+    },
+    "Within": {
+      "Activity": "🦘 Found within activity",
+      "ActivityName": "🦘 Found within activity: {{string}}",
+      "AscendantChallenge": "🦘 Found within Ascendant Challenge: {{string}}",
+      "LostSector": "🦘 Found within Lost Sector: {{string}}",
+      "Story": "🦘 Found within Story: {{string}}",
+      "Strike": "🦘 Found within Strike: {{string}}"
+    }
+  },
+  "MemberLink": {
+    "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
+      "PrivateProgression": {
+        "Description": "🦘 This profile's progression data isn't available. Their profile may be set to private on Bungie.net. They're definitely not trying to hide anything.",
+        "Name": "🦘 Private Profile"
+      }
+    }
+  },
+  "MemberService": {
+    "Inactive": {
+      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
+    }
+  },
+  "Notifications": {
+    "NthMore": "🦘 and {{number}} more",
+    "NthRemaining": "🦘 {{number}} others",
+    "PostmasterCapacityWarning": {
+      "DescriptionAlmostFull": "🦘 The Postmaster is almost out of space. If you do not retrieve your items, you will lose them forever!",
+      "DescriptionFull": "🦘 The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
+      "Name": "🦘 Warning!"
+    },
+    "PushNotifications": {
+      "Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
+      "Name": "🦘 Push Notifications"
+    }
+  },
+  "ProfileSearch": {
+    "ActiveProfile": "🦘 Active Profile",
+    "BungieNetProfile": "🦘 Bungie.net Profile",
+    "ChangeProfile": "🦘 Change Profile",
+    "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
+    "Error": {
+      "Banned": {
+        "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
+        "Dickhead": "🦘 Dickhead.",
+        "Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
+        "Teabagging": "🦘 Player was observed engaging in behaviours that are not conducive of a friendly environment."
+      },
+      "CharacterMissing": {
+        "Description": "🦘 The character you tried to load is unavailable—maybe it's been deleted.",
+        "Name": "🦘 Character Unavailable"
+      },
+      "MemberBanned": {
+        "Description": "🦘 This Destiny profile has been banned from this app. This isn't an error.",
+        "Name": "🦘 Profile Banned"
+      },
+      "PrivateProgression": {
+        "Description": "🦘 Your profile's progression data isn't available. Your profile may be set to private on Bungie.net.\n\nYou may change your privacy settings on Bungie.net or authenticate Braytech with Bungie.net",
+        "Name": "🦘 Private Profile"
+      }
+    },
+    "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+    "NewLight": "🦘 New Light",
+    "NoProfilesFound": "🦘 No Profiles Found",
+    "PreviousSearches": "🦘 Previous Searches",
+    "ReturnToAuthMembership": "🦘 Return to {{displayName}}",
+    "SavedProfile": "🦘 Saved Profile",
+    "SearchForPlayer": "🦘 Profile Search",
+    "SearchPlaceholder": "🦘 enter BungieName#0343",
+    "SelectACharacter": "🦘 Select A Character",
+    "TemporaryError": "🦘 A temporary Bungie error occurred."
+  },
+  "Progression": {
+    "Points": "🦘 Points",
+    "PointsNextRank": "🦘 Points until next rank",
+    "PointsTotal": "🦘 Total points",
+    "PrestigeNth": "🦘 Prestige {{number}}",
+    "Rank": "🦘 Rank",
+    "RankNth": "🦘 Rank {{number}}",
+    "ResetVendor": "🦘 Return to the vendor to reset your rank",
+    "Streak": "🦘 Streak",
+    "Title": "🦘 Title",
+    "TrialsPassage": {
+      "FlawlessPassage": "🦘 Flawless Passage",
+      "WeeklyTimesFlawless": "🦘 Flawless This Week",
+      "Wins": "🦘 Wins"
+    }
+  },
+  "Quests": {
+    "Details": {
+      "Steps": "🦘 Steps"
+    },
+    "Info": {
+      "InventoryCapacity": "🦘 Total Quest and Bounty Capacity",
+      "NoBounties": "🦘 Bounties you acquire will appear here.",
+      "NoQuests": "🦘 Quests you acquire will appear here."
+    }
+  },
+  "Search": {
+    "Error": {
+      "MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index."
+    },
+    "Examples": {
+      "Description": "🦘 description:clovis bray",
+      "Expiration": "🦘 expiration:seraph",
+      "Name": "🦘 name:mida",
+      "Source": "🦘 source:leveling",
+      "Type": "🦘 type:scout rifle"
+    },
+    "Placeholder": "🦘 enter name or description",
+    "Results": {
+      "MatchesAllHidden": "🦘 There is a match, but you've chosen to hide it!",
+      "NoMatches": "🦘 Nothing matched your terms.",
+      "Top10": "🦘 Showing the top 10 matches. Press  at any time for a full search experience."
+    },
+    "ShortcutKey": "🦘 Press  to toggle search from anywhere",
+    "Suggestions": "🦘 Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nTrying to find a Braytech feature? Search for what it may be named.\n\nResults are prioritised by name, source, and description.",
+    "VanguardArchives": "🦘 Welcome to the Vanguard archives."
+  },
+  "SeasonPass": {
+    "ProgressPowerBonus": "🦘 Power Bonus Progress",
+    "SeasonProgress": "🦘 Season Progress",
+    "SeasonProgressDays": "🦘 Days"
+  },
+  "Settings": {
+    "Category": {
+      "Advanced": {
+        "Name": "🦘 Advanced"
+      },
+      "Common": {
+        "Name": "🦘 Common"
+      },
+      "PushNotifications": {
+        "Name": "🦘 Push Notifications"
+      }
+    },
+    "DIMSync": {
+      "Action": {
+        "Disable": {
+          "Description": "🦘 Disable sync and delete stored DIM Sync authentication token."
+        },
+        "Enable": {
+          "Description": "🦘 Enable sync by exchanging your Bungie.net authentication token with DIM Sync."
+        }
+      },
+      "Info": "🦘 Sync your settings for loadouts and item tags with DIM."
+    },
+    "Developer": {
+      "ExperimentalFeatures": {
+        "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
+        "Name": "🦘 Enable Experimental Features"
+      },
+      "Maps": {
+        "Debug": {
+          "Description": "🦘 Enable Maps debugging settings.",
+          "Name": "🦘 Maps Debug Mode"
+        },
+        "LogDetails": {
+          "Description": "🦘 Console.log details for the mouse-invoked node.",
+          "Name": "🦘 Log Node Details"
+        },
+        "Surveyor": {
+          "Description": "🦘 An additional maps control allowing the easy and rapid collection of map nodes.",
+          "Name": "🦘 Use Surveyor"
+        }
+      }
+    },
+    "IDB": {
+      "ClearCache": {
+        "Description": "🦘 Clear cached assets such as map images. These assets are downloaded as they're required.",
+        "Name": "🦘 Clear Cache"
+      },
+      "ClearManifest": {
+        "Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
+        "Name": "🦘 Clear Manifest"
+      },
+      "ClearReports": {
+        "Description": "🦘 Delete all post game carnage reports stored on this device.",
+        "Name": "🦘 Clear Reports"
+      },
+      "Usage": {
+        "Description": "🦘 Storage used by Destiny's manifest, cached post game carnage reports, and cached assets.",
+        "Name": "🦘 Usage"
+      }
+    },
+    "Interface": {
+      "AlternateAppIcon": {
+        "Info": "🦘 Alter the appearance of the app's icon."
+      },
+      "Bindings": {
+        "Info": "🦘 Alter the appearance and bindings of action buttons."
+      },
+      "FlipSubviewNav": {
+        "Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
+        "Left": "🦘 Left",
+        "Right": "🦘 Right"
+      },
+      "ItemSize": {
+        "Info": "🦘 Adjust the size of inventory item icons for most Braytech features."
+      }
+    },
+    "ItemVisibility": {
+      "HideCompletedCollectibles": {
+        "Description": "🦘 If a collectible has been acquired, it will be hidden under Collections views.",
+        "Name": "🦘 Hide Acquired Collection Items"
+      },
+      "HideCompletedRecords": {
+        "Description": "🦘 If a triumph record is completed and redeemed, it will be hidden under Triumphs views.",
+        "Name": "🦘 Hide Completed Triumph Records"
+      },
+      "HideDudRecords": {
+        "Description": "🦘 Hide dud (empty or unused) records from view. This is a manually curated [list](/triumphs/dud).",
+        "Name": "🦘 Hide Dud Triumph Records"
+      },
+      "HideInvisibleCollectibles": {
+        "Description": "🦘 If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
+        "Name": "🦘 Hide Invisible Collection Items"
+      },
+      "HideInvisibleRecords": {
+        "Description": "🦘 If the game specifies that you are unable to see a particular record, it will render as \"Secret\" under Triumphs views.",
+        "Name": "🦘 Hide Invisible Triumph Records"
+      },
+      "HideUnobtainableRecords": {
+        "Description": "🦘 Hide unobtainable records from view. This is a manually curated [list](/triumphs/unobtainable).",
+        "Name": "🦘 Hide Unobtainable Triumph Records"
+      }
+    },
+    "LS": {
+      "ResetEverything": {
+        "Description": "🦘 Reset all user settings, saved data, and history.",
+        "Name": "🦘 Reset Everything"
+      },
+      "ResetNotifications": {
+        "Description": "🦘 Reset dismissed notifications to their default state.",
+        "Name": "🦘 Reset Notifications"
+      },
+      "ResetProfileHistory": {
+        "Description": "🦘 Delete the stored list of previously loaded profiles (Profile Search).",
+        "Name": "🦘 Reset Profile History"
+      },
+      "ResetTips": {
+        "Description": "🦘 Restore informational tips to their default state.",
+        "Name": "🦘 Reset Tips"
+      },
+      "ResetTrackedTriumphs": {
+        "Description": "🦘 Untrack all user-tracked triumphs. Will not affect the state of in-game triumphs.",
+        "Name": "🦘 Reset Tracked Triumphs"
+      }
+    },
+    "Language": {
+      "Colloquial": {
+        "Description": "🦘 Activate user-contributed slang in place of official texts.",
+        "Name": "🦘 Use Colloquial Language"
+      }
+    },
+    "Maps": {
+      "Checklists": {
+        "Info": "🦘 Toggle the visibility of checklists. Keep it clean."
+      },
+      "Developer": {
+        "Info": "🦘 Tools to assist developers when working on maps"
+      },
+      "ItemVisibility": {
+        "HideDiscoveredNodes": {
+          "Description": "🦘 If a node has been discovered, omit it from the map unless selected.",
+          "Name": "🦘 Hide Discovered Nodes"
+        },
+        "HidePatrols": {
+          "Description": "🦘 Hide all patrol beacons.",
+          "Name": "🦘 Hide Patrols"
+        }
+      },
+      "Visual": {
+        "Atmosphere": {
+          "Description": "🦘 Display weather such as cloud cover.",
+          "Name": "🦘 Atmosphere"
+        }
+      },
+      "VisualFidelity": {
+        "Info": "🦘 Alter the appearance of visual flourishes"
+      }
+    },
+    "Profile": {
+      "Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
+      "NoProfileSelected": "🦘 Select a profile"
+    },
+    "PushNotifications": {
+      "BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
+      "Condition": {
+        "AnyActivity": "🦘 Any Activity",
+        "AnyMod": "🦘 Any Mod",
+        "AnyReward": "🦘 Any Reward",
+        "AnySale": "🦘 Any Sale",
+        "AnyShader": "🦘 Any Shader",
+        "Multiple": "🦘 Multiple",
+        "Uncollected": "🦘 Uncollected"
+      },
+      "Conditions": "🦘 Conditions",
+      "Configure": "🦘 Configure Push Notifications",
+      "Event": "🦘 Event",
+      "Frequency": "🦘 Frequency",
+      "Incompatible": "🦘 Your browser doesn't support push notifications yet.",
+      "Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
+      "NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
+      "PermissionDenied": "🦘 You've denied permission to send notifications. You'll need to manually enable or reset them before we can continue. Check your browser and device settings.",
+      "PreviewNotifications": {
+        "Description": "🦘 Dispatch enabled notifications immediately.",
+        "Name": "🦘 Preview Notifications"
+      },
+      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
+      "Users": "🦘 Users"
+    },
+    "ReloadRequired": {
+      "Description": "🦘 Select reload app to activate your changes immediately.",
+      "Name": "🦘 Reload Required"
+    },
+    "Reports": {
+      "Info": "🦘 Once downloaded, reports are saved to device storage for rapid access after the fact. All reports are associated with the member through which they were originally viewed. You can clear them here, member by member. You may wish to do this in order to minimise initial load time, if you've downloaded many reports.",
+      "NoReports": "🦘 No reports are stored on this device.",
+      "ReportsCount": "🦘 Count",
+      "ReportsMember": "🦘 Member"
+    },
+    "Search": {
+      "HideFeatureSuggestions": {
+        "Description": "🦘 Hold your breath–I know what I'm doing.",
+        "Name": "🦘 Hide Feature Suggestions"
+      },
+      "ItemVisibilityOverride": {
+        "Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
+        "Name": "🦘 Show Completed and Acquired"
+      }
+    },
+    "SubCategory": {
+      "Authentication": "🦘 Authentication",
+      "Developer": "🦘 Developer",
+      "IDB": "🦘 Database Storage",
+      "Interface": {
+        "AlternateAppIcon": "🦘 App Icon",
+        "Bindings": "🦘 Bindings",
+        "FlipSubviewNav": "🦘 Flip Subview Nav",
+        "ItemSize": "🦘 Inventory Item Size"
+      },
+      "ItemVisibility": "🦘 Item Visibility",
+      "LS": "🦘 Local Storage",
+      "Language": "🦘 Language",
+      "Reports": "🦘 Reports Storage",
+      "SavedProfile": "🦘 Saved Profile",
+      "Search": "🦘 Search",
+      "Synchronisation": "🦘 Synchronisation",
+      "System": "🦘 System",
+      "Theme": "🦘 Theme",
+      "Troubleshooting": "🦘 Troubleshooting",
+      "VisualFidelity": "🦘 Visual Fidelity"
+    },
+    "Sync": {
+      "Action": {
+        "DeleteSyncedSettings": {
+          "Description": "🦘 Disable sync and delete settings stored with Voluspa.",
+          "Name": "🦘 Delete Synced Settings"
+        },
+        "DownloadSyncedSettings": {
+          "Description": "🦘 Download synced settings immediately, overwriting current settings.",
+          "Name": "🦘 Download Synced Settings"
+        },
+        "Enable": {
+          "Description": "🦘 Enable sync and regularly sync with Voluspa."
+        }
+      },
+      "Info": "🦘 Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
+      "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
+      "State": {
+        "Merged": "🦘 Last merged {{duration}} ago",
+        "Synced": "🦘 Last synced {{duration}} ago"
+      }
+    },
+    "System": {
+      "PromptForMinorVersions": {
+        "Description": "🦘 Notify me to update even for minor versions.",
+        "Name": "🦘 Minor Version Updates"
+      },
+      "ReloadAppAutomatically": {
+        "Description": "🦘 When an update for Braytech is ready, reload the app automatically irregardless of what you're doing.",
+        "Name": "🦘 Reload App Automatically"
+      }
+    },
+    "Theme": {
+      "Black": {
+        "Name": "🦘 Black"
+      },
+      "Dark": {
+        "Name": "🦘 Dark"
+      },
+      "Light": {
+        "Name": "🦘 Light"
+      },
+      "SystemPreference": {
+        "Name": {
+          "Description": "🦘 Where supported, Braytech will mirror your system preference."
+        }
+      }
+    },
+    "Troubleshooting": {
+      "DumpServiceWorker": {
+        "Description": "🦘 Attempt to unregister the installed service worker. If successful, reloading the app will allow a new service worker to take its place.",
+        "Name": "🦘 Dump Service Worker"
+      },
+      "UpdateServiceWorker": {
+        "Description": "🦘 Attempt to update the service worker immediately. This function will disable the button temporarily. You may continue to use Braytech while it attempts to update in the background. If successful, you will be prompted to reload the app.",
+        "Name": "🦘 Update Service Worker"
+      }
+    },
+    "VisualFidelity": {
+      "Gay": {
+        "Description": "🦘 Gay it up, bitch. Light up your life with fabulous, limited edition, ground-shattering, Braytech® exclusive! technological innovation.",
+        "Name": "🦘 Enable 🌈"
+      },
+      "ReducedMotion": {
+        "Description": "🦘 Reduce the motion of the user interface, namely by disabling various animations. Reduces CPU usage.",
+        "Name": "🦘 Reduced Motion"
+      }
+    }
+  },
+  "SyncService": {
+    "Delete": {
+      "Failure": {
+        "Description": "🦘 Your settings could not be deleted at this time. This is a temporary failure."
+      },
+      "Success": {
+        "Description": "🦘 Your settings have been deleted. Sync is now disabled."
+      }
+    },
+    "Merge": {
+      "Failure": {
+        "Description": "🦘 While trying to merge your settings, there was an error. This is a temporary failure."
+      },
+      "Success": {
+        "Description": "🦘 Your settings have been merged."
+      }
+    },
+    "Sync": {
+      "Failure": {
+        "Description": "🦘 While trying to sync your settings, there was an error. This is a temporary failure."
+      },
+      "Success": {
+        "Description": "🦘 Your settings have been synced."
+      }
+    }
+  },
+  "Tooltip": {
+    "Actions": {
+      "Acquire": "🦘 Acquire",
+      "Compare": "🦘 Compare",
+      "Equip": "🦘 Equip",
+      "Favourite": "🦘 Favourite",
+      "Garbage": "🦘 Garbage",
+      "Inspect": "🦘 Inspect",
+      "Lock": "🦘 Lock",
+      "NotGarbage": "🦘 Not Garbage",
+      "Select": "🦘 Select",
+      "Store": "🦘 Store",
+      "Unfavourite": "🦘 Unfavourite",
+      "Unlock": "🦘 Unlock",
+      "Vault": "🦘 Vault"
+    },
+    "Item": {
+      "ExpiresIn": "🦘 Expires in {{duration}}.",
+      "NoDescription": "🦘 No description available.",
+      "Quantity": "🦘 Quantity",
+      "QuantityMax": "🦘 Max"
+    },
+    "Maps": {
+      "Availability": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item"
+    }
+  },
+  "Triumphs": {
+    "AlmostComplete": {
+      "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
+      "SeeNext": "🦘 See Next {{number}}"
+    },
+    "AlmostCompleteTriumphs": "🦘 Almost Complete",
+    "Classified": {
+      "Description": "🦘 This record is classified and may be revealed at a later time.",
+      "Name": "🦘 Classified Record"
+    },
+    "Details": {
+      "Completed": "🦘 Completed",
+      "FireteamLoading": "🦘 Loading fireteam members",
+      "NoClanOrFireteam": "🦘 Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
+      "NotCompleted": "🦘 Not Completed",
+      "OpenView": "🦘 Open Details View"
+    },
+    "DudTriumphs": "🦘 Duds",
+    "EventCard": "🦘 Event Card",
+    "LegacySeal_plural": "🦘 Legacy Seals",
+    "LegacyTriumph_plural": "🦘 Legacy Triumphs",
+    "LegacyTriumphs": {
+      "Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review."
+    },
+    "Lore": {
+      "SelectEntry": "🦘 Select an entry to read."
+    },
+    "Record": {
+      "Commonality": {
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record."
+      },
+      "IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
+      "Score": {
+        "Description": "🦘 This record's finite triumph score value."
+      },
+      "ScoreInterval": {
+        "Description": "🦘 The next unredeemed interval's score value over the total record value."
+      }
+    },
+    "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
+    "RecordsUnavailable": "🦘 There are no records available for display.",
+    "Seal": "🦘 Seal",
+    "Seal_plural": "🦘 Seals",
+    "Seals": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
+      "Commonality": {
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Seal Commonality"
+      },
+      "CommonalityGilded": {
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Seal Commonality"
+      },
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "SealCompleted": "🦘 Seal Completed",
+      "SealGilded": "🦘 Seal Gilded",
+      "SealGildedProgress": "🦘 Gilded Progress",
+      "SealProgress": "🦘 Seal Progress"
+    },
+    "Secret": {
+      "Description": "🦘 A mystery that you haven't yet unraveled.",
+      "Name": "🦘 Secret Triumph"
+    },
+    "Sorted": {
+      "Completion": "🦘 Sorted by Completion",
+      "Name": "🦘 Sorted by **Name**",
+      "Rarity": "🦘 Sorted by Rarity",
+      "Score": "🦘 Sorted by Score",
+      "Unsorted": "🦘 Sorted by Bungie"
+    },
+    "Tracked": {
+      "NoTrackedRecords": "🦘 You aren't tracking any records yet!",
+      "SeeAll": "🦘 See All Tracked"
+    },
+    "TrackedTriumphs": "🦘 Tracked Records",
+    "Triumph_plural": "🦘 Triumphs",
+    "UnobtainableTriumphs": "🦘 Unobtainable",
+    "Unredeemed": {
+      "Info": "🦘 Revel in your triumphs and redeem these records.",
+      "InfoWithScoreValue": "🦘 Redeem these records and increase your triumph score by {{value}} points.",
+      "Number": "🦘 {{number}} Unredeemed Triumphs"
+    },
+    "UnredeemedTriumphs": "🦘 Unredeemed Triumphs"
+  },
+  "Upsell": {
+    "Auth": {
+      "Description": "🦘 Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data."
+    },
+    "Patreon": {
+      "Description": "🦘 We all hate ads. They're ugly. They're annoying. They collect your data and sell it to third parties.\n\nI would never threaten you with adding ads to Braytech, but your contributions do directly support my family by paying rent, electricity, water, and health bills. Whether it's a one time thing or an ongoing commitment, every **couple of dollars** helps!",
+      "Name": "🦘 Love Braytech?",
+      "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
+      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon."
+    },
+    "Profile": {
+      "Action": "🦘 Select Your Character",
+      "Description": "🦘 Want to see your objective progress, redeemed records, discovered collectibles, and way more? Load your profile and select your character."
+    }
+  },
+  "Vendor": {
+    "FailureStrings": {
+      "NoFunds": "🦘 Not Enough Materials",
+      "NoInventorySpace": "🦘 Not Enough Space",
+      "UniquenessViolation": "🦘 Can only hold one at a time"
+    }
+  },
+  "Voluspa": {
+    "AdjustGraph": {
+      "Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have discovered this collectible.",
+      "Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
+      "Name": "🦘 Adjust Graph"
+    },
+    "Commonality": "🦘 Commonality",
+    "Crawled": "🦘 {{number}} players are currently crawled by Voluspa.",
+    "GraphType": {
+      "Frequency": "🦘 Frequency",
+      "TimeSeries": "🦘 Time Series"
+    },
+    "LastCrawled": "🦘 Last crawled {{time}}",
+    "ProfilesAssessed": "🦘 Profiles Assessed"
+  },
+  "Weeklies": {
+    "Challenges": {
+      "ActivityBonus": "🦘 Activity Bonuses",
+      "ArtifactPower": {
+        "Description": "🦘 A bonus to your Light level, channeled by your equipped seasonal artifact through experience gained.",
+        "Name": "🦘 Artifact Power Bonus"
+      },
+      "ArtifactPowerBonus": "🦘 Power Bonus",
+      "GearPower": {
+        "Description": "🦘 The average Power level of your currently equipped armaments.",
+        "Name": "🦘 Gear Power"
+      },
+      "NoChallenges": "🦘 You've smashed all of your available challenges this week!",
+      "Power": {
+        "Description": "🦘 Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
+        "Name": "🦘 Light"
+      },
+      "SeasonalChallenges": {
+        "Available": "🦘 {{number}} Seasonal Challenges Available",
+        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
+        "Name": "🦘 Seasonal Challenges"
+      },
+      "Type": {
+        "Bounties": "🦘 Bounties",
+        "Crucible": "🦘 Crucible",
+        "Dungeon": "🦘 Dungeon",
+        "Exotic": "🦘 Exotic",
+        "Expansion": "🦘 Expansion",
+        "Gambit": "🦘 Gambit",
+        "Raid": "🦘 Raid",
+        "Seasonal": "🦘 Seasonal",
+        "Strikes": "🦘 Strikes"
+      }
+    },
+    "Rotations": {
+      "Description": "🦘 Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
+      "Name": "🦘 Rotations"
+    }
+  }
 }

@@ -1,881 +1,1468 @@
 {
-  "Action.Accept": "Aceptar",
-  "Action.AddBookmark": "Añadir a favoritos",
-  "Action.AddEvent": "Añadir evento",
-  "Action.AllClasses": "Todas las clases",
-  "Action.Back": "Atrás",
-  "Action.BecomeAPatron": "Conviértete en Patron",
-  "Action.Browse": "Navegar",
-  "Action.Cancel": "Cancelar",
-  "Action.Close": "Cerrar",
-  "Action.Collapse": "Reducir",
-  "Action.Confirm": "Confirmar",
-  "Action.Customise": "Personalizar",
-  "Action.Delete": "Borrar",
-  "Action.Disable": "Desactivar",
-  "Action.Dismiss": "Cerrar",
-  "Action.Done": "Guardar",
-  "Action.Enable": "Activar",
-  "Action.Expand": "Ampliar",
-  "Action.GatherInVault": "Reunir en el depósito",
-  "Action.GoToBNet": "Ir a Bungie.net",
-  "Action.GoToMaps": "Ir a Mapas",
-  "Action.GoToTwitter": "Ir a Twitter",
-  "Action.HideAcquired": "Ocultar obtenidos",
-  "Action.HideCollectionsRolls": "Ocultar posibles ventajas aleatorias",
-  "Action.HideCompleted": "Ocultar completados",
-  "Action.HideDiscovered": "Ocultar descubiertos",
-  "Action.HideHiddenStats": "Estadísticas avanzadas",
-  "Action.HideRedeemed": "Ocultar canjeados",
-  "Action.Jump": "Saltar",
-  "Action.Lock": "Bloquear",
-  "Action.MemberRemove": "Eliminar miembro",
-  "Action.NextNth": "Siguientes {{number}}",
-  "Action.Now": "Ahora",
-  "Action.Open": "Abrir",
-  "Action.Previous": "Anteriores",
-  "Action.PullPostmaster": "Sacar de Administración",
-  "Action.ReloadApp": "Recargar aplicación",
-  "Action.ReloadAppAutomatically": "Recargar la aplicación automáticamente",
-  "Action.RemoveBookmark": "Quitar de favoritos",
-  "Action.Reset": "Reiniciar",
-  "Action.SelectDate": "Elegir fecha",
-  "Action.SelectFilters": "Filtros",
-  "Action.SelectMasterwork": "Seleccionar obra maestra",
-  "Action.Set": "Establecer",
-  "Action.Share": "Compartir",
-  "Action.ShowAll": "Mostrar todo",
-  "Action.ShowCollectionsRolls": "Mostrar posibles ventajas aleatorias",
-  "Action.ShowHiddenStats": "Estadísticas básicas",
-  "Action.TryAgain": "Volver a probar",
-  "Action.Unlock": "Desbloquear",
-  "Action.UserReady": "¡Vamos!",
-  "Action.ViewHistoricalData": "Ver datos históricos",
-  "Action.ViewMore": "Ver más",
-  "Activity.ActiveRotator": "Rotación activa",
-  "Activity.ApproximateLength": "Duración aproximada",
-  "Activity.Carnage.SelectDate.Info": "Selecciona una fecha a continuación y prepárate para dar el salto",
-  "Activity.Carnage.SelectDate.Waiting": "Agarraos—cuantas más actividades hagáis y más lejos saltéis, más tiempo tardaremos.\n\nLa API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos La API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos acribillando los datos.",
-  "Activity.Cooperative": "Cooperativo",
-  "Activity.Fireteam.Closed": "Escuadra cerrada",
-  "Activity.Fireteam.Full": "Escuadra llena",
-  "Activity.Fireteam.MatchLoading": "La partida está cargando",
-  "Activity.Fireteam.Matchmaking": "Matchmaking",
-  "Activity.Fireteam.Open": "Escuadra abierta",
-  "Activity.Fireteam.SinglePlayer": "Actividad de un jugador",
-  "Activity.FreeForAll": "Todos contra todos",
-  "Activity.Graphs.SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba.",
-  "Activity.LevelAdvantagesDisabled": "Ventajas de nivel desactivadas",
-  "Activity.LevelAdvantagesEnabled": "Ventajas de nivel activadas",
-  "Activity.Matchmaking": "Matchmaking",
-  "Activity.MaxParty": "{{number}} jugadores",
-  "Activity.Modes.Bar.PvPLoss": "Derrota",
-  "Activity.Modes.Bar.PvPWin": "Victoria",
-  "Activity.Modes.Last100.PvE": "Últimas 100 actividades",
-  "Activity.Modes.Last100.PvP": "Últimas 100 partidas",
-  "Activity.Modes.Lifetime": "Total",
-  "Activity.Modes.Line.AverageKD": "Promedio de B/M",
-  "Activity.Modes.Scatter.PvEFailure": "Fracaso",
-  "Activity.Modes.Scatter.PvEFlawless": "Impecable",
-  "Activity.Modes.Scatter.PvPFlawless": "Impecable",
-  "Activity.Modes.Scatter.PvPLoss": "Derrota",
-  "Activity.Modes.Scatter.PvPWin": "Victoria",
-  "Activity.Modes.TrialsPassage": "Pase de las Pruebas",
-  "Activity.ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
-  "Activity.NoMedalsAwarded": "No se han concedido medallas",
-  "Activity.NoStatsAvailable": "No hay estadísticas disponibles",
-  "Activity.PvP": "Jugador contra jugador",
-  "Activity.RecommendedLight": "Luz recomendada",
-  "Activity.Score.Team": "Puntuación del equipo",
-  "Activity.SelectMode": "Elige modo",
-  "Activity.SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
-  "Activity.SinglePlayer": "Un jugador",
-  "Activity.Standing.Defeat": "Derrota",
-  "Activity.Standing.DidNotFinish": "El jugador no ha terminado",
-  "Activity.Standing.Mercy": "Clemencia",
-  "Activity.Standing.Tie": "Empate",
-  "Activity.Standing.Victory": "Victoria",
-  "Activity.State.ActivityHistoryError": "Algo salió mal al intentar cargar el historial de actividades. Por favor, inténtalo de nuevo.",
-  "Activity.State.DownloadingReports": "Descargando informes",
-  "Activity.State.DownloadingReportsProgressValue": "Recogiendo datos de escuadra de Bungie.net. Esto puede llevar un tiempo en función de tu red y del número requerido.",
-  "Activity.State.GenericError": "Algo salió mal. Por favor, inténtalo de nuevo.",
-  "Activity.State.HydratingReportsCache": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
-  "Activity.State.LoadGroupMembers": "Analizando el historial del clan y de las actividades",
-  "Activity.State.LoadingPeriod": "Escaneando... {{date}}",
-  "Activity.State.NoBookmarks": "¡Todavía no has añadido ningún favorito!\n\nPuedes sincronizar tus favoritos activando la sincronización en _Ajustes_.",
-  "Activity.State.NoHistoryAvailable": "Encuentra una escuadra y alcanza la victoria contra los enemigos del Viajero.",
-  "Activity.State.PeriodNotFound": "No se ha podido encontrar el periodo solicitado en el historial de actividades de este personaje.",
-  "Activity.State.RequestHistory": "Analizando el historial de actividades",
-  "Activity.State.RequestHistoryPage": "Recuperando el volumen del historial de actividad {{page}}",
-  "Activity.Team.Allies": "Su equipo",
-  "Activity.Team.Alpha": "Alfa",
-  "Activity.Team.Bravo": "Bravo",
-  "Activity.Team.Opposition": "Equipo enemigo",
-  "Addendums.Credits.Origins.Description": "Braytech ha sido, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la ha desarrollado un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace.",
-  "Addendums.Privacy.Info": "En definitiva, Braytech no utiliza cookies ni ningún otro mecanismo para rastrearte, ni tampoco pretende captarte con fines publicitarios (vamos, Braytech no tiene anuncios).\n\nSi tienes alguna pregunta adicional respecto a este asunto, no dudes en acudir al [Discord](https://discord.bray.tech).",
-  "Addendums.Privacy.Policy": "1. Introducción\n    1. A todos los efectos, la versión en idioma inglés de la presente Política de Privacidad será el documento original, el instrumento jurídico y el entendimiento de las partes. En caso de conflicto entre la versión en inglés de esta Política de Privacidad y cualquier traducción posterior a cualquier otro idioma, la versión en inglés regirá y controlará.\n    2. Braytech es un servicio gratuito hecho por fans para Destiny 2, el videojuego. Esta política de privacidad explica cómo se utilizan sus datos en esta aplicación.\n    3. Braytech está en constante mejora, y el desarrollador puede modificar esta Política de Privacidad ocasionalmente para reflejar los cambios en sus prácticas de privacidad. Le recomendamos que revise esta Política de Privacidad periódicamente y que compruebe la fecha que aparece al final de la Política de Privacidad para conocer la versión más reciente.\n    4. En este documento, el \"desarrollador\" se refiere a Tom Chapman.\n2. Información que el desarrollador recopila\n    1. Información proporcionada por Usted\n        1. Su nombre de perfil específico de la plataforma se utiliza para cargar y mostrar su perfil de Destiny. En ningún momento se recogen o utilizan sus credenciales privadas.\n        2. Los mecenas de Braytech también pueden proporcionar opcionalmente su dirección de correo electrónico para asociar su perfil de Destiny con su cuenta de Patreon y así recibir la insignia correspondiente a su aportación en Patreon.\n    2. Información que el desarrollador recopila automáticamente\n        1. Los datos relativos a su uso de los servicios proporcionados pueden incluir su dirección IP, ubicación geográfica, nombre y versión del navegador, sistema operativo, fuente de referencia, duración de la visita, páginas vistas y rutas de navegación del sitio web, así como información sobre el tiempo, la frecuencia y el patrón de su uso del servicio.\n3. Cómo se utilizan sus datos personales\n    1. Información de la cuenta de Destiny y Bungie\n        1. Para mostrar y manipular la información del juego de Destiny, Braytech utiliza la API de Bungie.net. La única información que recibe Braytech, o a la que tiene acceso, es la información de su juego (objetos, personajes, etc.) y la información básica de su cuenta, incluyendo su ID de miembro de Bungie.net y los identificadores de cualquier servicio vinculado, como sus nombres de usuario públicos de PSN, Xbox Live, Steam, Stadia, Blizzard o Bungie.net. El desarrollador no tiene acceso a su correo electrónico, nombre, dirección, información de pago o cualquier otra información personal que tenga Bungie o las plataformas de juego.\n        2. El uso de la API de Bungie.net se rige por las [Condiciones de uso](https://www.bungie.net/7/en/Legal/Terms) y la [Política de privacidad](https://www.bungie.net/7/en/Legal/PrivacyPolicy) de Bungie.net.\n    2. Patreon\n        1. Los datos proporcionados por usted, el usuario, con el fin de asociar su perfil de Destiny con su cuenta de Patreon solo se utilizan para ese propósito, almacenándose de forma segura a través de Voluspa.\n    3. Datos de uso\n        1. Estos datos de uso pueden ser tratados con el fin de analizar el uso del sitio web y de los servicios. La base legal para este tratamiento es su consentimiento o nuestros intereses legítimos, es decir, el seguimiento y la mejora de nuestro sitio web y servicios.\n    4. Sincronización de los ajustes de Braytech\n        1.  Voluspa habilita una función de Braytech que le permite a usted, el usuario, almacenar sus datos (ajustes de Braytech) y sincronizarlos entre instancias de Braytech. Esta información solo es accesible para usted y para el desarrollador.\n\nÚltima actualización: miércoles, 19 de mayo de 2021.",
-  "App.BungieError": "Error de Bungie",
-  "App.CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-  "App.CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
-  "App.ErrorBoundary.Discord": "Braytech ha encontrado un error fatal. Si una de las acciones disponibles no resuelve tu problema, por favor únete al [Discord](https://discord.bray.tech) para obtener más ayuda.",
-  "App.ErrorBoundary.Version": "Por favor, cita la siguiente línea cuando informes de este error.",
-  "App.FriendlyError.Description": "Por favor, no se lo digas al Comandante Zavala... aún.",
-  "App.FriendlyError.Name": "Disculpe las molestias",
-  "App.NetworkError.Description": "Se ha producido un error de red. Este es un error temporal que puede resolverse al recargar o salir de esta sección.",
-  "App.NetworkError.Name": "Error de red",
-  "App.ServiceWorkerInstalling.Description": "Se está instalando una actualización de la aplicación en segundo plano.",
-  "App.ServiceWorkerReload.Description": "Hay disponible una nueva actualización para Braytech. Por favor, selecciona recargar para usar una versión mejorada de esta aplicación.\n\nRevisa el registro de cambios en la página de inicio para ver los detalles sobre las novedades.",
-  "App.ServiceWorkerReload.Name": "Actualización disponible",
-  "App.UnknownError": "Error desconocido",
-  "App.UnsupportedBrowser.Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
-  "App.UnsupportedBrowser.Name": "Navegador no soportado",
-  "App.Version": "Versión",
-  "Archives.Grimoire.Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
-  "Archives.Grimoire.Name": "Grimorio",
-  "Archives.Guides.VowOfTheDisciple.Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-  "Archives.Guides.VowOfTheDisciple.Name": "🦘 Archives.Guides.VowOfTheDisciple.Name",
-  "Auth.Data.Action": "Olvídame",
-  "Auth.Data.Description": "Elimina los datos de autentificación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
-  "Auth.Data.Name": "Datos de autentificación",
-  "Auth.Error.NoAuth.Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autentificación con el que puede interactuar con más puntos terminales de la API.",
-  "Auth.Error.NoAuth.Name": "Se requiere autentificación",
-  "Auth.Error.Permissions.Profile.Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autentificación en la sección _Ajustes_.",
-  "Auth.Error.Permissions.Profile.Name": "Oh, cariño... Cariiiiñoooo",
-  "Auth.Friends.Text": "Autentifícate con Bungie.net para ver aquí tu lista de amigos de Bungie. ¡Es un atajo práctico para ver quién está conectado y consultar los perfiles de los demás!",
-  "Auth.Login": "Iniciar sesión con Bungie.net",
-  "Auth.Memberships.Description": "Estas son las cuentas que están actualmente asociadas con tu perfil de Bungie.net.",
-  "Auth.Memberships.Name": "Cuentas asociadas",
-  "Auth.PatreonAssociation.Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
-  "Auth.PatreonAssociation.Name": "Vinculación de Patreon",
-  "Auth.PatreonAssociation.Placeholder": "zuzuvala_fofisano69@hotmail.reef",
-  "Auth.PatreonAssociation.Success": "¡Gracias! Tu correo electrónico está ahora vinculado a tus perfiles",
-  "Auth.PatreonAssociation.Text": "Algunos niveles de Patreon incluyen recompensas en forma de _etiqueta_ que se muestra al lado de tu nombre de jugador.\n\nHabilita la visualización de la etiqueta correspondiente al introducir el correo electrónico asociado a tu cuenta Patreon.",
-  "Auth.Suggestion.Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
-  "Auth.Suggestion.Text": "La mayoría de las características de Braytech están disponibles para todos los usuarios y dependen de datos disponibles al público, pero algunas de las características de Destiny requieren permisos de acceso explícitos que puedes conceder a Braytech si te autentificas con Bungie.net.",
-  "Character.Breakdown.EffectiveMods": "Modificadores efectivos",
-  "Character.Breakdown.SlottedMods": "Modificadores equipados",
-  "Character.Breakdown.UnusedEnergy": "Energía sin usar",
-  "Character.Compare.ObtainFromVendor": "Obtenido de {{name}}",
-  "Character.DIMSync.Description": "Esta característica requiere una Sincronización DIM para funcionar. Activa la sincronización con DIM en los ajustes.",
-  "Character.DIMSync.Name": "Sincronización DIM",
-  "Character.DiffProfile": "Estás viendo el perfil de otra persona. Puedes mirar, pero si intentas pulsar botones, ¡no esperes resultados!",
-  "Character.Equipment.Armor": "Armadura",
-  "Character.Equipment.Auxiliary": "Auxiliar",
-  "Character.Equipment.Breakdown": "Desglose",
-  "Character.Equipment.Weapons": "Armas",
-  "Character.Filter.ArcDamage": "Daño de arco",
-  "Character.Filter.DeepsightResonance": "Visión profunda",
-  "Character.Filter.Favourite": "Favorito",
-  "Character.Filter.Garbage": "Basura",
-  "Character.Filter.KineticDamage": "Daño cinético",
-  "Character.Filter.Shaped": "Forjada",
-  "Character.Filter.SolarDamage": "Daño solar",
-  "Character.Filter.StasisDamage": "Daño de estasis",
-  "Character.Filter.StrandDamage": "Daño de atadura",
-  "Character.Filter.VoidDamage": "Daño de vacío",
-  "Character.Vendors.BrightDustItems": "Objetos por polvo luminoso",
-  "Character.Vendors.CrossSaveSilver": "Tu saldo de plata es devuelto por la API solo para la plataforma en la que está jugando actualmente.",
-  "Character.Vendors.EververseCalendar": "Calendario de Eververso",
-  "Character.Vendors.FeaturedBrightDustItems": "Objetos destacados por polvo luminoso",
-  "Character.Vendors.FeaturedSilverItems": "Objetos destacados por plata",
-  "Character.Vendors.ShowAllItems": "Todos los objetos",
-  "Character.Vendors.ShowSilverOnlyItems": "Mostrar solo los objetos por plata",
-  "Character.Vendors.SilverOnlyItems": "Objetos solo por plata",
-  "Clan.Administration.ViewportWidth": "El modo Administración del clan está pensado para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1500px`.",
-  "Clan.BannerPerks": "Bonificaciones de clan",
-  "Clan.ClanAdministration": "Administración",
-  "Clan.ClanBannerBuilder.BannerColor": "Color del estandarte",
-  "Clan.ClanBannerBuilder.BannerDetail": "Detalles del estandarte",
-  "Clan.ClanBannerBuilder.BannerDetailColor": "Color de los detalles del estandarte",
-  "Clan.ClanBannerBuilder.BannerEmblem": "Emblema del estandarte",
-  "Clan.ClanBannerBuilder.Description": "Colabora con los miembros del clan en un nuevo estandarte de clan. Al seleccionar diferentes opciones, se actualiza instantáneamente la URL de la página, lo que te permite compartir fácilmente tus personalizaciones.",
-  "Clan.ClanBannerBuilder.EmblemBackgroundColor": "Color del fondo del emblema",
-  "Clan.ClanBannerBuilder.EmblemForegroundColor": "Color en primer plano del emblema",
-  "Clan.ClanBannerBuilder.Name": "Diseñador de estandartes de clan",
-  "Clan.ClanRoster": "Jugadores",
-  "Clan.ClanTimetable": "Calendario",
-  "Clan.Founded": "Fundado el {{time}}",
-  "Clan.HistoricalStats.ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`.",
-  "Clan.HistoricalStatsLoading": "Cargando estadísticas históricas",
-  "Clan.Members": "{{number}} miembros",
-  "Clan.MembersLoading": "Cargando miembros de {{name}}",
-  "Clan.NoClan.Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
-  "Clan.NoClan.Name": "Sin afiliación a clan",
-  "Clan.Relationships.BestFriends": "Mejores amigos",
-  "Clan.Relationships.Description": "Descubre oportunidades perdidas y amantes secretos. Estos Guardianes son aquellos con los que juegas más actividades. Apreciaos el uno al otro.\n\nEstos Guardianes son los miembros de tu clan y esta clasificación se restablece con cada nueva temporada.",
-  "Clan.Relationships.Name": "Relaciones",
-  "Clan.Relationships.NoFriends": "No estás solo; al final harás un amigo... ¡Invita a un compañero del clan a pasar el rato con un par de actividades!",
-  "Clan.Relationships.NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
-  "Clan.Relationships.Options.LimitCurrentSeason.Description": "🦘 Only load activities from the current season.",
-  "Clan.Relationships.Options.LimitCurrentSeason.Name": "🦘 Current Season",
-  "Clan.Relationships.Options.LimitGroupMembers.Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-  "Clan.Relationships.Options.LimitGroupMembers.Name": "🦘 Clan Members",
-  "Clan.Relationships.RomanticPartnerships": "Relaciones románticas",
-  "Clan.Relationships.SocialButterfly": "¡Te relacionas muy bien! Has jugado con todos esta temporada.",
-  "Clan.Relationships.TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-  "Clan.Relationships.TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-  "Clan.Relationships.UndiscoveredFriends": "Amigos sin descubrir",
-  "Clan.RewardEngrams": "Engramas de recompensa",
-  "Clan.Roster.Approve": "Aprobar",
-  "Clan.Roster.Ban": "Prohibir",
-  "Clan.Roster.Demote": "Degradar",
-  "Clan.Roster.Deny": "Denegar",
-  "Clan.Roster.DisplayName": "Nombre de usuario",
-  "Clan.Roster.DownloadData": "Descargar datos",
-  "Clan.Roster.Glory": "Gloria",
-  "Clan.Roster.Infamy": "Infamia",
-  "Clan.Roster.Joined": "Unido",
-  "Clan.Roster.Kick": "Expulsar",
-  "Clan.Roster.LastActivity": "Última actividad",
-  "Clan.Roster.LastCharacter": "Último personaje",
-  "Clan.Roster.LastPlatform": "Plataforma",
-  "Clan.Roster.Promote": "Ascender",
-  "Clan.Roster.Rank": "Rango",
-  "Clan.Roster.Valor": "Valor",
-  "Clan.Roster.WeeklyClanXP": "PE de clan semanal",
-  "Collections.AllAcquired": "Todo adquirido",
-  "Collections.Badge": "Insignia",
-  "Collections.Badge_plural": "Insignias",
-  "Collections.Badges.Commonality.Description": "Porcentaje de jugadores indizados por Voluspa que han completado esta insignia.",
-  "Collections.Badges.Commonality.Name": "Rareza de la insignia",
-  "Collections.Badges.Completed": "Insignia completada",
-  "Collections.Badges.Progress": "Progreso de insignia",
-  "Collections.CollectedBy": "Conseguidos",
-  "Collections.Collectible.Commonality": "Porcentaje de jugadores indizados por Voluspa que han descubierto este coleccionable.",
-  "Collections.CollectiblesAcquired": "Has adquirido todos estos coleccionables y has elegido ocultarlos.",
-  "Collections.CollectiblesUnavailable": "No hay objetos de colección disponibles para mostrar.",
-  "Collections.Grouped.Season": "Agrupar por temporada",
-  "Collections.Grouped.Ungroup": "Desagrupar",
-  "Collections.RecentlyDiscovered": "Descubierto recientemente",
-  "Collections.SetComplete": "Conjunto completado",
-  "Collections.SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
-  "Commendations.Received": "Recibidos",
-  "Commendations.ReceivedAbr": "Recib.",
-  "Commendations.Sent": "Enviados",
-  "Commendations.SentAbr": "Env.",
-  "Common.Acknowledgements": "Agradecimientos",
-  "Common.AcknowledgementsInfo": "Parte de estos contenidos son proporcionados generosamente por terceros. Por favor, piensa en ellos y en el esfuerzo que han realizado cuando consumas sus obras.",
-  "Common.Actions": "Acciones",
-  "Common.Activate": "Iniciar",
-  "Common.Active": "Activo",
-  "Common.ActiveModifiers": "Modificadores activos",
-  "Common.ActiveScore": "Puntuación activa",
-  "Common.Activity": "Actividad",
-  "Common.ActivityBonus": "Puntos extra",
-  "Common.ActivityMembers": "Miembros de la actividad",
-  "Common.Activity_plural": "Actividades",
-  "Common.Addendums": "Adenda",
-  "Common.All": "Todo",
-  "Common.Armour": "Armadura",
-  "Common.AscendantChallenge": "Desafío ascendente",
-  "Common.Authenticate": "Autentifícate",
-  "Common.Available": "Disponible",
-  "Common.AvailableActivities": "Actividades disponibles",
-  "Common.Cancel": "Cancelar",
-  "Common.Challenge": "Desafío",
-  "Common.Challenge_plural": "Desafíos",
-  "Common.Character": "Personaje",
-  "Common.CharacterClass": "Clase del personaje",
-  "Common.CharacterLight": "Luz del personaje",
-  "Common.CharacterSpecific": "Como ocurre con la mayoría de las funciones de Braytech, esta sección corresponde a un personaje específico.",
-  "Common.Character_plural": "Personajes",
-  "Common.Checklists": "Coleccionables",
-  "Common.Clan": "Clan",
-  "Common.ClanMember_plural": "🦘 Clan Members",
-  "Common.ClanMembersNth": "Miembros del clan",
-  "Common.Classified": "Clasificado",
-  "Common.Collectibles": "Coleccionables",
-  "Common.Collections": "Colecciones",
-  "Common.CollectionsScore": "Puntuación de colecciones",
-  "Common.CommendationAbr_plural": "Menc.",
-  "Common.Completed": "Completado",
-  "Common.CruciblePlaylist": "Lista de juego de Crisol",
-  "Common.DateTime": "Fecha y hora",
-  "Common.Equipment": "Equipamiento",
-  "Common.Error": "Error",
-  "Common.Event": "Evento",
-  "Common.EventNth": "1 evento",
-  "Common.EventNth_plural": "{{count}} eventos",
-  "Common.Examples": "Ejemplos",
-  "Common.Expiration": "Caducidad",
-  "Common.Expired": "Caducado",
-  "Common.Expiry": "Caducidad",
-  "Common.Failure": "Fracaso",
-  "Common.FeaturedEvent": "Evento destacado",
-  "Common.FeaturedNightfall": "Ocaso destacado",
-  "Common.FeaturedPlaylist": "Lista destacada",
-  "Common.Fireteam": "Escuadra",
-  "Common.FireteamMembers": "Miembros de la escuadra",
-  "Common.FireteamReserves": "Reservas",
-  "Common.FireteamSize": "Tamaño de la escuadra",
-  "Common.Friend": "🦘 Friend",
-  "Common.Friend_plural": "Amigos",
-  "Common.GloryPoints": "Puntos de Gloria",
-  "Common.GuardianRank": "Nivel de Guardián",
-  "Common.Guardians": "Guardianes",
-  "Common.Help": "Ayuda",
-  "Common.HistoricalStats": "Estadísticas históricas",
-  "Common.InfamyPoints": "Puntos de Infamia",
-  "Common.Inspect": "Inspeccionar",
-  "Common.Inventory": "Inventario",
-  "Common.ItemRolls": "Equipamiento aleatorio",
-  "Common.Items": "Objetos",
-  "Common.LegacyScore": "Puntuación antigua",
-  "Common.LevelNth": "Nivel {{number}}",
-  "Common.Location": "Localización",
-  "Common.Lore": "Historia",
-  "Common.LoreBook": "Libro de historia",
-  "Common.Map": "Mapa",
-  "Common.Medals": "Medallas",
-  "Common.MembersOnline": "{{number}} en línea",
-  "Common.Name": "Nombre",
-  "Common.NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
-  "Common.NothingHereYet": "No hay nada aquí todavía",
-  "Common.Objectives": "Objetivos",
-  "Common.Offline": "Fuera de línea",
-  "Common.Patron_plural": "Patrons",
-  "Common.Player": "Jugador",
-  "Common.Preview": "Previsualizar",
-  "Common.Profile": "Perfil",
-  "Common.Progress": "Progreso",
-  "Common.Progression": "Progreso",
-  "Common.Quests": "Aventuras",
-  "Common.Rank_plural": "Niveles",
-  "Common.Record": "Triunfo",
-  "Common.Record_plural": "Triunfos",
-  "Common.Report_plural": "🦘 Reports",
-  "Common.Reputation": "Reputación",
-  "Common.Reset": "Reiniciar",
-  "Common.Reward": "Recompensa",
-  "Common.Reward_plural": "Recompensas",
-  "Common.Savathûn'sCurse": "Maldición de Savathûn",
-  "Common.Score": "Puntuación",
-  "Common.ScoreValue": "Valor en puntos",
-  "Common.Screenshot": "Captura de pantalla",
-  "Common.Search": "Buscar",
-  "Common.SeasonNth": "Temporada {{number}}",
-  "Common.SeasonPass": "Pase de temporada",
-  "Common.SeasonRank": "Nivel de temporada",
-  "Common.SeasonYearNth": "Temporada {{season}}, año {{year}}",
-  "Common.Season_plural": "Temporadas",
-  "Common.Settings": "Ajustes",
-  "Common.Source": "Fuente",
-  "Common.SpecialCommendationAbr_plural": "Menc. esp.",
-  "Common.SpecialCommendation_plural": "Menc. especiales",
-  "Common.Submit": "Enviar",
-  "Common.Support": "Apoyo",
-  "Common.TimePlayed": "Tiempo jugado",
-  "Common.TimeRemaining": "Tiempo restante",
-  "Common.Translator_plural": "Traductores",
-  "Common.TrialsPassage": "Pase de las Pruebas",
-  "Common.TrialsPoints": "Puntos de las Pruebas",
-  "Common.TriumphScore": "Puntos de Triunfo",
-  "Common.Triumphs": "Triunfos",
-  "Common.Unknown": "Desconocido",
-  "Common.Users": "Usuarios",
-  "Common.ValorPoints": "Puntos de Valor",
-  "Common.VanguardPoints": "Puntos de Vanguardia",
-  "Common.Vendor": "Comerciante",
-  "Common.Vendor_plural": "Comerciantes",
-  "Common.Views": "Secciones",
-  "Common.Weapon": "Arma",
-  "Common.WeekNth": "Semana {{number}}",
-  "Common.Week_plural": "Semanas",
-  "Event.FestivalOfTheLost.Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante ha vuelto para celebrar la Fiesta de las Almas Perdidas. En esta celebración, los guardianes se dan un festín, llevan máscaras irreverentes y honran el recuerdo de los que hemos perdido.\n\nEl Bosque Encantado ha vuelto a abrir, y esta vez, la Araña quiere negociar para que le ayudes.",
-  "Event.FestivalOfTheLost.Name": "Fiesta de las Almas Perdidas",
-  "Event.IronBanner.Description": "Un evento especial del Crisol que durante una semana desafía a equipos de 6 a enfrentarse en la versión más competitiva de Control. Las ventajas de nivel de Luz están activadas.",
-  "Event.TheDawning.Description": "Ni siquiera la gélida brisa de Europa puede congelar los corazones de los guardianes durante una época del año tan especial. La Aurora ha vuelto.",
-  "Event.TheDawning.Name": "La Aurora",
-  "FAQ.API.StatDiscrepancy.Description": "Hay múltiples fuentes de estadísticas en Destiny. Las Estadísticas históricas de Clan se basan en el punto terminal de la API de HistoricalStats, mientras que otras obtienen sus datos de los Informes de combate. Es difícil determinar cuál de ellos tiene una mayor precisión.\n\nPara mostrar las estadísticas del modo en que se ven en las Estadísticas históricas de Clan, se necesitaría descargar terabytes de datos de los servidores de Bungie y una gran potencia de computación. Dicho esto, son lo suficientemente precisos como para permitir una rivalidad amistosa.",
-  "FAQ.API.StatDiscrepancy.Name": "Las estadísticas históricas de clan no coinciden [con otras] ",
-  "FAQ.Braytech.AppStore.Description": "¡Braytech está disponible en [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) y en [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Desafortunadamente, Braytech no está disponible en la tienda de aplicaciones de iPhone.\n\nBraytech no está disponible en la tienda de aplicaciones de iPhone porque Apple es avariciosa y su tienda es su principal fuente de dinero.\n\nAfortunadamente, ellos apoyan parcialmente las aplicaciones web progresivas, como Braytech. Para añadir Braytech a tu pantalla de inicio, navega a la aplicación usando Safari, selecciona el botón Compartir y selecciona _Añadir a la pantalla de inicio_. Esto habilita algunas de las tecnologías que permiten que aplicaciones como Braytech funcionen y se sientan como aplicaciones nativas.\n\nSi eres un usuario de Android y no deseas utilizar Google Play, puedes seguir un procedimiento similar con Google Chrome.",
-  "FAQ.Braytech.AppStore.Name": "Tiendas de aplicaciones",
-  "FAQ.Braytech.Commonality.Description": "A menudo nos preguntan, \"¿qué es el extraño porcentaje a la derecha de los coleccionables y los triunfos?\"\n\nEs un porcentaje de jugadores que han descubierto o canjeado el objeto. Cada pocos días, _Voluspa_ recopila datos de usuarios de _Braytech_ y registra quién tiene qué.\n\nHa sido un tema candente sobre si es preciso o útil, pero lo cierto es que todas las estadísticas son inútiles y absurdas _a menos que_ se hayan incluido todos y cada uno de los datos posibles.\n\nEs justo asumir que estas estadísticas están sesgadas hacia los jugadores casuales (puede que los porcentajes tiendan más al alza que a la baja, debido a la destreza y la atención de los usuarios que son monitoreados).\n\nCuando estén disponibles, los carteles informativos para estas estadísticas incluyen el número total de jugadores que se contabilizan como parte de esta métrica.{{indexed}}",
-  "FAQ.Braytech.Commonality.Name": "Rareza",
-  "FAQ.Braytech.KeyboardShortcuts.Description": "Además de los botones de la barra de acción con símbolos de teclas, Braytech tiene diversos atajos de teclado ocultos. Desde cualquier sección con una cabecera de perfil (el emblema de tu personaje, etc.), mantén pulsado  para ver qué atajos están disponibles. Por ejemplo, pulsa  para ir a _Triunfos_ y  para volver aquí.",
-  "FAQ.Braytech.KeyboardShortcuts.Name": "Atajos de teclado",
-  "FAQ.Braytech.ProfilePrivacy.Description": "Si te preocupa tu privacidad mientras juegas a Destiny y cómo la API expone tu progreso y actividades para que sean utilizadas por terceros, puedes modificar tu configuración de privacidad en [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy). Si lo haces, tendrás que autentificarte en Braytech con Bungie para seguir usando la aplicación.",
-  "FAQ.Braytech.ProfilePrivacy.Name": "Privacidad del perfil",
-  "FAQ.Braytech.ServiceWorkerUpdate.Description": "En la sección _Configuración_ puedes probar una serie de cosas. Empieza por seleccionar _Actualizar service worker_.\n\nSi esto falla, puedes intentar recargar la aplicación seleccionando _Recargar aplicación_. Si el problema persiste, por favor selecciona _Verter service worker_ e informa del problema a través de Discord.",
-  "FAQ.Braytech.ServiceWorkerUpdate.Name": "Braytech no se actualiza a la última versión",
-  "FAQ.Braytech.Widgets.Description": "Actualmente los widgets sólo están disponibles para dispositivos iOS (iPhone, iPad).\n\nSi no puedes encontrar Braytech o sus widgets en tu lista de widgets disponibles, intenta reiniciar tu dispositivo, iniciar la aplicación, reinstalar la aplicación, o esperar un tiempo arbitrario.\n\nO es por torpeza o es cosa de iOS. Buena suerte.",
-  "FAQ.Braytech.Widgets.Name": "Widgets",
-  "FAQ.Braytech.Widgets.Video1Caption": "Cómo añadir widgets a tu pantalla de inicio.",
-  "FAQ.Braytech.Widgets.Video2Caption": "Cómo añadir widgets a tu pantalla de bloqueo.",
-  "FAQ.Voluspa.About.Description": "_Voluspa_, que se llama así por una submente de _Rasputín_, es como he llamado al componente del servidor de Braytech. Es responsable de analizar los perfiles de los usuarios de Braytech en busca de estadísticas de rareza, sincronizar de los ajustes y otras características clave.",
-  "FAQ.Voluspa.About.Name": "Acerca de Voluspa",
-  "GettingStarted.Header.Description": "¡Bienvenido a Braytech! Antes de empezar, tengo un puñado de consejos para ti.\n\nSi tienes comentarios o preguntas, ¡podemos chatear en Discord o puedes consultar las Preguntas Frecuentes!",
-  "GettingStarted.Header.Name": "Primeros pasos",
-  "GettingStarted.Header.SubName": "Tecnologías Clovis Bray",
-  "GettingStarted.Tips.Search.Description": "¿Necesitas encontrar algo rápidamente? Braytech cuenta con una interfaz de búsqueda, disponible en cualquier parte de la aplicación.\n\nPulsa  o toca el botón de la lupa, ¡y empieza a escribir!",
-  "GettingStarted.Tips.Search.Name": "Búsqueda",
-  "GettingStarted.Tips.Settings.Description": "Braytech cuenta con una gran cantidad de ajustes, desde temas oscuros hasta opciones de visibilidad de los elementos y sincronización de los ajustes.\n\nPuedes encontrar _Ajustes_ en la esquina superior.",
-  "GettingStarted.Tips.Settings.Name": "Ajustes",
-  "GettingStarted.Tips.Views.Description": "¡Consulta todas las funciones de Braytech de un solo vistazo seleccionando **** en la parte superior de la aplicación!",
-  "GettingStarted.Tips.Views.Name": "Más",
-  "GuardianRank.Current": "Nivel actual: {{value}}",
-  "GuardianRank.SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}",
-  "Item.Ammo": "Munición",
-  "Item.AmmoType": "Tipo de munición",
-  "Item.ArmorStats": "Estadísticas de armadura",
-  "Item.BasicCharacteristics": "Características básicas",
-  "Item.Breaker": "Interrupción",
-  "Item.BreakerType": "Tipo de interrupción",
-  "Item.ClassEquipped": "{{name}} (equipado)",
-  "Item.ClassPostmaster": "{{name}} (administración)",
-  "Item.CollectionsRoll": "Estadísticas de colecciones",
-  "Item.Compare": "Comparar",
-  "Item.CouldntFindItemForUnequip": "Un objeto destinado a equiparse en el {{name}} no se ha podido encontrar en el personaje que lo tiene.",
-  "Item.CraftingRequiredLevel": "Requiere nivel de arma {{number}}",
-  "Item.CurrentlyCantRoll": "Esta ventaja no se puede obtener en esta arma actualmente",
-  "Item.Energy": "Energía",
-  "Item.EnergyAffinity": "Afinidad de energía",
-  "Item.EnergyCapacity": "Energía",
-  "Item.EnergyCost": "Coste de energía",
-  "Item.EnergyMeter": "Energía",
-  "Item.EnergyUnused": "Sin usar",
-  "Item.Inspect": "Inspeccionar",
-  "Item.Intrinsic": "Intrínseco",
-  "Item.ItemAction": "Acción de objeto",
-  "Item.Mods": "Modificadores",
-  "Item.PerkEverything": "Esta ventaja se busca mucho para todas las actividades",
-  "Item.PerkPvE": "Esta ventaja se recomienda para los combates de la Vanguardia",
-  "Item.PerkPvP": "Esta ventaja se recomienda para los combates en el Crisol",
-  "Item.PerkRecommended": "Se recomienda esta ventaja",
-  "Item.Perks": "Ventajas",
-  "Item.PowerLimit": "Límite de poder",
-  "Item.RedeemWithCode": "Usa el código `{{code}}` en [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) para desbloquear este emblema.",
-  "Item.ShapedDate": "TT {{date}}",
-  "Item.StatTotal": "Total",
-  "Item.State": "Estado",
-  "Item.Stats": "Estadísticas",
-  "Item.Sunset": "Almacenado",
-  "Item.TransferMaximumStack": "{{name}} tiene un tamaño máximo para el montón de {{size}}. Consume algunos objetos y vuelve a intentarlo.",
-  "Item.UndiscoveredCollectibleVendor": "Adquiere este objeto para añadirlo a tus Colecciones",
-  "Item.WeaponKills": "Bajas con arma",
-  "Item.WeaponStats": "Estadísticas del arma",
-  "Landing.Blog.AllPosts": "Todas las publicaciones",
-  "Landing.Blog.Error": "Las entradas del blog no se pueden cargar en este momento.",
-  "Landing.Blog.Name": "Blog",
-  "Landing.CallToAction.Text": "Explora Destiny a través de Braytech en busca de grandes logros e información sobre tus luchas contra las fuerzas de la oscuridad.",
-  "Landing.Featured.ThisWeek": "Esta semana",
-  "Landing.Features.Description": "Braytech es un proyecto lleno de pasión. Su desarrollo lleva más de dos años y ha recibido muchas novedades y mejoras. Su desarrollador, Tom Chapman, es un admirador del diseño de Destiny y éste influye mucho en la estética de Braytech.\n\nBraytech comenzó como una aplicación de listas de coleccionables y se ha convertido en una monstruosidad llena de talentos. Está en constante mejora y expansión.\n\n¿Necesitas encontrar algo rápido? ¡Pulsa  y empieza a escribir! Braytech tiene una interfaz de búsqueda, disponible en cualquier parte de la aplicación.\n\nBraytech está construido para usuarios de escritorio primero, pero funciona y luce hermoso como aplicación móvil. De hecho, hay una [aplicación para Android](https://play.google.com/store/apps/details?id=braytech.org.twa) en la Play Store.",
-  "Landing.Features.Name": "Talentoso",
-  "Landing.Support.Description": "Braytech es un trabajo a tiempo completo—yo diseño y desarrollo para mejorar y complacerte. Me opongo a usar anuncios, en contra de mis intereses. Tu apoyo me ayuda a mantener las luces encendidas y me permite hacer mi mejor trabajo.\n\nÚnete al [Discord](https://discord.bray.tech) y a los otros _patrons_ de la División de Investigación de Braytech.",
-  "Landing.Support.Name": "¿Eres un fan? Muestra tu apoyo",
-  "Landing.Updates.Name": "Actualizaciones",
-  "Language.Space.MetresAbr_plural": "{{count}} m",
-  "Language.Space.WeightAbr": "{{count}} kg",
-  "Language.Space.WeightAbr_plural": "{{count}} kg",
-  "Language.Time.Frequency.Daily": "Diariamente",
-  "Language.Time.Frequency.Weekly": "Semanalmente",
-  "Language.Time.Relative.Future": "en {{duration}}",
-  "Language.Time.Relative.Past": "hace {{duration}}",
-  "Leaderboards.ActiveScore": "Puntuación activa",
-  "Leaderboards.CollectionsScore": "Puntuación de colecciones",
-  "Leaderboards.LegacyScore": "Puntuación antigua",
-  "Leaderboards.Rank": "🦘 Rank",
-  "Leaderboards.TriumphScore": "Puntuación de triunfos",
-  "Legend.Activity.Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
-  "Legend.Activity.Name": "Primer renacido",
-  "Legend.Commonality.Description": "Triunfa y reclama tus recompensas\n\nLa Tierra y los mundos lejanos tocados por el Viajero guardan maravillosas rarezas y codiciados tesoros míticos.\n\nLa diversión está en su búsqueda.",
-  "Legend.Commonality.Name": "Tesoros raros y estilos exóticos",
-  "Legend.Empty": "Vacío",
-  "Legend.Fishing.Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
-  "Legend.Fishing.LargestFish": "Pez más grande",
-  "Legend.Fishing.Name": "Pesca de competición",
-  "Legend.Fishing.TypesCaught": "Especies capturadas",
-  "Legend.Ranks.Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
-  "Legend.Ranks.Guardian.Description": "Prepárate para ser evaluado por la Luz y por tus compañeros.",
-  "Legend.Ranks.Guardian.Name": "Guardián",
-  "Legend.Ranks.Name": "Reputación del Guardián",
-  "Legend.Seals.Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
-  "Loading.BungieError.Description": "Datos cruciales de la API no se han podido cargar en este momento. Este es un problema intermitente. Por favor, inténtalo de nuevo.\n\nSi este error persiste, la API puede estar experimentando una interrupción general o tu red local está restringiendo las solicitudes de la API de Bungie.",
-  "Loading.BungieError.Name": "Error de Bungie",
-  "Loading.Error.Description": "Algo muy inesperado e irrecuperable ha ocurrido.",
-  "Loading.IndexedDBError.Description": "Algo ha ido mal al intentar acceder al almacenamiento del navegador.\n\nSi este error se repite, es posible que su navegador o dispositivo sea incompatible o esté mal configurado.",
-  "Loading.IndexedDBErrorFatal.Description": "Algo salió mal al tratar de acceder al almacenamiento del navegador.\n\nAlgunos navegadores no permiten el acceso a la _Base de datos indizada_ cuando se navega en modo privado.\n\nPor favor, recarga la aplicación e inténtalo de nuevo.",
-  "Loading.IndexedDBOpenFailedError.Description": "Algo salió mal al tratar de acceder al almacenamiento del navegador.\n\nAlgunos navegadores no permiten el acceso a la _Base de datos indizada_ cuando se navega en modo privado.\n\nPor favor, recarga la aplicación e inténtalo de nuevo.",
-  "Loading.MaintenanceError.Description": "La API de Bungie está actualmente fuera de servicio por mantenimiento. \n\nPara más información, visita @BungieHelp en Twitter.",
-  "Loading.MaintenanceError.Name": "Mantenimiento de Bungie",
-  "Loading.ManifestDownloadError.Description": "Algo salió mal mientras se intentaba descargar el manifiesto de objetos de Bungie.\n\nPor favor, actualiza la aplicación e inténtalo de nuevo.",
-  "Loading.ManifestDownloadError.Name": "La descarga del manifiesto ha fallado",
-  "Loading.ManifestError.Description": "Algo salió mal mientras se intentaba actualizar el manifiesto de objetos.\n\nPor favor, actualiza la aplicación e inténtalo de nuevo.",
-  "Loading.ManifestError.Name": "Error del manifiesto",
-  "Loading.NoInternetError.Description": "¿Estás desconectado? Tu navegador web cree que sí...",
-  "Loading.SettingsFetchError.Description": "Algo ha ido mal al intentar recopilar la configuración de la API de Bungie.\n\nPor favor, vuelve a cargar la aplicación e inténtalo de nuevo.",
-  "Loading.SettingsFetchError.Name": "Fallo de configuración",
-  "Loading.Status.DownloadingManifest": "Descargando datos de Bungie",
-  "Loading.Status.FatalError": "Error fatal",
-  "Loading.Status.NoInternetError": "No hay internet",
-  "Loading.Status.Other": "Iniciando Windows 95",
-  "Loading.Status.ReadStoredPGCR": "Cargando informes almacenados",
-  "Loading.Status.SettingsFetch": "Conectando con Bungie.net",
-  "Loading.Status.StoreManifest": "Almacenando datos del manifiesto",
-  "Loading.WaitingForBungie": "Esperando a Bungie",
-  "Maps.Context.ChecklistsAndMore": "🦘 Checklists + More",
-  "Maps.Context.NoChecklistItems": "No se han detectado elementos",
-  "Maps.Inspect.Instructions": "Instrucciones",
-  "Maps.Inspect.ProposeChanges.Form.Description.Name": "Descripción",
-  "Maps.Inspect.ProposeChanges.Form.Issues.Name": "Problemas",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Name": "Capturas de pantalla",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Select": "Elegir capturas de pantalla",
-  "Maps.Inspect.ProposeChanges.Form.Video.Name": "Nombre",
-  "Maps.Inspect.ProposeChanges.Name": "Proponer cambios",
-  "Maps.Inspect.RelatedVideo": "Este nodo tiene un vídeo asociado",
-  "Maps.Inspect.RelatedVideoAction": "Abrir archivo de vídeo",
-  "Maps.Inspect.Vendor.NoSales": "Recién agotado.",
-  "Maps.Nodes.Unavailable": "No disponible",
-  "Maps.Nodes.UnavailableInGame": "No disponible: este nodo ya no está disponible en el juego.",
-  "Maps.Nodes.UnavailableUnreliableApi": "No disponible: algo está impidiendo que este nodo transmita su estado de forma fiable.",
-  "Maps.ProposeChanges.Description": "Envía una sugerencia para que se modifiquen los datos de este nodo y mejorar _Mapas_ para otros Guardianes.",
-  "Maps.ProposeChanges.Form.Description.Placeholder": "Ejemplo: cerca de una roca en el lado más alejado de la última habitación",
-  "Maps.ProposeChanges.Form.Issues.Placeholder": "Ejemplo: el nodo ya no es accesible",
-  "Maps.ProposeChanges.Form.Screenshots.Description": "Las capturas de pantalla propuestas deben cumplir un estricto criterio de calidad:\n- resolución de pantalla de 1920x1080\n- sin HUD (interfaz) visible\n- sin Guardianes o equipamiento visible\n- sin enemigos visibles\n- ajustes de vídeo al máximo\n  - incluyendo una resolución de renderizado al 200%",
-  "Maps.ScreenshotUnavailable": "Captura de pantalla no disponible",
-  "Maps.Surveyor.Capture": "Capturar posición",
-  "Maps.Surveyor.CopyDefinitions": "Copiar definiciones",
-  "Maps.Surveyor.CopyNodes": "Copiar nodos",
-  "Maps.Surveyor.NoNodes": "Selecciona una posición en el mapa para empezar.",
-  "Maps.Within.Activity": "Se encuentra dentro de la actividad",
-  "Maps.Within.ActivityName": "Se encuentra dentro de la actividad: {{string}}",
-  "Maps.Within.AscendantChallenge": "Se encuentra dentro del Desafío Ascendente: {{string}}",
-  "Maps.Within.LostSector": "Se encuentra dentro del Sector Perdido: {{string}}",
-  "Maps.Within.Story": "Se encuentra dentro de la misión: {{string}}",
-  "Maps.Within.Strike": "Se encuentra dentro del Asalto: {{string}}",
-  "MemberLink.Error.Network.Description": "Se ha producido un error en la red. Es un error temporal que puede resolverse al cerrar el cuadro de diálogo e intentándolo de nuevo.",
-  "MemberLink.Error.Network.Name": "Error de red",
-  "MemberLink.Error.PrivateProgression.Description": "Los datos de progreso de este perfil no están disponibles. Es posible que su perfil esté configurado como privado en Bungie.net. Desde luego que no están tratando de ocultar nada.",
-  "MemberLink.Error.PrivateProgression.Name": "Perfil privado",
-  "MemberService.Inactive.Description": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio.",
-  "Notifications.NthMore": "y {{number}} más",
-  "Notifications.NthRemaining": "{{number}} otros",
-  "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "La administración se está quedando sin espacio. ¡Si no recoges tus objetos, los perderás para siempre!",
-  "Notifications.PostmasterCapacityWarning.DescriptionFull": "La administración está llena. ¡Si no recoges tus objetos, los perderás para siempre!",
-  "Notifications.PostmasterCapacityWarning.Name": "¡ADVERTENCIA!",
-  "Notifications.PushNotifications.Description": "Mientras estabas afuera tocando hierba, tu dispositivo ha anulado la autorización a Voluspa para enviarte notificaciones _push_.\n\nEs posible que quieras revisar tu configuración si esto no es lo que querías.",
-  "Notifications.PushNotifications.Name": "Notificaciones push",
-  "ProfileSearch.ActiveProfile": "Perfil activo",
-  "ProfileSearch.BungieNetProfile": "Perfil de Bungie.net",
-  "ProfileSearch.ChangeProfile": "Cambiar perfil",
-  "ProfileSearch.CrossSaveProfile": "Este jugador ha activado el Cross Save. Su perfil activo está marcado.",
-  "ProfileSearch.Error.Banned.Botting": "Se observó al jugador empleando mecanismos para evitar las contramedidas de detección de inactividad (botting).",
-  "ProfileSearch.Error.Banned.Dickhead": "Tocapelotas.",
-  "ProfileSearch.Error.Banned.Hacking": "Se observó al jugador empleando herramientas externas para manipular las reglas del juego (hacking).",
-  "ProfileSearch.Error.Banned.Teabagging": "Se observó al jugador adoptar comportamientos que no favorecen un entorno amistoso.",
-  "ProfileSearch.Error.CharacterMissing.Description": "El personaje que intentaste cargar no está disponible; tal vez ha sido borrado.",
-  "ProfileSearch.Error.CharacterMissing.Name": "Personaje no disponible",
-  "ProfileSearch.Error.MemberBanned.Description": "Este perfil de Destiny ha sido bloqueado en esta aplicación. Esto no es un error.",
-  "ProfileSearch.Error.MemberBanned.Name": "Perfil bloqueado",
-  "ProfileSearch.Error.PrivateProgression.Description": "Los datos de progreso de tu perfil no están disponibles. Es posible que tu perfil esté configurado como privado en Bungie.net. Puedes cambiar tu configuración de privacidad en Bungie.net o autentificar Braytech con Bungie.net.",
-  "ProfileSearch.Error.PrivateProgression.Name": "Perfil privado",
-  "ProfileSearch.GetStarted": "¡Parece que eres nuevo aquí! ¡Puedes empezar pulsando **Autentifícate** e iniciar sesión en Bungie.net o puedes buscar tu nombre de Bungie y cargar tu perfil manualmente!",
-  "ProfileSearch.NewLight": "Nueva Luz",
-  "ProfileSearch.NoProfilesFound": "Ningún perfil encontrado",
-  "ProfileSearch.PreviousSearches": "Búsquedas anteriores",
-  "ProfileSearch.ReturnToAuthMembership": "Volver a {{displayName}}",
-  "ProfileSearch.SavedProfile": "Perfil guardado",
-  "ProfileSearch.SearchForPlayer": "Buscar jugador",
-  "ProfileSearch.SearchPlaceholder": "introduce NombreDelJugador#1234",
-  "ProfileSearch.SelectACharacter": "Selecciona un personaje",
-  "ProfileSearch.TemporaryError": "Se ha producido un error temporal de Bungie.",
-  "Progression.Points": "Puntos",
-  "Progression.PointsNextRank": "Puntos para siguiente nivel",
-  "Progression.PointsTotal": "Puntuación total",
-  "Progression.PrestigeNth": "Prestigio {{number}}",
-  "Progression.Rank": "Nivel",
-  "Progression.RankNth": "Nivel {{number}}",
-  "Progression.ResetVendor": "Regresa al comerciante para reiniciar tu rango",
-  "Progression.Streak": "Racha",
-  "Progression.Title": "Título",
-  "Progression.TrialsPassage.Flawless": "Impecable",
-  "Progression.TrialsPassage.FlawlessPassage": "Pase impecable",
-  "Progression.TrialsPassage.WeeklyTimesFlawless": "Impecable esta semana",
-  "Progression.TrialsPassage.Wins": "Victorias",
-  "Quests.Details.RelatedMapMode": "Este paso de aventura tiene un nodo relacionado en el mapa, como un artefacto escaneable o una ubicación.",
-  "Quests.Details.Steps": "Pasos",
-  "Quests.Info.InventoryCapacity": "Capacidad total de aventuras y contratos",
-  "Quests.Info.NoBounties": "Los contratos que obtengas aparecerán aquí.",
-  "Quests.Info.NoQuests": "Las aventuras que obtengas aparecerán aquí.",
-  "Search.Error.MissingDefinitions": "No se ha podido realizar una búsqueda del manifiesto porque no hay definiciones en el índice.",
-  "Search.Examples.Description": "description:clovis bray",
-  "Search.Examples.Expiration": "expiration:seraph",
-  "Search.Examples.Name": "name:mida",
-  "Search.Examples.Source": "source:leveling",
-  "Search.Examples.Type": "type:scout rifle",
-  "Search.Placeholder": "introduce nombre o descripción",
-  "Search.Results.MatchesAllHidden": "Hay una coincidencia, ¡pero has elegido ocultarla!",
-  "Search.Results.MatchesAllHidden_plural": "Hay {{count}} coincidencias, ¡pero has elegido ocultarlas!",
-  "Search.Results.NoMatches": "Nada coincide con tus términos.",
-  "Search.Results.Top10": "Mostrando los 10 primeros resultados. Pulsa  en cualquier momento para una experiencia de búsqueda completa.",
-  "Search.ShortcutKey": "Pulsa  para activar la búsqueda desde cualquier sitio.",
-  "Search.Suggestions": "La búsqueda admite filtros como prefijos. También puedes buscar por identificador del manifiesto. Por ejemplo, la mejor arma del juego, `564802913`.\n\nLos resultados se priorizan por nombre, fuente y descripción.",
-  "Search.VanguardArchives": "Bienvenido a los archivos de la Vanguardia.",
-  "SeasonPass.ProgressPassLevel": "Progreso en el nivel de temporada",
-  "SeasonPass.ProgressPowerBonus": "Progreso de la bonificación de poder",
-  "SeasonPass.SeasonProgress": "Progreso de temporada",
-  "SeasonPass.SeasonProgressDays": "Días",
-  "Settings.Category.Advanced.Name": "Avanzado",
-  "Settings.Category.Common.Name": "General",
-  "Settings.Category.PushNotifications.Name": "Notificaciones push",
-  "Settings.DIMSync.Action.Disable.Description": "Desactiva la sincronización y borra el _token_ de autentificación de la Sincronización DIM almacenado.",
-  "Settings.DIMSync.Action.Enable.Description": "Activa la sincronización al compartir tu _token_ de autentificación de Bungie.net con Sincronización DIM.",
-  "Settings.DIMSync.Info": "Sincroniza tus ajustes con DIM para las equipaciones.",
-  "Settings.Developer.ExperimentalFeatures.Description": "Empezar a utilizar funciones que aún no han sido debidamente desarrolladas, refinadas o sometidas a un control de calidad.",
-  "Settings.Developer.ExperimentalFeatures.Name": "Habilitar las funciones experimentales",
-  "Settings.Developer.Maps.Debug.Description": "Habilita la configuración de depuración de Mapas.",
-  "Settings.Developer.Maps.Debug.Name": "Modo depuración de Mapas",
-  "Settings.Developer.Maps.LogDetails.Description": "Detalles de Console.log para el nodo llamado por el ratón.",
-  "Settings.Developer.Maps.LogDetails.Name": "Detalles del registro del nodo",
-  "Settings.Developer.Maps.Surveyor.Description": "Un control de mapas adicional que permite recoger fácil y rápidamente los nodos de los mapas.",
-  "Settings.Developer.Maps.Surveyor.Name": "Usar el inspector",
-  "Settings.IDB.ClearCache.Description": "Borra los recursos en caché, como las imágenes de los mapas. Estos recursos se descargan a medida que se necesitan.",
-  "Settings.IDB.ClearCache.Name": "Limpiar caché",
-  "Settings.IDB.ClearManifest.Description": "Borra el manifiesto de Destiny almacenado en este dispositivo. Braytech requiere que el manifiesto funcione y se descargará de nuevo la próxima vez que se inicie la aplicación.",
-  "Settings.IDB.ClearManifest.Name": "Limpiar manifiesto",
-  "Settings.IDB.ClearReports.Description": "Borra todos los informes de partidas almacenados en este dispositivo.",
-  "Settings.IDB.ClearReports.Name": "Limpiar informes",
-  "Settings.IDB.Usage.Description": "Almacenamiento utilizado por el manifiesto de Destiny y los informes de partidas.",
-  "Settings.IDB.Usage.Name": "Uso",
-  "Settings.Interface.AlternateAppIcon.Info": "Modifica el aspecto del icono de la aplicación.",
-  "Settings.Interface.Bindings.Info": "Cambia la apariencia de los botones. Esto es por el momento solo un efecto visual.",
-  "Settings.Interface.FlipSubviewNav.Info": "Para los usuarios que quieren ser diferentes y para los usuarios que utilizan Braytech en su dispositivo móvil con la mano derecha.",
-  "Settings.Interface.FlipSubviewNav.Left": "Izquierda",
-  "Settings.Interface.FlipSubviewNav.Right": "Derecha",
-  "Settings.Interface.ItemSize.Info": "Ajusta el tamaño de los iconos de los elementos del inventario para la mayoría de las funciones de Braytech.",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Description": "Si se ha adquirido un objeto de la colección, se ocultará en la sección Colecciones.",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Name": "Ocultar objetos de la colección adquiridos",
-  "Settings.ItemVisibility.HideCompletedRecords.Description": "Si un triunfo está completado y canjeado, se ocultará en la sección Triunfos.",
-  "Settings.ItemVisibility.HideCompletedRecords.Name": "Ocultar triunfos completos",
-  "Settings.ItemVisibility.HideDudRecords.Description": "Oculta los triunfos inservibles (vacíos o sin usar). Esta es una [lista](/triumphs/dud) elaborada manualmente.",
-  "Settings.ItemVisibility.HideDudRecords.Name": "Ocultar los triunfos inservibles",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Description": "Si el juego especifica que no puedes ver un coleccionable en particular, se ocultará en la sección Colecciones.",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Name": "Ocultar elementos invisibles de la colección",
-  "Settings.ItemVisibility.HideInvisibleRecords.Description": "Si el juego especifica que no puedes ver un triunfo en particular, se mostrará como \"secreto\" en la sección Triunfos.",
-  "Settings.ItemVisibility.HideInvisibleRecords.Name": "Ocultar entradas de triunfos invisibles",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Description": "Oculta los triunfos que no se pueden obtener. Esta es una [lista](/triumphs/unobtainable) elaborada manualmente.",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Name": "Ocultar triunfos no disponibles",
-  "Settings.LS.ResetEverything.Description": "Restablece todos los ajustes del usuario, los datos guardados y el historial.",
-  "Settings.LS.ResetEverything.Name": "Restablecer todo",
-  "Settings.LS.ResetNotifications.Description": "Restablece las notificaciones descartadas a su estado por defecto.",
-  "Settings.LS.ResetNotifications.Name": "Restablecer notificaciones",
-  "Settings.LS.ResetProfileHistory.Description": "Elimina la lista almacenada de perfiles de miembros cargados anteriormente (búsqueda de perfil).",
-  "Settings.LS.ResetProfileHistory.Name": "Restablecer el historial del perfil",
-  "Settings.LS.ResetTips.Description": "Restablece los consejos informativos a su estado por defecto.",
-  "Settings.LS.ResetTips.Name": "Restablecer los consejos",
-  "Settings.LS.ResetTrackedTriumphs.Description": "Deja de seguir todos los triunfos del usuario. No afectará al estado de los triunfos dentro del juego.",
-  "Settings.LS.ResetTrackedTriumphs.Name": "Restablecer los triunfos seguidos",
-  "Settings.Language.Colloquial.Description": "Activar el vocabulario aportado por los usuarios en lugar de los textos oficiales.",
-  "Settings.Language.Colloquial.Name": "Emplear lenguaje coloquial",
-  "Settings.Maps.Checklists.Info": "Alterna la visibilidad de las listas de coleccionables. Mantenlo limpio.",
-  "Settings.Maps.Developer.Info": "Herramientas para ayudar a los desarrolladores cuando trabajen en _Mapas_",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Description": "Si un nodo ha sido descubierto, se omitirá del mapa a menos que sea seleccionado.",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Name": "Ocultar los nodos descubiertos",
-  "Settings.Maps.ItemVisibility.HidePatrols.Description": "Oculta todas las balizas de patrulla.",
-  "Settings.Maps.ItemVisibility.HidePatrols.Name": "Ocultar patrullas",
-  "Settings.Maps.Visual.Atmosphere.Description": "Muestra condiciones meteorológicas como la nubosidad.",
-  "Settings.Maps.Visual.Atmosphere.Name": "Atmósfera",
-  "Settings.Maps.VisualFidelity.Info": "Altera la cantidad de florituras visuales",
-  "Settings.Profile.Info": "Braytech facilita la visualización de muchos perfiles de jugadores a la vez, pero recuerda el último perfil que seleccionaste desde [Búsqueda de perfil](/profile-search).",
-  "Settings.Profile.NoProfileSelected": "Selecciona un perfil",
-  "Settings.PushNotifications.BraveBrowser": "Parece que utilizas un navegador ridículo, Brave: asegúrate de que la opción \"Utilizar los servicios de Google para la mensajería push\" está activada en la configuración de tu navegador.",
-  "Settings.PushNotifications.Condition.AnyActivity": "Cualquier actividad",
-  "Settings.PushNotifications.Condition.AnyMod": "Cualquier modificador",
-  "Settings.PushNotifications.Condition.AnyReward": "Cualquier recompensa",
-  "Settings.PushNotifications.Condition.AnySale": "Cualquier oferta",
-  "Settings.PushNotifications.Condition.AnyShader": "Cualquier shader",
-  "Settings.PushNotifications.Condition.Multiple": "Múltiple",
-  "Settings.PushNotifications.Condition.Uncollected": "No conseguido",
-  "Settings.PushNotifications.Conditions": "Condiciones",
-  "Settings.PushNotifications.Configure": "Configura las notificaciones push",
-  "Settings.PushNotifications.Event": "Evento",
-  "Settings.PushNotifications.Frequency": "Frecuencia",
-  "Settings.PushNotifications.Incompatible": "Tu navegador aún no es compatible con las notificaciones _push_.",
-  "Settings.PushNotifications.Info": "Las notificaciones _push_ utilizan las APIs del navegador y del sistema operativo para enviarte notificaciones incluso cuando no estás usando la aplicación.\n\nSi quieres que Braytech te envíe notificaciones, puedes controlar si, cuándo y por qué, aquí.",
-  "Settings.PushNotifications.NoServiceWorker": "Todavía no se ha instalado un _service worker_. Prueba a recargar Braytech.",
-  "Settings.PushNotifications.PermissionDenied": "Tu navegador dice que has denegado el permiso para enviar notificaciones. Tendrás que habilitarlas o restablecerlas manualmente antes de poder continuar.",
-  "Settings.PushNotifications.PreviewNotifications.Description": "Envía inmediatamente las notificaciones habilitadas.",
-  "Settings.PushNotifications.PreviewNotifications.Name": "Probar las notificaciones",
-  "Settings.PushNotifications.ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
-  "Settings.PushNotifications.Users": "Usuarios",
-  "Settings.ReloadRequired.Description": "Selecciona recargar la aplicación para activar los cambios inmediatamente.",
-  "Settings.ReloadRequired.Name": "Se necesita recargar",
-  "Settings.Reports.Info": "Una vez descargados, los informes se guardan en el dispositivo para poder acceder a ellos rápidamente. Todos los informes se asocian con el miembro que los visualizó originalmente. Puedes borrarlos aquí, miembro por miembro. Si has descargado muchos informes, es posible que quieras borrarlos para minimizar el tiempo de carga inicial.",
-  "Settings.Reports.NoReports": "No hay informes almacenados en este dispositivo.",
-  "Settings.Reports.ReportsCount": "Cantidad",
-  "Settings.Reports.ReportsMember": "Miembro",
-  "Settings.Search.HideFeatureSuggestions.Description": "Paciencia, sé lo que me hago.",
-  "Settings.Search.HideFeatureSuggestions.Name": "Ocultar sugerencias de funciones",
-  "Settings.Search.ItemVisibilityOverride.Description": "Utiliza este ajuste para anular los ajustes globales de visibilidad de elementos para triunfos y coleccionables.",
-  "Settings.Search.ItemVisibilityOverride.Name": "Mostrar completados y adquiridos",
-  "Settings.SubCategory.Authentication": "Autentificación",
-  "Settings.SubCategory.DIMSync": "Sincronización de DIM",
-  "Settings.SubCategory.Developer": "Desarrollador",
-  "Settings.SubCategory.IDB": "Almacenamiento de la base de datos",
-  "Settings.SubCategory.Interface.AlternateAppIcon": "Icono de la aplicación",
-  "Settings.SubCategory.Interface.Bindings": "Botones",
-  "Settings.SubCategory.Interface.FlipSubviewNav": "Alternar navegación de la sección",
-  "Settings.SubCategory.Interface.ItemSize": "Tamaño del objeto de inventario",
-  "Settings.SubCategory.ItemVisibility": "Visibilidad de elementos",
-  "Settings.SubCategory.LS": "Datos locales",
-  "Settings.SubCategory.Language": "Idioma",
-  "Settings.SubCategory.Reports": "Almacenamiento de informes",
-  "Settings.SubCategory.SavedProfile": "Perfil guardado",
-  "Settings.SubCategory.Search": "Búsqueda",
-  "Settings.SubCategory.Synchronisation": "Sincronización",
-  "Settings.SubCategory.System": "Sistema",
-  "Settings.SubCategory.Theme": "Tema",
-  "Settings.SubCategory.Troubleshooting": "Resolución de problemas",
-  "Settings.SubCategory.VisualFidelity": "Fidelidad visual",
-  "Settings.Sync.Action.DeleteSyncedSettings.Description": "Desactiva la sincronización y borra los ajustes almacenados con Voluspa.",
-  "Settings.Sync.Action.DeleteSyncedSettings.Name": "Borrar config. sincronizada",
-  "Settings.Sync.Action.DownloadSyncedSettings.Description": "Descarga la configuración sincronizada inmediatamente, sobrescribiendo la configuración actual.",
-  "Settings.Sync.Action.DownloadSyncedSettings.Name": "Descargar config. sincronizada",
-  "Settings.Sync.Action.Enable.Description": "Habilita la sincronización y sincroniza regularmente con Voluspa.",
-  "Settings.Sync.Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
-  "Settings.Sync.RequirementsNotMet": "La sincronización requiere que primero autentifiques Braytech con Bungie.net.",
-  "Settings.Sync.State.Merged": "Última fusión hace {{duration}}",
-  "Settings.Sync.State.Synced": "Última sincronización hace {{duration}}",
-  "Settings.System.PromptForMinorVersions.Description": "Notifícame que actualice incluso para versiones menores.",
-  "Settings.System.PromptForMinorVersions.Name": "Actualizaciones de versiones menores",
-  "Settings.System.ReloadAppAutomatically.Description": "Cuando una actualización de Braytech esté lista, recargará la aplicación automáticamente independientemente de lo que estés haciendo.",
-  "Settings.System.ReloadAppAutomatically.Name": "Recargar la aplicación automáticamente",
-  "Settings.Theme.Black.Name": "Negro",
-  "Settings.Theme.Dark.Name": "Oscuro",
-  "Settings.Theme.Light.Name": "Claro",
-  "Settings.Theme.SystemPreference.Name": "Sistema",
-  "Settings.Theme.SystemPreference.Name.Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema.",
-  "Settings.Troubleshooting.DumpServiceWorker.Description": "Intenta dar de baja al service worker instalado. Si tiene éxito, recargar la aplicación permitirá que un nuevo service worker ocupe su lugar.",
-  "Settings.Troubleshooting.DumpServiceWorker.Name": "Verter service worker",
-  "Settings.Troubleshooting.UpdateServiceWorker.Description": "Intenta actualizar el service worker inmediatamente. Esta función desactivará el botón temporalmente. Puedes continuar usando Braytech mientras intenta actualizar en segundo plano. Si tiene éxito, se te pedirá que reinicies la aplicación.",
-  "Settings.Troubleshooting.UpdateServiceWorker.Name": "Actualizar service worker",
-  "Settings.VisualFidelity.Gay.Description": "Saca tu reinona, mari. ¡Ilumina tu vida con una fabulosa y rompedora innovación tecnológica, exclusiva de Braytech®, de edición limitada!",
-  "Settings.VisualFidelity.Gay.Name": "Habilitar ✨",
-  "Settings.VisualFidelity.ReducedMotion.Description": "Reduce el movimiento de la interfaz de usuario, concretamente desactivando varias animaciones. Reduce el uso de la CPU.",
-  "Settings.VisualFidelity.ReducedMotion.Name": "Reducir movimiento",
-  "SyncService.Delete.Failure.Description": "Tus ajustes no pueden ser borrados en este momento. Esto es un fallo temporal.",
-  "SyncService.Delete.Success.Description": "Tus ajustes han sido borrados. La sincronización está ahora desactivada.",
-  "SyncService.Merge.Failure.Description": "Al tratar de fusionar tus ajustes, se produjo un error. Es un fallo temporal.",
-  "SyncService.Merge.Success.Description": "Tus ajustes se han fusionado.",
-  "SyncService.Sync.Failure.Description": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal.",
-  "SyncService.Sync.Success.Description": "Tus ajustes se han sincronizado.",
-  "Tooltip.Actions.Acquire": "Adquirir",
-  "Tooltip.Actions.Compare": "Comparar",
-  "Tooltip.Actions.Equip": "Equipar",
-  "Tooltip.Actions.Favourite": "Añadir a favoritos",
-  "Tooltip.Actions.Garbage": "Basura",
-  "Tooltip.Actions.Inspect": "Detalles",
-  "Tooltip.Actions.Lock": "Bloquear",
-  "Tooltip.Actions.NotGarbage": "No es basura",
-  "Tooltip.Actions.Select": "Seleccionar",
-  "Tooltip.Actions.Store": "Transferir",
-  "Tooltip.Actions.Unfavourite": "Quitar de favoritos",
-  "Tooltip.Actions.Unlock": "Desbloquear",
-  "Tooltip.Actions.Vault": "Al depósito",
-  "Tooltip.Item.ExpiresIn": "Caduca en {{duration}}.",
-  "Tooltip.Item.NoDescription": "No hay descripción disponible.",
-  "Tooltip.Item.Quantity": "Cantidad",
-  "Tooltip.Item.QuantityMax": "Cantidad máxima",
-  "Tooltip.Items.StatTotal": "Total",
-  "Tooltip.Maps.Availability": "Disponible: cada {{period}}",
-  "Tooltip.Maps.UntrackableChecklistItem": "Lista de coleccionables no rastreable",
-  "Triumphs.AllCompleted": "Todo completado",
-  "Triumphs.AlmostComplete.NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
-  "Triumphs.AlmostComplete.SeeNext": "Ver los siguientes {{number}}",
-  "Triumphs.AlmostCompleteTriumphs": "Casi completado",
-  "Triumphs.Classified.Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",
-  "Triumphs.Classified.Name": "Triunfo clasificado",
-  "Triumphs.Details.Completed": "Completado",
-  "Triumphs.Details.FireteamLoading": "Cargando miembros de la escuadra",
-  "Triumphs.Details.NoClanOrFireteam": "¡Únete a una escuadra o a un clan para comparar a tus compañeros Guardianes contigo!",
-  "Triumphs.Details.NotCompleted": "No completado",
-  "Triumphs.Details.OpenView": "Abrir vista detallada",
-  "Triumphs.DudTriumphs": "Inservibles",
-  "Triumphs.EventCard": "Tarjeta de evento",
-  "Triumphs.LegacySeal_plural": "Sellos antiguos",
-  "Triumphs.LegacyTriumph_plural": "Triunfos antiguos",
-  "Triumphs.LegacyTriumphs.Description": "Triunfos del pasado que ya no se pueden obtener, pero están conservados aquí para la posteridad y puedan ser revisados.",
-  "Triumphs.Lore.SelectEntry": "Selecciona una página para leer.",
-  "Triumphs.Record.Commonality.Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este triunfo.",
-  "Triumphs.Record.Expiration.Description": "Es posible que este triunfo ya no se pueda obtener una vez que haya caducado.",
-  "Triumphs.Record.Expires": "Caduca al final de la Temporada {{season}}",
-  "Triumphs.Record.IntervalFraction": "{{numerator}} de {{denominator}}",
-  "Triumphs.Record.Score.Description": "El valor de la puntuación final de este triunfo.",
-  "Triumphs.Record.ScoreInterval.Description": "El valor de la puntuación del paso actual sobre el valor total del triunfo.",
-  "Triumphs.RecordsRedeemed": "Has canjeado todos estos triunfos y has elegido ocultarlos.",
-  "Triumphs.RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
-  "Triumphs.Seal": "Sello",
-  "Triumphs.SealTitleSeasonSuffix": "{{title}} (Temporada {{season}})",
-  "Triumphs.Seal_plural": "Sellos",
-  "Triumphs.Seals.AvailableTitle": "Título disponible: **{{title}}**",
-  "Triumphs.Seals.Commonality.Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este título.",
-  "Triumphs.Seals.Commonality.Name": "Rareza del sello",
-  "Triumphs.Seals.CommonalityGilded.Description": "Porcentaje de jugadores indizados por Voluspa que han adquirido y dorado este título.",
-  "Triumphs.Seals.CommonalityGilded.Name": "Rareza del sello dorado",
-  "Triumphs.Seals.PlayerTitle": "Título de jugador: **{{title}}**",
-  "Triumphs.Seals.SealCompleted": "Sello completado",
-  "Triumphs.Seals.SealGilded": "Sello dorado",
-  "Triumphs.Seals.SealGildedProgress": "Progreso de sellos dorados",
-  "Triumphs.Seals.SealProgress": "Progreso de sellos",
-  "Triumphs.Secret.Description": "Un misterio que aún no has resuelto.",
-  "Triumphs.Secret.Name": "Triunfo secreto",
-  "Triumphs.Sorted.Completion": "Ordenado por finalización",
-  "Triumphs.Sorted.Name": "Ordenado por **nombre**",
-  "Triumphs.Sorted.Rarity": "Ordenado por rareza",
-  "Triumphs.Sorted.Score": "Ordenado por puntuación",
-  "Triumphs.Sorted.Unsorted": "Ordenado por Bungie",
-  "Triumphs.Tracked.NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",
-  "Triumphs.Tracked.SeeAll": "Ver todos los seguidos",
-  "Triumphs.TrackedTriumphs": "Triunfos seguidos",
-  "Triumphs.Triumph_plural": "Triunfos",
-  "Triumphs.UnobtainableTriumphs": "No disponibles",
-  "Triumphs.Unredeemed.Info": "Regocíjate en tus logros y canjea estos triunfos.",
-  "Triumphs.Unredeemed.InfoWithScoreValue": "Canjea estos triunfos y aumenta tu puntuación de triunfos en {{value}} puntos.",
-  "Triumphs.Unredeemed.Number": "{{number}} triunfos sin canjear",
-  "Triumphs.UnredeemedTriumphs": "Triunfos sin canjear",
-  "Upsell.Auth.Description": "¿Quieres ver tus objetivos y otros datos de tu progreso? Autentifícate con Bungie.net y permite a Braytech leer de forma segura los datos de tu perfil.",
-  "Upsell.Patreon.Description": "Todos odiamos los anuncios. Son feos. Son molestos. Recogen tus datos y los venden a terceros.\n\nAyuda a mantenerlos lejos de Braytech apoyando la aplicación a través de Patreon. No importa si lo haces una sola vez o si te comprometes de forma habitual, ¡pues hasta el último dólar ayuda!",
-  "Upsell.Patreon.Name": "Mantén Braytech libre de anuncios",
-  "Upsell.Patreon.RewardResearcher": "Los mecenas de nivel Investigador/a desbloquean esta insignia de Clovis Bray.",
-  "Upsell.Patreon.RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
-  "Upsell.Patreon.Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",
-  "Upsell.Profile.Action": "Elige tu personaje",
-  "Upsell.Profile.Description": "¿Quieres ver el progreso de tus objetivos, los triunfos canjeados, los coleccionables descubiertos y mucho más? Carga tu perfil y selecciona tu personaje.",
-  "Vendor.FailureStrings.NoFunds": "No hay suficientes materiales",
-  "Vendor.FailureStrings.NoInventorySpace": "No hay espacio suficiente",
-  "Vendor.FailureStrings.UniquenessViolation": "Solo puedes tener uno a la vez",
-  "Voluspa.AdjustGraph.Description": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} han sido evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} han descubierto este coleccionable.",
-  "Voluspa.AdjustGraph.Description_record": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} han sido evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} han completado este triunfo.",
-  "Voluspa.AdjustGraph.Name": "Ajustar gráfico",
-  "Voluspa.CollectedBy": "{{number}} jugadores han conseguido esto.",
-  "Voluspa.Commonality": "Rareza",
-  "Voluspa.CompletedBy": "{{number}} jugadores han completado esto.",
-  "Voluspa.Crawled": "{{number}} jugadores están indizados por Voluspa.",
-  "Voluspa.GraphType.Frequency": "Frecuencia",
-  "Voluspa.GraphType.TimeSeries": "Series cronológicas",
-  "Voluspa.LastCrawled": "indizado por última vez {{time}}",
-  "Voluspa.ProfilesAssessed": "Perfiles evaluados",
-  "Weeklies.Challenges.ActivityBonus": "Bonificaciones de actividad",
-  "Weeklies.Challenges.ArtifactPower.Description": "Una bonificación a tu nivel de Luz, canalizada por tu artefacto de temporada equipado gracias a la experiencia adquirida.",
-  "Weeklies.Challenges.ArtifactPower.Name": "Bonificación de Poder del artefacto",
-  "Weeklies.Challenges.ArtifactPowerBonus": "Bonificación de Poder",
-  "Weeklies.Challenges.GearPower.Description": "El nivel de Poder medio de tu armamento actualmente equipado.",
-  "Weeklies.Challenges.GearPower.Name": "Poder del equipamiento",
-  "Weeklies.Challenges.NoChallenges": "Parece que tu Guardián pulverizó todos los desafíos disponibles esta semana.",
-  "Weeklies.Challenges.Power.Description": "Tu nivel de Luz es el total de los valores de Poder de todo tu equipamiento actual. Un mayor nivel de Luz mejora el daño que causas y tu defensa.",
-  "Weeklies.Challenges.Power.Name": "Luz",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "{{number}} desafíos de temporada disponibles",
-  "Weeklies.Challenges.SeasonalChallenges.Description": "Completa los desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas.",
-  "Weeklies.Challenges.SeasonalChallenges.Name": "Desafíos de temporada",
-  "Weeklies.Challenges.Type.Bounties": "Contratos",
-  "Weeklies.Challenges.Type.Crucible": "Crisol",
-  "Weeklies.Challenges.Type.Dungeon": "Mazmorra",
-  "Weeklies.Challenges.Type.Exotic": "Excepcional",
-  "Weeklies.Challenges.Type.Expansion": "Expansión",
-  "Weeklies.Challenges.Type.Gambit": "Gambito",
-  "Weeklies.Challenges.Type.Raid": "Incursión",
-  "Weeklies.Challenges.Type.Seasonal": "De temporada",
-  "Weeklies.Challenges.Type.Strikes": "Asaltos",
-  "Weeklies.Rotations.Description": "Rituales que transcurren en rotaciones; utiliza estas proyecciones para planificar tus cometidos. En ocasiones, los Arquitectos modifican las rotaciones y esta sección se ajustará a ello.",
-  "Weeklies.Rotations.Name": "Rotaciones"
+  "Action": {
+    "Accept": "Aceptar",
+    "AddBookmark": "Añadir a favoritos",
+    "AddEvent": "Añadir evento",
+    "AllClasses": "Todas las clases",
+    "Back": "Atrás",
+    "BecomeAPatron": "Conviértete en Patron",
+    "Browse": "Navegar",
+    "Cancel": "Cancelar",
+    "Close": "Cerrar",
+    "Collapse": "Reducir",
+    "Confirm": "Confirmar",
+    "Customise": "Personalizar",
+    "Delete": "Borrar",
+    "Disable": "Desactivar",
+    "Dismiss": "Cerrar",
+    "Done": "Guardar",
+    "Enable": "Activar",
+    "Expand": "Ampliar",
+    "GatherInVault": "Reunir en el depósito",
+    "GoToBNet": "Ir a Bungie.net",
+    "GoToMaps": "Ir a Mapas",
+    "GoToTwitter": "Ir a Twitter",
+    "HideAcquired": "Ocultar obtenidos",
+    "HideCollectionsRolls": "Ocultar posibles ventajas aleatorias",
+    "HideCompleted": "Ocultar completados",
+    "HideDiscovered": "Ocultar descubiertos",
+    "HideHiddenStats": "Estadísticas avanzadas",
+    "HideRedeemed": "Ocultar canjeados",
+    "Jump": "Saltar",
+    "Lock": "Bloquear",
+    "MemberRemove": "Eliminar miembro",
+    "NextNth": "Siguientes {{number}}",
+    "Now": "Ahora",
+    "Open": "Abrir",
+    "Previous": "Anteriores",
+    "PullPostmaster": "Sacar de Administración",
+    "ReloadApp": "Recargar aplicación",
+    "ReloadAppAutomatically": "Recargar la aplicación automáticamente",
+    "RemoveBookmark": "Quitar de favoritos",
+    "Reset": "Reiniciar",
+    "SelectDate": "Elegir fecha",
+    "SelectFilters": "Filtros",
+    "SelectMasterwork": "Seleccionar obra maestra",
+    "Set": "Establecer",
+    "Share": "Compartir",
+    "ShowAll": "Mostrar todo",
+    "ShowCollectionsRolls": "Mostrar posibles ventajas aleatorias",
+    "ShowHiddenStats": "Estadísticas básicas",
+    "TryAgain": "Volver a probar",
+    "Unlock": "Desbloquear",
+    "UserReady": "¡Vamos!",
+    "ViewHistoricalData": "Ver datos históricos",
+    "ViewMore": "Ver más"
+  },
+  "Activity": {
+    "ActiveRotator": "Rotación activa",
+    "ApproximateLength": "Duración aproximada",
+    "Carnage": {
+      "SelectDate": {
+        "Info": "Selecciona una fecha a continuación y prepárate para dar el salto",
+        "Waiting": "Agarraos—cuantas más actividades hagáis y más lejos saltéis, más tiempo tardaremos.\n\nLa API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos La API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos acribillando los datos."
+      }
+    },
+    "Cooperative": "Cooperativo",
+    "Fireteam": {
+      "Closed": "Escuadra cerrada",
+      "Full": "Escuadra llena",
+      "MatchLoading": "La partida está cargando",
+      "Matchmaking": "Matchmaking",
+      "Open": "Escuadra abierta",
+      "SinglePlayer": "Actividad de un jugador"
+    },
+    "FreeForAll": "Todos contra todos",
+    "Graphs": {
+      "SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba."
+    },
+    "LevelAdvantagesDisabled": "Ventajas de nivel desactivadas",
+    "LevelAdvantagesEnabled": "Ventajas de nivel activadas",
+    "Matchmaking": "Matchmaking",
+    "MaxParty": "{{number}} jugadores",
+    "Modes": {
+      "Bar": {
+        "PvPLoss": "Derrota",
+        "PvPWin": "Victoria"
+      },
+      "Last100": {
+        "PvE": "Últimas 100 actividades",
+        "PvP": "Últimas 100 partidas"
+      },
+      "Lifetime": "Total",
+      "Line": {
+        "AverageKD": "Promedio de B/M"
+      },
+      "Scatter": {
+        "PvEFailure": "Fracaso",
+        "PvEFlawless": "Impecable",
+        "PvPFlawless": "Impecable",
+        "PvPLoss": "Derrota",
+        "PvPWin": "Victoria"
+      },
+      "TrialsPassage": "Pase de las Pruebas"
+    },
+    "ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
+    "NoMedalsAwarded": "No se han concedido medallas",
+    "NoStatsAvailable": "No hay estadísticas disponibles",
+    "PvP": "Jugador contra jugador",
+    "RecommendedLight": "Luz recomendada",
+    "Score": {
+      "Team": "Puntuación del equipo"
+    },
+    "SelectMode": "Elige modo",
+    "SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
+    "SinglePlayer": "Un jugador",
+    "Standing": {
+      "Defeat": "Derrota",
+      "DidNotFinish": "El jugador no ha terminado",
+      "Mercy": "Clemencia",
+      "Tie": "Empate",
+      "Victory": "Victoria"
+    },
+    "State": {
+      "ActivityHistoryError": "Algo salió mal al intentar cargar el historial de actividades. Por favor, inténtalo de nuevo.",
+      "DownloadingReports": "Descargando informes",
+      "DownloadingReportsProgressValue": "Recogiendo datos de escuadra de Bungie.net. Esto puede llevar un tiempo en función de tu red y del número requerido.",
+      "GenericError": "Algo salió mal. Por favor, inténtalo de nuevo.",
+      "HydratingReportsCache": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
+      "LoadGroupMembers": "Analizando el historial del clan y de las actividades",
+      "LoadingPeriod": "Escaneando... {{date}}",
+      "NoBookmarks": "¡Todavía no has añadido ningún favorito!\n\nPuedes sincronizar tus favoritos activando la sincronización en _Ajustes_.",
+      "NoHistoryAvailable": "Encuentra una escuadra y alcanza la victoria contra los enemigos del Viajero.",
+      "PeriodNotFound": "No se ha podido encontrar el periodo solicitado en el historial de actividades de este personaje.",
+      "RequestHistory": "Analizando el historial de actividades",
+      "RequestHistoryPage": "Recuperando el volumen del historial de actividad {{page}}"
+    },
+    "Team": {
+      "Allies": "Su equipo",
+      "Alpha": "Alfa",
+      "Bravo": "Bravo",
+      "Opposition": "Equipo enemigo"
+    }
+  },
+  "Addendums": {
+    "Credits": {
+      "Origins": {
+        "Description": "Braytech ha sido, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la ha desarrollado un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
+      }
+    },
+    "Privacy": {
+      "Info": "En definitiva, Braytech no utiliza cookies ni ningún otro mecanismo para rastrearte, ni tampoco pretende captarte con fines publicitarios (vamos, Braytech no tiene anuncios).\n\nSi tienes alguna pregunta adicional respecto a este asunto, no dudes en acudir al [Discord](https://discord.bray.tech).",
+      "Policy": "1. Introducción\n    1. A todos los efectos, la versión en idioma inglés de la presente Política de Privacidad será el documento original, el instrumento jurídico y el entendimiento de las partes. En caso de conflicto entre la versión en inglés de esta Política de Privacidad y cualquier traducción posterior a cualquier otro idioma, la versión en inglés regirá y controlará.\n    2. Braytech es un servicio gratuito hecho por fans para Destiny 2, el videojuego. Esta política de privacidad explica cómo se utilizan sus datos en esta aplicación.\n    3. Braytech está en constante mejora, y el desarrollador puede modificar esta Política de Privacidad ocasionalmente para reflejar los cambios en sus prácticas de privacidad. Le recomendamos que revise esta Política de Privacidad periódicamente y que compruebe la fecha que aparece al final de la Política de Privacidad para conocer la versión más reciente.\n    4. En este documento, el \"desarrollador\" se refiere a Tom Chapman.\n2. Información que el desarrollador recopila\n    1. Información proporcionada por Usted\n        1. Su nombre de perfil específico de la plataforma se utiliza para cargar y mostrar su perfil de Destiny. En ningún momento se recogen o utilizan sus credenciales privadas.\n        2. Los mecenas de Braytech también pueden proporcionar opcionalmente su dirección de correo electrónico para asociar su perfil de Destiny con su cuenta de Patreon y así recibir la insignia correspondiente a su aportación en Patreon.\n    2. Información que el desarrollador recopila automáticamente\n        1. Los datos relativos a su uso de los servicios proporcionados pueden incluir su dirección IP, ubicación geográfica, nombre y versión del navegador, sistema operativo, fuente de referencia, duración de la visita, páginas vistas y rutas de navegación del sitio web, así como información sobre el tiempo, la frecuencia y el patrón de su uso del servicio.\n3. Cómo se utilizan sus datos personales\n    1. Información de la cuenta de Destiny y Bungie\n        1. Para mostrar y manipular la información del juego de Destiny, Braytech utiliza la API de Bungie.net. La única información que recibe Braytech, o a la que tiene acceso, es la información de su juego (objetos, personajes, etc.) y la información básica de su cuenta, incluyendo su ID de miembro de Bungie.net y los identificadores de cualquier servicio vinculado, como sus nombres de usuario públicos de PSN, Xbox Live, Steam, Stadia, Blizzard o Bungie.net. El desarrollador no tiene acceso a su correo electrónico, nombre, dirección, información de pago o cualquier otra información personal que tenga Bungie o las plataformas de juego.\n        2. El uso de la API de Bungie.net se rige por las [Condiciones de uso](https://www.bungie.net/7/en/Legal/Terms) y la [Política de privacidad](https://www.bungie.net/7/en/Legal/PrivacyPolicy) de Bungie.net.\n    2. Patreon\n        1. Los datos proporcionados por usted, el usuario, con el fin de asociar su perfil de Destiny con su cuenta de Patreon solo se utilizan para ese propósito, almacenándose de forma segura a través de Voluspa.\n    3. Datos de uso\n        1. Estos datos de uso pueden ser tratados con el fin de analizar el uso del sitio web y de los servicios. La base legal para este tratamiento es su consentimiento o nuestros intereses legítimos, es decir, el seguimiento y la mejora de nuestro sitio web y servicios.\n    4. Sincronización de los ajustes de Braytech\n        1.  Voluspa habilita una función de Braytech que le permite a usted, el usuario, almacenar sus datos (ajustes de Braytech) y sincronizarlos entre instancias de Braytech. Esta información solo es accesible para usted y para el desarrollador.\n\nÚltima actualización: miércoles, 19 de mayo de 2021."
+    }
+  },
+  "App": {
+    "BungieError": "Error de Bungie",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
+    "ErrorBoundary": {
+      "Discord": "Braytech ha encontrado un error fatal. Si una de las acciones disponibles no resuelve tu problema, por favor únete al [Discord](https://discord.bray.tech) para obtener más ayuda.",
+      "Version": "Por favor, cita la siguiente línea cuando informes de este error."
+    },
+    "FriendlyError": {
+      "Description": "Por favor, no se lo digas al Comandante Zavala... aún.",
+      "Name": "Disculpe las molestias"
+    },
+    "NetworkError": {
+      "Description": "Se ha producido un error de red. Este es un error temporal que puede resolverse al recargar o salir de esta sección.",
+      "Name": "Error de red"
+    },
+    "ServiceWorkerInstalling": {
+      "Description": "Se está instalando una actualización de la aplicación en segundo plano."
+    },
+    "ServiceWorkerReload": {
+      "Description": "Hay disponible una nueva actualización para Braytech. Por favor, selecciona recargar para usar una versión mejorada de esta aplicación.\n\nRevisa el registro de cambios en la página de inicio para ver los detalles sobre las novedades.",
+      "Name": "Actualización disponible"
+    },
+    "UnknownError": "Error desconocido",
+    "UnsupportedBrowser": {
+      "Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
+      "Name": "Navegador no soportado"
+    },
+    "Version": "Versión"
+  },
+  "Archives": {
+    "Grimoire": {
+      "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
+      "Name": "Grimorio"
+    },
+    "Guides": {
+      "VowOfTheDisciple": {
+        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
+        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
+      }
+    }
+  },
+  "Auth": {
+    "Data": {
+      "Action": "Olvídame",
+      "Description": "Elimina los datos de autentificación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
+      "Name": "Datos de autentificación"
+    },
+    "Error": {
+      "NoAuth": {
+        "Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autentificación con el que puede interactuar con más puntos terminales de la API.",
+        "Name": "Se requiere autentificación"
+      },
+      "Permissions": {
+        "Profile": {
+          "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autentificación en la sección _Ajustes_.",
+          "Name": "Oh, cariño... Cariiiiñoooo"
+        }
+      }
+    },
+    "Friends": {
+      "Text": "Autentifícate con Bungie.net para ver aquí tu lista de amigos de Bungie. ¡Es un atajo práctico para ver quién está conectado y consultar los perfiles de los demás!"
+    },
+    "Login": "Iniciar sesión con Bungie.net",
+    "Memberships": {
+      "Description": "Estas son las cuentas que están actualmente asociadas con tu perfil de Bungie.net.",
+      "Name": "Cuentas asociadas"
+    },
+    "PatreonAssociation": {
+      "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
+      "Name": "Vinculación de Patreon",
+      "Placeholder": "zuzuvala_fofisano69@hotmail.reef",
+      "Success": "¡Gracias! Tu correo electrónico está ahora vinculado a tus perfiles",
+      "Text": "Algunos niveles de Patreon incluyen recompensas en forma de _etiqueta_ que se muestra al lado de tu nombre de jugador.\n\nHabilita la visualización de la etiqueta correspondiente al introducir el correo electrónico asociado a tu cuenta Patreon."
+    },
+    "Suggestion": {
+      "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
+      "Text": "La mayoría de las características de Braytech están disponibles para todos los usuarios y dependen de datos disponibles al público, pero algunas de las características de Destiny requieren permisos de acceso explícitos que puedes conceder a Braytech si te autentificas con Bungie.net."
+    }
+  },
+  "Character": {
+    "Breakdown": {
+      "EffectiveMods": "Modificadores efectivos",
+      "SlottedMods": "Modificadores equipados",
+      "UnusedEnergy": "Energía sin usar"
+    },
+    "Compare": {
+      "ObtainFromVendor": "Obtenido de {{name}}"
+    },
+    "DIMSync": {
+      "Description": "Esta característica requiere una Sincronización DIM para funcionar. Activa la sincronización con DIM en los ajustes.",
+      "Name": "Sincronización DIM"
+    },
+    "DiffProfile": "Estás viendo el perfil de otra persona. Puedes mirar, pero si intentas pulsar botones, ¡no esperes resultados!",
+    "Equipment": {
+      "Armor": "Armadura",
+      "Auxiliary": "Auxiliar",
+      "Breakdown": "Desglose",
+      "Weapons": "Armas"
+    },
+    "Filter": {
+      "ArcDamage": "Daño de arco",
+      "DeepsightResonance": "Visión profunda",
+      "Favourite": "Favorito",
+      "Garbage": "Basura",
+      "KineticDamage": "Daño cinético",
+      "Shaped": "Forjada",
+      "SolarDamage": "Daño solar",
+      "StasisDamage": "Daño de estasis",
+      "StrandDamage": "Daño de atadura",
+      "VoidDamage": "Daño de vacío"
+    },
+    "Vendors": {
+      "BrightDustItems": "Objetos por polvo luminoso",
+      "CrossSaveSilver": "Tu saldo de plata es devuelto por la API solo para la plataforma en la que está jugando actualmente.",
+      "EververseCalendar": "Calendario de Eververso",
+      "FeaturedBrightDustItems": "Objetos destacados por polvo luminoso",
+      "FeaturedSilverItems": "Objetos destacados por plata",
+      "ShowAllItems": "Todos los objetos",
+      "ShowSilverOnlyItems": "Mostrar solo los objetos por plata",
+      "SilverOnlyItems": "Objetos solo por plata"
+    }
+  },
+  "Clan": {
+    "Administration": {
+      "ViewportWidth": "El modo Administración del clan está pensado para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1500px`."
+    },
+    "BannerPerks": "Bonificaciones de clan",
+    "ClanAdministration": "Administración",
+    "ClanBannerBuilder": {
+      "BannerColor": "Color del estandarte",
+      "BannerDetail": "Detalles del estandarte",
+      "BannerDetailColor": "Color de los detalles del estandarte",
+      "BannerEmblem": "Emblema del estandarte",
+      "Description": "Colabora con los miembros del clan en un nuevo estandarte de clan. Al seleccionar diferentes opciones, se actualiza instantáneamente la URL de la página, lo que te permite compartir fácilmente tus personalizaciones.",
+      "EmblemBackgroundColor": "Color del fondo del emblema",
+      "EmblemForegroundColor": "Color en primer plano del emblema",
+      "Name": "Diseñador de estandartes de clan"
+    },
+    "ClanRoster": "Jugadores",
+    "ClanTimetable": "Calendario",
+    "Founded": "Fundado el {{time}}",
+    "HistoricalStats": {
+      "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
+    },
+    "HistoricalStatsLoading": "Cargando estadísticas históricas",
+    "Members": "{{number}} miembros",
+    "MembersLoading": "Cargando miembros de {{name}}",
+    "NoClan": {
+      "Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
+      "Name": "Sin afiliación a clan"
+    },
+    "Relationships": {
+      "BestFriends": "Mejores amigos",
+      "Description": "Descubre oportunidades perdidas y amantes secretos. Estos Guardianes son aquellos con los que juegas más actividades. Apreciaos el uno al otro.\n\nEstos Guardianes son los miembros de tu clan y esta clasificación se restablece con cada nueva temporada.",
+      "Name": "Relaciones",
+      "NoFriends": "No estás solo; al final harás un amigo... ¡Invita a un compañero del clan a pasar el rato con un par de actividades!",
+      "NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
+      "Options": {
+        "LimitCurrentSeason": {
+          "Description": "🦘 Only load activities from the current season.",
+          "Name": "🦘 Current Season"
+        },
+        "LimitGroupMembers": {
+          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
+          "Name": "🦘 Clan Members"
+        }
+      },
+      "RomanticPartnerships": "Relaciones románticas",
+      "SocialButterfly": "¡Te relacionas muy bien! Has jugado con todos esta temporada.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "UndiscoveredFriends": "Amigos sin descubrir"
+    },
+    "RewardEngrams": "Engramas de recompensa",
+    "Roster": {
+      "Approve": "Aprobar",
+      "Ban": "Prohibir",
+      "Demote": "Degradar",
+      "Deny": "Denegar",
+      "DisplayName": "Nombre de usuario",
+      "DownloadData": "Descargar datos",
+      "Glory": "Gloria",
+      "Infamy": "Infamia",
+      "Joined": "Unido",
+      "Kick": "Expulsar",
+      "LastActivity": "Última actividad",
+      "LastCharacter": "Último personaje",
+      "LastPlatform": "Plataforma",
+      "Promote": "Ascender",
+      "Rank": "Rango",
+      "Valor": "Valor",
+      "WeeklyClanXP": "PE de clan semanal"
+    }
+  },
+  "Collections": {
+    "AllAcquired": "Todo adquirido",
+    "Badge": "Insignia",
+    "Badge_plural": "Insignias",
+    "Badges": {
+      "Commonality": {
+        "Description": "Porcentaje de jugadores indizados por Voluspa que han completado esta insignia.",
+        "Name": "Rareza de la insignia"
+      },
+      "Completed": "Insignia completada",
+      "Progress": "Progreso de insignia"
+    },
+    "CollectedBy": "Conseguidos",
+    "Collectible": {
+      "Commonality": "Porcentaje de jugadores indizados por Voluspa que han descubierto este coleccionable."
+    },
+    "CollectiblesAcquired": "Has adquirido todos estos coleccionables y has elegido ocultarlos.",
+    "CollectiblesUnavailable": "No hay objetos de colección disponibles para mostrar.",
+    "Grouped": {
+      "Season": "Agrupar por temporada",
+      "Ungroup": "Desagrupar"
+    },
+    "RecentlyDiscovered": "Descubierto recientemente",
+    "SetComplete": "Conjunto completado",
+    "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles"
+  },
+  "Commendations": {
+    "Received": "Recibidos",
+    "ReceivedAbr": "Recib.",
+    "Sent": "Enviados",
+    "SentAbr": "Env."
+  },
+  "Common": {
+    "Acknowledgements": "Agradecimientos",
+    "AcknowledgementsInfo": "Parte de estos contenidos son proporcionados generosamente por terceros. Por favor, piensa en ellos y en el esfuerzo que han realizado cuando consumas sus obras.",
+    "Actions": "Acciones",
+    "Activate": "Iniciar",
+    "Active": "Activo",
+    "ActiveModifiers": "Modificadores activos",
+    "ActiveScore": "Puntuación activa",
+    "Activity": "Actividad",
+    "ActivityBonus": "Puntos extra",
+    "ActivityMembers": "Miembros de la actividad",
+    "Activity_plural": "Actividades",
+    "Addendums": "Adenda",
+    "All": "Todo",
+    "Armour": "Armadura",
+    "AscendantChallenge": "Desafío ascendente",
+    "Authenticate": "Autentifícate",
+    "Available": "Disponible",
+    "AvailableActivities": "Actividades disponibles",
+    "Cancel": "Cancelar",
+    "Challenge": "Desafío",
+    "Challenge_plural": "Desafíos",
+    "Character": "Personaje",
+    "CharacterClass": "Clase del personaje",
+    "CharacterLight": "Luz del personaje",
+    "CharacterSpecific": "Como ocurre con la mayoría de las funciones de Braytech, esta sección corresponde a un personaje específico.",
+    "Character_plural": "Personajes",
+    "Checklists": "Coleccionables",
+    "Clan": "Clan",
+    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMembersNth": "Miembros del clan",
+    "Classified": "Clasificado",
+    "Collectibles": "Coleccionables",
+    "Collections": "Colecciones",
+    "CollectionsScore": "Puntuación de colecciones",
+    "CommendationAbr_plural": "Menc.",
+    "Completed": "Completado",
+    "CruciblePlaylist": "Lista de juego de Crisol",
+    "DateTime": "Fecha y hora",
+    "Equipment": "Equipamiento",
+    "Error": "Error",
+    "Event": "Evento",
+    "EventNth": "1 evento",
+    "EventNth_plural": "{{count}} eventos",
+    "Examples": "Ejemplos",
+    "Expiration": "Caducidad",
+    "Expired": "Caducado",
+    "Expiry": "Caducidad",
+    "Failure": "Fracaso",
+    "FeaturedEvent": "Evento destacado",
+    "FeaturedNightfall": "Ocaso destacado",
+    "FeaturedPlaylist": "Lista destacada",
+    "Fireteam": "Escuadra",
+    "FireteamMembers": "Miembros de la escuadra",
+    "FireteamReserves": "Reservas",
+    "FireteamSize": "Tamaño de la escuadra",
+    "Friend": "🦘 Friend",
+    "Friend_plural": "Amigos",
+    "GloryPoints": "Puntos de Gloria",
+    "GuardianRank": "Nivel de Guardián",
+    "Guardians": "Guardianes",
+    "Help": "Ayuda",
+    "HistoricalStats": "Estadísticas históricas",
+    "InfamyPoints": "Puntos de Infamia",
+    "Inspect": "Inspeccionar",
+    "Inventory": "Inventario",
+    "ItemRolls": "Equipamiento aleatorio",
+    "Items": "Objetos",
+    "LegacyScore": "Puntuación antigua",
+    "LevelNth": "Nivel {{number}}",
+    "Location": "Localización",
+    "Lore": "Historia",
+    "LoreBook": "Libro de historia",
+    "Map": "Mapa",
+    "Medals": "Medallas",
+    "MembersOnline": "{{number}} en línea",
+    "Name": "Nombre",
+    "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
+    "NothingHereYet": "No hay nada aquí todavía",
+    "Objectives": "Objetivos",
+    "Offline": "Fuera de línea",
+    "Patron_plural": "Patrons",
+    "Player": "Jugador",
+    "Preview": "Previsualizar",
+    "Profile": "Perfil",
+    "Progress": "Progreso",
+    "Progression": "Progreso",
+    "Quests": "Aventuras",
+    "Rank_plural": "Niveles",
+    "Record": "Triunfo",
+    "Record_plural": "Triunfos",
+    "Report_plural": "🦘 Reports",
+    "Reputation": "Reputación",
+    "Reset": "Reiniciar",
+    "Reward": "Recompensa",
+    "Reward_plural": "Recompensas",
+    "Savathûn'sCurse": "Maldición de Savathûn",
+    "Score": "Puntuación",
+    "ScoreValue": "Valor en puntos",
+    "Screenshot": "Captura de pantalla",
+    "Search": "Buscar",
+    "SeasonNth": "Temporada {{number}}",
+    "SeasonPass": "Pase de temporada",
+    "SeasonRank": "Nivel de temporada",
+    "SeasonYearNth": "Temporada {{season}}, año {{year}}",
+    "Season_plural": "Temporadas",
+    "Settings": "Ajustes",
+    "Source": "Fuente",
+    "SpecialCommendationAbr_plural": "Menc. esp.",
+    "SpecialCommendation_plural": "Menc. especiales",
+    "Submit": "Enviar",
+    "Support": "Apoyo",
+    "TimePlayed": "Tiempo jugado",
+    "TimeRemaining": "Tiempo restante",
+    "Translator_plural": "Traductores",
+    "TrialsPassage": "Pase de las Pruebas",
+    "TrialsPoints": "Puntos de las Pruebas",
+    "TriumphScore": "Puntos de Triunfo",
+    "Triumphs": "Triunfos",
+    "Unknown": "Desconocido",
+    "Users": "Usuarios",
+    "ValorPoints": "Puntos de Valor",
+    "VanguardPoints": "Puntos de Vanguardia",
+    "Vendor": "Comerciante",
+    "Vendor_plural": "Comerciantes",
+    "Views": "Secciones",
+    "Weapon": "Arma",
+    "WeekNth": "Semana {{number}}",
+    "Week_plural": "Semanas"
+  },
+  "Event": {
+    "FestivalOfTheLost": {
+      "Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante ha vuelto para celebrar la Fiesta de las Almas Perdidas. En esta celebración, los guardianes se dan un festín, llevan máscaras irreverentes y honran el recuerdo de los que hemos perdido.\n\nEl Bosque Encantado ha vuelto a abrir, y esta vez, la Araña quiere negociar para que le ayudes.",
+      "Name": "Fiesta de las Almas Perdidas"
+    },
+    "IronBanner": {
+      "Description": "Un evento especial del Crisol que durante una semana desafía a equipos de 6 a enfrentarse en la versión más competitiva de Control. Las ventajas de nivel de Luz están activadas."
+    },
+    "TheDawning": {
+      "Description": "Ni siquiera la gélida brisa de Europa puede congelar los corazones de los guardianes durante una época del año tan especial. La Aurora ha vuelto.",
+      "Name": "La Aurora"
+    }
+  },
+  "FAQ": {
+    "API": {
+      "StatDiscrepancy": {
+        "Description": "Hay múltiples fuentes de estadísticas en Destiny. Las Estadísticas históricas de Clan se basan en el punto terminal de la API de HistoricalStats, mientras que otras obtienen sus datos de los Informes de combate. Es difícil determinar cuál de ellos tiene una mayor precisión.\n\nPara mostrar las estadísticas del modo en que se ven en las Estadísticas históricas de Clan, se necesitaría descargar terabytes de datos de los servidores de Bungie y una gran potencia de computación. Dicho esto, son lo suficientemente precisos como para permitir una rivalidad amistosa.",
+        "Name": "Las estadísticas históricas de clan no coinciden [con otras] "
+      }
+    },
+    "Braytech": {
+      "AppStore": {
+        "Description": "¡Braytech está disponible en [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) y en [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Desafortunadamente, Braytech no está disponible en la tienda de aplicaciones de iPhone.\n\nBraytech no está disponible en la tienda de aplicaciones de iPhone porque Apple es avariciosa y su tienda es su principal fuente de dinero.\n\nAfortunadamente, ellos apoyan parcialmente las aplicaciones web progresivas, como Braytech. Para añadir Braytech a tu pantalla de inicio, navega a la aplicación usando Safari, selecciona el botón Compartir y selecciona _Añadir a la pantalla de inicio_. Esto habilita algunas de las tecnologías que permiten que aplicaciones como Braytech funcionen y se sientan como aplicaciones nativas.\n\nSi eres un usuario de Android y no deseas utilizar Google Play, puedes seguir un procedimiento similar con Google Chrome.",
+        "Name": "Tiendas de aplicaciones"
+      },
+      "Commonality": {
+        "Description": "A menudo nos preguntan, \"¿qué es el extraño porcentaje a la derecha de los coleccionables y los triunfos?\"\n\nEs un porcentaje de jugadores que han descubierto o canjeado el objeto. Cada pocos días, _Voluspa_ recopila datos de usuarios de _Braytech_ y registra quién tiene qué.\n\nHa sido un tema candente sobre si es preciso o útil, pero lo cierto es que todas las estadísticas son inútiles y absurdas _a menos que_ se hayan incluido todos y cada uno de los datos posibles.\n\nEs justo asumir que estas estadísticas están sesgadas hacia los jugadores casuales (puede que los porcentajes tiendan más al alza que a la baja, debido a la destreza y la atención de los usuarios que son monitoreados).\n\nCuando estén disponibles, los carteles informativos para estas estadísticas incluyen el número total de jugadores que se contabilizan como parte de esta métrica.{{indexed}}",
+        "Name": "Rareza"
+      },
+      "KeyboardShortcuts": {
+        "Description": "Además de los botones de la barra de acción con símbolos de teclas, Braytech tiene diversos atajos de teclado ocultos. Desde cualquier sección con una cabecera de perfil (el emblema de tu personaje, etc.), mantén pulsado  para ver qué atajos están disponibles. Por ejemplo, pulsa  para ir a _Triunfos_ y  para volver aquí.",
+        "Name": "Atajos de teclado"
+      },
+      "ProfilePrivacy": {
+        "Description": "Si te preocupa tu privacidad mientras juegas a Destiny y cómo la API expone tu progreso y actividades para que sean utilizadas por terceros, puedes modificar tu configuración de privacidad en [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy). Si lo haces, tendrás que autentificarte en Braytech con Bungie para seguir usando la aplicación.",
+        "Name": "Privacidad del perfil"
+      },
+      "ServiceWorkerUpdate": {
+        "Description": "En la sección _Configuración_ puedes probar una serie de cosas. Empieza por seleccionar _Actualizar service worker_.\n\nSi esto falla, puedes intentar recargar la aplicación seleccionando _Recargar aplicación_. Si el problema persiste, por favor selecciona _Verter service worker_ e informa del problema a través de Discord.",
+        "Name": "Braytech no se actualiza a la última versión"
+      },
+      "Widgets": {
+        "Description": "Actualmente los widgets sólo están disponibles para dispositivos iOS (iPhone, iPad).\n\nSi no puedes encontrar Braytech o sus widgets en tu lista de widgets disponibles, intenta reiniciar tu dispositivo, iniciar la aplicación, reinstalar la aplicación, o esperar un tiempo arbitrario.\n\nO es por torpeza o es cosa de iOS. Buena suerte.",
+        "Name": "Widgets",
+        "Video1Caption": "Cómo añadir widgets a tu pantalla de inicio.",
+        "Video2Caption": "Cómo añadir widgets a tu pantalla de bloqueo."
+      }
+    },
+    "Voluspa": {
+      "About": {
+        "Description": "_Voluspa_, que se llama así por una submente de _Rasputín_, es como he llamado al componente del servidor de Braytech. Es responsable de analizar los perfiles de los usuarios de Braytech en busca de estadísticas de rareza, sincronizar de los ajustes y otras características clave.",
+        "Name": "Acerca de Voluspa"
+      }
+    }
+  },
+  "GettingStarted": {
+    "Header": {
+      "Description": "¡Bienvenido a Braytech! Antes de empezar, tengo un puñado de consejos para ti.\n\nSi tienes comentarios o preguntas, ¡podemos chatear en Discord o puedes consultar las Preguntas Frecuentes!",
+      "Name": "Primeros pasos",
+      "SubName": "Tecnologías Clovis Bray"
+    },
+    "Tips": {
+      "Search": {
+        "Description": "¿Necesitas encontrar algo rápidamente? Braytech cuenta con una interfaz de búsqueda, disponible en cualquier parte de la aplicación.\n\nPulsa  o toca el botón de la lupa, ¡y empieza a escribir!",
+        "Name": "Búsqueda"
+      },
+      "Settings": {
+        "Description": "Braytech cuenta con una gran cantidad de ajustes, desde temas oscuros hasta opciones de visibilidad de los elementos y sincronización de los ajustes.\n\nPuedes encontrar _Ajustes_ en la esquina superior.",
+        "Name": "Ajustes"
+      },
+      "Views": {
+        "Description": "¡Consulta todas las funciones de Braytech de un solo vistazo seleccionando **** en la parte superior de la aplicación!",
+        "Name": "Más"
+      }
+    }
+  },
+  "GuardianRank": {
+    "Current": "Nivel actual: {{value}}",
+    "SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}"
+  },
+  "Item": {
+    "Ammo": "Munición",
+    "AmmoType": "Tipo de munición",
+    "ArmorStats": "Estadísticas de armadura",
+    "BasicCharacteristics": "Características básicas",
+    "Breaker": "Interrupción",
+    "BreakerType": "Tipo de interrupción",
+    "ClassEquipped": "{{name}} (equipado)",
+    "ClassPostmaster": "{{name}} (administración)",
+    "CollectionsRoll": "Estadísticas de colecciones",
+    "Compare": "Comparar",
+    "CouldntFindItemForUnequip": "Un objeto destinado a equiparse en el {{name}} no se ha podido encontrar en el personaje que lo tiene.",
+    "CraftingRequiredLevel": "Requiere nivel de arma {{number}}",
+    "CurrentlyCantRoll": "Esta ventaja no se puede obtener en esta arma actualmente",
+    "Energy": "Energía",
+    "EnergyAffinity": "Afinidad de energía",
+    "EnergyCapacity": "Energía",
+    "EnergyCost": "Coste de energía",
+    "EnergyMeter": "Energía",
+    "EnergyUnused": "Sin usar",
+    "Inspect": "Inspeccionar",
+    "Intrinsic": "Intrínseco",
+    "ItemAction": "Acción de objeto",
+    "Mods": "Modificadores",
+    "PerkEverything": "Esta ventaja se busca mucho para todas las actividades",
+    "PerkPvE": "Esta ventaja se recomienda para los combates de la Vanguardia",
+    "PerkPvP": "Esta ventaja se recomienda para los combates en el Crisol",
+    "PerkRecommended": "Se recomienda esta ventaja",
+    "Perks": "Ventajas",
+    "PowerLimit": "Límite de poder",
+    "RedeemWithCode": "Usa el código `{{code}}` en [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) para desbloquear este emblema.",
+    "ShapedDate": "TT {{date}}",
+    "StatTotal": "Total",
+    "State": "Estado",
+    "Stats": "Estadísticas",
+    "Sunset": "Almacenado",
+    "TransferMaximumStack": "{{name}} tiene un tamaño máximo para el montón de {{size}}. Consume algunos objetos y vuelve a intentarlo.",
+    "UndiscoveredCollectibleVendor": "Adquiere este objeto para añadirlo a tus Colecciones",
+    "WeaponKills": "Bajas con arma",
+    "WeaponStats": "Estadísticas del arma"
+  },
+  "Landing": {
+    "Blog": {
+      "AllPosts": "Todas las publicaciones",
+      "Error": "Las entradas del blog no se pueden cargar en este momento.",
+      "Name": "Blog"
+    },
+    "CallToAction": {
+      "Text": "Explora Destiny a través de Braytech en busca de grandes logros e información sobre tus luchas contra las fuerzas de la oscuridad."
+    },
+    "Featured": {
+      "ThisWeek": "Esta semana"
+    },
+    "Features": {
+      "Description": "Braytech es un proyecto lleno de pasión. Su desarrollo lleva más de dos años y ha recibido muchas novedades y mejoras. Su desarrollador, Tom Chapman, es un admirador del diseño de Destiny y éste influye mucho en la estética de Braytech.\n\nBraytech comenzó como una aplicación de listas de coleccionables y se ha convertido en una monstruosidad llena de talentos. Está en constante mejora y expansión.\n\n¿Necesitas encontrar algo rápido? ¡Pulsa  y empieza a escribir! Braytech tiene una interfaz de búsqueda, disponible en cualquier parte de la aplicación.\n\nBraytech está construido para usuarios de escritorio primero, pero funciona y luce hermoso como aplicación móvil. De hecho, hay una [aplicación para Android](https://play.google.com/store/apps/details?id=braytech.org.twa) en la Play Store.",
+      "Name": "Talentoso"
+    },
+    "Support": {
+      "Description": "Braytech es un trabajo a tiempo completo—yo diseño y desarrollo para mejorar y complacerte. Me opongo a usar anuncios, en contra de mis intereses. Tu apoyo me ayuda a mantener las luces encendidas y me permite hacer mi mejor trabajo.\n\nÚnete al [Discord](https://discord.bray.tech) y a los otros _patrons_ de la División de Investigación de Braytech.",
+      "Name": "¿Eres un fan? Muestra tu apoyo"
+    },
+    "Updates": {
+      "Name": "Actualizaciones"
+    }
+  },
+  "Language": {
+    "Space": {
+      "MetresAbr_plural": "{{count}} m",
+      "WeightAbr": "{{count}} kg",
+      "WeightAbr_plural": "{{count}} kg"
+    },
+    "Time": {
+      "Frequency": {
+        "Daily": "Diariamente",
+        "Weekly": "Semanalmente"
+      },
+      "Relative": {
+        "Future": "en {{duration}}",
+        "Past": "hace {{duration}}"
+      }
+    }
+  },
+  "Leaderboards": {
+    "ActiveScore": "Puntuación activa",
+    "CollectionsScore": "Puntuación de colecciones",
+    "LegacyScore": "Puntuación antigua",
+    "Rank": "🦘 Rank",
+    "TriumphScore": "Puntuación de triunfos"
+  },
+  "Legend": {
+    "Activity": {
+      "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
+      "Name": "Primer renacido"
+    },
+    "Commonality": {
+      "Description": "Triunfa y reclama tus recompensas\n\nLa Tierra y los mundos lejanos tocados por el Viajero guardan maravillosas rarezas y codiciados tesoros míticos.\n\nLa diversión está en su búsqueda.",
+      "Name": "Tesoros raros y estilos exóticos"
+    },
+    "Empty": "Vacío",
+    "Fishing": {
+      "Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
+      "LargestFish": "Pez más grande",
+      "Name": "Pesca de competición",
+      "TypesCaught": "Especies capturadas"
+    },
+    "Ranks": {
+      "Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
+      "Guardian": {
+        "Description": "Prepárate para ser evaluado por la Luz y por tus compañeros.",
+        "Name": "Guardián"
+      },
+      "Name": "Reputación del Guardián"
+    },
+    "Seals": {
+      "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien."
+    }
+  },
+  "Loading": {
+    "BungieError": {
+      "Description": "Datos cruciales de la API no se han podido cargar en este momento. Este es un problema intermitente. Por favor, inténtalo de nuevo.\n\nSi este error persiste, la API puede estar experimentando una interrupción general o tu red local está restringiendo las solicitudes de la API de Bungie.",
+      "Name": "Error de Bungie"
+    },
+    "Error": {
+      "Description": "Algo muy inesperado e irrecuperable ha ocurrido."
+    },
+    "IndexedDBError": {
+      "Description": "Algo ha ido mal al intentar acceder al almacenamiento del navegador.\n\nSi este error se repite, es posible que su navegador o dispositivo sea incompatible o esté mal configurado."
+    },
+    "IndexedDBErrorFatal": {
+      "Description": "Algo salió mal al tratar de acceder al almacenamiento del navegador.\n\nAlgunos navegadores no permiten el acceso a la _Base de datos indizada_ cuando se navega en modo privado.\n\nPor favor, recarga la aplicación e inténtalo de nuevo."
+    },
+    "IndexedDBOpenFailedError": {
+      "Description": "Algo salió mal al tratar de acceder al almacenamiento del navegador.\n\nAlgunos navegadores no permiten el acceso a la _Base de datos indizada_ cuando se navega en modo privado.\n\nPor favor, recarga la aplicación e inténtalo de nuevo."
+    },
+    "MaintenanceError": {
+      "Description": "La API de Bungie está actualmente fuera de servicio por mantenimiento. \n\nPara más información, visita @BungieHelp en Twitter.",
+      "Name": "Mantenimiento de Bungie"
+    },
+    "ManifestDownloadError": {
+      "Description": "Algo salió mal mientras se intentaba descargar el manifiesto de objetos de Bungie.\n\nPor favor, actualiza la aplicación e inténtalo de nuevo.",
+      "Name": "La descarga del manifiesto ha fallado"
+    },
+    "ManifestError": {
+      "Description": "Algo salió mal mientras se intentaba actualizar el manifiesto de objetos.\n\nPor favor, actualiza la aplicación e inténtalo de nuevo.",
+      "Name": "Error del manifiesto"
+    },
+    "NoInternetError": {
+      "Description": "¿Estás desconectado? Tu navegador web cree que sí..."
+    },
+    "SettingsFetchError": {
+      "Description": "Algo ha ido mal al intentar recopilar la configuración de la API de Bungie.\n\nPor favor, vuelve a cargar la aplicación e inténtalo de nuevo.",
+      "Name": "Fallo de configuración"
+    },
+    "Status": {
+      "DownloadingManifest": "Descargando datos de Bungie",
+      "FatalError": "Error fatal",
+      "NoInternetError": "No hay internet",
+      "Other": "Iniciando Windows 95",
+      "ReadStoredPGCR": "Cargando informes almacenados",
+      "SettingsFetch": "Conectando con Bungie.net",
+      "StoreManifest": "Almacenando datos del manifiesto"
+    },
+    "WaitingForBungie": "Esperando a Bungie"
+  },
+  "Maps": {
+    "Context": {
+      "ChecklistsAndMore": "🦘 Checklists + More",
+      "NoChecklistItems": "No se han detectado elementos"
+    },
+    "Inspect": {
+      "Instructions": "Instrucciones",
+      "ProposeChanges": {
+        "Form": {
+          "Description": {
+            "Name": "Descripción"
+          },
+          "Issues": {
+            "Name": "Problemas"
+          },
+          "Screenshots": {
+            "Name": "Capturas de pantalla",
+            "Select": "Elegir capturas de pantalla"
+          },
+          "Video": {
+            "Name": "Nombre"
+          }
+        },
+        "Name": "Proponer cambios"
+      },
+      "RelatedVideo": "Este nodo tiene un vídeo asociado",
+      "RelatedVideoAction": "Abrir archivo de vídeo",
+      "Vendor": {
+        "NoSales": "Recién agotado."
+      }
+    },
+    "Nodes": {
+      "Unavailable": "No disponible",
+      "UnavailableInGame": "No disponible: este nodo ya no está disponible en el juego.",
+      "UnavailableUnreliableApi": "No disponible: algo está impidiendo que este nodo transmita su estado de forma fiable."
+    },
+    "ProposeChanges": {
+      "Description": "Envía una sugerencia para que se modifiquen los datos de este nodo y mejorar _Mapas_ para otros Guardianes.",
+      "Form": {
+        "Description": {
+          "Placeholder": "Ejemplo: cerca de una roca en el lado más alejado de la última habitación"
+        },
+        "Issues": {
+          "Placeholder": "Ejemplo: el nodo ya no es accesible"
+        },
+        "Screenshots": {
+          "Description": "Las capturas de pantalla propuestas deben cumplir un estricto criterio de calidad:\n- resolución de pantalla de 1920x1080\n- sin HUD (interfaz) visible\n- sin Guardianes o equipamiento visible\n- sin enemigos visibles\n- ajustes de vídeo al máximo\n  - incluyendo una resolución de renderizado al 200%"
+        }
+      }
+    },
+    "ScreenshotUnavailable": "Captura de pantalla no disponible",
+    "Surveyor": {
+      "Capture": "Capturar posición",
+      "CopyDefinitions": "Copiar definiciones",
+      "CopyNodes": "Copiar nodos",
+      "NoNodes": "Selecciona una posición en el mapa para empezar."
+    },
+    "Within": {
+      "Activity": "Se encuentra dentro de la actividad",
+      "ActivityName": "Se encuentra dentro de la actividad: {{string}}",
+      "AscendantChallenge": "Se encuentra dentro del Desafío Ascendente: {{string}}",
+      "LostSector": "Se encuentra dentro del Sector Perdido: {{string}}",
+      "Story": "Se encuentra dentro de la misión: {{string}}",
+      "Strike": "Se encuentra dentro del Asalto: {{string}}"
+    }
+  },
+  "MemberLink": {
+    "Error": {
+      "Network": {
+        "Description": "Se ha producido un error en la red. Es un error temporal que puede resolverse al cerrar el cuadro de diálogo e intentándolo de nuevo.",
+        "Name": "Error de red"
+      },
+      "PrivateProgression": {
+        "Description": "Los datos de progreso de este perfil no están disponibles. Es posible que su perfil esté configurado como privado en Bungie.net. Desde luego que no están tratando de ocultar nada.",
+        "Name": "Perfil privado"
+      }
+    }
+  },
+  "MemberService": {
+    "Inactive": {
+      "Description": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio."
+    }
+  },
+  "Notifications": {
+    "NthMore": "y {{number}} más",
+    "NthRemaining": "{{number}} otros",
+    "PostmasterCapacityWarning": {
+      "DescriptionAlmostFull": "La administración se está quedando sin espacio. ¡Si no recoges tus objetos, los perderás para siempre!",
+      "DescriptionFull": "La administración está llena. ¡Si no recoges tus objetos, los perderás para siempre!",
+      "Name": "¡ADVERTENCIA!"
+    },
+    "PushNotifications": {
+      "Description": "Mientras estabas afuera tocando hierba, tu dispositivo ha anulado la autorización a Voluspa para enviarte notificaciones _push_.\n\nEs posible que quieras revisar tu configuración si esto no es lo que querías.",
+      "Name": "Notificaciones push"
+    }
+  },
+  "ProfileSearch": {
+    "ActiveProfile": "Perfil activo",
+    "BungieNetProfile": "Perfil de Bungie.net",
+    "ChangeProfile": "Cambiar perfil",
+    "CrossSaveProfile": "Este jugador ha activado el Cross Save. Su perfil activo está marcado.",
+    "Error": {
+      "Banned": {
+        "Botting": "Se observó al jugador empleando mecanismos para evitar las contramedidas de detección de inactividad (botting).",
+        "Dickhead": "Tocapelotas.",
+        "Hacking": "Se observó al jugador empleando herramientas externas para manipular las reglas del juego (hacking).",
+        "Teabagging": "Se observó al jugador adoptar comportamientos que no favorecen un entorno amistoso."
+      },
+      "CharacterMissing": {
+        "Description": "El personaje que intentaste cargar no está disponible; tal vez ha sido borrado.",
+        "Name": "Personaje no disponible"
+      },
+      "MemberBanned": {
+        "Description": "Este perfil de Destiny ha sido bloqueado en esta aplicación. Esto no es un error.",
+        "Name": "Perfil bloqueado"
+      },
+      "PrivateProgression": {
+        "Description": "Los datos de progreso de tu perfil no están disponibles. Es posible que tu perfil esté configurado como privado en Bungie.net. Puedes cambiar tu configuración de privacidad en Bungie.net o autentificar Braytech con Bungie.net.",
+        "Name": "Perfil privado"
+      }
+    },
+    "GetStarted": "¡Parece que eres nuevo aquí! ¡Puedes empezar pulsando **Autentifícate** e iniciar sesión en Bungie.net o puedes buscar tu nombre de Bungie y cargar tu perfil manualmente!",
+    "NewLight": "Nueva Luz",
+    "NoProfilesFound": "Ningún perfil encontrado",
+    "PreviousSearches": "Búsquedas anteriores",
+    "ReturnToAuthMembership": "Volver a {{displayName}}",
+    "SavedProfile": "Perfil guardado",
+    "SearchForPlayer": "Buscar jugador",
+    "SearchPlaceholder": "introduce NombreDelJugador#1234",
+    "SelectACharacter": "Selecciona un personaje",
+    "TemporaryError": "Se ha producido un error temporal de Bungie."
+  },
+  "Progression": {
+    "Points": "Puntos",
+    "PointsNextRank": "Puntos para siguiente nivel",
+    "PointsTotal": "Puntuación total",
+    "PrestigeNth": "Prestigio {{number}}",
+    "Rank": "Nivel",
+    "RankNth": "Nivel {{number}}",
+    "ResetVendor": "Regresa al comerciante para reiniciar tu rango",
+    "Streak": "Racha",
+    "Title": "Título",
+    "TrialsPassage": {
+      "Flawless": "Impecable",
+      "FlawlessPassage": "Pase impecable",
+      "WeeklyTimesFlawless": "Impecable esta semana",
+      "Wins": "Victorias"
+    }
+  },
+  "Quests": {
+    "Details": {
+      "RelatedMapMode": "Este paso de aventura tiene un nodo relacionado en el mapa, como un artefacto escaneable o una ubicación.",
+      "Steps": "Pasos"
+    },
+    "Info": {
+      "InventoryCapacity": "Capacidad total de aventuras y contratos",
+      "NoBounties": "Los contratos que obtengas aparecerán aquí.",
+      "NoQuests": "Las aventuras que obtengas aparecerán aquí."
+    }
+  },
+  "Search": {
+    "Error": {
+      "MissingDefinitions": "No se ha podido realizar una búsqueda del manifiesto porque no hay definiciones en el índice."
+    },
+    "Examples": {
+      "Description": "description:clovis bray",
+      "Expiration": "expiration:seraph",
+      "Name": "name:mida",
+      "Source": "source:leveling",
+      "Type": "type:scout rifle"
+    },
+    "Placeholder": "introduce nombre o descripción",
+    "Results": {
+      "MatchesAllHidden": "Hay una coincidencia, ¡pero has elegido ocultarla!",
+      "MatchesAllHidden_plural": "Hay {{count}} coincidencias, ¡pero has elegido ocultarlas!",
+      "NoMatches": "Nada coincide con tus términos.",
+      "Top10": "Mostrando los 10 primeros resultados. Pulsa  en cualquier momento para una experiencia de búsqueda completa."
+    },
+    "ShortcutKey": "Pulsa  para activar la búsqueda desde cualquier sitio.",
+    "Suggestions": "La búsqueda admite filtros como prefijos. También puedes buscar por identificador del manifiesto. Por ejemplo, la mejor arma del juego, `564802913`.\n\nLos resultados se priorizan por nombre, fuente y descripción.",
+    "VanguardArchives": "Bienvenido a los archivos de la Vanguardia."
+  },
+  "SeasonPass": {
+    "ProgressPassLevel": "Progreso en el nivel de temporada",
+    "ProgressPowerBonus": "Progreso de la bonificación de poder",
+    "SeasonProgress": "Progreso de temporada",
+    "SeasonProgressDays": "Días"
+  },
+  "Settings": {
+    "Category": {
+      "Advanced": {
+        "Name": "Avanzado"
+      },
+      "Common": {
+        "Name": "General"
+      },
+      "PushNotifications": {
+        "Name": "Notificaciones push"
+      }
+    },
+    "DIMSync": {
+      "Action": {
+        "Disable": {
+          "Description": "Desactiva la sincronización y borra el _token_ de autentificación de la Sincronización DIM almacenado."
+        },
+        "Enable": {
+          "Description": "Activa la sincronización al compartir tu _token_ de autentificación de Bungie.net con Sincronización DIM."
+        }
+      },
+      "Info": "Sincroniza tus ajustes con DIM para las equipaciones."
+    },
+    "Developer": {
+      "ExperimentalFeatures": {
+        "Description": "Empezar a utilizar funciones que aún no han sido debidamente desarrolladas, refinadas o sometidas a un control de calidad.",
+        "Name": "Habilitar las funciones experimentales"
+      },
+      "Maps": {
+        "Debug": {
+          "Description": "Habilita la configuración de depuración de Mapas.",
+          "Name": "Modo depuración de Mapas"
+        },
+        "LogDetails": {
+          "Description": "Detalles de Console.log para el nodo llamado por el ratón.",
+          "Name": "Detalles del registro del nodo"
+        },
+        "Surveyor": {
+          "Description": "Un control de mapas adicional que permite recoger fácil y rápidamente los nodos de los mapas.",
+          "Name": "Usar el inspector"
+        }
+      }
+    },
+    "IDB": {
+      "ClearCache": {
+        "Description": "Borra los recursos en caché, como las imágenes de los mapas. Estos recursos se descargan a medida que se necesitan.",
+        "Name": "Limpiar caché"
+      },
+      "ClearManifest": {
+        "Description": "Borra el manifiesto de Destiny almacenado en este dispositivo. Braytech requiere que el manifiesto funcione y se descargará de nuevo la próxima vez que se inicie la aplicación.",
+        "Name": "Limpiar manifiesto"
+      },
+      "ClearReports": {
+        "Description": "Borra todos los informes de partidas almacenados en este dispositivo.",
+        "Name": "Limpiar informes"
+      },
+      "Usage": {
+        "Description": "Almacenamiento utilizado por el manifiesto de Destiny y los informes de partidas.",
+        "Name": "Uso"
+      }
+    },
+    "Interface": {
+      "AlternateAppIcon": {
+        "Info": "Modifica el aspecto del icono de la aplicación."
+      },
+      "Bindings": {
+        "Info": "Cambia la apariencia de los botones. Esto es por el momento solo un efecto visual."
+      },
+      "FlipSubviewNav": {
+        "Info": "Para los usuarios que quieren ser diferentes y para los usuarios que utilizan Braytech en su dispositivo móvil con la mano derecha.",
+        "Left": "Izquierda",
+        "Right": "Derecha"
+      },
+      "ItemSize": {
+        "Info": "Ajusta el tamaño de los iconos de los elementos del inventario para la mayoría de las funciones de Braytech."
+      }
+    },
+    "ItemVisibility": {
+      "HideCompletedCollectibles": {
+        "Description": "Si se ha adquirido un objeto de la colección, se ocultará en la sección Colecciones.",
+        "Name": "Ocultar objetos de la colección adquiridos"
+      },
+      "HideCompletedRecords": {
+        "Description": "Si un triunfo está completado y canjeado, se ocultará en la sección Triunfos.",
+        "Name": "Ocultar triunfos completos"
+      },
+      "HideDudRecords": {
+        "Description": "Oculta los triunfos inservibles (vacíos o sin usar). Esta es una [lista](/triumphs/dud) elaborada manualmente.",
+        "Name": "Ocultar los triunfos inservibles"
+      },
+      "HideInvisibleCollectibles": {
+        "Description": "Si el juego especifica que no puedes ver un coleccionable en particular, se ocultará en la sección Colecciones.",
+        "Name": "Ocultar elementos invisibles de la colección"
+      },
+      "HideInvisibleRecords": {
+        "Description": "Si el juego especifica que no puedes ver un triunfo en particular, se mostrará como \"secreto\" en la sección Triunfos.",
+        "Name": "Ocultar entradas de triunfos invisibles"
+      },
+      "HideUnobtainableRecords": {
+        "Description": "Oculta los triunfos que no se pueden obtener. Esta es una [lista](/triumphs/unobtainable) elaborada manualmente.",
+        "Name": "Ocultar triunfos no disponibles"
+      }
+    },
+    "LS": {
+      "ResetEverything": {
+        "Description": "Restablece todos los ajustes del usuario, los datos guardados y el historial.",
+        "Name": "Restablecer todo"
+      },
+      "ResetNotifications": {
+        "Description": "Restablece las notificaciones descartadas a su estado por defecto.",
+        "Name": "Restablecer notificaciones"
+      },
+      "ResetProfileHistory": {
+        "Description": "Elimina la lista almacenada de perfiles de miembros cargados anteriormente (búsqueda de perfil).",
+        "Name": "Restablecer el historial del perfil"
+      },
+      "ResetTips": {
+        "Description": "Restablece los consejos informativos a su estado por defecto.",
+        "Name": "Restablecer los consejos"
+      },
+      "ResetTrackedTriumphs": {
+        "Description": "Deja de seguir todos los triunfos del usuario. No afectará al estado de los triunfos dentro del juego.",
+        "Name": "Restablecer los triunfos seguidos"
+      }
+    },
+    "Language": {
+      "Colloquial": {
+        "Description": "Activar el vocabulario aportado por los usuarios en lugar de los textos oficiales.",
+        "Name": "Emplear lenguaje coloquial"
+      }
+    },
+    "Maps": {
+      "Checklists": {
+        "Info": "Alterna la visibilidad de las listas de coleccionables. Mantenlo limpio."
+      },
+      "Developer": {
+        "Info": "Herramientas para ayudar a los desarrolladores cuando trabajen en _Mapas_"
+      },
+      "ItemVisibility": {
+        "HideDiscoveredNodes": {
+          "Description": "Si un nodo ha sido descubierto, se omitirá del mapa a menos que sea seleccionado.",
+          "Name": "Ocultar los nodos descubiertos"
+        },
+        "HidePatrols": {
+          "Description": "Oculta todas las balizas de patrulla.",
+          "Name": "Ocultar patrullas"
+        }
+      },
+      "Visual": {
+        "Atmosphere": {
+          "Description": "Muestra condiciones meteorológicas como la nubosidad.",
+          "Name": "Atmósfera"
+        }
+      },
+      "VisualFidelity": {
+        "Info": "Altera la cantidad de florituras visuales"
+      }
+    },
+    "Profile": {
+      "Info": "Braytech facilita la visualización de muchos perfiles de jugadores a la vez, pero recuerda el último perfil que seleccionaste desde [Búsqueda de perfil](/profile-search).",
+      "NoProfileSelected": "Selecciona un perfil"
+    },
+    "PushNotifications": {
+      "BraveBrowser": "Parece que utilizas un navegador ridículo, Brave: asegúrate de que la opción \"Utilizar los servicios de Google para la mensajería push\" está activada en la configuración de tu navegador.",
+      "Condition": {
+        "AnyActivity": "Cualquier actividad",
+        "AnyMod": "Cualquier modificador",
+        "AnyReward": "Cualquier recompensa",
+        "AnySale": "Cualquier oferta",
+        "AnyShader": "Cualquier shader",
+        "Multiple": "Múltiple",
+        "Uncollected": "No conseguido"
+      },
+      "Conditions": "Condiciones",
+      "Configure": "Configura las notificaciones push",
+      "Event": "Evento",
+      "Frequency": "Frecuencia",
+      "Incompatible": "Tu navegador aún no es compatible con las notificaciones _push_.",
+      "Info": "Las notificaciones _push_ utilizan las APIs del navegador y del sistema operativo para enviarte notificaciones incluso cuando no estás usando la aplicación.\n\nSi quieres que Braytech te envíe notificaciones, puedes controlar si, cuándo y por qué, aquí.",
+      "NoServiceWorker": "Todavía no se ha instalado un _service worker_. Prueba a recargar Braytech.",
+      "PermissionDenied": "Tu navegador dice que has denegado el permiso para enviar notificaciones. Tendrás que habilitarlas o restablecerlas manualmente antes de poder continuar.",
+      "PreviewNotifications": {
+        "Description": "Envía inmediatamente las notificaciones habilitadas.",
+        "Name": "Probar las notificaciones"
+      },
+      "ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
+      "Users": "Usuarios"
+    },
+    "ReloadRequired": {
+      "Description": "Selecciona recargar la aplicación para activar los cambios inmediatamente.",
+      "Name": "Se necesita recargar"
+    },
+    "Reports": {
+      "Info": "Una vez descargados, los informes se guardan en el dispositivo para poder acceder a ellos rápidamente. Todos los informes se asocian con el miembro que los visualizó originalmente. Puedes borrarlos aquí, miembro por miembro. Si has descargado muchos informes, es posible que quieras borrarlos para minimizar el tiempo de carga inicial.",
+      "NoReports": "No hay informes almacenados en este dispositivo.",
+      "ReportsCount": "Cantidad",
+      "ReportsMember": "Miembro"
+    },
+    "Search": {
+      "HideFeatureSuggestions": {
+        "Description": "Paciencia, sé lo que me hago.",
+        "Name": "Ocultar sugerencias de funciones"
+      },
+      "ItemVisibilityOverride": {
+        "Description": "Utiliza este ajuste para anular los ajustes globales de visibilidad de elementos para triunfos y coleccionables.",
+        "Name": "Mostrar completados y adquiridos"
+      }
+    },
+    "SubCategory": {
+      "Authentication": "Autentificación",
+      "DIMSync": "Sincronización de DIM",
+      "Developer": "Desarrollador",
+      "IDB": "Almacenamiento de la base de datos",
+      "Interface": {
+        "AlternateAppIcon": "Icono de la aplicación",
+        "Bindings": "Botones",
+        "FlipSubviewNav": "Alternar navegación de la sección",
+        "ItemSize": "Tamaño del objeto de inventario"
+      },
+      "ItemVisibility": "Visibilidad de elementos",
+      "LS": "Datos locales",
+      "Language": "Idioma",
+      "Reports": "Almacenamiento de informes",
+      "SavedProfile": "Perfil guardado",
+      "Search": "Búsqueda",
+      "Synchronisation": "Sincronización",
+      "System": "Sistema",
+      "Theme": "Tema",
+      "Troubleshooting": "Resolución de problemas",
+      "VisualFidelity": "Fidelidad visual"
+    },
+    "Sync": {
+      "Action": {
+        "DeleteSyncedSettings": {
+          "Description": "Desactiva la sincronización y borra los ajustes almacenados con Voluspa.",
+          "Name": "Borrar config. sincronizada"
+        },
+        "DownloadSyncedSettings": {
+          "Description": "Descarga la configuración sincronizada inmediatamente, sobrescribiendo la configuración actual.",
+          "Name": "Descargar config. sincronizada"
+        },
+        "Enable": {
+          "Description": "Habilita la sincronización y sincroniza regularmente con Voluspa."
+        }
+      },
+      "Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
+      "RequirementsNotMet": "La sincronización requiere que primero autentifiques Braytech con Bungie.net.",
+      "State": {
+        "Merged": "Última fusión hace {{duration}}",
+        "Synced": "Última sincronización hace {{duration}}"
+      }
+    },
+    "System": {
+      "PromptForMinorVersions": {
+        "Description": "Notifícame que actualice incluso para versiones menores.",
+        "Name": "Actualizaciones de versiones menores"
+      },
+      "ReloadAppAutomatically": {
+        "Description": "Cuando una actualización de Braytech esté lista, recargará la aplicación automáticamente independientemente de lo que estés haciendo.",
+        "Name": "Recargar la aplicación automáticamente"
+      }
+    },
+    "Theme": {
+      "Black": {
+        "Name": "Negro"
+      },
+      "Dark": {
+        "Name": "Oscuro"
+      },
+      "Light": {
+        "Name": "Claro"
+      },
+      "SystemPreference": {
+        "Name": {
+          "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
+        }
+      }
+    },
+    "Troubleshooting": {
+      "DumpServiceWorker": {
+        "Description": "Intenta dar de baja al service worker instalado. Si tiene éxito, recargar la aplicación permitirá que un nuevo service worker ocupe su lugar.",
+        "Name": "Verter service worker"
+      },
+      "UpdateServiceWorker": {
+        "Description": "Intenta actualizar el service worker inmediatamente. Esta función desactivará el botón temporalmente. Puedes continuar usando Braytech mientras intenta actualizar en segundo plano. Si tiene éxito, se te pedirá que reinicies la aplicación.",
+        "Name": "Actualizar service worker"
+      }
+    },
+    "VisualFidelity": {
+      "Gay": {
+        "Description": "Saca tu reinona, mari. ¡Ilumina tu vida con una fabulosa y rompedora innovación tecnológica, exclusiva de Braytech®, de edición limitada!",
+        "Name": "Habilitar ✨"
+      },
+      "ReducedMotion": {
+        "Description": "Reduce el movimiento de la interfaz de usuario, concretamente desactivando varias animaciones. Reduce el uso de la CPU.",
+        "Name": "Reducir movimiento"
+      }
+    }
+  },
+  "SyncService": {
+    "Delete": {
+      "Failure": {
+        "Description": "Tus ajustes no pueden ser borrados en este momento. Esto es un fallo temporal."
+      },
+      "Success": {
+        "Description": "Tus ajustes han sido borrados. La sincronización está ahora desactivada."
+      }
+    },
+    "Merge": {
+      "Failure": {
+        "Description": "Al tratar de fusionar tus ajustes, se produjo un error. Es un fallo temporal."
+      },
+      "Success": {
+        "Description": "Tus ajustes se han fusionado."
+      }
+    },
+    "Sync": {
+      "Failure": {
+        "Description": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal."
+      },
+      "Success": {
+        "Description": "Tus ajustes se han sincronizado."
+      }
+    }
+  },
+  "Tooltip": {
+    "Actions": {
+      "Acquire": "Adquirir",
+      "Compare": "Comparar",
+      "Equip": "Equipar",
+      "Favourite": "Añadir a favoritos",
+      "Garbage": "Basura",
+      "Inspect": "Detalles",
+      "Lock": "Bloquear",
+      "NotGarbage": "No es basura",
+      "Select": "Seleccionar",
+      "Store": "Transferir",
+      "Unfavourite": "Quitar de favoritos",
+      "Unlock": "Desbloquear",
+      "Vault": "Al depósito"
+    },
+    "Item": {
+      "ExpiresIn": "Caduca en {{duration}}.",
+      "NoDescription": "No hay descripción disponible.",
+      "Quantity": "Cantidad",
+      "QuantityMax": "Cantidad máxima"
+    },
+    "Items": {
+      "StatTotal": "Total"
+    },
+    "Maps": {
+      "Availability": "Disponible: cada {{period}}",
+      "UntrackableChecklistItem": "Lista de coleccionables no rastreable"
+    }
+  },
+  "Triumphs": {
+    "AllCompleted": "Todo completado",
+    "AlmostComplete": {
+      "NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
+      "SeeNext": "Ver los siguientes {{number}}"
+    },
+    "AlmostCompleteTriumphs": "Casi completado",
+    "Classified": {
+      "Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",
+      "Name": "Triunfo clasificado"
+    },
+    "Details": {
+      "Completed": "Completado",
+      "FireteamLoading": "Cargando miembros de la escuadra",
+      "NoClanOrFireteam": "¡Únete a una escuadra o a un clan para comparar a tus compañeros Guardianes contigo!",
+      "NotCompleted": "No completado",
+      "OpenView": "Abrir vista detallada"
+    },
+    "DudTriumphs": "Inservibles",
+    "EventCard": "Tarjeta de evento",
+    "LegacySeal_plural": "Sellos antiguos",
+    "LegacyTriumph_plural": "Triunfos antiguos",
+    "LegacyTriumphs": {
+      "Description": "Triunfos del pasado que ya no se pueden obtener, pero están conservados aquí para la posteridad y puedan ser revisados."
+    },
+    "Lore": {
+      "SelectEntry": "Selecciona una página para leer."
+    },
+    "Record": {
+      "Commonality": {
+        "Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este triunfo."
+      },
+      "Expiration": {
+        "Description": "Es posible que este triunfo ya no se pueda obtener una vez que haya caducado."
+      },
+      "Expires": "Caduca al final de la Temporada {{season}}",
+      "IntervalFraction": "{{numerator}} de {{denominator}}",
+      "Score": {
+        "Description": "El valor de la puntuación final de este triunfo."
+      },
+      "ScoreInterval": {
+        "Description": "El valor de la puntuación del paso actual sobre el valor total del triunfo."
+      }
+    },
+    "RecordsRedeemed": "Has canjeado todos estos triunfos y has elegido ocultarlos.",
+    "RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
+    "Seal": "Sello",
+    "SealTitleSeasonSuffix": "{{title}} (Temporada {{season}})",
+    "Seal_plural": "Sellos",
+    "Seals": {
+      "AvailableTitle": "Título disponible: **{{title}}**",
+      "Commonality": {
+        "Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este título.",
+        "Name": "Rareza del sello"
+      },
+      "CommonalityGilded": {
+        "Description": "Porcentaje de jugadores indizados por Voluspa que han adquirido y dorado este título.",
+        "Name": "Rareza del sello dorado"
+      },
+      "PlayerTitle": "Título de jugador: **{{title}}**",
+      "SealCompleted": "Sello completado",
+      "SealGilded": "Sello dorado",
+      "SealGildedProgress": "Progreso de sellos dorados",
+      "SealProgress": "Progreso de sellos"
+    },
+    "Secret": {
+      "Description": "Un misterio que aún no has resuelto.",
+      "Name": "Triunfo secreto"
+    },
+    "Sorted": {
+      "Completion": "Ordenado por finalización",
+      "Name": "Ordenado por **nombre**",
+      "Rarity": "Ordenado por rareza",
+      "Score": "Ordenado por puntuación",
+      "Unsorted": "Ordenado por Bungie"
+    },
+    "Tracked": {
+      "NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",
+      "SeeAll": "Ver todos los seguidos"
+    },
+    "TrackedTriumphs": "Triunfos seguidos",
+    "Triumph_plural": "Triunfos",
+    "UnobtainableTriumphs": "No disponibles",
+    "Unredeemed": {
+      "Info": "Regocíjate en tus logros y canjea estos triunfos.",
+      "InfoWithScoreValue": "Canjea estos triunfos y aumenta tu puntuación de triunfos en {{value}} puntos.",
+      "Number": "{{number}} triunfos sin canjear"
+    },
+    "UnredeemedTriumphs": "Triunfos sin canjear"
+  },
+  "Upsell": {
+    "Auth": {
+      "Description": "¿Quieres ver tus objetivos y otros datos de tu progreso? Autentifícate con Bungie.net y permite a Braytech leer de forma segura los datos de tu perfil."
+    },
+    "Patreon": {
+      "Description": "Todos odiamos los anuncios. Son feos. Son molestos. Recogen tus datos y los venden a terceros.\n\nAyuda a mantenerlos lejos de Braytech apoyando la aplicación a través de Patreon. No importa si lo haces una sola vez o si te comprometes de forma habitual, ¡pues hasta el último dólar ayuda!",
+      "Name": "Mantén Braytech libre de anuncios",
+      "RewardResearcher": "Los mecenas de nivel Investigador/a desbloquean esta insignia de Clovis Bray.",
+      "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
+      "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech."
+    },
+    "Profile": {
+      "Action": "Elige tu personaje",
+      "Description": "¿Quieres ver el progreso de tus objetivos, los triunfos canjeados, los coleccionables descubiertos y mucho más? Carga tu perfil y selecciona tu personaje."
+    }
+  },
+  "Vendor": {
+    "FailureStrings": {
+      "NoFunds": "No hay suficientes materiales",
+      "NoInventorySpace": "No hay espacio suficiente",
+      "UniquenessViolation": "Solo puedes tener uno a la vez"
+    }
+  },
+  "Voluspa": {
+    "AdjustGraph": {
+      "Description": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} han sido evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} han descubierto este coleccionable.",
+      "Description_record": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} han sido evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} han completado este triunfo.",
+      "Name": "Ajustar gráfico"
+    },
+    "CollectedBy": "{{number}} jugadores han conseguido esto.",
+    "Commonality": "Rareza",
+    "CompletedBy": "{{number}} jugadores han completado esto.",
+    "Crawled": "{{number}} jugadores están indizados por Voluspa.",
+    "GraphType": {
+      "Frequency": "Frecuencia",
+      "TimeSeries": "Series cronológicas"
+    },
+    "LastCrawled": "indizado por última vez {{time}}",
+    "ProfilesAssessed": "Perfiles evaluados"
+  },
+  "Weeklies": {
+    "Challenges": {
+      "ActivityBonus": "Bonificaciones de actividad",
+      "ArtifactPower": {
+        "Description": "Una bonificación a tu nivel de Luz, canalizada por tu artefacto de temporada equipado gracias a la experiencia adquirida.",
+        "Name": "Bonificación de Poder del artefacto"
+      },
+      "ArtifactPowerBonus": "Bonificación de Poder",
+      "GearPower": {
+        "Description": "El nivel de Poder medio de tu armamento actualmente equipado.",
+        "Name": "Poder del equipamiento"
+      },
+      "NoChallenges": "Parece que tu Guardián pulverizó todos los desafíos disponibles esta semana.",
+      "Power": {
+        "Description": "Tu nivel de Luz es el total de los valores de Poder de todo tu equipamiento actual. Un mayor nivel de Luz mejora el daño que causas y tu defensa.",
+        "Name": "Luz"
+      },
+      "SeasonalChallenges": {
+        "Available": "{{number}} desafíos de temporada disponibles",
+        "Description": "Completa los desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas.",
+        "Name": "Desafíos de temporada"
+      },
+      "Type": {
+        "Bounties": "Contratos",
+        "Crucible": "Crisol",
+        "Dungeon": "Mazmorra",
+        "Exotic": "Excepcional",
+        "Expansion": "Expansión",
+        "Gambit": "Gambito",
+        "Raid": "Incursión",
+        "Seasonal": "De temporada",
+        "Strikes": "Asaltos"
+      }
+    },
+    "Rotations": {
+      "Description": "Rituales que transcurren en rotaciones; utiliza estas proyecciones para planificar tus cometidos. En ocasiones, los Arquitectos modifican las rotaciones y esta sección se ajustará a ello.",
+      "Name": "Rotaciones"
+    }
+  }
 }

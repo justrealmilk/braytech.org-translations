@@ -1,877 +1,1464 @@
 {
-  "Action.Accept": "接受",
-  "Action.AddBookmark": "添加書簽",
-  "Action.AddEvent": "添加活動",
-  "Action.AllClasses": "所有類",
-  "Action.Back": "返回",
-  "Action.BecomeAPatron": "成為眾籌用戶",
-  "Action.Browse": "🦘 Browse",
-  "Action.Cancel": "取消",
-  "Action.Close": "關閉",
-  "Action.Collapse": "崩潰",
-  "Action.Confirm": "確認",
-  "Action.Customise": "定制",
-  "Action.Delete": "刪除",
-  "Action.Disable": "關閉",
-  "Action.Dismiss": "取消",
-  "Action.Done": "完成",
-  "Action.Enable": "啓用",
-  "Action.Expand": "擴展",
-  "Action.GatherInVault": "移入保險庫",
-  "Action.GoToBNet": "轉到Bungie.net",
-  "Action.GoToMaps": "轉到地圖",
-  "Action.GoToTwitter": "轉到Twitter",
-  "Action.HideAcquired": "隱藏已獲得項",
-  "Action.HideCollectionsRolls": "隱藏可能的特性組合",
-  "Action.HideCompleted": "隱藏已完成項",
-  "Action.HideDiscovered": "隱藏已發現項",
-  "Action.HideHiddenStats": "高級選項",
-  "Action.HideRedeemed": "隱藏已兌換項",
-  "Action.Jump": "跳轉到",
-  "Action.Lock": "鎖定",
-  "Action.MemberRemove": "移除成員",
-  "Action.NextNth": "下 {{number}}",
-  "Action.Now": "當前頁",
-  "Action.Open": "打開",
-  "Action.Previous": "前往",
-  "Action.PullPostmaster": "從郵政官處取回物品",
-  "Action.ReloadApp": "重新載入Braytech",
-  "Action.ReloadAppAutomatically": "自動重新載入應用",
-  "Action.RemoveBookmark": "移除書簽",
-  "Action.Reset": "重置",
-  "Action.SelectDate": "選擇一組日期",
-  "Action.SelectFilters": "篩選",
-  "Action.SelectMasterwork": "選擇大師之作",
-  "Action.Set": "設定",
-  "Action.Share": "分享",
-  "Action.ShowAll": "展示所有",
-  "Action.ShowCollectionsRolls": "顯示可能的特性組合",
-  "Action.ShowHiddenStats": "基本狀態",
-  "Action.TryAgain": "🦘 Try Again",
-  "Action.Unlock": "解鎖",
-  "Action.UserReady": "開始旅程吧！",
-  "Action.ViewHistoricalData": "查看歷史數據",
-  "Action.ViewMore": "🦘 View More",
-  "Activity.ActiveRotator": "主動輪換",
-  "Activity.ApproximateLength": "大致長度",
-  "Activity.Carnage.SelectDate.Info": "選擇一組數據",
-  "Activity.Carnage.SelectDate.Waiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄",
-  "Activity.Cooperative": "合作",
-  "Activity.Fireteam.Closed": "火力戰隊關閉",
-  "Activity.Fireteam.Full": "火力戰隊滿員",
-  "Activity.Fireteam.MatchLoading": "匹配中",
-  "Activity.Fireteam.Matchmaking": "匹配",
-  "Activity.Fireteam.Open": "火力戰隊開放",
-  "Activity.Fireteam.SinglePlayer": "單人活動",
-  "Activity.FreeForAll": "對所有人免費",
-  "Activity.Graphs.SelectDate": "從上圖中選擇一個有活動的日期",
-  "Activity.LevelAdvantagesDisabled": "關閉等級優勢",
-  "Activity.LevelAdvantagesEnabled": "啓用等級優勢",
-  "Activity.Matchmaking": "匹配中",
-  "Activity.MaxParty": " {{number}} 玩家",
-  "Activity.Modes.Bar.PvPLoss": "勝利",
-  "Activity.Modes.Bar.PvPWin": "失敗",
-  "Activity.Modes.Last100.PvE": "最近的100場活動",
-  "Activity.Modes.Last100.PvP": "最近的100場比賽",
-  "Activity.Modes.Lifetime": "生涯",
-  "Activity.Modes.Line.AverageKD": "平均K/D",
-  "Activity.Modes.Scatter.PvEFailure": "失敗",
-  "Activity.Modes.Scatter.PvEFlawless": "無暇",
-  "Activity.Modes.Scatter.PvPFlawless": "無暇",
-  "Activity.Modes.Scatter.PvPLoss": "輸",
-  "Activity.Modes.Scatter.PvPWin": "贏",
-  "Activity.Modes.TrialsPassage": "試煉入場券",
-  "Activity.ModifiersUnavailable": "修飾系統暫時不可用",
-  "Activity.NoMedalsAwarded": "未取得印章",
-  "Activity.NoStatsAvailable": "沒有可用的統計信息",
-  "Activity.PvP": "玩家對戰",
-  "Activity.RecommendedLight": "推薦光等",
-  "Activity.Score.Team": "團隊得分",
-  "Activity.SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
-  "Activity.SelectModeInfo": "要查看特定的活動，請從上方的界面処懸著一個模式",
-  "Activity.SinglePlayer": "單人",
-  "Activity.Standing.Defeat": "擊敗",
-  "Activity.Standing.DidNotFinish": "玩家未完成",
-  "Activity.Standing.Mercy": "慈悲",
-  "Activity.Standing.Tie": "平手",
-  "Activity.Standing.Victory": "勝利",
-  "Activity.State.ActivityHistoryError": "嘗試加載活動歷史記錄時出錯.請再試一次.",
-  "Activity.State.DownloadingReports": "正在下載報告",
-  "Activity.State.DownloadingReportsProgressValue": "正在從Bungie.net收集火力戰隊數據，所需時間取決於你的網路和請求的數據量",
-  "Activity.State.GenericError": "出了些問題.請再試一次.",
-  "Activity.State.HydratingReportsCache": "報告數據正在從存儲設備中載入",
-  "Activity.State.LoadGroupMembers": "正在分析公會與活動歷史",
-  "Activity.State.LoadingPeriod": "掃描中...... {{date}}",
-  "Activity.State.NoBookmarks": "你還沒有添加書簽\n\n你可以通過 _Settings_ 來同步你的書簽.",
-  "Activity.State.NoHistoryAvailable": "尋找一隻火力戰隊並擊敗旅行者的敵人",
-  "Activity.State.PeriodNotFound": "請求的階段未能在用戶數據中找到",
-  "Activity.State.RequestHistory": "分析活動歷史",
-  "Activity.State.RequestHistoryPage": "檢索活動歷史量 {{page}}",
-  "Activity.Team.Allies": "我方隊伍",
-  "Activity.Team.Alpha": "第一小隊",
-  "Activity.Team.Bravo": "第二小隊",
-  "Activity.Team.Opposition": "敵方隊伍",
-  "Addendums.Credits.Origins.Description": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情.",
-  "Addendums.Privacy.Info": "長話短説，Braytech 不使用 cookie 或任何其他機制來跟踪您，也不會將您定位為廣告目的（我的意思是，Braytech 沒有任何廣告）。\n\n如果您對本通知有任何疑問，請隨時跳到 [Discord]（https://discord.bray.tech）。",
-  "Addendums.Privacy.Policy": "1.簡介\n    1.出於所有目的，本隱私政策的此英文版本應為雙方的原始，管理文書和理解。如果本隱私政策的英文版本與任何後續翻譯成任何其他語言之間存在任何衝突，則此英文版本應予以管轄和控制。.Braytech 是一個免費的粉絲製作的服務命運 2，視頻遊戲。本隱私政策說明了此應用程序如何使用您的數據。.Braytech 不斷改進，開發人員可能會不時修改本隱私政策，以反映其隱私慣例的變化。我們鼓勵您定期查看本隱私政策，並查看隱私政策末尾的日期以獲取最新版本。.在這裡，「開發商」是指湯姆·查普曼。.開發人員收集的信息\n    1.您提供的資料\n        1.您平台專屬的個人檔案名稱會用來載入並顯示您的天命個人檔案。絕不會收集或使用您的私人憑據。.Braytech 的顧客也可以選擇提供他們的電子郵件地址，以便將其天命個人資料與 Patreon 帳戶建立關聯，以便獲得他們 Patreon 承諾的適當風格。.開發人員自動收集的信息\n        1.有關您使用所提供服務的資料可能包括您的 IP 位址、地理位置、瀏覽器名稱和版本、作業系統、轉介來源、造訪時間長度、頁面瀏覽次數和網站導覽路徑，以及有關服務使用時間、頻率和模式的資訊。.我們如何使用您的個人資料\n    1.天命與邦吉帳號資訊\n        1.為了顯示和操作《天命》遊戲資訊，Braytech 使用 Bungie.net API。Braytech 唯一收到或可以存取的資訊是您的遊戲資訊（物品、角色等）和基本帳號資訊，包括您的 Bungie.net 會員 ID，以及任何連結服務的識別碼，例如您的公開 PSN、Xbox Live、Steam、Stadia、暴雪或 Bungie.net 使用者名稱。開發者無法訪問您的電子郵件，姓名，地址，付款信息或 Bungie 或遊戲平台持有的任何其他個人信息。.Bungie.net 應用程式介面的使用受本網站的 [使用條款] (https://www.bungie.net/7/en/Legal/Terms) 及 [隱私權政策] (https://www.bungie.net/7/en/Legal/PrivacyPolicy) 所規範。.帕特雷翁\n        1.您（用戶）為了將您的天命個人資料與您的 Patreon 帳戶關聯而提供的數據僅用於此事實，並通過 Voluspa 安全存儲。.使用情況數據\n        1.此使用數據可能會被處理用於分析網站和服務的使用情況。此處理的法律依據是您的同意或我們的合法利益，即監控和改善我們的網站和服務。.布雷科技設置同步\n        1.Voluspa 啟用了 Braytech 功能，該功能允許您（用戶）存儲您的數據（Braytech 設置）並在 Braytech 的實例之間同步。只有您和開發人員才能存取此資訊。\n\n最後更新於二零二一年五月十九日，星期三。",
-  "App.BungieError": "Bungie 發生錯誤",
-  "App.CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-  "App.CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
-  "App.ErrorBoundary.Discord": "Braytech 發生了致命錯誤，如幫助無法解決您的問題請加入[Discord](https://discord.bray.tech)獲得支持",
-  "App.ErrorBoundary.Version": "請在報告錯誤的時候帶上下面的文字",
-  "App.FriendlyError.Description": "請暫時不要告知指揮官薩瓦拉.....暫時不要",
-  "App.FriendlyError.Name": "請原諒我們出現的一些....小錯誤",
-  "App.NetworkError.Description": "發生一個網絡錯誤，這可能是一個臨時錯誤嘗試重新載入來解決問題",
-  "App.NetworkError.Name": "網路錯誤",
-  "App.ServiceWorkerInstalling.Description": "正在後臺安裝更新",
-  "App.ServiceWorkerReload.Description": "Braytech的更新檔可用請選擇“重新加載”以使用最新版本，請檢查索引中的更新檔日志來獲得更新檔的詳細信息.",
-  "App.ServiceWorkerReload.Name": "可用的更新檔",
-  "App.UnknownError": "未知錯誤",
-  "App.UnsupportedBrowser.Description": "Braytech需要現代化的瀏覽器來運作，運行Barytech的瀏覽器最低要求最近一年有過更新記錄。所以，當你遇到了本提示，是時候該換個新的瀏覽器了守護者。\n\n推薦使用基於Chromium的瀏覽器，例如 Microsoft Edge",
-  "App.UnsupportedBrowser.Name": "瀏覽器不支持",
-  "App.Version": "版本",
-  "Archives.Grimoire.Description": "古老的傳説故事《Destiny 1》的魔典卡牌歸檔並展示在這裏",
-  "Archives.Grimoire.Name": "背景故事",
-  "Archives.Guides.VowOfTheDisciple.Description": "有關於門徒之誓突襲的信息呈現于此",
-  "Archives.Guides.VowOfTheDisciple.Name": "門徒之誓",
-  "Auth.Data.Action": "清除授權",
-  "Auth.Data.Description": "清除設備上存儲的授權數據.必要時使用該功能可以讓妳淡定下來.",
-  "Auth.Data.Name": "授權數據",
-  "Auth.Error.NoAuth.Description": "請向 Bungie 同意以使用該功能.若如此做, 妳的個人信息不會向我們分享, 我們僅獲取妳的授權碼以便與更多 API 接口交互.",
-  "Auth.Error.NoAuth.Name": "需要身份驗證",
-  "Auth.Error.Permissions.Profile.Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
-  "Auth.Error.Permissions.Profile.Name": "Oh, honey... Honnnnneyyyy",
-  "Auth.Friends.Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
-  "Auth.Login": "登錄到 Bungie.net",
-  "Auth.Memberships.Description": "當前有多個成員與妳的 Bungie.net 檔案關聯.",
-  "Auth.Memberships.Name": "相關成員",
-  "Auth.PatreonAssociation.Description": "將本 Bungie.net 賬戶與壹個Patreon 賬戶連結",
-  "Auth.PatreonAssociation.Name": "連結 Patreon 賬戶",
-  "Auth.PatreonAssociation.Placeholder": "chonky_zuzuvala69@hotmail.reef",
-  "Auth.PatreonAssociation.Success": "感謝！你的電子郵件現在與你的個人資料關聯",
-  "Auth.PatreonAssociation.Text": "某些Patreon等級包括 _flair_ 形式的獎勵該獎品會顯示在玩家姓名的側面\n\n請輸入與Patreon綁定的郵箱來獲得相關權益",
-  "Auth.Suggestion.Subtle": "登錄到Bungie.net以解鎖更多内容",
-  "Auth.Suggestion.Text": "Braytech的大部分功能對所有用戶可用, 並且依賴於公開數據, 而 Destiny 的壹些功能需要訪問權限, 您可以通過登錄 Bungie.net 進行身份驗證來授權 Braytech",
-  "Character.Breakdown.EffectiveMods": "生效中的模組",
-  "Character.Breakdown.SlottedMods": "已裝備的模組",
-  "Character.Breakdown.UnusedEnergy": "尚未使用的能量",
-  "Character.Compare.ObtainFromVendor": "從{{name}}獲得",
-  "Character.DIMSync.Description": "此功能需要 DIM Sync 才能運行.在設置中啟用同步.",
-  "Character.DIMSync.Name": "DIM 同步",
-  "Character.DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
-  "Character.Equipment.Armor": "護甲",
-  "Character.Equipment.Auxiliary": "雜項",
-  "Character.Equipment.Breakdown": "總覽",
-  "Character.Equipment.Weapons": "武器",
-  "Character.Filter.ArcDamage": "🦘 Arc Damage",
-  "Character.Filter.DeepsightResonance": "深视",
-  "Character.Filter.Favourite": "喜愛的裝備",
-  "Character.Filter.Garbage": "垃圾裝備",
-  "Character.Filter.KineticDamage": "🦘 Kinetic Damage",
-  "Character.Filter.Shaped": "鍛造武器",
-  "Character.Filter.SolarDamage": "🦘 Solar Damage",
-  "Character.Filter.StasisDamage": "🦘 Stasis Damage",
-  "Character.Filter.StrandDamage": "🦘 Strand Damage",
-  "Character.Filter.VoidDamage": "🦘 Void Damage",
-  "Character.Vendors.BrightDustItems": "明亮之塵物品",
-  "Character.Vendors.CrossSaveSilver": "你的銀幣餘額只能通過對應的平臺登錄時才能正確查詢",
-  "Character.Vendors.EververseCalendar": "永恆之詩商店日曆",
-  "Character.Vendors.FeaturedBrightDustItems": "精選明亮之塵物品",
-  "Character.Vendors.FeaturedSilverItems": "精選銀幣物品",
-  "Character.Vendors.ShowAllItems": "所有物品",
-  "Character.Vendors.ShowSilverOnlyItems": "只顯示銀幣售賣物品",
-  "Character.Vendors.SilverOnlyItems": "銀幣售賣物品",
-  "Clan.Administration.ViewportWidth": "公會管理模式適用於更大的顯示器，請保證您的顯示器大於1500px",
-  "Clan.BannerPerks": "旗幟特性",
-  "Clan.ClanAdministration": "管理員",
-  "Clan.ClanBannerBuilder.BannerColor": "旗幟顏色",
-  "Clan.ClanBannerBuilder.BannerDetail": "旗幟細節",
-  "Clan.ClanBannerBuilder.BannerDetailColor": "旗幟細節顏色",
-  "Clan.ClanBannerBuilder.BannerEmblem": "旗幟名片",
-  "Clan.ClanBannerBuilder.Description": "與公會成員壹起合作完成新的公會旗幟.選擇不同的選項會立即更新頁面鏈接, 使旗幟改動的分享更簡單.",
-  "Clan.ClanBannerBuilder.EmblemBackgroundColor": "名片背景色",
-  "Clan.ClanBannerBuilder.EmblemForegroundColor": "名片前景色",
-  "Clan.ClanBannerBuilder.Name": "公會旗幟生成器",
-  "Clan.ClanRoster": "名冊",
-  "Clan.ClanTimetable": "時間安排",
-  "Clan.Founded": "成立時間 {{time}}",
-  "Clan.HistoricalStats.ViewportWidth": "歷史信息統計應該在較大的顯示器上使用，請保證最少為`1024px`.",
-  "Clan.HistoricalStatsLoading": "載入歷史統計",
-  "Clan.Members": "{{number}} 成員",
-  "Clan.MembersLoading": "载入{{name}} 成员",
-  "Clan.NoClan.Description": "公會是一個可選的朋友相關的組織，可以提高您的在綫游戲體驗，來活動一些額外的獎勵，您可以在[Bungie.net](https://bungie.net/)來創建您的公會或者加入公會來結識新朋友.",
-  "Clan.NoClan.Name": "沒有公會相關關係",
-  "Clan.Relationships.BestFriends": "好朋友",
-  "Clan.Relationships.Description": "發現錯失的機會與愛人，這些守護者是跟你一起參加活動最多的人彼此珍惜。\n\n這些守護者是你的公會成員，此排名每個賽季都會重置",
-  "Clan.Relationships.Name": "關係",
-  "Clan.Relationships.NoFriends": "你並不孤單！你遲早會找到朋友的....邀請你的公會夥伴一起做些活動吧！",
-  "Clan.Relationships.NoParters": "約會很容易嗎？沒聼説過，繼續回歸戰鬥吧，守護者！",
-  "Clan.Relationships.Options.LimitCurrentSeason.Description": "🦘 Only load activities from the current season.",
-  "Clan.Relationships.Options.LimitCurrentSeason.Name": "🦘 Current Season",
-  "Clan.Relationships.Options.LimitGroupMembers.Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-  "Clan.Relationships.Options.LimitGroupMembers.Name": "🦘 Clan Members",
-  "Clan.Relationships.RomanticPartnerships": "浪漫關係",
-  "Clan.Relationships.SocialButterfly": "你真是個交際花！你在本賽季已經跟所有的人都玩過了",
-  "Clan.Relationships.TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-  "Clan.Relationships.TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-  "Clan.Relationships.UndiscoveredFriends": "未能發現的朋友",
-  "Clan.RewardEngrams": "公會獎勵記憶水晶",
-  "Clan.Roster.Approve": "批准",
-  "Clan.Roster.Ban": "封禁",
-  "Clan.Roster.Demote": "降級",
-  "Clan.Roster.Deny": "拒絕",
-  "Clan.Roster.DisplayName": "顯示名稱",
-  "Clan.Roster.DownloadData": "下載數據",
-  "Clan.Roster.Glory": "榮耀點數",
-  "Clan.Roster.Infamy": "惡行點數（含重置）",
-  "Clan.Roster.Joined": "加入",
-  "Clan.Roster.Kick": "踢出",
-  "Clan.Roster.LastActivity": "上次活動",
-  "Clan.Roster.LastCharacter": "上次選擇的角色",
-  "Clan.Roster.LastPlatform": "平臺",
-  "Clan.Roster.Promote": "提升",
-  "Clan.Roster.Rank": "等級",
-  "Clan.Roster.Valor": "英勇點數（含重置）",
-  "Clan.Roster.WeeklyClanXP": "每周公會經驗",
-  "Collections.AllAcquired": "已獲得所有",
-  "Collections.Badge": "印章",
-  "Collections.Badge_plural": "印章",
-  "Collections.Badges.Commonality.Description": "印章持有率代表了 Voluspa 跟蹤玩家的獲取百分比",
-  "Collections.Badges.Commonality.Name": "印章持有率",
-  "Collections.Badges.Completed": "已完成印章",
-  "Collections.Badges.Progress": "進行中印章",
-  "Collections.CollectedBy": "收集",
-  "Collections.Collectible.Commonality": "收藏品的稀有性代表了 Voluspa 跟蹤玩家的收录百分比",
-  "Collections.CollectiblesAcquired": "你已經收集了所有的可收藏品，選中並隱藏他們",
-  "Collections.CollectiblesUnavailable": "暫無可供展示的收藏品",
-  "Collections.Grouped.Season": "按賽季分組",
-  "Collections.Grouped.Ungroup": "不分組",
-  "Collections.RecentlyDiscovered": "最近發現的",
-  "Collections.SetComplete": "集合完畢",
-  "Collections.SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
-  "Commendations.Received": "🦘 Received",
-  "Commendations.ReceivedAbr": "🦘 Recvd.",
-  "Commendations.Sent": "🦘 Sent",
-  "Commendations.SentAbr": "🦘 Sent",
-  "Common.Acknowledgements": "致謝",
-  "Common.AcknowledgementsInfo": "其中一些内容是第三方無償提供的，請在使用的時候感謝他們",
-  "Common.Actions": "行動",
-  "Common.Activate": "激活",
-  "Common.Active": "生效",
-  "Common.ActiveModifiers": "激活的特效",
-  "Common.ActiveScore": "🦘 Active Score",
-  "Common.Activity": "活動",
-  "Common.ActivityBonus": "輪換活動加成",
-  "Common.ActivityMembers": "活動名冊",
-  "Common.Activity_plural": "活動",
-  "Common.Addendums": "附錄",
-  "Common.All": "全部",
-  "Common.Armour": "防具",
-  "Common.AscendantChallenge": "上維挑戰",
-  "Common.Authenticate": "認證",
-  "Common.Available": "可用",
-  "Common.AvailableActivities": "可用活動",
-  "Common.Cancel": "取消",
-  "Common.Challenge": "挑戰",
-  "Common.Challenge_plural": "挑戰",
-  "Common.Character": "🦘 Character",
-  "Common.CharacterClass": "角色類",
-  "Common.CharacterLight": "角色光等",
-  "Common.CharacterSpecific": "與大多數 Braytech 功能一樣，此視圖是特定於角色的。",
-  "Common.Character_plural": "角色",
-  "Common.Checklists": "清單",
-  "Common.Clan": "🦘 Clan",
-  "Common.ClanMember_plural": "🦘 Clan Members",
-  "Common.ClanMembersNth": "公會成員",
-  "Common.Classified": "分類",
-  "Common.Collectibles": "可收集",
-  "Common.Collections": "收藏品",
-  "Common.CollectionsScore": "🦘 Collections Score",
-  "Common.CommendationAbr_plural": "🦘 Comms.",
-  "Common.Completed": "完整",
-  "Common.CruciblePlaylist": "🦘 Crucible Playlist",
-  "Common.DateTime": "時間",
-  "Common.Equipment": "裝備",
-  "Common.Error": "錯誤",
-  "Common.Event": "公開事件",
-  "Common.EventNth": "公開事件",
-  "Common.Examples": "例子",
-  "Common.Expiration": "失效",
-  "Common.Expired": "失效",
-  "Common.Expiry": "到期",
-  "Common.Failure": "失敗",
-  "Common.FeaturedEvent": "賽季活動",
-  "Common.FeaturedNightfall": "日落",
-  "Common.FeaturedPlaylist": "輪換游玩列表",
-  "Common.Fireteam": "火力戰隊",
-  "Common.FireteamMembers": "火力戰隊名單",
-  "Common.FireteamReserves": "預留",
-  "Common.FireteamSize": "獲利戰隊規模",
-  "Common.Friend": "🦘 Friend",
-  "Common.Friend_plural": "🦘 Friends",
-  "Common.GloryPoints": "榮耀分數",
-  "Common.GuardianRank": "🦘 Guardian Rank",
-  "Common.Guardians": "守護者",
-  "Common.Help": "🦘 Help",
-  "Common.HistoricalStats": "歷史數據",
-  "Common.InfamyPoints": "惡行分數",
-  "Common.Inspect": "查看",
-  "Common.Inventory": "庫存",
-  "Common.ItemRolls": "物品清單",
-  "Common.Items": "物品",
-  "Common.LegacyScore": "🦘 Legacy Score",
-  "Common.LevelNth": "等級 {{number}}",
-  "Common.Location": "位置",
-  "Common.Lore": "傳説",
-  "Common.LoreBook": "🦘 Lore Book",
-  "Common.Map": "地圖",
-  "Common.Medals": "獎章",
-  "Common.MembersOnline": "{{number}} 在綫",
-  "Common.Name": "名字",
-  "Common.NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求",
-  "Common.NothingHereYet": "這裏什麽都沒有",
-  "Common.Objectives": "目標",
-  "Common.Offline": "離綫",
-  "Common.Patron_plural": "贊助",
-  "Common.Player": "玩家",
-  "Common.Preview": "預覽",
-  "Common.Profile": "🦘 Profile",
-  "Common.Progress": "進度",
-  "Common.Progression": "進展",
-  "Common.Quests": "任務",
-  "Common.Rank_plural": "🦘 Ranks",
-  "Common.Record": "記錄",
-  "Common.Record_plural": "記錄",
-  "Common.Report_plural": "🦘 Reports",
-  "Common.Reputation": "聲望等級",
-  "Common.Reset": "重置",
-  "Common.Reward": "奖励",
-  "Common.Reward_plural": "獎勵",
-  "Common.Savathûn'sCurse": "薩瓦圖恩詛咒",
-  "Common.Score": "分數",
-  "Common.ScoreValue": "得分",
-  "Common.Screenshot": "截圖",
-  "Common.Search": "搜索",
-  "Common.SeasonNth": "賽季 {{number}}",
-  "Common.SeasonPass": "賽季通行證",
-  "Common.SeasonRank": "賽季等級",
-  "Common.SeasonYearNth": "賽季 {{season}}, 年 {{year}}",
-  "Common.Season_plural": "赛季",
-  "Common.Settings": "設定",
-  "Common.Source": "來源",
-  "Common.SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
-  "Common.SpecialCommendation_plural": "🦘 Special Comms.",
-  "Common.Submit": "提交",
-  "Common.Support": "🦘 Support",
-  "Common.TimePlayed": "游戲時間",
-  "Common.TimeRemaining": "剩餘時間",
-  "Common.Translator_plural": "譯者",
-  "Common.TrialsPassage": "試煉門票",
-  "Common.TrialsPoints": "試煉分數",
-  "Common.TriumphScore": "凱旋記錄分數",
-  "Common.Triumphs": "凱旋記錄",
-  "Common.Unknown": "未知",
-  "Common.Users": "用戶",
-  "Common.ValorPoints": "英勇分數",
-  "Common.VanguardPoints": "先鋒點數",
-  "Common.Vendor": "商人",
-  "Common.Vendor_plural": "先鋒等級",
-  "Common.Views": "查看次數",
-  "Common.Weapon": "武器",
-  "Common.WeekNth": "周 {{number}}",
-  "Common.Week_plural": "周",
-  "Event.FestivalOfTheLost.Description": "伊娃．萊萬特回歸為《亡靈節：幽魂森林》的使者.這個節慶是守護者放縱自己吃甜食、戴上不敬的面具來慶祝那些亡者回憶的時刻.\n\n幽魂森林的入口再度開啟，而這一次，蜘蛛王想跟你談條件，請你與他合作.去找他，把解碼器弄到手，然後在幽魂森林陰暗的長廊中與時間賽跑.保持警覺，靈機應變，最後可能有機會獲得多個寶物箱.",
-  "Event.FestivalOfTheLost.Name": "亡靈節",
-  "Event.IronBanner.Description": "鋼鐵旗幟為《天命2》中為期一週的熔爐競技場活動啓用等級優勢.",
-  "Event.TheDawning.Description": "在這個特別的年代，即使是木衛二的雪窖冰天也凍不了守護者溫暖的心.伊娃．萊萬特邀請你回到高塔來學習新食譜、尋找一兩份令人驚喜的禮物，並用你美輪美奐的異域飛船來一場旅行.散播歡樂、入手裝備.黎明日已然回歸.",
-  "Event.TheDawning.Name": "黎明日",
-  "FAQ.API.StatDiscrepancy.Description": "Destiny 中有多個統計的數據來源，工會歷史數據統計基於HistoricalStats API 而其他統計數據來源於PGCRs 很難確定哪個數據更准確.\n\n要從Bungie.net服務器下載兆級別的數據并具有强大的計算能力，這也就意味著他們足夠準確.可以進行友好的對比",
-  "FAQ.API.StatDiscrepancy.Name": "公會歷史統計並不壹定與其他統計保持壹致",
-  "FAQ.Braytech.AppStore.Description": "Braytech 可以在 [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)以及 [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! 遺憾的是在IPhone app store中未發行\n\nBraytech 在IPhone應用程式商店不可用 因爲Apple很貪心 他們的商店是他們的主要資金來源\n\n他們確實部分支持漸進式web應用，如Braytech。要將Braytech添加到主荧幕，請使用Safari導航到應用程序，選擇“共亯工作表”按鈕，然後選擇“添加到主荧幕”。這使得一些科技可以讓Braytech等應用程序的感覺和操作與本機應用程序非常相似.\n\n如果您是Android用戶，並且不希望使用Google Play，您可以使用Google Chrome執行類似的過程.",
-  "FAQ.Braytech.AppStore.Name": "應用商店",
-  "FAQ.Braytech.Commonality.Description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}",
-  "FAQ.Braytech.Commonality.Name": "共性",
-  "FAQ.Braytech.KeyboardShortcuts.Description": "除了带有按键符号的任何操作栏按钮外，Braytech 还有各种隐藏的键盘快捷键。从带有配置文件标题的任何视图（你的角色名片，等等），按住  t来查看哪些快捷键可供使用。例如，按下  前往 _成就_ 并按下  以返回当前页面。",
-  "FAQ.Braytech.KeyboardShortcuts.Name": "鍵盤快捷鍵",
-  "FAQ.Braytech.ProfilePrivacy.Description": " 如果你對游玩天命的隱私或者API將你的游戲進程和活動記錄報告給第三方有所擔心你可以在 [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)更改你的隱私設定.\n\n在這之後繼續使用Braytech將需要從Bungie獲得授權",
-  "FAQ.Braytech.ProfilePrivacy.Name": "賬戶隱私",
-  "FAQ.Braytech.ServiceWorkerUpdate.Description": "從 _Settings_ 視圖, 您可以嘗試各種操作 開始 _Update service worker_. 稍等片刻，系統會提示您重新載入.\n\n如果失敗，您可以嘗試選擇 _Reload_ 刷新應用程式. 如果問題仍然存在請選擇 _Dump service worker_.\n\n_For the technically inclined, Braytech uses a service worker and sometimes they're fussy._",
-  "FAQ.Braytech.ServiceWorkerUpdate.Name": "Braytech不會更新到最新版本",
-  "FAQ.Braytech.Widgets.Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
-  "FAQ.Braytech.Widgets.Name": "🦘 Widgets",
-  "FAQ.Braytech.Widgets.Video1Caption": "🦘 How to add widgets to your home screen.",
-  "FAQ.Braytech.Widgets.Video2Caption": "🦘 How to add widgets to your lock screen.",
-  "FAQ.Voluspa.About.Description": " _Voluspa_, 這源於 _Rasputin_ 的分支思維名稱,是我給Braytech的服務端所取的. 它主要負責抓取Braytech用戶數據作爲公共統計，設定同步以及其他核心功能",
-  "FAQ.Voluspa.About.Name": "關於Voluspa",
-  "GettingStarted.Header.Description": "歡迎來到Braytech！ 在你開始之前，我有一些提示給你。\n\n如果你有反饋或問題，我們可以在 Discord 上交流，或者你可以查看常見問題解答！",
-  "GettingStarted.Header.Name": "開始",
-  "GettingStarted.Header.SubName": "克洛維斯布雷科技",
-  "GettingStarted.Tips.Search.Description": "需要快速找到東西嗎？ Braytech 有一個搜索 HUD，可在應用程序的任何位置使用。\n\n按  或點擊放大鏡按鈕，然後開始輸入！",
-  "GettingStarted.Tips.Search.Name": "搜索",
-  "GettingStarted.Tips.Settings.Description": "Braytech 充滿了各種設置，從深色主題到項目可見性選項再到設置同步。\n\n在頂上找到 _Settings_",
-  "GettingStarted.Tips.Settings.Name": "設定",
-  "GettingStarted.Tips.Views.Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
-  "GettingStarted.Tips.Views.Name": "🦘 More",
-  "GuardianRank.Current": "🦘 Current Rank: {{value}}",
-  "GuardianRank.SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
-  "Item.Ammo": "彈藥",
-  "Item.AmmoType": "彈藥類型",
-  "Item.ArmorStats": "護甲屬性",
-  "Item.BasicCharacteristics": "基本訊息",
-  "Item.Breaker": "職業",
-  "Item.BreakerType": "職業類型",
-  "Item.ClassEquipped": " {{name}} (已解鎖)",
-  "Item.ClassPostmaster": " {{name}} (郵政官)",
-  "Item.CollectionsRoll": "收藏品",
-  "Item.Compare": "比較",
-  "Item.CouldntFindItemForUnequip": "未能在指定的角色上找到 {{name}}'的位置上的裝備的物品",
-  "Item.CraftingRequiredLevel": "需要武器等級 {{number}}",
-  "Item.CurrentlyCantRoll": "該特性目前無法在該武器上取得",
-  "Item.Energy": "查看次數",
-  "Item.EnergyAffinity": "能量類型",
-  "Item.EnergyCapacity": "能量",
-  "Item.EnergyCost": "能量",
-  "Item.EnergyMeter": "能量",
-  "Item.EnergyUnused": "未使用",
-  "Item.Inspect": "查看",
-  "Item.Intrinsic": "固有框架",
-  "Item.ItemAction": "動作",
-  "Item.Mods": "模組",
-  "Item.PerkEverything": "該特性適合所有活動",
-  "Item.PerkPvE": "該特性適用于PVE",
-  "Item.PerkPvP": "該特性適用于PVP",
-  "Item.PerkRecommended": "該特性受到玩家推薦",
-  "Item.Perks": "特性組合",
-  "Item.PowerLimit": "能量上限",
-  "Item.RedeemWithCode": "使用代碼 `{{code}}` 在 [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) 來解鎖此徽章",
-  "Item.ShapedDate": " T.D. {{date}}",
-  "Item.StatTotal": "總計",
-  "Item.State": "數據",
-  "Item.Stats": "統計數據",
-  "Item.Sunset": "最後賽季",
-  "Item.TransferMaximumStack": " {{name}} 的最大堆積上限為 {{size}}. 消耗掉一些物品並于稍後再試.",
-  "Item.UndiscoveredCollectibleVendor": "獲取這個物品並添加進你的收藏之中",
-  "Item.WeaponKills": "武器擊殺",
-  "Item.WeaponStats": "武器屬性",
-  "Landing.Blog.AllPosts": "所有文章",
-  "Landing.Blog.Error": "目前無法載入博客文章",
-  "Landing.Blog.Name": "博客",
-  "Landing.CallToAction.Text": "通過Braytech探索《天命》宇宙獲得甜蜜收穫並深入瞭解您與暗影力量的戰鬥",
-  "Landing.Featured.ThisWeek": "本周在命運",
-  "Landing.Features.Description": "Braytech 是一個充滿激情的項目.它的開發已經持續了兩年多，並且已經看到了許多增量添加和改進.它的開發者 Tom Chapman 是 Destiny 設計的粉絲，它強烈影響了 Braytech 的審美。\n\nBraytech 最初是一個清單應用程序，現已發展成為一個擁有眾多人才的怪物.它一直在完善和擴展。\n\n需要快速找到一些東西嗎？ 按  並開始輸入！ Braytech 有一個搜索 HUD，可在應用程序中的任何位置使用。\n\nBraytech 最初是為桌面用戶構建的，但作為移動應用程序運行和看起來很漂亮.實際上，Play 商店中有一個 [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa)",
-  "Landing.Features.Name": "才華橫溢",
-  "Landing.Support.Description": "使用 Bungie 的 API 構建這些漂亮的界面和圍欄需要付出努力和時間.我只能將其中的大部分用於業餘愛好，保持在線也需要花錢.正如我們所知，我對網站上的廣告持堅定立場.因此，我更願意自掏腰包支持這些項目，並依靠社區的慷慨解囊。\n\n通過支持我，您可以幫助確保我可以將這些項目保持在線，並幫助我繼續 添加很酷的新功能。",
-  "Landing.Support.Name": "支援Braytech",
-  "Landing.Updates.Name": "最近更新",
-  "Language.Space.MetresAbr_plural": "{{count}} 月",
-  "Language.Time.Frequency.Daily": "每天",
-  "Language.Time.Frequency.Weekly": "每周",
-  "Language.Time.Relative.Future": "將在 {{duration}}",
-  "Language.Time.Relative.Past": "{{duration}} 前",
-  "Leaderboards.ActiveScore": "🦘 Active Score",
-  "Leaderboards.CollectionsScore": "🦘 Collections Score",
-  "Leaderboards.LegacyScore": "🦘 Legacy Score",
-  "Leaderboards.Rank": "🦘 Rank",
-  "Leaderboards.TriumphScore": "🦘 Triumph Score",
-  "Legend.Activity.Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
-  "Legend.Activity.Name": "第一次復活",
-  "Legend.Commonality.Description": "完成凱旋記錄並領取你的獎勵\n旅行者在觸及地球和其他世界擁有的奇妙事務與古怪寶藏\n樂趣在途中",
-  "Legend.Commonality.Name": "罕見的珍寶和異域風格",
-  "Legend.Empty": "空的",
-  "Legend.Fishing.Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-  "Legend.Fishing.LargestFish": "🦘 Largest Fish",
-  "Legend.Fishing.Name": "🦘 Competitive Fishing",
-  "Legend.Fishing.TypesCaught": "🦘 Types Caught",
-  "Legend.Ranks.Description": "用你無畏的膽識航行于星際\n帶領火力戰隊擊敗黑暗的爪牙，亦或是熔爐競技場中相互競爭來獲得沙克斯本人的青睞。",
-  "Legend.Ranks.Guardian.Description": "準備接受光能與同伴的評估。",
-  "Legend.Ranks.Guardian.Name": "守衛者",
-  "Legend.Ranks.Name": "守護者地位",
-  "Legend.Seals.Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們",
-  "Loading.BungieError.Description": "此時無法加載關鍵 API 數據.這是一個間歇性問題.請重試。\n\n如果此錯誤仍然存在，則 API 可能會遇到更廣泛的中斷，或者您的本地網絡正在限制 Bungie API 請求.",
-  "Loading.BungieError.Name": "Bungie 發生了錯誤",
-  "Loading.Error.Description": "發生了意外跟不可恢復的情況.",
-  "Loading.IndexedDBError.Description": " 如果再次出現這種錯誤，很可能是因爲您的瀏覽器或者設備不兼容或配置不當導致的",
-  "Loading.IndexedDBErrorFatal.Description": "嘗試訪問瀏覽器存儲時發生錯誤.\n\n請重新加載應用然後重試",
-  "Loading.IndexedDBOpenFailedError.Description": "嘗試訪問瀏覽器存儲時發生錯誤.\n\n在隱私模式下有些瀏覽器不允許訪問 _Indexed DB_ \n\n請重新加載應用然後重試",
-  "Loading.MaintenanceError.Description": "Bungie 接口當前維護中.\n\n請跟進 @BungieHelp 的推特獲取更多信息.",
-  "Loading.MaintenanceError.Name": "Bungie 維護中",
-  "Loading.ManifestDownloadError.Description": "嘗試從Bungie下載清單出錯\n\n請重新加載應用然後重試",
-  "Loading.ManifestDownloadError.Name": "清單文件下載失敗",
-  "Loading.ManifestError.Description": "嘗試從Bungie更新清單出錯\n\n請重新加載應用然後重試",
-  "Loading.ManifestError.Name": "清單文件錯誤",
-  "Loading.NoInternetError.Description": "你離綫了嗎？你的瀏覽器覺得你離綫了",
-  "Loading.SettingsFetchError.Description": "嘗試從Bungie獲取API配置時出錯，請啓動應用再試一次",
-  "Loading.SettingsFetchError.Name": "配置失敗",
-  "Loading.Status.DownloadingManifest": "正在從 Bungie 下載數據",
-  "Loading.Status.FatalError": "嚴重錯誤",
-  "Loading.Status.NoInternetError": "無網絡",
-  "Loading.Status.Other": "正在啟動 Windows 95",
-  "Loading.Status.ReadStoredPGCR": "載入已保存的戰鬥報告",
-  "Loading.Status.SettingsFetch": "正在連接至 Bungie.net",
-  "Loading.Status.StoreManifest": "正在保存清單數據",
-  "Loading.WaitingForBungie": "等待Bungie",
-  "Maps.Context.ChecklistsAndMore": "🦘 Checklists + More",
-  "Maps.Context.NoChecklistItems": "無任何内容",
-  "Maps.Inspect.Instructions": "使用说明",
-  "Maps.Inspect.ProposeChanges.Form.Description.Name": "描述",
-  "Maps.Inspect.ProposeChanges.Form.Issues.Name": "問題",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Name": "截圖",
-  "Maps.Inspect.ProposeChanges.Form.Screenshots.Select": "選擇截圖",
-  "Maps.Inspect.ProposeChanges.Form.Video.Name": "名稱",
-  "Maps.Inspect.ProposeChanges.Name": "提出變更",
-  "Maps.Inspect.RelatedVideo": "該階點有個關連的影片",
-  "Maps.Inspect.RelatedVideoAction": "打開影片",
-  "Maps.Inspect.Vendor.NoSales": "新的库存.",
-  "Maps.Nodes.Unavailable": "不可用",
-  "Maps.Nodes.UnavailableInGame": "不可用：此節點在游戲内不再可用",
-  "Maps.Nodes.UnavailableUnreliableApi": "不可用：某事阻止此節點可靠地中繼其狀態.",
-  "Maps.ProposeChanges.Description": "提交修改此節點數據的提案，並為其他守護者改進_Maps_.",
-  "Maps.ProposeChanges.Form.Description.Placeholder": "示例：在最後一個房間遠端的一塊岩石旁",
-  "Maps.ProposeChanges.Form.Issues.Placeholder": "例如：該節點不再可訪問",
-  "Maps.ProposeChanges.Form.Screenshots.Description": "提議的屏幕截圖必須符合嚴格的質量標準：\n-1920x1080的顯示分辨率\n-沒有可見的 HUD\n-沒有可見的守護者或設備\n-沒有可見的敵人\n-最大視頻設置\n包括渲染分辨率200%",
-  "Maps.ScreenshotUnavailable": "截圖不可用",
-  "Maps.Surveyor.Capture": "拍攝位置",
-  "Maps.Surveyor.CopyDefinitions": "複製定義",
-  "Maps.Surveyor.CopyNodes": "複製節點",
-  "Maps.Surveyor.NoNodes": "在地圖上選擇一個位置開始",
-  "Maps.Within.Activity": "在活動中找到",
-  "Maps.Within.ActivityName": "在活動中找到: {{string}}",
-  "Maps.Within.AscendantChallenge": "在上緯挑戰: {{string}}",
-  "Maps.Within.LostSector": "在遺落之地找到: {{string}}",
-  "Maps.Within.Story": "在劇情中發現: {{string}}",
-  "Maps.Within.Strike": "在日落打擊中發現: {{string}}",
-  "MemberLink.Error.Network.Description": "發生網絡錯誤.這是一個臨時錯誤，可以通過關閉對話框並重試來解決.",
-  "MemberLink.Error.Network.Name": "網路錯誤",
-  "MemberLink.Error.PrivateProgression.Description": "此配置文件的進度數據不可用。他們的個人資料可能在 Bungie.net 上設置為私有",
-  "MemberLink.Error.PrivateProgression.Name": "私人資料",
-  "MemberService.Inactive.Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。",
-  "Notifications.NthMore": " 還有 {{number}} 個",
-  "Notifications.NthRemaining": " {{number}} 人",
-  "Notifications.PostmasterCapacityWarning.DescriptionAlmostFull": "郵差幾乎用完了所有空間.如果妳不收回妳的物品, 妳會永遠失去它們!",
-  "Notifications.PostmasterCapacityWarning.DescriptionFull": "郵差用完了所有空間.如果妳不收回妳的物品, 妳會永遠失去它們!",
-  "Notifications.PostmasterCapacityWarning.Name": "警告!",
-  "Notifications.PushNotifications.Description": "您的設備取消了Voluspa向您發送推送通知的權限 \n\n如果這不是您想要的，您可能要檢查您的設置",
-  "Notifications.PushNotifications.Name": "通知推送",
-  "ProfileSearch.ActiveProfile": "當前檔案",
-  "ProfileSearch.BungieNetProfile": "Bungie.net狀況",
-  "ProfileSearch.ChangeProfile": "更換檔案",
-  "ProfileSearch.CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
-  "ProfileSearch.Error.Banned.Botting": "觀察到玩家採用機制，以避免不活動檢測對策 (Botting).",
-  "ProfileSearch.Error.Banned.Dickhead": "傻逼",
-  "ProfileSearch.Error.Banned.Hacking": "觀察到玩家使用外部工具來操縱參與規則（黑客）。",
-  "ProfileSearch.Error.Banned.Teabagging": "觀察到玩家參與不利於友好環境的行為。",
-  "ProfileSearch.Error.CharacterMissing.Description": "你試圖加載的角色不可用，可能已被刪除",
-  "ProfileSearch.Error.CharacterMissing.Name": "選擇不可用",
-  "ProfileSearch.Error.MemberBanned.Description": "該賬戶被禁止使用，而這并非錯誤",
-  "ProfileSearch.Error.MemberBanned.Name": "賬戶被禁用",
-  "ProfileSearch.Error.PrivateProgression.Description": "您的個人資料數據不可用，可能您的個人資料在Bungie.net上設定爲隱私\n\n您可以在Bungie.net上更改隱私設定或是通過以下方式對Braytech進行Bungie.net的身份驗證.",
-  "ProfileSearch.Error.PrivateProgression.Name": "隱私狀況",
-  "ProfileSearch.GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
-  "ProfileSearch.NewLight": "🦘 New Light",
-  "ProfileSearch.NoProfilesFound": "沒有找到檔案",
-  "ProfileSearch.PreviousSearches": "歷史搜索",
-  "ProfileSearch.ReturnToAuthMembership": "返回 {{displayName}}",
-  "ProfileSearch.SavedProfile": "已保存檔案",
-  "ProfileSearch.SearchForPlayer": "搜索玩家",
-  "ProfileSearch.SearchPlaceholder": "輸入游戲標簽或 Steam 64位ID",
-  "ProfileSearch.SelectACharacter": "選擇壹個角色",
-  "ProfileSearch.TemporaryError": "Bungie發生了一個臨時錯誤",
-  "Progression.Points": "積分",
-  "Progression.PointsNextRank": "積分直到下一個等級",
-  "Progression.PointsTotal": "總分",
-  "Progression.PrestigeNth": "聲望數值 {{number}}",
-  "Progression.Rank": "等級",
-  "Progression.RankNth": "等級 {{number}}",
-  "Progression.ResetVendor": "返回NPC以重置您的等級",
-  "Progression.Streak": "條紋",
-  "Progression.Title": "标题",
-  "Progression.TrialsPassage.Flawless": "無瑕",
-  "Progression.TrialsPassage.FlawlessPassage": "無瑕券",
-  "Progression.TrialsPassage.WeeklyTimesFlawless": "本周無瑕次數",
-  "Progression.TrialsPassage.Wins": "勝利",
-  "Quests.Details.RelatedMapMode": "該任務目標有一個關聯的地圖節點，例如掃描目標或特定地點",
-  "Quests.Details.Steps": "步驟",
-  "Quests.Info.InventoryCapacity": "總計任務和賞金",
-  "Quests.Info.NoBounties": "您獲得的獎勵將顯示在這裏",
-  "Quests.Info.NoQuests": "你獲得的任務將出現在這裏.",
-  "Search.Error.MissingDefinitions": "未能成功執行清單搜索，因爲索引中沒有相關定義",
-  "Search.Examples.Description": "描述:克洛維斯·布雷",
-  "Search.Examples.Expiration": "過期:熾天使",
-  "Search.Examples.Name": "名稱：米達",
-  "Search.Examples.Source": "來源:平移",
-  "Search.Examples.Type": "类型:斥候步槍",
-  "Search.Placeholder": "輸入名稱或描述",
-  "Search.Results.MatchesAllHidden": "這裏有一場對局數據記錄，但你已選擇將其隱藏",
-  "Search.Results.NoMatches": "未找到結果",
-  "Search.Results.Top10": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗",
-  "Search.ShortcutKey": " 按  鍵可從任意位置呼出搜索功能",
-  "Search.Suggestions": "搜索支持過濾器作為前綴。您也可以通過清單標識符進行搜索。例如，在遊戲中最好的武器，「564802913」。\n\n結果會依名稱、來源和說明排列優先順序。",
-  "Search.VanguardArchives": "歡迎來到先鋒檔案館",
-  "SeasonPass.ProgressPassLevel": "赛季等级进度",
-  "SeasonPass.ProgressPowerBonus": "力量獎勵進度",
-  "SeasonPass.SeasonProgress": "賽季進度",
-  "SeasonPass.SeasonProgressDays": "天",
-  "Settings.Category.Advanced.Name": "高級",
-  "Settings.Category.Common.Name": "普通",
-  "Settings.Category.PushNotifications.Name": "推送通知",
-  "Settings.DIMSync.Action.Disable.Description": "禁用同步並刪除存儲的 DIM 同步身份驗證令牌.",
-  "Settings.DIMSync.Action.Enable.Description": "通過與 DIM Sync 交換您的 Bungie.net 身份驗證令牌來啟用同步.",
-  "Settings.DIMSync.Info": "將您的設置與 DIM 同步以進行加載.",
-  "Settings.Developer.ExperimentalFeatures.Description": "開始使用可能仍未開發完畢，改善或檢查質量的特性",
-  "Settings.Developer.ExperimentalFeatures.Name": "啓用實驗特性",
-  "Settings.Developer.Maps.Debug.Description": "啟用地圖調試設定",
-  "Settings.Developer.Maps.Debug.Name": "地圖調試模式",
-  "Settings.Developer.Maps.LogDetails.Description": "通過連接重寫啟用開發人員名單",
-  "Settings.Developer.Maps.LogDetails.Name": "記錄節點詳細日誌",
-  "Settings.Developer.Maps.Surveyor.Description": " 額外的地圖控件允許輕鬆快速地收集地圖節點.",
-  "Settings.Developer.Maps.Surveyor.Name": "使用測量",
-  "Settings.IDB.ClearCache.Description": "清除緩存數據，如地圖.這些數據將按需下載.",
-  "Settings.IDB.ClearCache.Name": "刪除緩存",
-  "Settings.IDB.ClearManifest.Description": "刪除存儲在此設備上的Destiny清單.Braytech 需要清單才能運行，下次啟動應用程序時將再次下載清單。",
-  "Settings.IDB.ClearManifest.Name": "刪除清單",
-  "Settings.IDB.ClearReports.Description": "刪除存儲在此設備上的所有游戲報告",
-  "Settings.IDB.ClearReports.Name": "清除報告",
-  "Settings.IDB.Usage.Description": "天命清單與游戲報告的緩存.",
-  "Settings.IDB.Usage.Name": "使用",
-  "Settings.Interface.AlternateAppIcon.Info": "🦘 Alter the appearance of the app's icon.",
-  "Settings.Interface.Bindings.Info": "更改按鍵的外觀，目前只是視覺效果",
-  "Settings.Interface.FlipSubviewNav.Info": "轉爲與衆不同以及在行動設備上用右手使用Braytech的用戶提供",
-  "Settings.Interface.FlipSubviewNav.Left": "左",
-  "Settings.Interface.FlipSubviewNav.Right": "右",
-  "Settings.Interface.ItemSize.Info": "你可以調整庫存物品圖標的尺寸以適配大多數Braytech功能",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Description": "在收藏品下隱藏已被獲取的收藏品.",
-  "Settings.ItemVisibility.HideCompletedCollectibles.Name": "隱藏已獲取的收藏品",
-  "Settings.ItemVisibility.HideCompletedRecords.Description": "在成就下隱藏已完成的成就記錄.",
-  "Settings.ItemVisibility.HideCompletedRecords.Name": "隱藏已完成的成就",
-  "Settings.ItemVisibility.HideDudRecords.Description": "從視圖中隱藏無用（空白或未使用）的記錄",
-  "Settings.ItemVisibility.HideDudRecords.Name": "隱藏無用的成就記錄",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Description": "在收藏品下隱藏遊戲禁止查看的特定的收藏品.",
-  "Settings.ItemVisibility.HideInvisibleCollectibles.Name": "隱藏不可見的收藏品",
-  "Settings.ItemVisibility.HideInvisibleRecords.Description": "如果凱旋記錄是機密記錄，他將會在凱旋記錄頁面下顯示.",
-  "Settings.ItemVisibility.HideInvisibleRecords.Name": "隱藏不可見的成就記錄",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Description": "從視圖中隱藏不可獲取的記錄",
-  "Settings.ItemVisibility.HideUnobtainableRecords.Name": "隱藏不可獲取的成就記錄",
-  "Settings.LS.ResetEverything.Description": "重置所有用戶設定，本地數據以及歷史數據.",
-  "Settings.LS.ResetEverything.Name": "重置所有内容",
-  "Settings.LS.ResetNotifications.Description": "將已關閉的通知充值為其默認狀態",
-  "Settings.LS.ResetNotifications.Name": "重置通知",
-  "Settings.LS.ResetProfileHistory.Description": "刪除儲存的之前加載的成員列表檔案（角色選擇）",
-  "Settings.LS.ResetProfileHistory.Name": "重置角色資料歷史",
-  "Settings.LS.ResetTips.Description": "將提示信息恢復為默認狀態",
-  "Settings.LS.ResetTips.Name": "重置提示",
-  "Settings.LS.ResetTrackedTriumphs.Description": "取消跟踪所有用戶跟踪的成就.不會影響遊戲中的成就狀態.",
-  "Settings.LS.ResetTrackedTriumphs.Name": "重置成就追蹤",
-  "Settings.Language.Colloquial.Description": "啓用由用戶共享的口語以替代官方文本",
-  "Settings.Language.Colloquial.Name": "使用口語",
-  "Settings.Maps.Checklists.Info": "切換顯示列表的可見性，保持整潔",
-  "Settings.Maps.Developer.Info": "地圖開發者工具",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Description": "如果該節點對應的收藏品或任務已完成，你可以選擇將其隱藏",
-  "Settings.Maps.ItemVisibility.HideDiscoveredNodes.Name": "因此已發現的節點",
-  "Settings.Maps.ItemVisibility.HidePatrols.Description": "隱藏所有巡邏任務.",
-  "Settings.Maps.ItemVisibility.HidePatrols.Name": "隱藏巡邏",
-  "Settings.Maps.Visual.Atmosphere.Description": "顯示天氣，如雲量.",
-  "Settings.Maps.Visual.Atmosphere.Name": "氣候",
-  "Settings.Maps.VisualFidelity.Info": "改變視覺繁榮的數量",
-  "Settings.Profile.Info": "Braytech可以輕鬆地一次性查看多個玩家資料，但他會默認從您中查詢的最後一個玩家資料開始[玩家資料查詢(/profile-search).",
-  "Settings.Profile.NoProfileSelected": "選擇玩家資料",
-  "Settings.PushNotifications.BraveBrowser": "您似乎使用愚蠢的瀏覽器, Brave：請確保瀏覽器設置中啟用了「使用 Google 服務推送消息傳遞」。",
-  "Settings.PushNotifications.Condition.AnyActivity": "所有活動",
-  "Settings.PushNotifications.Condition.AnyMod": "所有模組",
-  "Settings.PushNotifications.Condition.AnyReward": "所有獎勵",
-  "Settings.PushNotifications.Condition.AnySale": "所有售賣物品",
-  "Settings.PushNotifications.Condition.AnyShader": "🦘 Any Shader",
-  "Settings.PushNotifications.Condition.Multiple": "多個",
-  "Settings.PushNotifications.Condition.Uncollected": "未收集",
-  "Settings.PushNotifications.Conditions": "條件",
-  "Settings.PushNotifications.Configure": "配置推送通知",
-  "Settings.PushNotifications.Event": "事件",
-  "Settings.PushNotifications.Frequency": "頻率",
-  "Settings.PushNotifications.Incompatible": "你的瀏覽器尚未支持推送通知",
-  "Settings.PushNotifications.Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
-  "Settings.PushNotifications.NoServiceWorker": "Service Worker 未被安装。请尝试重载 Braytech。",
-  "Settings.PushNotifications.PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
-  "Settings.PushNotifications.PreviewNotifications.Description": "立即推送启用通知。",
-  "Settings.PushNotifications.PreviewNotifications.Name": "预览通知",
-  "Settings.PushNotifications.ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
-  "Settings.PushNotifications.Users": "🦘 Users",
-  "Settings.ReloadRequired.Description": "选择重载应用以使您的修改立即生效。",
-  "Settings.ReloadRequired.Name": "需要重载",
-  "Settings.Reports.Info": "下載後，報告將保存到設備存儲中，以便事後快速訪問.所有報告都與最初查看它們的成員相關聯.您可以在此處逐個清除它們.如果您下載了許多報告，您可能希望這樣做以最大程度地減少初始加載時間.",
-  "Settings.Reports.NoReports": "此設備上未存儲任何報告.",
-  "Settings.Reports.ReportsCount": "計數",
-  "Settings.Reports.ReportsMember": "成員",
-  "Settings.Search.HideFeatureSuggestions.Description": "屏住呼吸-我知道我在做什麼。",
-  "Settings.Search.HideFeatureSuggestions.Name": "隱藏功能建議",
-  "Settings.Search.ItemVisibilityOverride.Description": "使用此設定可覆寫記錄和收藏品的全局項目可見性設定。",
-  "Settings.Search.ItemVisibilityOverride.Name": "顯示已完成與已取得",
-  "Settings.SubCategory.Authentication": "身份驗證",
-  "Settings.SubCategory.DIMSync": "DIM 同步",
-  "Settings.SubCategory.Developer": "開發者模式",
-  "Settings.SubCategory.IDB": "數據存儲",
-  "Settings.SubCategory.Interface.AlternateAppIcon": "🦘 App Icon",
-  "Settings.SubCategory.Interface.Bindings": "按鈕外觀",
-  "Settings.SubCategory.Interface.FlipSubviewNav": "反轉子視圖導航",
-  "Settings.SubCategory.Interface.ItemSize": "庫存圖標大小",
-  "Settings.SubCategory.ItemVisibility": "項目可見性",
-  "Settings.SubCategory.LS": "本地數據",
-  "Settings.SubCategory.Language": "語言設定",
-  "Settings.SubCategory.Reports": "報告存儲",
-  "Settings.SubCategory.SavedProfile": "保存",
-  "Settings.SubCategory.Search": "搜尋",
-  "Settings.SubCategory.Synchronisation": "同步",
-  "Settings.SubCategory.System": "系統",
-  "Settings.SubCategory.Theme": "主題",
-  "Settings.SubCategory.Troubleshooting": "故障排除",
-  "Settings.SubCategory.VisualFidelity": "視覺保真度",
-  "Settings.Sync.Action.DeleteSyncedSettings.Description": "關閉同步，並刪除儲存在Voluspa的設定.",
-  "Settings.Sync.Action.DeleteSyncedSettings.Name": "刪除已同步内容",
-  "Settings.Sync.Action.DownloadSyncedSettings.Description": "立即下載同步的配置文件，並覆蓋當前配置.",
-  "Settings.Sync.Action.DownloadSyncedSettings.Name": "下載同步配置文件",
-  "Settings.Sync.Action.Enable.Description": "啓用同步，同時與Voluspa定期同步.",
-  "Settings.Sync.Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
-  "Settings.Sync.RequirementsNotMet": "同步需要您先于 Bungie.net驗證Braytech",
-  "Settings.Sync.State.Merged": "上次合并于 {{duration}} 前",
-  "Settings.Sync.State.Synced": "上次同步于 {{duration}} 前",
-  "Settings.System.PromptForMinorVersions.Description": "即使是小版本更新也要通知我更新",
-  "Settings.System.PromptForMinorVersions.Name": "小版本更新",
-  "Settings.System.ReloadAppAutomatically.Description": "當 Braytech 的更新準備好時，無論您在做什麼，都會自動重新加載應用程序.",
-  "Settings.System.ReloadAppAutomatically.Name": "自動重新加載應用程序",
-  "Settings.Theme.Black.Name": "黑",
-  "Settings.Theme.Dark.Name": "暗",
-  "Settings.Theme.Light.Name": "亮",
-  "Settings.Theme.SystemPreference.Name": "匹配系統",
-  "Settings.Theme.SystemPreference.Name.Description": "在支持的設備上，Braytech 將反映出您的系統設定偏好.",
-  "Settings.Troubleshooting.DumpServiceWorker.Description": "嘗試註銷已啟用的後臺腳本.成功後重啟 app 將允許啟用新的後臺腳本.",
-  "Settings.Troubleshooting.DumpServiceWorker.Name": "關閉後臺腳本",
-  "Settings.Troubleshooting.UpdateServiceWorker.Description": "嘗試立刻更新服務此功能將暫時禁用，您可以能會在後臺更新時候繼續使用Braytech,如果成功將提示您重新啓動應用程式",
-  "Settings.Troubleshooting.UpdateServiceWorker.Name": "更新後臺腳本",
-  "Settings.VisualFidelity.Gay.Description": "振作起來 小逼崽子！用精彩絕倫的限量版 Braytech® 獨家產品點亮您的生活！技術創新.",
-  "Settings.VisualFidelity.Gay.Name": "啟用 ✨",
-  "Settings.VisualFidelity.ReducedMotion.Description": "減少用戶界面的特效，即通過禁用各種動畫.降低 CPU 使用率.",
-  "Settings.VisualFidelity.ReducedMotion.Name": "減少特效",
-  "SyncService.Delete.Failure.Description": "目前無法刪除您的設置這是一個臨時故障.",
-  "SyncService.Delete.Success.Description": "您的設置已被刪除現在已禁用同步.",
-  "SyncService.Merge.Failure.Description": "嘗試合併您的設置時出現錯誤.這是一個臨時故障.",
-  "SyncService.Merge.Success.Description": "你的設定已成功合并.",
-  "SyncService.Sync.Failure.Description": "嘗試同步您的設置時出現錯誤.這是一個臨時故障.",
-  "SyncService.Sync.Success.Description": "你的設定已成功合并.",
-  "Tooltip.Actions.Acquire": "取回",
-  "Tooltip.Actions.Compare": "比較",
-  "Tooltip.Actions.Equip": "裝備",
-  "Tooltip.Actions.Favourite": "收藏",
-  "Tooltip.Actions.Garbage": "垃圾",
-  "Tooltip.Actions.Inspect": "檢視",
-  "Tooltip.Actions.Lock": "鎖定",
-  "Tooltip.Actions.NotGarbage": "非垃圾",
-  "Tooltip.Actions.Select": "🦘 Select",
-  "Tooltip.Actions.Store": "寄存",
-  "Tooltip.Actions.Unfavourite": "取消收藏",
-  "Tooltip.Actions.Unlock": "解鎖",
-  "Tooltip.Actions.Vault": "保險庫",
-  "Tooltip.Item.ExpiresIn": "在 {{duration}} 失效",
-  "Tooltip.Item.NoDescription": "暫無描述.",
-  "Tooltip.Item.Quantity": "數量",
-  "Tooltip.Item.QuantityMax": "最大",
-  "Tooltip.Items.StatTotal": "共計",
-  "Tooltip.Maps.Availability": "可用：每 {{period}}",
-  "Tooltip.Maps.UntrackableChecklistItem": "無法追蹤的清單項",
-  "Triumphs.AllCompleted": "所有完成項",
-  "Triumphs.AlmostComplete.NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
-  "Triumphs.AlmostComplete.SeeNext": "查看接下來 {{number}} 個",
-  "Triumphs.AlmostCompleteTriumphs": "即將完成",
-  "Triumphs.Classified.Description": "這個記錄已被歸檔並可能在之後被解密",
-  "Triumphs.Classified.Name": "已分類記錄",
-  "Triumphs.Details.Completed": "已完成",
-  "Triumphs.Details.FireteamLoading": "載入火力战隊成員",
-  "Triumphs.Details.NoClanOrFireteam": "加入火力戰隊或公會看看你的守護者同伴如何在你身邊堆疊",
-  "Triumphs.Details.NotCompleted": "未完成",
-  "Triumphs.Details.OpenView": "打開查看詳細",
-  "Triumphs.DudTriumphs": "不可用",
-  "Triumphs.EventCard": "事件卡片",
-  "Triumphs.LegacySeal_plural": "昔日印章",
-  "Triumphs.LegacyTriumph_plural": "昔日凱旋記錄",
-  "Triumphs.LegacyTriumphs.Description": "舊的凱旋記錄，這些記錄已經不能在獲得了，但是保存在這裏方便查閲.",
-  "Triumphs.Lore.SelectEntry": "選擇需要查閲的條目",
-  "Triumphs.Record.Commonality.Description": "被Voluspa收錄的玩家中有多少人獲得了這個記錄.",
-  "Triumphs.Record.Expiration.Description": "此記錄一旦過期可能無法再獲取.",
-  "Triumphs.Record.Expires": "在 {{season}} 賽季結束時失效",
-  "Triumphs.Record.IntervalFraction": " {{numerator}} 的 {{denominator}}",
-  "Triumphs.Record.Score.Description": " 該記錄的有限成就分數值.",
-  "Triumphs.Record.ScoreInterval.Description": "在總記錄值的下一個未兌換區間的分數值.",
-  "Triumphs.RecordsRedeemed": "您已取得所有這些記錄並選擇隱藏他們",
-  "Triumphs.RecordsUnavailable": "沒有可顯示的記錄",
-  "Triumphs.Seal": "印章",
-  "Triumphs.SealTitleSeasonSuffix": " {{title}} (第 {{season}}賽季)",
-  "Triumphs.Seal_plural": "印章",
-  "Triumphs.Seals.AvailableTitle": "可用的標題：**{{title}}**",
-  "Triumphs.Seals.Commonality.Description": "印章稀有度代表了 Voluspa 跟蹤的玩家的獲取百分比.",
-  "Triumphs.Seals.Commonality.Name": "印章持有率",
-  "Triumphs.Seals.CommonalityGilded.Description": " 被 Voluspa 編入索引並獲得此頭銜的守護者的百分比.",
-  "Triumphs.Seals.CommonalityGilded.Name": "鍍金印章共性",
-  "Triumphs.Seals.PlayerTitle": "玩家稱號：**{{title}}**",
-  "Triumphs.Seals.SealCompleted": "已完成印章",
-  "Triumphs.Seals.SealGilded": "鍍金",
-  "Triumphs.Seals.SealGildedProgress": "鍍金的進展",
-  "Triumphs.Seals.SealProgress": "印章進度",
-  "Triumphs.Secret.Description": "你尚未解開的謎團.",
-  "Triumphs.Secret.Name": "秘密勝利",
-  "Triumphs.Sorted.Completion": "按完成度排序",
-  "Triumphs.Sorted.Name": "🦘 Sorted by **Name**",
-  "Triumphs.Sorted.Rarity": "按稀有度排序",
-  "Triumphs.Sorted.Score": "按分數排序",
-  "Triumphs.Sorted.Unsorted": "按Bungie默認排序",
-  "Triumphs.Tracked.NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
-  "Triumphs.Tracked.SeeAll": "查看所有追蹤",
-  "Triumphs.TrackedTriumphs": "已跟蹤記錄",
-  "Triumphs.Triumph_plural": "成就",
-  "Triumphs.UnobtainableTriumphs": "無法獲得",
-  "Triumphs.Unredeemed.Info": "為你的成就改到自豪同時別忘了兌換他們。",
-  "Triumphs.Unredeemed.InfoWithScoreValue": "兌換這些凱旋記錄以取得 {{value}} 凱旋記錄點數.",
-  "Triumphs.Unredeemed.Number": "{{number}} 個未兌換的凱旋記錄",
-  "Triumphs.UnredeemedTriumphs": "未兌換成就",
-  "Upsell.Auth.Description": "想查詢您的目標和其他數據進度嗎？通過Bungie.net進行身份驗證，並允許Braytech安全獲取您的個人游戲數據資料.",
-  "Upsell.Patreon.Description": "我們都討厭廣告。他們很醜。他們很煩人。他們收集您的數據並將其出售給第三方。\n\n透過 Patreon 支援該應用程式，協助他們遠離 Braytech。無論是一次性的事情還是持續的承諾，每兩美元都會有所幫助！",
-  "Upsell.Patreon.Name": "保持無廣告",
-  "Upsell.Patreon.RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
-  "Upsell.Patreon.RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-  "Upsell.Patreon.Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-  "Upsell.Profile.Action": "選取你的角色",
-  "Upsell.Profile.Description": "想查看您的進展、兌換的記錄、發現的收藏品等等？ 加載您的個人資料並選擇您的角色。",
-  "Vendor.FailureStrings.NoFunds": "沒有足夠的材料",
-  "Vendor.FailureStrings.NoInventorySpace": "沒有足夠的空間",
-  "Vendor.FailureStrings.UniquenessViolation": "一次只能擁有一個",
-  "Voluspa.AdjustGraph.Description": "透過選取替代類型的圖表，以不同的方式檢視此資料。\n\n_Voluspa_ 從{{crawled}} 位玩家那裡收集數據。在這些玩家中，成功評估了 {{assessed}} 名以提供此數據。在 {{assessed}} 位經過評估的玩家中，有 {{value}} 名發現了此收藏品。",
-  "Voluspa.AdjustGraph.Description_record": "透過選取替代類型的圖表，以不同的方式檢視此資料。\n\n_Voluspa_ 從{{crawled}} 位玩家那裡收集數據。在這些玩家中，成功評估了 {{assessed}} 名以提供此數據。在 {{assessed}} 位經過評估的玩家中，有 {{value}} 名完成了此收記錄。",
-  "Voluspa.AdjustGraph.Name": "調整圖表",
-  "Voluspa.CollectedBy": " {{number}} 名玩家已收集",
-  "Voluspa.Commonality": "共通",
-  "Voluspa.CompletedBy": " {{number}} 名玩家已完成",
-  "Voluspa.Crawled": "{{number}} 玩家被Voluspa索引.",
-  "Voluspa.GraphType.Frequency": "頻率",
-  "Voluspa.GraphType.TimeSeries": "時間序列",
-  "Voluspa.LastCrawled": "{{time}} 最後索引",
-  "Voluspa.ProfilesAssessed": "評估設定檔",
-  "Weeklies.Challenges.ActivityBonus": "活動加成",
-  "Weeklies.Challenges.ArtifactPower.Description": "你的光等加成，由你裝備的季節性神器透過獲得經驗所引導。",
-  "Weeklies.Challenges.ArtifactPower.Name": "神器力量加成",
-  "Weeklies.Challenges.ArtifactPowerBonus": "力量獎勵",
-  "Weeklies.Challenges.GearPower.Description": "目前裝備武器的平均力量等級。",
-  "Weeklies.Challenges.GearPower.Name": "裝備力量",
-  "Weeklies.Challenges.NoChallenges": "看來你的守護者本週已經完成了他們所有可用的挑戰。",
-  "Weeklies.Challenges.Power.Description": "你的光等是你目前裝備中所有裝備的能量值的總和。更高的光等會提高你的傷害輸出和防禦力。",
-  "Weeklies.Challenges.Power.Name": "光等",
-  "Weeklies.Challenges.SeasonalChallenges.Available": "{{number}} 季節性挑戰",
-  "Weeklies.Challenges.SeasonalChallenges.Description": "完成賽季階級、明亮塵埃和其他獎勵的限時挑戰。",
-  "Weeklies.Challenges.SeasonalChallenges.Name": "賽季挑戰",
-  "Weeklies.Challenges.Type.Bounties": "賞金單",
-  "Weeklies.Challenges.Type.Crucible": "熔爐",
-  "Weeklies.Challenges.Type.Dungeon": "地牢",
-  "Weeklies.Challenges.Type.Exotic": "異域",
-  "Weeklies.Challenges.Type.Expansion": "資料片",
-  "Weeklies.Challenges.Type.Gambit": "千謀百計",
-  "Weeklies.Challenges.Type.Raid": "突襲",
-  "Weeklies.Challenges.Type.Seasonal": "季節",
-  "Weeklies.Challenges.Type.Strikes": "打擊",
-  "Weeklies.Rotations.Description": "輪換運行的儀式，使用這些預測來計劃你的努力。建築師有時會改變輪換，並且此視圖將相應地更改。",
-  "Weeklies.Rotations.Name": "輪換"
+  "Action": {
+    "Accept": "接受",
+    "AddBookmark": "添加書簽",
+    "AddEvent": "添加活動",
+    "AllClasses": "所有類",
+    "Back": "返回",
+    "BecomeAPatron": "成為眾籌用戶",
+    "Browse": "🦘 Browse",
+    "Cancel": "取消",
+    "Close": "關閉",
+    "Collapse": "崩潰",
+    "Confirm": "確認",
+    "Customise": "定制",
+    "Delete": "刪除",
+    "Disable": "關閉",
+    "Dismiss": "取消",
+    "Done": "完成",
+    "Enable": "啓用",
+    "Expand": "擴展",
+    "GatherInVault": "移入保險庫",
+    "GoToBNet": "轉到Bungie.net",
+    "GoToMaps": "轉到地圖",
+    "GoToTwitter": "轉到Twitter",
+    "HideAcquired": "隱藏已獲得項",
+    "HideCollectionsRolls": "隱藏可能的特性組合",
+    "HideCompleted": "隱藏已完成項",
+    "HideDiscovered": "隱藏已發現項",
+    "HideHiddenStats": "高級選項",
+    "HideRedeemed": "隱藏已兌換項",
+    "Jump": "跳轉到",
+    "Lock": "鎖定",
+    "MemberRemove": "移除成員",
+    "NextNth": "下 {{number}}",
+    "Now": "當前頁",
+    "Open": "打開",
+    "Previous": "前往",
+    "PullPostmaster": "從郵政官處取回物品",
+    "ReloadApp": "重新載入Braytech",
+    "ReloadAppAutomatically": "自動重新載入應用",
+    "RemoveBookmark": "移除書簽",
+    "Reset": "重置",
+    "SelectDate": "選擇一組日期",
+    "SelectFilters": "篩選",
+    "SelectMasterwork": "選擇大師之作",
+    "Set": "設定",
+    "Share": "分享",
+    "ShowAll": "展示所有",
+    "ShowCollectionsRolls": "顯示可能的特性組合",
+    "ShowHiddenStats": "基本狀態",
+    "TryAgain": "🦘 Try Again",
+    "Unlock": "解鎖",
+    "UserReady": "開始旅程吧！",
+    "ViewHistoricalData": "查看歷史數據",
+    "ViewMore": "🦘 View More"
+  },
+  "Activity": {
+    "ActiveRotator": "主動輪換",
+    "ApproximateLength": "大致長度",
+    "Carnage": {
+      "SelectDate": {
+        "Info": "選擇一組數據",
+        "Waiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄"
+      }
+    },
+    "Cooperative": "合作",
+    "Fireteam": {
+      "Closed": "火力戰隊關閉",
+      "Full": "火力戰隊滿員",
+      "MatchLoading": "匹配中",
+      "Matchmaking": "匹配",
+      "Open": "火力戰隊開放",
+      "SinglePlayer": "單人活動"
+    },
+    "FreeForAll": "對所有人免費",
+    "Graphs": {
+      "SelectDate": "從上圖中選擇一個有活動的日期"
+    },
+    "LevelAdvantagesDisabled": "關閉等級優勢",
+    "LevelAdvantagesEnabled": "啓用等級優勢",
+    "Matchmaking": "匹配中",
+    "MaxParty": " {{number}} 玩家",
+    "Modes": {
+      "Bar": {
+        "PvPLoss": "勝利",
+        "PvPWin": "失敗"
+      },
+      "Last100": {
+        "PvE": "最近的100場活動",
+        "PvP": "最近的100場比賽"
+      },
+      "Lifetime": "生涯",
+      "Line": {
+        "AverageKD": "平均K/D"
+      },
+      "Scatter": {
+        "PvEFailure": "失敗",
+        "PvEFlawless": "無暇",
+        "PvPFlawless": "無暇",
+        "PvPLoss": "輸",
+        "PvPWin": "贏"
+      },
+      "TrialsPassage": "試煉入場券"
+    },
+    "ModifiersUnavailable": "修飾系統暫時不可用",
+    "NoMedalsAwarded": "未取得印章",
+    "NoStatsAvailable": "沒有可用的統計信息",
+    "PvP": "玩家對戰",
+    "RecommendedLight": "推薦光等",
+    "Score": {
+      "Team": "團隊得分"
+    },
+    "SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
+    "SelectModeInfo": "要查看特定的活動，請從上方的界面処懸著一個模式",
+    "SinglePlayer": "單人",
+    "Standing": {
+      "Defeat": "擊敗",
+      "DidNotFinish": "玩家未完成",
+      "Mercy": "慈悲",
+      "Tie": "平手",
+      "Victory": "勝利"
+    },
+    "State": {
+      "ActivityHistoryError": "嘗試加載活動歷史記錄時出錯.請再試一次.",
+      "DownloadingReports": "正在下載報告",
+      "DownloadingReportsProgressValue": "正在從Bungie.net收集火力戰隊數據，所需時間取決於你的網路和請求的數據量",
+      "GenericError": "出了些問題.請再試一次.",
+      "HydratingReportsCache": "報告數據正在從存儲設備中載入",
+      "LoadGroupMembers": "正在分析公會與活動歷史",
+      "LoadingPeriod": "掃描中...... {{date}}",
+      "NoBookmarks": "你還沒有添加書簽\n\n你可以通過 _Settings_ 來同步你的書簽.",
+      "NoHistoryAvailable": "尋找一隻火力戰隊並擊敗旅行者的敵人",
+      "PeriodNotFound": "請求的階段未能在用戶數據中找到",
+      "RequestHistory": "分析活動歷史",
+      "RequestHistoryPage": "檢索活動歷史量 {{page}}"
+    },
+    "Team": {
+      "Allies": "我方隊伍",
+      "Alpha": "第一小隊",
+      "Bravo": "第二小隊",
+      "Opposition": "敵方隊伍"
+    }
+  },
+  "Addendums": {
+    "Credits": {
+      "Origins": {
+        "Description": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情."
+      }
+    },
+    "Privacy": {
+      "Info": "長話短説，Braytech 不使用 cookie 或任何其他機制來跟踪您，也不會將您定位為廣告目的（我的意思是，Braytech 沒有任何廣告）。\n\n如果您對本通知有任何疑問，請隨時跳到 [Discord]（https://discord.bray.tech）。",
+      "Policy": "1.簡介\n    1.出於所有目的，本隱私政策的此英文版本應為雙方的原始，管理文書和理解。如果本隱私政策的英文版本與任何後續翻譯成任何其他語言之間存在任何衝突，則此英文版本應予以管轄和控制。.Braytech 是一個免費的粉絲製作的服務命運 2，視頻遊戲。本隱私政策說明了此應用程序如何使用您的數據。.Braytech 不斷改進，開發人員可能會不時修改本隱私政策，以反映其隱私慣例的變化。我們鼓勵您定期查看本隱私政策，並查看隱私政策末尾的日期以獲取最新版本。.在這裡，「開發商」是指湯姆·查普曼。.開發人員收集的信息\n    1.您提供的資料\n        1.您平台專屬的個人檔案名稱會用來載入並顯示您的天命個人檔案。絕不會收集或使用您的私人憑據。.Braytech 的顧客也可以選擇提供他們的電子郵件地址，以便將其天命個人資料與 Patreon 帳戶建立關聯，以便獲得他們 Patreon 承諾的適當風格。.開發人員自動收集的信息\n        1.有關您使用所提供服務的資料可能包括您的 IP 位址、地理位置、瀏覽器名稱和版本、作業系統、轉介來源、造訪時間長度、頁面瀏覽次數和網站導覽路徑，以及有關服務使用時間、頻率和模式的資訊。.我們如何使用您的個人資料\n    1.天命與邦吉帳號資訊\n        1.為了顯示和操作《天命》遊戲資訊，Braytech 使用 Bungie.net API。Braytech 唯一收到或可以存取的資訊是您的遊戲資訊（物品、角色等）和基本帳號資訊，包括您的 Bungie.net 會員 ID，以及任何連結服務的識別碼，例如您的公開 PSN、Xbox Live、Steam、Stadia、暴雪或 Bungie.net 使用者名稱。開發者無法訪問您的電子郵件，姓名，地址，付款信息或 Bungie 或遊戲平台持有的任何其他個人信息。.Bungie.net 應用程式介面的使用受本網站的 [使用條款] (https://www.bungie.net/7/en/Legal/Terms) 及 [隱私權政策] (https://www.bungie.net/7/en/Legal/PrivacyPolicy) 所規範。.帕特雷翁\n        1.您（用戶）為了將您的天命個人資料與您的 Patreon 帳戶關聯而提供的數據僅用於此事實，並通過 Voluspa 安全存儲。.使用情況數據\n        1.此使用數據可能會被處理用於分析網站和服務的使用情況。此處理的法律依據是您的同意或我們的合法利益，即監控和改善我們的網站和服務。.布雷科技設置同步\n        1.Voluspa 啟用了 Braytech 功能，該功能允許您（用戶）存儲您的數據（Braytech 設置）並在 Braytech 的實例之間同步。只有您和開發人員才能存取此資訊。\n\n最後更新於二零二一年五月十九日，星期三。"
+    }
+  },
+  "App": {
+    "BungieError": "Bungie 發生錯誤",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
+    "ErrorBoundary": {
+      "Discord": "Braytech 發生了致命錯誤，如幫助無法解決您的問題請加入[Discord](https://discord.bray.tech)獲得支持",
+      "Version": "請在報告錯誤的時候帶上下面的文字"
+    },
+    "FriendlyError": {
+      "Description": "請暫時不要告知指揮官薩瓦拉.....暫時不要",
+      "Name": "請原諒我們出現的一些....小錯誤"
+    },
+    "NetworkError": {
+      "Description": "發生一個網絡錯誤，這可能是一個臨時錯誤嘗試重新載入來解決問題",
+      "Name": "網路錯誤"
+    },
+    "ServiceWorkerInstalling": {
+      "Description": "正在後臺安裝更新"
+    },
+    "ServiceWorkerReload": {
+      "Description": "Braytech的更新檔可用請選擇“重新加載”以使用最新版本，請檢查索引中的更新檔日志來獲得更新檔的詳細信息.",
+      "Name": "可用的更新檔"
+    },
+    "UnknownError": "未知錯誤",
+    "UnsupportedBrowser": {
+      "Description": "Braytech需要現代化的瀏覽器來運作，運行Barytech的瀏覽器最低要求最近一年有過更新記錄。所以，當你遇到了本提示，是時候該換個新的瀏覽器了守護者。\n\n推薦使用基於Chromium的瀏覽器，例如 Microsoft Edge",
+      "Name": "瀏覽器不支持"
+    },
+    "Version": "版本"
+  },
+  "Archives": {
+    "Grimoire": {
+      "Description": "古老的傳説故事《Destiny 1》的魔典卡牌歸檔並展示在這裏",
+      "Name": "背景故事"
+    },
+    "Guides": {
+      "VowOfTheDisciple": {
+        "Description": "有關於門徒之誓突襲的信息呈現于此",
+        "Name": "門徒之誓"
+      }
+    }
+  },
+  "Auth": {
+    "Data": {
+      "Action": "清除授權",
+      "Description": "清除設備上存儲的授權數據.必要時使用該功能可以讓妳淡定下來.",
+      "Name": "授權數據"
+    },
+    "Error": {
+      "NoAuth": {
+        "Description": "請向 Bungie 同意以使用該功能.若如此做, 妳的個人信息不會向我們分享, 我們僅獲取妳的授權碼以便與更多 API 接口交互.",
+        "Name": "需要身份驗證"
+      },
+      "Permissions": {
+        "Profile": {
+          "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
+          "Name": "Oh, honey... Honnnnneyyyy"
+        }
+      }
+    },
+    "Friends": {
+      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
+    },
+    "Login": "登錄到 Bungie.net",
+    "Memberships": {
+      "Description": "當前有多個成員與妳的 Bungie.net 檔案關聯.",
+      "Name": "相關成員"
+    },
+    "PatreonAssociation": {
+      "Description": "將本 Bungie.net 賬戶與壹個Patreon 賬戶連結",
+      "Name": "連結 Patreon 賬戶",
+      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
+      "Success": "感謝！你的電子郵件現在與你的個人資料關聯",
+      "Text": "某些Patreon等級包括 _flair_ 形式的獎勵該獎品會顯示在玩家姓名的側面\n\n請輸入與Patreon綁定的郵箱來獲得相關權益"
+    },
+    "Suggestion": {
+      "Subtle": "登錄到Bungie.net以解鎖更多内容",
+      "Text": "Braytech的大部分功能對所有用戶可用, 並且依賴於公開數據, 而 Destiny 的壹些功能需要訪問權限, 您可以通過登錄 Bungie.net 進行身份驗證來授權 Braytech"
+    }
+  },
+  "Character": {
+    "Breakdown": {
+      "EffectiveMods": "生效中的模組",
+      "SlottedMods": "已裝備的模組",
+      "UnusedEnergy": "尚未使用的能量"
+    },
+    "Compare": {
+      "ObtainFromVendor": "從{{name}}獲得"
+    },
+    "DIMSync": {
+      "Description": "此功能需要 DIM Sync 才能運行.在設置中啟用同步.",
+      "Name": "DIM 同步"
+    },
+    "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
+    "Equipment": {
+      "Armor": "護甲",
+      "Auxiliary": "雜項",
+      "Breakdown": "總覽",
+      "Weapons": "武器"
+    },
+    "Filter": {
+      "ArcDamage": "🦘 Arc Damage",
+      "DeepsightResonance": "深视",
+      "Favourite": "喜愛的裝備",
+      "Garbage": "垃圾裝備",
+      "KineticDamage": "🦘 Kinetic Damage",
+      "Shaped": "鍛造武器",
+      "SolarDamage": "🦘 Solar Damage",
+      "StasisDamage": "🦘 Stasis Damage",
+      "StrandDamage": "🦘 Strand Damage",
+      "VoidDamage": "🦘 Void Damage"
+    },
+    "Vendors": {
+      "BrightDustItems": "明亮之塵物品",
+      "CrossSaveSilver": "你的銀幣餘額只能通過對應的平臺登錄時才能正確查詢",
+      "EververseCalendar": "永恆之詩商店日曆",
+      "FeaturedBrightDustItems": "精選明亮之塵物品",
+      "FeaturedSilverItems": "精選銀幣物品",
+      "ShowAllItems": "所有物品",
+      "ShowSilverOnlyItems": "只顯示銀幣售賣物品",
+      "SilverOnlyItems": "銀幣售賣物品"
+    }
+  },
+  "Clan": {
+    "Administration": {
+      "ViewportWidth": "公會管理模式適用於更大的顯示器，請保證您的顯示器大於1500px"
+    },
+    "BannerPerks": "旗幟特性",
+    "ClanAdministration": "管理員",
+    "ClanBannerBuilder": {
+      "BannerColor": "旗幟顏色",
+      "BannerDetail": "旗幟細節",
+      "BannerDetailColor": "旗幟細節顏色",
+      "BannerEmblem": "旗幟名片",
+      "Description": "與公會成員壹起合作完成新的公會旗幟.選擇不同的選項會立即更新頁面鏈接, 使旗幟改動的分享更簡單.",
+      "EmblemBackgroundColor": "名片背景色",
+      "EmblemForegroundColor": "名片前景色",
+      "Name": "公會旗幟生成器"
+    },
+    "ClanRoster": "名冊",
+    "ClanTimetable": "時間安排",
+    "Founded": "成立時間 {{time}}",
+    "HistoricalStats": {
+      "ViewportWidth": "歷史信息統計應該在較大的顯示器上使用，請保證最少為`1024px`."
+    },
+    "HistoricalStatsLoading": "載入歷史統計",
+    "Members": "{{number}} 成員",
+    "MembersLoading": "载入{{name}} 成员",
+    "NoClan": {
+      "Description": "公會是一個可選的朋友相關的組織，可以提高您的在綫游戲體驗，來活動一些額外的獎勵，您可以在[Bungie.net](https://bungie.net/)來創建您的公會或者加入公會來結識新朋友.",
+      "Name": "沒有公會相關關係"
+    },
+    "Relationships": {
+      "BestFriends": "好朋友",
+      "Description": "發現錯失的機會與愛人，這些守護者是跟你一起參加活動最多的人彼此珍惜。\n\n這些守護者是你的公會成員，此排名每個賽季都會重置",
+      "Name": "關係",
+      "NoFriends": "你並不孤單！你遲早會找到朋友的....邀請你的公會夥伴一起做些活動吧！",
+      "NoParters": "約會很容易嗎？沒聼説過，繼續回歸戰鬥吧，守護者！",
+      "Options": {
+        "LimitCurrentSeason": {
+          "Description": "🦘 Only load activities from the current season.",
+          "Name": "🦘 Current Season"
+        },
+        "LimitGroupMembers": {
+          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
+          "Name": "🦘 Clan Members"
+        }
+      },
+      "RomanticPartnerships": "浪漫關係",
+      "SocialButterfly": "你真是個交際花！你在本賽季已經跟所有的人都玩過了",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "UndiscoveredFriends": "未能發現的朋友"
+    },
+    "RewardEngrams": "公會獎勵記憶水晶",
+    "Roster": {
+      "Approve": "批准",
+      "Ban": "封禁",
+      "Demote": "降級",
+      "Deny": "拒絕",
+      "DisplayName": "顯示名稱",
+      "DownloadData": "下載數據",
+      "Glory": "榮耀點數",
+      "Infamy": "惡行點數（含重置）",
+      "Joined": "加入",
+      "Kick": "踢出",
+      "LastActivity": "上次活動",
+      "LastCharacter": "上次選擇的角色",
+      "LastPlatform": "平臺",
+      "Promote": "提升",
+      "Rank": "等級",
+      "Valor": "英勇點數（含重置）",
+      "WeeklyClanXP": "每周公會經驗"
+    }
+  },
+  "Collections": {
+    "AllAcquired": "已獲得所有",
+    "Badge": "印章",
+    "Badge_plural": "印章",
+    "Badges": {
+      "Commonality": {
+        "Description": "印章持有率代表了 Voluspa 跟蹤玩家的獲取百分比",
+        "Name": "印章持有率"
+      },
+      "Completed": "已完成印章",
+      "Progress": "進行中印章"
+    },
+    "CollectedBy": "收集",
+    "Collectible": {
+      "Commonality": "收藏品的稀有性代表了 Voluspa 跟蹤玩家的收录百分比"
+    },
+    "CollectiblesAcquired": "你已經收集了所有的可收藏品，選中並隱藏他們",
+    "CollectiblesUnavailable": "暫無可供展示的收藏品",
+    "Grouped": {
+      "Season": "按賽季分組",
+      "Ungroup": "不分組"
+    },
+    "RecentlyDiscovered": "最近發現的",
+    "SetComplete": "集合完畢",
+    "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的"
+  },
+  "Commendations": {
+    "Received": "🦘 Received",
+    "ReceivedAbr": "🦘 Recvd.",
+    "Sent": "🦘 Sent",
+    "SentAbr": "🦘 Sent"
+  },
+  "Common": {
+    "Acknowledgements": "致謝",
+    "AcknowledgementsInfo": "其中一些内容是第三方無償提供的，請在使用的時候感謝他們",
+    "Actions": "行動",
+    "Activate": "激活",
+    "Active": "生效",
+    "ActiveModifiers": "激活的特效",
+    "ActiveScore": "🦘 Active Score",
+    "Activity": "活動",
+    "ActivityBonus": "輪換活動加成",
+    "ActivityMembers": "活動名冊",
+    "Activity_plural": "活動",
+    "Addendums": "附錄",
+    "All": "全部",
+    "Armour": "防具",
+    "AscendantChallenge": "上維挑戰",
+    "Authenticate": "認證",
+    "Available": "可用",
+    "AvailableActivities": "可用活動",
+    "Cancel": "取消",
+    "Challenge": "挑戰",
+    "Challenge_plural": "挑戰",
+    "Character": "🦘 Character",
+    "CharacterClass": "角色類",
+    "CharacterLight": "角色光等",
+    "CharacterSpecific": "與大多數 Braytech 功能一樣，此視圖是特定於角色的。",
+    "Character_plural": "角色",
+    "Checklists": "清單",
+    "Clan": "🦘 Clan",
+    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMembersNth": "公會成員",
+    "Classified": "分類",
+    "Collectibles": "可收集",
+    "Collections": "收藏品",
+    "CollectionsScore": "🦘 Collections Score",
+    "CommendationAbr_plural": "🦘 Comms.",
+    "Completed": "完整",
+    "CruciblePlaylist": "🦘 Crucible Playlist",
+    "DateTime": "時間",
+    "Equipment": "裝備",
+    "Error": "錯誤",
+    "Event": "公開事件",
+    "EventNth": "公開事件",
+    "Examples": "例子",
+    "Expiration": "失效",
+    "Expired": "失效",
+    "Expiry": "到期",
+    "Failure": "失敗",
+    "FeaturedEvent": "賽季活動",
+    "FeaturedNightfall": "日落",
+    "FeaturedPlaylist": "輪換游玩列表",
+    "Fireteam": "火力戰隊",
+    "FireteamMembers": "火力戰隊名單",
+    "FireteamReserves": "預留",
+    "FireteamSize": "獲利戰隊規模",
+    "Friend": "🦘 Friend",
+    "Friend_plural": "🦘 Friends",
+    "GloryPoints": "榮耀分數",
+    "GuardianRank": "🦘 Guardian Rank",
+    "Guardians": "守護者",
+    "Help": "🦘 Help",
+    "HistoricalStats": "歷史數據",
+    "InfamyPoints": "惡行分數",
+    "Inspect": "查看",
+    "Inventory": "庫存",
+    "ItemRolls": "物品清單",
+    "Items": "物品",
+    "LegacyScore": "🦘 Legacy Score",
+    "LevelNth": "等級 {{number}}",
+    "Location": "位置",
+    "Lore": "傳説",
+    "LoreBook": "🦘 Lore Book",
+    "Map": "地圖",
+    "Medals": "獎章",
+    "MembersOnline": "{{number}} 在綫",
+    "Name": "名字",
+    "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求",
+    "NothingHereYet": "這裏什麽都沒有",
+    "Objectives": "目標",
+    "Offline": "離綫",
+    "Patron_plural": "贊助",
+    "Player": "玩家",
+    "Preview": "預覽",
+    "Profile": "🦘 Profile",
+    "Progress": "進度",
+    "Progression": "進展",
+    "Quests": "任務",
+    "Rank_plural": "🦘 Ranks",
+    "Record": "記錄",
+    "Record_plural": "記錄",
+    "Report_plural": "🦘 Reports",
+    "Reputation": "聲望等級",
+    "Reset": "重置",
+    "Reward": "奖励",
+    "Reward_plural": "獎勵",
+    "Savathûn'sCurse": "薩瓦圖恩詛咒",
+    "Score": "分數",
+    "ScoreValue": "得分",
+    "Screenshot": "截圖",
+    "Search": "搜索",
+    "SeasonNth": "賽季 {{number}}",
+    "SeasonPass": "賽季通行證",
+    "SeasonRank": "賽季等級",
+    "SeasonYearNth": "賽季 {{season}}, 年 {{year}}",
+    "Season_plural": "赛季",
+    "Settings": "設定",
+    "Source": "來源",
+    "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
+    "SpecialCommendation_plural": "🦘 Special Comms.",
+    "Submit": "提交",
+    "Support": "🦘 Support",
+    "TimePlayed": "游戲時間",
+    "TimeRemaining": "剩餘時間",
+    "Translator_plural": "譯者",
+    "TrialsPassage": "試煉門票",
+    "TrialsPoints": "試煉分數",
+    "TriumphScore": "凱旋記錄分數",
+    "Triumphs": "凱旋記錄",
+    "Unknown": "未知",
+    "Users": "用戶",
+    "ValorPoints": "英勇分數",
+    "VanguardPoints": "先鋒點數",
+    "Vendor": "商人",
+    "Vendor_plural": "先鋒等級",
+    "Views": "查看次數",
+    "Weapon": "武器",
+    "WeekNth": "周 {{number}}",
+    "Week_plural": "周"
+  },
+  "Event": {
+    "FestivalOfTheLost": {
+      "Description": "伊娃．萊萬特回歸為《亡靈節：幽魂森林》的使者.這個節慶是守護者放縱自己吃甜食、戴上不敬的面具來慶祝那些亡者回憶的時刻.\n\n幽魂森林的入口再度開啟，而這一次，蜘蛛王想跟你談條件，請你與他合作.去找他，把解碼器弄到手，然後在幽魂森林陰暗的長廊中與時間賽跑.保持警覺，靈機應變，最後可能有機會獲得多個寶物箱.",
+      "Name": "亡靈節"
+    },
+    "IronBanner": {
+      "Description": "鋼鐵旗幟為《天命2》中為期一週的熔爐競技場活動啓用等級優勢."
+    },
+    "TheDawning": {
+      "Description": "在這個特別的年代，即使是木衛二的雪窖冰天也凍不了守護者溫暖的心.伊娃．萊萬特邀請你回到高塔來學習新食譜、尋找一兩份令人驚喜的禮物，並用你美輪美奐的異域飛船來一場旅行.散播歡樂、入手裝備.黎明日已然回歸.",
+      "Name": "黎明日"
+    }
+  },
+  "FAQ": {
+    "API": {
+      "StatDiscrepancy": {
+        "Description": "Destiny 中有多個統計的數據來源，工會歷史數據統計基於HistoricalStats API 而其他統計數據來源於PGCRs 很難確定哪個數據更准確.\n\n要從Bungie.net服務器下載兆級別的數據并具有强大的計算能力，這也就意味著他們足夠準確.可以進行友好的對比",
+        "Name": "公會歷史統計並不壹定與其他統計保持壹致"
+      }
+    },
+    "Braytech": {
+      "AppStore": {
+        "Description": "Braytech 可以在 [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)以及 [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! 遺憾的是在IPhone app store中未發行\n\nBraytech 在IPhone應用程式商店不可用 因爲Apple很貪心 他們的商店是他們的主要資金來源\n\n他們確實部分支持漸進式web應用，如Braytech。要將Braytech添加到主荧幕，請使用Safari導航到應用程序，選擇“共亯工作表”按鈕，然後選擇“添加到主荧幕”。這使得一些科技可以讓Braytech等應用程序的感覺和操作與本機應用程序非常相似.\n\n如果您是Android用戶，並且不希望使用Google Play，您可以使用Google Chrome執行類似的過程.",
+        "Name": "應用商店"
+      },
+      "Commonality": {
+        "Description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}",
+        "Name": "共性"
+      },
+      "KeyboardShortcuts": {
+        "Description": "除了带有按键符号的任何操作栏按钮外，Braytech 还有各种隐藏的键盘快捷键。从带有配置文件标题的任何视图（你的角色名片，等等），按住  t来查看哪些快捷键可供使用。例如，按下  前往 _成就_ 并按下  以返回当前页面。",
+        "Name": "鍵盤快捷鍵"
+      },
+      "ProfilePrivacy": {
+        "Description": " 如果你對游玩天命的隱私或者API將你的游戲進程和活動記錄報告給第三方有所擔心你可以在 [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)更改你的隱私設定.\n\n在這之後繼續使用Braytech將需要從Bungie獲得授權",
+        "Name": "賬戶隱私"
+      },
+      "ServiceWorkerUpdate": {
+        "Description": "從 _Settings_ 視圖, 您可以嘗試各種操作 開始 _Update service worker_. 稍等片刻，系統會提示您重新載入.\n\n如果失敗，您可以嘗試選擇 _Reload_ 刷新應用程式. 如果問題仍然存在請選擇 _Dump service worker_.\n\n_For the technically inclined, Braytech uses a service worker and sometimes they're fussy._",
+        "Name": "Braytech不會更新到最新版本"
+      },
+      "Widgets": {
+        "Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
+        "Name": "🦘 Widgets",
+        "Video1Caption": "🦘 How to add widgets to your home screen.",
+        "Video2Caption": "🦘 How to add widgets to your lock screen."
+      }
+    },
+    "Voluspa": {
+      "About": {
+        "Description": " _Voluspa_, 這源於 _Rasputin_ 的分支思維名稱,是我給Braytech的服務端所取的. 它主要負責抓取Braytech用戶數據作爲公共統計，設定同步以及其他核心功能",
+        "Name": "關於Voluspa"
+      }
+    }
+  },
+  "GettingStarted": {
+    "Header": {
+      "Description": "歡迎來到Braytech！ 在你開始之前，我有一些提示給你。\n\n如果你有反饋或問題，我們可以在 Discord 上交流，或者你可以查看常見問題解答！",
+      "Name": "開始",
+      "SubName": "克洛維斯布雷科技"
+    },
+    "Tips": {
+      "Search": {
+        "Description": "需要快速找到東西嗎？ Braytech 有一個搜索 HUD，可在應用程序的任何位置使用。\n\n按  或點擊放大鏡按鈕，然後開始輸入！",
+        "Name": "搜索"
+      },
+      "Settings": {
+        "Description": "Braytech 充滿了各種設置，從深色主題到項目可見性選項再到設置同步。\n\n在頂上找到 _Settings_",
+        "Name": "設定"
+      },
+      "Views": {
+        "Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
+        "Name": "🦘 More"
+      }
+    }
+  },
+  "GuardianRank": {
+    "Current": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
+  },
+  "Item": {
+    "Ammo": "彈藥",
+    "AmmoType": "彈藥類型",
+    "ArmorStats": "護甲屬性",
+    "BasicCharacteristics": "基本訊息",
+    "Breaker": "職業",
+    "BreakerType": "職業類型",
+    "ClassEquipped": " {{name}} (已解鎖)",
+    "ClassPostmaster": " {{name}} (郵政官)",
+    "CollectionsRoll": "收藏品",
+    "Compare": "比較",
+    "CouldntFindItemForUnequip": "未能在指定的角色上找到 {{name}}'的位置上的裝備的物品",
+    "CraftingRequiredLevel": "需要武器等級 {{number}}",
+    "CurrentlyCantRoll": "該特性目前無法在該武器上取得",
+    "Energy": "查看次數",
+    "EnergyAffinity": "能量類型",
+    "EnergyCapacity": "能量",
+    "EnergyCost": "能量",
+    "EnergyMeter": "能量",
+    "EnergyUnused": "未使用",
+    "Inspect": "查看",
+    "Intrinsic": "固有框架",
+    "ItemAction": "動作",
+    "Mods": "模組",
+    "PerkEverything": "該特性適合所有活動",
+    "PerkPvE": "該特性適用于PVE",
+    "PerkPvP": "該特性適用于PVP",
+    "PerkRecommended": "該特性受到玩家推薦",
+    "Perks": "特性組合",
+    "PowerLimit": "能量上限",
+    "RedeemWithCode": "使用代碼 `{{code}}` 在 [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) 來解鎖此徽章",
+    "ShapedDate": " T.D. {{date}}",
+    "StatTotal": "總計",
+    "State": "數據",
+    "Stats": "統計數據",
+    "Sunset": "最後賽季",
+    "TransferMaximumStack": " {{name}} 的最大堆積上限為 {{size}}. 消耗掉一些物品並于稍後再試.",
+    "UndiscoveredCollectibleVendor": "獲取這個物品並添加進你的收藏之中",
+    "WeaponKills": "武器擊殺",
+    "WeaponStats": "武器屬性"
+  },
+  "Landing": {
+    "Blog": {
+      "AllPosts": "所有文章",
+      "Error": "目前無法載入博客文章",
+      "Name": "博客"
+    },
+    "CallToAction": {
+      "Text": "通過Braytech探索《天命》宇宙獲得甜蜜收穫並深入瞭解您與暗影力量的戰鬥"
+    },
+    "Featured": {
+      "ThisWeek": "本周在命運"
+    },
+    "Features": {
+      "Description": "Braytech 是一個充滿激情的項目.它的開發已經持續了兩年多，並且已經看到了許多增量添加和改進.它的開發者 Tom Chapman 是 Destiny 設計的粉絲，它強烈影響了 Braytech 的審美。\n\nBraytech 最初是一個清單應用程序，現已發展成為一個擁有眾多人才的怪物.它一直在完善和擴展。\n\n需要快速找到一些東西嗎？ 按  並開始輸入！ Braytech 有一個搜索 HUD，可在應用程序中的任何位置使用。\n\nBraytech 最初是為桌面用戶構建的，但作為移動應用程序運行和看起來很漂亮.實際上，Play 商店中有一個 [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa)",
+      "Name": "才華橫溢"
+    },
+    "Support": {
+      "Description": "使用 Bungie 的 API 構建這些漂亮的界面和圍欄需要付出努力和時間.我只能將其中的大部分用於業餘愛好，保持在線也需要花錢.正如我們所知，我對網站上的廣告持堅定立場.因此，我更願意自掏腰包支持這些項目，並依靠社區的慷慨解囊。\n\n通過支持我，您可以幫助確保我可以將這些項目保持在線，並幫助我繼續 添加很酷的新功能。",
+      "Name": "支援Braytech"
+    },
+    "Updates": {
+      "Name": "最近更新"
+    }
+  },
+  "Language": {
+    "Space": {
+      "MetresAbr_plural": "{{count}} 月"
+    },
+    "Time": {
+      "Frequency": {
+        "Daily": "每天",
+        "Weekly": "每周"
+      },
+      "Relative": {
+        "Future": "將在 {{duration}}",
+        "Past": "{{duration}} 前"
+      }
+    }
+  },
+  "Leaderboards": {
+    "ActiveScore": "🦘 Active Score",
+    "CollectionsScore": "🦘 Collections Score",
+    "LegacyScore": "🦘 Legacy Score",
+    "Rank": "🦘 Rank",
+    "TriumphScore": "🦘 Triumph Score"
+  },
+  "Legend": {
+    "Activity": {
+      "Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
+      "Name": "第一次復活"
+    },
+    "Commonality": {
+      "Description": "完成凱旋記錄並領取你的獎勵\n旅行者在觸及地球和其他世界擁有的奇妙事務與古怪寶藏\n樂趣在途中",
+      "Name": "罕見的珍寶和異域風格"
+    },
+    "Empty": "空的",
+    "Fishing": {
+      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
+      "LargestFish": "🦘 Largest Fish",
+      "Name": "🦘 Competitive Fishing",
+      "TypesCaught": "🦘 Types Caught"
+    },
+    "Ranks": {
+      "Description": "用你無畏的膽識航行于星際\n帶領火力戰隊擊敗黑暗的爪牙，亦或是熔爐競技場中相互競爭來獲得沙克斯本人的青睞。",
+      "Guardian": {
+        "Description": "準備接受光能與同伴的評估。",
+        "Name": "守衛者"
+      },
+      "Name": "守護者地位"
+    },
+    "Seals": {
+      "Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們"
+    }
+  },
+  "Loading": {
+    "BungieError": {
+      "Description": "此時無法加載關鍵 API 數據.這是一個間歇性問題.請重試。\n\n如果此錯誤仍然存在，則 API 可能會遇到更廣泛的中斷，或者您的本地網絡正在限制 Bungie API 請求.",
+      "Name": "Bungie 發生了錯誤"
+    },
+    "Error": {
+      "Description": "發生了意外跟不可恢復的情況."
+    },
+    "IndexedDBError": {
+      "Description": " 如果再次出現這種錯誤，很可能是因爲您的瀏覽器或者設備不兼容或配置不當導致的"
+    },
+    "IndexedDBErrorFatal": {
+      "Description": "嘗試訪問瀏覽器存儲時發生錯誤.\n\n請重新加載應用然後重試"
+    },
+    "IndexedDBOpenFailedError": {
+      "Description": "嘗試訪問瀏覽器存儲時發生錯誤.\n\n在隱私模式下有些瀏覽器不允許訪問 _Indexed DB_ \n\n請重新加載應用然後重試"
+    },
+    "MaintenanceError": {
+      "Description": "Bungie 接口當前維護中.\n\n請跟進 @BungieHelp 的推特獲取更多信息.",
+      "Name": "Bungie 維護中"
+    },
+    "ManifestDownloadError": {
+      "Description": "嘗試從Bungie下載清單出錯\n\n請重新加載應用然後重試",
+      "Name": "清單文件下載失敗"
+    },
+    "ManifestError": {
+      "Description": "嘗試從Bungie更新清單出錯\n\n請重新加載應用然後重試",
+      "Name": "清單文件錯誤"
+    },
+    "NoInternetError": {
+      "Description": "你離綫了嗎？你的瀏覽器覺得你離綫了"
+    },
+    "SettingsFetchError": {
+      "Description": "嘗試從Bungie獲取API配置時出錯，請啓動應用再試一次",
+      "Name": "配置失敗"
+    },
+    "Status": {
+      "DownloadingManifest": "正在從 Bungie 下載數據",
+      "FatalError": "嚴重錯誤",
+      "NoInternetError": "無網絡",
+      "Other": "正在啟動 Windows 95",
+      "ReadStoredPGCR": "載入已保存的戰鬥報告",
+      "SettingsFetch": "正在連接至 Bungie.net",
+      "StoreManifest": "正在保存清單數據"
+    },
+    "WaitingForBungie": "等待Bungie"
+  },
+  "Maps": {
+    "Context": {
+      "ChecklistsAndMore": "🦘 Checklists + More",
+      "NoChecklistItems": "無任何内容"
+    },
+    "Inspect": {
+      "Instructions": "使用说明",
+      "ProposeChanges": {
+        "Form": {
+          "Description": {
+            "Name": "描述"
+          },
+          "Issues": {
+            "Name": "問題"
+          },
+          "Screenshots": {
+            "Name": "截圖",
+            "Select": "選擇截圖"
+          },
+          "Video": {
+            "Name": "名稱"
+          }
+        },
+        "Name": "提出變更"
+      },
+      "RelatedVideo": "該階點有個關連的影片",
+      "RelatedVideoAction": "打開影片",
+      "Vendor": {
+        "NoSales": "新的库存."
+      }
+    },
+    "Nodes": {
+      "Unavailable": "不可用",
+      "UnavailableInGame": "不可用：此節點在游戲内不再可用",
+      "UnavailableUnreliableApi": "不可用：某事阻止此節點可靠地中繼其狀態."
+    },
+    "ProposeChanges": {
+      "Description": "提交修改此節點數據的提案，並為其他守護者改進_Maps_.",
+      "Form": {
+        "Description": {
+          "Placeholder": "示例：在最後一個房間遠端的一塊岩石旁"
+        },
+        "Issues": {
+          "Placeholder": "例如：該節點不再可訪問"
+        },
+        "Screenshots": {
+          "Description": "提議的屏幕截圖必須符合嚴格的質量標準：\n-1920x1080的顯示分辨率\n-沒有可見的 HUD\n-沒有可見的守護者或設備\n-沒有可見的敵人\n-最大視頻設置\n包括渲染分辨率200%"
+        }
+      }
+    },
+    "ScreenshotUnavailable": "截圖不可用",
+    "Surveyor": {
+      "Capture": "拍攝位置",
+      "CopyDefinitions": "複製定義",
+      "CopyNodes": "複製節點",
+      "NoNodes": "在地圖上選擇一個位置開始"
+    },
+    "Within": {
+      "Activity": "在活動中找到",
+      "ActivityName": "在活動中找到: {{string}}",
+      "AscendantChallenge": "在上緯挑戰: {{string}}",
+      "LostSector": "在遺落之地找到: {{string}}",
+      "Story": "在劇情中發現: {{string}}",
+      "Strike": "在日落打擊中發現: {{string}}"
+    }
+  },
+  "MemberLink": {
+    "Error": {
+      "Network": {
+        "Description": "發生網絡錯誤.這是一個臨時錯誤，可以通過關閉對話框並重試來解決.",
+        "Name": "網路錯誤"
+      },
+      "PrivateProgression": {
+        "Description": "此配置文件的進度數據不可用。他們的個人資料可能在 Bungie.net 上設置為私有",
+        "Name": "私人資料"
+      }
+    }
+  },
+  "MemberService": {
+    "Inactive": {
+      "Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
+    }
+  },
+  "Notifications": {
+    "NthMore": " 還有 {{number}} 個",
+    "NthRemaining": " {{number}} 人",
+    "PostmasterCapacityWarning": {
+      "DescriptionAlmostFull": "郵差幾乎用完了所有空間.如果妳不收回妳的物品, 妳會永遠失去它們!",
+      "DescriptionFull": "郵差用完了所有空間.如果妳不收回妳的物品, 妳會永遠失去它們!",
+      "Name": "警告!"
+    },
+    "PushNotifications": {
+      "Description": "您的設備取消了Voluspa向您發送推送通知的權限 \n\n如果這不是您想要的，您可能要檢查您的設置",
+      "Name": "通知推送"
+    }
+  },
+  "ProfileSearch": {
+    "ActiveProfile": "當前檔案",
+    "BungieNetProfile": "Bungie.net狀況",
+    "ChangeProfile": "更換檔案",
+    "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
+    "Error": {
+      "Banned": {
+        "Botting": "觀察到玩家採用機制，以避免不活動檢測對策 (Botting).",
+        "Dickhead": "傻逼",
+        "Hacking": "觀察到玩家使用外部工具來操縱參與規則（黑客）。",
+        "Teabagging": "觀察到玩家參與不利於友好環境的行為。"
+      },
+      "CharacterMissing": {
+        "Description": "你試圖加載的角色不可用，可能已被刪除",
+        "Name": "選擇不可用"
+      },
+      "MemberBanned": {
+        "Description": "該賬戶被禁止使用，而這并非錯誤",
+        "Name": "賬戶被禁用"
+      },
+      "PrivateProgression": {
+        "Description": "您的個人資料數據不可用，可能您的個人資料在Bungie.net上設定爲隱私\n\n您可以在Bungie.net上更改隱私設定或是通過以下方式對Braytech進行Bungie.net的身份驗證.",
+        "Name": "隱私狀況"
+      }
+    },
+    "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+    "NewLight": "🦘 New Light",
+    "NoProfilesFound": "沒有找到檔案",
+    "PreviousSearches": "歷史搜索",
+    "ReturnToAuthMembership": "返回 {{displayName}}",
+    "SavedProfile": "已保存檔案",
+    "SearchForPlayer": "搜索玩家",
+    "SearchPlaceholder": "輸入游戲標簽或 Steam 64位ID",
+    "SelectACharacter": "選擇壹個角色",
+    "TemporaryError": "Bungie發生了一個臨時錯誤"
+  },
+  "Progression": {
+    "Points": "積分",
+    "PointsNextRank": "積分直到下一個等級",
+    "PointsTotal": "總分",
+    "PrestigeNth": "聲望數值 {{number}}",
+    "Rank": "等級",
+    "RankNth": "等級 {{number}}",
+    "ResetVendor": "返回NPC以重置您的等級",
+    "Streak": "條紋",
+    "Title": "标题",
+    "TrialsPassage": {
+      "Flawless": "無瑕",
+      "FlawlessPassage": "無瑕券",
+      "WeeklyTimesFlawless": "本周無瑕次數",
+      "Wins": "勝利"
+    }
+  },
+  "Quests": {
+    "Details": {
+      "RelatedMapMode": "該任務目標有一個關聯的地圖節點，例如掃描目標或特定地點",
+      "Steps": "步驟"
+    },
+    "Info": {
+      "InventoryCapacity": "總計任務和賞金",
+      "NoBounties": "您獲得的獎勵將顯示在這裏",
+      "NoQuests": "你獲得的任務將出現在這裏."
+    }
+  },
+  "Search": {
+    "Error": {
+      "MissingDefinitions": "未能成功執行清單搜索，因爲索引中沒有相關定義"
+    },
+    "Examples": {
+      "Description": "描述:克洛維斯·布雷",
+      "Expiration": "過期:熾天使",
+      "Name": "名稱：米達",
+      "Source": "來源:平移",
+      "Type": "类型:斥候步槍"
+    },
+    "Placeholder": "輸入名稱或描述",
+    "Results": {
+      "MatchesAllHidden": "這裏有一場對局數據記錄，但你已選擇將其隱藏",
+      "NoMatches": "未找到結果",
+      "Top10": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗"
+    },
+    "ShortcutKey": " 按  鍵可從任意位置呼出搜索功能",
+    "Suggestions": "搜索支持過濾器作為前綴。您也可以通過清單標識符進行搜索。例如，在遊戲中最好的武器，「564802913」。\n\n結果會依名稱、來源和說明排列優先順序。",
+    "VanguardArchives": "歡迎來到先鋒檔案館"
+  },
+  "SeasonPass": {
+    "ProgressPassLevel": "赛季等级进度",
+    "ProgressPowerBonus": "力量獎勵進度",
+    "SeasonProgress": "賽季進度",
+    "SeasonProgressDays": "天"
+  },
+  "Settings": {
+    "Category": {
+      "Advanced": {
+        "Name": "高級"
+      },
+      "Common": {
+        "Name": "普通"
+      },
+      "PushNotifications": {
+        "Name": "推送通知"
+      }
+    },
+    "DIMSync": {
+      "Action": {
+        "Disable": {
+          "Description": "禁用同步並刪除存儲的 DIM 同步身份驗證令牌."
+        },
+        "Enable": {
+          "Description": "通過與 DIM Sync 交換您的 Bungie.net 身份驗證令牌來啟用同步."
+        }
+      },
+      "Info": "將您的設置與 DIM 同步以進行加載."
+    },
+    "Developer": {
+      "ExperimentalFeatures": {
+        "Description": "開始使用可能仍未開發完畢，改善或檢查質量的特性",
+        "Name": "啓用實驗特性"
+      },
+      "Maps": {
+        "Debug": {
+          "Description": "啟用地圖調試設定",
+          "Name": "地圖調試模式"
+        },
+        "LogDetails": {
+          "Description": "通過連接重寫啟用開發人員名單",
+          "Name": "記錄節點詳細日誌"
+        },
+        "Surveyor": {
+          "Description": " 額外的地圖控件允許輕鬆快速地收集地圖節點.",
+          "Name": "使用測量"
+        }
+      }
+    },
+    "IDB": {
+      "ClearCache": {
+        "Description": "清除緩存數據，如地圖.這些數據將按需下載.",
+        "Name": "刪除緩存"
+      },
+      "ClearManifest": {
+        "Description": "刪除存儲在此設備上的Destiny清單.Braytech 需要清單才能運行，下次啟動應用程序時將再次下載清單。",
+        "Name": "刪除清單"
+      },
+      "ClearReports": {
+        "Description": "刪除存儲在此設備上的所有游戲報告",
+        "Name": "清除報告"
+      },
+      "Usage": {
+        "Description": "天命清單與游戲報告的緩存.",
+        "Name": "使用"
+      }
+    },
+    "Interface": {
+      "AlternateAppIcon": {
+        "Info": "🦘 Alter the appearance of the app's icon."
+      },
+      "Bindings": {
+        "Info": "更改按鍵的外觀，目前只是視覺效果"
+      },
+      "FlipSubviewNav": {
+        "Info": "轉爲與衆不同以及在行動設備上用右手使用Braytech的用戶提供",
+        "Left": "左",
+        "Right": "右"
+      },
+      "ItemSize": {
+        "Info": "你可以調整庫存物品圖標的尺寸以適配大多數Braytech功能"
+      }
+    },
+    "ItemVisibility": {
+      "HideCompletedCollectibles": {
+        "Description": "在收藏品下隱藏已被獲取的收藏品.",
+        "Name": "隱藏已獲取的收藏品"
+      },
+      "HideCompletedRecords": {
+        "Description": "在成就下隱藏已完成的成就記錄.",
+        "Name": "隱藏已完成的成就"
+      },
+      "HideDudRecords": {
+        "Description": "從視圖中隱藏無用（空白或未使用）的記錄",
+        "Name": "隱藏無用的成就記錄"
+      },
+      "HideInvisibleCollectibles": {
+        "Description": "在收藏品下隱藏遊戲禁止查看的特定的收藏品.",
+        "Name": "隱藏不可見的收藏品"
+      },
+      "HideInvisibleRecords": {
+        "Description": "如果凱旋記錄是機密記錄，他將會在凱旋記錄頁面下顯示.",
+        "Name": "隱藏不可見的成就記錄"
+      },
+      "HideUnobtainableRecords": {
+        "Description": "從視圖中隱藏不可獲取的記錄",
+        "Name": "隱藏不可獲取的成就記錄"
+      }
+    },
+    "LS": {
+      "ResetEverything": {
+        "Description": "重置所有用戶設定，本地數據以及歷史數據.",
+        "Name": "重置所有内容"
+      },
+      "ResetNotifications": {
+        "Description": "將已關閉的通知充值為其默認狀態",
+        "Name": "重置通知"
+      },
+      "ResetProfileHistory": {
+        "Description": "刪除儲存的之前加載的成員列表檔案（角色選擇）",
+        "Name": "重置角色資料歷史"
+      },
+      "ResetTips": {
+        "Description": "將提示信息恢復為默認狀態",
+        "Name": "重置提示"
+      },
+      "ResetTrackedTriumphs": {
+        "Description": "取消跟踪所有用戶跟踪的成就.不會影響遊戲中的成就狀態.",
+        "Name": "重置成就追蹤"
+      }
+    },
+    "Language": {
+      "Colloquial": {
+        "Description": "啓用由用戶共享的口語以替代官方文本",
+        "Name": "使用口語"
+      }
+    },
+    "Maps": {
+      "Checklists": {
+        "Info": "切換顯示列表的可見性，保持整潔"
+      },
+      "Developer": {
+        "Info": "地圖開發者工具"
+      },
+      "ItemVisibility": {
+        "HideDiscoveredNodes": {
+          "Description": "如果該節點對應的收藏品或任務已完成，你可以選擇將其隱藏",
+          "Name": "因此已發現的節點"
+        },
+        "HidePatrols": {
+          "Description": "隱藏所有巡邏任務.",
+          "Name": "隱藏巡邏"
+        }
+      },
+      "Visual": {
+        "Atmosphere": {
+          "Description": "顯示天氣，如雲量.",
+          "Name": "氣候"
+        }
+      },
+      "VisualFidelity": {
+        "Info": "改變視覺繁榮的數量"
+      }
+    },
+    "Profile": {
+      "Info": "Braytech可以輕鬆地一次性查看多個玩家資料，但他會默認從您中查詢的最後一個玩家資料開始[玩家資料查詢(/profile-search).",
+      "NoProfileSelected": "選擇玩家資料"
+    },
+    "PushNotifications": {
+      "BraveBrowser": "您似乎使用愚蠢的瀏覽器, Brave：請確保瀏覽器設置中啟用了「使用 Google 服務推送消息傳遞」。",
+      "Condition": {
+        "AnyActivity": "所有活動",
+        "AnyMod": "所有模組",
+        "AnyReward": "所有獎勵",
+        "AnySale": "所有售賣物品",
+        "AnyShader": "🦘 Any Shader",
+        "Multiple": "多個",
+        "Uncollected": "未收集"
+      },
+      "Conditions": "條件",
+      "Configure": "配置推送通知",
+      "Event": "事件",
+      "Frequency": "頻率",
+      "Incompatible": "你的瀏覽器尚未支持推送通知",
+      "Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
+      "NoServiceWorker": "Service Worker 未被安装。请尝试重载 Braytech。",
+      "PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
+      "PreviewNotifications": {
+        "Description": "立即推送启用通知。",
+        "Name": "预览通知"
+      },
+      "ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
+      "Users": "🦘 Users"
+    },
+    "ReloadRequired": {
+      "Description": "选择重载应用以使您的修改立即生效。",
+      "Name": "需要重载"
+    },
+    "Reports": {
+      "Info": "下載後，報告將保存到設備存儲中，以便事後快速訪問.所有報告都與最初查看它們的成員相關聯.您可以在此處逐個清除它們.如果您下載了許多報告，您可能希望這樣做以最大程度地減少初始加載時間.",
+      "NoReports": "此設備上未存儲任何報告.",
+      "ReportsCount": "計數",
+      "ReportsMember": "成員"
+    },
+    "Search": {
+      "HideFeatureSuggestions": {
+        "Description": "屏住呼吸-我知道我在做什麼。",
+        "Name": "隱藏功能建議"
+      },
+      "ItemVisibilityOverride": {
+        "Description": "使用此設定可覆寫記錄和收藏品的全局項目可見性設定。",
+        "Name": "顯示已完成與已取得"
+      }
+    },
+    "SubCategory": {
+      "Authentication": "身份驗證",
+      "DIMSync": "DIM 同步",
+      "Developer": "開發者模式",
+      "IDB": "數據存儲",
+      "Interface": {
+        "AlternateAppIcon": "🦘 App Icon",
+        "Bindings": "按鈕外觀",
+        "FlipSubviewNav": "反轉子視圖導航",
+        "ItemSize": "庫存圖標大小"
+      },
+      "ItemVisibility": "項目可見性",
+      "LS": "本地數據",
+      "Language": "語言設定",
+      "Reports": "報告存儲",
+      "SavedProfile": "保存",
+      "Search": "搜尋",
+      "Synchronisation": "同步",
+      "System": "系統",
+      "Theme": "主題",
+      "Troubleshooting": "故障排除",
+      "VisualFidelity": "視覺保真度"
+    },
+    "Sync": {
+      "Action": {
+        "DeleteSyncedSettings": {
+          "Description": "關閉同步，並刪除儲存在Voluspa的設定.",
+          "Name": "刪除已同步内容"
+        },
+        "DownloadSyncedSettings": {
+          "Description": "立即下載同步的配置文件，並覆蓋當前配置.",
+          "Name": "下載同步配置文件"
+        },
+        "Enable": {
+          "Description": "啓用同步，同時與Voluspa定期同步."
+        }
+      },
+      "Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
+      "RequirementsNotMet": "同步需要您先于 Bungie.net驗證Braytech",
+      "State": {
+        "Merged": "上次合并于 {{duration}} 前",
+        "Synced": "上次同步于 {{duration}} 前"
+      }
+    },
+    "System": {
+      "PromptForMinorVersions": {
+        "Description": "即使是小版本更新也要通知我更新",
+        "Name": "小版本更新"
+      },
+      "ReloadAppAutomatically": {
+        "Description": "當 Braytech 的更新準備好時，無論您在做什麼，都會自動重新加載應用程序.",
+        "Name": "自動重新加載應用程序"
+      }
+    },
+    "Theme": {
+      "Black": {
+        "Name": "黑"
+      },
+      "Dark": {
+        "Name": "暗"
+      },
+      "Light": {
+        "Name": "亮"
+      },
+      "SystemPreference": {
+        "Name": {
+          "Description": "在支持的設備上，Braytech 將反映出您的系統設定偏好."
+        }
+      }
+    },
+    "Troubleshooting": {
+      "DumpServiceWorker": {
+        "Description": "嘗試註銷已啟用的後臺腳本.成功後重啟 app 將允許啟用新的後臺腳本.",
+        "Name": "關閉後臺腳本"
+      },
+      "UpdateServiceWorker": {
+        "Description": "嘗試立刻更新服務此功能將暫時禁用，您可以能會在後臺更新時候繼續使用Braytech,如果成功將提示您重新啓動應用程式",
+        "Name": "更新後臺腳本"
+      }
+    },
+    "VisualFidelity": {
+      "Gay": {
+        "Description": "振作起來 小逼崽子！用精彩絕倫的限量版 Braytech® 獨家產品點亮您的生活！技術創新.",
+        "Name": "啟用 ✨"
+      },
+      "ReducedMotion": {
+        "Description": "減少用戶界面的特效，即通過禁用各種動畫.降低 CPU 使用率.",
+        "Name": "減少特效"
+      }
+    }
+  },
+  "SyncService": {
+    "Delete": {
+      "Failure": {
+        "Description": "目前無法刪除您的設置這是一個臨時故障."
+      },
+      "Success": {
+        "Description": "您的設置已被刪除現在已禁用同步."
+      }
+    },
+    "Merge": {
+      "Failure": {
+        "Description": "嘗試合併您的設置時出現錯誤.這是一個臨時故障."
+      },
+      "Success": {
+        "Description": "你的設定已成功合并."
+      }
+    },
+    "Sync": {
+      "Failure": {
+        "Description": "嘗試同步您的設置時出現錯誤.這是一個臨時故障."
+      },
+      "Success": {
+        "Description": "你的設定已成功合并."
+      }
+    }
+  },
+  "Tooltip": {
+    "Actions": {
+      "Acquire": "取回",
+      "Compare": "比較",
+      "Equip": "裝備",
+      "Favourite": "收藏",
+      "Garbage": "垃圾",
+      "Inspect": "檢視",
+      "Lock": "鎖定",
+      "NotGarbage": "非垃圾",
+      "Select": "🦘 Select",
+      "Store": "寄存",
+      "Unfavourite": "取消收藏",
+      "Unlock": "解鎖",
+      "Vault": "保險庫"
+    },
+    "Item": {
+      "ExpiresIn": "在 {{duration}} 失效",
+      "NoDescription": "暫無描述.",
+      "Quantity": "數量",
+      "QuantityMax": "最大"
+    },
+    "Items": {
+      "StatTotal": "共計"
+    },
+    "Maps": {
+      "Availability": "可用：每 {{period}}",
+      "UntrackableChecklistItem": "無法追蹤的清單項"
+    }
+  },
+  "Triumphs": {
+    "AllCompleted": "所有完成項",
+    "AlmostComplete": {
+      "NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
+      "SeeNext": "查看接下來 {{number}} 個"
+    },
+    "AlmostCompleteTriumphs": "即將完成",
+    "Classified": {
+      "Description": "這個記錄已被歸檔並可能在之後被解密",
+      "Name": "已分類記錄"
+    },
+    "Details": {
+      "Completed": "已完成",
+      "FireteamLoading": "載入火力战隊成員",
+      "NoClanOrFireteam": "加入火力戰隊或公會看看你的守護者同伴如何在你身邊堆疊",
+      "NotCompleted": "未完成",
+      "OpenView": "打開查看詳細"
+    },
+    "DudTriumphs": "不可用",
+    "EventCard": "事件卡片",
+    "LegacySeal_plural": "昔日印章",
+    "LegacyTriumph_plural": "昔日凱旋記錄",
+    "LegacyTriumphs": {
+      "Description": "舊的凱旋記錄，這些記錄已經不能在獲得了，但是保存在這裏方便查閲."
+    },
+    "Lore": {
+      "SelectEntry": "選擇需要查閲的條目"
+    },
+    "Record": {
+      "Commonality": {
+        "Description": "被Voluspa收錄的玩家中有多少人獲得了這個記錄."
+      },
+      "Expiration": {
+        "Description": "此記錄一旦過期可能無法再獲取."
+      },
+      "Expires": "在 {{season}} 賽季結束時失效",
+      "IntervalFraction": " {{numerator}} 的 {{denominator}}",
+      "Score": {
+        "Description": " 該記錄的有限成就分數值."
+      },
+      "ScoreInterval": {
+        "Description": "在總記錄值的下一個未兌換區間的分數值."
+      }
+    },
+    "RecordsRedeemed": "您已取得所有這些記錄並選擇隱藏他們",
+    "RecordsUnavailable": "沒有可顯示的記錄",
+    "Seal": "印章",
+    "SealTitleSeasonSuffix": " {{title}} (第 {{season}}賽季)",
+    "Seal_plural": "印章",
+    "Seals": {
+      "AvailableTitle": "可用的標題：**{{title}}**",
+      "Commonality": {
+        "Description": "印章稀有度代表了 Voluspa 跟蹤的玩家的獲取百分比.",
+        "Name": "印章持有率"
+      },
+      "CommonalityGilded": {
+        "Description": " 被 Voluspa 編入索引並獲得此頭銜的守護者的百分比.",
+        "Name": "鍍金印章共性"
+      },
+      "PlayerTitle": "玩家稱號：**{{title}}**",
+      "SealCompleted": "已完成印章",
+      "SealGilded": "鍍金",
+      "SealGildedProgress": "鍍金的進展",
+      "SealProgress": "印章進度"
+    },
+    "Secret": {
+      "Description": "你尚未解開的謎團.",
+      "Name": "秘密勝利"
+    },
+    "Sorted": {
+      "Completion": "按完成度排序",
+      "Name": "🦘 Sorted by **Name**",
+      "Rarity": "按稀有度排序",
+      "Score": "按分數排序",
+      "Unsorted": "按Bungie默認排序"
+    },
+    "Tracked": {
+      "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
+      "SeeAll": "查看所有追蹤"
+    },
+    "TrackedTriumphs": "已跟蹤記錄",
+    "Triumph_plural": "成就",
+    "UnobtainableTriumphs": "無法獲得",
+    "Unredeemed": {
+      "Info": "為你的成就改到自豪同時別忘了兌換他們。",
+      "InfoWithScoreValue": "兌換這些凱旋記錄以取得 {{value}} 凱旋記錄點數.",
+      "Number": "{{number}} 個未兌換的凱旋記錄"
+    },
+    "UnredeemedTriumphs": "未兌換成就"
+  },
+  "Upsell": {
+    "Auth": {
+      "Description": "想查詢您的目標和其他數據進度嗎？通過Bungie.net進行身份驗證，並允許Braytech安全獲取您的個人游戲數據資料."
+    },
+    "Patreon": {
+      "Description": "我們都討厭廣告。他們很醜。他們很煩人。他們收集您的數據並將其出售給第三方。\n\n透過 Patreon 支援該應用程式，協助他們遠離 Braytech。無論是一次性的事情還是持續的承諾，每兩美元都會有所幫助！",
+      "Name": "保持無廣告",
+      "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
+      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon."
+    },
+    "Profile": {
+      "Action": "選取你的角色",
+      "Description": "想查看您的進展、兌換的記錄、發現的收藏品等等？ 加載您的個人資料並選擇您的角色。"
+    }
+  },
+  "Vendor": {
+    "FailureStrings": {
+      "NoFunds": "沒有足夠的材料",
+      "NoInventorySpace": "沒有足夠的空間",
+      "UniquenessViolation": "一次只能擁有一個"
+    }
+  },
+  "Voluspa": {
+    "AdjustGraph": {
+      "Description": "透過選取替代類型的圖表，以不同的方式檢視此資料。\n\n_Voluspa_ 從{{crawled}} 位玩家那裡收集數據。在這些玩家中，成功評估了 {{assessed}} 名以提供此數據。在 {{assessed}} 位經過評估的玩家中，有 {{value}} 名發現了此收藏品。",
+      "Description_record": "透過選取替代類型的圖表，以不同的方式檢視此資料。\n\n_Voluspa_ 從{{crawled}} 位玩家那裡收集數據。在這些玩家中，成功評估了 {{assessed}} 名以提供此數據。在 {{assessed}} 位經過評估的玩家中，有 {{value}} 名完成了此收記錄。",
+      "Name": "調整圖表"
+    },
+    "CollectedBy": " {{number}} 名玩家已收集",
+    "Commonality": "共通",
+    "CompletedBy": " {{number}} 名玩家已完成",
+    "Crawled": "{{number}} 玩家被Voluspa索引.",
+    "GraphType": {
+      "Frequency": "頻率",
+      "TimeSeries": "時間序列"
+    },
+    "LastCrawled": "{{time}} 最後索引",
+    "ProfilesAssessed": "評估設定檔"
+  },
+  "Weeklies": {
+    "Challenges": {
+      "ActivityBonus": "活動加成",
+      "ArtifactPower": {
+        "Description": "你的光等加成，由你裝備的季節性神器透過獲得經驗所引導。",
+        "Name": "神器力量加成"
+      },
+      "ArtifactPowerBonus": "力量獎勵",
+      "GearPower": {
+        "Description": "目前裝備武器的平均力量等級。",
+        "Name": "裝備力量"
+      },
+      "NoChallenges": "看來你的守護者本週已經完成了他們所有可用的挑戰。",
+      "Power": {
+        "Description": "你的光等是你目前裝備中所有裝備的能量值的總和。更高的光等會提高你的傷害輸出和防禦力。",
+        "Name": "光等"
+      },
+      "SeasonalChallenges": {
+        "Available": "{{number}} 季節性挑戰",
+        "Description": "完成賽季階級、明亮塵埃和其他獎勵的限時挑戰。",
+        "Name": "賽季挑戰"
+      },
+      "Type": {
+        "Bounties": "賞金單",
+        "Crucible": "熔爐",
+        "Dungeon": "地牢",
+        "Exotic": "異域",
+        "Expansion": "資料片",
+        "Gambit": "千謀百計",
+        "Raid": "突襲",
+        "Seasonal": "季節",
+        "Strikes": "打擊"
+      }
+    },
+    "Rotations": {
+      "Description": "輪換運行的儀式，使用這些預測來計劃你的努力。建築師有時會改變輪換，並且此視圖將相應地更改。",
+      "Name": "輪換"
+    }
+  }
 }
