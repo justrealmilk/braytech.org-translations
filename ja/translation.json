@@ -312,18 +312,18 @@
       "NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "今シーズンのアクティビティのみロードする。",
+          "Name": "現在のシーズン"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "対戦者やファイヤーチームを自分のクランのメンバーだけに絞り込む。",
+          "Name": "クランメンバー"
         }
       },
       "RomanticPartnerships": "最も仲が良いプレーヤー",
       "SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "トップの {{number}} ファイアチーム構成",
+      "TopFriends": "トップの {{number}} 一緒にアクティビティをプレイしたフレンド",
       "UndiscoveredFriends": "フレンド候補"
     },
     "RewardEngrams": "報酬のエングラム",
@@ -436,7 +436,7 @@
     "FireteamMembers": "ファイアチームのメンバー",
     "FireteamReserves": "参加予定",
     "FireteamSize": "ファイアチームの大きさ",
-    "Friend": "🦘 Friend",
+    "Friend": "フレンド",
     "Friend_plural": "フレンド",
     "GloryPoints": "栄光ポイント",
     "GuardianRank": "ガーディアンランク",
@@ -471,7 +471,7 @@
     "Rank_plural": "各ランク",
     "Record": "伝承",
     "Record_plural": "記録",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",
     "Reward": "報酬",
@@ -841,8 +841,8 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "リンクをクリップボードにコピーできませんでした。",
+      "Success": "リンクをクリップボードにコピーしました。"
     },
     "NthMore": "と {{number}} 件以上あります。",
     "NthRemaining": "他 {{number}} 件のお知らせ",
