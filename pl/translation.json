@@ -1,6 +1,9 @@
 {
   "Action": {
+    "Accept": "🦘 확인",
     "AddBookmark": "🦘 Add Bookmark",
+    "AddEvent": "🦘 이벤트 추가",
+    "AllClasses": "🦘 모든 직업",
     "Back": "🦘 Back",
     "BecomeAPatron": "🦘 Become a Patron",
     "Browse": "🦘 Browse",
@@ -9,17 +12,24 @@
     "Collapse": "🦘 Collapse",
     "Confirm": "🦘 Confirm",
     "Customise": "🦘 Customise",
+    "Delete": "🦘 삭제",
     "Disable": "🦘 Disable",
     "Dismiss": "🦘 Dismiss",
+    "Done": "🦘 완료",
     "Enable": "🦘 Enable",
     "Expand": "🦘 Expand",
     "GatherInVault": "🦘 Gather In Vault",
     "GoToBNet": "🦘 Go to Bungie.net",
+    "GoToMaps": "🦘 지도로 이동",
     "GoToTwitter": "🦘 Go to Twitter",
     "HideAcquired": "🦘 Hide Acquired",
     "HideCollectionsRolls": "🦘 Hide Possible Rolls",
+    "HideCompleted": "🦘 완료한 항목 숨김",
+    "HideDiscovered": "🦘 발견한 항목 숨김",
+    "HideHiddenStats": "🦘 고급 ",
     "HideRedeemed": "🦘 Hide Redeemed",
     "Jump": "🦘 Jump",
+    "Lock": "🦘 잠금",
     "MemberRemove": "🦘 Remove Member",
     "NextNth": "🦘 Next {{number}}",
     "Now": "🦘 Now",
@@ -37,12 +47,16 @@
     "Share": "🦘 Share",
     "ShowAll": "🦘 Show All",
     "ShowCollectionsRolls": "🦘 Show Possible Rolls",
+    "ShowHiddenStats": "🦘 기본 능력치",
     "TryAgain": "🦘 Try Again",
+    "Unlock": "🦘 잠금 해제",
     "UserReady": "🦘 Let's go!",
+    "ViewHistoricalData": "🦘 이전 판매 물품 보기",
     "ViewMore": "🦘 View More"
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
+    "ApproximateLength": "🦘 예상 소요시간",
     "Carnage": {
       "SelectDate": {
         "Info": "🦘 Select a date below and prepare to jump",
@@ -90,6 +104,7 @@
     },
     "ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
     "NoMedalsAwarded": "🦘 No Medals Awarded",
+    "NoStatsAvailable": "🦘 통계 없음",
     "PvP": "🦘 Player versus Player",
     "RecommendedLight": "🦘 Recommended light",
     "Score": {
@@ -139,8 +154,6 @@
   },
   "App": {
     "BungieError": "🦘 Bungie Error",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
       "Version": "🦘 Please quote the following string when reporting this error."
@@ -150,7 +163,8 @@
       "Name": "🦘 Pardon Our Dust"
     },
     "NetworkError": {
-      "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view."
+      "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
+      "Name": "🦘 네트워크 오류"
     },
     "ServiceWorkerInstalling": {
       "Description": "🦘 An app update is installing in the background."
@@ -164,7 +178,9 @@
       "Description": "🦘 Braytech requires modern browser features in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
       "Name": "🦘 Unsupported Browser"
     },
-    "Version": "🦘 Version"
+    "Version": "🦘 Version",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -276,6 +292,7 @@
       "Name": "🦘 Clan Banner Builder"
     },
     "ClanRoster": "🦘 Roster",
+    "ClanTimetable": "🦘 시간표",
     "Founded": "🦘 Founded {{time}}",
     "HistoricalStats": {
       "ViewportWidth": "🦘 Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
@@ -331,6 +348,7 @@
     }
   },
   "Collections": {
+    "AllAcquired": "🦘 모두 획득함",
     "Badge": "🦘 Badge",
     "Badge_plural": "🦘 Badges",
     "Badges": {
@@ -342,6 +360,9 @@
       "Progress": "🦘 Badge Progress"
     },
     "CollectedBy": "🦘 Collected",
+    "Collectible": {
+      "Commonality": "🦘 Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
+    },
     "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them.",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display.",
     "Grouped": {
@@ -359,6 +380,11 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "Acknowledgements": "🦘 감사의 말",
+    "AcknowledgementsInfo": "🦘 이 콘텐츠 중 일부는 제 3자의 지원으로 제공됩니다. 그러니 이 콘텐츠를 사용할 땐 그들이 쏟은 노력을 생각해주세요.",
+    "Actions": "🦘 Actions",
+    "Activate": "🦘 활성화",
+    "Active": "🦘 Active",
     "ActiveModifiers": "🦘 Active Modifiers",
     "ActiveScore": "🦘 Active Score",
     "Activity": "🦘 Activity",
@@ -367,8 +393,10 @@
     "Activity_plural": "🦘 Activities",
     "Addendums": "🦘 Addendums",
     "All": "🦘 All",
+    "Armour": "🦘 방어구",
     "AscendantChallenge": "🦘 Ascendant Challenge",
     "Authenticate": "🦘 Authenticate",
+    "Available": "🦘 Available",
     "AvailableActivities": "🦘 Available Activities",
     "Cancel": "🦘 Cancel",
     "Challenge": "🦘 Challenge",
@@ -380,7 +408,8 @@
     "Character_plural": "🦘 Characters",
     "Checklists": "🦘 Checklists",
     "Clan": "🦘 Clan",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "🦘 Clan Members",
     "Classified": "🦘 Classified",
     "Collectibles": "🦘 Collectibles",
@@ -389,9 +418,14 @@
     "CommendationAbr_plural": "🦘 Comms.",
     "Completed": "🦘 Completed",
     "CruciblePlaylist": "🦘 Crucible Playlist",
+    "DateTime": "🦘 날짜/시간",
     "Equipment": "🦘 Equipment",
     "Error": "🦘 Error",
+    "Event": "🦘 이벤트",
+    "EventNth": "🦘 1 Event",
+    "EventNth_plural": "🦘 {{count}} イベント",
     "Examples": "🦘 Examples",
+    "Expiration": "🦘 만료",
     "Expired": "🦘 Expired",
     "Expiry": "🦘 Expiry",
     "Failure": "🦘 Failure",
@@ -400,6 +434,8 @@
     "FeaturedPlaylist": "🦘 Featured Playlist",
     "Fireteam": "🦘 Fireteam",
     "FireteamMembers": "🦘 Fireteam Members",
+    "FireteamReserves": "🦘 예비 화력팀",
+    "FireteamSize": "🦘 화력팀 크기",
     "Friend": "🦘 Friend",
     "Friend_plural": "🦘 Friends",
     "GloryPoints": "🦘 Glory Points",
@@ -410,10 +446,14 @@
     "InfamyPoints": "🦘 Infamy Points",
     "Inspect": "🦘 Inspect",
     "Inventory": "🦘 Inventory",
+    "ItemRolls": "🦘 아이템 목록",
     "Items": "🦘 Items",
     "LegacyScore": "🦘 Legacy Score",
     "LevelNth": "🦘 Level {{number}}",
+    "Location": "🦘 위치",
+    "Lore": "🦘 지식",
     "LoreBook": "🦘 Lore Book",
+    "Map": "🦘 지도",
     "Medals": "🦘 Medals",
     "MembersOnline": "🦘 {{number}} Online",
     "Name": "🦘 Name",
@@ -430,18 +470,22 @@
     "Quests": "🦘 Quests",
     "Rank_plural": "🦘 Ranks",
     "Record": "🦘 Record",
+    "Record_plural": "🦘 업적",
     "Report_plural": "🦘 Reports",
+    "Reputation": "🦘 평판",
     "Reset": "🦘 Reset",
     "Reward": "🦘 Reward",
     "Reward_plural": "🦘 Rewards",
     "Savathûn'sCurse": "🦘 Savathûn's Curse",
     "Score": "🦘 Score",
     "ScoreValue": "🦘 Score Value",
+    "Screenshot": "🦘 스크린샷",
     "Search": "🦘 Search",
     "SeasonNth": "🦘 Season {{number}}",
     "SeasonPass": "🦘 Season Pass",
     "SeasonRank": "🦘 Season Rank",
     "SeasonYearNth": "🦘 Season {{season}}, Year {{year}}",
+    "Season_plural": "🦘 시즌",
     "Settings": "🦘 Settings",
     "Source": "🦘 Source",
     "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
@@ -449,16 +493,35 @@
     "Submit": "🦘 Submit",
     "Support": "🦘 Support",
     "TimePlayed": "🦘 Time Played",
+    "TimeRemaining": "🦘 남은 시간",
     "Translator_plural": "🦘 Translators",
+    "TrialsPassage": "🦘 시험 통행권",
+    "TrialsPoints": "🦘 시험 점수",
     "TriumphScore": "🦘 Triumph Score",
     "Triumphs": "🦘 Triumphs",
     "Unknown": "🦘 Unknown",
     "Users": "🦘 Users",
     "ValorPoints": "🦘 Valor Points",
+    "VanguardPoints": "🦘 선봉대 점수",
+    "Vendor": "🦘 ",
     "Vendor_plural": "🦘 Vendors",
     "Views": "🦘 Views",
     "Weapon": "🦘 Weapon",
-    "WeekNth": "🦘 Week {{number}}"
+    "WeekNth": "🦘 Week {{number}}",
+    "Week_plural": "🦘 주일"
+  },
+  "Event": {
+    "FestivalOfTheLost": {
+      "Description": "🦘 죽음 앞에서 웃고, 사탕을 모으고, 마스크를 쓰고, 잠식해오는 어둠에 맞서 싸우세요.",
+      "Name": "🦘 사자들의 축제"
+    },
+    "IronBanner": {
+      "Description": "🦘 일주일 동안 진행되는 특별한 시련의 장 이벤트로서, 6명으로 구성된 팀이 가장 경쟁적인 형태의 점령에서 정면승부로 도전합니다."
+    },
+    "TheDawning": {
+      "Description": "🦘 유로파의 살을 에는 듯한 추위도 이 특별한 연중행사 기간에는 수호자의 따뜻한 마음을 얼릴 수는 없을 것 입니다. 여명이 돌아왔습니다.",
+      "Name": "🦘 여명"
+    }
   },
   "FAQ": {
     "API": {
@@ -529,7 +592,11 @@
   },
   "Item": {
     "Ammo": "🦘 Ammo",
+    "AmmoType": "🦘 사용 탄약",
+    "ArmorStats": "🦘 방어구 스텟",
+    "BasicCharacteristics": "🦘 기본 속성",
     "Breaker": "🦘 Breaker",
+    "BreakerType": "🦘 대 용사 속성",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "🦘 Collections Roll",
@@ -538,6 +605,7 @@
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
     "CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",
     "Energy": "🦘 Energy",
+    "EnergyAffinity": "🦘 에너지 속성",
     "EnergyCapacity": "🦘 Energy",
     "EnergyCost": "🦘 Energy",
     "EnergyMeter": "🦘 Energy",
@@ -551,13 +619,17 @@
     "PerkPvP": "🦘 This perk is encouraged for Crucible engagements",
     "PerkRecommended": "🦘 This perk is recommended",
     "Perks": "🦘 Perks",
+    "PowerLimit": "🦘 전투력 제한",
     "RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
     "ShapedDate": "🦘 T.D. {{date}}",
+    "StatTotal": "🦘 총",
     "State": "🦘 State",
     "Stats": "🦘 Stats",
+    "Sunset": "🦘 시즌 전투력 상한선",
     "TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
     "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
-    "WeaponKills": "🦘 Weapon Kills"
+    "WeaponKills": "🦘 Weapon Kills",
+    "WeaponStats": "🦘 최대 사용 가능한 시즌"
   },
   "Landing": {
     "Blog": {
@@ -585,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "🦘 {{metres}} Mtrs"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "🦘 {{metres}} Mtrs",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -630,7 +705,8 @@
       "Name": "🦘 Guardian Standing"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -764,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "🦘 and {{number}} more",
     "NthRemaining": "🦘 {{number}} others",
     "PostmasterCapacityWarning": {
@@ -823,6 +903,7 @@
     "Streak": "🦘 Streak",
     "Title": "🦘 Title",
     "TrialsPassage": {
+      "Flawless": "🦘 무결점",
       "FlawlessPassage": "🦘 Flawless Passage",
       "WeeklyTimesFlawless": "🦘 Flawless This Week",
       "Wins": "🦘 Wins"
@@ -830,6 +911,7 @@
   },
   "Quests": {
     "Details": {
+      "RelatedMapMode": "🦘 이 퀘스트 단계에는 스캔 가능한 구조물 또는 위치와 관련된 맵 노드가 있습니다.",
       "Steps": "🦘 Steps"
     },
     "Info": {
@@ -852,6 +934,7 @@
     "Placeholder": "🦘 enter name or description",
     "Results": {
       "MatchesAllHidden": "🦘 There is a match, but you've chosen to hide it!",
+      "MatchesAllHidden_plural": "🦘  {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
       "NoMatches": "🦘 Nothing matched your terms.",
       "Top10": "🦘 Showing the top 10 matches. Press  at any time for a full search experience."
     },
@@ -860,6 +943,7 @@
     "VanguardArchives": "🦘 Welcome to the Vanguard archives."
   },
   "SeasonPass": {
+    "ProgressPassLevel": "🦘 시즌 등급 진행 상황",
     "ProgressPowerBonus": "🦘 Power Bonus Progress",
     "SeasonProgress": "🦘 Season Progress",
     "SeasonProgressDays": "🦘 Days"
@@ -1074,6 +1158,7 @@
     },
     "SubCategory": {
       "Authentication": "🦘 Authentication",
+      "DIMSync": "🦘 DIM 동기화",
       "Developer": "🦘 Developer",
       "IDB": "🦘 Database Storage",
       "Interface": {
@@ -1136,9 +1221,7 @@
         "Name": "🦘 Light"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "🦘 Where supported, Braytech will mirror your system preference."
-        }
+        "Description": "🦘 Where supported, Braytech will mirror your system preference."
       }
     },
     "Troubleshooting": {
@@ -1210,12 +1293,16 @@
       "Quantity": "🦘 Quantity",
       "QuantityMax": "🦘 Max"
     },
+    "Items": {
+      "StatTotal": "🦘 총"
+    },
     "Maps": {
       "Availability": "🦘 Available: every {{period}}",
       "UntrackableChecklistItem": "🦘 Untrackable Checklist Item"
     }
   },
   "Triumphs": {
+    "AllCompleted": "🦘 모두 완료했습니다.",
     "AlmostComplete": {
       "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
       "SeeNext": "🦘 See Next {{number}}"
@@ -1246,6 +1333,10 @@
       "Commonality": {
         "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record."
       },
+      "Expiration": {
+        "Description": "🦘 이 업적은 만료되면 더 이상 얻을 수 없습니다."
+      },
+      "Expires": "🦘 {{season}} 시즌 종료와 함께 만료됩니다.",
       "IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
       "Score": {
         "Description": "🦘 This record's finite triumph score value."
@@ -1257,6 +1348,7 @@
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
     "RecordsUnavailable": "🦘 There are no records available for display.",
     "Seal": "🦘 Seal",
+    "SealTitleSeasonSuffix": "🦘 {{title}} ({{season}}시즌)",
     "Seal_plural": "🦘 Seals",
     "Seals": {
       "AvailableTitle": "🦘 Available title: **{{title}}**",
@@ -1319,7 +1411,8 @@
     "FailureStrings": {
       "NoFunds": "🦘 Not Enough Materials",
       "NoInventorySpace": "🦘 Not Enough Space",
-      "UniquenessViolation": "🦘 Can only hold one at a time"
+      "UniquenessViolation": "🦘 Can only hold one at a time",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {
@@ -1328,7 +1421,9 @@
       "Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
       "Name": "🦘 Adjust Graph"
     },
+    "CollectedBy": "🦘 {{number}}명의 유저가 이것을 획득했습니다.",
     "Commonality": "🦘 Commonality",
+    "CompletedBy": "🦘 {{number}}명의 유저가 이것을 완료했습니다.",
     "Crawled": "🦘 {{number}} players are currently crawled by Voluspa.",
     "GraphType": {
       "Frequency": "🦘 Frequency",

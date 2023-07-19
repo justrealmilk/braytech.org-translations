@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungie 发生错误",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech 遇到了致命错误。如果帮助文档无法解决您的问题请加入 [Discord](https://discord.bray.tech) 以获得进一步帮助。",
       "Version": "请在报告错误时带上下方的文字"
@@ -180,7 +178,9 @@
       "Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@className=warning@",
       "Name": "不支持当前浏览器中使用。"
     },
-    "Version": "版本"
+    "Version": "版本",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,7 +408,8 @@
     "Character_plural": "角色",
     "Checklists": "清单",
     "Clan": "公会",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "公会成员",
     "Classified": "机密",
     "Collectibles": "可收集",
@@ -656,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "{{count}} 米"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "{{count}} 米",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -836,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "还有 {{number}} 个",
     "NthRemaining": "剩余 {{number}} 个",
     "PostmasterCapacityWarning": {
@@ -1213,9 +1221,7 @@
         "Name": "亮"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Braytech 将会在支持的设备上使用你的系统设置。"
-        }
+        "Description": "Braytech 将会在支持的设备上使用你的系统设置。"
       }
     },
     "Troubleshooting": {

@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Erro da Bungie",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech encontrou um erro fatal. Se uma das ações disponíveis não resolver o problema, por favor, entre no [Discord](https://discord.bray.tech) para mais assistência.",
       "Version": "Por favor, cite a linha seguinte ao reportar este erro."
@@ -180,7 +178,9 @@
       "Description": "Braytech requer funções de um navegador mais atual para operar. Os requisitos mínimos do navegador são definidos para permitir que navegadores com mais de um ano executem o Braytech. Por isso, se você encontrar esta mensagem, é hora de se mudar para algo novo.\n\nUm navegador baseado em Chromium como o Microsoft Edge é recomendado.@className=warning@",
       "Name": "Navegador não Suportado"
     },
-    "Version": "Versão"
+    "Version": "Versão",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,7 +408,8 @@
     "Character_plural": "Personagens",
     "Checklists": "Checklists",
     "Clan": "🦘 Clan",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "Membros do Clã",
     "Classified": "Secreto",
     "Collectibles": "Colecionáveis",
@@ -656,6 +657,7 @@
   },
   "Language": {
     "Space": {
+      "MetresAbr": "🦘 1 Mtr",
       "MetresAbr_plural": "Mtrs",
       "WeightAbr": "🦘 {{count}} Kg",
       "WeightAbr_plural": "🦘 {{count}} Kg"
@@ -703,7 +705,8 @@
       "Name": "🦘 Guardian Standing"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -837,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "e mais {{number}}",
     "NthRemaining": "{{number}} outros",
     "PostmasterCapacityWarning": {
@@ -1214,9 +1221,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Em dispositivos que permitem, Braytech copiará as preferências de tema do seu sistema."
-        }
+        "Description": "Em dispositivos que permitem, Braytech copiará as preferências de tema do seu sistema."
       }
     },
     "Troubleshooting": {
@@ -1406,7 +1411,8 @@
     "FailureStrings": {
       "NoFunds": "Materiais Insuficientes",
       "NoInventorySpace": "Espaço Insuficiente",
-      "UniquenessViolation": "Só pode possuir um por vez"
+      "UniquenessViolation": "Só pode possuir um por vez",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

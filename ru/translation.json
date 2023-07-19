@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Ошибка Bungie",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "На Braytech произошла фатальная ошибка. Если ни одно доступное решение не помогло решить вашу проблему, то зайдите в [Discord](https://discord.bray.tech) для дальнейшей поддержки.",
       "Version": "Пожалуйста, цитируйте последующие строки, когда сообщаете об ошибке."
@@ -180,7 +178,9 @@
       "Description": "Для работы Braytech требуются современные возможности браузера. Минимальные требования к браузеру установлены таким образом, чтобы браузеры, которым уже более года, могли запускать Braytech. Поэтому, если вы видете это сообщение, пора переходить на что-то новое.\n\nРекомендуется использовать браузер на базе Chromium, например, Microsoft Edge.@className=warning@",
       "Name": "Неподдерживаемый браузер"
     },
-    "Version": "Версия"
+    "Version": "Версия",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,7 +408,8 @@
     "Character_plural": "Персонажи",
     "Checklists": "Списки объектов",
     "Clan": "🦘 Clan",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "Клан",
     "Classified": "Засекречено",
     "Collectibles": "Предметы",
@@ -422,6 +423,7 @@
     "Error": "Ошибка",
     "Event": "Событие",
     "EventNth": "1 Событие",
+    "EventNth_plural": "🦘 1 Evento",
     "Examples": "🦘 Examples",
     "Expiration": "Срок действия",
     "Expired": "Истекло",
@@ -655,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "{{count}} м"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "{{count}} м",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -700,7 +705,8 @@
       "Name": "🦘 Guardian Standing"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -834,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "и еще {{number}}",
     "NthRemaining": "{{number}} других",
     "PostmasterCapacityWarning": {
@@ -924,6 +934,7 @@
     "Placeholder": "введите имя или описание",
     "Results": {
       "MatchesAllHidden": "Есть результаты, но вы предпочли скрыть их!",
+      "MatchesAllHidden_plural": "🦘 Há uma correspondênca, mas vocês optaram por escondê-la!",
       "NoMatches": "По вашему запросу ничего не найдено.",
       "Top10": "Отображаются первые 10 результатов. Нажмите , чтобы использовать полноразмерный поиск."
     },
@@ -1210,9 +1221,7 @@
         "Name": "Светлая"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "На позволяющих это устройствах Braytech будет использовать настройки системы."
-        }
+        "Description": "На позволяющих это устройствах Braytech будет использовать настройки системы."
       }
     },
     "Troubleshooting": {
@@ -1402,7 +1411,8 @@
     "FailureStrings": {
       "NoFunds": "Недостаточно материалов",
       "NoInventorySpace": "Недостаточно места",
-      "UniquenessViolation": "Может быть только 1"
+      "UniquenessViolation": "Может быть только 1",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

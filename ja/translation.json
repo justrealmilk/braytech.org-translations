@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungieエラー",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech内部で致命的なエラーが発生しました。 問題が解決しない場合、[Discord](https://discord.bray.tech) からお問い合わせください。",
       "Version": "このエラーを報告する際には、以下の文字列を引用してください。"
@@ -180,7 +178,9 @@
       "Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
       "Name": "非対応のブラウザー"
     },
-    "Version": "バージョン"
+    "Version": "バージョン",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,7 +408,8 @@
     "Character_plural": "キャラクター",
     "Checklists": "チェックリスト",
     "Clan": "クラン",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "クランメンバー",
     "Classified": "機密情報",
     "Collectibles": "収集品",
@@ -656,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "{{count}} メートル"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "{{count}} メートル",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -701,7 +705,8 @@
       "Name": "ガーディアンの地位"
     },
     "Seals": {
-      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。"
+      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -835,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "と {{number}} 件以上あります。",
     "NthRemaining": "他 {{number}} 件のお知らせ",
     "PostmasterCapacityWarning": {
@@ -1212,9 +1221,7 @@
         "Name": "ライト"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
-        }
+        "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
       }
     },
     "Troubleshooting": {
@@ -1404,7 +1411,8 @@
     "FailureStrings": {
       "NoFunds": "資源が不足しています",
       "NoInventorySpace": "空きスペースがありません",
-      "UniquenessViolation": "複数所持はできません"
+      "UniquenessViolation": "複数所持はできません",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

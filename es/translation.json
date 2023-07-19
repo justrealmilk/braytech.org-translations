@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Error de Bungie",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech ha encontrado un error fatal. Si una de las acciones disponibles no resuelve tu problema, por favor únete al [Discord](https://discord.bray.tech) para obtener más ayuda.",
       "Version": "Por favor, cita la siguiente línea cuando informes de este error."
@@ -180,7 +178,9 @@
       "Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
       "Name": "Navegador no soportado"
     },
-    "Version": "Versión"
+    "Version": "Versión",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,7 +408,8 @@
     "Character_plural": "Personajes",
     "Checklists": "Coleccionables",
     "Clan": "Clan",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "🦘 Clan Member",
+    
     "ClanMembersNth": "Miembros del clan",
     "Classified": "Clasificado",
     "Collectibles": "Coleccionables",
@@ -656,6 +657,7 @@
   },
   "Language": {
     "Space": {
+      "MetresAbr": "🦘 1 Mtr",
       "MetresAbr_plural": "{{count}} m",
       "WeightAbr": "{{count}} kg",
       "WeightAbr_plural": "{{count}} kg"
@@ -703,7 +705,8 @@
       "Name": "Reputación del Guardián"
     },
     "Seals": {
-      "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien."
+      "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
+      "Name": "🦘 Triumph Seals"
     }
   },
   "Loading": {
@@ -837,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "y {{number}} más",
     "NthRemaining": "{{number}} otros",
     "PostmasterCapacityWarning": {
@@ -1214,9 +1221,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
-        }
+        "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
       }
     },
     "Troubleshooting": {
@@ -1406,7 +1411,8 @@
     "FailureStrings": {
       "NoFunds": "No hay suficientes materiales",
       "NoInventorySpace": "No hay espacio suficiente",
-      "UniquenessViolation": "Solo puedes tener uno a la vez"
+      "UniquenessViolation": "Solo puedes tener uno a la vez",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {
