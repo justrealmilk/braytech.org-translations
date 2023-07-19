@@ -409,7 +409,7 @@
     "Checklists": "🦘 Checklists",
     "Clan": "🦘 Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "🦘 Clan Members",
     "Classified": "🦘 Classified",
     "Collectibles": "🦘 Collectibles",
@@ -1221,6 +1221,7 @@
         "Name": "🦘 Light"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "🦘 Where supported, Braytech will mirror your system preference."
       }
     },

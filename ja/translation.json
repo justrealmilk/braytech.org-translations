@@ -409,7 +409,7 @@
     "Checklists": "チェックリスト",
     "Clan": "クラン",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "クランメンバー",
     "Classified": "機密情報",
     "Collectibles": "収集品",
@@ -1221,6 +1221,7 @@
         "Name": "ライト"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
       }
     },

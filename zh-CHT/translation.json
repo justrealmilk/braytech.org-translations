@@ -409,7 +409,7 @@
     "Checklists": "清單",
     "Clan": "🦘 Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "公會成員",
     "Classified": "分類",
     "Collectibles": "可收集",
@@ -1221,6 +1221,7 @@
         "Name": "亮"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "在支持的設備上，Braytech 將反映出您的系統設定偏好."
       }
     },

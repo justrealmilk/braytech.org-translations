@@ -409,7 +409,7 @@
     "Checklists": "Списки объектов",
     "Clan": "🦘 Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Клан",
     "Classified": "Засекречено",
     "Collectibles": "Предметы",
@@ -1221,6 +1221,7 @@
         "Name": "Светлая"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "На позволяющих это устройствах Braytech будет использовать настройки системы."
       }
     },

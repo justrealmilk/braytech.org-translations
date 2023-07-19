@@ -409,7 +409,7 @@
     "Checklists": "Checklists",
     "Clan": "🦘 Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Membros do Clã",
     "Classified": "Secreto",
     "Collectibles": "Colecionáveis",
@@ -1221,6 +1221,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "Em dispositivos que permitem, Braytech copiará as preferências de tema do seu sistema."
       }
     },

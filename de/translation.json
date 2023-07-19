@@ -409,7 +409,7 @@
     "Checklists": "Checklisten",
     "Clan": "Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Clan-Mitglieder",
     "Classified": "Klassifiziert",
     "Collectibles": "Sammlerstücke",
@@ -1221,6 +1221,7 @@
         "Name": "Hell"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "Auf Geräten, die dies zulassen, spiegelt Braytech deine Systemeinstellungen wider."
       }
     },

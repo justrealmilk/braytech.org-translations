@@ -409,7 +409,7 @@
     "Checklists": "체크리스트",
     "Clan": "🦘 Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "클랜원",
     "Classified": "기밀",
     "Collectibles": "수집품",
@@ -1221,6 +1221,7 @@
         "Name": "라이트"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."
       }
     },

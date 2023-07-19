@@ -409,7 +409,7 @@
     "Checklists": "Coleccionables",
     "Clan": "Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Miembros del clan",
     "Classified": "Clasificado",
     "Collectibles": "Coleccionables",
@@ -1221,6 +1221,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
       }
     },

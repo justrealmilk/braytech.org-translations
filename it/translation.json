@@ -409,7 +409,7 @@
     "Checklists": "Collezionabili",
     "Clan": "Clan",
     "ClanMember": "🦘 Clan Member",
-    
+    "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Membri clan",
     "Classified": "Censurato",
     "Collectibles": "Collezionabili",
@@ -1221,6 +1221,7 @@
         "Name": "Chiaro"
       },
       "SystemPreference": {
+        "Name": "🦘 Match System",
         "Description": "Sur les appareils qui le permettent, Braytech reflétera vos préférences système."
       }
     },
