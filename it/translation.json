@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Errore di Bungie",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech ha incontrato un errore fatale. Se una delle azioni disponibili non risolve il problema, per favore unisciti al [Discord](https://discord.bray.tech) (in inglese) per ulteriore assistenza.",
       "Version": "Si prega di citare quanto segue quando si segnala questo errore."
@@ -180,7 +178,9 @@
       "Description": "Braytech richiede le funzionalità dei browser moderni per operare. Se ricevi questo messaggio, è ora di passare a qualcosa di nuovo.\n\nSi consiglia un browser basato su Chromium come ad esempio Microsoft Edge.@className=warning@",
       "Name": "Browser non supportato"
     },
-    "Version": "Versione"
+    "Version": "Versione",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,6 +408,7 @@
     "Character_plural": "Personaggi",
     "Checklists": "Collezionabili",
     "Clan": "Clan",
+    "ClanMember": "🦘 Clan Member",
     "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Membri clan",
     "Classified": "Censurato",
@@ -656,6 +657,7 @@
   },
   "Language": {
     "Space": {
+      "MetresAbr": "🦘 1 Mtr",
       "MetresAbr_plural": "{{count}} m",
       "WeightAbr": "🦘 {{count}} Kg",
       "WeightAbr_plural": "🦘 {{count}} Kg"
@@ -838,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "e altri {{number}}",
     "NthRemaining": "{{number}} rimanenti",
     "PostmasterCapacityWarning": {
@@ -1215,9 +1221,8 @@
         "Name": "Chiaro"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Se supportato, Braytech rispecchierà le tue preferenze di sistema."
-        }
+        "Name": "🦘 Match System",
+        "Description": "Sur les appareils qui le permettent, Braytech reflétera vos préférences système."
       }
     },
     "Troubleshooting": {
@@ -1407,7 +1412,8 @@
     "FailureStrings": {
       "NoFunds": "Non hai abbastanza materiali",
       "NoInventorySpace": "Non hai abbastanza spazio",
-      "UniquenessViolation": "Puoi averne solo uno alla volta"
+      "UniquenessViolation": "Puoi averne solo uno alla volta",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

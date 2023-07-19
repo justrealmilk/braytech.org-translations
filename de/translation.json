@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungie-Fehler",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech hat einen schwerwiegenden Fehler festgestellt. Wenn eine der vorgeschlagenen Aktionen dein Problem nicht behebt, tritt dem [Discord](https://discord.bray.tech) bei, um weitere Hilfe zu erhalten.",
       "Version": "Bitte gib den folgenden Text an, wenn du diesen Fehler meldest."
@@ -180,12 +178,20 @@
       "Description": "Braytech benötigt moderne Browserfunktionen, um zu funktionieren. Die Mindestanforderungen an den Browser sind so festgelegt, dass Braytech auch mit Browsern ausgeführt werden kann, die weit über ein Jahr alt sind. Wenn du diese Meldung siehst, ist es an der Zeit, einen neuen Browser zu verwenden. Wir empfehlen einen Chromium-basierten Browser wie Microsoft Edge.@className=warning@",
       "Name": "Nicht unterstützter Browser"
     },
-    "Version": "Version"
+    "Version": "Version",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
       "Description": "Die Überlieferung der alten Grimoire-Karten von Destiny 1 wird hier gesichert, archiviert und aufbewahrt. Grimoire ist eine Datenbank innerhalb von Destiny. Die Einträge wurden durch Spielen des Spiels in Form von \"Karten\" freigeschaltet.\n\nDie Liste der Grimoire-Einträge ist in sechs Hauptkategorien unterteilt: Hüter, Inventar, Verbündete, Feinde, Orte und Aktivitäten. Jede dieser Kategorien hat eine Reihe von Unterkategorien.",
       "Name": "Grimoire"
+    },
+    "Guides": {
+      "VowOfTheDisciple": {
+        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
+        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
+      }
     }
   },
   "Auth": {
@@ -402,6 +408,7 @@
     "Character_plural": "Charaktere",
     "Checklists": "Checklisten",
     "Clan": "Clan",
+    "ClanMember": "🦘 Clan Member",
     "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Clan-Mitglieder",
     "Classified": "Klassifiziert",
@@ -650,6 +657,7 @@
   },
   "Language": {
     "Space": {
+      "MetresAbr": "1 m",
       "MetresAbr_plural": "{{meters}} m",
       "WeightAbr": "🦘 {{count}} Kg",
       "WeightAbr_plural": "🦘 {{count}} Kg"
@@ -697,7 +705,8 @@
       "Name": "🦘 Guardian Standing"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Seals"
     }
   },
   "Loading": {
@@ -831,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "und {{number}} mehr",
     "NthRemaining": "{{number}} weitere",
     "PostmasterCapacityWarning": {
@@ -1208,9 +1221,8 @@
         "Name": "Hell"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Auf Geräten, die dies zulassen, spiegelt Braytech deine Systemeinstellungen wider."
-        }
+        "Name": "🦘 Match System",
+        "Description": "Auf Geräten, die dies zulassen, spiegelt Braytech deine Systemeinstellungen wider."
       }
     },
     "Troubleshooting": {
@@ -1400,7 +1412,8 @@
     "FailureStrings": {
       "NoFunds": "Nicht ausreichend Materialien",
       "NoInventorySpace": "Nicht ausreichend Platz",
-      "UniquenessViolation": "Besitz nur von einem möglich"
+      "UniquenessViolation": "Besitz nur von einem möglich",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungie 오류",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech에서 치명적인 오류가 발생했습니다. 사용할 수 있는 작업 중 하나도 문제를 해결하지 못할 경우 [Discord](https://discord.bray.tech)에 참여해 추가 지원을 받을 수 있습니다.",
       "Version": "이 오류를 제보할 때 다음 내용을 첨부해주세요."
@@ -180,7 +178,9 @@
       "Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
       "Name": "지원하지 않는 브라우저"
     },
-    "Version": "버전"
+    "Version": "버전",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,6 +408,7 @@
     "Character_plural": "캐릭터",
     "Checklists": "체크리스트",
     "Clan": "🦘 Clan",
+    "ClanMember": "🦘 Clan Member",
     "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "클랜원",
     "Classified": "기밀",
@@ -422,6 +423,7 @@
     "Error": "오류",
     "Event": "이벤트",
     "EventNth": "🦘 1 Event",
+    "EventNth_plural": "🦘 {{count}} イベント",
     "Examples": "🦘 Examples",
     "Expiration": "만료",
     "Expired": "만료됨",
@@ -655,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "{{count}}미터"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "{{count}}미터",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -700,7 +705,8 @@
       "Name": "🦘 Guardian Standing"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well."
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -834,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "외 {{number}}건",
     "NthRemaining": "🦘 {{number}} others",
     "PostmasterCapacityWarning": {
@@ -924,6 +934,7 @@
     "Placeholder": "이름 또는 설명을 입력하세요",
     "Results": {
       "MatchesAllHidden": "결과가 나왔지만 이걸 숨긴 상태네요!",
+      "MatchesAllHidden_plural": "🦘  {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
       "NoMatches": "설정한 조건과 맞는 결과가 없습니다.",
       "Top10": "상위 10개의 결과를 표시합니다. 전체 검색 결과를 보려면  를 누르세요."
     },
@@ -1210,9 +1221,8 @@
         "Name": "라이트"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."
-        }
+        "Name": "🦘 Match System",
+        "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."
       }
     },
     "Troubleshooting": {
@@ -1402,7 +1412,8 @@
     "FailureStrings": {
       "NoFunds": "재료가 충분하지 않습니다.",
       "NoInventorySpace": "공간이 부족합니다.",
-      "UniquenessViolation": "한 번에 하나만 소지할 수 있습니다."
+      "UniquenessViolation": "한 번에 하나만 소지할 수 있습니다.",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

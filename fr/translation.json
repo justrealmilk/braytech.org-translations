@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Erreur Bungie",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech a rencontré une erreur fatale. Si l'une des actions disponibles ne résout pas votre problème, veuillez rejoindre le [Discord](https://discord.bray.tech) pour obtenir de l'aide.",
       "Version": "Veuillez citer la chaîne suivante lorsque vous signalez cette erreur."
@@ -180,7 +178,9 @@
       "Description": "Braytech nécessite des fonctionnalités de navigateur modernes pour fonctionner. Les exigences minimales du navigateur sont définies pour permettre aux navigateurs de plus d'un an d'exécuter Braytech. En tant que tel, si vous rencontrez ce message, il est temps de passer à quelque chose de nouveau.\n\nUn navigateur basé sur Chromium tel que Microsoft Edge est recommandé.@className=warning@",
       "Name": "Navigateur non supporté"
     },
-    "Version": "Version"
+    "Version": "Version",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,6 +408,7 @@
     "Character_plural": "Personnages",
     "Checklists": "Listes importantes",
     "Clan": "Clan",
+    "ClanMember": "🦘 Clan Member",
     "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "Membres de clan",
     "Classified": "Classifié",
@@ -656,6 +657,7 @@
   },
   "Language": {
     "Space": {
+      "MetresAbr": "🦘 1 Mtr",
       "MetresAbr_plural": "{{count}} m",
       "WeightAbr": "🦘 {{count}} Kg",
       "WeightAbr_plural": "🦘 {{count}} Kg"
@@ -703,7 +705,8 @@
       "Name": "Valeur du Gardien"
     },
     "Seals": {
-      "Commonality": "Emblèmes de victoire\n\nLa mesure ultime d'un complétiste et d'un collectionneur; portez-les bien."
+      "Commonality": "Emblèmes de victoire\n\nLa mesure ultime d'un complétiste et d'un collectionneur; portez-les bien.",
+      "Name": "🦘 Triumph Seals"
     }
   },
   "Loading": {
@@ -837,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": "et {{number}} supplémentaire",
     "NthRemaining": "{{number}} autres restants",
     "PostmasterCapacityWarning": {
@@ -1214,9 +1221,8 @@
         "Name": "Clair"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Sur les appareils qui le permettent, Braytech reflétera vos préférences système."
-        }
+        "Name": "🦘 Match System",
+        "Description": "Sur les appareils qui le permettent, Braytech reflétera vos préférences système."
       }
     },
     "Troubleshooting": {
@@ -1406,7 +1412,8 @@
     "FailureStrings": {
       "NoFunds": "Pas assez de matériaux",
       "NoInventorySpace": "Pas assez de place",
-      "UniquenessViolation": "Ne peut en tenir qu'un à la fois"
+      "UniquenessViolation": "Ne peut en tenir qu'un à la fois",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {

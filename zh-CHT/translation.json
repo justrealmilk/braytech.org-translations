@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungie 發生錯誤",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech 發生了致命錯誤，如幫助無法解決您的問題請加入[Discord](https://discord.bray.tech)獲得支持",
       "Version": "請在報告錯誤的時候帶上下面的文字"
@@ -180,7 +178,9 @@
       "Description": "Braytech需要現代化的瀏覽器來運作，運行Barytech的瀏覽器最低要求最近一年有過更新記錄。所以，當你遇到了本提示，是時候該換個新的瀏覽器了守護者。\n\n推薦使用基於Chromium的瀏覽器，例如 Microsoft Edge",
       "Name": "瀏覽器不支持"
     },
-    "Version": "版本"
+    "Version": "版本",
+    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
+    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
   },
   "Archives": {
     "Grimoire": {
@@ -408,6 +408,7 @@
     "Character_plural": "角色",
     "Checklists": "清單",
     "Clan": "🦘 Clan",
+    "ClanMember": "🦘 Clan Member",
     "ClanMember_plural": "🦘 Clan Members",
     "ClanMembersNth": "公會成員",
     "Classified": "分類",
@@ -422,6 +423,7 @@
     "Error": "錯誤",
     "Event": "公開事件",
     "EventNth": "公開事件",
+    "EventNth_plural": "🦘 1 Evento",
     "Examples": "例子",
     "Expiration": "失效",
     "Expired": "失效",
@@ -655,7 +657,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr_plural": "{{count}} 月"
+      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr_plural": "{{count}} 月",
+      "WeightAbr": "🦘 {{count}} Kg",
+      "WeightAbr_plural": "🦘 {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -700,7 +705,8 @@
       "Name": "守護者地位"
     },
     "Seals": {
-      "Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們"
+      "Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們",
+      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
@@ -834,6 +840,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "🦘 I failed to copy this link to your clipboard.",
+      "Success": "🦘 A link has been copied to your clipboard."
+    },
     "NthMore": " 還有 {{number}} 個",
     "NthRemaining": " {{number}} 人",
     "PostmasterCapacityWarning": {
@@ -924,6 +934,7 @@
     "Placeholder": "輸入名稱或描述",
     "Results": {
       "MatchesAllHidden": "這裏有一場對局數據記錄，但你已選擇將其隱藏",
+      "MatchesAllHidden_plural": "🦘 Há uma correspondênca, mas vocês optaram por escondê-la!",
       "NoMatches": "未找到結果",
       "Top10": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗"
     },
@@ -1210,9 +1221,8 @@
         "Name": "亮"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "在支持的設備上，Braytech 將反映出您的系統設定偏好."
-        }
+        "Name": "🦘 Match System",
+        "Description": "在支持的設備上，Braytech 將反映出您的系統設定偏好."
       }
     },
     "Troubleshooting": {
@@ -1402,7 +1412,8 @@
     "FailureStrings": {
       "NoFunds": "沒有足夠的材料",
       "NoInventorySpace": "沒有足夠的空間",
-      "UniquenessViolation": "一次只能擁有一個"
+      "UniquenessViolation": "一次只能擁有一個",
+      "UnknownError": "🦘 Unknown error"
     }
   },
   "Voluspa": {
