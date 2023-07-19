@@ -1215,9 +1215,7 @@
         "Name": "Chiaro"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Se supportato, Braytech rispecchierà le tue preferenze di sistema."
-        }
+        "Description": "Se supportato, Braytech rispecchierà le tue preferenze di sistema."
       }
     },
     "Troubleshooting": {
