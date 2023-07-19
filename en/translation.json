@@ -154,8 +154,6 @@
   },
   "App": {
     "BungieError": "Bungie Error",
-    "CopyLinkFail": "I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "A link has been copied to your clipboard.",
     "ErrorBoundary": {
       "Discord": "Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance.",
       "Version": "Please quote the following when reporting this error."
@@ -657,9 +655,9 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "{{count}} Mtr",
+      "MetresAbr": "1 Mtr",
       "MetresAbr_plural": "{{count}} Mtrs",
-      "WeightAbr": "{{count}} Kg",
+      "WeightAbr": "1 Kg",
       "WeightAbr_plural": "{{count}} Kgs"
     },
     "Time": {
@@ -840,6 +838,10 @@
     }
   },
   "Notifications": {
+    "CopyLink": {
+      "Fail": "I failed to copy this link to your clipboard.",
+      "Success": "A link has been copied to your clipboard."
+    },
     "NthMore": "and {{number}} more",
     "NthRemaining": "{{number}} others",
     "PostmasterCapacityWarning": {
@@ -1217,9 +1219,8 @@
         "Name": "Light"
       },
       "SystemPreference": {
-        "Name": {
-          "Description": "Where supported, Braytech will mirror your system preference."
-        }
+        "Name": "Match System",
+        "Description": "Where supported, Braytech will mirror your system preference."
       }
     },
     "Troubleshooting": {
