@@ -56,14 +56,12 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "ApproximateLength": "예상 소요시간",
     "Carnage": {
       "SelectDate": {
         "Info": "🦘 Select a date below and prepare to jump",
         "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
       }
     },
-    "Cooperative": "협력",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -72,14 +70,9 @@
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
     },
-    "FreeForAll": "난투",
     "Graphs": {
       "SelectDate": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요."
     },
-    "LevelAdvantagesDisabled": "레벨 혜택 비활성화",
-    "LevelAdvantagesEnabled": "레벨 혜택 활성화",
-    "Matchmaking": "매치메이킹",
-    "MaxParty": "플레이어 {{number}}명",
     "Modes": {
       "Bar": {
         "PvPLoss": "패배",
@@ -105,14 +98,11 @@
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "PvP": "플레이어 대 플레이어",
-    "RecommendedLight": "추천 전투력",
     "Score": {
       "Team": "🦘 Team Score"
     },
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
-    "SinglePlayer": "싱글 플레이어",
     "Standing": {
       "Defeat": "패배",
       "DidNotFinish": "🦘 Player did not finish",
@@ -176,20 +166,12 @@
       "Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
       "Name": "지원하지 않는 브라우저"
     },
-    "Version": "버전",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "버전"
   },
   "Archives": {
     "Grimoire": {
       "Description": "과거의 지식, 데스티니 1의 그리모어 카드들은 이곳에 백업, 보관 및 보존됩니다. 그리모어는 데스티니 안의 데이터베이스입니다. 게임플레이를 통해 \"카드\" 형태로 수집할 수 있습니다.\n\n그리모어의 목록은 6개의 주요 범주(수호자, 인벤토리, 동맹국, 적, 장소 및 활동)로 정렬됩니다. 각 범주에는 여러 하위 범주가 있습니다.",
       "Name": "그리모어"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
@@ -259,16 +241,6 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "광휘 가루 아이템",
-      "CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
-      "EververseCalendar": "에버버스 달력",
-      "FeaturedBrightDustItems": "추천된 광휘 가루 아이템",
-      "FeaturedSilverItems": "추천된 실버 ",
-      "ShowAllItems": "모든 아이템",
-      "ShowSilverOnlyItems": "실버 한정 아이템 보기",
-      "SilverOnlyItems": "실버 한정 아이템"
     }
   },
   "Clan": {
@@ -376,8 +348,6 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
-    "Acknowledgements": "감사의 말",
-    "AcknowledgementsInfo": "이 콘텐츠 중 일부는 제 3자의 지원으로 제공됩니다. 그러니 이 콘텐츠를 사용할 땐 그들이 쏟은 노력을 생각해주세요.",
     "Actions": "🦘 Actions",
     "Activate": "활성화",
     "Active": "🦘 Active",
@@ -505,19 +475,6 @@
     "Weapon": "무기",
     "WeekNth": "{{number}}주",
     "Week_plural": "주일"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "죽음 앞에서 웃고, 사탕을 모으고, 마스크를 쓰고, 잠식해오는 어둠에 맞서 싸우세요.",
-      "Name": "사자들의 축제"
-    },
-    "IronBanner": {
-      "Description": "일주일 동안 진행되는 특별한 시련의 장 이벤트로서, 6명으로 구성된 팀이 가장 경쟁적인 형태의 점령에서 정면승부로 도전합니다."
-    },
-    "TheDawning": {
-      "Description": "유로파의 살을 에는 듯한 추위도 이 특별한 연중행사 기간에는 수호자의 따뜻한 마음을 얼릴 수는 없을 것 입니다. 여명이 돌아왔습니다.",
-      "Name": "여명"
-    }
   },
   "FAQ": {
     "API": {

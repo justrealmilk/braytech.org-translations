@@ -56,14 +56,12 @@
   },
   "Activity": {
     "ActiveRotator": "Rotación activa",
-    "ApproximateLength": "Duración aproximada",
     "Carnage": {
       "SelectDate": {
         "Info": "Selecciona una fecha a continuación y prepárate para dar el salto",
         "Waiting": "Agarraos—cuantas más actividades hagáis y más lejos saltéis, más tiempo tardaremos.\n\nLa API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos baleando los datos."
       }
     },
-    "Cooperative": "Cooperativo",
     "Fireteam": {
       "Closed": "Escuadra cerrada",
       "Full": "Escuadra llena",
@@ -72,14 +70,9 @@
       "Open": "Escuadra abierta",
       "SinglePlayer": "Actividad de un jugador"
     },
-    "FreeForAll": "Todos contra todos",
     "Graphs": {
       "SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba."
     },
-    "LevelAdvantagesDisabled": "Ventajas de nivel desactivadas",
-    "LevelAdvantagesEnabled": "Ventajas de nivel activadas",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} jugadores",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -105,14 +98,11 @@
     "ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
     "NoMedalsAwarded": "No se concedieron medallas",
     "NoStatsAvailable": "No hay estadísticas disponibles",
-    "PvP": "Jugador contra jugador",
-    "RecommendedLight": "Luz recomendada",
     "Score": {
       "Team": "Puntaje del equipo"
     },
     "SelectMode": "Elige modo",
     "SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
-    "SinglePlayer": "Un jugador",
     "Standing": {
       "Defeat": "Derrota",
       "DidNotFinish": "El jugador no terminó",
@@ -176,20 +166,12 @@
       "Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
       "Name": "Navegador no soportado"
     },
-    "Version": "Versión",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Versión"
   },
   "Archives": {
     "Grimoire": {
       "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
       "Name": "Grimorio"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
@@ -259,16 +241,6 @@
       "StasisDamage": "Daño de estasis",
       "StrandDamage": "Daño de cuerda",
       "VoidDamage": "Daño de vacío"
-    },
-    "Vendors": {
-      "BrightDustItems": "Objetos por polvo brillante",
-      "CrossSaveSilver": "Tu saldo de plata es devuelto por la API solo para la plataforma en la que está jugando actualmente.",
-      "EververseCalendar": "Calendario de Eververso",
-      "FeaturedBrightDustItems": "Objetos destacados por polvo brillante",
-      "FeaturedSilverItems": "Objetos destacados por plata",
-      "ShowAllItems": "Todos los objetos",
-      "ShowSilverOnlyItems": "Mostrar solo los objetos por plata",
-      "SilverOnlyItems": "Objetos solo por plata"
     }
   },
   "Clan": {
@@ -376,8 +348,6 @@
     "SentAbr": "Env."
   },
   "Common": {
-    "Acknowledgements": "Agradecimientos",
-    "AcknowledgementsInfo": "Parte de estos contenidos son proporcionados generosamente por terceros. Por favor, piensa en ellos y en el esfuerzo que realizaron cuando consumas sus obras.",
     "Actions": "Acciones",
     "Activate": "Iniciar",
     "Active": "Activo",
@@ -505,19 +475,6 @@
     "Weapon": "Arma",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante regresa para la Fiesta de las Almas Perdidas. Esta es una ocasión para que los guardianes se deleiten con golosinas, se pongan máscaras irreverentes y celebren los recuerdos de quienes ya no están.\n\nEl Bosque Encantado está abierto de nuevo. Esta vez, la Araña quiere hacer un trato para obtener tu ayuda.",
-      "Name": "Fiesta de las Almas Perdidas"
-    },
-    "IronBanner": {
-      "Description": "Un evento especial del Crisol que durante una semana desafía a equipos de 6 a enfrentarse en la versión más competitiva de Control. Las ventajas de nivel de Luz están activadas."
-    },
-    "TheDawning": {
-      "Description": "Ni siquiera el frío penetrante de Europa puede congelar los cálidos corazones de los guardianes durante esta especial época del año. ¡La Aurora regresa!",
-      "Name": "La Aurora"
-    }
   },
   "FAQ": {
     "API": {

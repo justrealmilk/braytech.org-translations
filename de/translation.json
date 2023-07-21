@@ -56,14 +56,12 @@
   },
   "Activity": {
     "ActiveRotator": "Aktive Rotation",
-    "ApproximateLength": "Ungefähre Länge",
     "Carnage": {
       "SelectDate": {
         "Info": "Wählen Sie unten ein Datum aus und machen Sie sich bereit zum Sprung",
         "Waiting": "Je mehr Aktivitäten du spielst und je weiter du springst, desto länger wird es dauern!\n\nBungies API ermöglicht es nicht, den Aktivitätsverlauf eines bestimmten Zeitraums abzufragen, also machen wir einen Drive-by."
       }
     },
-    "Cooperative": "Partnerschaft",
     "Fireteam": {
       "Closed": "Einsatztrupp geschlossen",
       "Full": "Einsatztrupp voll",
@@ -72,14 +70,9 @@
       "Open": "Einsatztrupp offen",
       "SinglePlayer": "Einzelspieler-Aktivität"
     },
-    "FreeForAll": "Deathmatch",
     "Graphs": {
       "SelectDate": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus."
     },
-    "LevelAdvantagesDisabled": "Levelvorteile deaktiviert",
-    "LevelAdvantagesEnabled": "Levelvorteile aktiviert",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} Spieler",
     "Modes": {
       "Bar": {
         "PvPLoss": "Verloren",
@@ -105,14 +98,11 @@
     "ModifiersUnavailable": "Modifikatoren sind momentan nicht verfügbar.",
     "NoMedalsAwarded": "Keine Medaillen verliehen",
     "NoStatsAvailable": "Es sind keine Statistiken verfügbar",
-    "PvP": "Spieler gegen Spieler",
-    "RecommendedLight": "empfohlenes Powerlevel",
     "Score": {
       "Team": "Team Score"
     },
     "SelectMode": "Modus auswählen",
     "SelectModeInfo": "Um eine bestimmte Aktivität aufzuschlüsseln, wähle einen Modus aus dem Menü oben aus",
-    "SinglePlayer": "Einzelspieler",
     "Standing": {
       "Defeat": "Niederlage",
       "DidNotFinish": "Spieler hat die Aktivität nicht abgeschlossen",
@@ -143,9 +133,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech war und ist eine Mehrzweckanlage für Entwickler, in der sie üben und lernen können, wie sie besser programmieren und mit anderen zusammenarbeiten können. Es begann als cooles Hobby, um die Zeit zu vertreiben, und verwandelte sich in ein Monster.\n\nDieses Biest wurde von einem Mann aus Australien entwickelt, aber nicht ohne die moralische Unterstützung und Anleitung anderer, die er hier gerne anführen möchte.\n\nDie Entwicklergemeinschaft von Drittanbietern, die in Destinys Hinterhof wächst, ist eine Art, die sich gegenseitig hilft und eine schöne Sache ist. Danke also der Crew von [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/) und allen anderen, die Tom zurück auf den Boden geholt haben, während er versucht hat, die verrücktesten Dinge zu tun."
-      }
+      "Info": "Braytech war und ist eine Mehrzweckanlage für Entwickler, in der sie üben und lernen können, wie sie besser programmieren und mit anderen zusammenarbeiten können. Es begann als cooles Hobby, um die Zeit zu vertreiben, und verwandelte sich in ein Monster.\n\nDieses Biest wurde von einem Mann aus Australien entwickelt, aber nicht ohne die moralische Unterstützung und Anleitung anderer, die er hier gerne anführen möchte.\n\nDie Entwicklergemeinschaft von Drittanbietern, die in Destinys Hinterhof wächst, ist eine Art, die sich gegenseitig hilft und eine schöne Sache ist. Danke also der Crew von [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/) und allen anderen, die Tom zurück auf den Boden geholt haben, während er versucht hat, die verrücktesten Dinge zu tun."
     },
     "Privacy": {
       "Info": "Kurz und bebündig: Braytech verwendet keine Cookies oder andere Mechanismen, um dich zu verfolgen, und zielt auch nicht auf dich zu Werbezwecken ab (Braytech hat nicht mal Werbung).\n\nWenn du weitere Fragen zu diesem Punkt hast, kannst du gerne dem [Discord](https://discord.bray.tech) beitreten.",
@@ -178,20 +166,12 @@
       "Description": "Braytech benötigt moderne Browserfunktionen, um zu funktionieren. Die Mindestanforderungen an den Browser sind so festgelegt, dass Braytech auch mit Browsern ausgeführt werden kann, die weit über ein Jahr alt sind. Wenn du diese Meldung siehst, ist es an der Zeit, einen neuen Browser zu verwenden. Wir empfehlen einen Chromium-basierten Browser wie Microsoft Edge.@className=warning@",
       "Name": "Nicht unterstützter Browser"
     },
-    "Version": "Version",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Version"
   },
   "Archives": {
     "Grimoire": {
       "Description": "Die Überlieferung der alten Grimoire-Karten von Destiny 1 wird hier gesichert, archiviert und aufbewahrt. Grimoire ist eine Datenbank innerhalb von Destiny. Die Einträge wurden durch Spielen des Spiels in Form von \"Karten\" freigeschaltet.\n\nDie Liste der Grimoire-Einträge ist in sechs Hauptkategorien unterteilt: Hüter, Inventar, Verbündete, Feinde, Orte und Aktivitäten. Jede dieser Kategorien hat eine Reihe von Unterkategorien.",
       "Name": "Grimoire"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
@@ -261,16 +241,6 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "Glanzstaub-Gegenstände",
-      "CrossSaveSilver": "Dein Silber-Kontostand wird von der API nur für die Plattform zurückgegeben, auf der du das Spiel gerade spielst.",
-      "EververseCalendar": "Everversum-Kalender",
-      "FeaturedBrightDustItems": "Ausgewählte Glanzstaub-Gegenstände",
-      "FeaturedSilverItems": "Ausgewählte Silber-Gegenstände",
-      "ShowAllItems": "Alle Gegenstände",
-      "ShowSilverOnlyItems": "Zeige nur Silver-Gegenstände",
-      "SilverOnlyItems": "Nur Silber-Gegenstände"
     }
   },
   "Clan": {
@@ -378,8 +348,6 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
-    "Acknowledgements": "Danksagung",
-    "AcknowledgementsInfo": "Ein Teil dieser Inhalte wird großzügig von Dritten zur Verfügung gestellt. Denke  beim Konsumieren bitte an sie und ihren geleisteten Aufwand.",
     "Actions": "Aktionen",
     "Activate": "Aktivieren",
     "Active": "Aktiv",
@@ -507,19 +475,6 @@
     "Weapon": "Waffe",
     "WeekNth": "Woche {{number}}",
     "Week_plural": "Wochen"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Lache angesichts des Todes, sammle Süßigkeiten, trage Masken und kämpfe gegen die eindringende Dunkelheit.\n\nEva Levante ist als Herold des Festivals der Verlorenen zurückgekehrt. Dieser Feiertag ist eine Zeit für Hüter, sich ihren süßen Zähnen hinzugeben, respektlose Masken aufzusetzen und die Erinnerungen derer zu feiern, die wir verloren haben.\n\nDer Spukwald ist wieder geöffnet, und diesmal möchte The Spider um Ihre Zusammenarbeit verhandeln.",
-      "Name": "Festival der Verlorenen"
-    },
-    "IronBanner": {
-      "Description": "Ein besonderes, einwöchiges Schmelztiegel-Event, in dem Sechs-Mann-Teams in der härtesten Variante von _Kontrolle_ gegeneinander antreten. Powerlevel-Vorteile sind aktiv."
-    },
-    "TheDawning": {
-      "Description": "Selbst die bissige Kälte Europas kann die warmen Herzen der Hüter in dieser besonderen Jahreszeit nicht einfrieren. Der Anbruch ist zurückgekehrt.",
-      "Name": "Der Anbruch"
-    }
   },
   "FAQ": {
     "API": {

@@ -56,14 +56,12 @@
   },
   "Activity": {
     "ActiveRotator": "本周轮换",
-    "ApproximateLength": "大致长度",
     "Carnage": {
       "SelectDate": {
         "Info": "选择一组数据",
         "Waiting": "系好安全带 - 您玩的活动越多，跳得越远，所需的时间就越长！\n\nBungie 的 API 暂不支持请求特定时期的活动历史记录"
       }
     },
-    "Cooperative": "合作",
     "Fireteam": {
       "Closed": "火力战队关闭",
       "Full": "火力战队已满",
@@ -72,14 +70,9 @@
       "Open": "火力战队开放",
       "SinglePlayer": "单人活动"
     },
-    "FreeForAll": "对所有人免费",
     "Graphs": {
       "SelectDate": "从上图选择一个有活动的日期"
     },
-    "LevelAdvantagesDisabled": "光等优势禁用",
-    "LevelAdvantagesEnabled": "光等优势启用",
-    "Matchmaking": "匹配中",
-    "MaxParty": "{{number}} 名玩家",
     "Modes": {
       "Bar": {
         "PvPLoss": "失败",
@@ -105,14 +98,11 @@
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
-    "PvP": "玩家对玩家",
-    "RecommendedLight": "推荐能量",
     "Score": {
       "Team": "团队得分"
     },
     "SelectMode": "选择模式",
     "SelectModeInfo": "要查看特定活动，请从上方的界面处选择一个模式",
-    "SinglePlayer": "单人玩家",
     "Standing": {
       "Defeat": "虽败犹荣",
       "DidNotFinish": "玩家未完成活动",
@@ -176,20 +166,12 @@
       "Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@className=warning@",
       "Name": "不支持当前浏览器中使用。"
     },
-    "Version": "版本",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "版本"
   },
   "Archives": {
     "Grimoire": {
       "Description": "古老的传说故事，《命运 1》中的魔典卡牌归档并呈现于此",
       "Name": "魔典"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "有关门徒誓约突袭的信息呈现于此",
-        "Name": "门徒誓约"
-      }
     }
   },
   "Auth": {
@@ -259,16 +241,6 @@
       "StasisDamage": "冰影属性武器",
       "StrandDamage": "缚丝伤害武器",
       "VoidDamage": "虚空属性武器"
-    },
-    "Vendors": {
-      "BrightDustItems": "光尘物品",
-      "CrossSaveSilver": "你的银币余额只有登录相应的平台账号才能被正确查询到。",
-      "EververseCalendar": "永恒之诗商店日历",
-      "FeaturedBrightDustItems": "精选光尘物品",
-      "FeaturedSilverItems": "精选银币物品",
-      "ShowAllItems": "所有物品",
-      "ShowSilverOnlyItems": "只显示银币售卖物品",
-      "SilverOnlyItems": "银币售卖物品"
     }
   },
   "Clan": {
@@ -376,8 +348,6 @@
     "SentAbr": "已送出"
   },
   "Common": {
-    "Acknowledgements": "致谢",
-    "AcknowledgementsInfo": "部分内容由第三方提供，在使用其成果时请谨记他们曾付出的努力。",
     "Actions": "行动",
     "Activate": "激活",
     "Active": "激活",
@@ -505,19 +475,6 @@
     "Weapon": "武器",
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "伊娃·莱万特再次作为英灵日的传令官回归。这个节日是守护者们满足甜食欲望，戴上不敬的面具来纪念失去之人回忆的时间。\n\n鬼蜮森林再次开放，而这次蛛王想要与你交易，谈谈这次的合作。与他会面，把暗码解码器装满你的囊中，并在鬼蜮森林的黑暗走廊里与时间赛跑。保持冷静与警惕，说不定最后不止一个宝箱等待着你。",
-      "Name": "英灵日"
-    },
-    "IronBanner": {
-      "Description": "为期一周的特殊熔炉竞技场活动，以 6 人团队参加最具竞技性的占领模式。在铁旗中能量等级优势将被启用。"
-    },
-    "TheDawning": {
-      "Description": "即使是木卫二的刺骨冰寒也冻不住在这个特殊日子里守护者们温暖的内心。伊娃·莱万特欢迎你来到高塔，学习一个新的菜谱，找到一两份惊喜的礼物，并驾驶你的异域飞船去游玩一圈。传播欢愉并获取装备…曙光节回归了。",
-      "Name": "曙光节"
-    }
   },
   "FAQ": {
     "API": {
