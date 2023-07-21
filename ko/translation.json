@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "내 정보 지우기",
     "Accept": "확인",
     "AddBookmark": "북마크 추가",
     "AddEvent": "이벤트 추가",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "내 정보 지우기",
       "Description": "기기에 저장된 인증 정보를 제거합니다. 딱히 필요하진 않지만, 마음의 평화를 위해 제공하고 있습니다.",
       "Name": "인증 정보"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "🦘 Actions",
     "Activate": "활성화",
     "Active": "🦘 Active",
@@ -538,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "탄약",

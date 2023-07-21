@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "🦘 Forget Me",
     "Accept": "🦘 확인",
     "AddBookmark": "🦘 Add Bookmark",
     "AddEvent": "🦘 이벤트 추가",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "🦘 Forget Me",
       "Description": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
       "Name": "🦘 Authentication Data"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "🦘 Actions",
     "Activate": "🦘 활성화",
     "Active": "🦘 Active",
@@ -538,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "🦘 Ammo",

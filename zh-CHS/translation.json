@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "清除授权",
     "Accept": "接受",
     "AddBookmark": "添加书签",
     "AddEvent": "添加活动",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "清除授权",
       "Description": "清除设备上存储的授权数据，必要时使用该功能可以让你淡定下来。",
       "Name": "授权数据"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "已送出"
   },
   "Common": {
+    "CurrentRankNth": "当前等级: {{value}}",
+    "SeasonEndsIn": "{{number}} 赛季将于 {{duration}} 后结束",
     "Actions": "行动",
     "Activate": "激活",
     "Active": "激活",
@@ -538,10 +540,6 @@
         "Name": "更多"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "当前等级: {{value}}",
-    "SeasonEndsIn": "{{number}} 赛季将于 {{duration}} 后结束"
   },
   "Item": {
     "Ammo": "弹药",

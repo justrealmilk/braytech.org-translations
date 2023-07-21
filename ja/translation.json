@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "データを抹消する",
     "Accept": "承認する",
     "AddBookmark": "ブックマークに追加",
     "AddEvent": "イベントを追加",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "データを抹消する",
       "Description": "デバイスの認証データを削除します。必要なものではないですが、心の平安につながるかもしれません。",
       "Name": "認証データ"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "進呈"
   },
   "Common": {
+    "CurrentRankNth": "現在のランク: {{value}}",
+    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
     "Actions": "アクション",
     "Activate": "起動する",
     "Active": "アクティブ",
@@ -538,10 +540,6 @@
         "Name": "続きを見る"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "現在のランク: {{value}}",
-    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}"
   },
   "Item": {
     "Ammo": "弾薬",

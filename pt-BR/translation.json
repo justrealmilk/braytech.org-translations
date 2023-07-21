@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Esquecer-me",
     "Accept": "Aceitar",
     "AddBookmark": "Adicionar aos Favoritos",
     "AddEvent": "Adicionar evento",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "Esquecer-me",
       "Description": "Excluir os dados de autenticação armazenados no seu dispositivo. Embora desnecessário, essa função serve para deixa-lo com a mente em paz.",
       "Name": "Dados de Autenticação"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "Ações",
     "Activate": "Iniciar",
     "Active": "🦘 Active",
@@ -538,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "Munição",

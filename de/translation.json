@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Vergiss mich",
     "Accept": "Bestätigen",
     "AddBookmark": "Lesezeichen hinzufügen",
     "AddEvent": "Event hinzufügen",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "Vergiss mich",
       "Description": "Lösche die auf deinem Gerät gespeicherten Anmeldedaten. Diese Funktion ist überflüssig und ist nur zu deiner Beruhigung.",
       "Name": "Anmeldedaten"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "CurrentRankNth": "Aktueller Rang: {{value}}",
+    "SeasonEndsIn": "Season {{number}}: endet in {{duration}}",
     "Actions": "Aktionen",
     "Activate": "Aktivieren",
     "Active": "Aktiv",
@@ -538,10 +540,6 @@
         "Name": "Mehr"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Aktueller Rang: {{value}}",
-    "SeasonEndsIn": "Season {{number}}: endet in {{duration}}"
   },
   "Item": {
     "Ammo": "Munition",

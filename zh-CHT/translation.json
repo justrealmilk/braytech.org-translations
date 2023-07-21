@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "清除授權",
     "Accept": "接受",
     "AddBookmark": "添加書簽",
     "AddEvent": "添加活動",
@@ -176,7 +177,6 @@
   },
   "Auth": {
     "Data": {
-      "Action": "清除授權",
       "Description": "清除設備上存儲的授權數據.必要時使用該功能可以讓妳淡定下來.",
       "Name": "授權數據"
     },
@@ -348,6 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "行動",
     "Activate": "激活",
     "Active": "生效",
@@ -538,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "彈藥",
