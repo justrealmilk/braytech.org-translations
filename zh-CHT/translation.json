@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情."
-      }
+      "Info": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情."
     },
     "Privacy": {
       "Info": "長話短説，Braytech 不使用 cookie 或任何其他機制來跟踪您，也不會將您定位為廣告目的（我的意思是，Braytech 沒有任何廣告）。\n\n如果您對本通知有任何疑問，請隨時跳到 [Discord]（https://discord.bray.tech）。",
@@ -205,11 +203,9 @@
         "Description": "請向 Bungie 同意以使用該功能.若如此做, 妳的個人信息不會向我們分享, 我們僅獲取妳的授權碼以便與更多 API 接口交互.",
         "Name": "需要身份驗證"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
-          "Name": "Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
+        "Name": "Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {

@@ -205,11 +205,9 @@
         "Description": "Um diese Funktion nutzen zu können, musst du dich bitte anmelden. Es werden keine persönlichen Daten geteilt, wenn du das tust - lediglich ein Code,  um mit mehr API-Endpunkten zu kommunizieren.",
         "Name": "Authentifizierung erforderlich"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Du bist nicht berechtigt, auf die Profildaten eines anderen Benutzers zuzugreifen. Du kannst diese hilfreichen Links jedoch verwenden, um zu deinen eigenen Profil zurückzukehren.\n\nWeitere Informationen zu deiner Authentifizierung findest du in der Ansicht _Einstellungen_.",
-          "Name": "Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "Du bist nicht berechtigt, auf die Profildaten eines anderen Benutzers zuzugreifen. Du kannst diese hilfreichen Links jedoch verwenden, um zu deinen eigenen Profil zurückzukehren.\n\nWeitere Informationen zu deiner Authentifizierung findest du in der Ansicht _Einstellungen_.",
+        "Name": "Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {

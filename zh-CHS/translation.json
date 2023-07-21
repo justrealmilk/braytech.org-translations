@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech 已经是，并将一直是一个供其开发者练习和学习如何更好地编程和与他人合作的多功能工具。它一开始是一个可以打发时间的很酷的爱好，但慢慢的转变为一个有点像怪物的东西。\n\n这只野兽是由一个来自澳大利亚的家伙开发的，但也离不开他想在此描述的其他人的精神支持和指导。\n\n在命运的后院中成长起来的第三方开发者社区是一个互相帮助且美好的社区。所以，让我们为下面项目中的成员喝彩 [Destiny Item Manager](https://destinyitemmanager.com/)，[Richard Deveraux](https://lowlidev.com.au/)，以及所有在 Tom 试图做蠢事时让他保持理智的其他人。"
-      }
+      "Info": "Braytech 已经是，并将一直是一个供其开发者练习和学习如何更好地编程和与他人合作的多功能工具。它一开始是一个可以打发时间的很酷的爱好，但慢慢的转变为一个有点像怪物的东西。\n\n这只野兽是由一个来自澳大利亚的家伙开发的，但也离不开他想在此描述的其他人的精神支持和指导。\n\n在命运的后院中成长起来的第三方开发者社区是一个互相帮助且美好的社区。所以，让我们为下面项目中的成员喝彩 [Destiny Item Manager](https://destinyitemmanager.com/)，[Richard Deveraux](https://lowlidev.com.au/)，以及所有在 Tom 试图做蠢事时让他保持理智的其他人。"
     },
     "Privacy": {
       "Info": "长话短说，Braytech 不使用 cookies 或任何其他机制来跟踪你，也不为广告目的锁定你（我的意思是，Braytech 没有任何广告）。\n\n如果你对本通知的内容有任何疑问，请联系我们 [Discord](https://discord.bray.tech)。",
@@ -205,11 +203,9 @@
         "Description": "请向 Bungie 授权以使用该功能。你的个人信息不会向我们分享，我们仅获取你的授权码以便与更多 API 接口交互。",
         "Name": "需要授权"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "你未被授权查看其它用户的数据，但你可以使用这些有用的链接回到你的界面。\n\n你可以在 _设置_ 中找到更多有关授权的信息。",
-          "Name": "噢噢噢，哈尼……亲爱的，小亲亲"
-        }
+      "DiffProfile": {
+        "Description": "你未被授权查看其它用户的数据，但你可以使用这些有用的链接回到你的界面。\n\n你可以在 _设置_ 中找到更多有关授权的信息。",
+        "Name": "噢噢噢，哈尼……亲爱的，小亲亲"
       }
     },
     "Friends": {

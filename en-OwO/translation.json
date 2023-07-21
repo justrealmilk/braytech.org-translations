@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Bwaytech haz been, and continues to be, a muwtipuwpose faciwity fow its devewopew to pwactice and weawn how to bettew pwogwam and wowk with othews. It stawted out as a coow hobby to hewp pass da time and twansfowmed into a bit of a monstew.\n\nDestiny's thiwd pawty devewopew community is a somewhat unique phenomenon and is vewy speciaw. It enabwes gweat peopwe to do gweat things, backed by community vawues. We buiwd fow evewyone."
-      }
+      "Info": "Bwaytech haz been, and continues to be, a muwtipuwpose faciwity fow its devewopew to pwactice and weawn how to bettew pwogwam and wowk with othews. It stawted out as a coow hobby to hewp pass da time and twansfowmed into a bit of a monstew.\n\nDestiny's thiwd pawty devewopew community is a somewhat unique phenomenon and is vewy speciaw. It enabwes gweat peopwe to do gweat things, backed by community vawues. We buiwd fow evewyone."
     },
     "Privacy": {
       "Info": "Da wong and skinny of it is that Bwaytech doesn't use cookies ow any othew mechanism to twack uu, now does it tawget uu fow advewtising puwposes (I mean, Bwaytech doesn't haz any ads).\n\nIf uu haz any questions fuwthew to da point of this notice, feew fwee to jump into da [Discowd](https://discord.bray.tech).",
@@ -203,11 +201,9 @@
         "Description": "Some featuwes of Bwaytech wequiwe uuw wwitten pewmission to activate, genewawwy to pwotect uuw pwivacy.\n\nTo use this featuwe, pwease teww Bungie that uu appwove. No pewsonaw infowmation is shawed by doing so—onwy an authentication code with which uu may intewact with mowe API endpoints.",
         "Name": "Authentication Wequiwed"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Uu awe not authowised to access a diffewent *bwushes* usew's pwofiwe data, but uu may use these hewpfuw winks to wetuwn to uuw own.\n\nUu can find mowe infowmation wegawding uuw authentication in da _Settings_ view.",
-          "Name": "Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "Uu awe not authowised to access a diffewent *bwushes* usew's pwofiwe data, but uu may use these hewpfuw winks to wetuwn to uuw own.\n\nUu can find mowe infowmation wegawding uuw authentication in da _Settings_ view.",
+        "Name": "Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {

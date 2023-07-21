@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech è stato, e continua ad essere, un servizio multifunzione per i suoi sviluppatori a esercitarsi e imparare a programmare meglio e lavorare con gli altri. È iniziato come un hobby interessante per aiutare a passare il tempo e si è trasformato in una bella bestia.\n\nLa comunità di sviluppatori di terze parti di Destiny è un fenomeno in qualche modo unico e molto speciale. Consente a grandi persone di fare grandi cose, sostenute dai valori della comunità. Noi creiamo per tutti."
-      }
+      "Info": "Braytech è stato, e continua ad essere, un servizio multifunzione per i suoi sviluppatori a esercitarsi e imparare a programmare meglio e lavorare con gli altri. È iniziato come un hobby interessante per aiutare a passare il tempo e si è trasformato in una bella bestia.\n\nLa comunità di sviluppatori di terze parti di Destiny è un fenomeno in qualche modo unico e molto speciale. Consente a grandi persone di fare grandi cose, sostenute dai valori della comunità. Noi creiamo per tutti."
     },
     "Privacy": {
       "Info": "Detto in breve, Braytech non utilizza cookie o altri meccanismi per rintracciarti, né ti prende di mira per scopi pubblicitari (voglio dire, Braytech non ha pubblicità).\n\nSe ne hai ulteriori domande a riguardo, sentiti libero di saltare su [Discord](https://discord.bray.tech) (in inglese).",
@@ -205,11 +203,9 @@
         "Description": "Per utilizzare questa funzione, informa Bungie dell'approvazione. In questo modo non vengono condivise informazioni personali—solo un codice di autenticazione con il quale è possibile interagire con più punti dell'API.",
         "Name": "Autenticazione richiesta"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Non sei autorizzato all'accesso dei dati del profilo di altri utenti, ma potresti usare questi link utili per tornare al tuo.\n\nPuoi trovare più informazioni sulla tua autenticazione nella sezione _Impostazioni_.",
-          "Name": "Oh, tesorino... che tesoroooo"
-        }
+      "DiffProfile": {
+        "Description": "Non sei autorizzato all'accesso dei dati del profilo di altri utenti, ma potresti usare questi link utili per tornare al tuo.\n\nPuoi trovare più informazioni sulla tua autenticazione nella sezione _Impostazioni_.",
+        "Name": "Oh, tesorino... che tesoroooo"
       }
     },
     "Friends": {

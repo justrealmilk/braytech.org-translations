@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech fue, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la desarrolló un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
-      }
+      "Info": "Braytech fue, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la desarrolló un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
     },
     "Privacy": {
       "Info": "En definitiva, Braytech no utiliza cookies ni ningún otro mecanismo para rastrearte, ni tampoco pretende captarte con fines publicitarios (vamos, Braytech no tiene anuncios).\n\nSi tienes alguna pregunta adicional respecto a este asunto, no dudes en acudir al [Discord](https://discord.bray.tech).",
@@ -205,11 +203,9 @@
         "Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autenticación con el que puede interactuar con más puntos terminales de la API.",
         "Name": "Se requiere autenticación"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autenticación en la sección _Ajustes_.",
-          "Name": "Oh, cielito... Cieliiiitoooo"
-        }
+      "DiffProfile": {
+        "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autenticación en la sección _Ajustes_.",
+        "Name": "Oh, cielito... Cieliiiitoooo"
       }
     },
     "Friends": {

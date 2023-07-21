@@ -143,9 +143,8 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech tem sido, e continuará sendo, um lugar com muito propósitos, onde seu desenvolvedor usa para praticar e aprender como programar e trabalhar melhor com outros. Isso começou como um hobby bacana para ajudar a passar o tempo, e transformou-se em um pequeno monstro.\n\nEssa besta é desenvolvida por um cara da Austrália, mas não sem o suporte moral e a guia de outros que ele gostaria de descrever aqui.\n\nA comunidade de desenvolvedores que tem crescido no quintal de Destiny é gentil, que ajuda um ao outro, e isso é algo bonito de se ver. Então, um salve para [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), e todos os outros que mantiveram Tom são enquanto ele tentava fazer as coisas bobas dele."
-      }
+      "Info": "Braytech tem sido, e continuará sendo, um lugar com muito propósitos, onde seu desenvolvedor usa para praticar e aprender como programar e trabalhar melhor com outros. Isso começou como um hobby bacana para ajudar a passar o tempo, e transformou-se em um pequeno monstro.\n\nEssa besta é desenvolvida por um cara da Austrália, mas não sem o suporte moral e a guia de outros que ele gostaria de descrever aqui.\n\nA comunidade de desenvolvedores que tem crescido no quintal de Destiny é gentil, que ajuda um ao outro, e isso é algo bonito de se ver. Então, um salve para [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), e todos os outros que mantiveram Tom são enquanto ele tentava fazer as coisas bobas dele."
+      
     },
     "Privacy": {
       "Info": "O fato é que a Braytech não usa cookies ou qualquer outro mecanismo para rastreá-lo, nem tem você como alvo para fins publicitários (Quero dizer, Braytech não tem anúncios).\n\nSe você tiver alguma pergunta sobre o assunto deste aviso, sinta-se livre para dar um pulo no [Discord](https://discord.bray.tech).",
@@ -205,12 +204,10 @@
         "Description": "Para usar essa funcionalidade, diga a Bungie que você aprova. Nenhuma informação pressoal é compartilhada fazendo isso—apenas um código de autenticação que permite interagir com mais endpoints da API.",
         "Name": "Autenticação necessária"
       },
-      "Permissions": {
-        "Profile": {
+      "DiffProfile": {
           "Description": "Você não tem permissão para acessar dados de perfil de um usuário diferente, mas você pode usar estes links auxiliares para retornar para o seu perfil.\n\nVocê pode encontrar mais informação sobre sua autenticação na página de _Configurações_.",
           "Name": "ahh, meu bem... Meu beeeeeem"
-        }
-      }
+              }
     },
     "Friends": {
       "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"

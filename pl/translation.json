@@ -143,9 +143,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "🦘 Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone."
-      }
+      "Info": "🦘 Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone."
     },
     "Privacy": {
       "Info": "🦘 The long and skinny of it is that Braytech doesn't use cookies or any other mechanism to track you, nor does it target you for advertising purposes (I mean, Braytech doesn't have any ads).\n\nIf you have any questions further to the point of this notice, feel free to jump into the [Discord](https://discord.bray.tech).",
@@ -205,11 +203,9 @@
         "Description": "🦘 Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
         "Name": "🦘 Authentication Required"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
-          "Name": "🦘 Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
+        "Name": "🦘 Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {
