@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "내 정보 지우기",
     "Accept": "확인",
     "AddBookmark": "북마크 추가",
     "AddEvent": "이벤트 추가",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "ApproximateLength": "예상 소요시간",
     "Carnage": {
       "SelectDate": {
         "Info": "🦘 Select a date below and prepare to jump",
         "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
       }
     },
-    "Cooperative": "협력",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -72,14 +71,9 @@
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
     },
-    "FreeForAll": "난투",
     "Graphs": {
       "SelectDate": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요."
     },
-    "LevelAdvantagesDisabled": "레벨 혜택 비활성화",
-    "LevelAdvantagesEnabled": "레벨 혜택 활성화",
-    "Matchmaking": "매치메이킹",
-    "MaxParty": "플레이어 {{number}}명",
     "Modes": {
       "Bar": {
         "PvPLoss": "패배",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "PvP": "플레이어 대 플레이어",
-    "RecommendedLight": "추천 전투력",
     "Score": {
       "Team": "🦘 Team Score"
     },
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
-    "SinglePlayer": "싱글 플레이어",
     "Standing": {
       "Defeat": "패배",
       "DidNotFinish": "🦘 Player did not finish",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech는 개발자가 다른 개발자와 더 나은 작업 방식과 프로그램을 연습하고 배울 수 있는 다목적 시설이었으며, 지금도 그렇습니다. 시간을 보내기 좋은 멋진 취미로 시작해 약간... 괴물로 변했습니다.\n\n이 짐승은 호주 출신의 한 사람으로부터 개발되었지만, 그가 이곳에서 말하고 싶은 다른 많은 사람들의 친절한 지원과 가르침 없이는 개발되지 못했을 겁니다.\n\n데스티니의 뒷마당에서 자라는 서드파티 개발자 커뮤니티는 서로를 돕는 아름다운 커뮤니티입니다. 그러니, [Destiny Item Manager](https://destinyitemmanager.com/)와 [Richard Deveraux](https://lowlidev.com.au/), 그리고 Tom이 바보같은 일을 하려 노력하는 동안 제정신을 유지하는 다른 모든 팀원들에게 외칩니다."
-      }
+      "Info": "Braytech는 개발자가 다른 개발자와 더 나은 작업 방식과 프로그램을 연습하고 배울 수 있는 다목적 시설이었으며, 지금도 그렇습니다. 시간을 보내기 좋은 멋진 취미로 시작해 약간... 괴물로 변했습니다.\n\n이 짐승은 호주 출신의 한 사람으로부터 개발되었지만, 그가 이곳에서 말하고 싶은 다른 많은 사람들의 친절한 지원과 가르침 없이는 개발되지 못했을 겁니다.\n\n데스티니의 뒷마당에서 자라는 서드파티 개발자 커뮤니티는 서로를 돕는 아름다운 커뮤니티입니다. 그러니, [Destiny Item Manager](https://destinyitemmanager.com/)와 [Richard Deveraux](https://lowlidev.com.au/), 그리고 Tom이 바보같은 일을 하려 노력하는 동안 제정신을 유지하는 다른 모든 팀원들에게 외칩니다."
     },
     "Privacy": {
       "Info": "Braytech는 당신을 추적하거나 맞춤형 광고를 위해 쿠키 또는 다른 어떠한 도구도 사용하지 않습니다. (즉, Braytech에는 어떠한 광고도 없습니다).\n\n 이 공지에서 궁금한 부분이 있다면, 언제든 [Discord](https://discord.bray.tech)로 와주세요.",
@@ -178,25 +167,16 @@
       "Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
       "Name": "지원하지 않는 브라우저"
     },
-    "Version": "버전",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "버전"
   },
   "Archives": {
     "Grimoire": {
       "Description": "과거의 지식, 데스티니 1의 그리모어 카드들은 이곳에 백업, 보관 및 보존됩니다. 그리모어는 데스티니 안의 데이터베이스입니다. 게임플레이를 통해 \"카드\" 형태로 수집할 수 있습니다.\n\n그리모어의 목록은 6개의 주요 범주(수호자, 인벤토리, 동맹국, 적, 장소 및 활동)로 정렬됩니다. 각 범주에는 여러 하위 범주가 있습니다.",
       "Name": "그리모어"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "내 정보 지우기",
       "Description": "기기에 저장된 인증 정보를 제거합니다. 딱히 필요하진 않지만, 마음의 평화를 위해 제공하고 있습니다.",
       "Name": "인증 정보"
     },
@@ -205,11 +185,9 @@
         "Description": "일반적으로, 개인정보를 보호하기 위해 Braytech의 몇몇 기능을 사용하려면 사용자의 허가가 필요합니다.\n\n이 기능을 사용하려면 Bungie에게 승인한다고 알려주세요. 개인 정보는 공유되지 않으며 더 많은 API 끝부분을 사용할 수 있도록 해주는 인증 코드만 공유됩니다.",
         "Name": "인증이 필요합니다"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "당신은 다른 유저의 프로필 데이터에 접근할 수 있는 권한이 없지만, 다른 유용한 링크를 통해서 자신의 프로필 데이터로 돌아갈 수 있습니다.\n\n인증에 대한 자세한 내용은 _설정_ 에서 확인하세요.",
-          "Name": "오, 이런...아이고....."
-        }
+      "DiffProfile": {
+        "Description": "당신은 다른 유저의 프로필 데이터에 접근할 수 있는 권한이 없지만, 다른 유용한 링크를 통해서 자신의 프로필 데이터로 돌아갈 수 있습니다.\n\n인증에 대한 자세한 내용은 _설정_ 에서 확인하세요.",
+        "Name": "오, 이런...아이고....."
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "광휘 가루 아이템",
-      "CrossSaveSilver": "🦘 Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
-      "EververseCalendar": "에버버스 달력",
-      "FeaturedBrightDustItems": "추천된 광휘 가루 아이템",
-      "FeaturedSilverItems": "추천된 실버 ",
-      "ShowAllItems": "모든 아이템",
-      "ShowSilverOnlyItems": "실버 한정 아이템 보기",
-      "SilverOnlyItems": "실버 한정 아이템"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
-    "Acknowledgements": "감사의 말",
-    "AcknowledgementsInfo": "이 콘텐츠 중 일부는 제 3자의 지원으로 제공됩니다. 그러니 이 콘텐츠를 사용할 땐 그들이 쏟은 노력을 생각해주세요.",
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "🦘 Actions",
     "Activate": "활성화",
     "Active": "🦘 Active",
@@ -510,19 +478,6 @@
     "WeekNth": "{{number}}주",
     "Week_plural": "주일"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "죽음 앞에서 웃고, 사탕을 모으고, 마스크를 쓰고, 잠식해오는 어둠에 맞서 싸우세요.",
-      "Name": "사자들의 축제"
-    },
-    "IronBanner": {
-      "Description": "일주일 동안 진행되는 특별한 시련의 장 이벤트로서, 6명으로 구성된 팀이 가장 경쟁적인 형태의 점령에서 정면승부로 도전합니다."
-    },
-    "TheDawning": {
-      "Description": "유로파의 살을 에는 듯한 추위도 이 특별한 연중행사 기간에는 수호자의 따뜻한 마음을 얼릴 수는 없을 것 입니다. 여명이 돌아왔습니다.",
-      "Name": "여명"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "탄약",

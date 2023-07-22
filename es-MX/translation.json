@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Olvídame",
     "Accept": "Aceptar",
     "AddBookmark": "Añadir a favoritos",
     "AddEvent": "Añadir evento",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "Rotación activa",
-    "ApproximateLength": "Duración aproximada",
     "Carnage": {
       "SelectDate": {
         "Info": "Selecciona una fecha a continuación y prepárate para dar el salto",
         "Waiting": "Agarraos—cuantas más actividades hagáis y más lejos saltéis, más tiempo tardaremos.\n\nLa API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos baleando los datos."
       }
     },
-    "Cooperative": "Cooperativo",
     "Fireteam": {
       "Closed": "Escuadra cerrada",
       "Full": "Escuadra llena",
@@ -72,14 +71,9 @@
       "Open": "Escuadra abierta",
       "SinglePlayer": "Actividad de un jugador"
     },
-    "FreeForAll": "Todos contra todos",
     "Graphs": {
       "SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba."
     },
-    "LevelAdvantagesDisabled": "Ventajas de nivel desactivadas",
-    "LevelAdvantagesEnabled": "Ventajas de nivel activadas",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} jugadores",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
     "NoMedalsAwarded": "No se concedieron medallas",
     "NoStatsAvailable": "No hay estadísticas disponibles",
-    "PvP": "Jugador contra jugador",
-    "RecommendedLight": "Luz recomendada",
     "Score": {
       "Team": "Puntaje del equipo"
     },
     "SelectMode": "Elige modo",
     "SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
-    "SinglePlayer": "Un jugador",
     "Standing": {
       "Defeat": "Derrota",
       "DidNotFinish": "El jugador no terminó",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech fue, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la desarrolló un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
-      }
+      "Info": "Braytech fue, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la desarrolló un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
     },
     "Privacy": {
       "Info": "En definitiva, Braytech no utiliza cookies ni ningún otro mecanismo para rastrearte, ni tampoco pretende captarte con fines publicitarios (vamos, Braytech no tiene anuncios).\n\nSi tienes alguna pregunta adicional respecto a este asunto, no dudes en acudir al [Discord](https://discord.bray.tech).",
@@ -178,25 +167,16 @@
       "Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
       "Name": "Navegador no soportado"
     },
-    "Version": "Versión",
-    "CopyLinkFail": "No pude copiar este enlace en el portapapeles.",
-    "CopyLinkSuccess": "Se copió un enlace en el portapapeles."
+    "Version": "Versión"
   },
   "Archives": {
     "Grimoire": {
       "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
       "Name": "Grimorio"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Olvídame",
       "Description": "Elimina los datos de autenticación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
       "Name": "Datos de autenticación"
     },
@@ -205,11 +185,9 @@
         "Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autenticación con el que puede interactuar con más puntos terminales de la API.",
         "Name": "Se requiere autenticación"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autenticación en la sección _Ajustes_.",
-          "Name": "Oh, cielito... Cieliiiitoooo"
-        }
+      "DiffProfile": {
+        "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autenticación en la sección _Ajustes_.",
+        "Name": "Oh, cielito... Cieliiiitoooo"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "Daño de estasis",
       "StrandDamage": "Daño de cuerda",
       "VoidDamage": "Daño de vacío"
-    },
-    "Vendors": {
-      "BrightDustItems": "Objetos por polvo brillante",
-      "CrossSaveSilver": "Tu saldo de plata es devuelto por la API solo para la plataforma en la que está jugando actualmente.",
-      "EververseCalendar": "Calendario de Eververso",
-      "FeaturedBrightDustItems": "Objetos destacados por polvo brillante",
-      "FeaturedSilverItems": "Objetos destacados por plata",
-      "ShowAllItems": "Todos los objetos",
-      "ShowSilverOnlyItems": "Mostrar solo los objetos por plata",
-      "SilverOnlyItems": "Objetos solo por plata"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "Env."
   },
   "Common": {
-    "Acknowledgements": "Agradecimientos",
-    "AcknowledgementsInfo": "Parte de estos contenidos son proporcionados generosamente por terceros. Por favor, piensa en ellos y en el esfuerzo que realizaron cuando consumas sus obras.",
+    "CurrentRankNth": "Rango actual: {{value}}",
+    "SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}",
     "Actions": "Acciones",
     "Activate": "Iniciar",
     "Active": "Activo",
@@ -510,19 +478,6 @@
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante regresa para la Fiesta de las Almas Perdidas. Esta es una ocasión para que los guardianes se deleiten con golosinas, se pongan máscaras irreverentes y celebren los recuerdos de quienes ya no están.\n\nEl Bosque Encantado está abierto de nuevo. Esta vez, la Araña quiere hacer un trato para obtener tu ayuda.",
-      "Name": "Fiesta de las Almas Perdidas"
-    },
-    "IronBanner": {
-      "Description": "Un evento especial del Crisol que durante una semana desafía a equipos de 6 a enfrentarse en la versión más competitiva de Control. Las ventajas de nivel de Luz están activadas."
-    },
-    "TheDawning": {
-      "Description": "Ni siquiera el frío penetrante de Europa puede congelar los cálidos corazones de los guardianes durante esta especial época del año. ¡La Aurora regresa!",
-      "Name": "La Aurora"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "Más"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Rango actual: {{value}}",
-    "SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}"
   },
   "Item": {
     "Ammo": "Munición",

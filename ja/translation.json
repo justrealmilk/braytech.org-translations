@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "データを抹消する",
     "Accept": "承認する",
     "AddBookmark": "ブックマークに追加",
     "AddEvent": "イベントを追加",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
-    "ApproximateLength": "おおよその長さ",
     "Carnage": {
       "SelectDate": {
         "Info": "ジャンプ先を下記から日付を選択する",
         "Waiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。"
       }
     },
-    "Cooperative": "マッチメイキング可",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",
       "Full": "ファイアチームは満員です",
@@ -72,14 +71,9 @@
       "Open": "ファイアチームはオープンです",
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
-    "FreeForAll": "ランブル",
     "Graphs": {
       "SelectDate": "上のグラフからアクティビティが行われた日を選択してください。"
     },
-    "LevelAdvantagesDisabled": "レベルアドバンテージが無効です",
-    "LevelAdvantagesEnabled": "レベルアドバンテージが有効です",
-    "Matchmaking": "マッチメイキング",
-    "MaxParty": "{{number}} 名のプレイヤー",
     "Modes": {
       "Bar": {
         "PvPLoss": "敗北",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "PvP": "対戦プレイ",
-    "RecommendedLight": "推奨パワー",
     "Score": {
       "Team": "チームスコア"
     },
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
-    "SinglePlayer": "シングルプレイヤー",
     "Standing": {
       "Defeat": "敗北",
       "DidNotFinish": "途中離脱",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytechはこれまでも、そしてこれからも、開発者がよりよいプログラムや他者との共同作業を実践し、学ぶための場所であり続けます。 最初は暇つぶしの趣味だったのが、ちょっとしたモンスターになってしまいましたが。\n\nDestinyのサードパーティ開発コミュニティというのは不思議な出会いによって生まれた現象で、筆舌に尽くしがたいものです。この現象は素晴らしい参加者たちがその価値を更に広げ今までに見た事がない所までやってきました。それらはDestinyに携わるすべての方へ提供するために活動しています。"
-      }
+      "Info": "Braytechはこれまでも、そしてこれからも、開発者がよりよいプログラムや他者との共同作業を実践し、学ぶための場所であり続けます。 最初は暇つぶしの趣味だったのが、ちょっとしたモンスターになってしまいましたが。\n\nDestinyのサードパーティ開発コミュニティというのは不思議な出会いによって生まれた現象で、筆舌に尽くしがたいものです。この現象は素晴らしい参加者たちがその価値を更に広げ今までに見た事がない所までやってきました。それらはDestinyに携わるすべての方へ提供するために活動しています。"
     },
     "Privacy": {
       "Info": "長くなりましたが、Braytechはクッキーやその他のメカニズムを使ってお客様を追跡したり、広告目的でお客様をターゲットにすることはありません（つまり、Braytechは広告を出していません）。\n\nこのお知らせの趣旨についてさらにご質問がある場合は、お気軽に[Discord](https://discord.bray.tech)までお問い合わせください。",
@@ -178,25 +167,16 @@
       "Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
       "Name": "非対応のブラウザー"
     },
-    "Version": "バージョン",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "バージョン"
   },
   "Archives": {
     "Grimoire": {
       "Description": "古くからの伝承、Destiny 1のグリモアカードは、ここにバックアップ、アーカイブされています。グリモアとはDestiny1にあるデータベースです。  ゲームをプレイすることで、\"カード\"という形でアンロックされていきます。\n\nグリモアの項目は、「ガーディアン」「インベントリ」「味方」「敵」「場所」「アクティビティ」の6つのカテゴリーに分類されています。それぞれに、いくつかのサブカテゴリーがあります。",
       "Name": "グリモア"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "データを抹消する",
       "Description": "デバイスの認証データを削除します。必要なものではないですが、心の平安につながるかもしれません。",
       "Name": "認証データ"
     },
@@ -205,11 +185,9 @@
         "Description": "ユーザーのプライバシーを保護する目的から、Braytechの一部のサービスではユーザーの許可を必要とする設計になっています。\n\nこれらのサービスを使用するには、Bungie経由でアクセスを承認してください。この承認でAPIエンドポイントと認証コードのみがサービスに利用され、個人情報が他者へ共有されることはありません。",
         "Name": "認証が必要です"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
-          "Name": "うわぁぁぁぁぁぁぁ!!!!"
-        }
+      "DiffProfile": {
+        "Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
+        "Name": "うわぁぁぁぁぁぁぁ!!!!"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "ステイシスダメージ",
       "StrandDamage": "ストランドダメージ",
       "VoidDamage": "ボイドダメージ"
-    },
-    "Vendors": {
-      "BrightDustItems": "ブライトダストで購入できるアイテム",
-      "CrossSaveSilver": "シルバーの残高は、現在ゲームをプレイしているプラットフォームのAPIを通じて表示します。",
-      "EververseCalendar": "エバーバースのカレンダー",
-      "FeaturedBrightDustItems": "ブライトダストで買えるオファーアイテム",
-      "FeaturedSilverItems": "シルバーで買えるオファーアイテム",
-      "ShowAllItems": "すべてのアイテムを表示",
-      "ShowSilverOnlyItems": "シルバーで買える物のみ表示",
-      "SilverOnlyItems": "シルバーでだけ買えるアイテム"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "進呈"
   },
   "Common": {
-    "Acknowledgements": "謝辞",
-    "AcknowledgementsInfo": "このコンテンツの一部は、第三者から惜しみなく提供されています。彼らの作品を利用する際には、彼らとその努力に思いを馳せてください。",
+    "CurrentRankNth": "現在のランク: {{value}}",
+    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
     "Actions": "アクション",
     "Activate": "起動する",
     "Active": "アクティブ",
@@ -510,19 +478,6 @@
     "WeekNth": "第{{number}}週",
     "Week_plural": "週"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "死に直面しても笑い、キャンディーを集め、マスクを被り、迫り来る闇に立ち向かいます。\n\nエヴァ・レヴァンテが「失われた者の祭り」の使者として戻ってきました。 この祝日は、ガーディアンたちが甘いものに舌鼓を打ち、不謹慎なマスクを被り、失った人々の思い出を祝う時です。\n\n憑りつかれし森が再び開かれ、今度はスパイダーがあなたの協力を求めています。",
-      "Name": "Festival of the Lost"
-    },
-    "IronBanner": {
-      "Description": "一週間にわたる特別なクルーシブルのイベントで、6人のチームがコントロールの対戦に挑戦する。レベルアドバンテージ有効。"
-    },
-    "TheDawning": {
-      "Description": " エウロパの厳しい寒さも、この特別な時期のガーディアンの温かい心を凍らせることはできない。暁旦がやってきたのだ。",
-      "Name": "暁旦"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "続きを見る"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "現在のランク: {{value}}",
-    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}"
   },
   "Item": {
     "Ammo": "弾薬",

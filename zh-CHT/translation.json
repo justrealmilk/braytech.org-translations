@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "清除授權",
     "Accept": "接受",
     "AddBookmark": "添加書簽",
     "AddEvent": "添加活動",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "主動輪換",
-    "ApproximateLength": "大致長度",
     "Carnage": {
       "SelectDate": {
         "Info": "選擇一組數據",
         "Waiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄"
       }
     },
-    "Cooperative": "合作",
     "Fireteam": {
       "Closed": "火力戰隊關閉",
       "Full": "火力戰隊滿員",
@@ -72,14 +71,9 @@
       "Open": "火力戰隊開放",
       "SinglePlayer": "單人活動"
     },
-    "FreeForAll": "對所有人免費",
     "Graphs": {
       "SelectDate": "從上圖中選擇一個有活動的日期"
     },
-    "LevelAdvantagesDisabled": "關閉等級優勢",
-    "LevelAdvantagesEnabled": "啓用等級優勢",
-    "Matchmaking": "匹配中",
-    "MaxParty": " {{number}} 玩家",
     "Modes": {
       "Bar": {
         "PvPLoss": "勝利",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "修飾系統暫時不可用",
     "NoMedalsAwarded": "未取得印章",
     "NoStatsAvailable": "沒有可用的統計信息",
-    "PvP": "玩家對戰",
-    "RecommendedLight": "推薦光等",
     "Score": {
       "Team": "團隊得分"
     },
     "SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
     "SelectModeInfo": "要查看特定的活動，請從上方的界面処懸著一個模式",
-    "SinglePlayer": "單人",
     "Standing": {
       "Defeat": "擊敗",
       "DidNotFinish": "玩家未完成",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情."
-      }
+      "Info": "Braytech 一直以來一直是一個多功能的設施，供開發人員練習和學習如何更好地編程和與他人合作。它最初是一個很酷的愛好，以幫助消磨時間並變成一個有點怪物。\n\n這隻野獸是由一個來自澳大利亞的人開發的，但並非沒有他想在這裡描述的其他人的道德支持和指導。\n\n在《天命》的後院成長的第三方開發者社群是一種互相幫助的社群，也是一件美好的事物。所以, 喊出來的船員在 [Destiny Item Manager] (https://destinyitemmanager.com/), [Richard Deveraux] (https://lowlidev.com.au/), 和所有其他人誰一直保持湯姆理智，而他試圖做愚蠢的事情."
     },
     "Privacy": {
       "Info": "長話短説，Braytech 不使用 cookie 或任何其他機制來跟踪您，也不會將您定位為廣告目的（我的意思是，Braytech 沒有任何廣告）。\n\n如果您對本通知有任何疑問，請隨時跳到 [Discord]（https://discord.bray.tech）。",
@@ -178,25 +167,16 @@
       "Description": "Braytech需要現代化的瀏覽器來運作，運行Barytech的瀏覽器最低要求最近一年有過更新記錄。所以，當你遇到了本提示，是時候該換個新的瀏覽器了守護者。\n\n推薦使用基於Chromium的瀏覽器，例如 Microsoft Edge",
       "Name": "瀏覽器不支持"
     },
-    "Version": "版本",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "版本"
   },
   "Archives": {
     "Grimoire": {
       "Description": "古老的傳説故事《Destiny 1》的魔典卡牌歸檔並展示在這裏",
       "Name": "背景故事"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "有關於門徒之誓突襲的信息呈現于此",
-        "Name": "門徒之誓"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "清除授權",
       "Description": "清除設備上存儲的授權數據.必要時使用該功能可以讓妳淡定下來.",
       "Name": "授權數據"
     },
@@ -205,11 +185,9 @@
         "Description": "請向 Bungie 同意以使用該功能.若如此做, 妳的個人信息不會向我們分享, 我們僅獲取妳的授權碼以便與更多 API 接口交互.",
         "Name": "需要身份驗證"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
-          "Name": "Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
+        "Name": "Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "明亮之塵物品",
-      "CrossSaveSilver": "你的銀幣餘額只能通過對應的平臺登錄時才能正確查詢",
-      "EververseCalendar": "永恆之詩商店日曆",
-      "FeaturedBrightDustItems": "精選明亮之塵物品",
-      "FeaturedSilverItems": "精選銀幣物品",
-      "ShowAllItems": "所有物品",
-      "ShowSilverOnlyItems": "只顯示銀幣售賣物品",
-      "SilverOnlyItems": "銀幣售賣物品"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
-    "Acknowledgements": "致謝",
-    "AcknowledgementsInfo": "其中一些内容是第三方無償提供的，請在使用的時候感謝他們",
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "行動",
     "Activate": "激活",
     "Active": "生效",
@@ -510,19 +478,6 @@
     "WeekNth": "周 {{number}}",
     "Week_plural": "周"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "伊娃．萊萬特回歸為《亡靈節：幽魂森林》的使者.這個節慶是守護者放縱自己吃甜食、戴上不敬的面具來慶祝那些亡者回憶的時刻.\n\n幽魂森林的入口再度開啟，而這一次，蜘蛛王想跟你談條件，請你與他合作.去找他，把解碼器弄到手，然後在幽魂森林陰暗的長廊中與時間賽跑.保持警覺，靈機應變，最後可能有機會獲得多個寶物箱.",
-      "Name": "亡靈節"
-    },
-    "IronBanner": {
-      "Description": "鋼鐵旗幟為《天命2》中為期一週的熔爐競技場活動啓用等級優勢."
-    },
-    "TheDawning": {
-      "Description": "在這個特別的年代，即使是木衛二的雪窖冰天也凍不了守護者溫暖的心.伊娃．萊萬特邀請你回到高塔來學習新食譜、尋找一兩份令人驚喜的禮物，並用你美輪美奐的異域飛船來一場旅行.散播歡樂、入手裝備.黎明日已然回歸.",
-      "Name": "黎明日"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "彈藥",
