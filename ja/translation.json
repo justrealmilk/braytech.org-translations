@@ -7,7 +7,7 @@
     "AllClasses": "すべてのクラス",
     "Back": "戻る",
     "BecomeAPatron": "支援者になる",
-    "Browse": "ブラウズ",
+    "Browse": "詳しく見る",
     "Cancel": "キャンセル",
     "Close": "閉じる",
     "Collapse": "折りたたむ",
@@ -53,7 +53,7 @@
     "Unlock": "アンロック",
     "UserReady": "すぐに始める",
     "ViewHistoricalData": "データ履歴を見る",
-    "ViewMore": "展開する"
+    "ViewMore": "続きを見る"
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
@@ -376,8 +376,8 @@
     "Character_plural": "キャラクター",
     "Checklists": "チェックリスト",
     "Clan": "クラン",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "クランメンバー",
+    "ClanMember_plural": "クランメンバー",
     "ClanMembersNth": "クランメンバー",
     "Classified": "機密情報",
     "Collectibles": "収集品",
@@ -608,10 +608,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 メートル",
       "MetresAbr_plural": "{{count}} メートル",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": " {{count}} Kg",
+      "WeightAbr_plural": " {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -657,7 +657,7 @@
     },
     "Seals": {
       "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
-      "Name": "🦘 Sigilli"
+      "Name": "調印"
     }
   },
   "Loading": {
@@ -787,7 +787,7 @@
   },
   "MemberService": {
     "Inactive": {
-      "Description": "操作を行わなかったため、プロフィールデータのバックグラウンド更新が一時停止されました。\n\nアプリを再操作すれば、更新が再開されます。"
+      "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
     }
   },
   "Notifications": {
@@ -798,8 +798,8 @@
     "NthMore": "と {{number}} 件以上あります。",
     "NthRemaining": "他 {{number}} 件のお知らせ",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを取得しないと、アイテムは永久に失われます！",
-      "DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
+      "DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを回収しないと、アイテムは永久に失われます！",
+      "DescriptionFull": "ポストマスターのスペースがありません。アイテムを回収しないと、アイテムは永久に失われます！",
       "Name": "注意！"
     },
     "PushNotifications": {
@@ -814,7 +814,7 @@
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
       "Banned": {
-        "Botting": "非アクティブ検知対策（自動操作Bot使用の疑い）を回避する仕組みが確認されました。",
+        "Botting": "非アクティブ検知対策（自動操作Bot）を使用していることが確認されました。",
         "Dickhead": "あなたに対し、とても失望しました",
         "Hacking": "外部ツールを使ってゲーム内ルールを改竄しているのが確認されました（ハッキング）",
         "Teabagging": "他プレイヤーに対し、友好関係を妨害する行動をとっているのが観察されました。"
@@ -825,7 +825,7 @@
       },
       "MemberBanned": {
         "Description": "選択されたDestinyプロファイルは、このアプリでは禁止されています。アプリエラーではありません。",
-        "Name": "プロファイルがBANされてます"
+        "Name": "プロファイルがBANされています"
       },
       "PrivateProgression": {
         "Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
@@ -1172,7 +1172,7 @@
         "Name": "ライト"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "システム設定に合わせる",
         "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
       }
     },
@@ -1364,7 +1364,7 @@
       "NoFunds": "資源が不足しています",
       "NoInventorySpace": "空きスペースがありません",
       "UniquenessViolation": "複数所持はできません",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "不明なエラー"
     }
   },
   "Voluspa": {
