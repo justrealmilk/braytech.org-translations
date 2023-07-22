@@ -280,18 +280,18 @@
       "NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Carga únicamente actividades de la temporada actual.",
+          "Name": "Temporada actual"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Filtra los encuentros y las escuadras para que solo incluyan a miembros de tu clan.",
+          "Name": "Miembros del clan"
         }
       },
       "RomanticPartnerships": "Relaciones románticas",
       "SocialButterfly": "¡Te relacionas muy bien! Jugaste con todos esta temporada.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "Mejores {{number}} composiciones de escuadra",
+      "TopFriends": "Mejores {{number}} amigos por actividades jugadas",
       "UndiscoveredFriends": "Amigos sin descubrir"
     },
     "RewardEngrams": "Engramas de recompensa",
@@ -376,8 +376,8 @@
     "Character_plural": "Personajes",
     "Checklists": "Coleccionables",
     "Clan": "Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "Miembro del clan",
+    "ClanMember_plural": "Miembros del clan",
     "ClanMembersNth": "Miembros del clan",
     "Classified": "Clasificado",
     "Collectibles": "Coleccionables",
@@ -404,7 +404,7 @@
     "FireteamMembers": "Miembros de la escuadra",
     "FireteamReserves": "Reservas",
     "FireteamSize": "Tamaño de la escuadra",
-    "Friend": "🦘 Friend",
+    "Friend": "Amigo",
     "Friend_plural": "Amigos",
     "GloryPoints": "Puntos de Gloria",
     "GuardianRank": "Rango de Guardián",
@@ -439,7 +439,7 @@
     "Rank_plural": "Rangos",
     "Record": "Triunfo",
     "Record_plural": "Triunfos",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "Informes",
     "Reputation": "Reputación",
     "Reset": "Reiniciar",
     "Reward": "Recompensa",
@@ -608,7 +608,7 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 m",
       "MetresAbr_plural": "{{count}} m",
       "WeightAbr": "{{count}} kg",
       "WeightAbr_plural": "{{count}} kg"
@@ -628,7 +628,7 @@
     "ActiveScore": "Puntaje activo",
     "CollectionsScore": "Puntaje de colecciones",
     "LegacyScore": "Puntaje de legado",
-    "Rank": "🦘 Rank",
+    "Rank": "Rango",
     "TriumphScore": "Puntaje de triunfos"
   },
   "Legend": {
@@ -657,7 +657,7 @@
     },
     "Seals": {
       "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
-      "Name": "🦘 Triumph Seals"
+      "Name": "Triunfos del sello"
     }
   },
   "Loading": {
@@ -709,7 +709,7 @@
   },
   "Maps": {
     "Context": {
-      "ChecklistsAndMore": "🦘 Checklists + More",
+      "ChecklistsAndMore": "Listas de coleccionables y más",
       "NoChecklistItems": "No se detectaron elementos"
     },
     "Inspect": {
@@ -792,8 +792,8 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "No pude copiar este enlace en el portapapeles.",
+      "Success": "Se copió un enlace en el portapapeles."
     },
     "NthMore": " y {{number}} más",
     "NthRemaining": "{{number}} otros",
@@ -1172,7 +1172,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "Automático",
         "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
       }
     },
@@ -1364,7 +1364,7 @@
       "NoFunds": "No hay suficientes materiales",
       "NoInventorySpace": "No hay espacio suficiente",
       "UniquenessViolation": "Solo puedes tener uno a la vez",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "Error desconocido"
     }
   },
   "Voluspa": {
