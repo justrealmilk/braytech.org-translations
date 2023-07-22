@@ -53,7 +53,7 @@
     "Unlock": "アンロック",
     "UserReady": "すぐに始める",
     "ViewHistoricalData": "データ履歴を見る",
-    "ViewMore": "展開する"
+    "ViewMore": "続きを見る"
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
@@ -787,7 +787,7 @@
   },
   "MemberService": {
     "Inactive": {
-      "Description": "操作を行わなかったため、プロフィールデータのバックグラウンド更新が一時停止されました。\n\nアプリを再操作すれば、更新が再開されます。"
+      "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
     }
   },
   "Notifications": {
@@ -798,8 +798,8 @@
     "NthMore": "と {{number}} 件以上あります。",
     "NthRemaining": "他 {{number}} 件のお知らせ",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを取得しないと、アイテムは永久に失われます！",
-      "DescriptionFull": "ポストマスターのスペースがありません。アイテムを取得しないと、アイテムは永久に失われます！",
+      "DescriptionAlmostFull": "ポストマスターのスペースがほとんどありません。アイテムを回収しないと、アイテムは永久に失われます！",
+      "DescriptionFull": "ポストマスターのスペースがありません。アイテムを回収しないと、アイテムは永久に失われます！",
       "Name": "注意！"
     },
     "PushNotifications": {
@@ -814,7 +814,7 @@
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
       "Banned": {
-        "Botting": "非アクティブ検知対策（自動操作Bot使用の疑い）を回避する仕組みが確認されました。",
+        "Botting": "非アクティブ検知対策（自動操作Bot）を使用していることが確認されました。",
         "Dickhead": "あなたに対し、とても失望しました",
         "Hacking": "外部ツールを使ってゲーム内ルールを改竄しているのが確認されました（ハッキング）",
         "Teabagging": "他プレイヤーに対し、友好関係を妨害する行動をとっているのが観察されました。"
@@ -825,7 +825,7 @@
       },
       "MemberBanned": {
         "Description": "選択されたDestinyプロファイルは、このアプリでは禁止されています。アプリエラーではありません。",
-        "Name": "プロファイルがBANされてます"
+        "Name": "プロファイルがBANされています"
       },
       "PrivateProgression": {
         "Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
