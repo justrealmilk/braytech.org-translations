@@ -7,7 +7,7 @@
     "AllClasses": "すべてのクラス",
     "Back": "戻る",
     "BecomeAPatron": "支援者になる",
-    "Browse": "ブラウズ",
+    "Browse": "詳しく見る",
     "Cancel": "キャンセル",
     "Close": "閉じる",
     "Collapse": "折りたたむ",
@@ -376,8 +376,8 @@
     "Character_plural": "キャラクター",
     "Checklists": "チェックリスト",
     "Clan": "クラン",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "クランメンバー",
+    "ClanMember_plural": "クランメンバー",
     "ClanMembersNth": "クランメンバー",
     "Classified": "機密情報",
     "Collectibles": "収集品",
@@ -608,10 +608,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 メートル",
       "MetresAbr_plural": "{{count}} メートル",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": " {{count}} Kg",
+      "WeightAbr_plural": " {{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -657,7 +657,7 @@
     },
     "Seals": {
       "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
-      "Name": "🦘 Sigilli"
+      "Name": "調印"
     }
   },
   "Loading": {
@@ -1172,7 +1172,7 @@
         "Name": "ライト"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "システム設定に合わせる",
         "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"
       }
     },
@@ -1364,7 +1364,7 @@
       "NoFunds": "資源が不足しています",
       "NoInventorySpace": "空きスペースがありません",
       "UniquenessViolation": "複数所持はできません",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "不明なエラー"
     }
   },
   "Voluspa": {
