@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Olvídame",
     "Accept": "Aceptar",
     "AddBookmark": "Añadir a favoritos",
     "AddEvent": "Añadir evento",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "Rotación activa",
-    "ApproximateLength": "Duración aproximada",
     "Carnage": {
       "SelectDate": {
         "Info": "Selecciona una fecha a continuación y prepárate para dar el salto",
         "Waiting": "Agarraos—cuantas más actividades hagáis y más lejos saltéis, más tiempo tardaremos.\n\nLa API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos La API de Bungie no permite solicitar el historial de actividad de un periodo concreto, así que estamos acribillando los datos."
       }
     },
-    "Cooperative": "Cooperativo",
     "Fireteam": {
       "Closed": "Escuadra cerrada",
       "Full": "Escuadra llena",
@@ -72,14 +71,9 @@
       "Open": "Escuadra abierta",
       "SinglePlayer": "Actividad de un jugador"
     },
-    "FreeForAll": "Todos contra todos",
     "Graphs": {
       "SelectDate": "Selecciona una fecha con actividades jugadas en el gráfico de arriba."
     },
-    "LevelAdvantagesDisabled": "Ventajas de nivel desactivadas",
-    "LevelAdvantagesEnabled": "Ventajas de nivel activadas",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} jugadores",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
     "NoMedalsAwarded": "No se han concedido medallas",
     "NoStatsAvailable": "No hay estadísticas disponibles",
-    "PvP": "Jugador contra jugador",
-    "RecommendedLight": "Luz recomendada",
     "Score": {
       "Team": "Puntuación del equipo"
     },
     "SelectMode": "Elige modo",
     "SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
-    "SinglePlayer": "Un jugador",
     "Standing": {
       "Defeat": "Derrota",
       "DidNotFinish": "El jugador no ha terminado",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech ha sido, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la ha desarrollado un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
-      }
+      "Info": "Braytech ha sido, y sigue siendo, un centro multiusos para que su desarrollador practique y aprenda a programar mejor y a trabajar con otros. Comenzó como una afición genial para ayudar a pasar el tiempo y se transformó en un pequeño monstruo.\n\nEsta bestia la ha desarrollado un tipo de Australia, pero no sin el apoyo moral y la guía de otros que quisiera describir aquí.\n\nLa comunidad de desarrolladores independientes que crece en el patio trasero de Destiny es amable y se ayudan unos a otros, y eso es algo hermoso. Así que, agradecimientos al equipo de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), y a todos los demás que han mantenido cuerdo a Tom mientras intentaba hacer las tonterías que hace."
     },
     "Privacy": {
       "Info": "En definitiva, Braytech no utiliza cookies ni ningún otro mecanismo para rastrearte, ni tampoco pretende captarte con fines publicitarios (vamos, Braytech no tiene anuncios).\n\nSi tienes alguna pregunta adicional respecto a este asunto, no dudes en acudir al [Discord](https://discord.bray.tech).",
@@ -178,25 +167,16 @@
       "Description": "Braytech requiere un navegador moderno para funcionar. Los requisitos mínimos de los navegadores están configurados para permitir que los navegadores que tienen más de un año de antigüedad puedan ejecutar Braytech. Por lo tanto, si se encuentra con este mensaje, es hora de cambiar a algo nuevo.\n\nSe recomienda un navegador basado en Chromium, como Microsoft Edge.@className=warning@",
       "Name": "Navegador no soportado"
     },
-    "Version": "Versión",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Versión"
   },
   "Archives": {
     "Grimoire": {
       "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
       "Name": "Grimorio"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Olvídame",
       "Description": "Elimina los datos de autentificación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
       "Name": "Datos de autentificación"
     },
@@ -205,11 +185,9 @@
         "Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autentificación con el que puede interactuar con más puntos terminales de la API.",
         "Name": "Se requiere autentificación"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autentificación en la sección _Ajustes_.",
-          "Name": "Oh, cariño... Cariiiiñoooo"
-        }
+      "DiffProfile": {
+        "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autentificación en la sección _Ajustes_.",
+        "Name": "Oh, cariño... Cariiiiñoooo"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "Daño de estasis",
       "StrandDamage": "Daño de atadura",
       "VoidDamage": "Daño de vacío"
-    },
-    "Vendors": {
-      "BrightDustItems": "Objetos por polvo luminoso",
-      "CrossSaveSilver": "Tu saldo de plata es devuelto por la API solo para la plataforma en la que está jugando actualmente.",
-      "EververseCalendar": "Calendario de Eververso",
-      "FeaturedBrightDustItems": "Objetos destacados por polvo luminoso",
-      "FeaturedSilverItems": "Objetos destacados por plata",
-      "ShowAllItems": "Todos los objetos",
-      "ShowSilverOnlyItems": "Mostrar solo los objetos por plata",
-      "SilverOnlyItems": "Objetos solo por plata"
     }
   },
   "Clan": {
@@ -312,18 +280,18 @@
       "NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Carga únicamente actividades de la temporada actual.",
+          "Name": "Temporada actual"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Filtra los encuentros y las escuadras para que solo incluyan a miembros de tu clan.",
+          "Name": "Miembros del clan"
         }
       },
       "RomanticPartnerships": "Relaciones románticas",
       "SocialButterfly": "¡Te relacionas muy bien! Has jugado con todos esta temporada.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "Mejores {{number}} composiciones de escuadra",
+      "TopFriends": "Mejores {{number}} amigos por actividades jugadas",
       "UndiscoveredFriends": "Amigos sin descubrir"
     },
     "RewardEngrams": "Engramas de recompensa",
@@ -380,8 +348,8 @@
     "SentAbr": "Env."
   },
   "Common": {
-    "Acknowledgements": "Agradecimientos",
-    "AcknowledgementsInfo": "Parte de estos contenidos son proporcionados generosamente por terceros. Por favor, piensa en ellos y en el esfuerzo que han realizado cuando consumas sus obras.",
+    "CurrentRankNth": "Nivel actual: {{value}}",
+    "SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}",
     "Actions": "Acciones",
     "Activate": "Iniciar",
     "Active": "Activo",
@@ -408,8 +376,8 @@
     "Character_plural": "Personajes",
     "Checklists": "Coleccionables",
     "Clan": "Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "Miembro del clan",
+    "ClanMember_plural": "Miembros del clan",
     "ClanMembersNth": "Miembros del clan",
     "Classified": "Clasificado",
     "Collectibles": "Coleccionables",
@@ -436,7 +404,7 @@
     "FireteamMembers": "Miembros de la escuadra",
     "FireteamReserves": "Reservas",
     "FireteamSize": "Tamaño de la escuadra",
-    "Friend": "🦘 Friend",
+    "Friend": "Amigo",
     "Friend_plural": "Amigos",
     "GloryPoints": "Puntos de Gloria",
     "GuardianRank": "Nivel de Guardián",
@@ -471,7 +439,7 @@
     "Rank_plural": "Niveles",
     "Record": "Triunfo",
     "Record_plural": "Triunfos",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "Informes",
     "Reputation": "Reputación",
     "Reset": "Reiniciar",
     "Reward": "Recompensa",
@@ -509,19 +477,6 @@
     "Weapon": "Arma",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Ríete ante el rostro de la muerte, recoge caramelos, usa máscaras y lucha contra la oscuridad invasora.\n\nEva Levante ha vuelto para celebrar la Fiesta de las Almas Perdidas. En esta celebración, los guardianes se dan un festín, llevan máscaras irreverentes y honran el recuerdo de los que hemos perdido.\n\nEl Bosque Encantado ha vuelto a abrir, y esta vez, la Araña quiere negociar para que le ayudes.",
-      "Name": "Fiesta de las Almas Perdidas"
-    },
-    "IronBanner": {
-      "Description": "Un evento especial del Crisol que durante una semana desafía a equipos de 6 a enfrentarse en la versión más competitiva de Control. Las ventajas de nivel de Luz están activadas."
-    },
-    "TheDawning": {
-      "Description": "Ni siquiera la gélida brisa de Europa puede congelar los corazones de los guardianes durante una época del año tan especial. La Aurora ha vuelto.",
-      "Name": "La Aurora"
-    }
   },
   "FAQ": {
     "API": {
@@ -585,10 +540,6 @@
         "Name": "Más"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Nivel actual: {{value}}",
-    "SeasonEndsIn": "Temporada {{number}}: termina en {{duration}}"
   },
   "Item": {
     "Ammo": "Munición",
@@ -657,7 +608,7 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 m",
       "MetresAbr_plural": "{{count}} m",
       "WeightAbr": "{{count}} kg",
       "WeightAbr_plural": "{{count}} kg"
@@ -677,7 +628,7 @@
     "ActiveScore": "Puntuación activa",
     "CollectionsScore": "Puntuación de colecciones",
     "LegacyScore": "Puntuación antigua",
-    "Rank": "🦘 Rank",
+    "Rank": "Nivel",
     "TriumphScore": "Puntuación de triunfos"
   },
   "Legend": {
@@ -706,7 +657,7 @@
     },
     "Seals": {
       "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
-      "Name": "🦘 Triumph Seals"
+      "Name": "Triunfos del sello"
     }
   },
   "Loading": {
@@ -758,7 +709,7 @@
   },
   "Maps": {
     "Context": {
-      "ChecklistsAndMore": "🦘 Checklists + More",
+      "ChecklistsAndMore": "Listas de coleccionables y más",
       "NoChecklistItems": "No se han detectado elementos"
     },
     "Inspect": {
@@ -841,8 +792,8 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "No he podido copiar este enlace en el portapapeles.",
+      "Success": "Se ha copiado un enlace en el portapapeles,"
     },
     "NthMore": "y {{number}} más",
     "NthRemaining": "{{number}} otros",
@@ -1221,7 +1172,7 @@
         "Name": "Claro"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "Automático",
         "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
       }
     },
@@ -1413,7 +1364,7 @@
       "NoFunds": "No hay suficientes materiales",
       "NoInventorySpace": "No hay espacio suficiente",
       "UniquenessViolation": "Solo puedes tener uno a la vez",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "Error desconocido"
     }
   },
   "Voluspa": {

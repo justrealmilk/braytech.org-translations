@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Esquecer-me",
     "Accept": "Aceitar",
     "AddBookmark": "Adicionar aos Favoritos",
     "AddEvent": "Adicionar evento",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "ApproximateLength": "Duração Aproximada",
     "Carnage": {
       "SelectDate": {
         "Info": "Selecione uma data abaixo e prepare-se para saltar",
         "Waiting": "Prepare-se: quanto mais atividades você jogar e quanto mais longe você saltar, mais tempo isso levará!\n\nA API da Bungie não permite a solicitação de histórico de atividades de um período específico, então estamos fazendo este trabalho."
       }
     },
-    "Cooperative": "Cooperativo",
     "Fireteam": {
       "Closed": "Esquadrão Fechado",
       "Full": "Esquadrão Cheio",
@@ -72,14 +71,9 @@
       "Open": "Esquadrão Aberto",
       "SinglePlayer": "Atividade de Um Jogador"
     },
-    "FreeForAll": "Livre Para Todos",
     "Graphs": {
       "SelectDate": "Selecione uma data com atividades jogadas a partir do gráfico acima."
     },
-    "LevelAdvantagesDisabled": "Vantagens de Nível Desabilitadas",
-    "LevelAdvantagesEnabled": "Vantagens de Nível Habilitadas",
-    "Matchmaking": "Organização de Partida",
-    "MaxParty": "{{number}} jogadores",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Modificadores não estão disponíveis agora",
     "NoMedalsAwarded": "Nenhuma Medalha Premiada",
     "NoStatsAvailable": "Nenhuma estatística disponível",
-    "PvP": "Jogador contra Jogador",
-    "RecommendedLight": "Luz Recomendada",
     "Score": {
       "Team": "🦘 Team Score"
     },
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "Para detalhar uma atividade específica, selecione um modo na interface acima",
-    "SinglePlayer": "Um Jogador",
     "Standing": {
       "Defeat": "Derrota",
       "DidNotFinish": "🦘 Player did not finish",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech tem sido, e continuará sendo, um lugar com muito propósitos, onde seu desenvolvedor usa para praticar e aprender como programar e trabalhar melhor com outros. Isso começou como um hobby bacana para ajudar a passar o tempo, e transformou-se em um pequeno monstro.\n\nEssa besta é desenvolvida por um cara da Austrália, mas não sem o suporte moral e a guia de outros que ele gostaria de descrever aqui.\n\nA comunidade de desenvolvedores que tem crescido no quintal de Destiny é gentil, que ajuda um ao outro, e isso é algo bonito de se ver. Então, um salve para [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), e todos os outros que mantiveram Tom são enquanto ele tentava fazer as coisas bobas dele."
-      }
+      "Info": "Braytech tem sido, e continuará sendo, um lugar com muito propósitos, onde seu desenvolvedor usa para praticar e aprender como programar e trabalhar melhor com outros. Isso começou como um hobby bacana para ajudar a passar o tempo, e transformou-se em um pequeno monstro.\n\nEssa besta é desenvolvida por um cara da Austrália, mas não sem o suporte moral e a guia de outros que ele gostaria de descrever aqui.\n\nA comunidade de desenvolvedores que tem crescido no quintal de Destiny é gentil, que ajuda um ao outro, e isso é algo bonito de se ver. Então, um salve para [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/), e todos os outros que mantiveram Tom são enquanto ele tentava fazer as coisas bobas dele."
     },
     "Privacy": {
       "Info": "O fato é que a Braytech não usa cookies ou qualquer outro mecanismo para rastreá-lo, nem tem você como alvo para fins publicitários (Quero dizer, Braytech não tem anúncios).\n\nSe você tiver alguma pergunta sobre o assunto deste aviso, sinta-se livre para dar um pulo no [Discord](https://discord.bray.tech).",
@@ -178,25 +167,16 @@
       "Description": "Braytech requer funções de um navegador mais atual para operar. Os requisitos mínimos do navegador são definidos para permitir que navegadores com mais de um ano executem o Braytech. Por isso, se você encontrar esta mensagem, é hora de se mudar para algo novo.\n\nUm navegador baseado em Chromium como o Microsoft Edge é recomendado.@className=warning@",
       "Name": "Navegador não Suportado"
     },
-    "Version": "Versão",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Versão"
   },
   "Archives": {
     "Grimoire": {
       "Description": "As histórias do antigo, Destiny 1, salvas em segurança, arquivadas e preservadas aqui.",
       "Name": "Grimório"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Esquecer-me",
       "Description": "Excluir os dados de autenticação armazenados no seu dispositivo. Embora desnecessário, essa função serve para deixa-lo com a mente em paz.",
       "Name": "Dados de Autenticação"
     },
@@ -205,11 +185,9 @@
         "Description": "Para usar essa funcionalidade, diga a Bungie que você aprova. Nenhuma informação pressoal é compartilhada fazendo isso—apenas um código de autenticação que permite interagir com mais endpoints da API.",
         "Name": "Autenticação necessária"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Você não tem permissão para acessar dados de perfil de um usuário diferente, mas você pode usar estes links auxiliares para retornar para o seu perfil.\n\nVocê pode encontrar mais informação sobre sua autenticação na página de _Configurações_.",
-          "Name": "ahh, meu bem... Meu beeeeeem"
-        }
+      "DiffProfile": {
+        "Description": "Você não tem permissão para acessar dados de perfil de um usuário diferente, mas você pode usar estes links auxiliares para retornar para o seu perfil.\n\nVocê pode encontrar mais informação sobre sua autenticação na página de _Configurações_.",
+        "Name": "ahh, meu bem... Meu beeeeeem"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "Itens por Poeira Estrelar",
-      "CrossSaveSilver": "Seu saldo de Prata é informado pela API apenas na plataforma em que está jogando atualmente.",
-      "EververseCalendar": "Calendário do Eververso",
-      "FeaturedBrightDustItems": "Itens por Poeira Estrelar em Destaque",
-      "FeaturedSilverItems": "Itens por Prata em Destaque",
-      "ShowAllItems": "Todos os Items",
-      "ShowSilverOnlyItems": "Mostrar Itens Compráveis Apenas por Prata",
-      "SilverOnlyItems": "Itens Compráveis Apenas por Prata"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "🦘 Sent"
   },
   "Common": {
-    "Acknowledgements": "Reconhecimentos",
-    "AcknowledgementsInfo": "Parte deste conteúdo é generosamente providenciado por terceiros. Por favor, pense neles e no esforço investido ao consumir seus trabalhos.",
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "Ações",
     "Activate": "Iniciar",
     "Active": "🦘 Active",
@@ -510,19 +478,6 @@
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Ria da morte, colete doces e lute mascarado contra as forças das trevas.\n\nEva Levante está de volta como ícone do Festival dos Finados. Este feriado é tempo de Guardiões aproveitarem gostosuras, usarem máscaras irreverentes e homenagearem aqueles que já que se foram.\n\nA Floresta Assombrada se abre novamente, e, desta vez, o Aranha quer barganhar por sua cooperação.",
-      "Name": "Festival dos Finados"
-    },
-    "IronBanner": {
-      "Description": "Um evento especial do Crisol com duração de uma semana que desafia times de até 6 jogadores em uma partida de controle em uma forma mais competitiva. Vantagens de nível de luz habilitadas."
-    },
-    "TheDawning": {
-      "Description": "Nem o frio implacável de Europa é páreo para os corações quentes dos Guardiões nesta época especial do ano. A alvorada voltou.",
-      "Name": "A Alvorada"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "🦘 More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "Munição",

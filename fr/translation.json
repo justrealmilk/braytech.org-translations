@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Oubliez-moi",
     "Accept": "Accepter",
     "AddBookmark": "Ajouter aux favoris",
     "AddEvent": "Ajouter un évènement",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
-    "ApproximateLength": "Durée approximative",
     "Carnage": {
       "SelectDate": {
         "Info": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
         "Waiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité."
       }
     },
-    "Cooperative": "Coopératif",
     "Fireteam": {
       "Closed": "Escouade fermée",
       "Full": "Escouade complète",
@@ -72,14 +71,9 @@
       "Open": "Escouade ouverte",
       "SinglePlayer": "Activité en solo"
     },
-    "FreeForAll": "Chacun pour soi",
     "Graphs": {
       "SelectDate": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus."
     },
-    "LevelAdvantagesDisabled": "Avantages de niveau désactivés",
-    "LevelAdvantagesEnabled": "Avantages de niveau activés",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} joueurs",
     "Modes": {
       "Bar": {
         "PvPLoss": "Défaite",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Modificateurs indisponibles pour le moment.",
     "NoMedalsAwarded": "Pas de médaille remportée",
     "NoStatsAvailable": "Pas de statistiques disponibles",
-    "PvP": "Joueurs contre Joueurs",
-    "RecommendedLight": "Puissance recommandée",
     "Score": {
       "Team": "Score d'équipe"
     },
     "SelectMode": "Sélectionnez le mode",
     "SelectModeInfo": "Pour accéder à une activité spécifique, sélectionnez un mode dans l'interface ci-dessus",
-    "SinglePlayer": "Solo",
     "Standing": {
       "Defeat": "Défaite",
       "DidNotFinish": "Le joueur n'a pas terminé la partie",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech est, et continuera à l'être, une entreprise polyvalente pour son développeur afin de pratiquer et d'apprendre comment bâtir un meilleur programme pour les autres. Cela a commencé comme un passe-temps cool pour aider à passer le temps et s'est transformé en un peu un monstre. \n\nCette bête a été développée par un gars en Australie, mais pas sans le soutien moral et les conseils d'autres personnes qu'il aimerait citer ici. \n\nLa communauté de développeurs tiers qui développe dans l'arrière-cour de Destiny est une communauté aimable qui s'entraide et c'est une belle chose. Alors, bravo à l'équipe de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/) et tous les autres qui ont gardé Tom sain d'esprit pendant qu'il essaie de faire les choses stupides qu'il fait."
-      }
+      "Info": "Braytech est, et continuera à l'être, une entreprise polyvalente pour son développeur afin de pratiquer et d'apprendre comment bâtir un meilleur programme pour les autres. Cela a commencé comme un passe-temps cool pour aider à passer le temps et s'est transformé en un peu un monstre. \n\nCette bête a été développée par un gars en Australie, mais pas sans le soutien moral et les conseils d'autres personnes qu'il aimerait citer ici. \n\nLa communauté de développeurs tiers qui développe dans l'arrière-cour de Destiny est une communauté aimable qui s'entraide et c'est une belle chose. Alors, bravo à l'équipe de [Destiny Item Manager](https://destinyitemmanager.com/), [Richard Deveraux](https://lowlidev.com.au/) et tous les autres qui ont gardé Tom sain d'esprit pendant qu'il essaie de faire les choses stupides qu'il fait."
     },
     "Privacy": {
       "Info": "La longue et maigre politique de confidentialité qu'est celle-ci, est que Braytech n'utilise pas de cookies ou tout autre mécanisme pour vous suivre, ni ne vous cible à des fins publicitaires (J'entends par là que Braytech n'a pas d'annonces). \n\nSi vous avez des questions au delà de ce point de cette politique, n'hésitez pas à aller directement consulter le [Discord](https://discord.bray.tech).",
@@ -178,25 +167,16 @@
       "Description": "Braytech nécessite des fonctionnalités de navigateur modernes pour fonctionner. Les exigences minimales du navigateur sont définies pour permettre aux navigateurs de plus d'un an d'exécuter Braytech. En tant que tel, si vous rencontrez ce message, il est temps de passer à quelque chose de nouveau.\n\nUn navigateur basé sur Chromium tel que Microsoft Edge est recommandé.@className=warning@",
       "Name": "Navigateur non supporté"
     },
-    "Version": "Version",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Version"
   },
   "Archives": {
     "Grimoire": {
       "Description": "Les anciennes cartes du Grimoire de Destiny 1 sont sauvegardées, archivées et conservées ici. Le Grimoire est une base de données au sein de Destiny.  Les entrées ont été déverrouillées en jouant au jeu sous forme de cartes. La liste des entrées du Grimoire est classée en six catégories principales : Gardien, Inventaire, Alliés, Ennemis, Lieux et Activités. Chacune de ces catégories comporte un certain nombre de sous-catégories.",
       "Name": "Grimoire"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Oubliez-moi",
       "Description": "Supprimez les données d'authentification stockées sur votre appareil. Bien que inutile, cette fonction est fournie pour votre bon vouloir.",
       "Name": "Données d'authentification"
     },
@@ -205,11 +185,9 @@
         "Description": "Pour utiliser cette fonctionnalité, veuillez indiquer à Bungie que vous approuvez. Ce faisant, aucune information personnelle n'est partagée - il ne s'agit que d'un code d'authentification avec lequel vous pouvez interagir avec davantage de points de terminaison d'API.",
         "Name": "Authentification requise"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Vous n'êtes pas autorisé à accéder aux données de profil d'un autre utilisateur, mais vous pouvez utiliser ces liens utiles pour revenir aux vôtres.\n\nVous pouvez trouver plus d'informations concernant votre authentification dans la vue des Paramètres.",
-          "Name": "Oh, chéri quand même..."
-        }
+      "DiffProfile": {
+        "Description": "Vous n'êtes pas autorisé à accéder aux données de profil d'un autre utilisateur, mais vous pouvez utiliser ces liens utiles pour revenir aux vôtres.\n\nVous pouvez trouver plus d'informations concernant votre authentification dans la vue des Paramètres.",
+        "Name": "Oh, chéri quand même..."
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "Dégâts stasiques",
       "StrandDamage": "Dégâts filobscurs",
       "VoidDamage": "Dégâts abyssaux"
-    },
-    "Vendors": {
-      "BrightDustItems": "Articles de poussière brillante",
-      "CrossSaveSilver": "Votre solde d'Argentum est renvoyé par l'API uniquement pour la plate-forme sur laquelle vous jouez actuellement au jeu.",
-      "EververseCalendar": "Calendrier d'Everversum",
-      "FeaturedBrightDustItems": "Articles vedettes de poussière brillante",
-      "FeaturedSilverItems": "Articles vedettes d'Argentum",
-      "ShowAllItems": "Tous les articles",
-      "ShowSilverOnlyItems": "Afficher les articles en Argentum uniquement",
-      "SilverOnlyItems": "Articles en Argentum uniquement"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "Env."
   },
   "Common": {
-    "Acknowledgements": "Remerciements",
-    "AcknowledgementsInfo": "Une partie de ce contenu est généreusement fournie par des tiers. Pensez à eux et à l'effort investi lors de l'utilisation de leurs travaux.",
+    "CurrentRankNth": "Rang actuel: {{value}}",
+    "SeasonEndsIn": "La Saison {{number}}: se termine dans {{duration}}",
     "Actions": "Actions",
     "Activate": "Activer",
     "Active": "Actif",
@@ -510,19 +478,6 @@
     "WeekNth": "Semaine {{number}}",
     "Week_plural": "Semaines"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Riez face à la mort, récupérez des bonbons, portez des masques et combattez les ténèbres envahissantes.\n\nEva Levante est de retour en tant que héraut du Festival des Âmes perdues. Cette fête est le moment pour les Gardiens de s'adonner à la gourmandise, de revêtir des masques irrévérencieux et de célébrer les souvenirs de ceux que nous avons perdus.\n\nLa Forêt Hantée est à nouveau ouverte, et cette fois, l'Araignée veut négocier votre coopération .",
-      "Name": "Festival des Âmes perdues"
-    },
-    "IronBanner": {
-      "Description": "Un événement spécial de l'Épreuve sur une semaine qui défie des équipes de 6 à s'affronter dans la forme la plus compétitive du mode Domination. Avantages du niveau de lumière activés."
-    },
-    "TheDawning": {
-      "Description": "Même le froid mordant d’Europe ne peut pas geler le cœur chaleureux des Gardiens pendant cette période spéciale de l’année. L'Avènement est de retour.",
-      "Name": "L'Avènement"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "Plus"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Rang actuel: {{value}}",
-    "SeasonEndsIn": "La Saison {{number}}: se termine dans {{duration}}"
   },
   "Item": {
     "Ammo": "Munition",

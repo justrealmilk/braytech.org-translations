@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Forget Me",
     "Accept": "Accept",
     "AddBookmark": "Add Bookmark",
     "AddEvent": "Add Event",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "Active Rotator",
-    "ApproximateLength": "Approximate length",
     "Carnage": {
       "SelectDate": {
         "Info": "Select a date below and prepare to jump",
         "Waiting": "Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
       }
     },
-    "Cooperative": "Cooperative",
     "Fireteam": {
       "Closed": "Fireteam Closed",
       "Full": "Fireteam Full",
@@ -72,14 +71,9 @@
       "Open": "Fireteam Open",
       "SinglePlayer": "Single Player Activity"
     },
-    "FreeForAll": "Free For All",
     "Graphs": {
       "SelectDate": "Select a date with activities played from the graph above."
     },
-    "LevelAdvantagesDisabled": "Level Advantages Disabled",
-    "LevelAdvantagesEnabled": "Level Advantages Enabled",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} players",
     "Modes": {
       "Bar": {
         "PvPLoss": "Loss",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Modifiers aren't available right now.",
     "NoMedalsAwarded": "No Medals Awarded",
     "NoStatsAvailable": "No Stats Available",
-    "PvP": "Player versus Player",
-    "RecommendedLight": "Recommended light",
     "Score": {
       "Team": "Team Score"
     },
     "SelectMode": "Select Mode",
     "SelectModeInfo": "To drill down to a specific activity, select a mode from the interface above",
-    "SinglePlayer": "Single Player",
     "Standing": {
       "Defeat": "Defeat",
       "DidNotFinish": "Player did not finish",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone."
-      }
+      "Info": "Braytech has been, and continues to be, a multipurpose facility for its developer to practice and learn how to better program and work with others. It started out as a cool hobby to help pass the time and transformed into a bit of a monster.\n\nDestiny's third party developer community is a somewhat unique phenomenon and is very special. It enables great people to do great things, backed by community values. We build for everyone."
     },
     "Privacy": {
       "Info": "The long and skinny of it is that Braytech doesn't use cookies or any other mechanism to track you, nor does it target you for advertising purposes (I mean, Braytech doesn't have any ads).\n\nIf you have any questions further to the point of this notice, feel free to jump into the [Discord](https://discord.bray.tech).",
@@ -184,17 +173,10 @@
     "Grimoire": {
       "Description": "The lore of old, Destiny 1's Grimoire cards are backed up, archived, and preserved here. Grimoire is a database within Destiny. Entries were unlocked through playing the game in the form of \"cards.\"\n\nThe list of Grimoire entries is sorted into six main categories—Guardian, Inventory, Allies, Enemies, Places, and Activities. Each of these categories has a number of sub-categories.",
       "Name": "Grimoire"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Forget Me",
       "Description": "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
       "Name": "Authentication Data"
     },
@@ -203,11 +185,9 @@
         "Description": "Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
         "Name": "Authentication Required"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
-          "Name": "Oh, honey... Honnnnneyyyy"
-        }
+      "DiffProfile": {
+        "Description": "You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
+        "Name": "Oh, honey... Honnnnneyyyy"
       }
     },
     "Friends": {
@@ -261,16 +241,6 @@
       "StasisDamage": "Stasis Damage",
       "StrandDamage": "Strand Damage",
       "VoidDamage": "Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "Bright Dust Items",
-      "CrossSaveSilver": "Your Silver balance is returned by the API only for the platform which you are currently playing the game on.",
-      "EververseCalendar": "Eververse Calendar",
-      "FeaturedBrightDustItems": "Featured Bright Dust Items",
-      "FeaturedSilverItems": "Featured Silver Items",
-      "ShowAllItems": "Show All Items",
-      "ShowSilverOnlyItems": "Show Silver-only Items",
-      "SilverOnlyItems": "Silver-only Items"
     }
   },
   "Clan": {
@@ -378,8 +348,8 @@
     "SentAbr": "Sent"
   },
   "Common": {
-    "Acknowledgements": "Acknowledgements",
-    "AcknowledgementsInfo": "Some of this content is generously provided by third parties. Please think of them and the effort invested when consuming their works.",
+    "CurrentRankNth": "Current Rank: {{value}}",
+    "SeasonEndsIn": "Season {{number}}: ends in {{duration}}",
     "Actions": "Actions",
     "Activate": "Activate",
     "Active": "Active",
@@ -508,19 +478,6 @@
     "WeekNth": "Week {{number}}",
     "Week_plural": "Weeks"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Laugh in the face of death, collect candies, wear masks, and fight back against the encroaching darkness.",
-      "Name": "Festival of the Lost"
-    },
-    "IronBanner": {
-      "Description": "A special week-long Crucible event that challenges teams of six to go head-to-head in the most competitive form of Control."
-    },
-    "TheDawning": {
-      "Description": "Even the biting chill of Europa can’t freeze the warm hearts of Guardians during this special time of year. The Dawning has returned.",
-      "Name": "The Dawning"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -583,10 +540,6 @@
         "Name": "More"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Current Rank: {{value}}",
-    "SeasonEndsIn": "Season {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "Ammo",

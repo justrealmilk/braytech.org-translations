@@ -1,5 +1,6 @@
 {
   "Action": {
+    "ForgetMe": "Dimenticami",
     "Accept": "Accetta",
     "AddBookmark": "Aggiungi preferito",
     "AddEvent": "Aggiungi evento",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "In rotazione",
-    "ApproximateLength": "Tempo stimato",
     "Carnage": {
       "SelectDate": {
         "Info": "Seleziona una data qui sotto e preparati a saltare",
         "Waiting": "Allacciati le cinture—più attività completi e più salti indietro, più tempo ci vorrà!\n\nL'API di Bungie non permette di richiedere la cronologia delle attività da un periodo specifico, quindi preparati per un lungo viaggio."
       }
     },
-    "Cooperative": "Cooperativa",
     "Fireteam": {
       "Closed": "Squadra chiusa",
       "Full": "Squadra piena",
@@ -72,14 +71,9 @@
       "Open": "Squadra aperta",
       "SinglePlayer": "Attività giocatore singolo"
     },
-    "FreeForAll": "Tutti contro tutti",
     "Graphs": {
       "SelectDate": "Seleziona una data con attività dal grafico sopra."
     },
-    "LevelAdvantagesDisabled": "Vantaggi di livello disabilitati",
-    "LevelAdvantagesEnabled": "Vantaggi di livello abilitati",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} giocatori",
     "Modes": {
       "Bar": {
         "PvPLoss": "Sconfitta",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "I modificatori non sono disponibili ora",
     "NoMedalsAwarded": "Nessuna medaglia ottenuta",
     "NoStatsAvailable": "Nessuna statistica disponibile",
-    "PvP": "Giocatore contro giocatore",
-    "RecommendedLight": "Potere consigliato",
     "Score": {
       "Team": "Punteggio di squadra"
     },
     "SelectMode": "Seleziona modalità",
     "SelectModeInfo": "Per visualizzare dettagliatamente un'attività specifica, seleziona una modalità dall'interfaccia qui sopra",
-    "SinglePlayer": "Giocatore singolo",
     "Standing": {
       "Defeat": "Sconfitta",
       "DidNotFinish": "Il giocatore non ha completato l'attività",
@@ -143,9 +134,7 @@
   },
   "Addendums": {
     "Credits": {
-      "Origins": {
-        "Description": "Braytech è stato, e continua ad essere, un servizio multifunzione per i suoi sviluppatori a esercitarsi e imparare a programmare meglio e lavorare con gli altri. È iniziato come un hobby interessante per aiutare a passare il tempo e si è trasformato in una bella bestia.\n\nLa comunità di sviluppatori di terze parti di Destiny è un fenomeno in qualche modo unico e molto speciale. Consente a grandi persone di fare grandi cose, sostenute dai valori della comunità. Noi creiamo per tutti."
-      }
+      "Info": "Braytech è stato, e continua ad essere, un servizio multifunzione per i suoi sviluppatori a esercitarsi e imparare a programmare meglio e lavorare con gli altri. È iniziato come un hobby interessante per aiutare a passare il tempo e si è trasformato in una bella bestia.\n\nLa comunità di sviluppatori di terze parti di Destiny è un fenomeno in qualche modo unico e molto speciale. Consente a grandi persone di fare grandi cose, sostenute dai valori della comunità. Noi creiamo per tutti."
     },
     "Privacy": {
       "Info": "Detto in breve, Braytech non utilizza cookie o altri meccanismi per rintracciarti, né ti prende di mira per scopi pubblicitari (voglio dire, Braytech non ha pubblicità).\n\nSe ne hai ulteriori domande a riguardo, sentiti libero di saltare su [Discord](https://discord.bray.tech) (in inglese).",
@@ -178,25 +167,16 @@
       "Description": "Braytech richiede le funzionalità dei browser moderni per operare. Se ricevi questo messaggio, è ora di passare a qualcosa di nuovo.\n\nSi consiglia un browser basato su Chromium come ad esempio Microsoft Edge.@className=warning@",
       "Name": "Browser non supportato"
     },
-    "Version": "Versione",
-    "CopyLinkFail": "🦘 I failed to copy this link to your clipboard.",
-    "CopyLinkSuccess": "🦘 A link has been copied to your clipboard."
+    "Version": "Versione"
   },
   "Archives": {
     "Grimoire": {
       "Description": "Le leggende dei saggi, le carte del Grimorio di Destiny 1 sono copiate, archiviate e preservate qua. Il Grimorio è un database interno a Destiny. Le voci venivano sbloccate durante il gioco sotto forma di \"carte\".\n\nIl compendio delle carte del Grimorio è diviso nelle 6 seguenti categorie: Guardiani, Inventario, Alleati, Nemici, Luoghi e Attività. Ognuna di queste ha molteplici sottocategorie.",
       "Name": "Grimorio"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "🦘 Archives.Guides.VowOfTheDisciple.Description",
-        "Name": "🦘 Archives.Guides.VowOfTheDisciple.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Dimenticami",
       "Description": "Elimina i dati di autenticazione salvati sul tuo dispositivo. Anche se non necessaria, questa funzione è fornita per la tua pace mentale.",
       "Name": "Dati di autenticazione"
     },
@@ -205,11 +185,9 @@
         "Description": "Per utilizzare questa funzione, informa Bungie dell'approvazione. In questo modo non vengono condivise informazioni personali—solo un codice di autenticazione con il quale è possibile interagire con più punti dell'API.",
         "Name": "Autenticazione richiesta"
       },
-      "Permissions": {
-        "Profile": {
-          "Description": "Non sei autorizzato all'accesso dei dati del profilo di altri utenti, ma potresti usare questi link utili per tornare al tuo.\n\nPuoi trovare più informazioni sulla tua autenticazione nella sezione _Impostazioni_.",
-          "Name": "Oh, tesorino... che tesoroooo"
-        }
+      "DiffProfile": {
+        "Description": "Non sei autorizzato all'accesso dei dati del profilo di altri utenti, ma potresti usare questi link utili per tornare al tuo.\n\nPuoi trovare più informazioni sulla tua autenticazione nella sezione _Impostazioni_.",
+        "Name": "Oh, tesorino... che tesoroooo"
       }
     },
     "Friends": {
@@ -263,16 +241,6 @@
       "StasisDamage": "Danni da stasi",
       "StrandDamage": "Danni da telascura",
       "VoidDamage": "Danni da vuoto"
-    },
-    "Vendors": {
-      "BrightDustItems": "Oggetti a polvere luminosa",
-      "CrossSaveSilver": "Il tuo saldo di argento viene restituito dall'API solo per la piattaforma su cui stai attualmente giocando.",
-      "EververseCalendar": "Calendario Eververse",
-      "FeaturedBrightDustItems": "Oggetti a polvere luminosa in evidenza",
-      "FeaturedSilverItems": "Oggetti ad argento in evidenza",
-      "ShowAllItems": "Mostra tutto",
-      "ShowSilverOnlyItems": "Mostra solo oggetti ad argento",
-      "SilverOnlyItems": "Oggetti solo ad argento"
     }
   },
   "Clan": {
@@ -380,8 +348,8 @@
     "SentAbr": "Inv."
   },
   "Common": {
-    "Acknowledgements": "Ringraziamenti",
-    "AcknowledgementsInfo": "Alcuni di questi contenuti sono gentilmente offerti da terza parti. Per favore pensa al loro sforzo quando usi i loro lavori.",
+    "CurrentRankNth": "Grado attuale: {{value}}",
+    "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}",
     "Actions": "Azioni",
     "Activate": "Attiva",
     "Active": "🦘 Active",
@@ -510,19 +478,6 @@
     "WeekNth": "Settimana {{number}}",
     "Week_plural": "Settimane"
   },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Ridi in faccia alla morte, raccogli caramelle, indossa maschere e combatti contro l'oscurità incombente.",
-      "Name": "Festa delle Anime Perdute"
-    },
-    "IronBanner": {
-      "Description": "Un evento speciale del Crogiolo della durata una settimana che sfida e mette testa a testa squadre da 6 nella forma più competitiva di Controllo. Vantaggi di potere abilitati."
-    },
-    "TheDawning": {
-      "Description": "Nemmeno il freddo pungente di Europa può congelare i cuori dei guardiani in questo speciale momento dell'anno. L'Aurora è tornata.",
-      "Name": "L'Aurora"
-    }
-  },
   "FAQ": {
     "API": {
       "StatDiscrepancy": {
@@ -585,10 +540,6 @@
         "Name": "Altro"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Grado attuale: {{value}}",
-    "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}"
   },
   "Item": {
     "Ammo": "Munizioni",
