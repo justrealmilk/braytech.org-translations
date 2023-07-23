@@ -18,6 +18,7 @@
     "Done": "Done",
     "Enable": "Enabwe",
     "Expand": "Expand",
+    "ForgetMe": "Fowget Me",
     "GatherInVault": "Gathew In Vauwt",
     "GoToBNet": "Go to Bungie.net",
     "GoToMaps": "Go to Maps",
@@ -56,14 +57,12 @@
   },
   "Activity": {
     "ActiveRotator": "Active Wotatow",
-    "ApproximateLength": "Appwoximate wength",
     "Carnage": {
       "SelectDate": {
         "Info": "Sewect a date bewow and pwepawe to jump",
         "Waiting": "Stwap in—da mowe activities uu pway and da *sweats* fuwthew uu jump, da wongew ૮ ˶ᵔ ᵕ ᵔ˶ ა this'ww take! OwO\n\nBungie's API doesn't enabwe wequesting activity histowy fwom a specific pewiod, so we'we doing a dwive-by."
       }
     },
-    "Cooperative": "Coopewative",
     "Fireteam": {
       "Closed": "Fiweteam Cwosed",
       "Full": "Fiweteam Fuww",
@@ -72,14 +71,9 @@
       "Open": "Fiweteam Open",
       "SinglePlayer": "Singwe Pwayew Activity"
     },
-    "FreeForAll": "Fwee Fow Aww",
     "Graphs": {
       "SelectDate": "Sewect a date with activities pwayed fwom da gwaph above."
     },
-    "LevelAdvantagesDisabled": "Wevew Advantages Disabwed",
-    "LevelAdvantagesEnabled": "Wevew Advantages Enabwed",
-    "Matchmaking": "Matchmaking",
-    "MaxParty": "{{number}} pwayews",
     "Modes": {
       "Bar": {
         "PvPLoss": "Woss",
@@ -105,14 +99,11 @@
     "ModifiersUnavailable": "Modifiews awen't avaiwabwe wight now.",
     "NoMedalsAwarded": "No Medaws Awawded",
     "NoStatsAvailable": "No Stats Avaiwabwe",
-    "PvP": "Pwayew vewsus Pwayew",
-    "RecommendedLight": "Wecommended wight",
     "Score": {
       "Team": "Team Scowe"
     },
     "SelectMode": "Sewect Mode",
     "SelectModeInfo": "To dwiww down to a specific activity, sewect a mode fwom da intewface above",
-    "SinglePlayer": "Singwe Pwayew",
     "Standing": {
       "Defeat": "Defeat",
       "DidNotFinish": "Pwayew did not finish",
@@ -182,28 +173,21 @@
     "Grimoire": {
       "Description": "Da wowe of owd, Destiny 1's Gwimoiwe cawds awe backed up, awchived, and pwesewved hewe. Gwimoiwe is a database within Destiny. Entwies wewe unwocked thwough pwaying da game in da fowm of \"cawds.\"\n\nDa wist of Gwimoiwe entwies is sowted into six main categowies—Guawdian, Inventowy, Awwies, Enemies, Pwaces, and Activities. Each of these categowies haz a numbew of sub-categowies.",
       "Name": "Gwimoiwe"
-    },
-    "Guides": {
-      "VowOfTheDisciple": {
-        "Description": "Awchives.Guides.VowOfTheDiscipwe.Descwiption",
-        "Name": "Awchives.Guides.VowOfTheDiscipwe.Name"
-      }
     }
   },
   "Auth": {
     "Data": {
-      "Action": "Fowget Me",
       "Description": "Dewete da authentication data stowed on uuw device. Whiwe unnecessawy, this function is pwovided fow uuw peace of mind.",
       "Name": "Authentication Data"
     },
     "Error": {
-      "NoAuth": {
-        "Description": "Some featuwes of Bwaytech wequiwe uuw wwitten pewmission to activate, genewawwy to pwotect uuw pwivacy.\n\nTo use this featuwe, pwease teww Bungie that uu appwove. No pewsonaw infowmation is shawed by doing so—onwy an authentication code with which uu may intewact with mowe API endpoints.",
-        "Name": "Authentication Wequiwed"
-      },
       "DiffProfile": {
         "Description": "Uu awe not authowised to access a diffewent *bwushes* usew's pwofiwe data, but uu may use these hewpfuw winks to wetuwn to uuw own.\n\nUu can find mowe infowmation wegawding uuw authentication in da _Settings_ view.",
         "Name": "Oh, honey... Honnnnneyyyy"
+      },
+      "NoAuth": {
+        "Description": "Some featuwes of Bwaytech wequiwe uuw wwitten pewmission to activate, genewawwy to pwotect uuw pwivacy.\n\nTo use this featuwe, pwease teww Bungie that uu appwove. No pewsonaw infowmation is shawed by doing so—onwy an authentication code with which uu may intewact with mowe API endpoints.",
+        "Name": "Authentication Wequiwed"
       }
     },
     "Friends": {
@@ -257,16 +241,6 @@
       "StasisDamage": "Stasis Damage",
       "StrandDamage": "Stwand Damage",
       "VoidDamage": "Void Damage"
-    },
-    "Vendors": {
-      "BrightDustItems": "Bwight Dust Items",
-      "CrossSaveSilver": "Uuw Siwvew bawance is wetuwned by da API onwy fow da pwatfowm which uu awe cuwwentwy pwaying da game on.",
-      "EververseCalendar": "Evewvewse Cawendaw",
-      "FeaturedBrightDustItems": "Featuwed Bwight Dust Items",
-      "FeaturedSilverItems": "Featuwed Siwvew Items",
-      "ShowAllItems": "Show Aww Items",
-      "ShowSilverOnlyItems": "Show Siwvew-onwy Items",
-      "SilverOnlyItems": "Siwvew-onwy Items"
     }
   },
   "Clan": {
@@ -374,8 +348,6 @@
     "SentAbr": "Sent"
   },
   "Common": {
-    "Acknowledgements": "Acknowwedgements",
-    "AcknowledgementsInfo": "Some of this content is genewouswy pwovided by thiwd pawties. Pwease think of them and da effowt invested when consuming theiw wowks.",
     "Actions": "Actions",
     "Activate": "Activate",
     "Active": "Active",
@@ -412,6 +384,7 @@
     "CommendationAbr_plural": "Comms.",
     "Completed": "Compweted",
     "CruciblePlaylist": "Cwucibwe Pwaywist",
+    "CurrentRankNth": "Cuwwent Wank: {{value}}",
     "DateTime": "Date Time",
     "Equipment": "Equipment",
     "Error": "Ewwow",
@@ -475,6 +448,7 @@
     "ScoreValue": "Scowe Vawue",
     "Screenshot": "Scweenshot",
     "Search": "Seawch",
+    "SeasonEndsIn": "Season *sweats* {{number}}: ends in {{duration}}",
     "SeasonNth": "Season {{number}}",
     "SeasonPass": "Season Pass",
     "SeasonRank": "Season Wank",
@@ -503,19 +477,6 @@
     "Weapon": "Weapon",
     "WeekNth": "Week {{number}}",
     "Week_plural": "Weeks"
-  },
-  "Event": {
-    "FestivalOfTheLost": {
-      "Description": "Waugh in da face of death, cowwect candies, weaw masks, and fight back against da encwoaching dawkness.",
-      "Name": "Festivaw of da Wost"
-    },
-    "IronBanner": {
-      "Description": "A speciaw week-wong Cwucibwe event that chawwenges teams of six to go head-to-head in da most competitive fowm of Contwow."
-    },
-    "TheDawning": {
-      "Description": "Even da biting chiww of Euwopa can’t fweeze da wawm heawts of Guawdians duwing this speciaw time of yeaw. Da Dawning haz wetuwned.",
-      "Name": "Da Dawning"
-    }
   },
   "FAQ": {
     "API": {
@@ -579,10 +540,6 @@
         "Name": "Mowe"
       }
     }
-  },
-  "GuardianRank": {
-    "Current": "Cuwwent Wank: {{value}}",
-    "SeasonEndsIn": "Season *sweats* {{number}}: ends in {{duration}}"
   },
   "Item": {
     "Ammo": "Ammo",
