@@ -371,6 +371,7 @@
     "Challenge": "Challenge",
     "Challenge_plural": "Challenges",
     "Character": "Character",
+    "BrowseNthMembers_plural": "Browse {{number}} Members",
     "CharacterClass": "Character Class",
     "CharacterLight": "Character Light",
     "CharacterSpecific": "As is with most Braytech features, this view is character-specific.",
@@ -379,7 +380,7 @@
     "Clan": "Clan",
     "ClanMember": "Clan Member",
     "ClanMember_plural": "Clan Members",
-    "ClanMembersNth": "{{number}} Clan Members",
+    "ClanMembersNth_plural": "{{number}} Clan Members",
     "Classified": "Classified",
     "Collectibles": "Collectibles",
     "Collections": "Collections",
@@ -642,7 +643,9 @@
     "GroupSearch": {
       "Name": "Find Clan",
       "Description": "Look up a clan and see how its members rank."
-    }
+    },
+    "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue.",
+    "UnrankedGroup": "No one in this clan has been ranked yet."
   },
   "Legend": {
     "Activity": {

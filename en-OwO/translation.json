@@ -376,7 +376,7 @@
     "Clan": "Cwan",
     "ClanMember": "Cwan Membew",
     "ClanMember_plural": "Cwan *sweats* Membews",
-    "ClanMembersNth": "{{number}} *boops uuw nose* Cwan Membews",
+    "ClanMembersNth_plural": "{{number}} *boops uuw nose* Cwan Membews",
     "Classified": "Cwassified",
     "Collectibles": "Cowwectibwes",
     "Collections": "Cowwections",
