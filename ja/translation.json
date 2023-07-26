@@ -167,7 +167,8 @@
       "Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
       "Name": "非対応のブラウザー"
     },
-    "Version": "バージョン"
+    "Version": "バージョン",
+    "TemporaryError": "一時的にBungieでエラーが発生しています。"
   },
   "Archives": {
     "Grimoire": {
@@ -629,7 +630,19 @@
     "CollectionsScore": "コレクションスコア",
     "LegacyScore": "レガシースコア",
     "Rank": "ランク",
-    "TriumphScore": "勝利の道のりスコア"
+    "TriumphScore": "勝利の道のりスコア",
+    "ActiveProfile": {
+      "Name": "🦘 You",
+      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+    },
+    "MemberSearch": {
+      "Name": "🦘 Find Guardian",
+      "Description": "🦘 Look up a friend or foe and see how you compare."
+    },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    }
   },
   "Legend": {
     "Activity": {
@@ -807,6 +820,10 @@
       "Name": "プッシュ通知"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "🦘 No Clans Found",
+    "SearchPlaceholder": "🦘 enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "アクティブプロファイル",
     "BungieNetProfile": "Bungie.netに登録されているプロファイル",
@@ -840,8 +857,7 @@
     "SavedProfile": "保存したプロファイル",
     "SearchForPlayer": "プレイヤーを検索する",
     "SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
-    "SelectACharacter": "キャラクターを選択する",
-    "TemporaryError": "一時的にBungieでエラーが発生しています。"
+    "SelectACharacter": "キャラクターを選択する"
   },
   "Progression": {
     "Points": "ポイント",

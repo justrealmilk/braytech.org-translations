@@ -167,7 +167,8 @@
       "Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@className=warning@",
       "Name": "不支持当前浏览器中使用。"
     },
-    "Version": "版本"
+    "Version": "版本",
+    "TemporaryError": "Bungie 发生了一个临时错误。"
   },
   "Archives": {
     "Grimoire": {
@@ -629,7 +630,19 @@
     "CollectionsScore": "🦘 Collections Score",
     "LegacyScore": "🦘 Legacy Score",
     "Rank": "🦘 Rank",
-    "TriumphScore": "🦘 Triumph Score"
+    "TriumphScore": "🦘 Triumph Score",
+    "ActiveProfile": {
+      "Name": "🦘 You",
+      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+    },
+    "MemberSearch": {
+      "Name": "🦘 Find Guardian",
+      "Description": "🦘 Look up a friend or foe and see how you compare."
+    },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    }
   },
   "Legend": {
     "Activity": {
@@ -807,6 +820,10 @@
       "Name": "通知推送"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "🦘 No Clans Found",
+    "SearchPlaceholder": "🦘 enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
     "BungieNetProfile": "Bungie.net资料",
@@ -840,8 +857,7 @@
     "SavedProfile": "已保存档案",
     "SearchForPlayer": "搜索玩家",
     "SearchPlaceholder": "请输入游戏标签或 Steam 64 位 ID",
-    "SelectACharacter": "选择一个角色",
-    "TemporaryError": "Bungie 发生了一个临时错误。"
+    "SelectACharacter": "选择一个角色"
   },
   "Progression": {
     "Points": "点数",

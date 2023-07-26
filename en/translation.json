@@ -167,7 +167,8 @@
       "Description": "Braytech requires modern browser features in order to operate. If you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
       "Name": "Unsupported Browser"
     },
-    "Version": "Version"
+    "Version": "Version",
+    "TemporaryError": "A temporary Bungie error occurred."
   },
   "Archives": {
     "Grimoire": {
@@ -819,6 +820,10 @@
       "Name": "Push Notifications"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "No Clans Found",
+    "SearchPlaceholder": "enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "Active Profile",
     "BungieNetProfile": "Bungie.net Profile",
@@ -852,8 +857,7 @@
     "SavedProfile": "Saved Profile",
     "SearchForPlayer": "Profile Search",
     "SearchPlaceholder": "enter BungieName#0343",
-    "SelectACharacter": "Select A Character",
-    "TemporaryError": "A temporary Bungie error occurred."
+    "SelectACharacter": "Select A Character"
   },
   "Progression": {
     "Points": "Points",

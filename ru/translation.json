@@ -167,7 +167,8 @@
       "Description": "Для работы Braytech требуются современные возможности браузера. Минимальные требования к браузеру установлены таким образом, чтобы браузеры, которым уже более года, могли запускать Braytech. Поэтому, если вы видете это сообщение, пора переходить на что-то новое.\n\nРекомендуется использовать браузер на базе Chromium, например, Microsoft Edge.@className=warning@",
       "Name": "Неподдерживаемый браузер"
     },
-    "Version": "Версия"
+    "Version": "Версия",
+    "TemporaryError": "Произошла временная ошибка на стороне Bungie."
   },
   "Archives": {
     "Grimoire": {
@@ -629,7 +630,19 @@
     "CollectionsScore": "🦘 Collections Score",
     "LegacyScore": "🦘 Legacy Score",
     "Rank": "🦘 Rank",
-    "TriumphScore": "🦘 Triumph Score"
+    "TriumphScore": "🦘 Triumph Score",
+    "ActiveProfile": {
+      "Name": "🦘 You",
+      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+    },
+    "MemberSearch": {
+      "Name": "🦘 Find Guardian",
+      "Description": "🦘 Look up a friend or foe and see how you compare."
+    },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    }
   },
   "Legend": {
     "Activity": {
@@ -807,6 +820,10 @@
       "Name": "Push-уведомления"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "🦘 No Clans Found",
+    "SearchPlaceholder": "🦘 enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "Активный профиль",
     "BungieNetProfile": "Профиль Bungie.net",
@@ -840,8 +857,7 @@
     "SavedProfile": "Сохраненный профиль",
     "SearchForPlayer": "Найти игрока",
     "SearchPlaceholder": "Введите ник или SteamId64",
-    "SelectACharacter": "Выберите персонажа",
-    "TemporaryError": "Произошла временная ошибка на стороне Bungie."
+    "SelectACharacter": "Выберите персонажа"
   },
   "Progression": {
     "Points": "Очки",

@@ -167,7 +167,8 @@
       "Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
       "Name": "지원하지 않는 브라우저"
     },
-    "Version": "버전"
+    "Version": "버전",
+    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다."
   },
   "Archives": {
     "Grimoire": {
@@ -629,7 +630,19 @@
     "CollectionsScore": "🦘 Collections Score",
     "LegacyScore": "🦘 Legacy Score",
     "Rank": "🦘 Rank",
-    "TriumphScore": "🦘 Triumph Score"
+    "TriumphScore": "🦘 Triumph Score",
+    "ActiveProfile": {
+      "Name": "🦘 You",
+      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+    },
+    "MemberSearch": {
+      "Name": "🦘 Find Guardian",
+      "Description": "🦘 Look up a friend or foe and see how you compare."
+    },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    }
   },
   "Legend": {
     "Activity": {
@@ -807,6 +820,10 @@
       "Name": "🦘 Push Notifications"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "🦘 No Clans Found",
+    "SearchPlaceholder": "🦘 enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "활성화된 프로필",
     "BungieNetProfile": "Bungie.net 프로필",
@@ -840,8 +857,7 @@
     "SavedProfile": "저장된 프로필",
     "SearchForPlayer": "플레이어 검색",
     "SearchPlaceholder": "게임태그 또는 SteamId64 입력",
-    "SelectACharacter": "캐릭터 선택",
-    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다."
+    "SelectACharacter": "캐릭터 선택"
   },
   "Progression": {
     "Points": "🦘 Points",

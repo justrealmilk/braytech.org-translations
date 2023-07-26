@@ -167,7 +167,8 @@
       "Description": "Braytech nécessite des fonctionnalités de navigateur modernes pour fonctionner. Les exigences minimales du navigateur sont définies pour permettre aux navigateurs de plus d'un an d'exécuter Braytech. En tant que tel, si vous rencontrez ce message, il est temps de passer à quelque chose de nouveau.\n\nUn navigateur basé sur Chromium tel que Microsoft Edge est recommandé.@className=warning@",
       "Name": "Navigateur non supporté"
     },
-    "Version": "Version"
+    "Version": "Version",
+    "TemporaryError": "Une erreur Bungie temporaire s'est produite."
   },
   "Archives": {
     "Grimoire": {
@@ -629,7 +630,19 @@
     "CollectionsScore": "🦘 Collections Score",
     "LegacyScore": "🦘 Legacy Score",
     "Rank": "🦘 Rank",
-    "TriumphScore": "🦘 Triumph Score"
+    "TriumphScore": "🦘 Triumph Score",
+    "ActiveProfile": {
+      "Name": "🦘 You",
+      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+    },
+    "MemberSearch": {
+      "Name": "🦘 Find Guardian",
+      "Description": "🦘 Look up a friend or foe and see how you compare."
+    },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    }
   },
   "Legend": {
     "Activity": {
@@ -807,6 +820,10 @@
       "Name": "Notifications 'Push'"
     }
   },
+  "GroupSearch": {
+    "NoGroupsFound": "🦘 No Clans Found",
+    "SearchPlaceholder": "🦘 enter precise clan name"
+  },
   "ProfileSearch": {
     "ActiveProfile": "Profil actif",
     "BungieNetProfile": "Profil Bungie.net",
@@ -840,8 +857,7 @@
     "SavedProfile": "Profil sauvegardé",
     "SearchForPlayer": "Recherche de joueur",
     "SearchPlaceholder": "Entrez un nom Bungie",
-    "SelectACharacter": "Sélectionner un personnage",
-    "TemporaryError": "Une erreur Bungie temporaire s'est produite."
+    "SelectACharacter": "Sélectionner un personnage"
   },
   "Progression": {
     "Points": "Points",
