@@ -371,6 +371,7 @@
     "Challenge": "Sfida",
     "Challenge_plural": "Sfide",
     "Character": "Personaggio",
+    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "Classe del personaggio",
     "CharacterLight": "Luce del personaggio",
     "CharacterSpecific": "Come la maggior parte delle funzionalità di Braytech, questa sezione è pensata su base del singolo personaggio.",
@@ -635,14 +636,16 @@
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."
     },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    },
     "MemberSearch": {
       "Name": "🦘 Find Guardian",
       "Description": "🦘 Look up a friend or foe and see how you compare."
     },
-    "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
-    }
+    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
+    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue."
   },
   "Legend": {
     "Activity": {

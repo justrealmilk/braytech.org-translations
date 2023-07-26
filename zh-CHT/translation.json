@@ -371,6 +371,7 @@
     "Challenge": "挑戰",
     "Challenge_plural": "挑戰",
     "Character": "🦘 Character",
+    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "角色類",
     "CharacterLight": "角色光等",
     "CharacterSpecific": "與大多數 Braytech 功能一樣，此視圖是特定於角色的。",
@@ -635,14 +636,16 @@
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."
     },
+    "GroupSearch": {
+      "Name": "🦘 Find Clan",
+      "Description": "🦘 Look up a clan and see how its members rank."
+    },
     "MemberSearch": {
       "Name": "🦘 Find Guardian",
       "Description": "🦘 Look up a friend or foe and see how you compare."
     },
-    "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
-    }
+    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
+    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue."
   },
   "Legend": {
     "Activity": {
