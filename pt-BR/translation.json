@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "Esquecer-me",
     "Accept": "Aceitar",
     "AddBookmark": "Adicionar aos Favoritos",
     "AddEvent": "Adicionar evento",
     "AllClasses": "Todas as Classes",
+    "Authenticate": "Autenticar",
     "Back": "Voltar",
     "BecomeAPatron": "Torne-se um Patron",
     "Browse": "🦘 Browse",
@@ -19,6 +19,7 @@
     "Done": "Feito",
     "Enable": "Habilitar",
     "Expand": "🦘 Expand",
+    "ForgetMe": "Esquecer-me",
     "GatherInVault": "Transferir Para o Cofre",
     "GoToBNet": "Ir para Bungie.net",
     "GoToMaps": "Ir aos Mapas",
@@ -364,7 +365,6 @@
     "All": "Tudo",
     "Armour": "Armadura",
     "AscendantChallenge": "Desafio Ascendente",
-    "Authenticate": "Autenticar",
     "Available": "🦘 Available",
     "AvailableActivities": "Atividades Disponíveis",
     "Cancel": "Cancelar",

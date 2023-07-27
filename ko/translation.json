@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "내 정보 지우기",
     "Accept": "확인",
     "AddBookmark": "북마크 추가",
     "AddEvent": "이벤트 추가",
     "AllClasses": "모든 직업",
+    "Authenticate": "인증하기",
     "Back": "뒤로",
     "BecomeAPatron": "Patron이 되세요",
     "Browse": "🦘 Browse",
@@ -19,6 +19,7 @@
     "Done": "완료",
     "Enable": "활성화",
     "Expand": "🦘 Expand",
+    "ForgetMe": "내 정보 지우기",
     "GatherInVault": "금고에 모으기",
     "GoToBNet": "Bungie.net으로 이동",
     "GoToMaps": "지도로 이동",
@@ -364,7 +365,6 @@
     "All": "모두",
     "Armour": "방어구",
     "AscendantChallenge": "승천 도전",
-    "Authenticate": "인증하기",
     "Available": "🦘 Available",
     "AvailableActivities": "사용 가능한 활동",
     "Cancel": "취소",

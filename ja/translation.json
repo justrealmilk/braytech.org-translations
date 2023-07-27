@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "データを抹消する",
     "Accept": "承認する",
     "AddBookmark": "ブックマークに追加",
     "AddEvent": "イベントを追加",
     "AllClasses": "すべてのクラス",
+    "Authenticate": "認証",
     "Back": "戻る",
     "BecomeAPatron": "支援者になる",
     "Browse": "詳しく見る",
@@ -19,6 +19,7 @@
     "Done": "完了",
     "Enable": "有効にする",
     "Expand": "展開する",
+    "ForgetMe": "データを抹消する",
     "GatherInVault": "すべて保管庫に送る",
     "GoToBNet": "Bungie.netへ進む",
     "GoToMaps": "マップへ進む",
@@ -364,7 +365,6 @@
     "All": "すべて",
     "Armour": "防具",
     "AscendantChallenge": "アセンダントの挑戦",
-    "Authenticate": "認証",
     "Available": "入手可能",
     "AvailableActivities": "利用可能なアクティビティ",
     "Cancel": "キャンセル",

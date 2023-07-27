@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "清除授权",
     "Accept": "接受",
     "AddBookmark": "添加书签",
     "AddEvent": "添加活动",
     "AllClasses": "全部职业",
+    "Authenticate": "认证",
     "Back": "返回",
     "BecomeAPatron": "成为众筹用户",
     "Browse": "🦘 Browse",
@@ -19,6 +19,7 @@
     "Done": "完成",
     "Enable": "启用",
     "Expand": "扩展",
+    "ForgetMe": "清除授权",
     "GatherInVault": "移入保险库",
     "GoToBNet": "前往 Bungie.net",
     "GoToMaps": "前往地图",
@@ -364,7 +365,6 @@
     "All": "全部",
     "Armour": "防具",
     "AscendantChallenge": "上维挑战",
-    "Authenticate": "认证",
     "Available": "可用",
     "AvailableActivities": "可用活动",
     "Cancel": "取消",

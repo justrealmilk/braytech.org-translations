@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "🦘 Forget Me",
     "Accept": "🦘 확인",
     "AddBookmark": "🦘 Add Bookmark",
     "AddEvent": "🦘 이벤트 추가",
     "AllClasses": "🦘 모든 직업",
+    "Authenticate": "🦘 Authenticate",
     "Back": "🦘 Back",
     "BecomeAPatron": "🦘 Become a Patron",
     "Browse": "🦘 Browse",
@@ -19,6 +19,7 @@
     "Done": "🦘 완료",
     "Enable": "🦘 Enable",
     "Expand": "🦘 Expand",
+    "ForgetMe": "🦘 Forget Me",
     "GatherInVault": "🦘 Gather In Vault",
     "GoToBNet": "🦘 Go to Bungie.net",
     "GoToMaps": "🦘 지도로 이동",
@@ -364,7 +365,6 @@
     "All": "🦘 All",
     "Armour": "🦘 방어구",
     "AscendantChallenge": "🦘 Ascendant Challenge",
-    "Authenticate": "🦘 Authenticate",
     "Available": "🦘 Available",
     "AvailableActivities": "🦘 Available Activities",
     "Cancel": "🦘 Cancel",

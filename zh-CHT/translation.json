@@ -1,10 +1,10 @@
 {
   "Action": {
-    "ForgetMe": "清除授權",
     "Accept": "接受",
     "AddBookmark": "添加書簽",
     "AddEvent": "添加活動",
     "AllClasses": "所有類",
+    "Authenticate": "認證",
     "Back": "返回",
     "BecomeAPatron": "成為眾籌用戶",
     "Browse": "🦘 Browse",
@@ -19,6 +19,7 @@
     "Done": "完成",
     "Enable": "啓用",
     "Expand": "擴展",
+    "ForgetMe": "清除授權",
     "GatherInVault": "移入保險庫",
     "GoToBNet": "轉到Bungie.net",
     "GoToMaps": "轉到地圖",
@@ -364,7 +365,6 @@
     "All": "全部",
     "Armour": "防具",
     "AscendantChallenge": "上維挑戰",
-    "Authenticate": "認證",
     "Available": "可用",
     "AvailableActivities": "可用活動",
     "Cancel": "取消",
