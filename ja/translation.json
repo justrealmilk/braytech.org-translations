@@ -645,7 +645,8 @@
       "Description": "🦘 Look up a friend or foe and see how you compare."
     },
     "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue."
+    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
+    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes."
   },
   "Legend": {
     "Activity": {
@@ -1371,7 +1372,8 @@
       "Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
       "RewardResearcher": "Patreonのリサーチャーランクの方にはクロビス・ブレイのメダルアンロックされます",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
-      "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます"
+      "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
+      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
     },
     "Profile": {
       "Action": "キャラクターを選ぶ",

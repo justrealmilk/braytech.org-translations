@@ -645,7 +645,8 @@
       "Description": "Look up a friend or foe and see how you compare."
     },
     "UnrankedGroup": "No one in this clan has been ranked yet.",
-    "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue."
+    "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue.",
+    "Unranked": "This leaderboard is being ranked with new data. It'll be ready in a few minutes."
   },
   "Legend": {
     "Activity": {
@@ -1367,11 +1368,12 @@
       "Description": "Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data."
     },
     "Patreon": {
-      "Description": "We all hate ads. They're ugly. They're annoying. They collect your data and sell it to third parties.\n\nIn place of cringe, targeted advertising, I offer you this proposition: support Braytech and influence its development. Your support helps keep the app online, enables me to develop new features, and pays my rent!",
-      "Name": "Love Braytech?",
+      "Description": "Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of targeted advertising, Braytech's developer depends on your generosity. Your support helps keep the app online, enables the developer to work on new features, and pays the rent!",
+      "Name": "Help keep the lights on 🥺",
       "RewardResearcher": "Unlock the Researcher medal, a symbol of dedication and commitment to bettering humankind.",
       "RewardSubmind": "Unlock the animated Warmind gold tier medal. Every Warmind medal guarenteed to contain at least 7.00% Warmind fragment dust™",
-      "Rewards": "Unlock unique profile medals when you subscribe to Braytech's Patreon!"
+      "Rewards": "Unlock unique profile medals when you subscribe to Braytech's Patreon!",
+      "Leaderboards": "Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
     },
     "Profile": {
       "Action": "Select Your Character",

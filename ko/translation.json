@@ -645,7 +645,8 @@
       "Description": "🦘 Look up a friend or foe and see how you compare."
     },
     "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue."
+    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
+    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes."
   },
   "Legend": {
     "Activity": {
@@ -1371,7 +1372,8 @@
       "Name": "광고 없는 Braytech 지키기",
       "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
       "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon."
+      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
+      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
     },
     "Profile": {
       "Action": "당신의 캐릭터를 선택하세요",
