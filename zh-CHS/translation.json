@@ -7,7 +7,7 @@
     "Authenticate": "认证",
     "Back": "返回",
     "BecomeAPatron": "成为众筹用户",
-    "Browse": "🦘 Browse",
+    "Browse": "浏览",
     "Cancel": "取消",
     "Close": "关闭",
     "Collapse": "崩溃",
@@ -54,7 +54,7 @@
     "Unlock": "解锁",
     "UserReady": "我们出发！",
     "ViewHistoricalData": "查看历史数据",
-    "ViewMore": "🦘 View More"
+    "ViewMore": "查看更多"
   },
   "Activity": {
     "ActiveRotator": "本周轮换",
@@ -282,18 +282,18 @@
       "NoParters": "约会很容易？没听说过。回去继续战斗吧，守护者！",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "只加载当前赛季的活动",
+          "Name": "当前赛季"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "将搜索范围限制为仅包含公会成员。",
+          "Name": "公会成员"
         }
       },
       "RomanticPartnerships": "情同手足",
       "SocialButterfly": "你真是个交际花！你在本赛季已经跟所有公会成员都一起玩过了。",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "前 {{number}}个玩得最多的火力战队成员",
+      "TopFriends": "前 {{number}} 个玩得最多的朋友",
       "UndiscoveredFriends": "未能发现的朋友"
     },
     "RewardEngrams": "公会奖励记忆水晶",
@@ -356,7 +356,7 @@
     "Activate": "激活",
     "Active": "激活",
     "ActiveModifiers": "激活的修改器",
-    "ActiveScore": "🦘 Active Score",
+    "ActiveScore": "凯旋记录",
     "Activity": "活动",
     "ActivityBonus": "轮换活动加成",
     "ActivityMembers": "活动成员",
@@ -371,20 +371,20 @@
     "Challenge": "挑战",
     "Challenge_plural": "挑战",
     "Character": "角色",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "CharacterClass": "角色职业",
     "CharacterLight": "角色光等",
     "CharacterSpecific": "如同大多数Braytech的功能一样，这个视图是针对特定角色的",
     "Character_plural": "角色",
     "Checklists": "清单",
     "Clan": "公会",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "公会成员",
+    "ClanMember_plural": "公会成员",
     "ClanMembersNth_plural": "公会成员",
     "Classified": "机密",
     "Collectibles": "可收集",
     "Collections": "收藏品",
-    "CollectionsScore": "🦘 Collections Score",
+    "CollectionsScore": "收藏品分数",
     "CommendationAbr_plural": "嘉奖",
     "Completed": "已完成",
     "CruciblePlaylist": "熔炉游戏列表",
@@ -406,19 +406,19 @@
     "FireteamMembers": "火力战队成员",
     "FireteamReserves": "预留",
     "FireteamSize": "火力战队规模",
-    "Friend": "🦘 Friend",
+    "Friend": "好友",
     "Friend_plural": "好友",
     "GloryPoints": "荣耀点数",
     "GuardianRank": "守护者等级",
     "Guardians": "守护者",
-    "Help": "🦘 Help",
+    "Help": "帮助",
     "HistoricalStats": "历史统计数据",
     "InfamyPoints": "恶行点数",
     "Inspect": "查看",
     "Inventory": "库存",
     "ItemRolls": "物品特性",
     "Items": "物品",
-    "LegacyScore": "🦘 Legacy Score",
+    "LegacyScore": "传承分数",
     "LevelNth": "Lv.{{number}}",
     "Location": "位置",
     "Lore": "传说故事",
@@ -441,7 +441,7 @@
     "Rank_plural": "商人声望",
     "Record": "记录",
     "Record_plural": "记录",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "报告",
     "Reputation": "声誉等级",
     "Reset": "重置",
     "Reward": "奖励",
@@ -461,7 +461,7 @@
     "SpecialCommendationAbr_plural": "特殊嘉奖",
     "SpecialCommendation_plural": "特殊嘉奖",
     "Submit": "提交",
-    "Support": "🦘 Support",
+    "Support": "支持",
     "TimePlayed": "游戏时间",
     "TimeRemaining": "剩余时间",
     "Translator_plural": "译者",
@@ -610,10 +610,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 米",
       "MetresAbr_plural": "{{count}} 米",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": "{{count}} 公斤",
+      "WeightAbr_plural": "{{count}} 公斤"
     },
     "Time": {
       "Frequency": {
@@ -627,26 +627,26 @@
     }
   },
   "Leaderboards": {
-    "ActiveScore": "🦘 Active Score",
-    "CollectionsScore": "🦘 Collections Score",
-    "LegacyScore": "🦘 Legacy Score",
-    "Rank": "🦘 Rank",
-    "TriumphScore": "🦘 Triumph Score",
+    "ActiveScore": "凯旋记录",
+    "CollectionsScore": "收藏品分数",
+    "LegacyScore": "传承分数",
+    "Rank": "排行榜",
+    "TriumphScore": "成就分数",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "你",
+      "Description": "选择一个资料来查看你的排行榜。"
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "搜索公会",
+      "Description": "搜索一个公会来查看他们的成员排名"
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "搜索守护者",
+      "Description": "搜索一个守护者来进行比较"
     },
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes."
+    "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
+    "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
+    "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。"
   },
   "Legend": {
     "Activity": {
@@ -659,10 +659,10 @@
     },
     "Empty": "空的",
     "Fishing": {
-      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-      "LargestFish": "🦘 Largest Fish",
-      "Name": "🦘 Competitive Fishing",
-      "TypesCaught": "🦘 Types Caught"
+      "Description": "钓鱼日！\n\n拉动钓线, 装饰你的水族馆, 和你的朋友展开激动人心的钓鱼竞争！",
+      "LargestFish": "最大的鱼",
+      "Name": "竞技钓鱼",
+      "TypesCaught": "捕获类型"
     },
     "Ranks": {
       "Description": "向浩瀚无垠的星空大胆进发\n带领火力战队打败黑暗的爪牙并取得胜利，亦可以在熔炉竞技场中与其他人一决高下，来争夺沙克斯的青睐",
@@ -726,7 +726,7 @@
   },
   "Maps": {
     "Context": {
-      "ChecklistsAndMore": "🦘 Checklists + More",
+      "ChecklistsAndMore": "待办清单和更多",
       "NoChecklistItems": "无任何内容"
     },
     "Inspect": {
@@ -809,8 +809,8 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "自动复制到剪贴板失败，可能是由于浏览器权限限制的原因，请尝试手动复制。",
+      "Success": "一个链接已经自动复制到剪贴板"
     },
     "NthMore": "还有 {{number}} 个",
     "NthRemaining": "剩余 {{number}} 个",
@@ -825,14 +825,14 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "没有找到这个公会",
+    "SearchPlaceholder": "你确定没有拼错吗？"
   },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
     "BungieNetProfile": "Bungie.net资料",
     "ChangeProfile": "更换档案",
-    "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
+    "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
       "Banned": {
         "Botting": "侦测到玩家部署了避免被闲置检测的措施(机器人程序)",
@@ -982,7 +982,7 @@
     },
     "Interface": {
       "AlternateAppIcon": {
-        "Info": "🦘 Alter the appearance of the app's icon."
+        "Info": "更换APP图标"
       },
       "Bindings": {
         "Info": "替换按钮外观，仅影响视觉效果。"
@@ -1133,7 +1133,7 @@
       "Developer": "开发者选项",
       "IDB": "数据库存储",
       "Interface": {
-        "AlternateAppIcon": "🦘 App Icon",
+        "AlternateAppIcon": "应用图标",
         "Bindings": "按钮外观",
         "FlipSubviewNav": "翻转子视图导航",
         "ItemSize": "库存物品图标大小"
@@ -1192,7 +1192,7 @@
         "Name": "亮"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "跟随系统偏好",
         "Description": "Braytech 将会在支持的设备上使用你的系统设置。"
       }
     },
@@ -1373,7 +1373,7 @@
       "RewardResearcher": "在 Patreon 达到 Researcher 赞助等级来解锁该勋章。",
       "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
       "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
+      "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对[在Parteon上赞助我们来获取一些稀有徽章]这件事感兴趣？(https://www.patreon.com/braytech)"
     },
     "Profile": {
       "Action": "选择你的角色",
