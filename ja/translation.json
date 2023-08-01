@@ -200,6 +200,7 @@
       "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
       "Name": "連携したアカウント"
     },
+    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
       "Name": "Patreon認証",
@@ -646,7 +647,11 @@
     },
     "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
     "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes."
+    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
+    "Comparison": {
+      "Name": "🦘 Comparison",
+      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+    }
   },
   "Legend": {
     "Activity": {

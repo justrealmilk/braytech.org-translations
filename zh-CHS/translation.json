@@ -200,6 +200,7 @@
       "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
       "Name": "已关联的平台账号"
     },
+    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
       "Name": "关联 Patreon 账号",
@@ -646,7 +647,11 @@
     },
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
-    "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。"
+    "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
+    "Comparison": {
+      "Name": "🦘 Comparison",
+      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+    }
   },
   "Legend": {
     "Activity": {
