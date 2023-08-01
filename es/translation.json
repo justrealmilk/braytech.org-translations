@@ -629,10 +629,11 @@
   },
   "Leaderboards": {
     "ActiveScore": "Puntuación activa",
-    "CollectionsScore": "Puntuación de colecciones",
     "LegacyScore": "Puntuación antigua",
-    "Rank": "Nivel",
     "TriumphScore": "Puntuación de triunfos",
+    "CollectionsScore": "Puntuación de colecciones",
+    "Global": "🦘 Global",
+    "Rank": "Nivel",
     "ActiveProfile": {
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."

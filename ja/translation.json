@@ -629,10 +629,11 @@
   },
   "Leaderboards": {
     "ActiveScore": "アクティブな勝利の道のりスコア",
-    "CollectionsScore": "コレクションスコア",
     "LegacyScore": "レガシースコア",
-    "Rank": "ランク",
     "TriumphScore": "勝利の道のりスコア",
+    "CollectionsScore": "コレクションスコア",
+    "Global": "🦘 Global",
+    "Rank": "ランク",
     "ActiveProfile": {
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."

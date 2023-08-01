@@ -629,10 +629,11 @@
   },
   "Leaderboards": {
     "ActiveScore": "凯旋记录",
-    "CollectionsScore": "收藏品分数",
     "LegacyScore": "传承分数",
-    "Rank": "排行榜",
     "TriumphScore": "成就分数",
+    "CollectionsScore": "收藏品分数",
+    "Global": "🦘 Global",
+    "Rank": "排行榜",
     "ActiveProfile": {
       "Name": "你",
       "Description": "选择一个资料来查看你的排行榜。"
