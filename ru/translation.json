@@ -7,7 +7,7 @@
     "Authenticate": "Авторизоваться",
     "Back": "Назад",
     "BecomeAPatron": "Поддержать на Patreon",
-    "Browse": "🦘 Browse",
+    "Browse": "Обзор",
     "Cancel": "Отмена",
     "Close": "Закрыть",
     "Collapse": "Свернуть",
@@ -50,14 +50,14 @@
     "ShowAll": "Показать всё",
     "ShowCollectionsRolls": "Показать возможные роллы",
     "ShowHiddenStats": "Основная характеристика",
-    "TryAgain": "🦘 Try Again",
+    "TryAgain": "Попробовать снова",
     "Unlock": "Разблокировать",
     "UserReady": "Поехали!",
     "ViewHistoricalData": "Показать данные за прошлые периоды",
-    "ViewMore": "🦘 View More"
+    "ViewMore": "Показать больше"
   },
   "Activity": {
-    "ActiveRotator": "🦘 Active Rotator",
+    "ActiveRotator": "Активная ротация",
     "Carnage": {
       "SelectDate": {
         "Info": "Выберите дату и приготовьтесь к прыжку",
@@ -95,15 +95,15 @@
         "PvPLoss": "Поражение",
         "PvPWin": "Победа"
       },
-      "TrialsPassage": "Пропуск испытаний"
+      "TrialsPassage": "Пропуск Испытаний"
     },
     "ModifiersUnavailable": "Модификаторы недоступны в данный момент.",
     "NoMedalsAwarded": "Нет полученных медалей",
-    "NoStatsAvailable": "Нет доступных данных",
+    "NoStatsAvailable": "Нет доступной статистики",
     "Score": {
       "Team": "Результат команды"
     },
-    "SelectMode": "🦘 Select Mode",
+    "SelectMode": "Выбрать режим",
     "SelectModeInfo": "Чтобы детализировать информацию по определенной активности, выберите режим в выпадающем списке выше",
     "Standing": {
       "Defeat": "Поражение",
@@ -114,17 +114,17 @@
     },
     "State": {
       "ActivityHistoryError": "Что-то пошло не так при загрузке истории активностей. Пожалуйста, попробуйте снова.",
-      "DownloadingReports": "Загружаем активности",
-      "DownloadingReportsProgressValue": "Собираем данные с Bungie.net. Это может занять время в зависимости от скорости вашего интернета и количества активностей.",
+      "DownloadingReports": "Собираем данные боевой группы из Bungie.net",
+      "DownloadingReportsProgressValue": "Загружаем активности",
       "GenericError": "Что-то пошло не так. Попробуйте снова.",
       "HydratingReportsCache": "Данные активностей загружаются в память из локального хранилища.",
       "LoadGroupMembers": "Анализируем клан и историю активностей",
-      "LoadingPeriod": "Сканируем… {{date}}",
+      "LoadingPeriod": "Сканируем... {{date}}",
       "NoBookmarks": "Вы не добавили никаких закладок!\n\nВы можете синхронизировать ваши закладки включив синхронизацию в _Настройках_.",
-      "NoHistoryAvailable": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
+      "NoHistoryAvailable": "Найдите боевую группу и стремитесь к триумфу над врагами Странника.",
       "PeriodNotFound": "Запрошенный период не найден в истории активностей выбранного персонажа.",
       "RequestHistory": "Идёт анализ истории активностей",
-      "RequestHistoryPage": "🦘 Retrieving activity history volume {{page}}"
+      "RequestHistoryPage": "Идёт анализ истории активностей... Получение страницы {{page}}"
     },
     "Team": {
       "Allies": "Их команда",
@@ -135,11 +135,11 @@
   },
   "Addendums": {
     "Credits": {
-      "Info": "Braytech был и остаётся многоцелевым объектом для его разработчика, чтобы практиковаться и учиться, как лучше программировать и работать с другими. Это началось как классное хобби, помогающее скоротать время, и превратилось в какого-то монстра.\n\nЭто чудовище было разработано парнем из Австралии, но не без моральной поддержки и руководства других людей, которых он хотел бы описать здесь.\n\nСообщество сторонних разработчиков, которое растёт на заднем дворе Destiny, является добрым, помогающим друг другу, и это прекрасная вещь. Так что поприветствуйте команду [Destiny Item Manager](https://destinyitemmanager.com/ru), [Richard Deveraux](https://lowlidev.com.au/) и всех остальных, кто не давал Тому сойти с ума, пока он пытался делать глупые вещи, которые он делает."
+      "Info": "Braytech был и остаётся универсальным устройством для его разработчика, чтобы практиковаться и учиться, как лучше программировать и работать с другими. Это началось как классное хобби, помогающее скоротать время, и превратилось в какого-то монстра.\n\nСообщество сторонних разработчиков Destiny является уникальным феноменом, и оно очень уникально. Это позволяет великим людям совершать великие дела, опираясь на общественные ценности. Мы строим для всех."
     },
     "Privacy": {
       "Info": "The long and skinny of it is that Braytech doesn't use cookies or any other mechanism to track you, nor does it target you for advertising purposes (I mean, Braytech doesn't have any ads).\n\nIf you have any questions further to the point of this notice, feel free to jump into the [Discord](https://discord.bray.tech).",
-      "Policy": "1.  Introduction\n    1. For all purposes, this English language version of this Privacy Policy shall be the original, governing instrument, and understanding of the parties. In the event of any conflict between this English language version of this Privacy Policy and any subsequent translation into any other language, this English language version shall govern and control.\n    2. Braytech is a free fan made service for Destiny 2, the video game. This privacy policy explains how your data is used by this application.\n    3. Braytech is constantly improving, and the developer may modify this Privacy Policy from time to time to reflect changes in their privacy practices. You are encouraged to review this Privacy Policy periodically and to check the date at the end of the Privacy Policy for the most recent version.\n    4. Herein, the \"developer\" refers to Tom Chapman.\n2. Information the developer collects\n    1. Information provided by You\n        1. Your platform specific profile name is used to load and display your Destiny profile. At no point are your private credentials collected or used.\n        2. Patrons of Braytech may also optionally provide their email address as a means to associate their Destiny profile with their Patreon account in order to receive the appropriate flair for their Patreon pledge.\n    2. Information the developer automatically collects\n        1. Data regarding your usage of the services provided may include your IP address, geographical location, browser name and version, operating system, referral source, length of visit, page views, and website navigation paths, as well as information about the timing, frequency, and pattern of your service use.\n3. How your personal data is used\n    1. Destiny and Bungie account info\n        1. In order to display and manipulate Destiny game information, Braytech uses the Bungie.net API. The only information Braytech receives, or has access to, is your game information (items, characters, etc.) and basic account information including your Bungie.net membership ID, and the identifiers of any linked services such as your public PSN, Xbox Live, Steam, Stadia, Blizzard, or Bungie.net usernames. The developer does not have access to your email, name, address, payment information, or any other personal information held by Bungie or the game platforms.\n        2. Use of the Bungie.net API is governed by the [Terms of Use](https://www.bungie.net/7/en/Legal/Terms) and [Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy) for Bungie.net.\n    2. Patreon\n        1. The data provided by you, the user, for the purpose of associating your Destiny profile with your Patreon account is only ever used for that fact, stored securely through Voluspa.\n    3. Usage data\n        1. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.\n    4. Braytech settings sync\n        1. Voluspa enables a Braytech feature which allows you, the user, to store your data (Braytech settings) and sync it between instances of Braytech. This information is only accessible to you and the developer.\n\nLast updated Wednesday, May 19, 2021."
+      "Policy": "1.  Introduction\n    1. For all purposes, this English language version of this Privacy Policy shall be the original, governing instrument, and understanding of the parties. In the event of any conflict between this English language version of this Privacy Policy and any subsequent translation into any other language, this English language version shall govern and control.\n    2. Braytech is a free fan made service for Destiny 2, the video game. This privacy policy explains how your data is used by this application.\n    3. Braytech is constantly improving, and the developer may modify this Privacy Policy from time to time to reflect changes in their privacy practices. You are encouraged to review this Privacy Policy periodically and to check the date at the end of the Privacy Policy for the most recent version.\n    4. Herein, the \"developer\" refers to Tom Chapman.\n2. Information the developer collects\n    1. Information provided by You\n        1. Your platform specific profile name is used to load and display your Destiny profile. At no point are your private credentials collected or used.\n        2. Patrons of Braytech may also optionally provide their email address as a means to associate their Destiny profile with their Patreon account in order to receive the appropriate flair for their Patreon pledge.\n    2. Information the developer automatically collects\n        1. Data regarding your usage of the services provided including your IP address, geographical location, browser name and version, operating system, referral source, length of visit, page views, and navigation paths, as well as information about the timing, frequency, and pattern of your service use.\n3. How your personal data is used\n    1. Destiny and Bungie account info\n        1. In order to display and manipulate Destiny game information, Braytech uses the Bungie.net API. The only information Braytech receives, or has access to, is your game information (items, characters, etc.) and basic account information including your Bungie.net membership ID, and the identifiers of any linked services such as your public PSN, Xbox Live, Steam, Stadia, Blizzard, or Bungie.net usernames. The developer does not have access to your email, name, address, payment information, or any other personal information held by Bungie or the game platforms.\n        2. Use of the Bungie.net API is governed by the [Terms of Use](https://www.bungie.net/7/en/Legal/Terms) and [Privacy Policy](https://www.bungie.net/7/en/Legal/PrivacyPolicy) for Bungie.net.\n    2. Patreon\n        1. The data provided by you, the user, for the purpose of associating your Destiny profile with your Patreon account is only ever used for that fact, stored securely through Voluspa.\n    3. Usage data\n        1. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.\n    4. Braytech settings sync\n        1. Voluspa enables a Braytech feature which allows you, the user, to store your data (Braytech settings) and sync it between instances of Braytech. This information is only accessible to you and the developer.\n\nLast updated Wednesday, May 19, 2021."
     }
   },
   "App": {
@@ -149,7 +149,7 @@
       "Version": "Пожалуйста, цитируйте последующие строки, когда сообщаете об ошибке."
     },
     "FriendlyError": {
-      "Description": "Пожалуйста, не говорите Коммандеру Завале… пока что.",
+      "Description": "Пожалуйста, не говорите Коммандеру Завале... пока что.",
       "Name": "Извините за неудобства"
     },
     "NetworkError": {
@@ -165,7 +165,7 @@
     },
     "UnknownError": "Неизвестная ошибка",
     "UnsupportedBrowser": {
-      "Description": "Для работы Braytech требуются современные возможности браузера. Минимальные требования к браузеру установлены таким образом, чтобы браузеры, которым уже более года, могли запускать Braytech. Поэтому, если вы видете это сообщение, пора переходить на что-то новое.\n\nРекомендуется использовать браузер на базе Chromium, например, Microsoft Edge.@className=warning@",
+      "Description": "Для работы Braytech требуются современные возможности браузера. Поэтому, если вы видете это сообщение, пора переходить на что-то новое.\n\nРекомендуется использовать браузер на базе Chromium, например, Microsoft Edge.@className=warning@",
       "Name": "Неподдерживаемый браузер"
     },
     "Version": "Версия",
@@ -173,7 +173,7 @@
   },
   "Archives": {
     "Grimoire": {
-      "Description": "Старые истории, карточки Грумуара Destiny 1 были сохранены, заархивированы и представлены тут.",
+      "Description": "Лор старых карточек Гримуара Destiny 1 был скопирован, архивирован и сохранён здесь. Грумуар - это база данных внутри Destiny. Записи в нём были разблокированы по ходу игры в форме \"карточек.\"\n\nСписок записей Гримуара отсортирован в шесть основных категорий - Страж, Инвентарь, Союзники, Противники, Места и Активности. Каждая из этих категорий имеет некоторое количество своих подкатегорий.",
       "Name": "Гримуар"
     }
   },
@@ -189,24 +189,24 @@
       },
       "DiffProfile": {
         "Description": "Вы не можете получить доступ к профилю другого пользователя, но по этим ссылкам вы можете вернуться к своему.\n\nБольше информации об авторизации можно получить на странице _Настроек_.",
-        "Name": "Ой, дорогуша…"
+        "Name": "Ой, дорогуша..."
       }
     },
     "Friends": {
-      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
+      "Text": "Авторизуйтесь на сайте Bungie.net, чтобы увидеть здесь список ваших друзей Bungie! Это удобный быстрый доступ к тому, чтобы видеть кто сейчас в сети и смотреть профили друг друга!"
     },
     "Login": "Зайти через Bungie.net",
     "Memberships": {
       "Description": "Эти профили в данный момент связаны с вашим Bungie.net аккаунтом.",
       "Name": "Связанные профили"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "Эта функция доступна только для патронов. Некоторые функции становятся возможными только при поддержке патронов. Узнайте больше на [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "Связать этот профиль Bungie.net с аккаунтом Patreon",
       "Name": "Привязка Patreon",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "Спасибо! Ваш email теперь связан с вашим профилем.",
-      "Text": "Некоторые варианты поддержки на Patreon включают в себя бэйджи, которые отображаются около вашего никнейма.\n\nСделайте возможным отображение соответствующего бэйджа указав электронную почту от вашего аккаунта Patreon."
+      "Text": "Некоторые варианты поддержки на Patreon включают в себя бэйджи, которые отображаются около вашего никнейма.\n\nСделайте возможным отображение соответствующего бэйджа, указав электронную почту от вашего аккаунта Patreon."
     },
     "Suggestion": {
       "Subtle": "Авторизуйтесь на сайте Bungie.net, чтобы разблокировать больший функционал.",
@@ -226,7 +226,7 @@
       "Description": "Эта функция требует DIM Sync для работы. Включите функцию DIM Sync в Настройках.",
       "Name": "DIM Sync"
     },
-    "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
+    "DiffProfile": "Вы просматриваете чей-то профиль. Вы можете смотреть, но если вы попытаетесь нажимать на кнопки, не ждите результатов!",
     "Equipment": {
       "Armor": "Броня",
       "Auxiliary": "Вспомогательное",
@@ -234,21 +234,21 @@
       "Weapons": "Оружия"
     },
     "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
+      "ArcDamage": "Электрический урон",
       "DeepsightResonance": "Глубинное зрение",
       "Favourite": "В избранном",
       "Garbage": "В мусоре",
-      "KineticDamage": "🦘 Kinetic Damage",
+      "KineticDamage": "Кинетический урон",
       "Shaped": "Сформировано",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
+      "SolarDamage": "Солнечный урон",
+      "StasisDamage": "Стазисный урон",
+      "StrandDamage": "Урон Нити",
+      "VoidDamage": "Пустотный урон"
     }
   },
   "Clan": {
     "Administration": {
-      "ViewportWidth": "Страница администрирования клана рассчитана на широкоэкранные дисплеи. Пожалуйста, используйте дисплей с разрешением не менее 1500 пикселей."
+      "ViewportWidth": "Страница администрирования клана рассчитана на широкоэкранные дисплеи. Пожалуйста, используйте дисплей с разрешением не менее `1280` пикселей."
     },
     "BannerPerks": "Модификаторы знамени",
     "ClanAdministration": "Управление",
@@ -257,45 +257,45 @@
       "BannerDetail": "Деталь знамени",
       "BannerDetailColor": "Цвет детали знамени",
       "BannerEmblem": "Эмблема знамени",
-      "Description": "Обсудите с участниками клана новое клановое знамя. Выбор разных вариантов цветов моментально изменяет ссылку страницы, что позволяет вам легко поделиться своими наработками.",
+      "Description": "Обсудите с участниками клана новое клановое знамя: сделайте свой выбор и нажмите Поделиться чтобы продемонстрировать свой стиль.",
       "EmblemBackgroundColor": "Фоновый цвет эмблемы",
-      "EmblemForegroundColor": "Цвет эмблемы",
+      "EmblemForegroundColor": "Передний цвет эмблемы",
       "Name": "Настройка знамени клана"
     },
     "ClanRoster": "Список участников",
     "ClanTimetable": "Расписание",
-    "Founded": "Основан {{time}}",
+    "Founded": "Основан **{{time}}**",
     "HistoricalStats": {
       "ViewportWidth": "Статистика клана предназначена для дисплеев большего размера. Пожалуйста, используйте дисплей с шириной не менее `1024` пикселей."
     },
     "HistoricalStatsLoading": "Загрузка исторической статистики",
-    "Members": "Участников: {{number}}",
-    "MembersLoading": "Загрузка участников {{name}}",
+    "Members": "**{{number}}** участников",
+    "MembersLoading": "Загрузка участников **{{name}}**",
     "NoClan": {
-      "Description": "Кланы это сообщества из друзей, игра с которыми разнообразит ваш игровой опыт онлайн. Кооперируйтесь с вашими сокланами для участия в совместных испытаниях или просто пустите их в свою одиночную игру для получения дополнительных наград.\n\nВступите в клан вашего друга, заведите новых друзей или создайте свой собственный через приложение-компаньона либо на [Bungie.net](https://bungie.net/).",
+      "Description": "Кланы это опциональные сообщества из друзей, игра с которыми разнообразит ваш игровой опыт онлайн. Кооперируйтесь с вашими сокланами для участия в совместных испытаниях или просто пустите их в свою одиночную игру для получения дополнительных наград.\n\nВступите в клан вашего друга, заведите новых друзей или создайте свой собственный через приложение-компаньона либо на [Bungie.net](https://bungie.net/).",
       "Name": "Нет клана"
     },
     "Relationships": {
       "BestFriends": "Лучшие друзья",
-      "Description": "Обнаружьте упущенные возможности и тайных любовников. С этими Стражами вы проводите больше всего времени. Дорожите друг другом.\n\nЭти Стражи ваши сокланы и этот ранг сбрасывается каждый сезон.",
+      "Description": "Обнаружьте упущенные возможности и тайных любовников. С этими Стражами вы проводите больше всего времени. Дорожите друг другом.",
       "Name": "Взаимоотношения",
-      "NoFriends": "Ты не один - рано или поздно ты с кем-то подружишься… Позови кого-то из клана сходить вместе в пару активностей!",
+      "NoFriends": "Ты не один - рано или поздно ты с кем-то подружишься... Позови кого-то из клана сходить вместе в пару активностей!",
       "NoParters": "Никто не говорил, что свидания это просто. Пора в бой, Страж!",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Загрузить активности только текущего сезона.",
+          "Name": "Текущий сезон"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Отфильтровать встречи и боевые группы, чтобы в них входили только участники вашего клана.",
+          "Name": "Участники клана"
         }
       },
       "RomanticPartnerships": "Больше, чем друзья",
       "SocialButterfly": "Ты справился! Ты с сыграл со всеми в этом сезоне.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "Тайные друзья"
+      "TopFireteams": "Топ {{number}} сочетаний боевой группы",
+      "TopFriends": "Топ {{number}} друзей по сыгранным активностям",
+      "UndiscoveredFriends": "Необнаруженные друзья"
     },
     "RewardEngrams": "Энграммы",
     "Roster": {
@@ -306,7 +306,7 @@
       "DisplayName": "Отображаемое имя",
       "DownloadData": "Скачать данные",
       "Glory": "Слава",
-      "Infamy": "Бесчестие (сбросы)",
+      "Infamy": "Бесчестие",
       "Joined": "Вступил",
       "Kick": "Исключить",
       "LastActivity": "Последняя активность",
@@ -314,7 +314,7 @@
       "LastPlatform": "Платформа",
       "Promote": "Повысить",
       "Rank": "Ранг",
-      "Valor": "Доблесть (сбросы)",
+      "Valor": "Доблесть",
       "WeeklyClanXP": "Еженедельный опыт клана"
     }
   },
@@ -324,7 +324,7 @@
     "Badge_plural": "Карточки",
     "Badges": {
       "Commonality": {
-        "Description": "Редкость карточки отображает процент игроков индексируемых Voluspa.",
+        "Description": "Редкость карточки отображает процент игроков индексируемых Voluspa, которые завершили эту карточку.",
         "Name": "Редкость карточки"
       },
       "Completed": "Карточка получена",
@@ -345,19 +345,19 @@
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто"
   },
   "Commendations": {
-    "Received": "🦘 Received",
-    "ReceivedAbr": "🦘 Recvd.",
-    "Sent": "🦘 Sent",
-    "SentAbr": "🦘 Sent"
+    "Received": "Получено",
+    "ReceivedAbr": "Получ.",
+    "Sent": "Отправлено",
+    "SentAbr": "Отпр."
   },
   "Common": {
-    "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
+    "CurrentRankNth": "Текущий ранг: {{value}}",
+    "SeasonEndsIn": "Сезон {{number}}: заканчивается через {{duration}}",
     "Actions": "Действия",
     "Activate": "Активировать",
-    "Active": "🦘 Active",
+    "Active": "Активно",
     "ActiveModifiers": "Активные модификаторы",
-    "ActiveScore": "🦘 Active Score",
+    "ActiveScore": "Активный счёт",
     "Activity": "Активность",
     "ActivityBonus": "Бонус активности",
     "ActivityMembers": "Участники активности",
@@ -366,36 +366,36 @@
     "All": "Всё",
     "Armour": "Броня",
     "AscendantChallenge": "Высшее испытание",
-    "Available": "🦘 Available",
+    "Available": "Доступно",
     "AvailableActivities": "Доступные активности",
     "Cancel": "Отмена",
     "Challenge": "Испытание",
     "Challenge_plural": "Испытания",
-    "Character": "🦘 Character",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "Character": "Персонаж",
+    "BrowseNthMembers_plural": "Обзор {{number}} участников",
     "CharacterClass": "Класс персонажа",
     "CharacterLight": "Сила персонажа",
-    "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
+    "CharacterSpecific": "Как и со многими функциями Braytech, текущий вид конкретен только для выбранного персонажа.",
     "Character_plural": "Персонажи",
     "Checklists": "Списки объектов",
-    "Clan": "🦘 Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
-    "ClanMembersNth_plural": "Клан",
+    "Clan": "Клан",
+    "ClanMember": "Участник клана",
+    "ClanMember_plural": "Участники клана",
+    "ClanMembersNth_plural": "{{number}} участников клана",
     "Classified": "Засекречено",
     "Collectibles": "Предметы",
     "Collections": "Коллекция",
-    "CollectionsScore": "🦘 Collections Score",
-    "CommendationAbr_plural": "🦘 Comms.",
+    "CollectionsScore": "Счёт коллекции",
+    "CommendationAbr_plural": "Похв.",
     "Completed": "Выполнено",
-    "CruciblePlaylist": "🦘 Crucible Playlist",
+    "CruciblePlaylist": "Плейлисты Горнила",
     "DateTime": "Дата и время",
     "Equipment": "Снаряжение",
     "Error": "Ошибка",
     "Event": "Событие",
     "EventNth": "1 Событие",
-    "EventNth_plural": "🦘 1 Evento",
-    "Examples": "🦘 Examples",
+    "EventNth_plural": "{{count}} Событий",
+    "Examples": "Примеры",
     "Expiration": "Срок действия",
     "Expired": "Истекло",
     "Expiry": "Истечение",
@@ -407,45 +407,45 @@
     "FireteamMembers": "Члены боевой группы",
     "FireteamReserves": "Резерв",
     "FireteamSize": "Размер боевой группы",
-    "Friend": "🦘 Friend",
-    "Friend_plural": "🦘 Friends",
+    "Friend": "Друг",
+    "Friend_plural": "Друзья",
     "GloryPoints": "Очков славы",
-    "GuardianRank": "🦘 Guardian Rank",
+    "GuardianRank": "Ранг Стража",
     "Guardians": "Стражи",
-    "Help": "🦘 Help",
+    "Help": "Помощь",
     "HistoricalStats": "Статистика",
     "InfamyPoints": "Очков бесчестия",
     "Inspect": "Информация",
     "Inventory": "Инвентарь",
     "ItemRolls": "Характеристики",
     "Items": "Предметы",
-    "LegacyScore": "🦘 Legacy Score",
+    "LegacyScore": "Счёт прошлых триумфов",
     "LevelNth": "Уровень {{number}}",
     "Location": "Локация",
     "Lore": "Истории",
-    "LoreBook": "🦘 Lore Book",
+    "LoreBook": "Книги лора",
     "Map": "Карта",
     "Medals": "Медали",
-    "MembersOnline": "онлайн: {{number}}",
+    "MembersOnline": "Онлайн: **{{number}}**",
     "Name": "Имя",
-    "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям…",
+    "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям...",
     "NothingHereYet": "Тут пока что ничего нет",
     "Objectives": "Задачи",
     "Offline": "Не в сети",
     "Patron_plural": "Спонсоры на Patreon",
     "Player": "Игрок",
     "Preview": "Предпросмотр",
-    "Profile": "🦘 Profile",
-    "Progress": "🦘 Progress",
+    "Profile": "Профиль",
+    "Progress": "Прогресс",
     "Progression": "Прогресс",
     "Quests": "Поручения",
-    "Rank_plural": "🦘 Ranks",
+    "Rank_plural": "Ранги",
     "Record": "Триумф",
     "Record_plural": "Триумфы",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "Активности",
     "Reputation": "Репутация",
     "Reset": "Сбросить",
-    "Reward": "🦘 Reward",
+    "Reward": "Награда",
     "Reward_plural": "Награды",
     "Savathûn'sCurse": "Проклятие Саватун",
     "Score": "Очки триумфов",
@@ -459,10 +459,10 @@
     "Season_plural": "Сезоны",
     "Settings": "Настройки",
     "Source": "Источник",
-    "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
-    "SpecialCommendation_plural": "🦘 Special Comms.",
+    "SpecialCommendationAbr_plural": "Ос. похв.",
+    "SpecialCommendation_plural": "Особая похв.",
     "Submit": "Подтвердить",
-    "Support": "🦘 Support",
+    "Support": "Поддержка",
     "TimePlayed": "Времени в игре",
     "TimeRemaining": "До отбытия",
     "Translator_plural": "Переводчики",
@@ -490,12 +490,12 @@
     },
     "Braytech": {
       "AppStore": {
-        "Description": "Braytech доступен в [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) и [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! К сожалению, Braytech не доступен для iPhone.\n\nBraytech не доступен в магазине приложений для iPhone, потому что Apple - жадные и их магазин является их основной денежной воронкой.\n\n\nК счастью, они частично поддерживают прогрессивные веб-приложения, такие как Braytech. Чтобы добавить Braytech на домашний экран, перейдите к приложению с помощью Safari, выберите кнопку Поделиться и _Добавить в домашний экран_. Это позволит использовать некоторые технологии, которые позволяют таким приложениям, как Braytech, чувствовать себя и работать как родные приложения.\n\n\nЕсли вы пользователь Android и не хотите использовать Google Play, вы можете проделать аналогичную процедуру с Google Chrome.",
+        "Description": "Braytech доступен в [App Store](https://apps.apple.com/app/braytech/id1593151816), [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) и [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)!",
         "Name": "Магазины приложений"
       },
       "Commonality": {
-        "Description": "Часто спрашивают, \"Что это за смешной процент справа от коллекционных предметов и рекордов?\"n\nЭто процент игроков, которые либо нашли, либо приобрели предмет. Каждые несколько дней _Voluspa_ собирает данные от пользователей _Braytech_ и записывает, у кого что есть.\n\n\nВопрос о том, насколько он точен или полезен, был горячим, но правда в том, что вся статистика бесполезна и глупа, если вы не включили в неё все возможные данные.\n\nСправедливо предположить, что эта статистика предвзято относится к обычным игроки (процентные показатели могут казаться выше, а не ниже из-за мастерства и внимания пользователей, за которыми ведется наблюдение).\n\nГде это возможно, всплывающие подсказки для этой статистики включают общее количество игроков, которые считаются частью этой метрики.{{indexed}}",
-        "Name": "Общность"
+        "Description": "Часто спрашивают, \"Что это за странный процент справа от коллекционных предметов и рекордов?\"n\nЭто процент игроков, которые либо нашли, либо получили предмет. Каждые несколько дней _Voluspa_ собирает данные от пользователей _Braytech_ и записывает, у кого что есть.\n\n\nВопрос о том, насколько он точен или полезен, был горячим, но правда в том, что вся статистика бесполезна и глупа, _если только_ вы не включили в неё все возможные данные.\n\nСправедливо предположить, что эта статистика предвзято относится к обычным игроки (процентные показатели могут казаться выше, а не ниже из-за мастерства и внимания пользователей, за которыми ведется наблюдение).\n\nГде это возможно, всплывающие подсказки для этой статистики включают общее количество игроков, которые считаются частью этой метрики.{{crawled}}",
+        "Name": "Редкость"
       },
       "KeyboardShortcuts": {
         "Description": "В дополнение к любым кнопкам панели действий с символами клавиш, в Braytech есть множество скрытых сочетаний клавиш. В любом виде с заголовком профиля (эмблема вашего персонажа и т.д.) нажмите и удерживайте кнопку , чтобы увидеть, какие сочетания клавиш доступны. Например, нажмите  для перехода к _Триумфам_ и для возврата сюда.",
@@ -506,19 +506,19 @@
         "Name": "Приватность профиля"
       },
       "ServiceWorkerUpdate": {
-        "Description": "Из _Настроек_ вы можете попробовать различные способы. Начните с _обновления веб службы_. Подождите немного, и вам будет предложено перезагрузиться для обновления.\n\nЕсли это не удастся, вы можете выбрать _перезагрузку_. Если ничего не помогло, то вы можете, _сбросить веб службу_.\n\n_Для тех, кто склонен к техническим аспектам, Braytech использует веб службу, и иногда она проблемна._",
+        "Description": "Из _Настроек_ вы можете попробовать различные способы. Начните с _обновления веб службы_. Подождите немного, и вам будет предложено перезагрузиться для обновления.\n\nЕсли это не удастся, вы можете выбрать _перезагрузку_. Если ничего не помогло, то вы можете, _сбросить веб службу_ и сообщить о проблеме в Discord.",
         "Name": "Braytech не обновляется до актуальной версии"
       },
       "Widgets": {
-        "Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
-        "Name": "🦘 Widgets",
-        "Video1Caption": "🦘 How to add widgets to your home screen.",
-        "Video2Caption": "🦘 How to add widgets to your lock screen."
+        "Description": "В настоящее время виджеты доступны только для устройств iOS (iPhone, iPad).\n\nЕсли вы не можете найти Braytech или его виджеты в списке доступных виджетов, попробуйте перезагрузить своё устройство, запустить приложение, переустановить приложение, или подождать некоторое время\n\nЭто либо \"проблема с навыками\", либо просто особенность iOS. Удачи.",
+        "Name": "Виджеты",
+        "Video1Caption": "Как добавить виджеты на ваш домашний экран.",
+        "Video2Caption": "Как добавить виджеты на ваш экран блокировки."
       }
     },
     "Voluspa": {
       "About": {
-        "Description": "_Voluspa_ — это названный в честь одного из подразумов _Rasputin_-а серверный компонент Braytech-а. Он ответственен за сбор статистики редкости, синхронизацию настроек и некоторые другие ключевые функции.",
+        "Description": "_Voluspa_ — это названный в честь одного из подразумов _Распутина_ серверный компонент Braytech-а. Он ответственен за сбор статистики редкости, синхронизацию настроек и некоторые другие ключевые функции.",
         "Name": "Что такое Voluspa?"
       }
     }
@@ -527,20 +527,20 @@
     "Header": {
       "Description": "Добро пожаловать в Braytech! Прежде чем вы приступите к работе, у меня есть несколько советов для вас.\n\nЕсли у вас есть отзывы или вопросы, мы можем пообщаться в Discord или вы можете ознакомиться с FAQ (ЧАВО)!",
       "Name": "Начало работы",
-      "SubName": "Технологии Кловис Брей"
+      "SubName": "Технологии Кловиса Брея"
     },
     "Tips": {
       "Search": {
-        "Description": "Нужно быстро найти что-то? В Braytech есть HUD-поиск, доступный в любом месте приложения.\n\nНажмите или коснитесь кнопки с изображением увеличительного стекла и начинайте печатать!",
+        "Description": "Нужно быстро найти что-то? В Braytech есть поисковой интерфейс, доступный в любом месте приложения.\n\nНажмите **** or нажмите ****, и начните печатать!",
         "Name": "Поиск"
       },
       "Settings": {
-        "Description": "Braytech полон настроек: от тёмных тем до опций видимости элементов и синхронизации настроек.\n\nНайдите _Настройки_ в верхнем углу.",
+        "Description": "Braytech полон настроек: от тёмных тем до опций видимости элементов и синхронизации настроек.\n\nНайдите **** в верхнем углу.",
         "Name": "Настройки"
       },
       "Views": {
-        "Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
-        "Name": "🦘 More"
+        "Description": "Чтобы сразу увидеть все функции Braytech нажмите на **** сверху приложения!",
+        "Name": "Более"
       }
     }
   },
@@ -574,7 +574,7 @@
     "PerkRecommended": "Рекомендуем эту особенность",
     "Perks": "Перки",
     "PowerLimit": "Максимальный уровень силы",
-    "RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
+    "RedeemWithCode": "Используйте код `{{code}}` на [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) чтобы разблокировать эту эмблему.",
     "ShapedDate": "Сформировано {{date}}",
     "StatTotal": "Всего",
     "State": "Состояние",
@@ -598,12 +598,12 @@
       "ThisWeek": "На этой неделе"
     },
     "Features": {
-      "Description": "Braytech - это страстный проект. Его разработка продолжается уже более двух лет, и за это время в него было внесено множество дополнений и улучшений. Его разработчик, Том Чапман, является поклонником дизайна Destiny, и это сильно влияет на эстетику Braytech.\n\n\nBraytech начинался как приложение для контрольного списка и превратился в чудовище со множеством талантов. Оно постоянно совершенствуется и расширяется.\n\nНужно быстро найти что-то? Нажмите на  и начните печатать! В Braytech есть HUD поиска, доступный в любом месте приложения.\n\nBraytech создан в первую очередь для пользователей персональных компьютеров, но работает и выглядит прекрасно как мобильное приложение. Более того, в магазине Play Store есть [приложение для Android](https://play.google.com/store/apps/details?id=braytech.org.twa).",
-      "Name": "Талантливые"
+      "Description": "Проект Braytech, основанный на чистой страсти, - это многолетний опыт, постепенные дополнения и усовершенствования. Хотя первоначальной целью было профессиональное развитие, с тех пор она стала неотъемлемой частью опыта многих игроков Destiny в качестве стражей.\n\nBraytech начинался как приложение для составления чеклистов и превратился в чудовище со множеством талантов. Он постоянно совершенствуется и расширяется.\n\nНужно быстро что-то найти? Нажмите  и начните печатать! У Braytech есть поисковый интерфейс, доступный в любом месте приложения.\n\nBraytech создан в первую очередь для пользователей настольных компьютеров, но функционирует так же хорошо и выглядит так же красиво на устройствах меньшего размера. На самом деле, есть [приложение для iPhone](https://apps.apple.com/app/braytech/id1593151816) и [приложение для Android](https://play.google.com/store/apps/details?id=braytech.org.twa). Хотите внести предложение? Присоединяйтесь к [Discord](https://discord.bray.tech)!",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "Создание красивых интерфейсов и фехтование/сражение с API Bungie тратит силы и время, а их на хобби у меня не так и много, при этом поддержание сайта онлайн требует еще и денег. Я ярый противник наличия рекламы на сайтах в том виде, в котором мы с нею знакомы. В итоге я предпочитаю поддерживать эти проекты из своего кармана и рассчитывать на щедрость аудитории.\n\n Поддерживая меня вы можете помочь удержать эти проекты онлайн, а так же позволить мне продолжать добавлять крутой новый функционал.",
-      "Name": "Поддержать Braytech"
+      "Description": "Braytech это полная занятость-Я проектирую и разрабатываю чтобы совершенствовать себя и угодить вам. Я против рекламы, до своей кончины. Ваша поддержка помогает мне поддерживать проект и позволяет мне делать свою работу наилучшим образом.\n\nПрисоединяйтесь к [Discord](https://discord.bray.tech) и к другим патронам в Braytech Research Division.",
+      "Name": "Вы поклонник? Покажите вашу поддержку"
     },
     "Updates": {
       "Name": "Обновления"
@@ -611,10 +611,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 м",
       "MetresAbr_plural": "{{count}} м",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": "1 кг",
+      "WeightAbr_plural": "{{count}} кг"
     },
     "Time": {
       "Frequency": {
@@ -628,60 +628,60 @@
     }
   },
   "Leaderboards": {
-    "ActiveScore": "🦘 Active Score",
-    "LegacyScore": "🦘 Legacy Score",
-    "TriumphScore": "🦘 Triumph Score",
-    "CollectionsScore": "🦘 Collections Score",
-    "Global": "🦘 Global",
-    "Rank": "🦘 Rank",
-    "Statistics": "🦘 Statistics",
+    "ActiveScore": "Счёт активных триумфов",
+    "LegacyScore": "Счёт прошлых триумфов",
+    "TriumphScore": "Счёт триумфов",
+    "CollectionsScore": "Счёт коллекции",
+    "Global": "Глобально",
+    "Rank": "Ранг",
+    "Statistics": "Статистика",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "Вы",
+      "Description": "Выберите профиль для использования Braytech и просматривайте свои ранги."
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "Найти клан",
+      "Description": "Найдите клан и просмотривайте ранг его участников"
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "Найти Стража",
+      "Description": "Найдите друга или врага и сравните себя."
     },
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
+    "UnrankedGroup": "Ещё никто в этом клане не был оценён.",
+    "UnrankedMember": "Этот игрок еще не был оценён. Они были добавлены в очередь.",
+    "Unranked": "Эта Таблица лидеров оценивается с новой информацией. Она будет готова через несколько минут.",
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "Сравнение",
+      "Description": "Триумфы и предметы, которые имеет **{{a}}**, но не имеет **{{b}}**.\n\nЭто сравнение создано из данных в реальном времени и как таковое может противоречить текущему рейтингу в таблице лидеров."
     }
   },
   "Legend": {
     "Activity": {
-      "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
-      "Name": "🦘 First Risen"
+      "Description": "Призрак Стража.\n\nВаша жизнь после вашей жизни начинается здесь. Вы воскрешённый, выбранный Призраком, и дарованный великой силой благодаря Свету и Тьме.\n\nЭто были ваши первые шаги.",
+      "Name": "Первое воскрешение"
     },
     "Commonality": {
-      "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
-      "Name": "🦘 Rare Treasures & Exotic Style"
+      "Description": "Ликуйте и получайте свои награды.\n\nЗемля и тронутые Странником миры за пределом хранят удивительные странности и желанные сокровища мифов\n\nСамое интересное - в поиске.",
+      "Name": "Редкие Скоровища & Стиль игры с Экзотами"
     },
-    "Empty": "🦘 Empty",
+    "Empty": "Пусто",
     "Fishing": {
-      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-      "LargestFish": "🦘 Largest Fish",
-      "Name": "🦘 Competitive Fishing",
-      "TypesCaught": "🦘 Types Caught"
+      "Description": "Улов дня\n\nБросьте утяжеленную леску, продемонстрируйте свой аквариум, и соревнуйтесь, сравнивая свои самые лучшие уловы с другими рыболовами.",
+      "LargestFish": "Самая большая рыба",
+      "Name": "Соревновательная рыбалка",
+      "TypesCaught": "Видов поймано"
     },
     "Ranks": {
-      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
+      "Description": "Через тернии к звёздам\n\nВедите боевые группы к победам над приспешниками Тьмы и соревнуйтесь друг с другом в Горниле за награды от самого Лорда Шакса.",
       "Guardian": {
-        "Description": "🦘 Prepare to be evaluated by the Light and your peers.",
-        "Name": "🦘 Guardian"
+        "Description": "Приготовьтесь к тому, что вас будут оценивать Свет и ваши товарищи.",
+        "Name": "Страж"
       },
-      "Name": "🦘 Guardian Standing"
+      "Name": "Репутация Стража"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Sigilli"
+      "Commonality": "Эмблемы побед\n\nВысший показатель перфекционизма и коллекционерства; носите их хорошо.",
+      "Name": "Печати триумфов"
     }
   },
   "Loading": {
@@ -711,10 +711,10 @@
     },
     "ManifestError": {
       "Description": "Что-то пошло не так во время попытки обновить манифест с сервера Bungie.\n\nПожалуйста, перезагрузите сайт и попробуйте ещё раз.",
-      "Name": "Ошибка в манифесте"
+      "Name": "Ошибка манифеста"
     },
     "NoInternetError": {
-      "Description": "Вы не в сети? Ваш браузер так думает…"
+      "Description": "Вы не в сети? Ваш браузер так думает..."
     },
     "SettingsFetchError": {
       "Description": "Что-то пошло не так при получении конфигурации API от Bungie.\n\nПожалуйства, перезагрузите приложение и попробуйте ещё раз.",
@@ -733,7 +733,7 @@
   },
   "Maps": {
     "Context": {
-      "ChecklistsAndMore": "🦘 Checklists + More",
+      "ChecklistsAndMore": "Списки Объектов + другое",
       "NoChecklistItems": "Ничего не найдено"
     },
     "Inspect": {
@@ -764,17 +764,17 @@
     },
     "Nodes": {
       "Unavailable": "Недоступно",
-      "UnavailableInGame": "Недоступно: этот узел больше недоступен в игре.",
-      "UnavailableUnreliableApi": "Недоступно: что-то мешает этому место корректно отображаться."
+      "UnavailableInGame": "Недоступно: эта точка больше недоступна в игре.",
+      "UnavailableUnreliableApi": "Недоступно: что-то мешает этой точке корректно отображаться."
     },
     "ProposeChanges": {
-      "Description": "Предложите изменения для этой точки и улучшите _Карту_ для других Стражей.",
+      "Description": "Предложите изменения для этой точки и улучшите Карту для других Стражей.",
       "Form": {
         "Description": {
           "Placeholder": "Пример: у скалы в дальнем конце комнаты"
         },
         "Issues": {
-          "Placeholder": "пример: этот узел более недоступен"
+          "Placeholder": "Пример: эта точка более недоступена"
         },
         "Screenshots": {
           "Description": "Предложенные скриншоты должны соответствовать строгим требованиям:\n- разрешение экрана 1920x1080\n- не видно интерфейса\n- не видно Стражей или снаряжения\n- не видно врагов\n- максимальные настройки графики\n  - включая масштабирование разрешения 200%"
@@ -816,15 +816,15 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "Не удалось скопировать эту ссылку в ваш буфер обмена",
+      "Success": "Ссылка была скопирована в ваш буфер обмена."
     },
     "NthMore": "и еще {{number}}",
     "NthRemaining": "{{number}} других",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "У почтмейстера почти заполнилось место! Если вы не заберете их, вы потеряете их навсегда!",
-      "DescriptionFull": "У почтмейстера заполнилось место! Если вы не заберете их, вы потеряете их навсегда!",
-      "Name": "ВНИМАНИЕ!"
+      "DescriptionAlmostFull": "У почтмейстера почти закончилось свободное место! Если вы не заберете предметы, вы потеряете их навсегда!",
+      "DescriptionFull": "У почтмейстера закончилось место! Если вы не заберете предметы, вы потеряете их навсегда!",
+      "Name": "Внимание!"
     },
     "PushNotifications": {
       "Description": "Пока вы бегали по травке ваше устройство отозвало у Voluspa разрешение отправлять вам уведомления.\n\nВозможно вы захотите снова посмотреть настройки, если это не то, чего вы хотели.",
@@ -832,20 +832,20 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "Не найдено кланов",
+    "SearchPlaceholder": "введите точное название клана"
   },
   "ProfileSearch": {
     "ActiveProfile": "Активный профиль",
     "BungieNetProfile": "Профиль Bungie.net",
     "ChangeProfile": "Сменить профиль",
-    "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
+    "CrossSaveProfile": "Этот пользователь включил Кроссплатформенное Cохранение. Выделен их активный профиль.",
     "Error": {
       "Banned": {
-        "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
-        "Dickhead": "🦘 Dickhead.",
-        "Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
-        "Teabagging": "🦘 Player was observed engaging in behaviours that are not conducive of a friendly environment."
+        "Botting": "Игрок был замечен за использованием механизмов, позволяющих избежать контрмер обнаружения неактивности (боттинг).",
+        "Dickhead": "Придурок.",
+        "Hacking": "Игрок был замечен за использованием сторонних инструментов для воздействия на правила ведения боевых действий (взлом).",
+        "Teabagging": "Игрок был замечен в поведении, не способствующим созданию дружественной обстановки."
       },
       "CharacterMissing": {
         "Description": "Персонажа, которого вы пытались загрузить, недоступен, возможно, он удален.",
@@ -860,8 +860,8 @@
         "Name": "Приватный профиль"
       }
     },
-    "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
-    "NewLight": "🦘 New Light",
+    "GetStarted": "Похоже, вы здесь новичок! Вы можете начать, нажав **Авторизоваться** и войдя на Bungie.net, или вы можете найти свое имя Bungie и загрузить свой профиль вручную!",
+    "NewLight": "Новый Свет",
     "NoProfilesFound": "Нет найденных профилей",
     "PreviousSearches": "Прошлые поиски",
     "ReturnToAuthMembership": "Вернуться к {{displayName}}",
@@ -903,28 +903,28 @@
       "MissingDefinitions": "Не удалось произвести поиск по манифесту, потому что в индексе нет ни одного определения."
     },
     "Examples": {
-      "Description": "description:clovis bray",
-      "Expiration": "expiration:seraph",
+      "Description": "description:кловис брей",
+      "Expiration": "expiration:серафим",
       "Name": "name:mida",
-      "Source": "source:leveling",
-      "Type": "type:scout rifle"
+      "Source": "source:при продвижении",
+      "Type": "type:винтовка разведчика"
     },
     "Placeholder": "введите имя или описание",
     "Results": {
-      "MatchesAllHidden": "Есть результаты, но вы предпочли скрыть их!",
-      "MatchesAllHidden_plural": "🦘 Há uma correspondênca, mas vocês optaram por escondê-la!",
+      "MatchesAllHidden": "Есть совпадение, но вы предпочли скрыть его!",
+      "MatchesAllHidden_plural": "Есть {{count}} совпадени1, но вы предпочли скрыть их!",
       "NoMatches": "По вашему запросу ничего не найдено.",
       "Top10": "Отображаются первые 10 результатов. Нажмите , чтобы использовать полноразмерный поиск."
     },
     "ShortcutKey": "Нажмите , чтобы активировать поиск откуда угодно",
-    "Suggestions": "🦘 Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nResults are prioritised by name, source, and description.",
-    "VanguardArchives": "🦘 Welcome to the Vanguard archives."
+    "Suggestions": "Поиск поддерживает фильтры как префиксы. Также, вы можете искать по обозначению в манифесте. Например, лучшее оружие в игре, `564802913`.\n\nРезультаты приоритизированы по имени, источнику и описанию.",
+    "VanguardArchives": "Добро пожаловать в архивы Авангарда."
   },
   "SeasonPass": {
     "ProgressPassLevel": "Прогресс Сезонного Ранга",
     "ProgressPowerBonus": "Прогресс бонуса Силы",
     "SeasonProgress": "Прогресс Сезона",
-    "SeasonProgressDays": "дн."
+    "SeasonProgressDays": "дней"
   },
   "Settings": {
     "Category": {
@@ -989,7 +989,7 @@
     },
     "Interface": {
       "AlternateAppIcon": {
-        "Info": "🦘 Alter the appearance of the app's icon."
+        "Info": "Изменить внешний вид иконки приложения."
       },
       "Bindings": {
         "Info": "Измените внешний вид кнопок. На данный момент эффект только визуальный."
@@ -1062,7 +1062,7 @@
         "Info": "Настраивайте отображение объектов на карте. Соблюдайте порядок."
       },
       "Developer": {
-        "Info": "Инструменты для помощи разработчикам при работе с _Картами_"
+        "Info": "Инструменты для помощи разработчикам при работе с Картами"
       },
       "ItemVisibility": {
         "HideDiscoveredNodes": {
@@ -1095,12 +1095,12 @@
         "AnyMod": "Любой Модификатор",
         "AnyReward": "Любая Награда",
         "AnySale": "Любой Предмет",
-        "AnyShader": "🦘 Any Shader",
+        "AnyShader": "Любой Шейдер",
         "Multiple": "Несколько",
         "Uncollected": "Несобранные"
       },
       "Conditions": "Условия",
-      "Configure": "Конфигцрация Push-уведомлений",
+      "Configure": "Конфигурация Push-уведомлений",
       "Event": "Событие",
       "Frequency": "Частота",
       "Incompatible": "Ваш браузер пока не поддерживает push-уведомления.",
@@ -1112,7 +1112,7 @@
         "Name": "Предпросмотр уведомлений"
       },
       "ServiceWorkerInstalling": "Веб служба устанавливается. Пожалуйста, подождите.",
-      "Users": "🦘 Users"
+      "Users": "Пользователи"
     },
     "ReloadRequired": {
       "Description": "Выберите перезагрузку приложения для активации измнений прямо сейчас.",
@@ -1126,12 +1126,12 @@
     },
     "Search": {
       "HideFeatureSuggestions": {
-        "Description": "🦘 Hold your breath–I know what I'm doing.",
-        "Name": "🦘 Hide Feature Suggestions"
+        "Description": "Задержи дыхание-Я знаю что я делаю.",
+        "Name": "Скрыть преложение Функций"
       },
       "ItemVisibilityOverride": {
-        "Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
-        "Name": "🦘 Show Completed and Acquired"
+        "Description": "Используйте эту настройку для переопределения глобальной настройки отображения для триумфов и предметов.",
+        "Name": "Показывать завершённое и полученное"
       }
     },
     "SubCategory": {
@@ -1140,7 +1140,7 @@
       "Developer": "Для разработчиков",
       "IDB": "Хранилище базы данных",
       "Interface": {
-        "AlternateAppIcon": "🦘 App Icon",
+        "AlternateAppIcon": "Иконка приложения",
         "Bindings": "Привязка клавиш",
         "FlipSubviewNav": "Позиция малой навигации",
         "ItemSize": "Размер предметов инвентаря"
@@ -1150,7 +1150,7 @@
       "Language": "Язык",
       "Reports": "Хранилище отчётов",
       "SavedProfile": "Сохраненный профиль",
-      "Search": "🦘 Search",
+      "Search": "Поиск",
       "Synchronisation": "Синхронизация",
       "System": "Система",
       "Theme": "Тема",
@@ -1180,8 +1180,8 @@
     },
     "System": {
       "PromptForMinorVersions": {
-        "Description": "🦘 Notify me to update even for minor versions.",
-        "Name": "🦘 Minor Version Updates"
+        "Description": "Уведомляйте меня об обновлении даже для незначительных версий.",
+        "Name": "Незначительные обновления версий"
       },
       "ReloadAppAutomatically": {
         "Description": "При появлении обновления для Braytech-а, перезагружать приложение вне зависимости от того, чем вы заняты.",
@@ -1199,7 +1199,7 @@
         "Name": "Светлая"
       },
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "Использовать настройки системы",
         "Description": "На позволяющих это устройствах Braytech будет использовать настройки системы."
       }
     },
@@ -1216,7 +1216,7 @@
     "VisualFidelity": {
       "Gay": {
         "Description": "Зажги радугу, сучка! Освети свою жизнь с невероятным потрясающим ограниченным изданием технологического нововведения эксклюзивного для Braytech®!",
-        "Name": "Включить ✨"
+        "Name": "Включить 🌈"
       },
       "ReducedMotion": {
         "Description": "Уменьшить динамичность пользовательского интерфейса, в основном путем отключения различных анимаций. Уменьшает нагрузку на процессор.",
@@ -1260,7 +1260,7 @@
       "Inspect": "Осмотреть",
       "Lock": "Заблокировать",
       "NotGarbage": "Убрать из мусора",
-      "Select": "🦘 Select",
+      "Select": "Выбрать",
       "Store": "Передать",
       "Unfavourite": "Убрать из избранного",
       "Unlock": "Разблокировать",
@@ -1310,7 +1310,7 @@
     },
     "Record": {
       "Commonality": {
-        "Description": "Редкость триумфа отображает процент игроков индексированных Voluspa."
+        "Description": "Редкость триумфа отображает процент игроков индексированных Voluspa, которые выполнили этот триумф."
       },
       "Expiration": {
         "Description": "Этот триумф скорее всего можно получить только в течении этого срока."
@@ -1318,7 +1318,7 @@
       "Expires": "Срок действия истекает в конце Сезона {{season}}",
       "IntervalFraction": "{{numerator}} из {{denominator}}",
       "Score": {
-        "Description": "Очки триумфов начисляемые за получение триумфа."
+        "Description": "Очки триумфов, начисляемые за получение триумфа."
       },
       "ScoreInterval": {
         "Description": "Очки триумфов начисляемые за текущий этап в сравнении с очками за все этапы."
@@ -1330,18 +1330,18 @@
     "SealTitleSeasonSuffix": "{{title}} (Сезон {{season}})",
     "Seal_plural": "Печати",
     "Seals": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
+      "AvailableTitle": "Доступный титул: **{{title}}**",
       "Commonality": {
         "Description": "Редкость печати отображает редкость получения печати среди игроков индексируемых Voluspa.",
         "Name": "Редкость печати"
       },
       "CommonalityGilded": {
         "Description": "Редкость печати отображает редкость получения и золочения печати среди игроков индексируемых Voluspa.",
-        "Name": "Редкость золотой печати"
+        "Name": "Редкость позолоченной печати"
       },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "SealCompleted": "Печать получена",
-      "SealGilded": "Золотая печать",
+      "PlayerTitle": "Титул игрока: **{{title}}**",
+      "SealCompleted": "Печать выполнена",
+      "SealGilded": "Позолоченная печать",
       "SealGildedProgress": "Прогресс золочения",
       "SealProgress": "Прогресс печати"
     },
@@ -1350,11 +1350,11 @@
       "Name": "Секретный триумф"
     },
     "Sorted": {
-      "Completion": "Отсортировано по завершенности",
-      "Name": "🦘 Sorted by **Name**",
-      "Rarity": "Отсортировано по редкости",
-      "Score": "Отсортировано по счету",
-      "Unsorted": "Отсортировано Bungie"
+      "Completion": "Отсортировано по **завершенности**",
+      "Name": "Отсортировано по **Имени**",
+      "Rarity": "Отсортировано по **редкости**",
+      "Score": "Отсортировано по **счету**",
+      "Unsorted": "Отсортировано **Bungie**"
     },
     "Tracked": {
       "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",
@@ -1364,7 +1364,7 @@
     "Triumph_plural": "Триумфы",
     "UnobtainableTriumphs": "Недоступные",
     "Unredeemed": {
-      "Info": "Наслаждайтесь своими триумфами и искупите эти записи.",
+      "Info": "Наслаждайтесь своими триумфами и выполните эти триумфы.",
       "InfoWithScoreValue": "Выполните эти триумфы и увеличьте свой счет триумфов на {{value}} очков.",
       "Number": "Неполученных триумфов: {{number}}"
     },
@@ -1375,12 +1375,12 @@
       "Description": "Хочешь отслеживать свои цели и различный прогресс? Авторизуйся через профиль Bungie.net и разреши Braytech безопасный доступ к данным своего Стража."
     },
     "Patreon": {
-      "Description": "Все мы ненавидим рекламу. Она отвратительна. Она назойлива. Она собирает ваши данные и продает их на сторону.\n\nПоддержите приложение на Patreon, чтобы её никогда тут не было. Неважно, единоразово или на регулярной основе, — любая пара баксов поможет!",
-      "Name": "Защити Braytech от рекламы",
-      "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
-      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
+      "Description": "Реклама - это отстой, поэтому Braytech её не использует, но всё это не просто и не бесплатно!\n\nВместо таргетированной рекламы разработчик Braytech полагается на вашу щедрость. Ваша поддержка помогает поддерживать приложение в рабочем состоянии, позволяет разработчику работать над новыми функциями и оплачивает аренду!",
+      "Name": "Помоги приложению остаться в рабочем состоянии 🥺",
+      "RewardResearcher": "Патроны уровня \"Researcher\" открывают эту медаль Кловиса Брея.",
+      "RewardSubmind": "Патроны уровня \"Submind\" открывают эту анимированую ультра-медаль Военного Разума.",
+      "Rewards": "Откройте уникальные медали профиля, подписавшись на Patreon Braytech.",
+      "Leaderboards": "Таблицы Лидеров - это большая работа, что, хоть и заставляет задуматься, является особенно дорогостоящей. Мне пришлось купить \"Базы данных для Чайников\" и прочее. Если вам нравится собирать вещи, может быть мы бы смогли [заинтересовать вас в открытии редких украшений](https://www.patreon.com/braytech) для вашего профиля?"
     },
     "Profile": {
       "Action": "Выберите персонажа",
@@ -1392,7 +1392,7 @@
       "NoFunds": "Недостаточно материалов",
       "NoInventorySpace": "Недостаточно места",
       "UniquenessViolation": "Может быть только 1",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "Неизвестная ошибка"
     }
   },
   "Voluspa": {
@@ -1401,7 +1401,7 @@
       "Description_record": "Просмотрите эти данные в другом виде, выбрав альтернативный тип графика.\n\n_Voluspa_ собирает данные от {{crawled}} игроков. Из этих игроков {{assessed}} были успешно оценены для предоставления этих данных. Из {{assessed}} оценённых игроков, {{value}} выполнили эту запись.",
       "Name": "Настроить график"
     },
-    "CollectedBy": " {{number}} игрок(ов) получили это.",
+    "CollectedBy": "{{number}} игрок(ов) получили это.",
     "Commonality": "Редкость",
     "CompletedBy": "{{number}} игрок(ов) завершили это.",
     "Crawled": "{{number}} игрок(ов) индексированы системой Voluspa.",
