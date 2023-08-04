@@ -432,6 +432,7 @@
     "NothingHereYet": "No hay nada aquí todavía",
     "Objectives": "Objetivos",
     "Offline": "Desconectado",
+    "Patreon": "🦘 Patreon",
     "Patron_plural": "Patrons",
     "Player": "Jugador",
     "Preview": "Previsualizar",
@@ -628,13 +629,17 @@
     }
   },
   "Leaderboards": {
+    "Rank": "Rango",
+    "Global": "🦘 Global",
+    "Statistics": "🦘 Statistics",
     "ActiveScore": "Puntaje activo",
     "LegacyScore": "Puntaje de legado",
     "TriumphScore": "Puntaje de triunfos",
     "CollectionsScore": "Puntaje de colecciones",
-    "Global": "🦘 Global",
-    "Rank": "Rango",
-    "Statistics": "🦘 Statistics",
+    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
+    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
+    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
+    "NoDifference": "🦘 No Difference",
     "ActiveProfile": {
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."
@@ -647,12 +652,27 @@
       "Name": "🦘 Find Guardian",
       "Description": "🦘 Look up a friend or foe and see how you compare."
     },
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
     "Comparison": {
       "Name": "🦘 Comparison",
       "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+    },
+    "Stats": {
+      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
+      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "RankedPlayers": {
+        "Name": "🦘 Ranked players",
+        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+      },
+      "ScraperCompletionValue": {
+        "Name": "🦘 Scraped players",
+        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+      },
+      "ScraperTimeRemaining": {
+        "Name": "🦘 Time until next rank",
+        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+      },
+      "RarestRecords": "🦘 Rarest Records",
+      "RarestCollectibles": "🦘 Rarest Collectibles"
     }
   },
   "Legend": {

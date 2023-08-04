@@ -432,6 +432,7 @@
     "NothingHereYet": "Тут пока что ничего нет",
     "Objectives": "Задачи",
     "Offline": "Не в сети",
+    "Patreon": "🦘 Patreon",
     "Patron_plural": "Спонсоры на Patreon",
     "Player": "Игрок",
     "Preview": "Предпросмотр",
@@ -628,13 +629,17 @@
     }
   },
   "Leaderboards": {
+    "Rank": "Ранг",
+    "Global": "Глобально",
+    "Statistics": "Статистика",
     "ActiveScore": "Счёт активных триумфов",
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Счёт триумфов",
     "CollectionsScore": "Счёт коллекции",
-    "Global": "Глобально",
-    "Rank": "Ранг",
-    "Statistics": "Статистика",
+    "Unranked": "Эта Таблица лидеров оценивается с новой информацией. Она будет готова через несколько минут.",
+    "UnrankedMember": "Этот игрок еще не был оценён. Они были добавлены в очередь.",
+    "UnrankedGroup": "Ещё никто в этом клане не был оценён.",
+    "NoDifference": "🦘 No Difference",
     "ActiveProfile": {
       "Name": "Вы",
       "Description": "Выберите профиль для использования Braytech и просматривайте свои ранги."
@@ -647,12 +652,27 @@
       "Name": "Найти Стража",
       "Description": "Найдите друга или врага и сравните себя."
     },
-    "UnrankedGroup": "Ещё никто в этом клане не был оценён.",
-    "UnrankedMember": "Этот игрок еще не был оценён. Они были добавлены в очередь.",
-    "Unranked": "Эта Таблица лидеров оценивается с новой информацией. Она будет готова через несколько минут.",
     "Comparison": {
       "Name": "Сравнение",
       "Description": "Триумфы и предметы, которые имеет **{{a}}**, но не имеет **{{b}}**.\n\nЭто сравнение создано из данных в реальном времени и как таковое может противоречить текущему рейтингу в таблице лидеров."
+    },
+    "Stats": {
+      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
+      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "RankedPlayers": {
+        "Name": "🦘 Ranked players",
+        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+      },
+      "ScraperCompletionValue": {
+        "Name": "🦘 Scraped players",
+        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+      },
+      "ScraperTimeRemaining": {
+        "Name": "🦘 Time until next rank",
+        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+      },
+      "RarestRecords": "🦘 Rarest Records",
+      "RarestCollectibles": "🦘 Rarest Collectibles"
     }
   },
   "Legend": {
