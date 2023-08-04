@@ -432,6 +432,7 @@
     "NothingHereYet": "这里还什么都没有",
     "Objectives": "目标",
     "Offline": "离线",
+    "Patreon": "🦘 Patreon",
     "Patron_plural": "赞助人",
     "Player": "玩家",
     "Preview": "预览",
@@ -628,13 +629,17 @@
     }
   },
   "Leaderboards": {
+    "Rank": "排行榜",
+    "Global": "🦘 Global",
+    "Statistics": "🦘 Statistics",
     "ActiveScore": "凯旋记录",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
     "CollectionsScore": "收藏品分数",
-    "Global": "🦘 Global",
-    "Rank": "排行榜",
-    "Statistics": "🦘 Statistics",
+    "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
+    "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
+    "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
+    "NoDifference": "🦘 No Difference",
     "ActiveProfile": {
       "Name": "你",
       "Description": "选择一个资料来查看你的排行榜。"
@@ -647,12 +652,27 @@
       "Name": "搜索守护者",
       "Description": "搜索一个守护者来进行比较"
     },
-    "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
-    "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
-    "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "Comparison": {
       "Name": "🦘 Comparison",
       "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+    },
+    "Stats": {
+      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
+      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "RankedPlayers": {
+        "Name": "🦘 Ranked players",
+        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+      },
+      "ScraperCompletionValue": {
+        "Name": "🦘 Scraped players",
+        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+      },
+      "ScraperTimeRemaining": {
+        "Name": "🦘 Time until next rank",
+        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+      },
+      "RarestRecords": "🦘 Rarest Records",
+      "RarestCollectibles": "🦘 Rarest Collectibles"
     }
   },
   "Legend": {
