@@ -104,6 +104,11 @@ const contributors = [
     membershipType: 2,
     membershipId: '4611686018455839117', // Sayathun
   },
+  {
+    language: 'ru',
+    membershipType: 3,
+    membershipId: '4611686018483638871', // gevoup
+  },
 ];
 
 export default contributors;
