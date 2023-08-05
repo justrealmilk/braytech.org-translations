@@ -200,7 +200,7 @@
       "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
       "Name": "已关联的平台账号"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "这是一项仅 Patron订阅者 可用的付费功能，一些功能的开销较大，只有在Patron赞助的情况下才有可能维持运营。在[Patreon.com/braytech](https://patreon.com/braytech)上加入我们。",
     "PatreonAssociation": {
       "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
       "Name": "关联 Patreon 账号",
@@ -430,7 +430,7 @@
     "NothingHereYet": "这里还什么都没有",
     "Objectives": "目标",
     "Offline": "离线",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "赞助人",
     "Player": "玩家",
     "Preview": "预览",
@@ -632,8 +632,8 @@
   },
   "Leaderboards": {
     "Rank": "排行榜",
-    "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
+    "Global": "全球",
+    "Statistics": "统计",
     "ActiveScore": "凯旋记录",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
@@ -641,7 +641,7 @@
     "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
-    "NoDifference": "🦘 No Difference",
+    "NoDifference": "没有什么不同",
     "ActiveProfile": {
       "Name": "你",
       "Description": "选择一个资料来查看你的排行榜。"
@@ -655,26 +655,26 @@
       "Description": "搜索一个守护者来进行比较"
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "比较",
+      "Description": "**{{a}}**拥有的记录和收藏品，而**{{b}}**没有。这个比较功能是基于实时数据的，因此可能与排行榜结果不一致。"
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "至少拥有{{number}}个凯旋记录的玩家",
+      "MinCollectionsScore": "至少拥有{{number}}收藏品分数的玩家",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "参与排名的玩家数",
+        "Info": "只有自最新DLC发布后玩过《命运》的玩家才会被排名。"
       },
       "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+        "Name": "被抓取过的玩家数",
+        "Info": "曾经访问过 Braytech 的玩家将会被抓取数据。"
       },
       "ScraperTimeRemaining": {
-        "Name": "🦘 Time until next rank",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+        "Name": "距离下次刷新还有",
+        "Info": "玩家会在每次定时更新任务完成后重新排名。"
       },
-      "RarestRecords": "🦘 Rarest Records",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestRecords": "最稀有的记录",
+      "RarestCollectibles": "最稀有的收藏品"
     }
   },
   "Legend": {
@@ -855,7 +855,7 @@
   },
   "GroupSearch": {
     "NoGroupsFound": "没有找到这个公会",
-    "SearchPlaceholder": "你确定没有拼错吗？"
+    "SearchPlaceholder": "请输入公会名称"
   },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
