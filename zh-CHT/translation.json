@@ -755,6 +755,8 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "無任何内容"
     },

@@ -755,6 +755,8 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "Списки Объектов + другое",
       "NoChecklistItems": "Ничего не найдено"
     },

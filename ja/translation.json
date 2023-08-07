@@ -755,6 +755,8 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "チェックリストとその他",
       "NoChecklistItems": "アイテムは検出されませんでした"
     },

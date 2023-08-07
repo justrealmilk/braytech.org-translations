@@ -755,6 +755,8 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "Listas de coleccionables y más",
       "NoChecklistItems": "No se han detectado elementos"
     },
