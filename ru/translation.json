@@ -470,8 +470,8 @@
     "ActiveScore": "Активный счёт",
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Очков триумфа",
-    "ActiveRecords": "🦘 Active Records",
-    "LegacyRecords": "🦘 Legacy Records",
+    "ActiveRecords": "Активные Записи",
+    "LegacyRecords": "Прошлые Записи",
     "Triumphs": "Триумфы",
     "Unknown": "Неизвестно",
     "Users": "Пользователи",
@@ -755,8 +755,8 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "Next": "🦘 Next: {{next}}",
+      "Rotations": "Ротации",
+      "Next": "Далее: {{next}}",
       "ChecklistsAndMore": "Списки Объектов + другое",
       "NoChecklistItems": "Ничего не найдено"
     },
