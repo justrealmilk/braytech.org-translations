@@ -756,6 +756,7 @@
   "Maps": {
     "Context": {
       "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
       "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "待办清单和更多",
       "NoChecklistItems": "无任何内容"

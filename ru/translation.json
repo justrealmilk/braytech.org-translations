@@ -756,6 +756,7 @@
   "Maps": {
     "Context": {
       "Rotations": "Ротации",
+      "PublicEvents": "🦘 Public Events",
       "Next": "Далее: {{next}}",
       "ChecklistsAndMore": "Списки Объектов + другое",
       "NoChecklistItems": "Ничего не найдено"
