@@ -822,18 +822,6 @@
       "Strike": "ストライク中に発見: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "ネットワークエラーが発生しました。これは一時的なエラーであり、ダイアログを閉じてから再試行することで解決できるかもしれません。",
-        "Name": "ネットワークエラー"
-      },
-      "PrivateProgression": {
-        "Description": "このプロフィールの進捗データは利用できません。Bungie.netでプロフィールが非公開に設定されている可能性があります。彼らは決してあなたをブロックしているわけではありません。",
-        "Name": "非公開のプロファイル"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
@@ -866,6 +854,10 @@
     "ChangeProfile": "プロファイルを変更",
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "非アクティブ検知対策（自動操作Bot）を使用していることが確認されました。",
         "Dickhead": "あなたに対し、とても失望しました",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
         "Name": "プライベートプロファイル"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",

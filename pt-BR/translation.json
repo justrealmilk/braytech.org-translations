@@ -822,18 +822,6 @@
       "Strike": "Encontrado no Assalto: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "Um erro de conexão ocorreu. Este é um erro temporário e pode ser resolvido ao dispensar este diálogo e tentar novamente.",
-        "Name": "Erro de Conexão"
-      },
-      "PrivateProgression": {
-        "Description": "Os dados deste perfil não estão disponíveis. Este perfil pode estar configurado como privado em Bungie.net. Certamente, não está tentado esconder nada.",
-        "Name": "Perfil Privado"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
@@ -866,6 +854,10 @@
     "ChangeProfile": "Mudar Perfil",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
         "Dickhead": "🦘 Dickhead.",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "Seu progresso de perfil não está disponível. Seu perfil pode estar configurado como privado em Bungie.net.\n\nVocê poderia mudar suas configurações de privacidade em Bungie.net ou autentiar Braytech com Bungie.net",
         "Name": "Perfil Privado"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",

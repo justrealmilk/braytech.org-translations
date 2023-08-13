@@ -822,18 +822,6 @@
       "Strike": "Trovato nel seguente Assalto: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "Si è verificato un errore di rete. Questo è un errore temporaneo e potrebbe risolversi chiudendo la finestra di dialogo e riprovando.",
-        "Name": "Errore di rete"
-      },
-      "PrivateProgression": {
-        "Description": "I dati di questo profilo non sono disponibili. Probabilmente il profilo è impostato come privato su Bungie.net. Di sicuro il proprietario non sta cercando di nascondere niente.",
-        "Name": "Profilo privato"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "A causa di inattività, l'aggiornamento dei dati in background è stato sospeso.\n\nInteragire con l'app riattiverà il servizio."
@@ -866,6 +854,10 @@
     "ChangeProfile": "Cambia profilo",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "È stato osservato l'utilizzo, da parte del giocatore, di meccanismi al fine di evitare le contromisure di rilevamento di inattività (botting).",
         "Dickhead": "Testadecazzo.",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "I dati del tuo profilo non sono disponibili. Il tuo profilo potrebbe essere stato impostato come privato su Bungie.net.\n\nPotresti cambiare le opzioni della privacy su Bungie.net oppure autenticare Braytech con Bungie.net",
         "Name": "Profilo privato"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "Sembra che tu sia nuovo da queste parti! Puoi iniziare andando su **Autentica** e accedendo a Bungie.net oppure puoi cercare il tuo nome Bungie e caricare il tuo profilo manualmente!",

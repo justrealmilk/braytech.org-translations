@@ -822,18 +822,6 @@
       "Strike": "공격전 {{string}} 에서 찾을 수 있습니다."
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "네트워크 오류가 발생했습니다. 이 오류는 메세지 창을 닫고 다시 시도하면 해결될 수 있는 임시 오류입니다.",
-        "Name": "네트워크 오류"
-      },
-      "PrivateProgression": {
-        "Description": "이 프로필의 진척도 데이터를 볼 수 없습니다. 그들이 Bungie.net에서 프로필을 비공개로 설정했을 수 있습니다. 그들이 절대 무언갈 숨기려고 하는건 아닙니다.",
-        "Name": "비공개 프로필"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
@@ -866,6 +854,10 @@
     "ChangeProfile": "프로필 변경",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
         "Dickhead": "🦘 Dickhead.",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "당신의 프로필 데이터를 사용할 수 없습니다. 당신의 프로필이 Bungie.net에서 비공개로 설정되어 있을 수 있습니다.\n\nBungie.net에서 개인정보 설정을 바꾸거나 Bungie.net에서 Braytech를 인증할 수 있습니다.",
         "Name": "비공개 프로필"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",

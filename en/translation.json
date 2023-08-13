@@ -822,18 +822,6 @@
       "Strike": "Found within Strike: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "Network Error"
-      },
-      "PrivateProgression": {
-        "Description": "This profile's progression data isn't available. Their profile may be set to private on Bungie.net. They're definitely not trying to hide anything.",
-        "Name": "Private Profile"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
@@ -866,6 +854,10 @@
     "ChangeProfile": "Change Profile",
     "CrossSaveProfile": "This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "Network Error"
+      },
       "Banned": {
         "Botting": "Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
         "Dickhead": "Dickhead.",
@@ -881,8 +873,12 @@
         "Name": "Profile Banned"
       },
       "PrivateProgression": {
-        "Description": "Your profile's progression data isn't available. Your profile may be set to private on Bungie.net.\n\nYou may change your privacy settings on Bungie.net or authenticate Braytech with Bungie.net",
+        "Description": "This profile's progression data isn't available. Their profile may be set to private on Bungie.net.\n\nProfile privacy settings can be changed on Bungie.net.",
         "Name": "Private Profile"
+      },
+      "NoCharacters": {
+        "Description": "This player hasn't created any characters yet!",
+        "Name": "No Characters"
       }
     },
     "GetStarted": "Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",

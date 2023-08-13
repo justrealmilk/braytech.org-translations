@@ -822,18 +822,6 @@
       "Strike": "Gefunden im Strike: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "Ein Netzwerkfehler ist aufgetreten. Dies ist ein vorübergehender Fehler, der behoben werden kann, indem der Dialog geschlossen wird und du es erneut versuchst.",
-        "Name": "Netzwerkfehler"
-      },
-      "PrivateProgression": {
-        "Description": "Der Fortschritt dieses Profils ist nicht verfügbar. Das Profil könnte auf Bungie.net auf privat gesetzt worden sein. _Das ist definitiv kein Versuch, etwas zu verbergen._",
-        "Name": "Privates Profil"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
@@ -866,6 +854,10 @@
     "ChangeProfile": "Profil wechseln",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "Der Spieler wurde dabei erwischt, wie er AFK-Erkennungen umgangen hat (Botting)",
         "Dickhead": "Schwachkopf.",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "Dein Profil-Fortschritt ist nicht verfügbar. Möglicherweise ist dein Profil auf Bungie.net auf privat gesetzt.\n\nDu musst möglicherweise deine privaten Einstellungen auf Bungie.net aktualisieren oder dich in Braytech neu autorisieren",
         "Name": "Privates Profil"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",

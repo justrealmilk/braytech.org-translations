@@ -822,18 +822,6 @@
       "Strike": "在日落打擊中發現: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "發生網絡錯誤.這是一個臨時錯誤，可以通過關閉對話框並重試來解決.",
-        "Name": "網路錯誤"
-      },
-      "PrivateProgression": {
-        "Description": "此配置文件的進度數據不可用。他們的個人資料可能在 Bungie.net 上設置為私有",
-        "Name": "私人資料"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
@@ -866,6 +854,10 @@
     "ChangeProfile": "更換檔案",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "觀察到玩家採用機制，以避免不活動檢測對策 (Botting).",
         "Dickhead": "傻逼",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "您的個人資料數據不可用，可能您的個人資料在Bungie.net上設定爲隱私\n\n您可以在Bungie.net上更改隱私設定或是通過以下方式對Braytech進行Bungie.net的身份驗證.",
         "Name": "隱私狀況"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",

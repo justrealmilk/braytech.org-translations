@@ -822,18 +822,6 @@
       "Strike": "在打击中发现：{{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "发生了一个网络错误。这是一个临时错误，也许可以通过关闭对话框再试一次来解决。",
-        "Name": "网络错误"
-      },
-      "PrivateProgression": {
-        "Description": "该个人资料的进度数据不可用。他们也许在 Bungie.net 上将个人资料设为了私密。他们肯定没有在试着藏着掖着什么。",
-        "Name": "私密个人资料"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
@@ -866,6 +854,10 @@
     "ChangeProfile": "更换档案",
     "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "侦测到玩家部署了避免被闲置检测的措施(机器人程序)",
         "Dickhead": "傻逼",
@@ -883,6 +875,10 @@
       "PrivateProgression": {
         "Description": "你的账户进程数据不可用。可能是因为你的账户在 Bungie.net 设置为私密。\n\n你可以在Bungie.net更改你的隐私设置，或者授权Braytech与Bungie.net连接。",
         "Name": "私密个人资料"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
