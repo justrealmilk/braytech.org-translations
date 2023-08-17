@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
-    "DIMSync": {
-      "Description": "🦘 This feature requires DIM Sync to function. Enable DIM Sync in _Settings_.",
-      "Name": "🦘 DIM Sync"
-    },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "🦘 Armor",
@@ -959,17 +955,6 @@
         "Name": "🦘 Push Notifications"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "🦘 Disable sync and delete stored DIM Sync authentication token."
-        },
-        "Enable": {
-          "Description": "🦘 Enable sync by exchanging your Bungie.net authentication token with DIM Sync."
-        }
-      },
-      "Info": "🦘 Sync your settings for loadouts and item tags with DIM."
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "🦘 Authentication",
-      "DIMSync": "🦘 DIM 동기화",
       "Developer": "🦘 Developer",
       "IDB": "🦘 Database Storage",
       "Interface": {

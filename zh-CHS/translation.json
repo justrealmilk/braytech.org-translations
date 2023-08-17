@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "从{{name}}获得"
     },
-    "DIMSync": {
-      "Description": "此功能需要 DIM Sync 才能运行。在设置中启用 DIM Sync",
-      "Name": "DIM Sync"
-    },
     "DiffProfile": "你正在查看他人的个人资料。该页面下的任意按钮点了不会有任何反应！",
     "Equipment": {
       "Armor": "护甲",
@@ -959,17 +955,6 @@
         "Name": "推送通知"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "关闭同步并删除保存的 DIM Sync 认证 Token"
-        },
-        "Enable": {
-          "Description": "通过与 DIM Sync 交换你的 Bungie.net 认证 Token 来启用同步"
-        }
-      },
-      "Info": "与 DIM 同步你对配装的设置"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "开始使用可能仍未开发完毕、改善或检查质量的特性。",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "授权",
-      "DIMSync": "DIM 同步",
       "Developer": "开发者选项",
       "IDB": "数据库存储",
       "Interface": {

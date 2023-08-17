@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "從{{name}}獲得"
     },
-    "DIMSync": {
-      "Description": "此功能需要 DIM Sync 才能運行.在設置中啟用同步.",
-      "Name": "DIM 同步"
-    },
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
     "Equipment": {
       "Armor": "護甲",
@@ -959,17 +955,6 @@
         "Name": "推送通知"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "禁用同步並刪除存儲的 DIM 同步身份驗證令牌."
-        },
-        "Enable": {
-          "Description": "通過與 DIM Sync 交換您的 Bungie.net 身份驗證令牌來啟用同步."
-        }
-      },
-      "Info": "將您的設置與 DIM 同步以進行加載."
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "開始使用可能仍未開發完畢，改善或檢查質量的特性",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "身份驗證",
-      "DIMSync": "DIM 同步",
       "Developer": "開發者模式",
       "IDB": "數據存儲",
       "Interface": {

@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "{{name}}から入手する"
     },
-    "DIMSync": {
-      "Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
-      "Name": "DIMと同期する"
-    },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Equipment": {
       "Armor": "防具",
@@ -959,17 +955,6 @@
         "Name": "プッシュ通知"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "同期を無効にし、保存されているDIM Syncの認証トークンを削除します。"
-        },
-        "Enable": {
-          "Description": "同期を有効にして、Bungie.net の認証トークンを DIM同期トークンと交換します。"
-        }
-      },
-      "Info": "DIMのロードアウトと設定を同期します。"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "まだ開発途中や、改良、品質チェックされていない可能性のある機能の使用する。",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "認証",
-      "DIMSync": "DIM Sync",
       "Developer": "開発者",
       "IDB": "データベース容量",
       "Interface": {

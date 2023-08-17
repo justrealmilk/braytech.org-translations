@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
-    "DIMSync": {
-      "Description": "이 기능을 사용하기 위해서는 DIM 동기화가 필요합니다. 설정에서 DIM 동기화를 활성화해주세요.",
-      "Name": "DIM 동기화"
-    },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "방어구",
@@ -959,17 +955,6 @@
         "Name": "알림"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "동기화를 비활성화하고 저장된 DIM 인증 토큰을 삭제합니다."
-        },
-        "Enable": {
-          "Description": "Bungie.net 인증 토큰을 DIM과 교환해 동기화를 활성화합니다."
-        }
-      },
-      "Info": "로드아웃 기능을 위해 DIM과 설정을 동기화합니다."
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "인증",
-      "DIMSync": "DIM 동기화",
       "Developer": "개발자",
       "IDB": "데이터베이스 저장소",
       "Interface": {

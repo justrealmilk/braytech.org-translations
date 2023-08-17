@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "Obter de {{name}}"
     },
-    "DIMSync": {
-      "Description": "Esta função requer uma sincronização com DIM para funcionar. Habilite Sincronização com DIM nas configurações.",
-      "Name": "Sincronização com DIM"
-    },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "Armadura",
@@ -959,17 +955,6 @@
         "Name": "Notificações"
       }
     },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "Desative a sincronização e exclua o token de autenticação de sincronização DIM armazenado."
-        },
-        "Enable": {
-          "Description": "Habilite a sincronização trocando seu token de autenticação Bungie.net com DIM Sync."
-        }
-      },
-      "Info": "Sincronize suas configurações com DIM para ver seus sets."
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "Comece a usar recursos que ainda não foram desenvolvidos, refinados ou verificados adequadamente.",
@@ -1157,7 +1142,6 @@
     },
     "SubCategory": {
       "Authentication": "Autenticação",
-      "DIMSync": "Sincronização DIM",
       "Developer": "Desenvolvedor",
       "IDB": "Utilização de Armazenamento",
       "Interface": {
