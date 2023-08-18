@@ -1091,7 +1091,7 @@
       }
     },
     "Profile": {
-      "Info": "🦘 Braytech makes it easy to view many player profiles at once, but it remembers the last profile you selected from [Profile Search](/profile-search).",
+      "Info": "🦘 Braytech makes it easy to view many player profiles, but it remembers the last profile you selected from [Profile Search](/profile-search).",
       "NoProfileSelected": "🦘 Select a profile"
     },
     "PushNotifications": {
