@@ -262,9 +262,9 @@
     "ClanTimetable": "Calendrier",
     "Founded": "Fondé le {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Les statistiques historiques sont destinées à être utilisées sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1024px`."
     },
-    "HistoricalStatsLoading": "Chargement des statistiques historiques",
     "Members": "{{number}} Membres",
     "MembersLoading": "Chargement de {{name}} membres",
     "NoClan": {
@@ -272,11 +272,16 @@
       "Name": "Pas de clan rejoint"
     },
     "Relationships": {
-      "BestFriends": "Meilleurs amis",
       "Description": "Découvrez les opportunités manquées et les amours secrets. Ces Gardiens sont ceux avec qui vous faites le plus d'activités. Chérissez-vous les uns les autres.\n\nCes Gardiens sont les membres de votre clan et ce classement est réinitialisé à chaque nouvelle saison.",
       "Name": "Relations",
+      "BestFriends": "Meilleurs amis",
+      "RomanticPartnerships": "Partenariats romantiques",
+      "UndiscoveredFriends": "Amis méconnus",
       "NoFriends": "Vous n'êtes pas seul - vous vous ferez éventuellement un ami... Invitez un ami du clan à sortir pour quelques activités!",
       "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, gardien!",
+      "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -286,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "Partenariats romantiques",
-      "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "Amis méconnus"
+      }
     },
     "RewardEngrams": "Engramme de récompense",
     "Roster": {

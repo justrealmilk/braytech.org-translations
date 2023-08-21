@@ -262,9 +262,9 @@
     "ClanTimetable": "Timetable",
     "Founded": "Fundado {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
     },
-    "HistoricalStatsLoading": "🦘 Loading historical stats",
     "Members": "{{number}} Membros",
     "MembersLoading": "🦘 Loading {{name}} members",
     "NoClan": {
@@ -272,11 +272,16 @@
       "Name": "Sem afiliação de clã"
     },
     "Relationships": {
-      "BestFriends": "Melhores Amigos",
       "Description": "Descubra oportunidades perdidas e amantes secretos. Estes Guardiões são aqueles com quem você joga a maioria das atividades. Amem-se um ao outro.\n\nEstes Guardiões são seus membros do clã e este ranking reinicia cada nova temporada.",
       "Name": "Parcerias",
+      "BestFriends": "Melhores Amigos",
+      "RomanticPartnerships": "Parcerias românticas",
+      "UndiscoveredFriends": "🦘 Undiscovered Friends",
       "NoFriends": "Você não está sozinho-você fará um amigo eventualmente... Convide um amigo do clã para algumas atividades!",
       "NoParters": "Ninguém falou que namorar era fácil. De volta a luta, Guardião!",
+      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -286,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "Parcerias românticas",
-      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "🦘 Undiscovered Friends"
+      }
     },
     "RewardEngrams": "Recompensas de Engrama",
     "Roster": {

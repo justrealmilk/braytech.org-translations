@@ -262,9 +262,9 @@
     "ClanTimetable": "Calendario",
     "Founded": "Fundado el {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
     },
-    "HistoricalStatsLoading": "Cargando estadísticas históricas",
     "Members": "{{number}} miembros",
     "MembersLoading": "Cargando miembros de {{name}}",
     "NoClan": {
@@ -272,11 +272,16 @@
       "Name": "Sin afiliación a clan"
     },
     "Relationships": {
-      "BestFriends": "Mejores amigos",
       "Description": "Descubre oportunidades perdidas y amantes secretos. Estos Guardianes son aquellos con los que juegas más actividades. Apreciaos el uno al otro.\n\nEstos Guardianes son los miembros de tu clan y esta clasificación se restablece con cada nueva temporada.",
       "Name": "Relaciones",
+      "BestFriends": "Mejores amigos",
+      "RomanticPartnerships": "Relaciones románticas",
+      "UndiscoveredFriends": "Amigos sin descubrir",
       "NoFriends": "No estás solo; al final harás un amigo... ¡Invita a un compañero del clan a pasar el rato con un par de actividades!",
       "NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
+      "SocialButterfly": "¡Te relacionas muy bien! Jugaste con todos esta temporada.",
+      "TopFireteams": "Mejores {{number}} composiciones de escuadra",
+      "TopFriends": "Mejores {{number}} amigos por actividades jugadas",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "Carga únicamente actividades de la temporada actual.",
@@ -286,12 +291,7 @@
           "Description": "Filtra los encuentros y las escuadras para que solo incluyan a miembros de tu clan.",
           "Name": "Miembros del clan"
         }
-      },
-      "RomanticPartnerships": "Relaciones románticas",
-      "SocialButterfly": "¡Te relacionas muy bien! Jugaste con todos esta temporada.",
-      "TopFireteams": "Mejores {{number}} composiciones de escuadra",
-      "TopFriends": "Mejores {{number}} amigos por actividades jugadas",
-      "UndiscoveredFriends": "Amigos sin descubrir"
+      }
     },
     "RewardEngrams": "Engramas de recompensa",
     "Roster": {

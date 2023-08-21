@@ -262,9 +262,9 @@
     "ClanTimetable": "时间安排",
     "Founded": "创建于{{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "历史数据只能在分辨率更大的窗口使用，请保证您当前窗口分辨率宽度大于或等于 `1024 像素` 。"
     },
-    "HistoricalStatsLoading": "正在加载历史统计数据",
     "Members": "{{number}} 成员",
     "MembersLoading": "正在加载公会 {{name}} 成员信息",
     "NoClan": {
@@ -272,11 +272,16 @@
       "Name": "暂无所属公会"
     },
     "Relationships": {
-      "BestFriends": "好朋友",
       "Description": "发掘错失的机会或爱人。这些是和你进行过最多活动的守护者们。珍惜彼此吧。\n\n这些守护者是你的公会成员，这项排名每赛季都会重置。",
       "Name": "关系",
+      "BestFriends": "好朋友",
+      "RomanticPartnerships": "情同手足",
+      "UndiscoveredFriends": "未能发现的朋友",
       "NoFriends": "你并不孤单！你迟早会找到朋友的…… 邀请你的公会伙伴一同游玩吧！",
       "NoParters": "约会很容易？没听说过。回去继续战斗吧，守护者！",
+      "SocialButterfly": "你真是个交际花！你在本赛季已经跟所有公会成员都一起玩过了。",
+      "TopFireteams": "前 {{number}}个玩得最多的火力战队成员",
+      "TopFriends": "前 {{number}} 个玩得最多的朋友",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "只加载当前赛季的活动",
@@ -286,12 +291,7 @@
           "Description": "将搜索范围限制为仅包含公会成员。",
           "Name": "公会成员"
         }
-      },
-      "RomanticPartnerships": "情同手足",
-      "SocialButterfly": "你真是个交际花！你在本赛季已经跟所有公会成员都一起玩过了。",
-      "TopFireteams": "前 {{number}}个玩得最多的火力战队成员",
-      "TopFriends": "前 {{number}} 个玩得最多的朋友",
-      "UndiscoveredFriends": "未能发现的朋友"
+      }
     },
     "RewardEngrams": "公会奖励记忆水晶",
     "Roster": {
