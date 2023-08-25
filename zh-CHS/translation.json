@@ -525,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "欢迎使用 Braytech！在开始使用之前，这里有些需要注意的小贴士。\n\n如果你有任何反馈或问题，可以在 Discord 上和我聊聊，或者你也可以去看看FAQ！",
-      "Name": "入门",
-      "SubName": "克洛维斯布瑞科技"
+      "Name": "入门"
     },
     "Tips": {
       "Search": {

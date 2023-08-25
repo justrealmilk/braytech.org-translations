@@ -525,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "Braytechへようこそ! 始める前にtipsを見ることをお勧めします。\n\nフィードバックや質問があれば、Discordで質問したりFAQを参照してみてください!",
-      "Name": "使い方",
-      "SubName": "クロビス・ブレイ テクノロジーズ"
+      "Name": "使い方"
     },
     "Tips": {
       "Search": {

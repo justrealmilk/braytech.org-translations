@@ -524,9 +524,8 @@
   },
   "GettingStarted": {
     "Header": {
-      "Description": "Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on Discord or you can check out the FAQ!",
-      "Name": "Getting Started",
-      "SubName": "Clovis Bray Technologies"
+      "Description": "Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on [Discord](https://discord.bray.tech) or you can check out the [FAQ](/addendums/faq)!",
+      "Name": "Getting Started"
     },
     "Tips": {
       "Search": {
