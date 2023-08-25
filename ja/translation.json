@@ -200,7 +200,7 @@
       "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
       "Name": "連携したアカウント"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "patron専用の機能です。いくつかの機能は支援者による援助で実現できたものもあります。詳細は[https://patreon.com/braytech](https://patreon.com/braytech)をご覧ください。",
     "PatreonAssociation": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
       "Name": "Patreon認証",
@@ -367,7 +367,7 @@
     "Challenge": "チャレンジ",
     "Challenge_plural": "チャレンジ",
     "Character": "キャラクター",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "CharacterClass": "キャラクタークラス",
     "CharacterLight": "キャラクターの光",
     "CharacterSpecific": "Braytechの他機能と同様、このページは選択中のキャラのデータとなります。",
@@ -426,7 +426,7 @@
     "NothingHereYet": "まだ何も無いようです",
     "Objectives": "達成状況",
     "Offline": "オフライン",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "支援者",
     "Player": "プレイヤー",
     "Preview": "プレビュー",
@@ -628,49 +628,49 @@
   },
   "Leaderboards": {
     "Rank": "ランク",
-    "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
+    "Global": "全世界ランキング",
+    "Statistics": "統計データ",
     "ActiveScore": "アクティブな勝利の道のりスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
     "CollectionsScore": "コレクションスコア",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "NoDifference": "🦘 No Difference",
+    "Unranked": "このリーダーボードは最新データでランキングされています。数分ごとに更新されます。",
+    "UnrankedMember": "このプレイヤーはまだランキングされていません。キューに追加されました。",
+    "UnrankedGroup": "クラン内にはランクインしたメンバーはまだいません。",
+    "NoDifference": "変更なし",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "プレイヤー",
+      "Description": "プレイヤーのランクを見ることができます"
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "クラン検索",
+      "Description": "クランを検索し、所属メンバーのランキングを見れます。"
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "ガーディアン検索",
+      "Description": "友人やライバルとのスコアを比べるがいい"
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "比較",
+      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nこの比較機能は最新のライブデータに基づいているため、現在のリーダーボードランキングと矛盾する可能性があります。"
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "アクティブスコアで {{number}} 点以上に到達しているプレイヤー数",
+      "MinCollectionsScore": "コレクションスコアで {{number}} 点以上に到達しているプレイヤー数",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "プレイヤー数",
+        "Info": "最新DLCのリリース日以降Destinyをプレイしたプレイヤーのみがカウントされています。"
       },
       "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+        "Name": "Braytech利用者",
+        "Info": "これまでにBraytechを利用したユーザー数"
       },
       "ScraperTimeRemaining": {
-        "Name": "🦘 Time until next rank",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+        "Name": "次のランキング発表までの時間",
+        "Info": "プレイヤー順位は、定期的なサーバー更新タイミング合わせて変動します。"
       },
-      "RarestRecords": "🦘 Rarest Records",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestRecords": "最も貴重な記録",
+      "RarestCollectibles": "最もレアなコレクション"
     }
   },
   "Legend": {
@@ -841,8 +841,8 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "クランが見つかりません",
+    "SearchPlaceholder": "正確なクラン名を入力してください"
   },
   "ProfileSearch": {
     "ActiveProfile": "アクティブプロファイル",
@@ -1385,7 +1385,7 @@
       "RewardResearcher": "Patreonのリサーチャーランクの方にはクロビス・ブレイのメダルアンロックされます",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
+      "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。"
     },
     "Profile": {
       "Action": "キャラクターを選ぶ",
