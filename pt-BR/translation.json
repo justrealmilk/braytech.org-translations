@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Suas configurações não puderam ser excluídas dessa vez. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram excluídas. Sincronização foi desativada."
-      }
+      "Failure": "Suas configurações não puderam ser excluídas dessa vez. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram excluídas. Sincronização foi desativada."
     },
     "Merge": {
-      "Failure": {
-        "Description": "Um erro ocorreu durante a mescalgem das suas configurações. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram mescladas."
-      }
+      "Failure": "Um erro ocorreu durante a mescalgem das suas configurações. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram mescladas."
     },
     "Sync": {
-      "Failure": {
-        "Description": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram sincronizadas."
-      }
+      "Failure": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram sincronizadas."
     }
   },
   "Tooltip": {

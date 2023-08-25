@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Deine Einstellungen können derzeit nicht gelöscht werden. Dieser Fehler ist temporär."
-      },
-      "Success": {
-        "Description": "Deine Einstellungen wurden gelöscht. Die Synchronisierung ist jetzt deaktiviert."
-      }
+      "Failure": "Deine Einstellungen können derzeit nicht gelöscht werden. Dieser Fehler ist temporär.",
+      "Success": "Deine Einstellungen wurden gelöscht. Die Synchronisierung ist jetzt deaktiviert."
     },
     "Merge": {
-      "Failure": {
-        "Description": "Während der Zusammenführung der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär."
-      },
-      "Success": {
-        "Description": "Deine Einstellungen wurden zusammengeführt."
-      }
+      "Failure": "Während der Zusammenführung der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär.",
+      "Success": "Deine Einstellungen wurden zusammengeführt."
     },
     "Sync": {
-      "Failure": {
-        "Description": "Während der Synchronisation der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär."
-      },
-      "Success": {
-        "Description": "Deine Einstellungen wurden synchronisiert."
-      }
+      "Failure": "Während der Synchronisation der Einstellungen trat ein Fehler auf. Dieser Fehler ist temporär.",
+      "Success": "Deine Einstellungen wurden synchronisiert."
     }
   },
   "Tooltip": {

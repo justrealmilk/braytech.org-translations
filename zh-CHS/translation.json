@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "你的设置现在无法被删除。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置也别删除。同步已被关闭。"
-      }
+      "Failure": "你的设置现在无法被删除。这是一个临时错误。",
+      "Success": "你的设置也别删除。同步已被关闭。"
     },
     "Merge": {
-      "Failure": {
-        "Description": "尝试合并你的设置项时出现了错误。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置已成功合并"
-      }
+      "Failure": "尝试合并你的设置项时出现了错误。这是一个临时错误。",
+      "Success": "你的设置已成功合并"
     },
     "Sync": {
-      "Failure": {
-        "Description": "尝试同步你的设置项时出现了错误。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置已成功同步"
-      }
+      "Failure": "尝试同步你的设置项时出现了错误。这是一个临时错误。",
+      "Success": "你的设置已成功同步"
     }
   },
   "Tooltip": {

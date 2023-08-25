@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Tus ajustes no pueden ser borrados en este momento. Esto es un fallo temporal."
-      },
-      "Success": {
-        "Description": "Tus ajustes fueron borrados. La sincronización está ahora desactivada."
-      }
+      "Failure": "Tus ajustes no pueden ser borrados en este momento. Esto es un fallo temporal.",
+      "Success": "Tus ajustes fueron borrados. La sincronización está ahora desactivada."
     },
     "Merge": {
-      "Failure": {
-        "Description": "Al tratar de fusionar tus ajustes, se produjo un error. Es un fallo temporal."
-      },
-      "Success": {
-        "Description": "Tus ajustes se fusionaron."
-      }
+      "Failure": "Al tratar de fusionar tus ajustes, se produjo un error. Es un fallo temporal.",
+      "Success": "Tus ajustes se fusionaron."
     },
     "Sync": {
-      "Failure": {
-        "Description": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal."
-      },
-      "Success": {
-        "Description": "Tus ajustes se sincronizaron."
-      }
+      "Failure": "Al tratar de sincronizar tus ajustes, se produjo un error. Es un fallo temporal.",
+      "Success": "Tus ajustes se sincronizaron."
     }
   },
   "Tooltip": {

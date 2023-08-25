@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "설정을 삭제할 수 없습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
-      }
+      "Failure": "설정을 삭제할 수 없습니다. 일시적인 오류입니다.",
+      "Success": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
     },
     "Merge": {
-      "Failure": {
-        "Description": "설정 병합 중 오류가 발생했습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 병합되었습니다."
-      }
+      "Failure": "설정 병합 중 오류가 발생했습니다. 일시적인 오류입니다.",
+      "Success": "설정이 병합되었습니다."
     },
     "Sync": {
-      "Failure": {
-        "Description": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 동기화되었습니다."
-      }
+      "Failure": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다.",
+      "Success": "설정이 동기화되었습니다."
     }
   },
   "Tooltip": {

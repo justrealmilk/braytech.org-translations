@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "目前無法刪除您的設置這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "您的設置已被刪除現在已禁用同步."
-      }
+      "Failure": "目前無法刪除您的設置這是一個臨時故障.",
+      "Success": "您的設置已被刪除現在已禁用同步."
     },
     "Merge": {
-      "Failure": {
-        "Description": "嘗試合併您的設置時出現錯誤.這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "你的設定已成功合并."
-      }
+      "Failure": "嘗試合併您的設置時出現錯誤.這是一個臨時故障.",
+      "Success": "你的設定已成功合并."
     },
     "Sync": {
-      "Failure": {
-        "Description": "嘗試同步您的設置時出現錯誤.這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "你的設定已成功合并."
-      }
+      "Failure": "嘗試同步您的設置時出現錯誤.這是一個臨時故障.",
+      "Success": "你的設定已成功合并."
     }
   },
   "Tooltip": {

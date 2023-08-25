@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "🦘 Your settings could not be deleted at this time. This is a temporary failure."
-      },
-      "Success": {
-        "Description": "🦘 Your settings have been deleted. Sync is now disabled."
-      }
+      "Failure": "🦘 Your settings could not be deleted at this time. This is a temporary failure.",
+      "Success": "🦘 Your settings have been deleted. Sync is now disabled."
     },
     "Merge": {
-      "Failure": {
-        "Description": "🦘 While trying to merge your settings, there was an error. This is a temporary failure."
-      },
-      "Success": {
-        "Description": "🦘 Your settings have been merged."
-      }
+      "Failure": "🦘 While trying to merge your settings, there was an error. This is a temporary failure.",
+      "Success": "🦘 Your settings have been merged."
     },
     "Sync": {
-      "Failure": {
-        "Description": "🦘 While trying to sync your settings, there was an error. This is a temporary failure."
-      },
-      "Success": {
-        "Description": "🦘 Your settings have been synced."
-      }
+      "Failure": "🦘 While trying to sync your settings, there was an error. This is a temporary failure.",
+      "Success": "🦘 Your settings have been synced."
     }
   },
   "Tooltip": {

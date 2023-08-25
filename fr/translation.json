@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Vos paramètres n'ont pas pu être supprimés pour le moment. Il s'agit d'un échec temporaire."
-      },
-      "Success": {
-        "Description": "Vos paramètres ont été supprimés. La synchronisation est maintenant désactivée."
-      }
+      "Failure": "Vos paramètres n'ont pas pu être supprimés pour le moment. Il s'agit d'un échec temporaire.",
+      "Success": "Vos paramètres ont été supprimés. La synchronisation est maintenant désactivée."
     },
     "Merge": {
-      "Failure": {
-        "Description": "En essayant de fusionner vos paramètres, il y a eu une erreur. Il s'agit d'un échec temporaire."
-      },
-      "Success": {
-        "Description": "Vos paramètres ont été fusionnés."
-      }
+      "Failure": "En essayant de fusionner vos paramètres, il y a eu une erreur. Il s'agit d'un échec temporaire.",
+      "Success": "Vos paramètres ont été fusionnés."
     },
     "Sync": {
-      "Failure": {
-        "Description": "En essayant de synchroniser vos paramètres, il y a eu une erreur. Il s'agit d'une défaillance temporaire."
-      },
-      "Success": {
-        "Description": "Vos réglages ont été synchronisés."
-      }
+      "Failure": "En essayant de synchroniser vos paramètres, il y a eu une erreur. Il s'agit d'une défaillance temporaire.",
+      "Success": "Vos réglages ont été synchronisés."
     }
   },
   "Tooltip": {

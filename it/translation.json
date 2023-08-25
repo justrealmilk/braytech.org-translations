@@ -1230,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Non è stato possibile eliminare le tue impostazioni al momento. Questo è un errore temporaneo."
-      },
-      "Success": {
-        "Description": "Le tue impostazioni sono state eliminate. La sincronizzazione è stata disattivata."
-      }
+      "Failure": "Non è stato possibile eliminare le tue impostazioni al momento. Questo è un errore temporaneo.",
+      "Success": "Le tue impostazioni sono state eliminate. La sincronizzazione è stata disattivata."
     },
     "Merge": {
-      "Failure": {
-        "Description": "Non è stato possibile aggiornare le tue impostazioni. Questo è un errore temporaneo."
-      },
-      "Success": {
-        "Description": "Le tue impostazioni sono state aggiornate."
-      }
+      "Failure": "Non è stato possibile aggiornare le tue impostazioni. Questo è un errore temporaneo.",
+      "Success": "Le tue impostazioni sono state aggiornate."
     },
     "Sync": {
-      "Failure": {
-        "Description": "Non è stato possibile sincronizzare le tue impostazioni. Questo è un errore temporaneo."
-      },
-      "Success": {
-        "Description": "Le tue impostazioni sono state sincronizzate."
-      }
+      "Failure": "Non è stato possibile sincronizzare le tue impostazioni. Questo è un errore temporaneo.",
+      "Success": "Le tue impostazioni sono state sincronizzate."
     }
   },
   "Tooltip": {
