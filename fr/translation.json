@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "Obtenu depuis {{name}}"
     },
-    "DIMSync": {
-      "Description": "Cette fonction nécessite la synchronisation avec DIM pour fonctionner. Activez la synchronisation avec Dim dans les _Paramètres_.",
-      "Name": "Synchronisation DIM "
-    },
     "DiffProfile": "Vous consultez le profil de quelqu'un d'autre. Vous pouvez regarder mais si vous essayez de pousser des boutons, n'attendez pas de résultats !",
     "Equipment": {
       "Armor": "Armures",
@@ -266,9 +262,9 @@
     "ClanTimetable": "Calendrier",
     "Founded": "Fondé le {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Les statistiques historiques sont destinées à être utilisées sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1024px`."
     },
-    "HistoricalStatsLoading": "Chargement des statistiques historiques",
     "Members": "{{number}} Membres",
     "MembersLoading": "Chargement de {{name}} membres",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "Pas de clan rejoint"
     },
     "Relationships": {
-      "BestFriends": "Meilleurs amis",
       "Description": "Découvrez les opportunités manquées et les amours secrets. Ces Gardiens sont ceux avec qui vous faites le plus d'activités. Chérissez-vous les uns les autres.\n\nCes Gardiens sont les membres de votre clan et ce classement est réinitialisé à chaque nouvelle saison.",
       "Name": "Relations",
+      "BestFriends": "Meilleurs amis",
+      "RomanticPartnerships": "Partenariats romantiques",
+      "UndiscoveredFriends": "Amis méconnus",
       "NoFriends": "Vous n'êtes pas seul - vous vous ferez éventuellement un ami... Invitez un ami du clan à sortir pour quelques activités!",
       "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, gardien!",
+      "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -290,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "Partenariats romantiques",
-      "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "Amis méconnus"
+      }
     },
     "RewardEngrams": "Engramme de récompense",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "Activer",
     "Active": "Actif",
     "ActiveModifiers": "Modificateurs actifs",
-    "ActiveScore": "🦘 Active Score",
     "Activity": "Activité",
     "ActivityBonus": "Bonus d'activité",
     "ActivityMembers": "Membres d'activité",
@@ -419,7 +414,6 @@
     "Inventory": "Inventaire",
     "ItemRolls": "Attributs",
     "Items": "Objets",
-    "LegacyScore": "🦘 Legacy Score",
     "LevelNth": "Niveau {{number}}",
     "Location": "Position",
     "Lore": "Légende",
@@ -469,7 +463,11 @@
     "Translator_plural": "Traducteurs",
     "TrialsPassage": "Passage du Jugement",
     "TrialsPoints": "Points du Jugement",
+    "ActiveScore": "🦘 Active Score",
+    "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "Score de triomphe",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "Triomphes",
     "Unknown": "Inconnu",
     "Users": "Utilisateurs",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "Bienvenue chez Braytech ! Avant de vous lancer, j'ai quelques conseils pratiques à vous donner.\n\nSi vous avez des commentaires ou des questions, nous pouvons discuter sur Discord ou vous pouvez consulter la FAQ !",
-      "Name": "Pour commencer",
-      "SubName": "Technologies Clovis Bray"
+      "Name": "Pour commencer"
     },
     "Tips": {
       "Search": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "Aucun objet détecté"
     },
@@ -817,18 +817,6 @@
       "Strike": "Trouvé dans l'assaut: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "Une erreur réseau s'est produite. Il s'agit d'une erreur temporaire qui peut être résolue en fermant le dialogue et en essayant à nouveau.",
-        "Name": "Erreur réseau"
-      },
-      "PrivateProgression": {
-        "Description": "Les données de progression de ce profil ne sont pas disponibles. Leur profil est peut être défini comme privé sur Bungie.net. Ils n'essaient certainement pas de cacher quoi que ce soit.",
-        "Name": "Profil privé"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
@@ -861,6 +849,10 @@
     "ChangeProfile": "Changer de profil",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "Un joueur a été observé en train d'utiliser des mécanismes pour éviter les contre-mesures de détection d'inactivité (botting).",
         "Dickhead": "Tête de noœud.",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "Les données de progression de votre profil ne sont pas disponibles. Votre profil est peut être défini comme privé sur Bungie.net.\n\nVous pouvez modifier vos paramètres de confidentialité sur Bungie.net ou authentifier Braytech avec Bungie.net",
         "Name": "Profil privé"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "Il semblerait que tu sois nouveau ici ! Tu peux commencer en appuyant sur **Authenticate** et en te connectant sur Bungie.net ou tu peux rechercher ton nom Bungie et charger ton profil manuellement !",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "Notifications 'Push'"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "Désactivez la synchronisation et supprimez le jeton d'authentification de 'DIM Sync' stocké."
-        },
-        "Enable": {
-          "Description": "Activez la synchronisation en échangeant votre jeton d'authentification Bungie.net avec 'DIM Sync'."
-        }
-      },
-      "Info": "Synchronisez vos paramètres avec DIM pour les chargements."
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "Authentification",
-      "DIMSync": "Synchronisation DIM",
       "Developer": "Développeur",
       "IDB": "Stockage de la base de données",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Vos paramètres n'ont pas pu être supprimés pour le moment. Il s'agit d'un échec temporaire."
-      },
-      "Success": {
-        "Description": "Vos paramètres ont été supprimés. La synchronisation est maintenant désactivée."
-      }
+      "Failure": "Vos paramètres n'ont pas pu être supprimés pour le moment. Il s'agit d'un échec temporaire.",
+      "Success": "Vos paramètres ont été supprimés. La synchronisation est maintenant désactivée."
     },
     "Merge": {
-      "Failure": {
-        "Description": "En essayant de fusionner vos paramètres, il y a eu une erreur. Il s'agit d'un échec temporaire."
-      },
-      "Success": {
-        "Description": "Vos paramètres ont été fusionnés."
-      }
+      "Failure": "En essayant de fusionner vos paramètres, il y a eu une erreur. Il s'agit d'un échec temporaire.",
+      "Success": "Vos paramètres ont été fusionnés."
     },
     "Sync": {
-      "Failure": {
-        "Description": "En essayant de synchroniser vos paramètres, il y a eu une erreur. Il s'agit d'une défaillance temporaire."
-      },
-      "Success": {
-        "Description": "Vos réglages ont été synchronisés."
-      }
+      "Failure": "En essayant de synchroniser vos paramètres, il y a eu une erreur. Il s'agit d'une défaillance temporaire.",
+      "Success": "Vos réglages ont été synchronisés."
     }
   },
   "Tooltip": {

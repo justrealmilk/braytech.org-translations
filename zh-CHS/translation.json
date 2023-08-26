@@ -200,7 +200,7 @@
       "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
       "Name": "已关联的平台账号"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "这是一项仅 Patron订阅者 可用的付费功能，一些功能的开销较大，只有在Patron赞助的情况下才有可能维持运营。在[Patreon.com/braytech](https://patreon.com/braytech)上加入我们。",
     "PatreonAssociation": {
       "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
       "Name": "关联 Patreon 账号",
@@ -221,10 +221,6 @@
     },
     "Compare": {
       "ObtainFromVendor": "从{{name}}获得"
-    },
-    "DIMSync": {
-      "Description": "此功能需要 DIM Sync 才能运行。在设置中启用 DIM Sync",
-      "Name": "DIM Sync"
     },
     "DiffProfile": "你正在查看他人的个人资料。该页面下的任意按钮点了不会有任何反应！",
     "Equipment": {
@@ -266,9 +262,9 @@
     "ClanTimetable": "时间安排",
     "Founded": "创建于{{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "历史数据只能在分辨率更大的窗口使用，请保证您当前窗口分辨率宽度大于或等于 `1024 像素` 。"
     },
-    "HistoricalStatsLoading": "正在加载历史统计数据",
     "Members": "{{number}} 成员",
     "MembersLoading": "正在加载公会 {{name}} 成员信息",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "暂无所属公会"
     },
     "Relationships": {
-      "BestFriends": "好朋友",
       "Description": "发掘错失的机会或爱人。这些是和你进行过最多活动的守护者们。珍惜彼此吧。\n\n这些守护者是你的公会成员，这项排名每赛季都会重置。",
       "Name": "关系",
+      "BestFriends": "好朋友",
+      "RomanticPartnerships": "情同手足",
+      "UndiscoveredFriends": "未能发现的朋友",
       "NoFriends": "你并不孤单！你迟早会找到朋友的…… 邀请你的公会伙伴一同游玩吧！",
       "NoParters": "约会很容易？没听说过。回去继续战斗吧，守护者！",
+      "SocialButterfly": "你真是个交际花！你在本赛季已经跟所有公会成员都一起玩过了。",
+      "TopFireteams": "前 {{number}}个玩得最多的火力战队成员",
+      "TopFriends": "前 {{number}} 个玩得最多的朋友",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "只加载当前赛季的活动",
@@ -290,12 +291,7 @@
           "Description": "将搜索范围限制为仅包含公会成员。",
           "Name": "公会成员"
         }
-      },
-      "RomanticPartnerships": "情同手足",
-      "SocialButterfly": "你真是个交际花！你在本赛季已经跟所有公会成员都一起玩过了。",
-      "TopFireteams": "前 {{number}}个玩得最多的火力战队成员",
-      "TopFriends": "前 {{number}} 个玩得最多的朋友",
-      "UndiscoveredFriends": "未能发现的朋友"
+      }
     },
     "RewardEngrams": "公会奖励记忆水晶",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "激活",
     "Active": "激活",
     "ActiveModifiers": "激活的修改器",
-    "ActiveScore": "凯旋记录",
     "Activity": "活动",
     "ActivityBonus": "轮换活动加成",
     "ActivityMembers": "活动成员",
@@ -419,7 +414,6 @@
     "Inventory": "库存",
     "ItemRolls": "物品特性",
     "Items": "物品",
-    "LegacyScore": "传承分数",
     "LevelNth": "Lv.{{number}}",
     "Location": "位置",
     "Lore": "传说故事",
@@ -432,7 +426,7 @@
     "NothingHereYet": "这里还什么都没有",
     "Objectives": "目标",
     "Offline": "离线",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "赞助人",
     "Player": "玩家",
     "Preview": "预览",
@@ -469,7 +463,11 @@
     "Translator_plural": "译者",
     "TrialsPassage": "试炼门票",
     "TrialsPoints": "试炼分数",
+    "ActiveScore": "凯旋记录",
+    "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "成就",
     "Unknown": "未知",
     "Users": "用户",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "欢迎使用 Braytech！在开始使用之前，这里有些需要注意的小贴士。\n\n如果你有任何反馈或问题，可以在 Discord 上和我聊聊，或者你也可以去看看FAQ！",
-      "Name": "入门",
-      "SubName": "克洛维斯布瑞科技"
+      "Name": "入门"
     },
     "Tips": {
       "Search": {
@@ -630,8 +627,8 @@
   },
   "Leaderboards": {
     "Rank": "排行榜",
-    "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
+    "Global": "全球",
+    "Statistics": "统计",
     "ActiveScore": "凯旋记录",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
@@ -639,7 +636,7 @@
     "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
-    "NoDifference": "🦘 No Difference",
+    "NoDifference": "没有什么不同",
     "ActiveProfile": {
       "Name": "你",
       "Description": "选择一个资料来查看你的排行榜。"
@@ -653,26 +650,26 @@
       "Description": "搜索一个守护者来进行比较"
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "比较",
+      "Description": "**{{a}}**拥有的记录和收藏品，而**{{b}}**没有。这个比较功能是基于实时数据的，因此可能与排行榜结果不一致。"
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "至少拥有{{number}}个凯旋记录的玩家",
+      "MinCollectionsScore": "至少拥有{{number}}收藏品分数的玩家",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "参与排名的玩家数",
+        "Info": "只有自最新DLC发布后玩过《命运》的玩家才会被排名。"
       },
       "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+        "Name": "被抓取过的玩家数",
+        "Info": "曾经访问过 Braytech 的玩家将会被抓取数据。"
       },
       "ScraperTimeRemaining": {
-        "Name": "🦘 Time until next rank",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+        "Name": "距离下次刷新还有",
+        "Info": "玩家会在每次定时更新任务完成后重新排名。"
       },
-      "RarestRecords": "🦘 Rarest Records",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestRecords": "最稀有的记录",
+      "RarestCollectibles": "最稀有的收藏品"
     }
   },
   "Legend": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "待办清单和更多",
       "NoChecklistItems": "无任何内容"
     },
@@ -817,18 +817,6 @@
       "Strike": "在打击中发现：{{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "发生了一个网络错误。这是一个临时错误，也许可以通过关闭对话框再试一次来解决。",
-        "Name": "网络错误"
-      },
-      "PrivateProgression": {
-        "Description": "该个人资料的进度数据不可用。他们也许在 Bungie.net 上将个人资料设为了私密。他们肯定没有在试着藏着掖着什么。",
-        "Name": "私密个人资料"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
@@ -853,7 +841,7 @@
   },
   "GroupSearch": {
     "NoGroupsFound": "没有找到这个公会",
-    "SearchPlaceholder": "你确定没有拼错吗？"
+    "SearchPlaceholder": "请输入公会名称"
   },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
@@ -861,6 +849,10 @@
     "ChangeProfile": "更换档案",
     "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "侦测到玩家部署了避免被闲置检测的措施(机器人程序)",
         "Dickhead": "傻逼",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "你的账户进程数据不可用。可能是因为你的账户在 Bungie.net 设置为私密。\n\n你可以在Bungie.net更改你的隐私设置，或者授权Braytech与Bungie.net连接。",
         "Name": "私密个人资料"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "推送通知"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "关闭同步并删除保存的 DIM Sync 认证 Token"
-        },
-        "Enable": {
-          "Description": "通过与 DIM Sync 交换你的 Bungie.net 认证 Token 来启用同步"
-        }
-      },
-      "Info": "与 DIM 同步你对配装的设置"
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "授权",
-      "DIMSync": "DIM 同步",
       "Developer": "开发者选项",
       "IDB": "数据库存储",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "你的设置现在无法被删除。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置也别删除。同步已被关闭。"
-      }
+      "Failure": "你的设置现在无法被删除。这是一个临时错误。",
+      "Success": "你的设置也别删除。同步已被关闭。"
     },
     "Merge": {
-      "Failure": {
-        "Description": "尝试合并你的设置项时出现了错误。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置已成功合并"
-      }
+      "Failure": "尝试合并你的设置项时出现了错误。这是一个临时错误。",
+      "Success": "你的设置已成功合并"
     },
     "Sync": {
-      "Failure": {
-        "Description": "尝试同步你的设置项时出现了错误。这是一个临时错误。"
-      },
-      "Success": {
-        "Description": "你的设置已成功同步"
-      }
+      "Failure": "尝试同步你的设置项时出现了错误。这是一个临时错误。",
+      "Success": "你的设置已成功同步"
     }
   },
   "Tooltip": {

@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "Obter de {{name}}"
     },
-    "DIMSync": {
-      "Description": "Esta função requer uma sincronização com DIM para funcionar. Habilite Sincronização com DIM nas configurações.",
-      "Name": "Sincronização com DIM"
-    },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "Armadura",
@@ -266,9 +262,9 @@
     "ClanTimetable": "Timetable",
     "Founded": "Fundado {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
     },
-    "HistoricalStatsLoading": "🦘 Loading historical stats",
     "Members": "{{number}} Membros",
     "MembersLoading": "🦘 Loading {{name}} members",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "Sem afiliação de clã"
     },
     "Relationships": {
-      "BestFriends": "Melhores Amigos",
       "Description": "Descubra oportunidades perdidas e amantes secretos. Estes Guardiões são aqueles com quem você joga a maioria das atividades. Amem-se um ao outro.\n\nEstes Guardiões são seus membros do clã e este ranking reinicia cada nova temporada.",
       "Name": "Parcerias",
+      "BestFriends": "Melhores Amigos",
+      "RomanticPartnerships": "Parcerias românticas",
+      "UndiscoveredFriends": "🦘 Undiscovered Friends",
       "NoFriends": "Você não está sozinho-você fará um amigo eventualmente... Convide um amigo do clã para algumas atividades!",
       "NoParters": "Ninguém falou que namorar era fácil. De volta a luta, Guardião!",
+      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -290,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "Parcerias românticas",
-      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "🦘 Undiscovered Friends"
+      }
     },
     "RewardEngrams": "Recompensas de Engrama",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "Iniciar",
     "Active": "🦘 Active",
     "ActiveModifiers": "Modificadores Ativos",
-    "ActiveScore": "🦘 Active Score",
     "Activity": "Atividade",
     "ActivityBonus": "Bônus de Atividade",
     "ActivityMembers": "Membros na Atividade",
@@ -419,7 +414,6 @@
     "Inventory": "Inventário",
     "ItemRolls": "Rolls",
     "Items": "Itens",
-    "LegacyScore": "🦘 Legacy Score",
     "LevelNth": "Level {{number}}",
     "Location": "Localização",
     "Lore": "História",
@@ -469,7 +463,11 @@
     "Translator_plural": "Tradutores",
     "TrialsPassage": "Passagem dos Desafios",
     "TrialsPoints": "Pontos dos Desafios",
+    "ActiveScore": "🦘 Active Score",
+    "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "Pontuação de Triunfo",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "Triunfos",
     "Unknown": "Desconhecido",
     "Users": "🦘 Users",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "Bem vindo ao Braytech! Antes de começar, eu tenho umas dicas para você.\n\nSe você tiver algum feedback ou perguntas, nós podemos conversar no Discord ou você pode checar o FAQ!",
-      "Name": "Começando",
-      "SubName": "Tecnologias Clovis Bray"
+      "Name": "Começando"
     },
     "Tips": {
       "Search": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "Nenhum item detectado"
     },
@@ -817,18 +817,6 @@
       "Strike": "Encontrado no Assalto: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "Um erro de conexão ocorreu. Este é um erro temporário e pode ser resolvido ao dispensar este diálogo e tentar novamente.",
-        "Name": "Erro de Conexão"
-      },
-      "PrivateProgression": {
-        "Description": "Os dados deste perfil não estão disponíveis. Este perfil pode estar configurado como privado em Bungie.net. Certamente, não está tentado esconder nada.",
-        "Name": "Perfil Privado"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
@@ -861,6 +849,10 @@
     "ChangeProfile": "Mudar Perfil",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
         "Dickhead": "🦘 Dickhead.",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "Seu progresso de perfil não está disponível. Seu perfil pode estar configurado como privado em Bungie.net.\n\nVocê poderia mudar suas configurações de privacidade em Bungie.net ou autentiar Braytech com Bungie.net",
         "Name": "Perfil Privado"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "Notificações"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "Desative a sincronização e exclua o token de autenticação de sincronização DIM armazenado."
-        },
-        "Enable": {
-          "Description": "Habilite a sincronização trocando seu token de autenticação Bungie.net com DIM Sync."
-        }
-      },
-      "Info": "Sincronize suas configurações com DIM para ver seus sets."
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "Autenticação",
-      "DIMSync": "Sincronização DIM",
       "Developer": "Desenvolvedor",
       "IDB": "Utilização de Armazenamento",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "Suas configurações não puderam ser excluídas dessa vez. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram excluídas. Sincronização foi desativada."
-      }
+      "Failure": "Suas configurações não puderam ser excluídas dessa vez. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram excluídas. Sincronização foi desativada."
     },
     "Merge": {
-      "Failure": {
-        "Description": "Um erro ocorreu durante a mescalgem das suas configurações. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram mescladas."
-      }
+      "Failure": "Um erro ocorreu durante a mescalgem das suas configurações. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram mescladas."
     },
     "Sync": {
-      "Failure": {
-        "Description": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária."
-      },
-      "Success": {
-        "Description": "Suas configurações foram sincronizadas."
-      }
+      "Failure": "Um erro ocorreu durante a sincronização das suas configurações. Essa é uma falha temporária.",
+      "Success": "Suas configurações foram sincronizadas."
     }
   },
   "Tooltip": {

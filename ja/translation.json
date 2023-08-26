@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "{{name}}から入手する"
     },
-    "DIMSync": {
-      "Description": "この機能を利用するには、「DIMと同期する」が必要です。設定で有効にしてください。",
-      "Name": "DIMと同期する"
-    },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Equipment": {
       "Armor": "防具",
@@ -266,9 +262,9 @@
     "ClanTimetable": "タイムテーブル",
     "Founded": "設立日 {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。"
     },
-    "HistoricalStatsLoading": "履歴統計データを読み込んでいます",
     "Members": "合計 {{number}} 人",
     "MembersLoading": "{{name}} のデータを読み込んでいます",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "クラン未所属"
     },
     "Relationships": {
-      "BestFriends": "ベストフレンド",
       "Description": "遊べなかった人や仲が良かった人を探しましょう。彼らは、あなたが最も多くの活動を共にする人たちです。お互いを大切にしましょう。\n\nこれらのガーディアンはあなたのクランメンバーであり、このランキングは新しいシーズンごとにリセットされます。",
       "Name": "つながり",
+      "BestFriends": "ベストフレンド",
+      "RomanticPartnerships": "最も仲が良いプレーヤー",
+      "UndiscoveredFriends": "フレンド候補",
       "NoFriends": "あなたは孤独ではありません。いずれ友人を作れるでしょう...クランに友人を誘って、いくつかのアクティビティに出かけてみましょう",
       "NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
+      "SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
+      "TopFireteams": "トップの {{number}} ファイアチーム構成",
+      "TopFriends": "トップの {{number}} 一緒にアクティビティをプレイしたフレンド",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "今シーズンのアクティビティのみロードする。",
@@ -290,12 +291,7 @@
           "Description": "対戦者やファイヤーチームを自分のクランのメンバーだけに絞り込む。",
           "Name": "クランメンバー"
         }
-      },
-      "RomanticPartnerships": "最も仲が良いプレーヤー",
-      "SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
-      "TopFireteams": "トップの {{number}} ファイアチーム構成",
-      "TopFriends": "トップの {{number}} 一緒にアクティビティをプレイしたフレンド",
-      "UndiscoveredFriends": "フレンド候補"
+      }
     },
     "RewardEngrams": "報酬のエングラム",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "起動する",
     "Active": "アクティブ",
     "ActiveModifiers": "作戦条件",
-    "ActiveScore": "アクティビティスコア",
     "Activity": "アクティビティ",
     "ActivityBonus": "アクティビティ ボーナス",
     "ActivityMembers": "活動中のメンバー",
@@ -419,7 +414,6 @@
     "Inventory": "所持品",
     "ItemRolls": "ロール",
     "Items": "アイテム",
-    "LegacyScore": "レガシースコア",
     "LevelNth": "レベル{{number}}",
     "Location": "ロケーション",
     "Lore": "伝承",
@@ -469,7 +463,11 @@
     "Translator_plural": "翻訳者",
     "TrialsPassage": "試練の道のり",
     "TrialsPoints": "試練のポイント",
+    "ActiveScore": "アクティビティスコア",
+    "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりのスコア",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "勝利の道のり",
     "Unknown": "不明",
     "Users": "ユーザー",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "Braytechへようこそ! 始める前にtipsを見ることをお勧めします。\n\nフィードバックや質問があれば、Discordで質問したりFAQを参照してみてください!",
-      "Name": "使い方",
-      "SubName": "クロビス・ブレイ テクノロジーズ"
+      "Name": "使い方"
     },
     "Tips": {
       "Search": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "チェックリストとその他",
       "NoChecklistItems": "アイテムは検出されませんでした"
     },
@@ -817,18 +817,6 @@
       "Strike": "ストライク中に発見: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "ネットワークエラーが発生しました。これは一時的なエラーであり、ダイアログを閉じてから再試行することで解決できるかもしれません。",
-        "Name": "ネットワークエラー"
-      },
-      "PrivateProgression": {
-        "Description": "このプロフィールの進捗データは利用できません。Bungie.netでプロフィールが非公開に設定されている可能性があります。彼らは決してあなたをブロックしているわけではありません。",
-        "Name": "非公開のプロファイル"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
@@ -861,6 +849,10 @@
     "ChangeProfile": "プロファイルを変更",
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "非アクティブ検知対策（自動操作Bot）を使用していることが確認されました。",
         "Dickhead": "あなたに対し、とても失望しました",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "プロファイルの進行状況データが利用できません。プロファイルデータがBungie.netで非公開になっているかもしれません\n\nBungie.netで公開設定を変更しているか確認してから再度、BraytechをBungie.netに承認させてみてください",
         "Name": "プライベートプロファイル"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "プッシュ通知"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "同期を無効にし、保存されているDIM Syncの認証トークンを削除します。"
-        },
-        "Enable": {
-          "Description": "同期を有効にして、Bungie.net の認証トークンを DIM同期トークンと交換します。"
-        }
-      },
-      "Info": "DIMのロードアウトと設定を同期します。"
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "認証",
-      "DIMSync": "DIM Sync",
       "Developer": "開発者",
       "IDB": "データベース容量",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "設定を削除することができませんでした。これは一時的な障害です。"
-      },
-      "Success": {
-        "Description": "設定が削除されました。同期が無効になりました。"
-      }
+      "Failure": "設定を削除することができませんでした。これは一時的な障害です。",
+      "Success": "設定が削除されました。同期が無効になりました。"
     },
     "Merge": {
-      "Failure": {
-        "Description": "設定をマージしようとしたところ、エラーが発生しました。これは一時的な障害です。"
-      },
-      "Success": {
-        "Description": "設定をマージしました。"
-      }
+      "Failure": "設定をマージしようとしたところ、エラーが発生しました。これは一時的な障害です。",
+      "Success": "設定をマージしました。"
     },
     "Sync": {
-      "Failure": {
-        "Description": "設定を同期しようとしたところ、エラーが発生しました。これは一時的な障害です。"
-      },
-      "Success": {
-        "Description": "設定を同期しました"
-      }
+      "Failure": "設定を同期しようとしたところ、エラーが発生しました。これは一時的な障害です。",
+      "Success": "設定を同期しました"
     }
   },
   "Tooltip": {

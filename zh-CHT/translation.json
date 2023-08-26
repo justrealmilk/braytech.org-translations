@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "從{{name}}獲得"
     },
-    "DIMSync": {
-      "Description": "此功能需要 DIM Sync 才能運行.在設置中啟用同步.",
-      "Name": "DIM 同步"
-    },
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
     "Equipment": {
       "Armor": "護甲",
@@ -266,9 +262,9 @@
     "ClanTimetable": "時間安排",
     "Founded": "成立時間 {{time}}",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "歷史信息統計應該在較大的顯示器上使用，請保證最少為`1024px`."
     },
-    "HistoricalStatsLoading": "載入歷史統計",
     "Members": "{{number}} 成員",
     "MembersLoading": "载入{{name}} 成员",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "沒有公會相關關係"
     },
     "Relationships": {
-      "BestFriends": "好朋友",
       "Description": "發現錯失的機會與愛人，這些守護者是跟你一起參加活動最多的人彼此珍惜。\n\n這些守護者是你的公會成員，此排名每個賽季都會重置",
       "Name": "關係",
+      "BestFriends": "好朋友",
+      "RomanticPartnerships": "浪漫關係",
+      "UndiscoveredFriends": "未能發現的朋友",
       "NoFriends": "你並不孤單！你遲早會找到朋友的....邀請你的公會夥伴一起做些活動吧！",
       "NoParters": "約會很容易嗎？沒聼説過，繼續回歸戰鬥吧，守護者！",
+      "SocialButterfly": "你真是個交際花！你在本賽季已經跟所有的人都玩過了",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -290,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "浪漫關係",
-      "SocialButterfly": "你真是個交際花！你在本賽季已經跟所有的人都玩過了",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "未能發現的朋友"
+      }
     },
     "RewardEngrams": "公會獎勵記憶水晶",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "激活",
     "Active": "生效",
     "ActiveModifiers": "激活的特效",
-    "ActiveScore": "🦘 Active Score",
     "Activity": "活動",
     "ActivityBonus": "輪換活動加成",
     "ActivityMembers": "活動名冊",
@@ -419,7 +414,6 @@
     "Inventory": "庫存",
     "ItemRolls": "物品清單",
     "Items": "物品",
-    "LegacyScore": "🦘 Legacy Score",
     "LevelNth": "等級 {{number}}",
     "Location": "位置",
     "Lore": "傳説",
@@ -469,7 +463,11 @@
     "Translator_plural": "譯者",
     "TrialsPassage": "試煉門票",
     "TrialsPoints": "試煉分數",
+    "ActiveScore": "🦘 Active Score",
+    "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "凱旋記錄分數",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "凱旋記錄",
     "Unknown": "未知",
     "Users": "用戶",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "歡迎來到Braytech！ 在你開始之前，我有一些提示給你。\n\n如果你有反饋或問題，我們可以在 Discord 上交流，或者你可以查看常見問題解答！",
-      "Name": "開始",
-      "SubName": "克洛維斯布雷科技"
+      "Name": "開始"
     },
     "Tips": {
       "Search": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "無任何内容"
     },
@@ -817,18 +817,6 @@
       "Strike": "在日落打擊中發現: {{string}}"
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "發生網絡錯誤.這是一個臨時錯誤，可以通過關閉對話框並重試來解決.",
-        "Name": "網路錯誤"
-      },
-      "PrivateProgression": {
-        "Description": "此配置文件的進度數據不可用。他們的個人資料可能在 Bungie.net 上設置為私有",
-        "Name": "私人資料"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
@@ -861,6 +849,10 @@
     "ChangeProfile": "更換檔案",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "觀察到玩家採用機制，以避免不活動檢測對策 (Botting).",
         "Dickhead": "傻逼",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "您的個人資料數據不可用，可能您的個人資料在Bungie.net上設定爲隱私\n\n您可以在Bungie.net上更改隱私設定或是通過以下方式對Braytech進行Bungie.net的身份驗證.",
         "Name": "隱私狀況"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "推送通知"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "禁用同步並刪除存儲的 DIM 同步身份驗證令牌."
-        },
-        "Enable": {
-          "Description": "通過與 DIM Sync 交換您的 Bungie.net 身份驗證令牌來啟用同步."
-        }
-      },
-      "Info": "將您的設置與 DIM 同步以進行加載."
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "身份驗證",
-      "DIMSync": "DIM 同步",
       "Developer": "開發者模式",
       "IDB": "數據存儲",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "目前無法刪除您的設置這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "您的設置已被刪除現在已禁用同步."
-      }
+      "Failure": "目前無法刪除您的設置這是一個臨時故障.",
+      "Success": "您的設置已被刪除現在已禁用同步."
     },
     "Merge": {
-      "Failure": {
-        "Description": "嘗試合併您的設置時出現錯誤.這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "你的設定已成功合并."
-      }
+      "Failure": "嘗試合併您的設置時出現錯誤.這是一個臨時故障.",
+      "Success": "你的設定已成功合并."
     },
     "Sync": {
-      "Failure": {
-        "Description": "嘗試同步您的設置時出現錯誤.這是一個臨時故障."
-      },
-      "Success": {
-        "Description": "你的設定已成功合并."
-      }
+      "Failure": "嘗試同步您的設置時出現錯誤.這是一個臨時故障.",
+      "Success": "你的設定已成功合并."
     }
   },
   "Tooltip": {

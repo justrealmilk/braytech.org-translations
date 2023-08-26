@@ -222,10 +222,6 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
-    "DIMSync": {
-      "Description": "이 기능을 사용하기 위해서는 DIM 동기화가 필요합니다. 설정에서 DIM 동기화를 활성화해주세요.",
-      "Name": "DIM 동기화"
-    },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Equipment": {
       "Armor": "방어구",
@@ -266,9 +262,9 @@
     "ClanTimetable": "시간표",
     "Founded": "생성일: {{time}} ",
     "HistoricalStats": {
+      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "전적 통계는 더 큰 화면에서 사용할 수 있습니다. 화면 크기가 `1024px` 이상인 화면을 사용하십시오."
     },
-    "HistoricalStatsLoading": "🦘 Loading historical stats",
     "Members": "{{number}}명",
     "MembersLoading": "🦘 Loading {{name}} members",
     "NoClan": {
@@ -276,11 +272,16 @@
       "Name": "소속된 클랜 없음"
     },
     "Relationships": {
-      "BestFriends": "베프",
       "Description": "🦘 Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other.\n\nThese Guardians are your clan members and this ranking resets with every new season.",
       "Name": "관계",
+      "BestFriends": "베프",
+      "RomanticPartnerships": "연인",
+      "UndiscoveredFriends": "🦘 Undiscovered Friends",
       "NoFriends": "당신은 혼자가 아니에요 - 친구를 곧 사귈겁니다... 클랜원 친구 한명을 불러 같이 활동 몇개를 해보세요!",
       "NoParters": "데이트 쉽다는거 거짓말이에요. 다시 전투에 임하세요 수호자!",
+      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
+      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
+      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -290,12 +291,7 @@
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
         }
-      },
-      "RomanticPartnerships": "연인",
-      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
-      "UndiscoveredFriends": "🦘 Undiscovered Friends"
+      }
     },
     "RewardEngrams": "엔그램 보상",
     "Roster": {
@@ -357,7 +353,6 @@
     "Activate": "활성화",
     "Active": "🦘 Active",
     "ActiveModifiers": "활성화된 조정 옵션",
-    "ActiveScore": "🦘 Active Score",
     "Activity": "활동",
     "ActivityBonus": "활동 보너스",
     "ActivityMembers": "활동 구성원",
@@ -419,7 +414,6 @@
     "Inventory": "인벤토리",
     "ItemRolls": "아이템 목록",
     "Items": "아이템",
-    "LegacyScore": "🦘 Legacy Score",
     "LevelNth": "레벨 {{number}}",
     "Location": "위치",
     "Lore": "지식",
@@ -469,7 +463,11 @@
     "Translator_plural": "번역가",
     "TrialsPassage": "시험 통행권",
     "TrialsPoints": "시험 점수",
+    "ActiveScore": "🦘 Active Score",
+    "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "업적 점수",
+    "ActiveRecords": "🦘 Active Records",
+    "LegacyRecords": "🦘 Legacy Records",
     "Triumphs": "업적",
     "Unknown": "알 수 없음",
     "Users": "🦘 Users",
@@ -527,8 +525,7 @@
   "GettingStarted": {
     "Header": {
       "Description": "Braytech에 오신 것을 환영합니다! 시작하기 전에 당신에게 몇가지 팁을 알려줄게요.\n\n의견이나 질문이 있다면, Discord에서 채팅을 하거나 FAQ를 확인할 수 있어요!",
-      "Name": "시작하기",
-      "SubName": "클로비스 브레이 기술"
+      "Name": "시작하기"
     },
     "Tips": {
       "Search": {
@@ -753,6 +750,9 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "🦘 Rotations",
+      "PublicEvents": "🦘 Public Events",
+      "Next": "🦘 Next: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "🦘 No items detected"
     },
@@ -817,18 +817,6 @@
       "Strike": "공격전 {{string}} 에서 찾을 수 있습니다."
     }
   },
-  "MemberLink": {
-    "Error": {
-      "Network": {
-        "Description": "네트워크 오류가 발생했습니다. 이 오류는 메세지 창을 닫고 다시 시도하면 해결될 수 있는 임시 오류입니다.",
-        "Name": "네트워크 오류"
-      },
-      "PrivateProgression": {
-        "Description": "이 프로필의 진척도 데이터를 볼 수 없습니다. 그들이 Bungie.net에서 프로필을 비공개로 설정했을 수 있습니다. 그들이 절대 무언갈 숨기려고 하는건 아닙니다.",
-        "Name": "비공개 프로필"
-      }
-    }
-  },
   "MemberService": {
     "Inactive": {
       "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
@@ -861,6 +849,10 @@
     "ChangeProfile": "프로필 변경",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
+      "Network": {
+        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
+        "Name": "🦘 Network Error"
+      },
       "Banned": {
         "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
         "Dickhead": "🦘 Dickhead.",
@@ -878,6 +870,10 @@
       "PrivateProgression": {
         "Description": "당신의 프로필 데이터를 사용할 수 없습니다. 당신의 프로필이 Bungie.net에서 비공개로 설정되어 있을 수 있습니다.\n\nBungie.net에서 개인정보 설정을 바꾸거나 Bungie.net에서 Braytech를 인증할 수 있습니다.",
         "Name": "비공개 프로필"
+      },
+      "NoCharacters": {
+        "Description": "🦘 This player hasn't created any characters yet!",
+        "Name": "🦘 No Characters"
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
@@ -957,17 +953,6 @@
       "PushNotifications": {
         "Name": "알림"
       }
-    },
-    "DIMSync": {
-      "Action": {
-        "Disable": {
-          "Description": "동기화를 비활성화하고 저장된 DIM 인증 토큰을 삭제합니다."
-        },
-        "Enable": {
-          "Description": "Bungie.net 인증 토큰을 DIM과 교환해 동기화를 활성화합니다."
-        }
-      },
-      "Info": "로드아웃 기능을 위해 DIM과 설정을 동기화합니다."
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1156,7 +1141,6 @@
     },
     "SubCategory": {
       "Authentication": "인증",
-      "DIMSync": "DIM 동기화",
       "Developer": "개발자",
       "IDB": "데이터베이스 저장소",
       "Interface": {
@@ -1246,28 +1230,16 @@
   },
   "SyncService": {
     "Delete": {
-      "Failure": {
-        "Description": "설정을 삭제할 수 없습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
-      }
+      "Failure": "설정을 삭제할 수 없습니다. 일시적인 오류입니다.",
+      "Success": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
     },
     "Merge": {
-      "Failure": {
-        "Description": "설정 병합 중 오류가 발생했습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 병합되었습니다."
-      }
+      "Failure": "설정 병합 중 오류가 발생했습니다. 일시적인 오류입니다.",
+      "Success": "설정이 병합되었습니다."
     },
     "Sync": {
-      "Failure": {
-        "Description": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다."
-      },
-      "Success": {
-        "Description": "설정이 동기화되었습니다."
-      }
+      "Failure": "설정 동기화 중 오류가 발생했습니다. 일시적인 오류입니다.",
+      "Success": "설정이 동기화되었습니다."
     }
   },
   "Tooltip": {
