@@ -1437,10 +1437,6 @@
         "Seasonal": "Seasonal",
         "Strikes": "Strikes"
       }
-    },
-    "Rotations": {
-      "Description": "Rituals that run on a rotation, use these projections to plan your endeavours. Rotations are sometimes altered by the Architects and this view will be altered accordingly.",
-      "Name": "Rotations"
     }
   }
 }

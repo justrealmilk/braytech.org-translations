@@ -1437,10 +1437,6 @@
         "Seasonal": "De temporada",
         "Strikes": "Asaltos"
       }
-    },
-    "Rotations": {
-      "Description": "Rituales que transcurren en rotaciones; utiliza estas proyecciones para planificar tus cometidos. En ocasiones, los Arquitectos modifican las rotaciones y esta sección se ajustará a ello.",
-      "Name": "Rotaciones"
     }
   }
 }

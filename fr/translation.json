@@ -1437,10 +1437,6 @@
         "Seasonal": "Saisonnier",
         "Strikes": "Assauts"
       }
-    },
-    "Rotations": {
-      "Description": "Rituels qui fonctionnent en rotation, utilisez ces projections pour planifier vos efforts. Les rotations sont parfois modifiées par les architectes et cette vue sera modifiée en conséquence.",
-      "Name": "Rotations"
     }
   }
 }
