@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "Emblem Foreground Color",
       "Name": "Clan Banner Builder"
     },
+    "ClanGonfalon": "Gonfalon",
+    "ClanAbout": "About",
     "ClanRoster": "Roster",
     "ClanTimetable": "Timetable",
     "Founded": "Founded **{{time}}**",
+    "Progression": "As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "Reward Engrams",
     "Roster": {
       "Approve": "Approve",
       "Ban": "Ban",

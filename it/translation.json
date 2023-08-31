@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "Colore in primo piano effigie",
       "Name": "Crea stendardo"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "Membri",
     "ClanTimetable": "Programmazione",
     "Founded": "Fondazione: {{time}}",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "La modalità Statistiche storiche del clan può essere utilizzata solo su schermi grandi. Per favore utilizza un display con una larghezza di almeno `1024px`."
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "Ricompense engrammi",
     "Roster": {
       "Approve": "Approva",
       "Ban": "Bandisci",

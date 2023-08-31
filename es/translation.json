@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "Color en primer plano del emblema",
       "Name": "Diseñador de estandartes de clan"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "Jugadores",
     "ClanTimetable": "Calendario",
     "Founded": "Fundado el {{time}}",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "Engramas de recompensa",
     "Roster": {
       "Approve": "Aprobar",
       "Ban": "Prohibir",

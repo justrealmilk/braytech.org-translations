@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "名片前景色",
       "Name": "公會旗幟生成器"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "名冊",
     "ClanTimetable": "時間安排",
     "Founded": "成立時間 {{time}}",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "歷史信息統計應該在較大的顯示器上使用，請保證最少為`1024px`."
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "公會獎勵記憶水晶",
     "Roster": {
       "Approve": "批准",
       "Ban": "封禁",
