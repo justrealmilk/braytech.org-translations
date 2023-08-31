@@ -200,7 +200,7 @@
       "Description": "Estas son las cuentas que están actualmente asociadas con tu perfil de Bungie.net.",
       "Name": "Cuentas asociadas"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "Esta función es exclusiva para mecenas. Algunas funciones sólo son posibles con el apoyo de los mecenas. Más información en [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
       "Name": "Vinculación de Patreon",
@@ -266,7 +266,7 @@
     "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
     "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
-      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
+      "Description": "Compara las estadísticas de jugadores, desglosadas por modo de actividad. Para más información sobre la precisión de estas estadísticas, consulta [Preguntas frecuentes](/addendums/faq).",
       "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
     },
     "Members": "{{number}} miembros",
@@ -370,7 +370,7 @@
     "Challenge": "Desafío",
     "Challenge_plural": "Desafíos",
     "Character": "Personaje",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "BrowseNthMembers_plural": "Buscar {{number}} miembros",
     "CharacterClass": "Clase del personaje",
     "CharacterLight": "Luz del personaje",
     "CharacterSpecific": "Como ocurre con la mayoría de las funciones de Braytech, esta sección corresponde a un personaje específico.",
@@ -429,8 +429,8 @@
     "NothingHereYet": "No hay nada aquí todavía",
     "Objectives": "Objetivos",
     "Offline": "Fuera de línea",
-    "Patreon": "🦘 Patreon",
-    "Patron_plural": "Patrons",
+    "Patreon": "Patreon",
+    "Patron_plural": "Mecenas",
     "Player": "Jugador",
     "Preview": "Previsualizar",
     "Profile": "Perfil",
@@ -469,8 +469,8 @@
     "ActiveScore": "Puntuación activa",
     "LegacyScore": "Puntuación antigua",
     "TriumphScore": "Puntos de Triunfo",
-    "ActiveRecords": "🦘 Active Records",
-    "LegacyRecords": "🦘 Legacy Records",
+    "ActiveRecords": "Triunfos activos",
+    "LegacyRecords": "Triunfos antiguos",
     "Triumphs": "Triunfos",
     "Unknown": "Desconocido",
     "Users": "Usuarios",
@@ -630,49 +630,49 @@
   },
   "Leaderboards": {
     "Rank": "Nivel",
-    "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
+    "Global": "Mundial",
+    "Statistics": "Estadísticas",
     "ActiveScore": "Puntuación activa",
     "LegacyScore": "Puntuación antigua",
     "TriumphScore": "Puntuación de triunfos",
     "CollectionsScore": "Puntuación de colecciones",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "NoDifference": "🦘 No Difference",
+    "Unranked": "Esta tabla clasificatoria se está elaborando con nuevos datos. Estará lista en unos minutos.",
+    "UnrankedMember": "Este jugador aún no ha sido clasificado. Se ha añadido a la cola.",
+    "UnrankedGroup": "Nadie de este clan ha sido clasificado aún.",
+    "NoDifference": "Sin diferencias",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "Tú",
+      "Description": "Selecciona un perfil para utilizarlo con Braytech y ver tus clasificaciones."
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "Encontrar clan",
+      "Description": "Busca un clan y mira cómo se clasifican sus miembros."
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "Encontrar Guardián",
+      "Description": "Busca a un amigo o enemigo y compara vuestras posiciones."
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "Comparativa",
+      "Description": "Triunfos y coleccionables que **{{a}}** tiene pero **{{b}}** no. Esta comparación se realiza a partir de datos reales y, por tanto, puede contradecir la clasificación actual."
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionsScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "Jugadores con al menos {{number}} de Puntuación Activa",
+      "MinCollectionsScore": "Jugadores con al menos {{number}} de Puntuación de Colecciones",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "Jugadores clasificados",
+        "Info": "Sólo se clasifican los jugadores que han jugado a Destiny desde el lanzamiento de la última expansión."
       },
       "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+        "Name": "Jugadores rastreados",
+        "Info": "Los jugadores que han visitado Braytech se ponen en cola para el rastreo de perfiles."
       },
       "ScraperTimeRemaining": {
-        "Name": "🦘 Time until next rank",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+        "Name": "Tiempo hasta la siguiente clasificación",
+        "Info": "Los jugadores se clasifican al final de cada operación de rastreo de perfiles."
       },
-      "RarestRecords": "🦘 Rarest Records",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestRecords": "Triunfos más raros",
+      "RarestCollectibles": "Coleccionables más raros"
     }
   },
   "Legend": {
@@ -753,9 +753,9 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
+      "Rotations": "Rotaciones",
+      "PublicEvents": "Eventos públicos",
+      "Next": "Siguiente: {{next}}",
       "ChecklistsAndMore": "Listas de coleccionables y más",
       "NoChecklistItems": "No se han detectado elementos"
     },
@@ -843,8 +843,8 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "No se han encontrado clanes",
+    "SearchPlaceholder": "introduce el nombre exacto del clan"
   },
   "ProfileSearch": {
     "ActiveProfile": "Perfil activo",
@@ -853,8 +853,8 @@
     "CrossSaveProfile": "Este jugador ha activado el Cross Save. Su perfil activo está marcado.",
     "Error": {
       "Network": {
-        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "🦘 Network Error"
+        "Description": "Se ha producido un error de red. Se trata de un error temporal que puede resolverse cerrando el cuadro de diálogo y volviendo a intentarlo.",
+        "Name": "Error de red"
       },
       "Banned": {
         "Botting": "Se observó al jugador empleando mecanismos para evitar las contramedidas de detección de inactividad (botting).",
@@ -875,8 +875,8 @@
         "Name": "Perfil privado"
       },
       "NoCharacters": {
-        "Description": "🦘 This player hasn't created any characters yet!",
-        "Name": "🦘 No Characters"
+        "Description": "¡Este jugador aún no ha creado ningún personaje!",
+        "Name": "Sin personajes"
       }
     },
     "GetStarted": "¡Parece que eres nuevo aquí! ¡Puedes empezar pulsando **Autentifícate** e iniciar sesión en Bungie.net o puedes buscar tu nombre de Bungie y cargar tu perfil manualmente!",
@@ -1375,7 +1375,7 @@
       "RewardResearcher": "Los mecenas de nivel Investigador/a desbloquean esta insignia de Clovis Bray.",
       "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
       "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
+      "Leaderboards": "Las tablas de clasificación dan mucho trabajo, lo cual, aunque da que pensar, es especialmente costoso. Tuve que comprarme \"Databases for Dummies\" y todo. Si te gusta coleccionar cosas, ¿quizás podría [interesarte desbloquear alguna insignia rara](https://www.patreon.com/braytech) para tu enlace de miembro?"
     },
     "Profile": {
       "Action": "Elige tu personaje",
