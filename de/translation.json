@@ -1424,11 +1424,7 @@
         "Description": "Dein Powerlevel ist der Durchschnitt der Powerwerte aller deiner derzeit ausgerüsteten Gegenstände. Ein höheres Powerlevel verbessert sowohl deinen ausgeteilten Schaden als auch deine Verteidigung.",
         "Name": "Power"
       },
-      "SeasonalChallenges": {
-        "Available": "🦘 {{number}} Seasonal Challenges Available",
-        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "Saisonale Herausforderungen"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "Beutezüge",
         "Crucible": "Schmelztiegel",

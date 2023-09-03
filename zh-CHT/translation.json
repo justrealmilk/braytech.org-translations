@@ -1424,11 +1424,7 @@
         "Description": "你的光等是你目前裝備中所有裝備的能量值的總和。更高的光等會提高你的傷害輸出和防禦力。",
         "Name": "光等"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} 季節性挑戰",
-        "Description": "完成賽季階級、明亮塵埃和其他獎勵的限時挑戰。",
-        "Name": "賽季挑戰"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "賞金單",
         "Crucible": "熔爐",

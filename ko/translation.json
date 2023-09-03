@@ -1424,11 +1424,7 @@
         "Description": "전투력 점수는 현재 착용한 모든 장비의 전투력 수치의 평균입니다. 전투력 점수가 높으면 적에게 주는 피해량과 방어가 함께 증가합니다.",
         "Name": "빛"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}}개의 시즌 도전이 남았습니다",
-        "Description": "한정된 기간 도전들을 완료하고 시즌 랭크, 광휘 가루, 그 외의 다른 보상을 얻으세요.",
-        "Name": "시즌 도전"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "현상금",
         "Crucible": "시련의 장",

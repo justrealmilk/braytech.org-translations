@@ -1424,11 +1424,7 @@
         "Description": "Il tuo livello di Luce è una somma del valore di Potere di tutto il tuo equipaggiamento attuale. Un livello di Luce più alto migliora sia il danno che la difesa.",
         "Name": "Luce"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} sfide stagionali disponibili",
-        "Description": "Completa le sfide a tempo limitato per ottenere gradi stagionali, polvere luminosa e altre ricompense.",
-        "Name": "Sfide stagionali"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "Taglie",
         "Crucible": "Crogiolo",

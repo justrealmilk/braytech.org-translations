@@ -1424,11 +1424,7 @@
         "Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
         "Name": "光のレベル"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} 個のシーズンの挑戦が可能です",
-        "Description": "期間限定のシーズンランク、ブライトダスト、その他報酬がもらえる挑戦を完了しました。",
-        "Name": "シーズンの挑戦"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "バウンティ",
         "Crucible": "クルーシブル",

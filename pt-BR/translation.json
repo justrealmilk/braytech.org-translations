@@ -1424,11 +1424,7 @@
         "Description": "Seu nível de luz é um agregado do valor de energia em todos os seus equipamentos equipados atualmente. Um nível de luz mais alto melhora tanto seu danos quanto sua defesa.",
         "Name": "Luz"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} Desafios Sazonais Disponíveis",
-        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "Desafios Sazonais"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "Contratos",
         "Crucible": "Crisol",

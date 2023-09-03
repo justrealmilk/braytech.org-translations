@@ -1424,11 +1424,7 @@
         "Description": "Votre niveau de Lumière correspond au cumul de la puissance de votre équipement sélectionné. Un niveau de Lumière plus élevé améliore vos dégâts et votre défense.",
         "Name": "Lumière"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} Défis saisonniers disponibles",
-        "Description": "Relevez des défis à durée limitée pour augmenter votre rang de saison, obtenir de la poussière brillante et d'autres récompenses.",
-        "Name": "Défis saisonniers"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "Contrats",
         "Crucible": "Épreuve",

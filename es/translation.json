@@ -1424,11 +1424,7 @@
         "Description": "Tu nivel de Luz es el total de los valores de Poder de todo tu equipamiento actual. Un mayor nivel de Luz mejora el daño que causas y tu defensa.",
         "Name": "Luz"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} desafíos de temporada disponibles",
-        "Description": "Completa los desafíos de tiempo limitado para obtener niveles de temporada, polvo luminoso y otras recompensas.",
-        "Name": "Desafíos de temporada"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "Contratos",
         "Crucible": "Crisol",

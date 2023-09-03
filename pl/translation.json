@@ -1424,11 +1424,7 @@
         "Description": "🦘 Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
         "Name": "🦘 Light"
       },
-      "SeasonalChallenges": {
-        "Available": "🦘 {{number}} Seasonal Challenges Available",
-        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "🦘 Seasonal Challenges"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Bounties": "🦘 Bounties",
         "Crucible": "🦘 Crucible",
