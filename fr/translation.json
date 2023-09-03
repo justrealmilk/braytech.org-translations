@@ -276,8 +276,6 @@
       "Name": "Pas de clan rejoint"
     },
     "Relationships": {
-      "Description": "Découvrez les opportunités manquées et les amours secrets. Ces Gardiens sont ceux avec qui vous faites le plus d'activités. Chérissez-vous les uns les autres.\n\nCes Gardiens sont les membres de votre clan et ce classement est réinitialisé à chaque nouvelle saison.",
-      "Name": "Relations",
       "BestFriends": "Meilleurs amis",
       "RomanticPartnerships": "Partenariats romantiques",
       "UndiscoveredFriends": "Amis méconnus",
