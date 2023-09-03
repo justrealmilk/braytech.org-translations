@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "엠블럼 주 색상",
       "Name": "클랜 배너 생성기"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "명단",
     "ClanTimetable": "시간표",
     "Founded": "생성일: {{time}} ",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "전적 통계는 더 큰 화면에서 사용할 수 있습니다. 화면 크기가 `1024px` 이상인 화면을 사용하십시오."
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "엔그램 보상",
     "Roster": {
       "Approve": "승인",
       "Ban": "차단",
@@ -1437,10 +1440,6 @@
         "Seasonal": "시즌",
         "Strikes": "공격전"
       }
-    },
-    "Rotations": {
-      "Description": "매주 변경되는 의식 활동으로 이 정보를 바탕으로 당신의 모혐을 계획해세요. 로테이션은 가끔식 설계자님들의 의해 변경될 때가 있으며 이 정보도 그에 맞게 수정될 예정입니다.",
-      "Name": "로테이션"
     }
   }
 }

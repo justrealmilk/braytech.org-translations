@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "エンブレムの前景色",
       "Name": "クランバナービルダー"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "名簿",
     "ClanTimetable": "タイムテーブル",
     "Founded": "設立日 {{time}}",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。"
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "報酬のエングラム",
     "Roster": {
       "Approve": "承認する",
       "Ban": "BANする",
@@ -1437,10 +1440,6 @@
         "Seasonal": "シーズン",
         "Strikes": "ストライク"
       }
-    },
-    "Rotations": {
-      "Description": "ローテーションで執り行われる儀式の予定を知ることで、未入手の武器取得やアイテム厳選の計画が立てやすくなります。ローテーションの内容は開発にて変更されることがあり、このページもそれに合わせて更新されます。",
-      "Name": "ローテーション"
     }
   }
 }

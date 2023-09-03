@@ -258,9 +258,13 @@
       "EmblemForegroundColor": "名片前景色",
       "Name": "公会旗帜生成器"
     },
+    "ClanGonfalon": "🦘 Gonfalon",
+    "ClanAbout": "🦘 About",
     "ClanRoster": "名单",
     "ClanTimetable": "时间安排",
     "Founded": "创建于{{time}}",
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "HistoricalStats": {
       "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "历史数据只能在分辨率更大的窗口使用，请保证您当前窗口分辨率宽度大于或等于 `1024 像素` 。"
@@ -293,7 +297,6 @@
         }
       }
     },
-    "RewardEngrams": "公会奖励记忆水晶",
     "Roster": {
       "Approve": "批准",
       "Ban": "封禁",
@@ -1437,10 +1440,6 @@
         "Seasonal": "赛季",
         "Strikes": "打击"
       }
-    },
-    "Rotations": {
-      "Description": "仪式活动内容通常会进行轮换，守护者可以使用这些预测来安排自己的行程。轮换的顺序可能会发生变化，该页面的内容也将同步进行变动。",
-      "Name": "经典轮换内容"
     }
   }
 }
