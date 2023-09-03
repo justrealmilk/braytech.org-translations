@@ -258,15 +258,15 @@
       "EmblemForegroundColor": "エンブレムの前景色",
       "Name": "クランバナービルダー"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "クランバナー",
+    "ClanAbout": "概要",
     "ClanRoster": "名簿",
     "ClanTimetable": "タイムテーブル",
     "Founded": "設立日 {{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
+    "Progression": "クランのレベルが上がると、クランバナーの特典がメンバー全員にアンロックされます。クランレベルを上げるために、ゲーム内の様々なアクティビティを完了しましょう。",
+    "RitualRewards": "クランメンバーとして周回イベントを完了し、スラヤ・ホーソーンからの報酬エングラムをアンロックしましょう。",
     "HistoricalStats": {
-      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
+      "Description": "アクティビティモード別にステータス値でプレーヤーを比較し分類します。\n\nステータス値の正確性については、[よくある質問](/addendums/faq)をご覧ください。",
       "ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。"
     },
     "Members": "合計 {{number}} 人",
@@ -469,8 +469,8 @@
     "ActiveScore": "アクティビティスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりのスコア",
-    "ActiveRecords": "🦘 Active Records",
-    "LegacyRecords": "🦘 Legacy Records",
+    "ActiveRecords": "アクティブなレコード",
+    "LegacyRecords": "レガシーレコード",
     "Triumphs": "勝利の道のり",
     "Unknown": "不明",
     "Users": "ユーザー",
@@ -654,7 +654,7 @@
     },
     "Comparison": {
       "Name": "比較",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nこの比較機能は最新のライブデータに基づいているため、現在のリーダーボードランキングと矛盾する可能性があります。"
+      "Description": "このレコードとコレクションは **{{a}}** は獲得済みですが **{{b}}** はまだ獲得していません。\n\nこの比較機能は最新のライブデータに基づいているため、現在のリーダーボードランキングと矛盾する可能性があります。"
     },
     "Stats": {
       "MinActiveScore": "アクティブスコアで {{number}} 点以上に到達しているプレイヤー数",
@@ -753,9 +753,9 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
+      "Rotations": "ローテーション",
+      "PublicEvents": "公開イベント",
+      "Next": "次回: {{next}}",
       "ChecklistsAndMore": "チェックリストとその他",
       "NoChecklistItems": "アイテムは検出されませんでした"
     },
@@ -853,8 +853,8 @@
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
       "Network": {
-        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "🦘 Network Error"
+        "Description": "ネットワークエラーが発生しました。このエラーは一時的なもので、ダイアログを閉じてリロードすると解決することがあります。",
+        "Name": "ネットワークエラー"
       },
       "Banned": {
         "Botting": "非アクティブ検知対策（自動操作Bot）を使用していることが確認されました。",
@@ -875,8 +875,8 @@
         "Name": "プライベートプロファイル"
       },
       "NoCharacters": {
-        "Description": "🦘 This player hasn't created any characters yet!",
-        "Name": "🦘 No Characters"
+        "Description": "このプレーヤーはまだキャラクターを作成していません!",
+        "Name": "キャラクター無し"
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
