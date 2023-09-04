@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "🦘 Select a date below and prepare to jump",
-        "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
-      }
-    },
+    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
+    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Fireteam": {
       "Closed": "🦘 Fireteam Closed",
       "Full": "🦘 Fireteam Full",
@@ -72,9 +68,8 @@
       "Open": "🦘 Fireteam Open",
       "SinglePlayer": "🦘 Single Player Activity"
     },
-    "Graphs": {
-      "SelectDate": "🦘 Select a date with activities played from the graph above."
-    },
+    "SelectDateFromGraph": "🦘 Select a date with activities played from the graph above.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "🦘 Loss",
@@ -1176,6 +1171,7 @@
           "Description": "🦘 Enable sync and regularly sync with Voluspa."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "🦘 Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {

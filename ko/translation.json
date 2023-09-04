@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "🦘 Select a date below and prepare to jump",
-        "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
-      }
-    },
+    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
+    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -72,9 +68,8 @@
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
     },
-    "Graphs": {
-      "SelectDate": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요."
-    },
+    "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "패배",
@@ -1176,6 +1171,7 @@
           "Description": "Voluspa의 정기적인 동기화를 활성화합니다."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "아이템 보기, 지도, 추적한 업적 및 프로필 검색 기록에 대한 설정을 동기화합니다.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {

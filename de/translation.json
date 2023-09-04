@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "Aktive Rotation",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Wählen Sie unten ein Datum aus und machen Sie sich bereit zum Sprung",
-        "Waiting": "Je mehr Aktivitäten du spielst und je weiter du springst, desto länger wird es dauern!\n\nBungies API ermöglicht es nicht, den Aktivitätsverlauf eines bestimmten Zeitraums abzufragen, also machen wir einen Drive-by."
-      }
-    },
+    "SelectDateInfo": "Wählen Sie unten ein Datum aus und machen Sie sich bereit zum Sprung",
+    "SelectDateWaiting": "Je mehr Aktivitäten du spielst und je weiter du springst, desto länger wird es dauern!\n\nBungies API ermöglicht es nicht, den Aktivitätsverlauf eines bestimmten Zeitraums abzufragen, also machen wir einen Drive-by.",
     "Fireteam": {
       "Closed": "Einsatztrupp geschlossen",
       "Full": "Einsatztrupp voll",
@@ -72,9 +68,8 @@
       "Open": "Einsatztrupp offen",
       "SinglePlayer": "Einzelspieler-Aktivität"
     },
-    "Graphs": {
-      "SelectDate": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus."
-    },
+    "SelectDateFromGraph": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Verloren",
@@ -1176,6 +1171,7 @@
           "Description": "Synchronisierung aktivieren und regelmäßig mit Voluspa synchronisieren."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "Synchronisiere deine Einstellungen für die Sichtbarkeit von Gegenständen, Karten, verfolgte Erfolge und den Verlauf der Profilsuche.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {

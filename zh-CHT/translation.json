@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "主動輪換",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "選擇一組數據",
-        "Waiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄"
-      }
-    },
+    "SelectDateInfo": "選擇一組數據",
+    "SelectDateWaiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄",
     "Fireteam": {
       "Closed": "火力戰隊關閉",
       "Full": "火力戰隊滿員",
@@ -72,9 +68,8 @@
       "Open": "火力戰隊開放",
       "SinglePlayer": "單人活動"
     },
-    "Graphs": {
-      "SelectDate": "從上圖中選擇一個有活動的日期"
-    },
+    "SelectDateFromGraph": "從上圖中選擇一個有活動的日期",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "勝利",
@@ -1176,6 +1171,7 @@
           "Description": "啓用同步，同時與Voluspa定期同步."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
       "RequirementsNotMet": "同步需要您先于 Bungie.net驗證Braytech",
       "State": {
