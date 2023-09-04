@@ -115,7 +115,7 @@
       "HydratingReportsCache": "Restoring reports data from device storage",
       "LoadGroupMembers": "Analysing clan and activity history",
       "LoadingPeriod": "Scanning... {{date}}",
-      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in _Settings_.",
+      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in [Settings](/settings).",
       "NoHistoryAvailable": "Find a fireteam and seek triumph against enemies of the Traveler.",
       "PeriodNotFound": "The requested period could not be found in this character's activity history.",
       "RequestHistory": "Analysing activity history",
