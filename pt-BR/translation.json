@@ -1420,6 +1420,7 @@
       },
       "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Contratos",
         "Crucible": "Crisol",
         "Dungeon": "Masmorra",

@@ -1420,6 +1420,7 @@
       },
       "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "🦘 Bounties",
         "Crucible": "🦘 Crucible",
         "Dungeon": "🦘 Dungeon",

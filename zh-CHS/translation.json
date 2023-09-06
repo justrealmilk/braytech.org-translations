@@ -1420,6 +1420,7 @@
       },
       "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "悬赏",
         "Crucible": "熔炉竞技场",
         "Dungeon": "地牢",

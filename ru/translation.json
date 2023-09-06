@@ -1420,6 +1420,7 @@
       },
       "SeasonalChallengesAvailable": "{{number}} сезонных испытаний доступно",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Контракты",
         "Crucible": "Горнило",
         "Dungeon": "Подземелье",
