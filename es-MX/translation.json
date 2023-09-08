@@ -287,6 +287,10 @@
         "LimitGroupMembers": {
           "Description": "Filtra los encuentros y las escuadras para que solo incluyan a miembros de tu clan.",
           "Name": "Miembros del clan"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },

@@ -287,6 +287,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },

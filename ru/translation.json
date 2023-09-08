@@ -287,6 +287,10 @@
         "LimitGroupMembers": {
           "Description": "Отфильтровать встречи и боевые группы, чтобы в них входили только участники вашего клана.",
           "Name": "Участники клана"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },

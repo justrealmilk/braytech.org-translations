@@ -287,6 +287,10 @@
         "LimitGroupMembers": {
           "Description": "対戦者やファイヤーチームを自分のクランのメンバーだけに絞り込む。",
           "Name": "クランメンバー"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
