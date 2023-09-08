@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
       "DownloadingReports": "レポートをダウンロードしています",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
       "GenericError": "何か問題が発生しました。もう一度お試しください。",
       "HydratingReportsCache": "レポートデータをお使いのデバイスからメモリにロードしています。",

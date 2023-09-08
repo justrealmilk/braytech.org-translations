@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Qualcosa è andato storto durante il caricamento della cronologia attività. Perfavore riprova.",
       "DownloadingReports": "Collezionando i dati delle squadre da Bungie.net",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Scaricando i riepiloghi",
       "GenericError": "Qualcosa è andato storto. Perfavore riprova.",
       "HydratingReportsCache": "Recuperando i riepiloghi dallo spazio d'archiviazione",

@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Alguma coisa deu errado ao carregar o histórico de atividades. Por favor, tente novamente.",
       "DownloadingReports": "Baixando Relatórios",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Coletando dados de esquadrão de Bungie.net. Isto pode tomar um tempo com base na sua conexão e no número de dados.",
       "GenericError": "Alguma coisa deu errado. Por favor, tente novamente.",
       "HydratingReportsCache": "Relatórios estão sendo carregados na memória a partir do armazenamento do dispositivo.",

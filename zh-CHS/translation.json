@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "加载活动历史时出错，请再试一次。",
       "DownloadingReports": "正在下载报告",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "正在从 Bungie.net 收集火力战队数据，所需的时间将取决于你的网络和请求的数据量。",
       "GenericError": "出错了，请再试一次。",
       "HydratingReportsCache": "报告数据正在从设备存储中载入。",

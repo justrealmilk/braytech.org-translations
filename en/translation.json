@@ -110,9 +110,10 @@
     "State": {
       "ActivityHistoryError": "Something went wrong while trying to load activity history. Please try again.",
       "DownloadingReports": "Collecting fireteam data from Bungie.net",
+      "RestoringReportsProgressValue": "Restoring Reports",
       "DownloadingReportsProgressValue": "Downloading Reports",
       "GenericError": "Something went wrong. Please try again.",
-      "HydratingReportsCache": "Restoring reports data from device storage",
+      "HydratingReportsCache": "Restoring reports data from local storage",
       "LoadGroupMembers": "Analysing clan and activity history",
       "LoadingPeriod": "Scanning... {{date}}",
       "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in [Settings](/settings).",

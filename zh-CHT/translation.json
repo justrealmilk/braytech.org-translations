@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "嘗試加載活動歷史記錄時出錯.請再試一次.",
       "DownloadingReports": "正在下載報告",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "正在從Bungie.net收集火力戰隊數據，所需時間取決於你的網路和請求的數據量",
       "GenericError": "出了些問題.請再試一次.",
       "HydratingReportsCache": "報告數據正在從存儲設備中載入",

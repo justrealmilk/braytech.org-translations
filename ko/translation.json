@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "활동 기록을 불러오는 중 문제가 발생했습니다. 다시 시도해주세요.",
       "DownloadingReports": "보고서 다운로드중",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Bungie.net으로부터 화력팀 자료를 수집중입니다. 네트워크 연결 상태와 필요한 요청 수에 따라 시간이 좀 걸릴 수 있습니다.",
       "GenericError": "문제가 발생했습니다. 다시 시도해주세요.",
       "HydratingReportsCache": "보고서 자료를 장치의 저장소에서 메모리로 불러오는 중입니다.",

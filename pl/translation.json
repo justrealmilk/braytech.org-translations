@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "🦘 Something went wrong while trying to load activity history. Please try again.",
       "DownloadingReports": "🦘 Collecting fireteam data from Bungie.net",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "🦘 Downloading Reports",
       "GenericError": "🦘 Something went wrong. Please try again.",
       "HydratingReportsCache": "🦘 Restoring reports data from device storage",

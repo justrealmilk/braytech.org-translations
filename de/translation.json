@@ -110,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Beim Laden des Aktivitätsverlaufs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "DownloadingReports": "Bericht herunterladen",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Sammeln von Fireteam-Daten von Bungie.net. Dies kann je nach Netzwerk und Menge eine Weile dauern.",
       "GenericError": "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "HydratingReportsCache": "Berichtsdaten werden aus dem Gerätespeicher geladen.",
