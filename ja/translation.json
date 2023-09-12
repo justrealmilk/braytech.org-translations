@@ -69,7 +69,7 @@
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Modes": {
       "Bar": {
         "PvPLoss": "敗北",
@@ -110,7 +110,7 @@
     "State": {
       "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
       "DownloadingReports": "レポートをダウンロードしています",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
+      "RestoringReportsProgressValue": "レポートを復元しています",
       "DownloadingReportsProgressValue": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
       "GenericError": "何か問題が発生しました。もう一度お試しください。",
       "HydratingReportsCache": "レポートデータをお使いのデバイスからメモリにロードしています。",
@@ -290,8 +290,8 @@
           "Name": "クランメンバー"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "Bungieで登録しているフレンドだけを対戦相手またはファイアチームで表示する。",
+          "Name": "Bungieで登録しているフレンド"
         }
       }
     },
@@ -1176,7 +1176,7 @@
           "Description": "定期的にデータとVoluspaと同期させる。"
         }
       },
-      "Configure": "🦘 Configure Sync Service",
+      "Configure": "サービス同期設定",
       "Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
       "RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
       "State": {
@@ -1423,9 +1423,9 @@
         "Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
         "Name": "光のレベル"
       },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+      "SeasonalChallengesAvailable": "個のシーズン {{number}} の挑戦が残っています",
       "Type": {
-        "Rituals": "🦘 Rituals",
+        "Rituals": "周回",
         "Bounties": "バウンティ",
         "Crucible": "クルーシブル",
         "Dungeon": "迷宮",
