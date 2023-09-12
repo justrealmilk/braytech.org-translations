@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "Active Rotator",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Select a date below and prepare to jump",
-        "Waiting": "Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
-      }
-    },
+    "SelectDateInfo": "Select a date below and prepare to jump",
+    "SelectDateWaiting": "Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Fireteam": {
       "Closed": "Fireteam Closed",
       "Full": "Fireteam Full",
@@ -72,9 +68,8 @@
       "Open": "Fireteam Open",
       "SinglePlayer": "Single Player Activity"
     },
-    "Graphs": {
-      "SelectDate": "Select a date with activities played from the graph above."
-    },
+    "SelectDateFromGraph": "Select a date with activities played from the graph above.",
+    "BookmarksSync": "Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Loss",
@@ -115,12 +110,13 @@
     "State": {
       "ActivityHistoryError": "Something went wrong while trying to load activity history. Please try again.",
       "DownloadingReports": "Collecting fireteam data from Bungie.net",
+      "RestoringReportsProgressValue": "Restoring Reports",
       "DownloadingReportsProgressValue": "Downloading Reports",
       "GenericError": "Something went wrong. Please try again.",
-      "HydratingReportsCache": "Restoring reports data from device storage",
+      "HydratingReportsCache": "Restoring reports data from local storage",
       "LoadGroupMembers": "Analysing clan and activity history",
       "LoadingPeriod": "Scanning... {{date}}",
-      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in _Settings_.",
+      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in [Settings](/settings).",
       "NoHistoryAvailable": "Find a fireteam and seek triumph against enemies of the Traveler.",
       "PeriodNotFound": "The requested period could not be found in this character's activity history.",
       "RequestHistory": "Analysing activity history",
@@ -276,8 +272,6 @@
       "Name": "No clan affiliation"
     },
     "Relationships": {
-      "Description": "Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other.",
-      "Name": "Relationships",
       "BestFriends": "Best Friends",
       "RomanticPartnerships": "Romantic Partnerships",
       "UndiscoveredFriends": "Undiscovered Friends",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "Filter encounters and fireteams to only include members of your clan.",
           "Name": "Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Enable sync and regularly sync with Voluspa."
         }
       },
+      "Configure": "Configure Sync Service",
       "Info": "Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
       "RequirementsNotMet": "Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
         "Name": "Light"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} Seasonal Challenges Available",
-        "Description": "Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "Seasonal Challenges"
-      },
+      "SeasonalChallengesAvailable": "{{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "Rituals",
         "Bounties": "Bounties",
         "Crucible": "Crucible",
         "Dungeon": "Dungeon",

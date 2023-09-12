@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "Aktive Rotation",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Wählen Sie unten ein Datum aus und machen Sie sich bereit zum Sprung",
-        "Waiting": "Je mehr Aktivitäten du spielst und je weiter du springst, desto länger wird es dauern!\n\nBungies API ermöglicht es nicht, den Aktivitätsverlauf eines bestimmten Zeitraums abzufragen, also machen wir einen Drive-by."
-      }
-    },
+    "SelectDateInfo": "Wählen Sie unten ein Datum aus und machen Sie sich bereit zum Sprung",
+    "SelectDateWaiting": "Je mehr Aktivitäten du spielst und je weiter du springst, desto länger wird es dauern!\n\nBungies API ermöglicht es nicht, den Aktivitätsverlauf eines bestimmten Zeitraums abzufragen, also machen wir einen Drive-by.",
     "Fireteam": {
       "Closed": "Einsatztrupp geschlossen",
       "Full": "Einsatztrupp voll",
@@ -72,9 +68,8 @@
       "Open": "Einsatztrupp offen",
       "SinglePlayer": "Einzelspieler-Aktivität"
     },
-    "Graphs": {
-      "SelectDate": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus."
-    },
+    "SelectDateFromGraph": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Verloren",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Beim Laden des Aktivitätsverlaufs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "DownloadingReports": "Bericht herunterladen",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Sammeln von Fireteam-Daten von Bungie.net. Dies kann je nach Netzwerk und Menge eine Weile dauern.",
       "GenericError": "Es ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "HydratingReportsCache": "Berichtsdaten werden aus dem Gerätespeicher geladen.",
@@ -276,8 +272,6 @@
       "Name": "Du gehörst aktuell keinen Clan an"
     },
     "Relationships": {
-      "Description": "Entdecke verpasste Gelegenheiten und heimliche Liebhaber. Diese Hüter sind diejenigen, mit denen du die meisten Aktivitäten spielst. Schätzt euch gegenseitig.\n\nDiese Hüter sind deine Clan-Mitglieder und dieses Ranking wird mit jeder neuen Saison zurückgesetzt.",
-      "Name": "Beziehungen",
       "BestFriends": "Beste Freunde",
       "RomanticPartnerships": "Romantische Partnerschaften",
       "UndiscoveredFriends": "Unentdeckte Freunde",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Synchronisierung aktivieren und regelmäßig mit Voluspa synchronisieren."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "Synchronisiere deine Einstellungen für die Sichtbarkeit von Gegenständen, Karten, verfolgte Erfolge und den Verlauf der Profilsuche.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "Dein Powerlevel ist der Durchschnitt der Powerwerte aller deiner derzeit ausgerüsteten Gegenstände. Ein höheres Powerlevel verbessert sowohl deinen ausgeteilten Schaden als auch deine Verteidigung.",
         "Name": "Power"
       },
-      "SeasonalChallenges": {
-        "Available": "🦘 {{number}} Seasonal Challenges Available",
-        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "Saisonale Herausforderungen"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Beutezüge",
         "Crucible": "Schmelztiegel",
         "Dungeon": "Dungeon",

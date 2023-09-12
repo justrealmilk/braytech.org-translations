@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "🦘 Select a date below and prepare to jump",
-        "Waiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by."
-      }
-    },
+    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
+    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -72,9 +68,8 @@
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
     },
-    "Graphs": {
-      "SelectDate": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요."
-    },
+    "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "패배",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "활동 기록을 불러오는 중 문제가 발생했습니다. 다시 시도해주세요.",
       "DownloadingReports": "보고서 다운로드중",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Bungie.net으로부터 화력팀 자료를 수집중입니다. 네트워크 연결 상태와 필요한 요청 수에 따라 시간이 좀 걸릴 수 있습니다.",
       "GenericError": "문제가 발생했습니다. 다시 시도해주세요.",
       "HydratingReportsCache": "보고서 자료를 장치의 저장소에서 메모리로 불러오는 중입니다.",
@@ -276,8 +272,6 @@
       "Name": "소속된 클랜 없음"
     },
     "Relationships": {
-      "Description": "🦘 Discover missed opportunities and secret lovers. These Guardians are those who you play most activities with. Cherish each other.\n\nThese Guardians are your clan members and this ranking resets with every new season.",
-      "Name": "관계",
       "BestFriends": "베프",
       "RomanticPartnerships": "연인",
       "UndiscoveredFriends": "🦘 Undiscovered Friends",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Voluspa의 정기적인 동기화를 활성화합니다."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "아이템 보기, 지도, 추적한 업적 및 프로필 검색 기록에 대한 설정을 동기화합니다.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "전투력 점수는 현재 착용한 모든 장비의 전투력 수치의 평균입니다. 전투력 점수가 높으면 적에게 주는 피해량과 방어가 함께 증가합니다.",
         "Name": "빛"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}}개의 시즌 도전이 남았습니다",
-        "Description": "한정된 기간 도전들을 완료하고 시즌 랭크, 광휘 가루, 그 외의 다른 보상을 얻으세요.",
-        "Name": "시즌 도전"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "현상금",
         "Crucible": "시련의 장",
         "Dungeon": "던전",

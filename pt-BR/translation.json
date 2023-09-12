@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Selecione uma data abaixo e prepare-se para saltar",
-        "Waiting": "Prepare-se: quanto mais atividades você jogar e quanto mais longe você saltar, mais tempo isso levará!\n\nA API da Bungie não permite a solicitação de histórico de atividades de um período específico, então estamos fazendo este trabalho."
-      }
-    },
+    "SelectDateInfo": "Selecione uma data abaixo e prepare-se para saltar",
+    "SelectDateWaiting": "Prepare-se: quanto mais atividades você jogar e quanto mais longe você saltar, mais tempo isso levará!\n\nA API da Bungie não permite a solicitação de histórico de atividades de um período específico, então estamos fazendo este trabalho.",
     "Fireteam": {
       "Closed": "Esquadrão Fechado",
       "Full": "Esquadrão Cheio",
@@ -72,9 +68,8 @@
       "Open": "Esquadrão Aberto",
       "SinglePlayer": "Atividade de Um Jogador"
     },
-    "Graphs": {
-      "SelectDate": "Selecione uma data com atividades jogadas a partir do gráfico acima."
-    },
+    "SelectDateFromGraph": "Selecione uma data com atividades jogadas a partir do gráfico acima.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Alguma coisa deu errado ao carregar o histórico de atividades. Por favor, tente novamente.",
       "DownloadingReports": "Baixando Relatórios",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Coletando dados de esquadrão de Bungie.net. Isto pode tomar um tempo com base na sua conexão e no número de dados.",
       "GenericError": "Alguma coisa deu errado. Por favor, tente novamente.",
       "HydratingReportsCache": "Relatórios estão sendo carregados na memória a partir do armazenamento do dispositivo.",
@@ -276,8 +272,6 @@
       "Name": "Sem afiliação de clã"
     },
     "Relationships": {
-      "Description": "Descubra oportunidades perdidas e amantes secretos. Estes Guardiões são aqueles com quem você joga a maioria das atividades. Amem-se um ao outro.\n\nEstes Guardiões são seus membros do clã e este ranking reinicia cada nova temporada.",
-      "Name": "Parcerias",
       "BestFriends": "Melhores Amigos",
       "RomanticPartnerships": "Parcerias românticas",
       "UndiscoveredFriends": "🦘 Undiscovered Friends",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Habilitar sincronização e constante sincronização com Voluspa"
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "Sincronize suas configurações para a visibilidade de itens, mapas, triunfos seguidos e histórico de procura de perfis.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "Seu nível de luz é um agregado do valor de energia em todos os seus equipamentos equipados atualmente. Um nível de luz mais alto melhora tanto seu danos quanto sua defesa.",
         "Name": "Luz"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} Desafios Sazonais Disponíveis",
-        "Description": "🦘 Complete limited-time challenges for Season rank, Bright Dust, and other rewards.",
-        "Name": "Desafios Sazonais"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Contratos",
         "Crucible": "Crisol",
         "Dungeon": "Masmorra",

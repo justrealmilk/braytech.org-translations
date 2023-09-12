@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "ジャンプ先を下記から日付を選択する",
-        "Waiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。"
-      }
-    },
+    "SelectDateInfo": "ジャンプ先を下記から日付を選択する",
+    "SelectDateWaiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",
       "Full": "ファイアチームは満員です",
@@ -72,9 +68,8 @@
       "Open": "ファイアチームはオープンです",
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
-    "Graphs": {
-      "SelectDate": "上のグラフからアクティビティが行われた日を選択してください。"
-    },
+    "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "敗北",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
       "DownloadingReports": "レポートをダウンロードしています",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Bungie.net からファイアチームのデータを収集しています。ネットワーク環境や問い合わせの内容に応じて、時間がかかる場合があります。",
       "GenericError": "何か問題が発生しました。もう一度お試しください。",
       "HydratingReportsCache": "レポートデータをお使いのデバイスからメモリにロードしています。",
@@ -276,8 +272,6 @@
       "Name": "クラン未所属"
     },
     "Relationships": {
-      "Description": "遊べなかった人や仲が良かった人を探しましょう。彼らは、あなたが最も多くの活動を共にする人たちです。お互いを大切にしましょう。\n\nこれらのガーディアンはあなたのクランメンバーであり、このランキングは新しいシーズンごとにリセットされます。",
-      "Name": "つながり",
       "BestFriends": "ベストフレンド",
       "RomanticPartnerships": "最も仲が良いプレーヤー",
       "UndiscoveredFriends": "フレンド候補",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "対戦者やファイヤーチームを自分のクランのメンバーだけに絞り込む。",
           "Name": "クランメンバー"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "定期的にデータとVoluspaと同期させる。"
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
       "RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
         "Name": "光のレベル"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} 個のシーズンの挑戦が可能です",
-        "Description": "期間限定のシーズンランク、ブライトダスト、その他報酬がもらえる挑戦を完了しました。",
-        "Name": "シーズンの挑戦"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "バウンティ",
         "Crucible": "クルーシブル",
         "Dungeon": "迷宮",

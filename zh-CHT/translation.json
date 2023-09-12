@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "主動輪換",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "選擇一組數據",
-        "Waiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄"
-      }
-    },
+    "SelectDateInfo": "選擇一組數據",
+    "SelectDateWaiting": " 你玩的活動越多，跳得越遠，所需要的時間就越長！ \n\nBungie 的 API 暫不支持請求特定時期的活動歷史記錄",
     "Fireteam": {
       "Closed": "火力戰隊關閉",
       "Full": "火力戰隊滿員",
@@ -72,9 +68,8 @@
       "Open": "火力戰隊開放",
       "SinglePlayer": "單人活動"
     },
-    "Graphs": {
-      "SelectDate": "從上圖中選擇一個有活動的日期"
-    },
+    "SelectDateFromGraph": "從上圖中選擇一個有活動的日期",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "勝利",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "嘗試加載活動歷史記錄時出錯.請再試一次.",
       "DownloadingReports": "正在下載報告",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "正在從Bungie.net收集火力戰隊數據，所需時間取決於你的網路和請求的數據量",
       "GenericError": "出了些問題.請再試一次.",
       "HydratingReportsCache": "報告數據正在從存儲設備中載入",
@@ -276,8 +272,6 @@
       "Name": "沒有公會相關關係"
     },
     "Relationships": {
-      "Description": "發現錯失的機會與愛人，這些守護者是跟你一起參加活動最多的人彼此珍惜。\n\n這些守護者是你的公會成員，此排名每個賽季都會重置",
-      "Name": "關係",
       "BestFriends": "好朋友",
       "RomanticPartnerships": "浪漫關係",
       "UndiscoveredFriends": "未能發現的朋友",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "啓用同步，同時與Voluspa定期同步."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
       "RequirementsNotMet": "同步需要您先于 Bungie.net驗證Braytech",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "你的光等是你目前裝備中所有裝備的能量值的總和。更高的光等會提高你的傷害輸出和防禦力。",
         "Name": "光等"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} 季節性挑戰",
-        "Description": "完成賽季階級、明亮塵埃和其他獎勵的限時挑戰。",
-        "Name": "賽季挑戰"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "賞金單",
         "Crucible": "熔爐",
         "Dungeon": "地牢",

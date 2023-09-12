@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "In rotazione",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Seleziona una data qui sotto e preparati a saltare",
-        "Waiting": "Allacciati le cinture—più attività completi e più salti indietro, più tempo ci vorrà!\n\nL'API di Bungie non permette di richiedere la cronologia delle attività da un periodo specifico, quindi preparati per un lungo viaggio."
-      }
-    },
+    "SelectDateInfo": "Seleziona una data qui sotto e preparati a saltare",
+    "SelectDateWaiting": "Allacciati le cinture—più attività completi e più salti indietro, più tempo ci vorrà!\n\nL'API di Bungie non permette di richiedere la cronologia delle attività da un periodo specifico, quindi preparati per un lungo viaggio.",
     "Fireteam": {
       "Closed": "Squadra chiusa",
       "Full": "Squadra piena",
@@ -72,9 +68,8 @@
       "Open": "Squadra aperta",
       "SinglePlayer": "Attività giocatore singolo"
     },
-    "Graphs": {
-      "SelectDate": "Seleziona una data con attività dal grafico sopra."
-    },
+    "SelectDateFromGraph": "Seleziona una data con attività dal grafico sopra.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Sconfitta",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Qualcosa è andato storto durante il caricamento della cronologia attività. Perfavore riprova.",
       "DownloadingReports": "Collezionando i dati delle squadre da Bungie.net",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "Scaricando i riepiloghi",
       "GenericError": "Qualcosa è andato storto. Perfavore riprova.",
       "HydratingReportsCache": "Recuperando i riepiloghi dallo spazio d'archiviazione",
@@ -276,8 +272,6 @@
       "Name": "Nessun clan affiliato"
     },
     "Relationships": {
-      "Description": "Scopri le opportunità perse e gli amanti segreti. Questi Guardiani sono coloro con cui svolgi la maggior parte delle attività. Amatevi a vicenda.\n\nQuesti guardiani sono i membri del vostro clan e questa classifica si azzera all'inizio di ogni nuova stagione.",
-      "Name": "Relazioni",
       "BestFriends": "Migliori amici",
       "RomanticPartnerships": "Relazioni romantiche",
       "UndiscoveredFriends": "Amici da scoprire",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Attiva la sincronizzazione e sincornizza regolarmente tramite Voluspa."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "Sincronizza le tue impostazioni di visibilità oggetti, mappe, trionfi seguiti e cronologia profili.",
       "RequirementsNotMet": "Per poter attivare la sincronizzazione, prima devi autenticare Braytech con Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "Il tuo livello di Luce è una somma del valore di Potere di tutto il tuo equipaggiamento attuale. Un livello di Luce più alto migliora sia il danno che la difesa.",
         "Name": "Luce"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} sfide stagionali disponibili",
-        "Description": "Completa le sfide a tempo limitato per ottenere gradi stagionali, polvere luminosa e altre ricompense.",
-        "Name": "Sfide stagionali"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Taglie",
         "Crucible": "Crogiolo",
         "Dungeon": "Segreta",

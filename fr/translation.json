@@ -58,12 +58,8 @@
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
-    "Carnage": {
-      "SelectDate": {
-        "Info": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
-        "Waiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité."
-      }
-    },
+    "SelectDateInfo": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
+    "SelectDateWaiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité.",
     "Fireteam": {
       "Closed": "Escouade fermée",
       "Full": "Escouade complète",
@@ -72,9 +68,8 @@
       "Open": "Escouade ouverte",
       "SinglePlayer": "Activité en solo"
     },
-    "Graphs": {
-      "SelectDate": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus."
-    },
+    "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Défaite",
@@ -115,6 +110,7 @@
     "State": {
       "ActivityHistoryError": "Une erreur s'est produite lors de la tentative de chargement de l'historique des activités. Veuillez réessayer.",
       "DownloadingReports": "Téléchargement des rapports",
+      "RestoringReportsProgressValue": "🦘 Restoring Reports",
       "DownloadingReportsProgressValue": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",
       "GenericError": "Quelque chose s'est mal passé. Veuillez réessayer.",
       "HydratingReportsCache": "Les données des rapports sont en cours de chargement dans la mémoire à partir du stockage de l'appareil.",
@@ -276,8 +272,6 @@
       "Name": "Pas de clan rejoint"
     },
     "Relationships": {
-      "Description": "Découvrez les opportunités manquées et les amours secrets. Ces Gardiens sont ceux avec qui vous faites le plus d'activités. Chérissez-vous les uns les autres.\n\nCes Gardiens sont les membres de votre clan et ce classement est réinitialisé à chaque nouvelle saison.",
-      "Name": "Relations",
       "BestFriends": "Meilleurs amis",
       "RomanticPartnerships": "Partenariats romantiques",
       "UndiscoveredFriends": "Amis méconnus",
@@ -294,6 +288,10 @@
         "LimitGroupMembers": {
           "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
           "Name": "🦘 Clan Members"
+        },
+        "LimitBungieFriends": {
+          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
+          "Name": "🦘 Bungie Friends"
         }
       }
     },
@@ -1178,6 +1176,7 @@
           "Description": "Activez la synchronisation et synchronisez régulièrement avec Voluspa."
         }
       },
+      "Configure": "🦘 Configure Sync Service",
       "Info": "Synchronisez vos paramètres pour la visibilité des éléments, les cartes, les triomphes suivis et l'historique de recherche de profil.",
       "RequirementsNotMet": "La synchronisation nécessite que vous authentifiez d'abord Braytech auprès de Bungie.net.",
       "State": {
@@ -1424,12 +1423,9 @@
         "Description": "Votre niveau de Lumière correspond au cumul de la puissance de votre équipement sélectionné. Un niveau de Lumière plus élevé améliore vos dégâts et votre défense.",
         "Name": "Lumière"
       },
-      "SeasonalChallenges": {
-        "Available": "{{number}} Défis saisonniers disponibles",
-        "Description": "Relevez des défis à durée limitée pour augmenter votre rang de saison, obtenir de la poussière brillante et d'autres récompenses.",
-        "Name": "Défis saisonniers"
-      },
+      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
+        "Rituals": "🦘 Rituals",
         "Bounties": "Contrats",
         "Crucible": "Épreuve",
         "Dungeon": "Donjon",
