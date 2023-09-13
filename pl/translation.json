@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
     "NoMedalsAwarded": "🦘 No Medals Awarded",
     "NoStatsAvailable": "🦘 통계 없음",
-    "Score": {
-      "Team": "🦘 Team Score"
-    },
+    "TeamScore": "🦘 Team Score",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "🦘 To drill down to a specific activity, select a mode from the interface above",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "🦘 Rewards",
     "Savathûn'sCurse": "🦘 Savathûn's Curse",
     "Score": "🦘 Score",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "🦘 Score Value",
     "Screenshot": "🦘 스크린샷",
     "Search": "🦘 Search",

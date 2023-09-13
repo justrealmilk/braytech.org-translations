@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "Modificadores não estão disponíveis agora",
     "NoMedalsAwarded": "Nenhuma Medalha Premiada",
     "NoStatsAvailable": "Nenhuma estatística disponível",
-    "Score": {
-      "Team": "🦘 Team Score"
-    },
+    "TeamScore": "🦘 Team Score",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "Para detalhar uma atividade específica, selecione um modo na interface acima",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "Recompensas",
     "Savathûn'sCurse": "Maldição de Savathûn",
     "Score": "Pontuação",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "Valor de Pontuação",
     "Screenshot": "Captura de Tela",
     "Search": "Busca",

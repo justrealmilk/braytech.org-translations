@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "Score": {
-      "Team": "チームスコア"
-    },
+    "TeamScore": "チームスコア",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "報酬",
     "Savathûn'sCurse": "サバスンの呪い",
     "Score": "スコア",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "スコア値",
     "Screenshot": "スクリーショット",
     "Search": "検索",

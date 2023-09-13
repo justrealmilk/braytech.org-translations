@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "Modificateurs indisponibles pour le moment.",
     "NoMedalsAwarded": "Pas de médaille remportée",
     "NoStatsAvailable": "Pas de statistiques disponibles",
-    "Score": {
-      "Team": "Score d'équipe"
-    },
+    "TeamScore": "Score d'équipe",
     "SelectMode": "Sélectionnez le mode",
     "SelectModeInfo": "Pour accéder à une activité spécifique, sélectionnez un mode dans l'interface ci-dessus",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "Récompenses",
     "Savathûn'sCurse": "Malédiction de Savathûn",
     "Score": "Score",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "Valeur du score",
     "Screenshot": "Capture d'écran",
     "Search": "Recherche",

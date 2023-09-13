@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "修飾系統暫時不可用",
     "NoMedalsAwarded": "未取得印章",
     "NoStatsAvailable": "沒有可用的統計信息",
-    "Score": {
-      "Team": "團隊得分"
-    },
+    "TeamScore": "團隊得分",
     "SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
     "SelectModeInfo": "要查看特定的活動，請從上方的界面処懸著一個模式",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "獎勵",
     "Savathûn'sCurse": "薩瓦圖恩詛咒",
     "Score": "分數",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "得分",
     "Screenshot": "截圖",
     "Search": "搜索",

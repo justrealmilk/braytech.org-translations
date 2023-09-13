@@ -95,9 +95,7 @@
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
-    "Score": {
-      "Team": "团队得分"
-    },
+    "TeamScore": "团队得分",
     "SelectMode": "选择模式",
     "SelectModeInfo": "要查看特定活动，请从上方的界面处选择一个模式",
     "Standing": {
@@ -445,6 +443,7 @@
     "Reward_plural": "奖励",
     "Savathûn'sCurse": "萨瓦图恩之咒",
     "Score": "分数",
+    "Score_plural": "🦘 Scores",
     "ScoreValue": "分值",
     "Screenshot": "截图",
     "Search": "搜索",
