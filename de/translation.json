@@ -34,6 +34,7 @@
     "Lock": "Sperren",
     "MemberRemove": "Mitglied entfernen",
     "NextNth": "Nächsten {{number}}",
+    "SeeNextNth": "🦘 No partially completed triumphs. Choose an objective and get started!",
     "Now": "Jetzt",
     "Open": "Öffnen",
     "Previous": "Vorherige",
@@ -460,6 +461,7 @@
     "Support": "🦘 Support",
     "TimePlayed": "Zeit gespielt",
     "TimeRemaining": "Zeit verbleibend",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "Übersetzer",
     "TrialsPassage": "Prüfungen-Pässe",
     "TrialsPoints": "Prüfungen-Punkte",
@@ -1175,6 +1177,7 @@
           "Description": "Synchronisierung aktivieren und regelmäßig mit Voluspa synchronisieren."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "Synchronisiere deine Einstellungen für die Sichtbarkeit von Gegenständen, Karten, verfolgte Erfolge und den Verlauf der Profilsuche.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "Deine Einstellungen können derzeit nicht gelöscht werden. Dieser Fehler ist temporär.",
       "Success": "Deine Einstellungen wurden gelöscht. Die Synchronisierung ist jetzt deaktiviert."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "Alle abgeschlossen",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
-      "SeeNext": "Zeige die Nächsten {{number}}"
-    },
-    "AlmostCompleteTriumphs": "Fast abgeschlossen",
+    "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Dieser Triumph ist geheim und wird möglicherweise in Zukunft verfügbar sein.",
       "Name": "Geheimer Triumph"
@@ -1295,12 +1297,7 @@
     "EventCard": "🦘 Event Card",
     "LegacySeal_plural": "Abgelaufene Siegel",
     "LegacyTriumph_plural": "Abgelaufene Triumphe",
-    "LegacyTriumphs": {
-      "Description": "Triumphe aus der Vergangenheit. Diese Aufzeichnungen sind nicht mehr erhältlich, sondern werden hier für die Nachwelt und zur Überprüfung aufbewahrt."
-    },
-    "Lore": {
-      "SelectEntry": "Wähle einen Eintrag zum Lesen."
-    },
+    "SelectEntry": "Wähle einen Eintrag zum Lesen.",
     "Record": {
       "Commonality": {
         "Description": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben."
@@ -1317,6 +1314,7 @@
         "Description": "Die Triumph Punktzahl des aktuellen Intervalls."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
     "RecordsUnavailable": "🦘 There are no records available for display.",
     "Seal": "🦘 Seal",
@@ -1349,19 +1347,12 @@
       "Score": "Nach Punkten sortiert",
       "Unsorted": "Sortiert von Bungie"
     },
-    "Tracked": {
-      "NoTrackedRecords": "Du hast noch keine Triumphe markiert!",
-      "SeeAll": "Zeige alle Markierten"
-    },
+    "NoTrackedRecords": "Du hast noch keine Triumphe markiert!",
     "TrackedTriumphs": "Markierte Triumphe",
     "Triumph_plural": "Triumphe",
     "UnobtainableTriumphs": "Unerreichbar",
-    "Unredeemed": {
-      "Info": "Schwelge in deinen Erfolgen und löse diese Triumphe ein.",
-      "InfoWithScoreValue": "Löse diese Triumphe ein und erhöhe deine Triumphpunktzahl um {{value}}.",
-      "Number": "{{number}} nicht eingelöste Triumphe"
-    },
-    "UnredeemedTriumphs": "Nicht eingelöste Triumphe"
+    "UnredeemedTriumphs": "Nicht eingelöste Triumphe",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

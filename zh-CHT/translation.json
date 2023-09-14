@@ -34,6 +34,7 @@
     "Lock": "鎖定",
     "MemberRemove": "移除成員",
     "NextNth": "下 {{number}}",
+    "SeeNextNth": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
     "Now": "當前頁",
     "Open": "打開",
     "Previous": "前往",
@@ -460,6 +461,7 @@
     "Support": "🦘 Support",
     "TimePlayed": "游戲時間",
     "TimeRemaining": "剩餘時間",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "譯者",
     "TrialsPassage": "試煉門票",
     "TrialsPoints": "試煉分數",
@@ -1175,6 +1177,7 @@
           "Description": "啓用同步，同時與Voluspa定期同步."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "同步你的設定項：項目可見性、地圖、追鐘的凱旋記錄和個人資料搜索歷史記錄.",
       "RequirementsNotMet": "同步需要您先于 Bungie.net驗證Braytech",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "目前無法刪除您的設置這是一個臨時故障.",
       "Success": "您的設置已被刪除現在已禁用同步."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "所有完成項",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
-      "SeeNext": "查看接下來 {{number}} 個"
-    },
-    "AlmostCompleteTriumphs": "即將完成",
+    "NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "這個記錄已被歸檔並可能在之後被解密",
       "Name": "已分類記錄"
@@ -1295,12 +1297,7 @@
     "EventCard": "事件卡片",
     "LegacySeal_plural": "昔日印章",
     "LegacyTriumph_plural": "昔日凱旋記錄",
-    "LegacyTriumphs": {
-      "Description": "舊的凱旋記錄，這些記錄已經不能在獲得了，但是保存在這裏方便查閲."
-    },
-    "Lore": {
-      "SelectEntry": "選擇需要查閲的條目"
-    },
+    "SelectEntry": "選擇需要查閲的條目",
     "Record": {
       "Commonality": {
         "Description": "被Voluspa收錄的玩家中有多少人獲得了這個記錄."
@@ -1317,6 +1314,7 @@
         "Description": "在總記錄值的下一個未兌換區間的分數值."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "您已取得所有這些記錄並選擇隱藏他們",
     "RecordsUnavailable": "沒有可顯示的記錄",
     "Seal": "印章",
@@ -1349,19 +1347,12 @@
       "Score": "按分數排序",
       "Unsorted": "按Bungie默認排序"
     },
-    "Tracked": {
-      "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
-      "SeeAll": "查看所有追蹤"
-    },
+    "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
     "TrackedTriumphs": "已跟蹤記錄",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "無法獲得",
-    "Unredeemed": {
-      "Info": "為你的成就改到自豪同時別忘了兌換他們。",
-      "InfoWithScoreValue": "兌換這些凱旋記錄以取得 {{value}} 凱旋記錄點數.",
-      "Number": "{{number}} 個未兌換的凱旋記錄"
-    },
-    "UnredeemedTriumphs": "未兌換成就"
+    "UnredeemedTriumphs": "未兌換成就",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

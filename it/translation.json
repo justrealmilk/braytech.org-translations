@@ -34,6 +34,7 @@
     "Lock": "Blocca",
     "MemberRemove": "Rimuovi membro",
     "NextNth": "Prossimi {{number}}",
+    "SeeNextNth": "Nessun trionfo parzialmente completato. Scegli un obiettivo e inizia!",
     "Now": "Ora",
     "Open": "Apri",
     "Previous": "Precedenti",
@@ -460,6 +461,7 @@
     "Support": "Supportami",
     "TimePlayed": "Tempo di gioco",
     "TimeRemaining": "Tempo rimanente",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "Traduttori",
     "TrialsPassage": "Passaggio delle Prove",
     "TrialsPoints": "Punti prove",
@@ -1175,6 +1177,7 @@
           "Description": "Attiva la sincronizzazione e sincornizza regolarmente tramite Voluspa."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "Sincronizza le tue impostazioni di visibilità oggetti, mappe, trionfi seguiti e cronologia profili.",
       "RequirementsNotMet": "Per poter attivare la sincronizzazione, prima devi autenticare Braytech con Bungie.net.",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "Non è stato possibile eliminare le tue impostazioni al momento. Questo è un errore temporaneo.",
       "Success": "Le tue impostazioni sono state eliminate. La sincronizzazione è stata disattivata."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "Tutto completato",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "Nessun trionfo parzialmente completato. Scegli un obiettivo e inizia!",
-      "SeeNext": "Vedi i prossimi {{number}}"
-    },
-    "AlmostCompleteTriumphs": "Quasi completati",
+    "NonePartiallyComplete": "Nessun trionfo parzialmente completato. Scegli un obiettivo e inizia!",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Questo trionfo è censurato e sarà rivelato in futuro",
       "Name": "Censurato"
@@ -1295,12 +1297,7 @@
     "EventCard": "Carta evento",
     "LegacySeal_plural": "Sigilli storici",
     "LegacyTriumph_plural": "Trionfi storici",
-    "LegacyTriumphs": {
-      "Description": "Trionfi del passato, questi trionfi non sono più ottenibili ma sono preservati qui per posterità e revisione."
-    },
-    "Lore": {
-      "SelectEntry": "Seleziona una pagina da leggere."
-    },
+    "SelectEntry": "Seleziona una pagina da leggere.",
     "Record": {
       "Commonality": {
         "Description": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo."
@@ -1317,6 +1314,7 @@
         "Description": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "Hai già riscattato tutti questi trionfi e hai scelto di nasconderli.",
     "RecordsUnavailable": "Non ci sono trionfi disponibili da visualizzare.",
     "Seal": "Sigillo",
@@ -1349,19 +1347,12 @@
       "Score": "Ordina per **punti**",
       "Unsorted": "Ordine **predefinito di Bungie**"
     },
-    "Tracked": {
-      "NoTrackedRecords": "Non stai ancora seguendo nessun trionfo!",
-      "SeeAll": "Vedi tutti i trionfi seguiti"
-    },
+    "NoTrackedRecords": "Non stai ancora seguendo nessun trionfo!",
     "TrackedTriumphs": "Trionfi seguiti",
     "Triumph_plural": "Trionfi",
     "UnobtainableTriumphs": "Trionfi non ottenibili",
-    "Unredeemed": {
-      "Info": "Riscatta e goditi questi trionfi.",
-      "InfoWithScoreValue": "Riscatta questi trionfi e aumenta il tuo punteggio trionfale di {{value}} punti.",
-      "Number": "{{number}} trionfi non riscattati"
-    },
-    "UnredeemedTriumphs": "Trionfi non riscattati"
+    "UnredeemedTriumphs": "Trionfi non riscattati",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

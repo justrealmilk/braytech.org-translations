@@ -34,6 +34,7 @@
     "Lock": "잠금",
     "MemberRemove": "회원 삭제",
     "NextNth": "다음 {{number}}개",
+    "SeeNextNth": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
     "Now": "지금 ",
     "Open": "열기",
     "Previous": "이전",
@@ -460,6 +461,7 @@
     "Support": "🦘 Support",
     "TimePlayed": "플레이한 시간",
     "TimeRemaining": "남은 시간",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "번역가",
     "TrialsPassage": "시험 통행권",
     "TrialsPoints": "시험 점수",
@@ -1175,6 +1177,7 @@
           "Description": "Voluspa의 정기적인 동기화를 활성화합니다."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "아이템 보기, 지도, 추적한 업적 및 프로필 검색 기록에 대한 설정을 동기화합니다.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "설정을 삭제할 수 없습니다. 일시적인 오류입니다.",
       "Success": "설정이 삭제되었습니다. 동기화가 비활성화되었습니다."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "모두 완료했습니다.",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
-      "SeeNext": "다음 {{number}}개 보기"
-    },
-    "AlmostCompleteTriumphs": "거의 완료됨",
+    "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",
       "Name": "기밀 업적"
@@ -1295,12 +1297,7 @@
     "EventCard": "🦘 Event Card",
     "LegacySeal_plural": "유산 인장",
     "LegacyTriumph_plural": "유산 업적",
-    "LegacyTriumphs": {
-      "Description": "과거의 업적, 이 업적들은 더 이상 얻을 수 없지만 후대에 다시 볼 수 있도록 보존됩니다."
-    },
-    "Lore": {
-      "SelectEntry": "읽을 지식을 선택하세요."
-    },
+    "SelectEntry": "읽을 지식을 선택하세요.",
     "Record": {
       "Commonality": {
         "Description": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
@@ -1317,6 +1314,7 @@
         "Description": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
     "RecordsUnavailable": "🦘 There are no records available for display.",
     "Seal": "🦘 Seal",
@@ -1349,19 +1347,12 @@
       "Score": "점수 정렬",
       "Unsorted": "번지 기준 정렬"
     },
-    "Tracked": {
-      "NoTrackedRecords": "추적중인 업적이 없습니다!",
-      "SeeAll": "추적중인 항목 모두 보기"
-    },
+    "NoTrackedRecords": "추적중인 업적이 없습니다!",
     "TrackedTriumphs": "추적중인 업적",
     "Triumph_plural": "업적",
     "UnobtainableTriumphs": "획득 불가능",
-    "Unredeemed": {
-      "Info": "🦘 Revel in your triumphs and redeem these records.",
-      "InfoWithScoreValue": "이 업적들을 확인하고 업적 점수 {{value}} 점을 획득하세요.",
-      "Number": "{{number}}개의 확인하지 않은 업적"
-    },
-    "UnredeemedTriumphs": "획득하지 않은 업적"
+    "UnredeemedTriumphs": "획득하지 않은 업적",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

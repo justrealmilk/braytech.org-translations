@@ -34,6 +34,7 @@
     "Lock": "Verrouiller",
     "MemberRemove": "Supprimer le membre",
     "NextNth": "Suivant {{number}}",
+    "SeeNextNth": "Pas de triomphes partiellement achevés. Choisissez un objectif et lancez-vous !",
     "Now": "Aujourd'hui",
     "Open": "Ouvrir",
     "Previous": "Précédent",
@@ -460,6 +461,7 @@
     "Support": "🦘 Support",
     "TimePlayed": "Temps de jeu",
     "TimeRemaining": "Temps restant",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "Traducteurs",
     "TrialsPassage": "Passage du Jugement",
     "TrialsPoints": "Points du Jugement",
@@ -1175,6 +1177,7 @@
           "Description": "Activez la synchronisation et synchronisez régulièrement avec Voluspa."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "Synchronisez vos paramètres pour la visibilité des éléments, les cartes, les triomphes suivis et l'historique de recherche de profil.",
       "RequirementsNotMet": "La synchronisation nécessite que vous authentifiez d'abord Braytech auprès de Bungie.net.",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "Vos paramètres n'ont pas pu être supprimés pour le moment. Il s'agit d'un échec temporaire.",
       "Success": "Vos paramètres ont été supprimés. La synchronisation est maintenant désactivée."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "Tout a été complété",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "Pas de triomphes partiellement achevés. Choisissez un objectif et lancez-vous !",
-      "SeeNext": "Voir les {{number}} suivants"
-    },
-    "AlmostCompleteTriumphs": "Presque terminé",
+    "NonePartiallyComplete": "Pas de triomphes partiellement achevés. Choisissez un objectif et lancez-vous !",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Cette entrée est confidentielle et sera probablement révélée plus tard.",
       "Name": "Triomphe confidentiel"
@@ -1295,12 +1297,7 @@
     "EventCard": "Carte de l'évènement",
     "LegacySeal_plural": "Sceaux du passé",
     "LegacyTriumph_plural": "Triomphes du passé",
-    "LegacyTriumphs": {
-      "Description": "Triomphes du passé, ces documents ne sont plus disponibles mais sont conservés ici pour la postérité."
-    },
-    "Lore": {
-      "SelectEntry": "Sélectionnez une entrée à lire"
-    },
+    "SelectEntry": "Sélectionnez une entrée à lire",
     "Record": {
       "Commonality": {
         "Description": "Pourcentage de joueurs indexés par Voluspa qui ont validé ce triomphe."
@@ -1317,6 +1314,7 @@
         "Description": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "Vous avez récupéré toutes ces données et choisi de les masquer.",
     "RecordsUnavailable": "Il n'y a pas de données disponibles pour l'affichage.",
     "Seal": "Sceau",
@@ -1349,19 +1347,12 @@
       "Score": "Trié par score",
       "Unsorted": "Trié par Bungie"
     },
-    "Tracked": {
-      "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
-      "SeeAll": "Voir tous les suivis"
-    },
+    "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
     "TrackedTriumphs": "Enregistrements suivis",
     "Triumph_plural": "Triomphes",
     "UnobtainableTriumphs": "Impossible à obtenir",
-    "Unredeemed": {
-      "Info": "Délectez-vous de vos triomphes et réclamer les.",
-      "InfoWithScoreValue": "Échangez ces enregistrements et augmentez votre score de triomphe de {{value}} points.",
-      "Number": "{{number}} triomphes non validés"
-    },
-    "UnredeemedTriumphs": "Triomphes non validés"
+    "UnredeemedTriumphs": "Triomphes non validés",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

@@ -34,6 +34,7 @@
     "Lock": "🦘 잠금",
     "MemberRemove": "🦘 Remove Member",
     "NextNth": "🦘 Next {{number}}",
+    "SeeNextNth": "🦘 No partially completed triumphs. Choose an objective and get started!",
     "Now": "🦘 Now",
     "Open": "🦘 Open",
     "Previous": "🦘 Previous",
@@ -460,6 +461,7 @@
     "Support": "🦘 Support",
     "TimePlayed": "🦘 Time Played",
     "TimeRemaining": "🦘 남은 시간",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "🦘 Translators",
     "TrialsPassage": "🦘 시험 통행권",
     "TrialsPoints": "🦘 시험 점수",
@@ -1175,6 +1177,7 @@
           "Description": "🦘 Enable sync and regularly sync with Voluspa."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "🦘 Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
       "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "🦘 Your settings could not be deleted at this time. This is a temporary failure.",
       "Success": "🦘 Your settings have been deleted. Sync is now disabled."
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "🦘 모두 완료했습니다.",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
-      "SeeNext": "🦘 See Next {{number}}"
-    },
-    "AlmostCompleteTriumphs": "🦘 Almost Complete",
+    "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "🦘 This record is classified and may be revealed at a later time.",
       "Name": "🦘 Classified Record"
@@ -1295,12 +1297,7 @@
     "EventCard": "🦘 Event Card",
     "LegacySeal_plural": "🦘 Legacy Seals",
     "LegacyTriumph_plural": "🦘 Legacy Triumphs",
-    "LegacyTriumphs": {
-      "Description": "🦘 Triumphs from the past, these records are no longer obtainable but are preserved here for posterity and review."
-    },
-    "Lore": {
-      "SelectEntry": "🦘 Select an entry to read."
-    },
+    "SelectEntry": "🦘 Select an entry to read.",
     "Record": {
       "Commonality": {
         "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record."
@@ -1317,6 +1314,7 @@
         "Description": "🦘 The next unredeemed interval's score value over the total record value."
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
     "RecordsUnavailable": "🦘 There are no records available for display.",
     "Seal": "🦘 Seal",
@@ -1349,19 +1347,12 @@
       "Score": "🦘 Sorted by Score",
       "Unsorted": "🦘 Sorted by Bungie"
     },
-    "Tracked": {
-      "NoTrackedRecords": "🦘 You aren't tracking any records yet!",
-      "SeeAll": "🦘 See All Tracked"
-    },
+    "NoTrackedRecords": "🦘 You aren't tracking any records yet!",
     "TrackedTriumphs": "🦘 Tracked Records",
     "Triumph_plural": "🦘 Triumphs",
     "UnobtainableTriumphs": "🦘 Unobtainable",
-    "Unredeemed": {
-      "Info": "🦘 Revel in your triumphs and redeem these records.",
-      "InfoWithScoreValue": "🦘 Redeem these records and increase your triumph score by {{value}} points.",
-      "Number": "🦘 {{number}} Unredeemed Triumphs"
-    },
-    "UnredeemedTriumphs": "🦘 Unredeemed Triumphs"
+    "UnredeemedTriumphs": "🦘 Unredeemed Triumphs",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

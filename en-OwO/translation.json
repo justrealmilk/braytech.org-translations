@@ -1173,7 +1173,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": {
         "Description": "Uuw settings couwd not be deweted at this time. This is a tempowawy faiwuwe."

@@ -34,6 +34,7 @@
     "Lock": "ロックする",
     "MemberRemove": "メンバーを外す",
     "NextNth": "次の{{number}}件",
+    "SeeNextNth": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
     "Now": "最新",
     "Open": "開く",
     "Previous": "戻る",
@@ -460,6 +461,7 @@
     "Support": "支援する",
     "TimePlayed": "プレイ時間",
     "TimeRemaining": "残り時間",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "翻訳者",
     "TrialsPassage": "試練の道のり",
     "TrialsPoints": "試練のポイント",
@@ -1175,6 +1177,7 @@
           "Description": "定期的にデータとVoluspaと同期させる。"
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "サービス同期設定",
       "Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
       "RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "設定を削除することができませんでした。これは一時的な障害です。",
       "Success": "設定が削除されました。同期が無効になりました。"
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "すべて達成済",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
-      "SeeNext": "次の{{number}}件を見る"
-    },
-    "AlmostCompleteTriumphs": "もうすぐ完成",
+    "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
       "Name": "機密の記録"
@@ -1295,12 +1297,7 @@
     "EventCard": "イベントカード",
     "LegacySeal_plural": "過去の印",
     "LegacyTriumph_plural": "過去の勝利の道のり",
-    "LegacyTriumphs": {
-      "Description": "過去の勝利の道のりは現在では挑戦できませんが、後世に残すためにここに保存されています。"
-    },
-    "Lore": {
-      "SelectEntry": "読みたい伝承を選択してください"
-    },
+    "SelectEntry": "読みたい伝承を選択してください",
     "Record": {
       "Commonality": {
         "Description": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。"
@@ -1317,6 +1314,7 @@
         "Description": "合計レコード値に対する次に獲得するスコア値"
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",
     "Seal": "印",
@@ -1349,19 +1347,12 @@
       "Score": "スコア順に並び替え",
       "Unsorted": "Bungie指定の順に並び替え"
     },
-    "Tracked": {
-      "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
-      "SeeAll": "すべての追跡を見る"
-    },
+    "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
     "TrackedTriumphs": "追跡中の勝利の道のり",
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
-    "Unredeemed": {
-      "Info": "勝利を勝ち取り記録を塗り変えよ",
-      "InfoWithScoreValue": "まだ取得してない勝利の道のりを解除するとスコアが {{value}} 点まで増えますよ。",
-      "Number": "{{number}} 個の取得していない勝利の道のりがあります"
-    },
-    "UnredeemedTriumphs": "取得していない勝利の道のり"
+    "UnredeemedTriumphs": "取得していない勝利の道のり",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {

@@ -34,6 +34,7 @@
     "Lock": "锁定",
     "MemberRemove": "去除成员",
     "NextNth": "后 {{number}} 项",
+    "SeeNextNth": "没有部分完成的成就。选择一个目标然后开始努力吧！",
     "Now": "当前页",
     "Open": "打开",
     "Previous": "往前",
@@ -460,6 +461,7 @@
     "Support": "支持",
     "TimePlayed": "游戏时间",
     "TimeRemaining": "剩余时间",
+    "TopNth": "🦘 Top {{number}}",
     "Translator_plural": "译者",
     "TrialsPassage": "试炼门票",
     "TrialsPoints": "试炼分数",
@@ -1175,6 +1177,7 @@
           "Description": "启用同步，同时与Voluspa定期同步."
         }
       },
+      "Enabled": "🦘 Sync Enabled",
       "Configure": "🦘 Configure Sync Service",
       "Info": "同步你的设置项：项目可见性、地图、追踪的凯旋记录和个人资料搜索历史记录.",
       "RequirementsNotMet": "同步功能需要您先于 Bungie.net 验证 Braytech。",
@@ -1229,7 +1232,7 @@
       }
     }
   },
-  "SyncService": {
+  "Sync": {
     "Delete": {
       "Failure": "你的设置现在无法被删除。这是一个临时错误。",
       "Success": "你的设置也别删除。同步已被关闭。"
@@ -1275,11 +1278,10 @@
   },
   "Triumphs": {
     "AllCompleted": "全部完成",
-    "AlmostComplete": {
-      "NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
-      "SeeNext": "查看其他成就（ {{number}} 个） "
-    },
-    "AlmostCompleteTriumphs": "即将完成",
+    "NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
+    "NearTriumphs": "🦘 Near",
+    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "这个记录为绝密并可能在之后被解密。",
       "Name": "绝密记录"
@@ -1295,12 +1297,7 @@
     "EventCard": "事件卡片",
     "LegacySeal_plural": "传承称号",
     "LegacyTriumph_plural": "传承成就",
-    "LegacyTriumphs": {
-      "Description": "过去的成就，这些记录已经无法在被获取但我们将他留在这里以供后人查看。"
-    },
-    "Lore": {
-      "SelectEntry": "选择一项来阅读。"
-    },
+    "SelectEntry": "选择一项来阅读。",
     "Record": {
       "Commonality": {
         "Description": "Voluspa 所追踪玩家获得此成就的比例"
@@ -1317,6 +1314,7 @@
         "Description": "距离下次获取成就分所需要的数目"
       }
     },
+    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",
     "RecordsUnavailable": "没有可显示的记录。",
     "Seal": "称号",
@@ -1349,19 +1347,12 @@
       "Score": "按分数排序",
       "Unsorted": "按 Bungie 默认排序"
     },
-    "Tracked": {
-      "NoTrackedRecords": "你尚未追踪任何一条记录！",
-      "SeeAll": "查看所有追踪"
-    },
+    "NoTrackedRecords": "你尚未追踪任何一条记录！",
     "TrackedTriumphs": "已跟踪记录",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",
-    "Unredeemed": {
-      "Info": "为你的成就感到自豪，同时别忘了兑换它们。",
-      "InfoWithScoreValue": "兑换这些成就以取得 {{value}} 成就点数。",
-      "Number": "{{number}} 未兑换的成就"
-    },
-    "UnredeemedTriumphs": "未兑换成就"
+    "UnredeemedTriumphs": "未兑换成就",
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
   },
   "Upsell": {
     "Auth": {
