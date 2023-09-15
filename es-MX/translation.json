@@ -70,7 +70,7 @@
       "SinglePlayer": "Actividad de un jugador"
     },
     "SelectDateFromGraph": "Selecciona una fecha con actividades jugadas en el gráfico de arriba.",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "BookmarksSync": "Sincroniza favoritos entre dispositivos con Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Derrota",
@@ -109,7 +109,7 @@
     "State": {
       "ActivityHistoryError": "Algo salió mal al intentar cargar el historial de actividades. Por favor, inténtalo de nuevo.",
       "DownloadingReports": "Descargando informes",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
+      "RestoringReportsProgressValue": "Restableciendo informes",
       "DownloadingReportsProgressValue": "Recolectando datos de escuadra de Bungie.net. Esto puede llevar un tiempo en función de tu red y del número requerido.",
       "GenericError": "Algo salió mal. Por favor, inténtalo de nuevo.",
       "HydratingReportsCache": "Los datos de los informes se están cargando en la memoria desde el almacenamiento del dispositivo.",
@@ -253,14 +253,13 @@
       "EmblemForegroundColor": "Color en primer plano del emblema",
       "Name": "Diseñador de estandartes de clan"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "Estandarte",
+    "ClanAbout": "Acerca de",
     "ClanRoster": "Jugadores",
     "ClanTimetable": "Calendario",
     "Founded": "Fundado el {{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
-    "HistoricalStats": {
+    "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
+    "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",    "HistoricalStats": {
       "Description": "Compara las estadísticas de jugadores, desglosadas por modo de actividad. Para más información sobre la precisión de estas estadísticas, consulta [Preguntas frecuentes](/addendums/faq).",
       "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
     },
@@ -289,8 +288,8 @@
           "Name": "Miembros del clan"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "Filtra encuentros y escuadras para que solo incluyan amigos de Bungie.",
+          "Name": "Amigos de Bungie"
         }
       }
     },
@@ -444,7 +443,7 @@
     "Reward_plural": "Recompensas",
     "Savathûn'sCurse": "Maldición de Savathûn",
     "Score": "Puntaje",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "Puntajes",
     "ScoreValue": "Valor en puntos",
     "Screenshot": "Captura de pantalla",
     "Search": "Buscar",
@@ -461,7 +460,7 @@
     "Support": "Apoyo",
     "TimePlayed": "Tiempo jugado",
     "TimeRemaining": "Tiempo restante",
-    "TopNth": "🦘 Top {{number}}",
+    "TopNth": "Los {{number}} mejores",
     "Translator_plural": "Traductores",
     "TrialsPassage": "Pase de las Pruebas",
     "TrialsPoints": "Puntos de las Pruebas",
@@ -1177,9 +1176,8 @@
           "Description": "Habilita la sincronización y sincroniza regularmente con Voluspa."
         }
       },
-      "Enabled": "🦘 Sync Enabled",
-      "Configure": "🦘 Configure Sync Service",
-      "Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
+      "Enabled": "Sincronización activada",
+      "Configure": "Configurar servicio de sincronización",      "Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
       "RequirementsNotMet": "La sincronización requiere que primero autentiques Braytech con Bungie.net.",
       "State": {
         "Merged": "Última fusión hace {{duration}}",
@@ -1279,9 +1277,9 @@
   "Triumphs": {
     "AllCompleted": "Todo completado",
     "NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "NearTriumphs": "Cerca",
+    "NearLimit": "La visualización está limitada a {{number}} triunfos por razones de rendimiento.",
+    "PartiallyComplete": "{{number}} parcialmente completado/s",
     "Classified": {
       "Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",
       "Name": "Triunfo clasificado"
@@ -1314,8 +1312,7 @@
         "Description": "El valor del puntaje del paso actual sobre el valor total del triunfo."
       }
     },
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
-    "RecordsRedeemed": "Canjeaste todos estos triunfos y elegiste ocultarlos.",
+    "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",    "RecordsRedeemed": "Canjeaste todos estos triunfos y elegiste ocultarlos.",
     "RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
     "Seal": "Sello",
     "SealTitleSeasonSuffix": "{{title}} (Temporada {{season}})",
@@ -1352,7 +1349,7 @@
     "Triumph_plural": "Triunfos",
     "UnobtainableTriumphs": "No disponibles",
     "UnredeemedTriumphs": "Triunfos sin canjear",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
+    "TrackedSync": "Sincroniza los triunfos seguidos entre dispositivos con Voluspa."
   },
   "Upsell": {
     "Auth": {
@@ -1413,9 +1410,9 @@
         "Description": "Tu nivel de Luz es el total de los valores de Potencia de todo tu equipamiento actual. Un mayor nivel de Luz mejora el daño que causas y tu defensa.",
         "Name": "Luz"
       },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+      "SeasonalChallengesAvailable": "{{number}} desafíos semanales disponibles",
       "Type": {
-        "Rituals": "🦘 Rituals",
+        "Rituals": "Rituales",
         "Bounties": "Contratos",
         "Crucible": "Crisol",
         "Dungeon": "Mazmorra",
