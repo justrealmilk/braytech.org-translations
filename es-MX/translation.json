@@ -259,7 +259,8 @@
     "ClanTimetable": "Calendario",
     "Founded": "Fundado el {{time}}",
     "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
-    "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",    "HistoricalStats": {
+    "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",
+    "HistoricalStats": {
       "Description": "Compara las estadísticas de jugadores, desglosadas por modo de actividad. Para más información sobre la precisión de estas estadísticas, consulta [Preguntas frecuentes](/addendums/faq).",
       "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
     },
@@ -1177,7 +1178,8 @@
         }
       },
       "Enabled": "Sincronización activada",
-      "Configure": "Configurar servicio de sincronización",      "Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
+      "Configure": "Configurar servicio de sincronización",
+      "Info": "Sincroniza tu configuración sobre la visibilidad de elementos, mapas, triunfos seguidos e historial de búsqueda de perfiles.",
       "RequirementsNotMet": "La sincronización requiere que primero autentiques Braytech con Bungie.net.",
       "State": {
         "Merged": "Última fusión hace {{duration}}",
@@ -1312,7 +1314,8 @@
         "Description": "El valor del puntaje del paso actual sobre el valor total del triunfo."
       }
     },
-    "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",    "RecordsRedeemed": "Canjeaste todos estos triunfos y elegiste ocultarlos.",
+    "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",
+    "RecordsRedeemed": "Canjeaste todos estos triunfos y elegiste ocultarlos.",
     "RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
     "Seal": "Sello",
     "SealTitleSeasonSuffix": "{{title}} (Temporada {{season}})",
