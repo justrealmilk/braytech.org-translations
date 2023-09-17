@@ -586,27 +586,21 @@
     "WeaponStats": "武器性能"
   },
   "Landing": {
+    "FeaturedThisWeek": "今週のDestiny2",
+    "CallToAction": "Breytechで世界を探索し、暗黒の力との対決に必要な装備と見落としていたことを探し出しましょう",
+    "Features": {
+      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": "アップデート情報",
     "Blog": {
       "AllPosts": "すべての記事",
       "Error": "ブログ記事の読み込みができませんでした。",
       "Name": "Blog"
-    },
-    "CallToAction": {
-      "Text": "Breytechで世界を探索し、暗黒の力との対決に必要な装備と見落としていたことを探し出しましょう"
-    },
-    "Featured": {
-      "ThisWeek": "今週のDestiny2"
-    },
-    "Features": {
-      "Description": "Braytechは情熱を持って取り組んでいるプロジェクトです。その開発は2年以上に渡って続けられており、何度も追加や改良が行われてきました。 開発者であるTom ChapmanはDestinyのデザインのファンであり、それがBraytechの美的感覚に強く反映されています。\n\nBraytechは、チェックリストアプリとしてスタートしましたが、今では多くの機能を持った存在になりました。常に洗練され、拡張されています。\n\n素早く探し物をしたい?  ボタンを押して検索ワードを入力してください。 Braytechは検索HUDがあり、アプリ内のどこでも利用できます。\n\nBraytechは、デスクトップユーザーへのアプリとして開発が始まりましたが、美しいモバイルアプリとしても機能します。実際、[Android用アプリ](https://play.google.com/store/apps/details?id=braytech.org.twa)もGoogle Playから入手できます",
-      "Name": "Talented"
-    },
-    "Support": {
-      "Description": "Destinyの世界観を尊重したインターフェイスを構築し、BungieのAPIを利用するには絶え間ない努力と開発時間が必要です。オンラインを維持するのにもお金がかかるこの取り組みに、すべて差し出したとしても個人の限界があります。私はウェブサイト上の広告には反対の立場をとっています。そのため、これらのプロジェクトを維持するため、コミュニティに参加されている皆さんの寛大さに頼りたいと思っています。\n\nみなさんの支援を、このプロジェクトをオンラインで維持し、クールな新機能を追加し続けることに使いたいと思います。",
-      "Name": "Braytechを支援する"
-    },
-    "Updates": {
-      "Name": "アップデート情報"
     }
   },
   "Language": {

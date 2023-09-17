@@ -586,27 +586,21 @@
     "WeaponStats": "Характеристики оружия"
   },
   "Landing": {
+    "FeaturedThisWeek": "На этой неделе",
+    "CallToAction": "Исследуйте Destiny через Braytech для славы и успеха и получите представление о ваших битвах с силами Тьмы.",
+    "Features": {
+      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": "Обновления",
     "Blog": {
       "AllPosts": "Все статьи",
       "Error": "Статьи сейчас недоступны для загрузки.",
       "Name": "Блог"
-    },
-    "CallToAction": {
-      "Text": "Исследуйте Destiny через Braytech для славы и успеха и получите представление о ваших битвах с силами Тьмы."
-    },
-    "Featured": {
-      "ThisWeek": "На этой неделе"
-    },
-    "Features": {
-      "Description": "Проект Braytech, основанный на чистой страсти, — это многолетний опыт, постепенные дополнения и усовершенствования. Хотя первоначальной целью было профессиональное развитие, с тех пор она стала неотъемлемой частью опыта многих игроков Destiny в качестве стражей.\n\nBraytech начинался как приложение для составления чеклистов и превратился в чудовище со множеством талантов. Он постоянно совершенствуется и расширяется.\n\nНужно быстро что-то найти? Нажмите  и начните печатать! У Braytech есть поисковый интерфейс, доступный в любом месте приложения.\n\nBraytech создан в первую очередь для пользователей настольных компьютеров, но функционирует так же хорошо и выглядит так же красиво на устройствах меньшего размера. На самом деле, есть [приложение для iPhone](https://apps.apple.com/app/braytech/id1593151816) и [приложение для Android](https://play.google.com/store/apps/details?id=braytech.org.twa). Хотите внести предложение? Присоединяйтесь к [Discord](https://discord.bray.tech)!",
-      "Name": "Braytech"
-    },
-    "Support": {
-      "Description": "Braytech это полная занятость—Я проектирую и разрабатываю чтобы совершенствовать себя и угодить вам. Я против рекламы, до своей кончины. Ваша поддержка помогает мне поддерживать проект и позволяет мне делать свою работу наилучшим образом.\n\nПрисоединяйтесь к [Discord](https://discord.bray.tech) и к другим патронам в Braytech Research Division.",
-      "Name": "Вы поклонник? Покажите вашу поддержку"
-    },
-    "Updates": {
-      "Name": "Обновления"
     }
   },
   "Language": {

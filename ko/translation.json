@@ -586,27 +586,21 @@
     "WeaponStats": "최대 사용 가능한 시즌"
   },
   "Landing": {
+    "FeaturedThisWeek": "이번 주",
+    "CallToAction": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness",
+    "Features": {
+      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": "업데이트 내역",
     "Blog": {
       "AllPosts": "모든 게시글",
       "Error": "지금은 블로그 게시글을 불러올 수 없습니다.",
       "Name": "블로그"
-    },
-    "CallToAction": {
-      "Text": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness"
-    },
-    "Featured": {
-      "ThisWeek": "이번 주"
-    },
-    "Features": {
-      "Description": "Braytech는 열정이 담긴 프로젝트입니다. 2년 이상 이어진 개발 기간 동안 조그마한 추가 기능들과 개선점들이 적용되었습니다. 개발자인 Tom Chapman은 데스티니 시리즈 디자인의 팬이며 이는 Braytech의 디자인에 큰 영향을 주었습니다.\n\nBraytech는 체크리스트 앱으로 시작했고 수많은 인재들의 목소리를 들었습니다. 우린 항상 개선하고 확장해왔습니다.\n\n무언가를 급히 찾고 계신가요? 를 누르고 찾기 시작하세요! Braytech는 검색 HUD가 있으며 앱 어디든지에서 사용할 수 있습니다.\n\nBraytech는 원래 컴퓨터 유저들을 위해 만들어졌으나 모바일 앱으로도 아름답게 작동합니다. 실제로 플레이스토어에서 [안드로이드용 앱](https://play.google.com/store/apps/details?id=braytech.org.twa)을 내려 받을 수 있습니다.",
-      "Name": "특출남"
-    },
-    "Support": {
-      "Description": "전 매일 Braytech에서 디자인과 개발을 하며 일합니다. 저 스스로의 성장을 위해, 또 여러분을 기쁘게 하기 위해서요. 전 광고를 싫어합니다, 죽어도 싫어요. 여러분의 지원은 빛을 계속 지키고 제가 행복하게 작업할 수 있도록 도와줍니다.\n\n[Discord](https://discord.bray.tech) 에 합류해서 다른 Patrons가 있는 Braytech의 연구 부서로 오세요.",
-      "Name": "저의 팬인가요? 당신의 도움을 보여주세요."
-    },
-    "Updates": {
-      "Name": "업데이트 내역"
     }
   },
   "Language": {

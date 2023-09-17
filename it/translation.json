@@ -586,27 +586,21 @@
     "WeaponStats": "Statistiche Arma"
   },
   "Landing": {
+    "FeaturedThisWeek": "Questa settimana",
+    "CallToAction": "Esplora Destiny attraverso Braytech per ottenere informazioni dettagliate sui tuoi combattimenti contro le forze dell'Oscurità",
+    "Features": {
+      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": "Aggiornamenti",
     "Blog": {
       "AllPosts": "Tutti i post",
       "Error": "Al momento non è possibile caricare i post del blog",
       "Name": "Blog"
-    },
-    "CallToAction": {
-      "Text": "Esplora Destiny attraverso Braytech per ottenere informazioni dettagliate sui tuoi combattimenti contro le forze dell'Oscurità"
-    },
-    "Featured": {
-      "ThisWeek": "Questa settimana"
-    },
-    "Features": {
-      "Description": "Braytech è un progetto nato dalla passione. Il suo sviluppo è in corso da oltre due anni e ha visto molte aggiunte e miglioramenti incrementali. Il suo sviluppatore, Tom Chapman, è un fan del design di Destiny e ciò influenza fortemente l'estetica di Braytech.\n\nBraytech è nato come un'app da lista collezionabili e si è trasformato in una mostruosità dai molti talenti. Viene sempre perfezionato e ampliato.\n\nDevi trovare qualcosa di veloce? Premi  e prova a scrivere! Braytech ha un'interfaccia di ricerca, disponibile ovunque nell'app.\n\nBraytech è stato creato inizialmente per gli utenti desktop, ma funziona ed è bello come un'app mobile. Di fatto, ci sono anche l'[app iPhone](https://apps.apple.com/it/app/braytech/id1593151816) e l'[app Android](https://play.google.com/store/apps/details?id=braytech.org.twa).\n\nVuoi dare un suggerimento? Unisciti al server [Discord](https://discord.bray.tech)! (in inglese)",
-      "Name": "Talentuoso"
-    },
-    "Support": {
-      "Description": "Costruire queste bellissime interfacce e bisticciare con l'API di Bungie richiede tempo e impegno. Inoltre non posso dedicare fin troppo tempo a ciò che è un hobby, che costa anche soldi per rimanere online. Ho una opinione ben decisa per quanto riguarda gli annunci sui siti web così come li conosciamo. Quindi preferisco sostenere questi progetti di tasca mia e dipendere dalla generosità della mia community.\n\nSostenendomi, puoi aiutarmi a mantenere questi progetti online, nonché aiutarmi a continuare aggiungendo nuove fantastiche funzionalità.\n\nUnisciti al server [Discord](https://discord.bray.tech) (in inglese) insieme agli altri sostenitori nella divisione di ricerca Braytech.",
-      "Name": "Supporta Braytech"
-    },
-    "Updates": {
-      "Name": "Aggiornamenti"
     }
   },
   "Language": {

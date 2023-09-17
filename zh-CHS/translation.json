@@ -586,27 +586,21 @@
     "WeaponStats": "武器属性"
   },
   "Landing": {
+    "FeaturedThisWeek": "本周的命运",
+    "CallToAction": "通过 Braytech 探索《命运》宇宙，获得有用的知识和信息并将其用于您与暗影力量之间的战斗。",
+    "Features": {
+      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
+      "Name": "🦘 Braytech"
+    },
+    "Support": {
+      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "🦘 Are you a fan? Show your support"
+    },
+    "Updates": "最近更新",
     "Blog": {
       "AllPosts": "所有文章",
       "Error": "目前无法载入博客文章",
       "Name": "博客"
-    },
-    "CallToAction": {
-      "Text": "通过 Braytech 探索《命运》宇宙，获得有用的知识和信息并将其用于您与暗影力量之间的战斗。"
-    },
-    "Featured": {
-      "ThisWeek": "本周的命运"
-    },
-    "Features": {
-      "Description": "Braytech 是一个由十分纯粹的热情所驱动的项目，虽然它的初衷是作为专业级的开发项目而生，经过多年的发展、逐渐添加的新内容以及小修小补，后来发展成为大多数《命运》系列玩家所知的一个提升游玩体验的实用工具。\n\nBraytech 从一个清单 App 开始，到现在已经发展成为一个拥有众多特性的庞然大物。它一直在完善和扩展。\n\n需要快速找到一些东西吗？按下输入你想要搜索的东西吧！Braytech 有一个搜索页面，在 Braytech 的任何地方都可以使用。Braytech 首先是为桌面用户建立的，但在移动平台上它依旧运行与表现很漂亮。事实上，我们在 Play 商店中有一个 [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa)。\n\n想要给开发者提出建议和反馈吗？那就加入 [Discord](https://discord.bray.tech) 服务器吧！",
-      "Name": "才华横溢"
-    },
-    "Support": {
-      "Description": "构建这些漂亮的界面并与 Bungie 的 API 击剑，需要大量的努力和时间。我不得不把这么多的时间投入到爱好的事业中，而这些事业也需要花钱来维持在线。我对我们所知的网站上的广告持坚决反对的态度。因此，我更愿意自掏腰包支持这些项目，并依靠社区的慷慨解囊。通过支持我，你可以帮助确保我能够保持这些项目的正常运行，并帮助我继续增加很酷的新功能。",
-      "Name": "支持 Braytech"
-    },
-    "Updates": {
-      "Name": "最近更新"
     }
   },
   "Language": {
