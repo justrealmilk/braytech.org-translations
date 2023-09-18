@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Cala la Notte in evidenza",
     "FeaturedPlaylist": "Playlist in evidenza",
     "Fireteam": "Squadra",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Membri squadra",
     "FireteamReserves": "Riserve",
     "FireteamSize": "Posti squadra",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Progresso sigillo"
     },
     "Secret": {
-      "Description": "Un mistero che non hai ancora svelato.",
-      "Name": "Trionfo segreto"
+      "Name": "Trionfo segreto",
+      "Description": "Un mistero che non hai ancora svelato."
     },
     "Sorted": {
       "Completion": "Ordina per **completamento**",
@@ -1342,6 +1343,12 @@
       "Rarity": "Ordina per **rarità**",
       "Score": "Ordina per **punti**",
       "Unsorted": "Ordine **predefinito di Bungie**"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "Non stai ancora seguendo nessun trionfo!",
     "TrackedTriumphs": "Trionfi seguiti",

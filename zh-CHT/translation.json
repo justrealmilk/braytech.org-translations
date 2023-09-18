@@ -399,6 +399,7 @@
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "輪換游玩列表",
     "Fireteam": "火力戰隊",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "火力戰隊名單",
     "FireteamReserves": "預留",
     "FireteamSize": "獲利戰隊規模",
@@ -1333,8 +1334,8 @@
       "SealProgress": "印章進度"
     },
     "Secret": {
-      "Description": "你尚未解開的謎團.",
-      "Name": "秘密勝利"
+      "Name": "秘密勝利",
+      "Description": "你尚未解開的謎團."
     },
     "Sorted": {
       "Completion": "按完成度排序",
@@ -1342,6 +1343,12 @@
       "Rarity": "按稀有度排序",
       "Score": "按分數排序",
       "Unsorted": "按Bungie默認排序"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
     "TrackedTriumphs": "已跟蹤記錄",

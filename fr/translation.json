@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Nuit noire actuelle",
     "FeaturedPlaylist": "Activité PVP actuelle",
     "Fireteam": "Escouade",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Membres d'escouade",
     "FireteamReserves": "Réserves",
     "FireteamSize": "Taille de l'escouade",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Progrès du Sceau"
     },
     "Secret": {
-      "Description": "Un mystère que vous n'avez pas encore résolu.",
-      "Name": "Triomphe secret"
+      "Name": "Triomphe secret",
+      "Description": "Un mystère que vous n'avez pas encore résolu."
     },
     "Sorted": {
       "Completion": "Trié par achèvement",
@@ -1342,6 +1343,12 @@
       "Rarity": "Trié par rareté",
       "Score": "Trié par score",
       "Unsorted": "Trié par Bungie"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
     "TrackedTriumphs": "Enregistrements suivis",

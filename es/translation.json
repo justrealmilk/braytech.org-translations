@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Ocaso destacado",
     "FeaturedPlaylist": "Lista destacada",
     "Fireteam": "Escuadra",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Miembros de la escuadra",
     "FireteamReserves": "Reservas",
     "FireteamSize": "Tamaño de la escuadra",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Progreso de sellos"
     },
     "Secret": {
-      "Description": "Un misterio que aún no has resuelto.",
-      "Name": "Triunfo secreto"
+      "Name": "Triunfo secreto",
+      "Description": "Un misterio que aún no has resuelto."
     },
     "Sorted": {
       "Completion": "Ordenado por finalización",
@@ -1342,6 +1343,12 @@
       "Rarity": "Ordenado por rareza",
       "Score": "Ordenado por puntuación",
       "Unsorted": "Ordenado por Bungie"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",
     "TrackedTriumphs": "Triunfos seguidos",

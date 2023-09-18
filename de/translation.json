@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Ausgewählte Dämmerung",
     "FeaturedPlaylist": "Ausgewählte Playlist",
     "Fireteam": "Einsatztrupp",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Einsatztrupp-Mitglieder",
     "FireteamReserves": "Reservierungen",
     "FireteamSize": "Einsatztruppgröße",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Siegelfortschritt"
     },
     "Secret": {
-      "Description": "Ein Mysterium, das dir noch verborgen bleibt.",
-      "Name": "Versteckter Triumph"
+      "Name": "Versteckter Triumph",
+      "Description": "Ein Mysterium, das dir noch verborgen bleibt."
     },
     "Sorted": {
       "Completion": "Nach Fertigstellung sortiert",
@@ -1342,6 +1343,12 @@
       "Rarity": "Nach Seltenheit sortiert",
       "Score": "Nach Punkten sortiert",
       "Unsorted": "Sortiert von Bungie"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "Du hast noch keine Triumphe markiert!",
     "TrackedTriumphs": "Markierte Triumphe",

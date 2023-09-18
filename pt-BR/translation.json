@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Anoitecer em Destaque",
     "FeaturedPlaylist": "Modo de Jogo em Destaque",
     "Fireteam": "Esquadrão",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Membros do Esquadrão",
     "FireteamReserves": "Reservas",
     "FireteamSize": "Tamanho do Esquadrão",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Progresso do selo"
     },
     "Secret": {
-      "Description": "Um misterio que você ainda não descobriu.",
-      "Name": "Triunfo Secreto"
+      "Name": "Triunfo Secreto",
+      "Description": "Um misterio que você ainda não descobriu."
     },
     "Sorted": {
       "Completion": "Organizado por conclusão",
@@ -1342,6 +1343,12 @@
       "Rarity": "Organizado por raridade",
       "Score": "Organizado por pontuação",
       "Unsorted": "🦘 Sorted by Bungie"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "Você não está seguindo nada no momento!",
     "TrackedTriumphs": "Triunfo seguido",

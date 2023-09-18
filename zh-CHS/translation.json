@@ -399,6 +399,7 @@
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "轮换游玩列表",
     "Fireteam": "火力战队",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "火力战队成员",
     "FireteamReserves": "预留",
     "FireteamSize": "火力战队规模",
@@ -1333,8 +1334,8 @@
       "SealProgress": "称号进度"
     },
     "Secret": {
-      "Description": "尚未揭开的谜团",
-      "Name": "秘密成就"
+      "Name": "秘密成就",
+      "Description": "尚未揭开的谜团"
     },
     "Sorted": {
       "Completion": "按完成度排序",
@@ -1342,6 +1343,12 @@
       "Rarity": "按稀有度排序",
       "Score": "按分数排序",
       "Unsorted": "按 Bungie 默认排序"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录！",
     "TrackedTriumphs": "已跟踪记录",

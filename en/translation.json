@@ -399,6 +399,7 @@
     "FeaturedNightfall": "Featured Nightfall",
     "FeaturedPlaylist": "Featured Playlist",
     "Fireteam": "Fireteam",
+    "Fireteam_plural": "Fireteams",
     "FireteamMembers": "Fireteam Members",
     "FireteamReserves": "Reserves",
     "FireteamSize": "Fireteam Size",
@@ -1333,8 +1334,8 @@
       "SealProgress": "Seal Progress"
     },
     "Secret": {
-      "Description": "A mystery that you haven't yet unraveled.",
-      "Name": "Secret Triumph"
+      "Name": "Secret Triumph",
+      "Description": "A mystery that you haven't yet unraveled."
     },
     "Sorted": {
       "Completion": "Sorted by **Completion**",
@@ -1342,6 +1343,12 @@
       "Rarity": "Sorted by **Rarity**",
       "Score": "Sorted by **Score**",
       "Unsorted": "Sorted by **Bungie**"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "Grants Score",
+        "Description": "Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "You aren't tracking any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "Tracked",

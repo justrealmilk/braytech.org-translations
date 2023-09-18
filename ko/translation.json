@@ -399,6 +399,7 @@
     "FeaturedNightfall": "선정된 황혼전",
     "FeaturedPlaylist": "선정된 플레이리스트",
     "Fireteam": "화력팀",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "화력팀원",
     "FireteamReserves": "예비 화력팀",
     "FireteamSize": "화력팀 크기",
@@ -1333,8 +1334,8 @@
       "SealProgress": "인장 진행도"
     },
     "Secret": {
-      "Description": "아직 풀지 못한 수수께끼입니다.",
-      "Name": "비밀 업적"
+      "Name": "비밀 업적",
+      "Description": "아직 풀지 못한 수수께끼입니다."
     },
     "Sorted": {
       "Completion": "완성도 정렬",
@@ -1342,6 +1343,12 @@
       "Rarity": "희귀도 정렬",
       "Score": "점수 정렬",
       "Unsorted": "번지 기준 정렬"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "추적중인 업적이 없습니다!",
     "TrackedTriumphs": "추적중인 업적",

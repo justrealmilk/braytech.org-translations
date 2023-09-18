@@ -399,6 +399,7 @@
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
     "Fireteam": "ファイアチーム",
+    "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "ファイアチームのメンバー",
     "FireteamReserves": "参加予定",
     "FireteamSize": "ファイアチームの大きさ",
@@ -1333,8 +1334,8 @@
       "SealProgress": "印の進捗"
     },
     "Secret": {
-      "Description": "まだ解き明かされていない謎",
-      "Name": "秘密の勝利の道のり"
+      "Name": "秘密の勝利の道のり",
+      "Description": "まだ解き明かされていない謎"
     },
     "Sorted": {
       "Completion": "完了順に並び替え",
@@ -1342,6 +1343,12 @@
       "Rarity": "レア度順に並び替え",
       "Score": "スコア順に並び替え",
       "Unsorted": "Bungie指定の順に並び替え"
+    },
+    "Options": {
+      "GrantsScore": {
+        "Name": "🦘 Grants Score",
+        "Description": "🦘 Only display records which grant triumph score upon completion."
+      }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
     "TrackedTriumphs": "追跡中の勝利の道のり",
