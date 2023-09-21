@@ -10,7 +10,7 @@
     "Browse": "浏览",
     "Cancel": "取消",
     "Close": "关闭",
-    "Collapse": "崩溃",
+    "Collapse": "折叠",
     "Confirm": "确认",
     "Customise": "自定义",
     "Delete": "删除",
@@ -18,7 +18,7 @@
     "Dismiss": "取消",
     "Done": "完成",
     "Enable": "启用",
-    "Expand": "扩展",
+    "Expand": "展开",
     "ForgetMe": "清除授权",
     "GatherInVault": "移入保险库",
     "GoToBNet": "前往 Bungie.net",
@@ -70,7 +70,7 @@
       "SinglePlayer": "单人活动"
     },
     "SelectDateFromGraph": "从上图选择一个有活动的日期",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "BookmarksSync": "通过Voluspa在设备之间同步书签",
     "Modes": {
       "Bar": {
         "PvPLoss": "失败",
@@ -253,15 +253,15 @@
       "EmblemForegroundColor": "名片前景色",
       "Name": "公会旗帜生成器"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "公会旗帜",
+    "ClanAbout": "公会信息",
     "ClanRoster": "名单",
     "ClanTimetable": "时间安排",
     "Founded": "创建于{{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
+    "Progression": "随着公会等级不断提高，公会旗帜将为所有公会成员解锁新的特性。完成星系活动，提高公会等级。",
+    "RitualRewards": "至少有一半公会成员组成的火力战队，完成仪式活动即可为整个公会赢得来自霍桑的记忆水晶。",
     "HistoricalStats": {
-      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
+      "Description": "🦘 按照各类活动模式，比较玩家的统计数据。\n\n有关这些统计数据准确性的更多信息，请查看 [常见问题](/addendums/faq)。",
       "ViewportWidth": "历史数据只能在分辨率更大的窗口使用，请保证您当前窗口分辨率宽度大于或等于 `1024 像素` 。"
     },
     "Members": "{{number}} 成员",
@@ -399,7 +399,7 @@
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "轮换游玩列表",
     "Fireteam": "火力战队",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "所有火力战队",
     "FireteamMembers": "火力战队成员",
     "FireteamReserves": "预留",
     "FireteamSize": "火力战队规模",
@@ -749,9 +749,9 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
+      "Rotations": "轮换",
+      "PublicEvents": "公共事件",
+      "Next": "下次轮换: {{next}}",
       "ChecklistsAndMore": "待办清单和更多",
       "NoChecklistItems": "无任何内容"
     },
@@ -849,8 +849,8 @@
     "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
       "Network": {
-        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "🦘 Network Error"
+        "Description": "发生了网络错误。这是一个临时错误，可以通过关闭对话框并重试来解决。",
+        "Name": "网络错误"
       },
       "Banned": {
         "Botting": "侦测到玩家部署了避免被闲置检测的措施(机器人程序)",
@@ -871,7 +871,7 @@
         "Name": "私密个人资料"
       },
       "NoCharacters": {
-        "Description": "🦘 This player hasn't created any characters yet!",
+        "Description": "该玩家没有创建任何角色！",
         "Name": "🦘 No Characters"
       }
     },
@@ -1174,8 +1174,8 @@
           "Description": "启用同步，同时与Voluspa定期同步."
         }
       },
-      "Enabled": "🦘 Sync Enabled",
-      "Configure": "🦘 Configure Sync Service",
+      "Enabled": "同步已启用",
+      "Configure": "配置同步服务",
       "Info": "同步你的设置项：项目可见性、地图、追踪的凯旋记录和个人资料搜索历史记录.",
       "RequirementsNotMet": "同步功能需要您先于 Bungie.net 验证 Braytech。",
       "State": {
@@ -1276,8 +1276,8 @@
   "Triumphs": {
     "AllCompleted": "全部完成",
     "NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTriumphs": "即将完成",
+    "NearLimit": "限于性能原因，仅显示 {{number}} 项成就.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "这个记录为绝密并可能在之后被解密。",
@@ -1311,7 +1311,7 @@
         "Description": "距离下次获取成就分所需要的数目"
       }
     },
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
+    "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",
     "RecordsUnavailable": "没有可显示的记录。",
     "Seal": "称号",
@@ -1355,7 +1355,7 @@
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",
     "UnredeemedTriumphs": "未兑换成就",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
+    "TrackedSync": "通过Voluspa在设备之间同步已跟踪的成就."
   },
   "Upsell": {
     "Auth": {
@@ -1416,9 +1416,9 @@
         "Description": "你的光等是根据你当前装备的所有装备的光等来进行计算得出的，更高的光等可以提高你的伤害及防御。",
         "Name": "当前光等"
       },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+      "SeasonalChallengesAvailable": "{{number}}项赛季挑战可用",
       "Type": {
-        "Rituals": "🦘 Rituals",
+        "Rituals": "仪式活动",
         "Bounties": "悬赏",
         "Crucible": "熔炉竞技场",
         "Dungeon": "地牢",
