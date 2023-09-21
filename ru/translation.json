@@ -109,7 +109,7 @@
     "State": {
       "ActivityHistoryError": "Что-то пошло не так при загрузке истории активностей. Пожалуйста, попробуйте снова.",
       "DownloadingReports": "Собираем данные боевой группы из Bungie.net",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
+      "RestoringReportsProgressValue": "Восстановление Данных",
       "DownloadingReportsProgressValue": "Загружаем активности",
       "GenericError": "Что-то пошло не так. Попробуйте снова.",
       "HydratingReportsCache": "Данные активностей загружаются в память из локального хранилища.",
@@ -289,8 +289,8 @@
           "Name": "Участники клана"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "Фильтруйте встречи и боевые группы, чтобы включать только друзей Bungie.",
+          "Name": "Друзья Bungie"
         }
       }
     },
@@ -399,7 +399,7 @@
     "FeaturedNightfall": "Сумрачный Налёт",
     "FeaturedPlaylist": "Плейлист",
     "Fireteam": "Боевая группа",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "Боевые группы",
     "FireteamMembers": "Члены боевой группы",
     "FireteamReserves": "Резерв",
     "FireteamSize": "Размер боевой группы",
@@ -430,10 +430,10 @@
     "Patreon": "Patreon",
     "Patron_plural": "Спонсоры на Patreon",
     "Player": "Игрок",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "Игроки",
     "Preview": "Предпросмотр",
     "Profile": "Профиль",
-    "Profile_plural": "🦘 Profiles",
+    "Profile_plural": "Профили",
     "Progress": "Прогресс",
     "Progression": "Прогресс",
     "Quests": "Поручения",
@@ -447,7 +447,7 @@
     "Reward_plural": "Награды",
     "Savathûn'sCurse": "Проклятие Саватун",
     "Score": "Очки триумфов",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "Очки триумфов",
     "ScoreValue": "Очки триумфов",
     "Screenshot": "Скриншот",
     "Search": "Поиск",
@@ -464,7 +464,7 @@
     "Support": "Поддержка",
     "TimePlayed": "Времени в игре",
     "TimeRemaining": "До отбытия",
-    "TopNth": "🦘 Top {{number}}",
+    "TopNth": "Топ {{number}}",
     "Translator_plural": "Переводчики",
     "TrialsPassage": "Пропуск Испытаний",
     "TrialsPoints": "Очков Испытаний",
@@ -592,12 +592,12 @@
     "FeaturedThisWeek": "На этой неделе",
     "CallToAction": "Исследуйте Destiny через Braytech для славы и успеха и получите представление о ваших битвах с силами Тьмы.",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "Прогресс персонажей в Destiny 2, кланы, триумфы, коллекции и многое другое. Braytech — это фанатский сайт по Destiny, который позволяет пользователям просматривать и составлять чеклисты, отслеживать и просматривать триумфы, осматривать предметы и многое другое.\n\nBraytech начинался как приложение для составления чеклистов и превратился в чудовище со множеством талантов. Он постоянно совершенствуется и расширяется.\n\nНужно быстро что-то найти? Нажмите  и начните печатать! У Braytech есть поисковый интерфейс, доступный в любом месте приложения.\n\nBraytech создан в первую очередь для пользователей настольных компьютеров, но функционирует так же хорошо и выглядит так же красиво на устройствах меньшего размера. На самом деле, есть [приложение для iPhone](https://apps.apple.com/app/braytech/id1593151816) и [приложение для Android](https://play.google.com/store/apps/details?id=braytech.org.twa). Хотите внести предложение? Присоединяйтесь к [Discord](https://discord.bray.tech)!",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support"
+      "Description": "Braytech это полная занятость — Я проектирую и разрабатываю чтобы совершенствовать себя и помогать всем Стражам. Я против рекламы, до своей кончины. Ваша поддержка помогает мне поддерживать проект и позволяет мне делать свою работу наилучшим образом и делать ваш опыт игры в Destiny ещё лучше. Надеюсь, вам любите использовать Braytech настолько же, насколько я люблю его разрабатывать! 💖\n\nПрисоединяйтесь к [Discord](https://discord.bray.tech) и к другим патронам в Braytech Research Division.",
+      "Name": "Вы поклонник? Покажите вашу поддержку"
     },
     "Updates": "Обновления",
     "Blog": {
@@ -1174,7 +1174,7 @@
           "Description": "Включите регулярную синхронизацию с сервером Voluspa."
         }
       },
-      "Enabled": "🦘 Sync Enabled",
+      "Enabled": "Синхронизация включена",
       "Configure": "Конфигурация Сервиса Синхронизации",
       "Info": "Синхронизируйте свои настройки отображения, карт, отслеживаемые триумфы и историю поиска профилей.",
       "RequirementsNotMet": "Для синхронизации вы сначала должны авторизовать Braytech на Bungie.net.",
@@ -1276,9 +1276,9 @@
   "Triumphs": {
     "AllCompleted": "Все получены",
     "NonePartiallyComplete": "Ваши частично выполненные триумфы. Выбирайте цель и приступайте!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "NearTriumphs": "Ближайшие",
+    "NearLimit": "Отображение ограничено {{number}} триумфами по соображениям производительности.",
+    "PartiallyComplete": "{{number}} частично завершены",
     "Classified": {
       "Description": "Этот триумф скрыт и может быть открыт через некоторое время.",
       "Name": "Засекреченный триумф"
@@ -1311,7 +1311,7 @@
         "Description": "Очки триумфов начисляемые за текущий этап в сравнении с очками за все этапы."
       }
     },
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
+    "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",
     "Seal": "Печать",
@@ -1346,8 +1346,8 @@
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "Даёт Очки",
+        "Description": "Отображать только те триумфы, которые дают очки триумфов по завершении."
       }
     },
     "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",
@@ -1355,7 +1355,7 @@
     "Triumph_plural": "Триумфы",
     "UnobtainableTriumphs": "Недоступные",
     "UnredeemedTriumphs": "Неполученные триумфы",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
+    "TrackedSync": "Синхронизировать отслеживаемые триумфы между устройствами с помощью Voluspa."
   },
   "Upsell": {
     "Auth": {
@@ -1418,15 +1418,15 @@
       },
       "SeasonalChallengesAvailable": "{{number}} сезонных испытаний доступно",
       "Type": {
-        "Rituals": "🦘 Rituals",
+        "Rituals": "Ритуальные",
         "Bounties": "Контракты",
         "Crucible": "Горнило",
         "Dungeon": "Подземелье",
-        "Exotic": "Экзотическое",
+        "Exotic": "Экзотические",
         "Expansion": "Дополнение",
         "Gambit": "Гамбит",
         "Raid": "Рейд",
-        "Seasonal": "Сезонный",
+        "Seasonal": "Сезонные",
         "Strikes": "Налёты"
       }
     }
