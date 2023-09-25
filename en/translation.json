@@ -420,7 +420,7 @@
     "Lore": "Lore",
     "LoreBook": "Lore Book",
     "Map": "Map",
-    "Medals": "Medals",
+    "Medal_plural": "Medals",
     "MembersOnline": "**{{number}}** Online",
     "Name": "Name",
     "NoActivitiesAvailable": "There aren't any activities available to you. Perhaps you don't meet the requirements...",

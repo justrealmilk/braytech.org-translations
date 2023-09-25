@@ -420,7 +420,7 @@
     "Lore": "Historia",
     "LoreBook": "Libro de historia",
     "Map": "Mapa",
-    "Medals": "Medallas",
+    "Medal_plural": "Medallas",
     "MembersOnline": "{{number}} en línea",
     "Name": "Nombre",
     "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",

@@ -420,7 +420,7 @@
     "Lore": "伝承",
     "LoreBook": "伝承の書物",
     "Map": "マップ",
-    "Medals": "メダル",
+    "Medal_plural": "メダル",
     "MembersOnline": "{{number}} はオンラインです",
     "Name": "名前",
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",

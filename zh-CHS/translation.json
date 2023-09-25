@@ -420,7 +420,7 @@
     "Lore": "传说故事",
     "LoreBook": "传说故事",
     "Map": "地图",
-    "Medals": "奖牌",
+    "Medal_plural": "奖牌",
     "MembersOnline": "目前有 {{number}} 人在线",
     "Name": "名称",
     "NoActivitiesAvailable": "没有任何活动可以让你选，也许他们都不符合你的要求……",
