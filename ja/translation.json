@@ -399,7 +399,7 @@
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
     "Fireteam": "ファイアチーム",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "ファイアチーム",
     "FireteamMembers": "ファイアチームのメンバー",
     "FireteamReserves": "参加予定",
     "FireteamSize": "ファイアチームの大きさ",
@@ -430,10 +430,10 @@
     "Patreon": "Patreon",
     "Patron_plural": "支援者",
     "Player": "プレイヤー",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "プレイヤー",
     "Preview": "プレビュー",
     "Profile": "プロファイル",
-    "Profile_plural": "🦘 Profiles",
+    "Profile_plural": "プロファイル",
     "Progress": "進捗",
     "Progression": "進捗",
     "Quests": "クエスト",
@@ -448,7 +448,7 @@
     "Reward_plural": "報酬",
     "Savathûn'sCurse": "サバスンの呪い",
     "Score": "スコア",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "スコア",
     "ScoreValue": "スコア値",
     "Screenshot": "スクリーショット",
     "Search": "検索",
@@ -465,7 +465,7 @@
     "Support": "支援する",
     "TimePlayed": "プレイ時間",
     "TimeRemaining": "残り時間",
-    "TopNth": "🦘 Top {{number}}",
+    "TopNth": "トップ {{number}}",
     "Translator_plural": "翻訳者",
     "TrialsPassage": "試練の道のり",
     "TrialsPoints": "試練のポイント",
@@ -593,12 +593,12 @@
     "FeaturedThisWeek": "今週のDestiny2",
     "CallToAction": "Breytechで世界を探索し、暗黒の力との対決に必要な装備と見落としていたことを探し出しましょう",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "キャラ育成、クラン、勝利の道のり、コレクションなど・・・。BraytechはDestinyシリーズのファンサイトであり、ゲーム内のマップやチェックリスト、勝利の道のりのトラッキングやコレクションに書かれた伝承の調査など、さまざまなことができます。\n\n 単なるチェックリストとしてスタートしたBraytechは、今や多くの機能を持つモンスターへと成長しました。高い頻度でアップデートされ、拡大されています。\n\n膨大なサイトで探しきれない?  キーを押して検索フォームを呼び出してみてください!Braytechにはサイトアプリ内ではどこからでも呼び出せる検索フォームがあります。\n\nBraytechは、メイン用途としてPCユーザー向けに作られていますが、小さなデバイスでも同様に機能し、美しく見えるよう調整されています。例えば、 [iPhoneアプリ](https://apps.apple.com/app/braytech/id1593151816) や[Androidアプリ](https://play.google.com/store/apps/details?id=braytech.org.twa)も公開されています。 何か気になることがあれば気軽に [Discord](https://discord.bray.tech)サーバーへご参加ください!",
+      "Name": "Braytechとは"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support"
+      "Description": "Braytechは個人事業プロジェクトで運営され私自身を始め、すべてのガーディアンを手助けするために設計しています。そしてアンチ広告主義のため、自分の首を絞めてしまっています。支援をしていただくことで私の光は消えず、Destiny2の世界をより楽しめるよう、全身全霊で作ったこのサイトをもっと情熱を注ぐことができます。もし、このサイトを好きになってくれたら、と思います💖\n\n [Discord](https://discord.bray.tech) に参加したり、Braytech研究施設メンバーとしてサブスクリプション方式の活動支援をお願い致します。",
+      "Name": "このサイトが良かったら、Patreonでの支援をお願いします"
     },
     "Updates": "アップデート情報",
     "Blog": {
@@ -1175,7 +1175,7 @@
           "Description": "定期的にデータとVoluspaと同期させる。"
         }
       },
-      "Enabled": "🦘 Sync Enabled",
+      "Enabled": "同期設定有効",
       "Configure": "サービス同期設定",
       "Info": "設定した表示項目、マップ、追跡中の勝利の道のり、プロファイルを同期します。",
       "RequirementsNotMet": "データ同期には、まずBungie.netでBraytechを認証する必要があります。",
@@ -1277,9 +1277,9 @@
   "Triumphs": {
     "AllCompleted": "すべて達成済",
     "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "NearTriumphs": "もうすぐ達成",
+    "NearLimit": "パフォーマンス制限により、 {{number}}個の表示に制限しています。",
+    "PartiallyComplete": "途中まで進んだ {{number}} 個の道のり",
     "Classified": {
       "Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
       "Name": "機密の記録"
@@ -1312,7 +1312,7 @@
         "Description": "合計レコード値に対する次に獲得するスコア値"
       }
     },
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
+    "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",
     "Seal": "印",
@@ -1347,8 +1347,8 @@
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "スコア対象のみ",
+        "Description": "スコアがある勝利の道のりだけを表示する。"
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
@@ -1356,7 +1356,7 @@
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
     "UnredeemedTriumphs": "取得していない勝利の道のり",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
+    "TrackedSync": "Voluspaを通じてデバイス間の道のりのトラックキングを同期しています。"
   },
   "Upsell": {
     "Auth": {
