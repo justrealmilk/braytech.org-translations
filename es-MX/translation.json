@@ -1349,8 +1349,8 @@
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "Otorga puntuación",
+        "Description": "Mostrar sólo los triunfos que otorgan puntuación de triunfos al ser completados."
       }
     },
     "NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",
