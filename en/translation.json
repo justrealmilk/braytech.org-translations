@@ -385,6 +385,8 @@
     "Completed": "Completed",
     "CruciblePlaylist": "Crucible Playlist",
     "DateTime": "Date Time",
+    "Emblem": "Emblem",
+    "Emblem_plural": "Emblems",
     "Equipment": "Equipment",
     "Error": "Error",
     "Event": "Event",
@@ -438,6 +440,7 @@
     "Progression": "Progression",
     "Quests": "Quests",
     "Rank_plural": "Ranks",
+    "Rarity": "Rarity",
     "Record": "Record",
     "Record_plural": "Records",
     "Report_plural": "Reports",
@@ -1367,7 +1370,7 @@
       "RewardResearcher": "Unlock the Researcher medal, a symbol of dedication and commitment to bettering humankind.",
       "RewardSubmind": "Unlock the animated Warmind gold tier medal. Every Warmind medal guarenteed to contain at least 7.00% Warmind fragment dust™",
       "Rewards": "Unlock unique profile medals when you subscribe to Braytech's Patreon!",
-      "Leaderboards": "Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some rare flair](https://www.patreon.com/braytech) for your member link?"
+      "Leaderboards": "Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },
     "Profile": {
       "Action": "Select Your Character",

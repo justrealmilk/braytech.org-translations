@@ -385,6 +385,8 @@
     "Completed": "Completado",
     "CruciblePlaylist": "Lista de juego de Crisol",
     "DateTime": "Fecha y hora",
+    "Emblem": "Emblema",
+    "Emblem_plural": "Emblemas",
     "Equipment": "Equipamiento",
     "Error": "Error",
     "Event": "Evento",
@@ -399,7 +401,7 @@
     "FeaturedNightfall": "Ocaso destacado",
     "FeaturedPlaylist": "Lista destacada",
     "Fireteam": "Escuadra",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "Escuadras",
     "FireteamMembers": "Miembros de la escuadra",
     "FireteamReserves": "Reservas",
     "FireteamSize": "Tamaño de la escuadra",
@@ -430,14 +432,15 @@
     "Patreon": "Patreon",
     "Patron_plural": "Mecenas",
     "Player": "Jugador",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "Jugadores",
     "Preview": "Previsualizar",
     "Profile": "Perfil",
-    "Profile_plural": "🦘 Profiles",
+    "Profile_plural": "Perfiles",
     "Progress": "Progreso",
     "Progression": "Progreso",
     "Quests": "Aventuras",
     "Rank_plural": "Rangos",
+    "Rarity": "Rareza",
     "Record": "Triunfo",
     "Record_plural": "Triunfos",
     "Report_plural": "Informes",
@@ -592,12 +595,12 @@
     "FeaturedThisWeek": "Esta semana",
     "CallToAction": "Explora Destiny a través de Braytech en busca de grandes logros e información sobre tus luchas contra las fuerzas de la oscuridad.",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "Progreso de personajes en Destiny 2, clanes, triunfos, colecciones y mucho más. Braytech es un sitio de fans de Destiny que permite a los usuarios ver y organizar listas de coleccionables, seguir y ver triunfos, inspeccionar objetos de la colección y mucho más.\n\nBraytech comenzó como una aplicación de listas de coleccionables y se ha convertido en una monstruosidad con muchos recursos. Siempre está en proceso de mejora y expansión.\n\n¿Necesitas encontrar algo rápidamente? ¡Pulsa  y empieza a escribir! Braytech tiene una interfaz de búsqueda, disponible en cualquier parte de la aplicación.\n\nBraytech está diseñada en primer lugar para usuarios de escritorio, pero funciona igual de bien y es igual de bonita en dispositivos más pequeños. De hecho, hay una [aplicación para iPhone](https://apps.apple.com/app/braytech/id1593151816) y una [aplicación para Android](https://play.google.com/store/apps/details?id=braytech.org.twa). ¿Quieres hacer alguna sugerencia? ¡Únete al [Discord](https://discord.bray.tech)!",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support"
+      "Description": "Braytech es un trabajo a tiempo completo: diseño y desarrollo para mejorar y ayudar a todos los Guardianes. Estoy en contra de los anuncios, aunque vaya en mi propia ruina. Tu apoyo me ayuda a mantener las luces encendidas y me permite dar lo mejor de mí y conseguir que tu experiencia con Destiny sea aún mejor. ¡Espero que te encante usarlo tanto como a mí construirlo! 💖\n\nÚnete al [Discord](https://discord.bray.tech) y a los demás mecenas de la División de Investigación de Braytech.",
+      "Name": "¿Eres fan? Muestra tu apoyo"
     },
     "Updates": "Actualizaciones",
     "Blog": {
@@ -1346,8 +1349,8 @@
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "Otorga puntuación",
+        "Description": "Mostrar sólo los triunfos que otorgan puntuación de triunfos al ser completados."
       }
     },
     "NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",
