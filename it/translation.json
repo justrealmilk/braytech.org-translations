@@ -164,13 +164,8 @@
       "Name": "Browser non supportato"
     },
     "Version": "Versione",
-    "TemporaryError": "Si è verificato un errore temporaneo da parte di Bungie."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Le leggende dei saggi, le carte del Grimorio di Destiny 1 sono copiate, archiviate e preservate qua. Il Grimorio è un database interno a Destiny. Le voci venivano sbloccate durante il gioco sotto forma di \"carte\".\n\nIl compendio delle carte del Grimorio è diviso nelle 6 seguenti categorie: Guardiani, Inventario, Alleati, Nemici, Luoghi e Attività. Ognuna di queste ha molteplici sottocategorie.",
-      "Name": "Grimorio"
-    }
+    "TemporaryError": "Si è verificato un errore temporaneo da parte di Bungie.",
+    "MemberServiceInactive": "A causa di inattività, l'aggiornamento dei dati in background è stato sospeso.\n\nInteragire con l'app riattiverà il servizio."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "Mercanti",
     "Views": "Sezioni",
     "Weapon": "Armi",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Settimana {{number}}",
     "Week_plural": "Settimane"
   },
@@ -817,11 +813,6 @@
       "LostSector": "Trovato nel seguente Settore Perduto: {{string}}",
       "Story": "Trovato nella seguente missione Storia: {{string}}",
       "Strike": "Trovato nel seguente Assalto: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "A causa di inattività, l'aggiornamento dei dati in background è stato sospeso.\n\nInteragire con l'app riattiverà il servizio."
     }
   },
   "Notifications": {

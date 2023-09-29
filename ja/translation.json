@@ -164,13 +164,8 @@
       "Name": "非対応のブラウザー"
     },
     "Version": "バージョン",
-    "TemporaryError": "一時的にBungieでエラーが発生しています。"
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "古くからの伝承、Destiny 1のグリモアカードは、ここにバックアップ、アーカイブされています。グリモアとはDestiny1にあるデータベースです。  ゲームをプレイすることで、\"カード\"という形でアンロックされていきます。\n\nグリモアの項目は、「ガーディアン」「インベントリ」「味方」「敵」「場所」「アクティビティ」の6つのカテゴリーに分類されています。それぞれに、いくつかのサブカテゴリーがあります。",
-      "Name": "グリモア"
-    }
+    "TemporaryError": "一時的にBungieでエラーが発生しています。",
+    "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "ベンダー",
     "Views": "ビュー",
     "Weapon": "武器",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "第{{number}}週",
     "Week_plural": "週"
   },
@@ -817,11 +813,6 @@
       "LostSector": "失われたセクターで発見: {{string}}",
       "Story": "ストーリー中に発見: {{string}}",
       "Strike": "ストライク中に発見: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
     }
   },
   "Notifications": {

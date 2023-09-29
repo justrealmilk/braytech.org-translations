@@ -164,13 +164,8 @@
       "Name": "Navegador no soportado"
     },
     "Version": "Versión",
-    "TemporaryError": "Se ha producido un error temporal de Bungie."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
-      "Name": "Grimorio"
-    }
+    "TemporaryError": "Se ha producido un error temporal de Bungie.",
+    "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "Comerciantes",
     "Views": "Secciones",
     "Weapon": "Arma",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
@@ -817,11 +813,6 @@
       "LostSector": "Se encuentra dentro del Sector Perdido: {{string}}",
       "Story": "Se encuentra dentro de la misión: {{string}}",
       "Strike": "Se encuentra dentro del Asalto: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio."
     }
   },
   "Notifications": {

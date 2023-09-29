@@ -164,13 +164,8 @@
       "Name": "瀏覽器不支持"
     },
     "Version": "版本",
-    "TemporaryError": "Bungie發生了一個臨時錯誤"
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "古老的傳説故事《Destiny 1》的魔典卡牌歸檔並展示在這裏",
-      "Name": "背景故事"
-    }
+    "TemporaryError": "Bungie發生了一個臨時錯誤",
+    "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "先鋒等級",
     "Views": "查看次數",
     "Weapon": "武器",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "周 {{number}}",
     "Week_plural": "周"
   },
@@ -817,11 +813,6 @@
       "LostSector": "在遺落之地找到: {{string}}",
       "Story": "在劇情中發現: {{string}}",
       "Strike": "在日落打擊中發現: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
     }
   },
   "Notifications": {

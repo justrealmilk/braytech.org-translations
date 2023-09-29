@@ -164,13 +164,8 @@
       "Name": "Navegador não Suportado"
     },
     "Version": "Versão",
-    "TemporaryError": "Ocorreu um erro temporário da Bungie."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "As histórias do antigo, Destiny 1, salvas em segurança, arquivadas e preservadas aqui.",
-      "Name": "Grimório"
-    }
+    "TemporaryError": "Ocorreu um erro temporário da Bungie.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "Vendedores",
     "Views": "Páginas",
     "Weapon": "Arma",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
@@ -817,11 +813,6 @@
       "LostSector": "Encontrado no Setor Perdido: {{string}}",
       "Story": "Encontrado na História: {{string}}",
       "Strike": "Encontrado no Assalto: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {

@@ -164,13 +164,8 @@
       "Name": "Nicht unterstützter Browser"
     },
     "Version": "Version",
-    "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Die Überlieferung der alten Grimoire-Karten von Destiny 1 wird hier gesichert, archiviert und aufbewahrt. Grimoire ist eine Datenbank innerhalb von Destiny. Die Einträge wurden durch Spielen des Spiels in Form von \"Karten\" freigeschaltet.\n\nDie Liste der Grimoire-Einträge ist in sechs Hauptkategorien unterteilt: Hüter, Inventar, Verbündete, Feinde, Orte und Aktivitäten. Jede dieser Kategorien hat eine Reihe von Unterkategorien.",
-      "Name": "Grimoire"
-    }
+    "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf.",
+    "MemberServiceInactive": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "Händler",
     "Views": "Ansichten",
     "Weapon": "Waffe",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Woche {{number}}",
     "Week_plural": "Wochen"
   },
@@ -817,11 +813,6 @@
       "LostSector": "Gefunden im Verlorenen Sektor: {{string}}",
       "Story": "Gefunden in der Kampagne: {{string}}",
       "Strike": "Gefunden im Strike: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
     }
   },
   "Notifications": {

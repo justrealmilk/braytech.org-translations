@@ -164,13 +164,8 @@
       "Name": "지원하지 않는 브라우저"
     },
     "Version": "버전",
-    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "과거의 지식, 데스티니 1의 그리모어 카드들은 이곳에 백업, 보관 및 보존됩니다. 그리모어는 데스티니 안의 데이터베이스입니다. 게임플레이를 통해 \"카드\" 형태로 수집할 수 있습니다.\n\n그리모어의 목록은 6개의 주요 범주(수호자, 인벤토리, 동맹국, 적, 장소 및 활동)로 정렬됩니다. 각 범주에는 여러 하위 범주가 있습니다.",
-      "Name": "그리모어"
-    }
+    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "",
     "Views": "조회수",
     "Weapon": "무기",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "{{number}}주",
     "Week_plural": "주일"
   },
@@ -817,11 +813,6 @@
       "LostSector": "잊혀진 구역 {{string}} 에서 찾을 수 있습니다.",
       "Story": "스토리 {{string}} 에서 찾을 수 있습니다.",
       "Strike": "공격전 {{string}} 에서 찾을 수 있습니다."
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {

@@ -164,13 +164,8 @@
       "Name": "Navigateur non supporté"
     },
     "Version": "Version",
-    "TemporaryError": "Une erreur Bungie temporaire s'est produite."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Les anciennes cartes du Grimoire de Destiny 1 sont sauvegardées, archivées et conservées ici. Le Grimoire est une base de données au sein de Destiny.  Les entrées ont été déverrouillées en jouant au jeu sous forme de cartes. La liste des entrées du Grimoire est classée en six catégories principales : Gardien, Inventaire, Alliés, Ennemis, Lieux et Activités. Chacune de ces catégories comporte un certain nombre de sous-catégories.",
-      "Name": "Grimoire"
-    }
+    "TemporaryError": "Une erreur Bungie temporaire s'est produite.",
+    "MemberServiceInactive": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "Marchands",
     "Views": "Vues",
     "Weapon": "Arme",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Semaine {{number}}",
     "Week_plural": "Semaines"
   },
@@ -817,11 +813,6 @@
       "LostSector": "Trouvé dans le secteur oublié: {{string}}",
       "Story": "Trouvé dans la mission: {{string}}",
       "Strike": "Trouvé dans l'assaut: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
     }
   },
   "Notifications": {

@@ -164,13 +164,8 @@
       "Name": "不支持当前浏览器中使用。"
     },
     "Version": "版本",
-    "TemporaryError": "Bungie 发生了一个临时错误。"
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "古老的传说故事，《命运 1》中的魔典卡牌归档并呈现于此",
-      "Name": "魔典"
-    }
+    "TemporaryError": "Bungie 发生了一个临时错误。",
+    "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "先锋等级",
     "Views": "查看次数",
     "Weapon": "武器",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
   },
@@ -817,11 +813,6 @@
       "LostSector": "在遗失区域发现: {{string}}",
       "Story": "在剧情中发现：{{string}}",
       "Strike": "在打击中发现：{{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
     }
   },
   "Notifications": {

@@ -164,13 +164,8 @@
       "Name": "🦘 Unsupported Browser"
     },
     "Version": "🦘 Version",
-    "TemporaryError": "🦘 A temporary Bungie error occurred."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "🦘 The lore of old, Destiny 1's Grimoire cards are backed up, archived, and preserved here. Grimoire is a database within Destiny. Entries were unlocked through playing the game in the form of \"cards.\"\n\nThe list of Grimoire entries is sorted into six main categories—Guardian, Inventory, Allies, Enemies, Places, and Activities. Each of these categories has a number of sub-categories.",
-      "Name": "🦘 Grimoire"
-    }
+    "TemporaryError": "🦘 A temporary Bungie error occurred.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -485,6 +480,7 @@
     "Vendor_plural": "🦘 Vendors",
     "Views": "🦘 Views",
     "Weapon": "🦘 Weapon",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "🦘 Week {{number}}",
     "Week_plural": "🦘 주일"
   },
@@ -817,11 +813,6 @@
       "LostSector": "🦘 Found within Lost Sector: {{string}}",
       "Story": "🦘 Found within Story: {{string}}",
       "Strike": "🦘 Found within Strike: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {
