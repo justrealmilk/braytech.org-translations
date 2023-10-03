@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",

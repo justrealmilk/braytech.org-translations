@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "這個記錄已被歸檔並可能在之後被解密",

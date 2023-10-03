@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "Nessun trionfo parzialmente completato. Scegli un obiettivo e inizia!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Questo trionfo è censurato e sarà rivelato in futuro",

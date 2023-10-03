@@ -1271,7 +1271,8 @@
     "AllCompleted": "All Completed",
     "NonePartiallyComplete": "No partially completed triumphs. Choose an objective and get started!",
     "NearTriumphs": "Near",
-    "NearLimit": "Display is limited to {{number}} triumphs for performance reasons.",
+    "NearLimit": "Display is limited to **{{number}}** triumphs for performance reasons.",
+    "NearTotal": "You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "{{number}} Partially Completed",
     "Classified": {
       "Description": "This record is classified and may be revealed at a later time.",

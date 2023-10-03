@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
     "NearTriumphs": "即将完成",
     "NearLimit": "限于性能原因，仅显示 {{number}} 项成就.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "这个记录为绝密并可能在之后被解密。",

@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
     "NearTriumphs": "Cerca",
     "NearLimit": "La visualización está limitada a {{number}} triunfos por razones de rendimiento.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "{{number}} parcialmente completado/s",
     "Classified": {
       "Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",

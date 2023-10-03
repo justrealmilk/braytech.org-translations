@@ -1272,6 +1272,7 @@
     "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
     "NearTriumphs": "もうすぐ達成",
     "NearLimit": "パフォーマンス制限により、 {{number}}個の表示に制限しています。",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "途中まで進んだ {{number}} 個の道のり",
     "Classified": {
       "Description": "この記録は機密扱いにされており、後日公開される可能性があります。",
