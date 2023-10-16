@@ -11,6 +11,7 @@
     "Cancel": "🦘 Cancel",
     "Close": "🦘 Close",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "🦘 Confirm",
     "Customise": "🦘 Customise",
     "Delete": "🦘 삭제",
@@ -19,6 +20,7 @@
     "Done": "🦘 완료",
     "Enable": "🦘 Enable",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "🦘 Forget Me",
     "GatherInVault": "🦘 Gather In Vault",
     "GoToBNet": "🦘 Go to Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "🦘 기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "🦘 대 용사 속성",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "🦘 Collections Roll",

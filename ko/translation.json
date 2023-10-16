@@ -11,6 +11,7 @@
     "Cancel": "취소",
     "Close": "닫기",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "확인",
     "Customise": "커스텀 설정",
     "Delete": "삭제",
@@ -19,6 +20,7 @@
     "Done": "완료",
     "Enable": "활성화",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "내 정보 지우기",
     "GatherInVault": "금고에 모으기",
     "GoToBNet": "Bungie.net으로 이동",
@@ -230,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "대 용사 속성",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "수집품 스텟",

@@ -11,6 +11,7 @@
     "Cancel": "取消",
     "Close": "关闭",
     "Collapse": "折叠",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "确认",
     "Customise": "自定义",
     "Delete": "删除",
@@ -19,6 +20,7 @@
     "Done": "完成",
     "Enable": "启用",
     "Expand": "展开",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "清除授权",
     "GatherInVault": "移入保险库",
     "GoToBNet": "前往 Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "冰影属性武器",
       "StrandDamage": "缚丝伤害武器",
       "VoidDamage": "虚空属性武器"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "基本信息",
     "Breaker": "职业",
     "BreakerType": "职业类型",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (已解锁)",
     "ClassPostmaster": "{{name}} (邮政官)",
     "CollectionsRoll": "收藏品",

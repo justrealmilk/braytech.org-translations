@@ -11,6 +11,7 @@
     "Cancel": "Annuler",
     "Close": "Fermer",
     "Collapse": "Réduire",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Confirmer",
     "Customise": "Personnaliser",
     "Delete": "Supprimer",
@@ -19,6 +20,7 @@
     "Done": "Terminé",
     "Enable": "Activer",
     "Expand": "Agrandir",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Oubliez-moi",
     "GatherInVault": "Regrouper dans le coffre",
     "GoToBNet": "Aller sur Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "Dégâts stasiques",
       "StrandDamage": "Dégâts filobscurs",
       "VoidDamage": "Dégâts abyssaux"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Caractéristiques de base",
     "Breaker": "Champion",
     "BreakerType": "Type de Champion",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Équipé)",
     "ClassPostmaster": "{{name}} (Commis des postes)",
     "CollectionsRoll": "Collection d'attributs",

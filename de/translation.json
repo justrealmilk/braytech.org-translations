@@ -11,6 +11,7 @@
     "Cancel": "Abbrechen",
     "Close": "Schließen",
     "Collapse": "Zusammenklappen",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Bestätigen",
     "Customise": "Anpassen",
     "Delete": "Löschen",
@@ -19,6 +20,7 @@
     "Done": "Fertig",
     "Enable": "Aktivieren",
     "Expand": "Erweitern",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Vergiss mich",
     "GatherInVault": "Im Tresor sammeln",
     "GoToBNet": "Besuche Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Grundlegende Eigenschaften",
     "Breaker": "Brecher",
     "BreakerType": "Brecher Typ",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Ausgerüstet)",
     "ClassPostmaster": "{{name}} (Poststelle)",
     "CollectionsRoll": "Sammlungs-Werte",

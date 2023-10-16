@@ -11,6 +11,7 @@
     "Cancel": "取消",
     "Close": "關閉",
     "Collapse": "崩潰",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "確認",
     "Customise": "定制",
     "Delete": "刪除",
@@ -19,6 +20,7 @@
     "Done": "完成",
     "Enable": "啓用",
     "Expand": "擴展",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "清除授權",
     "GatherInVault": "移入保險庫",
     "GoToBNet": "轉到Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "基本訊息",
     "Breaker": "職業",
     "BreakerType": "職業類型",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": " {{name}} (已解鎖)",
     "ClassPostmaster": " {{name}} (郵政官)",
     "CollectionsRoll": "收藏品",

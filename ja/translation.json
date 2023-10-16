@@ -11,6 +11,7 @@
     "Cancel": "キャンセル",
     "Close": "閉じる",
     "Collapse": "折りたたむ",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "確認",
     "Customise": "カスタマイズ",
     "Delete": "消去",
@@ -19,6 +20,7 @@
     "Done": "完了",
     "Enable": "有効にする",
     "Expand": "展開する",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "データを抹消する",
     "GatherInVault": "すべて保管庫に送る",
     "GoToBNet": "Bungie.netへ進む",
@@ -230,7 +232,8 @@
       "StasisDamage": "ステイシスダメージ",
       "StrandDamage": "ストランドダメージ",
       "VoidDamage": "ボイドダメージ"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "基本特性",
     "Breaker": "チャンピオン属性",
     "BreakerType": "特殊属性",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (装備中)",
     "ClassPostmaster": "{{name}} (ポストマスター)",
     "CollectionsRoll": "コレクション品のステータス",

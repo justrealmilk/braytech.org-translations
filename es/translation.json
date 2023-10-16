@@ -11,6 +11,7 @@
     "Cancel": "Cancelar",
     "Close": "Cerrar",
     "Collapse": "Reducir",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Confirmar",
     "Customise": "Personalizar",
     "Delete": "Borrar",
@@ -19,6 +20,7 @@
     "Done": "Guardar",
     "Enable": "Activar",
     "Expand": "Ampliar",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Olvídame",
     "GatherInVault": "Reunir en el depósito",
     "GoToBNet": "Ir a Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "Daño de estasis",
       "StrandDamage": "Daño de atadura",
       "VoidDamage": "Daño de vacío"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Características básicas",
     "Breaker": "Interrupción",
     "BreakerType": "Tipo de interrupción",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (equipado)",
     "ClassPostmaster": "{{name}} (administración)",
     "CollectionsRoll": "Estadísticas de colecciones",

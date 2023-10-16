@@ -11,6 +11,7 @@
     "Cancel": "Annulla",
     "Close": "Chiudi",
     "Collapse": "Riduci",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Conferma",
     "Customise": "Personalizza",
     "Delete": "Elimina",
@@ -19,6 +20,7 @@
     "Done": "Fatto",
     "Enable": "Attiva",
     "Expand": "Espandi",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Dimenticami",
     "GatherInVault": "Sposta nel deposito",
     "GoToBNet": "Vai su Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "Danni da stasi",
       "StrandDamage": "Danni da telascura",
       "VoidDamage": "Danni da vuoto"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Caratteristiche Base",
     "Breaker": "Anti-campione",
     "BreakerType": "Capacità anti-campione",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (equipaggiato)",
     "ClassPostmaster": "{{name}} (amministratore)",
     "CollectionsRoll": "Caratteristiche delle collezioni",

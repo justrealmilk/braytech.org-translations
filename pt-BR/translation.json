@@ -11,6 +11,7 @@
     "Cancel": "Cancelar",
     "Close": "Fechar",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Confirmar",
     "Customise": "Customizar",
     "Delete": "Deletar",
@@ -19,6 +20,7 @@
     "Done": "Feito",
     "Enable": "Habilitar",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Esquecer-me",
     "GatherInVault": "Transferir Para o Cofre",
     "GoToBNet": "Ir para Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Características Básicas",
     "Breaker": "🦘 Breaker",
     "BreakerType": "Tipo de Disparo",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Equipado)",
     "ClassPostmaster": "{{name}} (Correio)",
     "CollectionsRoll": "Roll de Coleção",

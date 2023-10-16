@@ -11,6 +11,7 @@
     "Cancel": "Отмена",
     "Close": "Закрыть",
     "Collapse": "Свернуть",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Подтвердить",
     "Customise": "Персонализировать",
     "Delete": "Удалить",
@@ -19,6 +20,7 @@
     "Done": "Применить",
     "Enable": "Включить",
     "Expand": "Расширить",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Забыть меня",
     "GatherInVault": "Собрать в Хранилище",
     "GoToBNet": "Перейти на Bungie.net",
@@ -230,7 +232,8 @@
       "StasisDamage": "Стазисный урон",
       "StrandDamage": "Урон Нити",
       "VoidDamage": "Пустотный урон"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -553,6 +556,8 @@
     "BasicCharacteristics": "Базовые характеристики",
     "Breaker": "Пробивание",
     "BreakerType": "Тип пробивания",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Экипировано)",
     "ClassPostmaster": "{{name}} (Почтмейстер)",
     "CollectionsRoll": "Характеристики из Коллекции",
