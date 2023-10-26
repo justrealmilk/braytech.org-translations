@@ -11,7 +11,7 @@
     "Cancel": "Cancelar",
     "Close": "Cerrar",
     "Collapse": "Reducir",
-    "CollapseFilters": "🦘 Collapse Filters",
+    "CollapseFilters": "Cerrar filtros",
     "Confirm": "Confirmar",
     "Customise": "Personalizar",
     "Delete": "Borrar",
@@ -20,7 +20,7 @@
     "Done": "Guardar",
     "Enable": "Activar",
     "Expand": "Ampliar",
-    "ExpandFilters": "🦘 Expand Filters",
+    "ExpandFilters": "Abrir filtros",
     "ForgetMe": "Olvídame",
     "GatherInVault": "Reunir en el depósito",
     "GoToBNet": "Ir a Bungie.net",
@@ -233,7 +233,7 @@
       "StrandDamage": "Daño de atadura",
       "VoidDamage": "Daño de vacío"
     },
-    "FiltersApplied": "🦘 Filters Applied"
+    "FiltersApplied": "Filtros aplicados"
   },
   "Clan": {
     "Administration": {
@@ -483,7 +483,7 @@
     "Vendor_plural": "Comerciantes",
     "Views": "Secciones",
     "Weapon": "Arma",
-    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
+    "WebringInfo": "Visita a un amigo de Braytech, otro proyecto de Destiny creado por la comunidad.",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
@@ -556,8 +556,8 @@
     "BasicCharacteristics": "Características básicas",
     "Breaker": "Interrupción",
     "BreakerType": "Tipo de interrupción",
-    "ClassType": "🦘 Class Type",
-    "DamageType": "🦘 Damage Type",
+    "ClassType": "Tipo de clase",
+    "DamageType": "Tipo de daño",
     "ClassEquipped": "{{name}} (equipado)",
     "ClassPostmaster": "{{name}} (administración)",
     "CollectionsRoll": "Estadísticas de colecciones",
@@ -1249,7 +1249,7 @@
       "Equip": "Equipar",
       "Favourite": "Añadir a favoritos",
       "Garbage": "Basura",
-      "Details": "🦘 Details",
+      "Details": "Detalles",
       "Lock": "Bloquear",
       "NotGarbage": "No es basura",
       "Select": "Seleccionar",
@@ -1277,7 +1277,7 @@
     "NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
     "NearTriumphs": "Cerca",
     "NearLimit": "La visualización está limitada a {{number}} triunfos por razones de rendimiento.",
-    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
+    "NearTotal": "Te quedan **{{number}}** triunfos.",
     "PartiallyComplete": "{{number}} parcialmente completado/s",
     "Classified": {
       "Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",
