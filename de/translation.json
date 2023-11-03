@@ -11,6 +11,7 @@
     "Cancel": "Abbrechen",
     "Close": "Schließen",
     "Collapse": "Zusammenklappen",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Bestätigen",
     "Customise": "Anpassen",
     "Delete": "Löschen",
@@ -19,6 +20,7 @@
     "Done": "Fertig",
     "Enable": "Aktivieren",
     "Expand": "Erweitern",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Vergiss mich",
     "GatherInVault": "Im Tresor sammeln",
     "GoToBNet": "Besuche Bungie.net",
@@ -164,13 +166,8 @@
       "Name": "Nicht unterstützter Browser"
     },
     "Version": "Version",
-    "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Die Überlieferung der alten Grimoire-Karten von Destiny 1 wird hier gesichert, archiviert und aufbewahrt. Grimoire ist eine Datenbank innerhalb von Destiny. Die Einträge wurden durch Spielen des Spiels in Form von \"Karten\" freigeschaltet.\n\nDie Liste der Grimoire-Einträge ist in sechs Hauptkategorien unterteilt: Hüter, Inventar, Verbündete, Feinde, Orte und Aktivitäten. Jede dieser Kategorien hat eine Reihe von Unterkategorien.",
-      "Name": "Grimoire"
-    }
+    "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf.",
+    "MemberServiceInactive": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "Händler",
     "Views": "Ansichten",
     "Weapon": "Waffe",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Woche {{number}}",
     "Week_plural": "Wochen"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "Grundlegende Eigenschaften",
     "Breaker": "Brecher",
     "BreakerType": "Brecher Typ",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Ausgerüstet)",
     "ClassPostmaster": "{{name}} (Poststelle)",
     "CollectionsRoll": "Sammlungs-Werte",
@@ -817,11 +818,6 @@
       "LostSector": "Gefunden im Verlorenen Sektor: {{string}}",
       "Story": "Gefunden in der Kampagne: {{string}}",
       "Strike": "Gefunden im Strike: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "Ausrüsten",
       "Favourite": "Favorisieren",
       "Garbage": "Müll",
-      "Inspect": "Ansehen",
+      "Details": "🦘 Details",
       "Lock": "Sperren",
       "NotGarbage": "Nicht Müll",
       "Select": "🦘 Select",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Dieser Triumph ist geheim und wird möglicherweise in Zukunft verfügbar sein.",

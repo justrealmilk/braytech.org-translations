@@ -11,6 +11,7 @@
     "Cancel": "キャンセル",
     "Close": "閉じる",
     "Collapse": "折りたたむ",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "確認",
     "Customise": "カスタマイズ",
     "Delete": "消去",
@@ -19,6 +20,7 @@
     "Done": "完了",
     "Enable": "有効にする",
     "Expand": "展開する",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "データを抹消する",
     "GatherInVault": "すべて保管庫に送る",
     "GoToBNet": "Bungie.netへ進む",
@@ -164,13 +166,8 @@
       "Name": "非対応のブラウザー"
     },
     "Version": "バージョン",
-    "TemporaryError": "一時的にBungieでエラーが発生しています。"
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "古くからの伝承、Destiny 1のグリモアカードは、ここにバックアップ、アーカイブされています。グリモアとはDestiny1にあるデータベースです。  ゲームをプレイすることで、\"カード\"という形でアンロックされていきます。\n\nグリモアの項目は、「ガーディアン」「インベントリ」「味方」「敵」「場所」「アクティビティ」の6つのカテゴリーに分類されています。それぞれに、いくつかのサブカテゴリーがあります。",
-      "Name": "グリモア"
-    }
+    "TemporaryError": "一時的にBungieでエラーが発生しています。",
+    "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "ステイシスダメージ",
       "StrandDamage": "ストランドダメージ",
       "VoidDamage": "ボイドダメージ"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "ベンダー",
     "Views": "ビュー",
     "Weapon": "武器",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "第{{number}}週",
     "Week_plural": "週"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "基本特性",
     "Breaker": "チャンピオン属性",
     "BreakerType": "特殊属性",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (装備中)",
     "ClassPostmaster": "{{name}} (ポストマスター)",
     "CollectionsRoll": "コレクション品のステータス",
@@ -817,11 +818,6 @@
       "LostSector": "失われたセクターで発見: {{string}}",
       "Story": "ストーリー中に発見: {{string}}",
       "Strike": "ストライク中に発見: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "装備",
       "Favourite": "お気に入り",
       "Garbage": "不用品",
-      "Inspect": "分析",
+      "Details": "🦘 Details",
       "Lock": "ロックする",
       "NotGarbage": "不用品から戻す",
       "Select": "選択",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
     "NearTriumphs": "もうすぐ達成",
     "NearLimit": "パフォーマンス制限により、 {{number}}個の表示に制限しています。",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "途中まで進んだ {{number}} 個の道のり",
     "Classified": {
       "Description": "この記録は機密扱いにされており、後日公開される可能性があります。",

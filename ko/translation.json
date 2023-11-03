@@ -11,6 +11,7 @@
     "Cancel": "취소",
     "Close": "닫기",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "확인",
     "Customise": "커스텀 설정",
     "Delete": "삭제",
@@ -19,6 +20,7 @@
     "Done": "완료",
     "Enable": "활성화",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "내 정보 지우기",
     "GatherInVault": "금고에 모으기",
     "GoToBNet": "Bungie.net으로 이동",
@@ -164,13 +166,8 @@
       "Name": "지원하지 않는 브라우저"
     },
     "Version": "버전",
-    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "과거의 지식, 데스티니 1의 그리모어 카드들은 이곳에 백업, 보관 및 보존됩니다. 그리모어는 데스티니 안의 데이터베이스입니다. 게임플레이를 통해 \"카드\" 형태로 수집할 수 있습니다.\n\n그리모어의 목록은 6개의 주요 범주(수호자, 인벤토리, 동맹국, 적, 장소 및 활동)로 정렬됩니다. 각 범주에는 여러 하위 범주가 있습니다.",
-      "Name": "그리모어"
-    }
+    "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "",
     "Views": "조회수",
     "Weapon": "무기",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "{{number}}주",
     "Week_plural": "주일"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "대 용사 속성",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "수집품 스텟",
@@ -817,11 +818,6 @@
       "LostSector": "잊혀진 구역 {{string}} 에서 찾을 수 있습니다.",
       "Story": "스토리 {{string}} 에서 찾을 수 있습니다.",
       "Strike": "공격전 {{string}} 에서 찾을 수 있습니다."
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "장착",
       "Favourite": "즐겨찾기",
       "Garbage": "🦘 Garbage",
-      "Inspect": "상세 정보",
+      "Details": "🦘 Details",
       "Lock": "잠금",
       "NotGarbage": "🦘 Not Garbage",
       "Select": "🦘 Select",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",

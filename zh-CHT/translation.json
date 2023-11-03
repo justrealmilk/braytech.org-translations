@@ -11,6 +11,7 @@
     "Cancel": "取消",
     "Close": "關閉",
     "Collapse": "崩潰",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "確認",
     "Customise": "定制",
     "Delete": "刪除",
@@ -19,6 +20,7 @@
     "Done": "完成",
     "Enable": "啓用",
     "Expand": "擴展",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "清除授權",
     "GatherInVault": "移入保險庫",
     "GoToBNet": "轉到Bungie.net",
@@ -164,13 +166,8 @@
       "Name": "瀏覽器不支持"
     },
     "Version": "版本",
-    "TemporaryError": "Bungie發生了一個臨時錯誤"
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "古老的傳説故事《Destiny 1》的魔典卡牌歸檔並展示在這裏",
-      "Name": "背景故事"
-    }
+    "TemporaryError": "Bungie發生了一個臨時錯誤",
+    "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "先鋒等級",
     "Views": "查看次數",
     "Weapon": "武器",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "周 {{number}}",
     "Week_plural": "周"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "基本訊息",
     "Breaker": "職業",
     "BreakerType": "職業類型",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": " {{name}} (已解鎖)",
     "ClassPostmaster": " {{name}} (郵政官)",
     "CollectionsRoll": "收藏品",
@@ -817,11 +818,6 @@
       "LostSector": "在遺落之地找到: {{string}}",
       "Story": "在劇情中發現: {{string}}",
       "Strike": "在日落打擊中發現: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "裝備",
       "Favourite": "收藏",
       "Garbage": "垃圾",
-      "Inspect": "檢視",
+      "Details": "🦘 Details",
       "Lock": "鎖定",
       "NotGarbage": "非垃圾",
       "Select": "🦘 Select",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "這個記錄已被歸檔並可能在之後被解密",

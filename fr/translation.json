@@ -7,10 +7,11 @@
     "Authenticate": "S'authentifier",
     "Back": "Retour",
     "BecomeAPatron": "Devenez un Patron !",
-    "Browse": "🦘 Browse",
+    "Browse": "Parcourir",
     "Cancel": "Annuler",
     "Close": "Fermer",
     "Collapse": "Réduire",
+    "CollapseFilters": "Réduire les filtres",
     "Confirm": "Confirmer",
     "Customise": "Personnaliser",
     "Delete": "Supprimer",
@@ -19,6 +20,7 @@
     "Done": "Terminé",
     "Enable": "Activer",
     "Expand": "Agrandir",
+    "ExpandFilters": "Étendre les filtres",
     "ForgetMe": "Oubliez-moi",
     "GatherInVault": "Regrouper dans le coffre",
     "GoToBNet": "Aller sur Bungie.net",
@@ -55,7 +57,7 @@
     "Unlock": "Déverrouiller",
     "UserReady": "Allons-y!",
     "ViewHistoricalData": "Voir les données historiques",
-    "ViewMore": "🦘 View More"
+    "ViewMore": "Voir plus"
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
@@ -70,7 +72,7 @@
       "SinglePlayer": "Activité en solo"
     },
     "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "BookmarksSync": "Synchronisez les marque-pages entre les appareils avec Voluspa.",
     "Modes": {
       "Bar": {
         "PvPLoss": "Défaite",
@@ -109,7 +111,7 @@
     "State": {
       "ActivityHistoryError": "Une erreur s'est produite lors de la tentative de chargement de l'historique des activités. Veuillez réessayer.",
       "DownloadingReports": "Téléchargement des rapports",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
+      "RestoringReportsProgressValue": "Restauration des rapports",
       "DownloadingReportsProgressValue": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",
       "GenericError": "Quelque chose s'est mal passé. Veuillez réessayer.",
       "HydratingReportsCache": "Les données des rapports sont en cours de chargement dans la mémoire à partir du stockage de l'appareil.",
@@ -164,13 +166,8 @@
       "Name": "Navigateur non supporté"
     },
     "Version": "Version",
-    "TemporaryError": "Une erreur Bungie temporaire s'est produite."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Les anciennes cartes du Grimoire de Destiny 1 sont sauvegardées, archivées et conservées ici. Le Grimoire est une base de données au sein de Destiny.  Les entrées ont été déverrouillées en jouant au jeu sous forme de cartes. La liste des entrées du Grimoire est classée en six catégories principales : Gardien, Inventaire, Alliés, Ennemis, Lieux et Activités. Chacune de ces catégories comporte un certain nombre de sous-catégories.",
-      "Name": "Grimoire"
-    }
+    "TemporaryError": "Une erreur Bungie temporaire s'est produite.",
+    "MemberServiceInactive": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
   },
   "Auth": {
     "Data": {
@@ -195,7 +192,7 @@
       "Description": "Ce sont les comptes actuellement associées à votre profil Bungie.net.",
       "Name": "Comptes associés"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "Ceci est une fonctionnalité réservée aux mécènes. Certaines fonctionnalités ne sont possibles qu'avec le soutien des mécènes. En savoir plus sur [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "Associez ce profil Bungie.net à un compte Patreon",
       "Name": "Connexion à Patreon",
@@ -235,7 +232,8 @@
       "StasisDamage": "Dégâts stasiques",
       "StrandDamage": "Dégâts filobscurs",
       "VoidDamage": "Dégâts abyssaux"
-    }
+    },
+    "FiltersApplied": "Filtres appliqués"
   },
   "Clan": {
     "Administration": {
@@ -253,15 +251,15 @@
       "EmblemForegroundColor": "Couleur de premier plan de l'emblème",
       "Name": "Éditeur de bannière de clan"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "Bannière",
+    "ClanAbout": "À propos",
     "ClanRoster": "Escouades",
     "ClanTimetable": "Calendrier",
     "Founded": "Fondé le {{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
+    "Progression": "À mesure que votre clan monte de niveau, des avantages pour la bannière de clan sont débloqués pour tous les membres. Complétez des activités à travers le système pour augmenter le niveau de votre clan.",
+    "RitualRewards": "En tant que clan, terminez des activités rituelles pour débloquer des engrammes de Suraya Hawthorne pour tous les membres.",
     "HistoricalStats": {
-      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
+      "Description": "Comparez les joueurs selon les statistiques, détaillées par mode d'activité. Pour plus d'informations sur la précision de ces statistiques, consultez la section [Frequently Asked Questions](/addendums/faq).",
       "ViewportWidth": "Les statistiques historiques sont destinées à être utilisées sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1024px`."
     },
     "Members": "{{number}} Membres",
@@ -277,20 +275,20 @@
       "NoFriends": "Vous n'êtes pas seul - vous vous ferez éventuellement un ami... Invitez un ami du clan à sortir pour quelques activités!",
       "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, gardien!",
       "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "Top {{number}} des compositions d'équipe",
+      "TopFriends": "Top {{number}} des amis par activités jouées",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Ne chargez que les activités de la saison actuelle.",
+          "Name": "Saison actuelle"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Filtrez les rencontres et les équipes pour n'inclure que les membres de votre clan.",
+          "Name": "Membres du clan"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "Filtrez les rencontres et les équipes pour n'inclure que les amis Bungie.",
+          "Name": "Amis Bungie"
         }
       }
     },
@@ -367,26 +365,26 @@
     "Challenge": "Défi",
     "Challenge_plural": "Défis",
     "Character": "Personnage",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "BrowseNthMembers_plural": "Parcourir {{number}} membres",
     "CharacterClass": "Classe du personnage",
     "CharacterLight": "Puissance du personnage",
     "CharacterSpecific": "Comme pour la plupart des fonctions Braytech, cette vue est spécifique à un personnage.",
     "Character_plural": "Personnages",
     "Checklists": "Listes importantes",
     "Clan": "Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "Membre du clan",
+    "ClanMember_plural": "Membres du clan",
     "ClanMembersNth_plural": "Membres de clan",
     "Classified": "Classifié",
     "Collectibles": "Récompenses",
     "Collections": "Collections",
-    "CollectionsScore": "🦘 Collections Score",
+    "CollectionsScore": "Score de Collections",
     "CommendationAbr_plural": "Élog.",
     "Completed": "Complétés",
     "CruciblePlaylist": "Programme de l'Épreuve",
     "DateTime": "Date & Heure",
-    "Emblem": "🦘 Emblem",
-    "Emblem_plural": "🦘 Emblems",
+    "Emblem": "Emblème",
+    "Emblem_plural": "Emblèmes",
     "Equipment": "Équipement",
     "Error": "Erreur",
     "Event": "Évènement",
@@ -401,16 +399,16 @@
     "FeaturedNightfall": "Nuit noire actuelle",
     "FeaturedPlaylist": "Activité PVP actuelle",
     "Fireteam": "Escouade",
-    "Fireteam_plural": "🦘 Fireteams",
+    "Fireteam_plural": "Escouades",
     "FireteamMembers": "Membres d'escouade",
     "FireteamReserves": "Réserves",
     "FireteamSize": "Taille de l'escouade",
-    "Friend": "🦘 Friend",
+    "Friend": "Ami",
     "Friend_plural": "Amis",
     "GloryPoints": "Points de Gloire",
     "GuardianRank": "Rang de Gardien",
     "Guardians": "Gardiens",
-    "Help": "🦘 Help",
+    "Help": "Aide",
     "HistoricalStats": "Stats historiques",
     "InfamyPoints": "Points d'Infamie",
     "Inspect": "Inspecter",
@@ -429,28 +427,28 @@
     "NothingHereYet": "Il n'y a encore rien ici",
     "Objectives": "Objectifs",
     "Offline": "Hors ligne",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "Patrons",
     "Player": "Joueur",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "Joueurs",
     "Preview": "Prévisualisation",
     "Profile": "Profil",
-    "Profile_plural": "🦘 Profiles",
+    "Profile_plural": "Profils",
     "Progress": "Progrès",
     "Progression": "Progression",
     "Quests": "Quêtes",
     "Rank_plural": "Rangs",
-    "Rarity": "🦘 Rarity",
+    "Rarity": "Rareté",
     "Record": "Enregistrement",
     "Record_plural": "Enregistrements",
-    "Report_plural": "🦘 Reports",
+    "Report_plural": "Reports",
     "Reputation": "Réputation",
     "Reset": "Réinitialisation",
     "Reward": "Récompense",
     "Reward_plural": "Récompenses",
     "Savathûn'sCurse": "Malédiction de Savathûn",
     "Score": "Score",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "Scores",
     "ScoreValue": "Valeur du score",
     "Screenshot": "Capture d'écran",
     "Search": "Recherche",
@@ -464,18 +462,18 @@
     "SpecialCommendationAbr_plural": "Éloges spéc.",
     "SpecialCommendation_plural": "Éloges spéciales",
     "Submit": "Envoyer",
-    "Support": "🦘 Support",
+    "Support": "Assistance",
     "TimePlayed": "Temps de jeu",
     "TimeRemaining": "Temps restant",
-    "TopNth": "🦘 Top {{number}}",
+    "TopNth": "Top {{number}}",
     "Translator_plural": "Traducteurs",
     "TrialsPassage": "Passage du Jugement",
     "TrialsPoints": "Points du Jugement",
-    "ActiveScore": "🦘 Active Score",
-    "LegacyScore": "🦘 Legacy Score",
+    "ActiveScore": "Score Actif",
+    "LegacyScore": "Score Héritage",
     "TriumphScore": "Score de triomphe",
-    "ActiveRecords": "🦘 Active Records",
-    "LegacyRecords": "🦘 Legacy Records",
+    "ActiveRecords": "Enregistrements Actifs",
+    "LegacyRecords": "Enregistrements Héritage",
     "Triumphs": "Triomphes",
     "Unknown": "Inconnu",
     "Users": "Utilisateurs",
@@ -485,6 +483,7 @@
     "Vendor_plural": "Marchands",
     "Views": "Vues",
     "Weapon": "Arme",
+    "WebringInfo": "Visitez un ami de Braytech, un autre projet Destiny créé par la communauté.",
     "WeekNth": "Semaine {{number}}",
     "Week_plural": "Semaines"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "Caractéristiques de base",
     "Breaker": "Champion",
     "BreakerType": "Type de Champion",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Équipé)",
     "ClassPostmaster": "{{name}} (Commis des postes)",
     "CollectionsRoll": "Collection d'attributs",
@@ -685,10 +686,10 @@
     },
     "Empty": "Vide",
     "Fishing": {
-      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-      "LargestFish": "🦘 Largest Fish",
-      "Name": "🦘 Competitive Fishing",
-      "TypesCaught": "🦘 Types Caught"
+      "Description": "Prise du jour\n\nLancez une ligne lestée, montrez votre aquarium et devenez compétitif en comparant vos prises les plus lourdes avec vos camarades pêcheurs.",
+      "LargestFish": "Poisson le plus grand",
+      "Name": "Pêche compétitive",
+      "TypesCaught": "Types attrapés"
     },
     "Ranks": {
       "Description": "Par l'audace jusqu'aux étoiles\n\nMenez des escouades à la victoire contre les sbires des Ténèbres et affrontez-vous dans l'Épreuve pour des accolades du seigneur Shaxx lui-même.",
@@ -700,7 +701,7 @@
     },
     "Seals": {
       "Commonality": "Emblèmes de victoire\n\nLa mesure ultime d'un complétiste et d'un collectionneur; portez-les bien.",
-      "Name": "🦘 Triumph Seals"
+      "Name": "Sceaux de Triomphe"
     }
   },
   "Loading": {
@@ -752,9 +753,9 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
+      "Rotations": "Rotations",
+      "PublicEvents": "Événements publics",
+      "Next": "Suivant: {{next}}",
       "ChecklistsAndMore": "🦘 Checklists + More",
       "NoChecklistItems": "Aucun objet détecté"
     },
@@ -819,15 +820,10 @@
       "Strike": "Trouvé dans l'assaut: {{string}}"
     }
   },
-  "MemberService": {
-    "Inactive": {
-      "Description": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
-    }
-  },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "Je n'ai pas réussi à copier ce lien dans votre presse-papiers.",
+      "Success": "Un lien a été copié dans votre presse-papiers."
     },
     "NthMore": "et {{number}} supplémentaire",
     "NthRemaining": "{{number}} autres restants",
@@ -842,18 +838,18 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "Aucun clan trouvé",
+    "SearchPlaceholder": "entrez le nom précis du clan"
   },
   "ProfileSearch": {
     "ActiveProfile": "Profil actif",
     "BungieNetProfile": "Profil Bungie.net",
     "ChangeProfile": "Changer de profil",
-    "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
+    "CrossSaveProfile": "Ce joueur a activé la sauvegarde croisée. Son profil actif est marqué.",
     "Error": {
       "Network": {
-        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "🦘 Network Error"
+        "Description": "Une erreur réseau est survenue. Il s'agit d'une erreur temporaire qui peut être résolue en fermant la boîte de dialogue et en essayant à nouveau.",
+        "Name": "Erreur Réseau"
       },
       "Banned": {
         "Botting": "Un joueur a été observé en train d'utiliser des mécanismes pour éviter les contre-mesures de détection d'inactivité (botting).",
@@ -874,8 +870,8 @@
         "Name": "Profil privé"
       },
       "NoCharacters": {
-        "Description": "🦘 This player hasn't created any characters yet!",
-        "Name": "🦘 No Characters"
+        "Description": "Ce joueur n'a pas encore créé de personnages !",
+        "Name": "Pas de personnage"
       }
     },
     "GetStarted": "Il semblerait que tu sois nouveau ici ! Tu peux commencer en appuyant sur **Authenticate** et en te connectant sur Bungie.net ou tu peux rechercher ton nom Bungie et charger ton profil manuellement !",
@@ -1253,7 +1249,7 @@
       "Equip": "Équiper",
       "Favourite": "Favori",
       "Garbage": "Jeter à la poubelle",
-      "Inspect": "Inspecter",
+      "Details": "🦘 Details",
       "Lock": "Verrouiller",
       "NotGarbage": "Ne pas Jeter",
       "Select": "Sélectionner",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "Pas de triomphes partiellement achevés. Choisissez un objectif et lancez-vous !",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Cette entrée est confidentielle et sera probablement révélée plus tard.",

@@ -11,6 +11,7 @@
     "Cancel": "Cancelar",
     "Close": "Cerrar",
     "Collapse": "Reducir",
+    "CollapseFilters": "Cerrar filtros",
     "Confirm": "Confirmar",
     "Customise": "Personalizar",
     "Delete": "Borrar",
@@ -19,6 +20,7 @@
     "Done": "Guardar",
     "Enable": "Activar",
     "Expand": "Ampliar",
+    "ExpandFilters": "Abrir filtros",
     "ForgetMe": "Olvídame",
     "GatherInVault": "Reunir en el depósito",
     "GoToBNet": "Ir a Bungie.net",
@@ -164,13 +166,8 @@
       "Name": "Navegador no soportado"
     },
     "Version": "Versión",
-    "TemporaryError": "Se ha producido un error temporal de Bungie."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "El saber de las antiguas cartas de Grimorio de Destiny 1 está copiado, archivado y preservado aquí. El Grimorio es una base de datos dentro de la Destiny. Las entradas se desbloqueaban durante el juego en forma de \"cartas\".\n\nLa lista de entradas del Grimorio está dividida en seis categorías principales: guardianes, inventario, aliados, enemigos, lugares y actividades. Cada una de estas categorías tiene varias subcategorías.",
-      "Name": "Grimorio"
-    }
+    "TemporaryError": "Se ha producido un error temporal de Bungie.",
+    "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio."
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "Daño de estasis",
       "StrandDamage": "Daño de atadura",
       "VoidDamage": "Daño de vacío"
-    }
+    },
+    "FiltersApplied": "Filtros aplicados"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "Comerciantes",
     "Views": "Secciones",
     "Weapon": "Arma",
+    "WebringInfo": "Visita a un amigo de Braytech, otro proyecto de Destiny creado por la comunidad.",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "Características básicas",
     "Breaker": "Interrupción",
     "BreakerType": "Tipo de interrupción",
+    "ClassType": "Tipo de clase",
+    "DamageType": "Tipo de daño",
     "ClassEquipped": "{{name}} (equipado)",
     "ClassPostmaster": "{{name}} (administración)",
     "CollectionsRoll": "Estadísticas de colecciones",
@@ -817,11 +818,6 @@
       "LostSector": "Se encuentra dentro del Sector Perdido: {{string}}",
       "Story": "Se encuentra dentro de la misión: {{string}}",
       "Strike": "Se encuentra dentro del Asalto: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio."
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "Equipar",
       "Favourite": "Añadir a favoritos",
       "Garbage": "Basura",
-      "Inspect": "Detalles",
+      "Details": "Detalles",
       "Lock": "Bloquear",
       "NotGarbage": "No es basura",
       "Select": "Seleccionar",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
     "NearTriumphs": "Cerca",
     "NearLimit": "La visualización está limitada a {{number}} triunfos por razones de rendimiento.",
+    "NearTotal": "Te quedan **{{number}}** triunfos.",
     "PartiallyComplete": "{{number}} parcialmente completado/s",
     "Classified": {
       "Description": "Este triunfo está clasificado y puede que sea revelado más adelante.",

@@ -11,6 +11,7 @@
     "Cancel": "🦘 Cancel",
     "Close": "🦘 Close",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "🦘 Confirm",
     "Customise": "🦘 Customise",
     "Delete": "🦘 삭제",
@@ -19,6 +20,7 @@
     "Done": "🦘 완료",
     "Enable": "🦘 Enable",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "🦘 Forget Me",
     "GatherInVault": "🦘 Gather In Vault",
     "GoToBNet": "🦘 Go to Bungie.net",
@@ -164,13 +166,8 @@
       "Name": "🦘 Unsupported Browser"
     },
     "Version": "🦘 Version",
-    "TemporaryError": "🦘 A temporary Bungie error occurred."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "🦘 The lore of old, Destiny 1's Grimoire cards are backed up, archived, and preserved here. Grimoire is a database within Destiny. Entries were unlocked through playing the game in the form of \"cards.\"\n\nThe list of Grimoire entries is sorted into six main categories—Guardian, Inventory, Allies, Enemies, Places, and Activities. Each of these categories has a number of sub-categories.",
-      "Name": "🦘 Grimoire"
-    }
+    "TemporaryError": "🦘 A temporary Bungie error occurred.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "🦘 Vendors",
     "Views": "🦘 Views",
     "Weapon": "🦘 Weapon",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "🦘 Week {{number}}",
     "Week_plural": "🦘 주일"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "🦘 기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "🦘 대 용사 속성",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "🦘 Collections Roll",
@@ -817,11 +818,6 @@
       "LostSector": "🦘 Found within Lost Sector: {{string}}",
       "Story": "🦘 Found within Story: {{string}}",
       "Strike": "🦘 Found within Strike: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "🦘 Equip",
       "Favourite": "🦘 Favourite",
       "Garbage": "🦘 Garbage",
-      "Inspect": "🦘 Inspect",
+      "Details": "🦘 Details",
       "Lock": "🦘 Lock",
       "NotGarbage": "🦘 Not Garbage",
       "Select": "🦘 Select",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "🦘 This record is classified and may be revealed at a later time.",

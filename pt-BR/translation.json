@@ -11,6 +11,7 @@
     "Cancel": "Cancelar",
     "Close": "Fechar",
     "Collapse": "🦘 Collapse",
+    "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "Confirmar",
     "Customise": "Customizar",
     "Delete": "Deletar",
@@ -19,6 +20,7 @@
     "Done": "Feito",
     "Enable": "Habilitar",
     "Expand": "🦘 Expand",
+    "ExpandFilters": "🦘 Expand Filters",
     "ForgetMe": "Esquecer-me",
     "GatherInVault": "Transferir Para o Cofre",
     "GoToBNet": "Ir para Bungie.net",
@@ -164,13 +166,8 @@
       "Name": "Navegador não Suportado"
     },
     "Version": "Versão",
-    "TemporaryError": "Ocorreu um erro temporário da Bungie."
-  },
-  "Archives": {
-    "Grimoire": {
-      "Description": "As histórias do antigo, Destiny 1, salvas em segurança, arquivadas e preservadas aqui.",
-      "Name": "Grimório"
-    }
+    "TemporaryError": "Ocorreu um erro temporário da Bungie.",
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
   },
   "Auth": {
     "Data": {
@@ -235,7 +232,8 @@
       "StasisDamage": "🦘 Stasis Damage",
       "StrandDamage": "🦘 Strand Damage",
       "VoidDamage": "🦘 Void Damage"
-    }
+    },
+    "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
     "Administration": {
@@ -485,6 +483,7 @@
     "Vendor_plural": "Vendedores",
     "Views": "Páginas",
     "Weapon": "Arma",
+    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
@@ -557,6 +556,8 @@
     "BasicCharacteristics": "Características Básicas",
     "Breaker": "🦘 Breaker",
     "BreakerType": "Tipo de Disparo",
+    "ClassType": "🦘 Class Type",
+    "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Equipado)",
     "ClassPostmaster": "{{name}} (Correio)",
     "CollectionsRoll": "Roll de Coleção",
@@ -817,11 +818,6 @@
       "LostSector": "Encontrado no Setor Perdido: {{string}}",
       "Story": "Encontrado na História: {{string}}",
       "Strike": "Encontrado no Assalto: {{string}}"
-    }
-  },
-  "MemberService": {
-    "Inactive": {
-      "Description": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
     }
   },
   "Notifications": {
@@ -1253,7 +1249,7 @@
       "Equip": "Equipar",
       "Favourite": "Favoritar",
       "Garbage": "Lixo",
-      "Inspect": "Inspecionar",
+      "Details": "🦘 Details",
       "Lock": "Travar",
       "NotGarbage": "Não é Lixo",
       "Select": "🦘 Select",
@@ -1281,6 +1277,7 @@
     "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
     "NearTriumphs": "🦘 Near",
     "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
+    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "Este registro está escondido e pode ser revelado futuramente.",
