@@ -1127,6 +1127,12 @@
       "ReportsCount": "カウント",
       "ReportsMember": "メンバー"
     },
+    "Referrals": {
+      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
+      "Referred": "🦘 Members Referred",
+      "Member": "🦘 Referred Member",
+      "Accepted": "🦘 Accepted"
+    },
     "Search": {
       "HideFeatureSuggestions": {
         "Description": "落ち着いて。自分でできるから。",
@@ -1151,6 +1157,7 @@
       "LS": "ローカルデータ",
       "Language": "言語",
       "Reports": "ストレージ利用状況",
+      "Referrals": "🦘 Referrals",
       "SavedProfile": "保存したプロファイル",
       "Search": "検索",
       "Synchronisation": "データ同期",

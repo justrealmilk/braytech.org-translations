@@ -1127,6 +1127,12 @@
       "ReportsCount": "개수",
       "ReportsMember": "회원"
     },
+    "Referrals": {
+      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
+      "Referred": "🦘 Members Referred",
+      "Member": "🦘 Referred Member",
+      "Accepted": "🦘 Accepted"
+    },
     "Search": {
       "HideFeatureSuggestions": {
         "Description": "🦘 Hold your breath–I know what I'm doing.",
@@ -1151,6 +1157,7 @@
       "LS": "로컬 저장소",
       "Language": "언어",
       "Reports": "보고서 저장소",
+      "Referrals": "🦘 Referrals",
       "SavedProfile": "저장된 프로필",
       "Search": "🦘 Search",
       "Synchronisation": "동기화",
