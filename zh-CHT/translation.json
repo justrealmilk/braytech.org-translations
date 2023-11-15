@@ -32,7 +32,6 @@
     "HideHiddenStats": "高級選項",
     "HideRedeemed": "隱藏已兌換項",
     "Jump": "跳轉到",
-    "LinkPatreon": "🦘 Link Patreon",
     "Lock": "鎖定",
     "Logout": "🦘 Logout",
     "MemberRemove": "移除成員",
@@ -194,12 +193,11 @@
       "Name": "相關成員"
     },
     "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
-    "PatreonAssociation": {
+    "LinkPatreon": {
       "Description": "將本 Bungie.net 賬戶與壹個Patreon 賬戶連結",
-      "Name": "連結 Patreon 賬戶",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "感謝！你的電子郵件現在與你的個人資料關聯",
-      "Text": "某些Patreon等級包括 _flair_ 形式的獎勵該獎品會顯示在玩家姓名的側面\n\n請輸入與Patreon綁定的郵箱來獲得相關權益"
+      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "登錄到Bungie.net以解鎖更多内容",

@@ -32,7 +32,6 @@
     "HideHiddenStats": "ステータス詳細",
     "HideRedeemed": "入手済みを表示しない",
     "Jump": "ジャンプ",
-    "LinkPatreon": "🦘 Link Patreon",
     "Lock": "ロックする",
     "Logout": "🦘 Logout",
     "MemberRemove": "メンバーを外す",
@@ -194,12 +193,11 @@
       "Name": "連携したアカウント"
     },
     "PatronOnlyFeature": "patron専用の機能です。いくつかの機能は支援者による援助で実現できたものもあります。詳細は[https://patreon.com/braytech](https://patreon.com/braytech)をご覧ください。",
-    "PatreonAssociation": {
+    "LinkPatreon": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
-      "Name": "Patreon認証",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "おめでとうございます! これで、メールアドレスはあなたのプロファイルに関連付けられました",
-      "Text": "Patreonの一部のTierでは、プレイヤー名の横に _flair_ という表示報酬が含まれています。\n\nあなたのPatreonアカウントで使用するEメールを入力することで、フレアの表示を有効にします。"
+      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",

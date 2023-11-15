@@ -32,7 +32,6 @@
     "HideHiddenStats": "고급 ",
     "HideRedeemed": "완료한 항목 숨김",
     "Jump": "점프",
-    "LinkPatreon": "🦘 Link Patreon",
     "Lock": "잠금",
     "Logout": "🦘 Logout",
     "MemberRemove": "회원 삭제",
@@ -194,12 +193,11 @@
       "Name": "연결된 회원정보"
     },
     "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
-    "PatreonAssociation": {
+    "LinkPatreon": {
       "Description": "이 Bungie.net 프로필을 Patreon 계정과 연결",
-      "Name": "Patreon 후원하기",
       "Placeholder": "zabalra_daemeori_shipgay@gmail.reef",
       "Success": "감사합니다! 이제 사용자의 이메일이 사용자의 프로필과 연결되었습니다.",
-      "Text": "일부 Patreon 후원자들은 플레이어 이름 옆에 표시되는 _증표_ 형태의 보상이 포함되어 있습니다.\n\nPatreon 계정과 연결된 이메일을 등록하여 당신에게 맞는 증표를 표시할 수 있습니다."
+      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",

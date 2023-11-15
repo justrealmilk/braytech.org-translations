@@ -32,7 +32,6 @@
     "HideHiddenStats": "Estadísticas avanzadas",
     "HideRedeemed": "Ocultar canjeados",
     "Jump": "Saltar",
-    "LinkPatreon": "🦘 Link Patreon",
     "Lock": "Bloquear",
     "Logout": "🦘 Logout",
     "MemberRemove": "Eliminar miembro",
@@ -194,12 +193,11 @@
       "Name": "Cuentas asociadas"
     },
     "PatronOnlyFeature": "Esta función es exclusiva para mecenas. Algunas funciones sólo son posibles con el apoyo de los mecenas. Más información en [https://patreon.com/braytech](https://patreon.com/braytech).",
-    "PatreonAssociation": {
+    "LinkPatreon": {
       "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
-      "Name": "Vinculación de Patreon",
       "Placeholder": "zuzuvala_fofisano69@hotmail.reef",
       "Success": "¡Gracias! Tu correo electrónico está ahora vinculado a tus perfiles",
-      "Text": "Algunos niveles de Patreon incluyen recompensas en forma de _etiqueta_ que se muestra al lado de tu nombre de jugador.\n\nHabilita la visualización de la etiqueta correspondiente al introducir el correo electrónico asociado a tu cuenta Patreon."
+      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",

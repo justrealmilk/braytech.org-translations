@@ -32,7 +32,6 @@
     "HideHiddenStats": "🦘 고급 ",
     "HideRedeemed": "🦘 Hide Redeemed",
     "Jump": "🦘 Jump",
-    "LinkPatreon": "🦘 Link Patreon",
     "Lock": "🦘 잠금",
     "Logout": "🦘 Logout",
     "MemberRemove": "🦘 Remove Member",
@@ -194,12 +193,11 @@
       "Name": "🦘 Associated Memberships"
     },
     "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
-    "PatreonAssociation": {
+    "LinkPatreon": {
       "Description": "🦘 Associate this Bungie.net profile with a Patreon account.",
-      "Name": "🦘 Patreon Association",
       "Placeholder": "🦘 chonky_zuzuvala69@hotmail.reef",
       "Success": "🦘 Thanks! Your email is now associated with your profiles",
-      "Text": "🦘 Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name. Enable display of relevant flair by entering the email associated with your Patreon account."
+      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "🦘 Login with Bungie.net to unlock more features.",
