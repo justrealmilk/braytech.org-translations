@@ -951,6 +951,9 @@
       },
       "PushNotifications": {
         "Name": "Push-уведомления"
+      },
+      "Referrals": {
+        "Name": "🦘 Referrals"
       }
     },
     "Developer": {
@@ -1131,8 +1134,6 @@
     "Referrals": {
       "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
       "Referred": "🦘 Members Referred",
-      "Member": "🦘 Referred Member",
-      "Accepted": "🦘 Accepted",
       "Rewards": "🦘 Available Rewards"
     },
     "Search": {
@@ -1159,7 +1160,6 @@
       "LS": "Локальные данные",
       "Language": "Язык",
       "Reports": "Хранилище отчётов",
-      "Referrals": "🦘 Referrals",
       "SavedProfile": "Сохраненный профиль",
       "Search": "Поиск",
       "Synchronisation": "Синхронизация",
