@@ -11,6 +11,7 @@
     "Cancel": "Cancew",
     "Close": "Cwose",
     "Collapse": "Cowwapse",
+    "CollapseFilters": "Cowwapse Fiwtews",
     "Confirm": "Confiwm",
     "Customise": "Customise",
     "Delete": "Dewete",
@@ -19,7 +20,7 @@
     "Done": "Done",
     "Enable": "Enabwe",
     "Expand": "Expand",
-    "ForgetMe": "Fowget Me",
+    "ExpandFilters": "Expand Fiwtews",
     "GatherInVault": "Gathew In Vauwt",
     "GoToBNet": "Go to Bungie.net",
     "GoToMaps": "Go to Maps",
@@ -32,6 +33,7 @@
     "HideRedeemed": "Hide Wedeemed",
     "Jump": "Jump",
     "Lock": "Wock",
+    "Logout": "Wogout",
     "MemberRemove": "Wemove Membew",
     "NextNth": "Next {{number}}",
     "Now": "Now",
@@ -147,6 +149,7 @@
       "Description": "Pwease, do not teww Commandew Zavawa... Yet.",
       "Name": "Pawdon Ouw Dust"
     },
+    "MemberServiceInactive": "Due to inactivity, backgwound wefwesh of uuw pwofiwe data haz paused.\n\nIntewacting with da app wiww weactivate da sewvice.",
     "NetworkError": {
       "Description": "A netwowk ewwow haz occuwwed. This is a tempowawy ewwow which may be wesowved by wewoading ow navigating away fwom this view.",
       "Name": "Netwowk Ewwow"
@@ -166,12 +169,6 @@
     },
     "Version": "Vewsion"
   },
-  "Archives": {
-    "Grimoire": {
-      "Description": "Da wowe of owd, Destiny 1's Gwimoiwe cawds awe backed up, awchived, and pwesewved hewe. Gwimoiwe is a database within Destiny. Entwies wewe unwocked thwough pwaying da game in da fowm of \"cawds.\"\n\nDa wist of Gwimoiwe entwies is sowted into six main categowies—Guawdian, Inventowy, Awwies, Enemies, Pwaces, and Activities. Each of these categowies haz a numbew of sub-categowies.",
-      "Name": "Gwimoiwe"
-    }
-  },
   "Auth": {
     "Data": {
       "Description": "Dewete da authentication data stowed on uuw device. Whiwe unnecessawy, this function is pwovided fow uuw peace of mind.",
@@ -190,17 +187,17 @@
     "Friends": {
       "Text": "Authenticate with Bungie.net to see uuw Bungie fwiends wist hewe! OwO It's a handy showtcut to see who's on and to check each othew's pwofiwes! OwO"
     },
+    "LinkPatreon": {
+      "Description": "Wink uuw Bungie.net pwofiwe with uuw Patweon account's emaiw.",
+      "Info": "Some **Patweon** tiews incwude wewawds such as **medaws** which awe dispwayed at da side of uuw pwayew name and in diawogs. Enabwe dispway of any medaws uu've eawned by entewing da emaiw associated with uuw Patweon account.",
+      "Name": "Wink Patweon",
+      "Placeholder": "chonky_zuzuvawa69@hotmaiw.weef",
+      "Success": "Thanks! OwO Uuw Patweon account's emaiw is now winked to uuw Bungie.net pwofiwe."
+    },
     "Login": "Wogin with Bungie.net",
     "Memberships": {
       "Description": "These awe da membewships that awe cuwwentwy associated with uuw Bungie.net pwofiwe.",
       "Name": "Associated Membewships"
-    },
-    "LinkPatreon": {
-      "Description": "Associate this Bungie.net pwofiwe with a Patweon account.",
-      "Name": "Patweon Association",
-      "Placeholder": "chonky_zuzuvawa69@hotmaiw.weef",
-      "Success": "Thanks! OwO Uuw emaiw is now associated with uuw pwofiwe.",
-      "Text": "Some ૮ ˶ᵔ ᵕ ᵔ˶ ა Patweon tiews incwude wewawds in da fowm of _fwaiw_ which is dispwayed at da side of uuw pwayew name. Enabwe dispway of wewevant fwaiw by entewing da emaiw associated with uuw Patweon account."
     },
     "PatronOnlyFeature": "This is a patwon-onwy *sweats* featuwe. Some featuwes awe made possibwe onwy with patwon suppowt. Weawn mowe at [https://patweon.com/bwaytech](https://patreon.com/braytech).",
     "Suggestion": {
@@ -235,7 +232,8 @@
       "StasisDamage": "Stasis Damage",
       "StrandDamage": "Stwand Damage",
       "VoidDamage": "Void Damage"
-    }
+    },
+    "FiltersApplied": "Fiwtews Appwied"
   },
   "Clan": {
     "Administration": {
@@ -386,6 +384,8 @@
     "CruciblePlaylist": "Cwucibwe Pwaywist",
     "CurrentRankNth": "Cuwwent Wank: {{value}}",
     "DateTime": "Date Time",
+    "Emblem": "Embwem",
+    "Emblem_plural": "Embwems",
     "Equipment": "Equipment",
     "Error": "Ewwow",
     "Event": "Event",
@@ -423,7 +423,7 @@
     "Lore": "Wowe",
     "LoreBook": "Wowe Book",
     "Map": "Map",
-    "Medals": "Medaws",
+    "Medal_plural": "Medaws",
     "MembersOnline": "**{{number}}** Onwine",
     "Name": "Name",
     "NoActivitiesAvailable": "Thewe *wuns away* awen't any activities avaiwabwe to uu. Pewhaps uu don't meet da wequiwements...",
@@ -441,6 +441,7 @@
     "Progression": "Pwogwession",
     "Quests": "Quests",
     "Rank_plural": "Wanks",
+    "Rarity": "Wawity",
     "Record": "Wecowd",
     "Record_plural": "Wecowds",
     "Report_plural": "Wepowts",
@@ -482,6 +483,7 @@
     "Vendor_plural": "Vendows",
     "Views": "Views",
     "Weapon": "Weapon",
+    "WebringInfo": "Visit a fwiend of Bwaytech, anothew community-cweated Destiny pwoject.",
     "WeekNth": "Week {{number}}",
     "Week_plural": "Weeks"
   },
@@ -560,11 +562,13 @@
     "BreakerType": "Bweakew Type",
     "ClassEquipped": "{{name}} (Equipped)",
     "ClassPostmaster": "{{name}} (Postmastew)",
+    "ClassType": "Cwass Type",
     "CollectionsRoll": "Cowwections Woww",
     "Compare": "Compawe",
     "CouldntFindItemForUnequip": "An item to equip in {{name}}'s pwace couwd not be found on da chawactew which it's wocated.",
     "CraftingRequiredLevel": "Wequiwes Weapon Wevew {{number}}",
     "CurrentlyCantRoll": "This pewk can not cuwwentwy woww fow this weapon",
+    "DamageType": "Damage Type",
     "Energy": "Enewgy",
     "EnergyAffinity": "Enewgy Affinity",
     "EnergyCapacity": "Enewgy",
@@ -813,11 +817,6 @@
       "Strike": "Found within Stwike: {{string}}"
     }
   },
-  "MemberService": {
-    "Inactive": {
-      "Description": "Due to inactivity, backgwound wefwesh of uuw pwofiwe data haz paused.\n\nIntewacting with da app wiww weactivate da sewvice."
-    }
-  },
   "Notifications": {
     "CopyLink": {
       "Fail": "I faiwed to copy this wink to uuw cwipboawd.",
@@ -935,6 +934,11 @@
     "SeasonProgressDays": "Days"
   },
   "Settings": {
+    "Category": {
+      "Referrals": {
+        "Name": "Wefewwaws"
+      }
+    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "Stawt using featuwes which may not yet be pwopewwy devewoped, wefined, ow quawity checked.",
@@ -1100,6 +1104,11 @@
       "ServiceWorkerInstalling": "A sewvice wowkew is instawwing. Pwease wait.",
       "Users": "Usews"
     },
+    "Referrals": {
+      "Info": "Intwoduce uuw fwiends and famiwy to Bwaytech, and da howse shaww wewawd uu with embwem codes.\n\n**Shawe uuw unique wefewwaw wink** with da uninitiated and if they **Authenticate** with Bungie.net, uu'ww *sweats* be one body cwosew to weaping sweet wewawds.",
+      "Referred": "Membews Wefewwed",
+      "Rewards": "Avaiwabwe Wewawds"
+    },
     "ReloadRequired": {
       "Description": "Sewect wewoad app to activate uuw changes immediatewy.",
       "Name": "Wewoad Wequiwed"
@@ -1229,10 +1238,10 @@
     "Actions": {
       "Acquire": "Acquiwe",
       "Compare": "Compawe",
+      "Details": "Detaiws",
       "Equip": "Equip",
       "Favourite": "Favouwite",
       "Garbage": "Gawbage",
-      "Inspect": "Inspect",
       "Lock": "Wock",
       "NotGarbage": "Not Gawbage",
       "Select": "Sewect",
@@ -1272,7 +1281,8 @@
     "EventCard": "Event Cawd",
     "LegacySeal_plural": "Wegacy Seaws",
     "LegacyTriumph_plural": "Wegacy Twiumphs",
-    "NearLimit": "Dispway is wimited to {{number}} twiumphs fow pewfowmance weasons.",
+    "NearLimit": "Dispway is wimited to **{{number}}** twiumphs fow pewfowmance weasons.",
+    "NearTotal": "Uu haz **{{number}}** *wuns away* twiumphs wemaining.",
     "NearTriumphs": "Neaw",
     "NoTrackedRecords": "Uu awen't twacking any twiumphs yet! OwO\n\nUu can sync uuw twiumphs by enabwing sync in [Settings](/settings).",
     "NonePartiallyComplete": "No pawtiawwy compweted twiumphs. Choose an objective and get *bwushes* stawted! OwO",
@@ -1345,7 +1355,7 @@
     },
     "Patreon": {
       "Description": "Ads suck so Bwaytech doesn't use them, but none of this is fwee ow easy! OwO\n\nIn pwace of tawgeted advewtising, Bwaytech's devewopew depends on uuw genewosity. Uuw suppowt hewps keep da app onwine, enabwes da devewopew to wowk on new featuwes, and pays da went! OwO",
-      "Leaderboards": "Weadewboawds awe a wot of wowk, which whiwe thought-pwovoking, is pawticuwawwy costwy. I had to buy Databases fow Dummies and evewything. If uu wike cowwecting things, maybe we couwd [intewest uu in unwocking some wawe fwaiw](https://www.patreon.com/braytech) fow uuw membew wink? UwU",
+      "Leaderboards": "Weadewboawds awe a wot of wowk, which whiwe thought-pwovoking, is pawticuwawwy costwy. I had to buy Databases fow Dummies and evewything. If uu wike cowwecting things, maybe we couwd [intewest uu in unwocking some a wawe medaw](https://www.patreon.com/braytech) fow uuw Bwaytech pwofiwe? UwU",
       "Name": "Hewp keep da wights on 🥺",
       "RewardResearcher": "Unwock da Weseawchew medaw, a symbow of dedication and commitment to bettewing *boops uuw nose* humankind.",
       "RewardSubmind": "Unwock da animated Wawmind gowd tiew medaw. Evewy Wawmind medaw guawenteed to contain at weast 7.00% Wawmind fwagment dust™",
