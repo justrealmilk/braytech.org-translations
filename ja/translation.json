@@ -33,7 +33,7 @@
     "HideRedeemed": "入手済みを表示しない",
     "Jump": "ジャンプ",
     "Lock": "ロックする",
-    "Logout": "🦘 Logout",
+    "Logout": "ログアウト",
     "MemberRemove": "メンバーを外す",
     "NextNth": "次の{{number}}件",
     "SeeNextNth": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
@@ -195,9 +195,10 @@
     "PatronOnlyFeature": "patron専用の機能です。いくつかの機能は支援者による援助で実現できたものもあります。詳細は[https://patreon.com/braytech](https://patreon.com/braytech)をご覧ください。",
     "LinkPatreon": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
+      "Name": "Patreonアカウントとリンク",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "おめでとうございます! これで、メールアドレスはあなたのプロファイルに関連付けられました",
-      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
+      "Info": "一部の **Patreon**で支援している方のTierランクによって敬意を示す**メダル**がプレイヤー名の隣に表示されるようになります。メダルを表示するにはPatreonアカウントで使用しているメールアドレスを入力してください。"
     },
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
@@ -951,7 +952,7 @@
         "Name": "プッシュ通知"
       },
       "Referrals": {
-        "Name": "🦘 Referrals"
+        "Name": "リファラル"
       }
     },
     "Developer": {
@@ -1130,9 +1131,9 @@
       "ReportsMember": "メンバー"
     },
     "Referrals": {
-      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
-      "Referred": "🦘 Members Referred",
-      "Rewards": "🦘 Available Rewards"
+      "Info": "ガーディアン、お前の友や大切な者をBraytechに紹介すると、馬がエンブレムコードを授けるだろう。\n\n Bungie.netにて**認証したばかりの友**にこの**リンクを紹介する**ことでその大いなる恵みに出会うだろう。",
+      "Referred": "紹介したメンバー",
+      "Rewards": "入手可能な報酬"
     },
     "Search": {
       "HideFeatureSuggestions": {
