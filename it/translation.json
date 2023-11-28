@@ -663,12 +663,12 @@
         "Info": "Solo i giocatori che hanno giocato a Destiny da almeno l'ultima espansione vengono classificati."
       },
       "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
+        "Name": "Giocatori indicizzati",
+        "Info": "Giocatori che hanno visitato Braytech e sono in coda per l'indicizzazione."
       },
       "ScraperTimeRemaining": {
         "Name": "Tempo rimanente alla prossima riclassifica",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+        "Info": "I giocatori vengono classificati alla fine di ogni processo di indicizzazione."
       },
       "RarestRecords": "Trionfi più rari",
       "RarestCollectibles": "Collezionabili più rari"
@@ -685,9 +685,9 @@
     },
     "Empty": "Vuoto",
     "Fishing": {
-      "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-      "LargestFish": "🦘 Largest Fish",
-      "Name": "🦘 Competitive Fishing",
+      "Description": "Pesca del giorno\n\nLancia una lenza con piombo, metti in mostra il tuo acquario ed entra in competizione con i tuoi compagni pescatori confrontando le catture più pesanti.",
+      "LargestFish": "Pesce più grande",
+      "Name": "Pesca competitiva",
       "TypesCaught": "Tipi catturati"
     },
     "Ranks": {
@@ -1369,10 +1369,10 @@
       "Description": "Vuoi vedere i tuoi obiettivi e altri dati sul tuo progresso? Autenticati con Bungie.net e consenti a Braytech di leggere in modo sicuro i dati del tuo profilo."
     },
     "Patreon": {
-      "Description": "Tutti odiamo gli annunci. Sono brutti. Sono fastidiosi. Collezionano i tuoi dati e li vendono a terze parti.\n\nAiuta a tenerli lontani da Braytech supportando l'app attraverso Patreon. Che sia una tantum o un impegno continuo, ogni paio di euro aiuta!",
+      "Description": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è facile o gratuito!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!",
       "Name": "Mantieni Braytech senza pubblicità",
-      "RewardResearcher": "I sostenitori a livello Ricercatore sbloccano questa medaglia Clovis Bray.",
-      "RewardSubmind": "I sostenitori a livello Sottomente sbloccano questa ultra medaglia animata della mente bellica.",
+      "RewardResearcher": "Sblocca la medaglia **Ricercatore**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
+      "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
       "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
       "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?"
     },
