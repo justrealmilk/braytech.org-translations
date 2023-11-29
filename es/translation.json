@@ -33,7 +33,7 @@
     "HideRedeemed": "Ocultar canjeados",
     "Jump": "Saltar",
     "Lock": "Bloquear",
-    "Logout": "🦘 Logout",
+    "Logout": "Cerrar sesión",
     "MemberRemove": "Eliminar miembro",
     "NextNth": "Siguientes {{number}}",
     "SeeNextNth": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
@@ -197,7 +197,7 @@
       "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
       "Placeholder": "zuzuvala_fofisano69@hotmail.reef",
       "Success": "¡Gracias! Tu correo electrónico está ahora vinculado a tus perfiles",
-      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
+      "Info": "Algunos niveles de **Patreon** incluyen recompensas como **menciones** que se muestran al lado de tu nombre de jugador y en los cuadros de diálogo. Activa la visualización de las medallas que hayas ganado al introducir el correo electrónico asociado a tu cuenta de Patreon."
     },
     "Suggestion": {
       "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
@@ -951,7 +951,7 @@
         "Name": "Notificaciones push"
       },
       "Referrals": {
-        "Name": "🦘 Referrals"
+        "Name": "Recomienda a un amigo"
       }
     },
     "Developer": {
@@ -1130,9 +1130,9 @@
       "ReportsMember": "Miembro"
     },
     "Referrals": {
-      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
-      "Referred": "🦘 Members Referred",
-      "Rewards": "🦘 Available Rewards"
+      "Info": "Recomienda Braytech a tus amigos y familiares, y el caballo te recompensará con códigos de emblemas.\n\n**Comparte tu enlace de recomendación** con los no iniciados y si se **Autentifican** con Bungie.net, estarás más cerca de obtener dulces recompensas.",
+      "Referred": "Miembros invitados",
+      "Rewards": "Recompensas disponibles"
     },
     "Search": {
       "HideFeatureSuggestions": {
