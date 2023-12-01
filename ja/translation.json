@@ -1132,6 +1132,7 @@
     },
     "Referrals": {
       "Info": "ガーディアン、お前の友や大切な者をBraytechに紹介すると、馬がエンブレムコードを授けるだろう。\n\n Bungie.netにて**認証したばかりの友**にこの**リンクを紹介する**ことでその大いなる恵みに出会うだろう。",
+      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
       "Referred": "紹介したメンバー",
       "Rewards": "入手可能な報酬"
     },

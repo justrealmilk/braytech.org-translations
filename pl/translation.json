@@ -195,6 +195,7 @@
     "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
     "LinkPatreon": {
       "Description": "🦘 Associate this Bungie.net profile with a Patreon account.",
+      "Name": "🦘 Patreonアカウントとリンク",
       "Placeholder": "🦘 chonky_zuzuvala69@hotmail.reef",
       "Success": "🦘 Thanks! Your email is now associated with your profiles",
       "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
@@ -1131,6 +1132,7 @@
     },
     "Referrals": {
       "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
+      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
       "Referred": "🦘 Members Referred",
       "Rewards": "🦘 Available Rewards"
     },
