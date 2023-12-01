@@ -33,7 +33,7 @@
     "HideRedeemed": "Скрыть полученные",
     "Jump": "Перепрыгнуть",
     "Lock": "Заблокировать",
-    "Logout": "🦘 Logout",
+    "Logout": "Выйти",
     "MemberRemove": "Удалить участника",
     "NextNth": "Следующие {{number}}",
     "SeeNextNth": "Ваши частично выполненные триумфы. Выбирайте цель и приступайте!",
@@ -197,7 +197,7 @@
       "Description": "Связать этот профиль Bungie.net с аккаунтом Patreon",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "Спасибо! Ваш email теперь связан с вашим профилем.",
-      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
+      "Info": "Некоторые уровни **Patreon** включают награды, такие как **медали**, которые отображаются рядом с вашим именем игрока и в диалоговых окнах. Включите отображение любых заработанных вами медалей, введя адрес электронной почты, связанный с вашей учетной записью Patreon."
     },
     "Suggestion": {
       "Subtle": "Авторизуйтесь на сайте Bungie.net, чтобы разблокировать больший функционал.",
@@ -951,7 +951,7 @@
         "Name": "Push-уведомления"
       },
       "Referrals": {
-        "Name": "🦘 Referrals"
+        "Name": "Рефералы"
       }
     },
     "Developer": {
@@ -1130,9 +1130,9 @@
       "ReportsMember": "Участник"
     },
     "Referrals": {
-      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
-      "Referred": "🦘 Members Referred",
-      "Rewards": "🦘 Available Rewards"
+      "Info": "Познакомьте своих друзей и семью с Braytech, и скакун вознаградит вас кодами-эмблемами.\n\n**Поделитесь своей уникальной реферальной ссылкой** с непосвященными, и если они **Авторизуются** с помощью Bungie.net, вы станете на шаг ближе к получению сладких наград.",
+      "Referred": "Пользователей Приглашено",
+      "Rewards": "Доступные Награды"
     },
     "Search": {
       "HideFeatureSuggestions": {
