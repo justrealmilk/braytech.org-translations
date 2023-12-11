@@ -620,7 +620,9 @@
     "Time": {
       "Frequency": {
         "Daily": "Ежедневно",
-        "Weekly": "Еженедельно"
+        "Weekly": "Еженедельно",
+        "Monthly": "🦘 Monthly",
+        "Annually": "🦘 Annually"
       },
       "Relative": {
         "Future": "через {{duration}}",
@@ -1160,6 +1162,10 @@
       "Theme": "Тема",
       "Troubleshooting": "Решение проблем",
       "VisualFidelity": "Визуальное качество"
+    },
+    "Subscriptions": {
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Tiers": "🦘 Tiers"
     },
     "Sync": {
       "Action": {

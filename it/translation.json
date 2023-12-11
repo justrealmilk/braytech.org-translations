@@ -620,7 +620,9 @@
     "Time": {
       "Frequency": {
         "Daily": "Giornaliera",
-        "Weekly": "Settimanale"
+        "Weekly": "Settimanale",
+        "Monthly": "🦘 Monthly",
+        "Annually": "🦘 Annually"
       },
       "Relative": {
         "Future": "tra {{duration}}",
@@ -1160,6 +1162,10 @@
       "Theme": "Tema",
       "Troubleshooting": "Risoluzione problemi",
       "VisualFidelity": "Fedeltà visiva"
+    },
+    "Subscriptions": {
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Tiers": "🦘 Tiers"
     },
     "Sync": {
       "Action": {

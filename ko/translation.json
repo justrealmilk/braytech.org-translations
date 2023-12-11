@@ -620,7 +620,9 @@
     "Time": {
       "Frequency": {
         "Daily": "일간",
-        "Weekly": "주간"
+        "Weekly": "주간",
+        "Monthly": "🦘 Monthly",
+        "Annually": "🦘 Annually"
       },
       "Relative": {
         "Future": "{{duration}} 후",
@@ -1160,6 +1162,10 @@
       "Theme": "테마",
       "Troubleshooting": "문제 해결",
       "VisualFidelity": "시각적 정확도"
+    },
+    "Subscriptions": {
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Tiers": "🦘 Tiers"
     },
     "Sync": {
       "Action": {
