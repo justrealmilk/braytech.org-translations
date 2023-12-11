@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "고급"
-      },
-      "Common": {
-        "Name": "일반"
-      },
-      "PushNotifications": {
-        "Name": "알림"
-      },
-      "Referrals": {
-        "Name": "🦘 Referrals"
-      }
+      "Common": "일반",
+      "Advanced": "고급",
+      "PushNotifications": "알림",
+      "Referrals": "🦘 Referrals",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {

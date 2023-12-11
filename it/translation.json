@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "Avanzate"
-      },
-      "Common": {
-        "Name": "Comuni"
-      },
-      "PushNotifications": {
-        "Name": "Notifiche push"
-      },
-      "Referrals": {
-        "Name": "Affiliazioni"
-      }
+      "Common": "Comuni",
+      "Advanced": "Avanzate",
+      "PushNotifications": "Notifiche push",
+      "Referrals": "Affiliazioni",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {

@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "Дополнительные"
-      },
-      "Common": {
-        "Name": "Основные"
-      },
-      "PushNotifications": {
-        "Name": "Push-уведомления"
-      },
-      "Referrals": {
-        "Name": "Рефералы"
-      }
+      "Common": "Основные",
+      "Advanced": "Дополнительные",
+      "PushNotifications": "Push-уведомления",
+      "Referrals": "Рефералы",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {

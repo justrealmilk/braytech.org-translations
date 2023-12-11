@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "詳細設定"
-      },
-      "Common": {
-        "Name": "共通設定"
-      },
-      "PushNotifications": {
-        "Name": "プッシュ通知"
-      },
-      "Referrals": {
-        "Name": "リファラル"
-      }
+      "Common": "共通設定",
+      "Advanced": "詳細設定",
+      "PushNotifications": "プッシュ通知",
+      "Referrals": "リファラル",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {

@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "高级"
-      },
-      "Common": {
-        "Name": "普通"
-      },
-      "PushNotifications": {
-        "Name": "推送通知"
-      },
-      "Referrals": {
-        "Name": "🦘 Referrals"
-      }
+      "Common": "普通",
+      "Advanced": "高级",
+      "PushNotifications": "推送通知",
+      "Referrals": "🦘 Referrals",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {

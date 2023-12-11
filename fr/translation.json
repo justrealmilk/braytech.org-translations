@@ -942,18 +942,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "Avancé"
-      },
-      "Common": {
-        "Name": "Général"
-      },
-      "PushNotifications": {
-        "Name": "Notifications 'Push'"
-      },
-      "Referrals": {
-        "Name": "🦘 Referrals"
-      }
+      "Common": "Général",
+      "Advanced": "Avancé",
+      "PushNotifications": "Notifications 'Push'",
+      "Referrals": "🦘 Referrals",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {
