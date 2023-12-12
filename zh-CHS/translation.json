@@ -192,7 +192,7 @@
       "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
       "Name": "已关联的平台账号"
     },
-    "PatronOnlyFeature": "这是一项仅 Patron订阅者 可用的付费功能，一些功能的开销较大，只有在Patron赞助的情况下才有可能维持运营。在[Patreon.com/braytech](https://patreon.com/braytech)上加入我们。",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
       "Name": "🦘 Patreonアカウントとリンク",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "想查询您的目标和其它数据进度吗？通过Bungie.net进行身份认证，并允许Braytech安全获取您的个人游戏数据资料"
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "我们都讨厌广告，他们又丑又烦人，还收集你的数据倒卖给第三方。\n\n请通过 Patreon 支持我们，帮助 Braytech 远离广告。不管是一次性的还是长期的赞助，都能够帮到我们！",
       "Name": "帮助 Braytech 远离广告",
       "RewardResearcher": "在 Patreon 达到 Researcher 赞助等级来解锁该勋章。",
       "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
       "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对 [在Parteon上赞助我们来获取一些稀有徽章](https://www.patreon.com/braytech) 这件事感兴趣？"
     },

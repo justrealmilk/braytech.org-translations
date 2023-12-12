@@ -192,7 +192,7 @@
       "Description": "Questi sono gli account attualmente collegati al tuo profilo Bungie.net.",
       "Name": "Account collegati"
     },
-    "PatronOnlyFeature": "Questa funzionalità è un'esclusiva per patron. Alcune funziionalità sono rese possibili solo grazie al supporto dei patron. Per saperne di più: [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "Associa questo profilo Bungie.net a un account Patreon",
       "Name": "Collega Patreon",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "Vuoi vedere i tuoi obiettivi e altri dati sul tuo progresso? Autenticati con Bungie.net e consenti a Braytech di leggere in modo sicuro i dati del tuo profilo."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è facile o gratuito!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!",
       "Name": "Mantieni Braytech senza pubblicità",
       "RewardResearcher": "Sblocca la medaglia **Ricercatore**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
       "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
       "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?"
     },

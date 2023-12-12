@@ -192,7 +192,7 @@
       "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
       "Name": "連携したアカウント"
     },
-    "PatronOnlyFeature": "patron専用の機能です。いくつかの機能は支援者による援助で実現できたものもあります。詳細は[https://patreon.com/braytech](https://patreon.com/braytech)をご覧ください。",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
       "Name": "Patreonアカウントとリンク",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "自分の目標やその他の進捗データを確認したいですか？Bungie.netを使ってBraytechを認証し、プロフィールデータを安全に読み取れるようにしましょう。"
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "私たちは皆、広告が嫌いです。彼らは醜い。広告はデザイン、世界を汚すものです。Patreonを通じてアプリを支援いただくことで、Braytechから広告を遠ざけることができます。一度だけの支援でも、継続的な支援でも、二束三文の支援でも構いません。",
       "Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
       "RewardResearcher": "Patreonのリサーチャーランクの方にはクロビス・ブレイのメダルアンロックされます",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
       "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。"
     },

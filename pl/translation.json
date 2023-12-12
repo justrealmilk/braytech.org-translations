@@ -192,7 +192,7 @@
       "Description": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
       "Name": "🦘 Associated Memberships"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "🦘 Associate this Bungie.net profile with a Patreon account.",
       "Name": "🦘 Patreonアカウントとリンク",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "🦘 Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "🦘 We all hate ads. They're ugly. They're annoying. They collect your data and sell it to third parties.\n\nI would never threaten you with adding ads to Braytech, but your contributions do directly support my family by paying rent, electricity, water, and health bills. Whether it's a one time thing or an ongoing commitment, every **couple of dollars** helps!",
       "Name": "🦘 Love Braytech?",
       "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
       "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
       "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },

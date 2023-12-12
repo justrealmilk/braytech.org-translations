@@ -192,7 +192,7 @@
       "Description": "Estas son las cuentas que están actualmente asociadas con tu perfil de Bungie.net.",
       "Name": "Cuentas asociadas"
     },
-    "PatronOnlyFeature": "Esta función es exclusiva para mecenas. Algunas funciones sólo son posibles con el apoyo de los mecenas. Más información en [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
       "Name": "🦘 Link Patreon",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "¿Quieres ver tus objetivos y otros datos de tu progreso? Autentícate con Bungie.net y permite a Braytech leer de forma segura los datos de tu perfil."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "Todos odiamos los anuncios. Son feos. Son molestos. Recolectan tus datos y los venden a terceros.\n\nAyuda a mantenerlos lejos de Braytech apoyando la aplicación a través de Patreon. No importa si lo haces una sola vez o si te comprometes de forma habitual, ¡pues hasta el último dólar ayuda!",
       "Name": "Mantén Braytech libre de anuncios",
       "RewardResearcher": "Los mecenas de nivel Investigador/a desbloquean esta insignia de Clovis Bray.",
       "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",
       "Leaderboards": "Las tablas de clasificación dan mucho trabajo, lo cual, aunque da que pensar, es especialmente costoso. Tuve que comprarme \"Databases for Dummies\" y todo. Si te gusta coleccionar cosas, ¿quizás podría [interesarte desbloquear alguna insignia rara](https://www.patreon.com/braytech) para tu enlace de miembro?"
     },

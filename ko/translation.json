@@ -192,7 +192,7 @@
       "Description": "현재 Bungie.net 프로필에 연결된 회원 정보입니다.",
       "Name": "연결된 회원정보"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "이 Bungie.net 프로필을 Patreon 계정과 연결",
       "Name": "🦘 Patreonアカウントとリンク",
@@ -1372,11 +1372,12 @@
     "Auth": {
       "Description": "목표 및 기타 진행률 데이터를 확인하려고 합니까? Bungie.net에 인증해서 Braytech가 프로필 데이터를 안전하게 읽을 수 있도록 해주세요."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "우리 모두 광고를 싫어합니다. 구려요. 짜증나요. 우리의 개인정보를 수집해 다른 이들에게 팔아버린다구요.\n\nPatreon을 통해 앱을 지원함으로써 광고가 Braytech에서 멀리 떨어질 수 있도록 도와주세요. 한번만이던, 정기적이던, 몇 천원 이여도 도움이 됩니다!",
       "Name": "광고 없는 Braytech 지키기",
       "RewardResearcher": "🦘 Researcher tier patrons unlock this Clovis Bray medal.",
       "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
       "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },
