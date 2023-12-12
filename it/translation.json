@@ -6,7 +6,6 @@
     "AllClasses": "Tutte le classi",
     "Authenticate": "Autentica",
     "Back": "Indietro",
-    "BecomeAPatron": "Diventa un Patron",
     "Browse": "Naviga",
     "Cancel": "Annulla",
     "Close": "Chiudi",
@@ -602,7 +601,8 @@
     },
     "Support": {
       "Description": "Braytech è un lavoro a tempo pieno—io progetto e sviluppo per il fine di migliorarmi e aiutare tutti i Guardiani. Inoltre, a mio discapito, sono contro la pubblicità. Il tuo supporto mi aiuta a mantenere le luci dei riflettori accese e mi permette di realizzare il mio miglior lavoro e di rendere la tua esperienza con Destiny ancor migliore. Spero che tu lo stia amando come io lo amo sviluppare! 💖\n\nEntra su [Discord](https://discord.bray.tech) con gli patron nella Divisione di Ricerca Braytech.",
-      "Name": "Sei un fan? Mostra il tuo supporto"
+      "Name": "Sei un fan? Mostra il tuo supporto",
+      "Action": "🦘 Become a Supporter"
     },
     "Updates": "Aggiornamenti",
     "Blog": {

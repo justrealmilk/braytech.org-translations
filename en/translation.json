@@ -6,7 +6,6 @@
     "AllClasses": "All Classes",
     "Authenticate": "Authenticate",
     "Back": "Back",
-    "BecomeAPatron": "Become a Patron",
     "Browse": "Browse",
     "Cancel": "Cancel",
     "Close": "Close",
@@ -601,8 +600,9 @@
       "Name": "Braytech"
     },
     "Support": {
-      "Description": "Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "Are you a fan? Show your support"
+      "Description": "Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other subscribers in the Braytech Research Division.",
+      "Name": "Are you a fan? Show your support",
+      "Action": "Become a Supporter"
     },
     "Updates": "Updates",
     "Blog": {
