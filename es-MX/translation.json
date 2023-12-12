@@ -202,6 +202,7 @@
     },
     "Suggestion": {
       "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "La mayoría de las funciones de Braytech están disponibles para todos los usuarios y dependen de datos disponibles al público, pero algunas de las características de Destiny requieren permisos de acceso explícitos que puedes conceder a Braytech si te autenticas con Bungie.net."
     }
   },

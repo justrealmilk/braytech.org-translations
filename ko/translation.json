@@ -202,6 +202,7 @@
     },
     "Suggestion": {
       "Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "대부분의 Braytech 기능들은 모든 유저가 접근 가능한 열린 정보에 기반하지만, 일부 데스티니의 기능들은 Bungie.net 인증을 통해 더 명확한 접근 허가를 필요로 합니다."
     }
   },

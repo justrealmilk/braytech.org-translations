@@ -202,6 +202,7 @@
     },
     "Suggestion": {
       "Subtle": "登錄到Bungie.net以解鎖更多内容",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "Braytech的大部分功能對所有用戶可用, 並且依賴於公開數據, 而 Destiny 的壹些功能需要訪問權限, 您可以通過登錄 Bungie.net 進行身份驗證來授權 Braytech"
     }
   },

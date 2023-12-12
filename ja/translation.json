@@ -202,6 +202,7 @@
     },
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。"
     }
   },

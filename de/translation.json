@@ -202,6 +202,7 @@
     },
     "Suggestion": {
       "Subtle": "Mit Bungie.net einloggen, um mehr Features zu nutzen.",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "Die meisten Funktionen von Braytech sind für alle Nutzer zugänglich und basieren auf öffentlich verfügbaren Daten. Einige Funktionalitäten erfordern jedoch spezifische Zugangsrechte, die du Braytech erteilen kannst, indem du dich über Bungie.net anmeldest."
     }
   },
