@@ -487,48 +487,6 @@
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Hay múltiples fuentes de estadísticas en Destiny. Las Estadísticas históricas de Clan se basan en el punto terminal de la API de HistoricalStats, mientras que otras obtienen sus datos de los Informes de combate. Es difícil determinar cuál de ellos tiene una mayor precisión.\n\nPara mostrar las estadísticas del modo en que se ven en las Estadísticas históricas de Clan, se necesitaría descargar terabytes de datos de los servidores de Bungie y una gran potencia de computación. Dicho esto, son lo suficientemente precisos como para permitir una rivalidad amistosa.",
-        "Name": "Las estadísticas históricas de clan no coinciden [con otras] "
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "¡Braytech está disponible en [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) y en [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Desafortunadamente, Braytech no está disponible en la tienda de aplicaciones de iPhone.\n\nBraytech no está disponible en la tienda de aplicaciones de iPhone porque Apple es avariciosa y su tienda es su principal fuente de dinero.\n\nAfortunadamente, ellos apoyan parcialmente las aplicaciones web progresivas, como Braytech. Para añadir Braytech a tu pantalla de inicio, navega a la aplicación usando Safari, selecciona el botón Compartir y selecciona _Añadir a la pantalla de inicio_. Esto habilita algunas de las tecnologías que permiten que aplicaciones como Braytech funcionen y se sientan como aplicaciones nativas.\n\nSi eres un usuario de Android y no deseas utilizar Google Play, puedes seguir un procedimiento similar con Google Chrome.",
-        "Name": "Tiendas de aplicaciones"
-      },
-      "Commonality": {
-        "Description": "A menudo nos preguntan, \"¿qué es el extraño porcentaje a la derecha de los coleccionables y los triunfos?\"\n\nEs un porcentaje de jugadores que descubrieron o canjearon el objeto. Cada pocos días, _Voluspa_ recopila datos de usuarios de _Braytech_ y registra quién tiene qué.\n\nSe viene discutiendo mucho sobre si es preciso o útil, pero lo cierto es que todas las estadísticas son inútiles y absurdas _a menos que_ se incluyeran todos y cada uno de los datos posibles.\n\nEs justo asumir que estas estadísticas están sesgadas hacia los jugadores casuales (puede que los porcentajes tiendan más al alza que a la baja, debido a la destreza y la atención de los usuarios que son monitoreados).\n\nCuando estén disponibles, los carteles informativos para estas estadísticas incluyen el número total de jugadores que se contabilizan como parte de esta métrica.{{indexed}}",
-        "Name": "Rareza"
-      },
-      "KeyboardShortcuts": {
-        "Description": "Además de los botones de la barra de acción con símbolos de teclas, Braytech tiene diversos atajos de teclado ocultos. Desde cualquier sección con una cabecera de perfil (el emblema de tu personaje, etc.), mantén pulsado  para ver qué atajos están disponibles. Por ejemplo, pulsa  para ir a _Triunfos_ y  para volver aquí.",
-        "Name": "Atajos de teclado"
-      },
-      "ProfilePrivacy": {
-        "Description": "Si te preocupa tu privacidad mientras juegas a Destiny y cómo la API expone tu progreso y actividades para que sean utilizadas por terceros, puedes modificar tu configuración de privacidad en [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy). Si lo haces, tendrás que autenticarte en Braytech con Bungie para seguir usando la aplicación.",
-        "Name": "Privacidad del perfil"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "En la sección _Configuración_ puedes probar una serie de cosas. Empieza por seleccionar _Actualizar service worker_.\n\nSi esto falla, puedes intentar recargar la aplicación seleccionando _Recargar aplicación_. Si el problema persiste, por favor selecciona _Verter service worker_ e informa del problema a través de Discord.",
-        "Name": "Braytech no se actualiza a la última versión"
-      },
-      "Widgets": {
-        "Description": "Actualmente los widgets sólo están disponibles para dispositivos iOS (iPhone, iPad).\n\nSi no puedes encontrar Braytech o sus widgets en tu lista de widgets disponibles, intenta reiniciar tu dispositivo, iniciar la aplicación, reinstalar la aplicación, o esperar un tiempo arbitrario.\n\nO es por torpeza o es cosa de iOS. Buena suerte.",
-        "Name": "Widgets",
-        "Video1Caption": "Cómo añadir widgets a tu pantalla de inicio.",
-        "Video2Caption": "Cómo añadir widgets a tu pantalla de bloqueo."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": "_Voluspa_, que se llama así por una submente de _Rasputín_, es como he llamado al componente del servidor de Braytech. Es responsable de analizar los perfiles de los usuarios de Braytech en busca de estadísticas de rareza, sincronizar los ajustes y otras características clave.",
-        "Name": "Acerca de Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "¡Bienvenido a Braytech! Antes de empezar, tengo un puñado de consejos para ti.\n\nSi tienes comentarios o preguntas, ¡podemos chatear en Discord o puedes consultar las Preguntas Frecuentes!",

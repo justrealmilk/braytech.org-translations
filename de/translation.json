@@ -487,48 +487,6 @@
     "WeekNth": "Woche {{number}}",
     "Week_plural": "Wochen"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Es gibt mehrere Quellen für Statistiken in Destiny. Historische Clan-Statistiken basieren auf dem _HistoricalStats_-API-Endpunkt, während andere ihre Daten aus PGCRs (_Post Game Carnage Reports_, detailliertere Spieldetails) beziehen. Es ist schwer zu bestimmen, welcher Endpunkt die genauesten Angaben macht.\n\nUm Statistiken in der Weise zu berechnen wie sie bei _Historische Clan-Statistiken_ angezeigt werden, müssten Terabytes an Daten von Bungie-Servern heruntergeladen werden. Nichtsdestotrotz sind die aktuell genutzten Daten genau genug für etwas freundschaftlichen Wettbewerb.",
-        "Name": "Die historischen Clan-Statistiken stimmen nicht mit [irgendwas] überein"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech ist im Apple [App Store](https://apps.apple.com/app/braytech/id1593151816), auf [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) und im [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8) erhältlich!",
-        "Name": "App-Stores"
-      },
-      "Commonality": {
-        "Description": "Häufig wird die Frage gestellt: \"Was ist die lustige Prozentzahl rechts neben den Sammlerstücken und Rekorden?\"\n\n Es handelt sich dabei um den Prozentsatz der Spieler, die den Gegenstand entweder entdeckt oder eingelöst haben. Alle paar Tage sammelt _Voluspa_ Daten von den Nutzern von _Braytech_ und notiert, wer was hat.\n\n Es ist ein heißes Thema, ob es genau oder nützlich ist und die Wahrheit ist, dass alle Statistiken nutzlos und dumm sind, _außer_ man hat alle möglichen Daten mit einbezogen. \n\nEs ist anzunehmen, dass diese Statistiken auf Gelegenheitsspieler ausgerichtet sind (die Prozentsätze können aufgrund der Fertigkeiten und der Aufmerksamkeit der überwachten Benutzer eher höher als niedriger erscheinen).\n\nWo verfügbar, enthalten die Tooltips für diese Statistiken die Gesamtzahl der Spieler, die als Teil dieser Metrik gezählt werden. {{indexed}}",
-        "Name": "Häufig"
-      },
-      "KeyboardShortcuts": {
-        "Description": "Zusätzlich zu den Schaltflächen der Aktionsleiste mit Tastensymbolen verfügt Braytech über eine Vielzahl versteckter Tastenkombinationen. Halten Sie in jeder Ansicht mit einer Profilüberschrift (dem Emblem Ihres Charakters usw.) die Taste  gedrückt, um zu sehen, welche Tastenkombinationen verfügbar sind. Drücken Sie zum Beispiel , um zu _Triumphe_ zu gelangen, und , um hierher zurückzukehren.",
-        "Name": "Tastenkombinationen"
-      },
-      "ProfilePrivacy": {
-        "Description": "Wenn du dich beim Spielen von Destiny um deine Privatsphäre und um die Daten, die in der API für Dritte sichtbar sind (wie deine Fortschritte und Aktivitäten) sorgst, kannst du deine Datenschutzeinstellungen auf [Bungie.net](https://bungie.net/de/Profile/Settings/?category=Privacy) anpassen.\n\nWenn du dies tust, musst du Braytech mit Bungie authentifizieren, um es weiter verwenden zu können.",
-        "Name": "Profil-Datenschutz"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "In der _Einstellungen_-Ansicht kannst du verschiedene Dinge ausprobieren. Beginne mit _Serviceworker updaten_. Warte einen Moment, und du solltest aufgefordert werden, die Seite neu zu laden.\n\nFalls dies fehlschlägt, kannst du versuchen, die Anwendung zu aktualisieren, indem du _Neu laden_ wählst. Wenn das Problem weiterhin besteht, nutze bitte _Serviceworker verwerfen_.\n\n_Für Eingeweihte: Braytech verwendet einen Serviceworker und die stellen sich gelegentlich ein wenig an._",
-        "Name": "Braytech wird nicht auf die neueste Version aktualisiert"
-      },
-      "Widgets": {
-        "Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
-        "Name": "🦘 Widgets",
-        "Video1Caption": "🦘 How to add widgets to your home screen.",
-        "Video2Caption": "🦘 How to add widgets to your lock screen."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": "_Voluspa_, benannt nach einem Unter-Geist von Rasputin, habe ich die serverseitige Komponente von Braytech genannt. Es ist dafür verantwortlich, die Profile der Braytech-Benutzer auf gemeinsame Statistiken, Synchronisierung der Einstellungen und andere wichtige Funktionen zu überprüfen.",
-        "Name": "Über Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "Willkommen bei Braytech! Bevor du loslegst, habe ich eine Handvoll Tipps für dich.\n\n Wenn du Feedback oder Fragen hast, können wir auf Discord chatten oder du kannst dir das FAQ ansehen!",

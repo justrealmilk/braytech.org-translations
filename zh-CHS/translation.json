@@ -487,48 +487,6 @@
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "《命运》中有很多统计数据的 API. 公会的数据基于 HistoricalStats API 而其他数据是 PGCRs，所以很难确定哪边的数据更准确。\n\n且显示这些数据需要从Bungie的服务器下载TB级的数据并需要足够的计算能力才能正常显示。因此，如果你和朋友之间的友好竞争需要数据参考的话，这里的足够准确了。",
-        "Name": "公会历史统计信息和[其他东西]不一致？"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech 已经在 [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) 以及 [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8) 上架了！不幸的是，Braytech 在 iPhone App Store 没有上架。\n\n之所以 Braytech 在 iPhone 应用商店没有上架，是因为苹果公司很贪婪，他们的商店是他们主要的收入来源。\n\n值得庆幸的是，他们确实部分地支持渐进式网络应用（PWA），而 Braytech 就是一个渐进式网络应用。要将 Braytech 添加到您的主屏幕，用 Safari 浏览器打开 Braytech，选择分享按钮，再选择 _添加到主屏幕_ 。这样就可以让像 Braytech 这样的应用程序在感觉和操作都很像本地应用程序。\n\n如果你是安卓用户但你不希望使用 Google Play，你可以用 Chrome 浏览器来实现类似的功能，方法应该和 Safari 很相似。",
-        "Name": "应用商店"
-      },
-      "Commonality": {
-        "Description": "经常有人问，“收藏品和成就记录右边那个有趣的百分比是啥？”\n\n这是已经发现或兑换这项物品在玩家中的百分比。每隔几天，_Voluspa_ 就会从 _Braytech_ 的用户收集数据并记录玩家们获取的物品。\n\n很多人会问这东西准确有用吗？事实上所有的统计都无法保证准确且没有任何用处，_除非_ 你能把所有可能的数据都统计在内。\n\n你可以认为这些数据是偏向于休闲玩家的（根据被记录的玩家的水平，这个百分比可能会偏高）。\n\n如果有的话，提示中的数字包括被算作这个指标一部分的玩家总数。{{indexed}}",
-        "Name": "公开数据"
-      },
-      "KeyboardShortcuts": {
-        "Description": "除了带有按键符号的任何操作栏按钮外，Braytech 还有各种隐藏的键盘快捷键。从带有配置文件标题的任何视图（你的角色名片，等等），按住  t来查看哪些快捷键可供使用。例如，按下  前往 _成就_ 并按下  以返回当前页面。",
-        "Name": "键盘快捷键"
-      },
-      "ProfilePrivacy": {
-        "Description": "如果你对游玩命运的隐私，或者 API 如何将你的游戏进程和活动记录报告给第三方有所担心，你可以在[Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy) 更改你的设置。\n\n在这之后继续使用Braytech将需要从Bungie授权。",
-        "Name": "账户隐私"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "在 _设置_ 页面，你可以配置许多东西。点击 _更新 Braytech 后台脚本_，等一小会，你应该会被提示说重启加载应用。\n\n如果更新失败，你可以点击 _重新载入Braytech_ 来刷新应用后再试一遍。如果问题一直出现的话，请点击 _关闭Braytech后台脚本_ 。\n\n _从技术角度来解释，Braytech 使用了 Service Worker，但 Service Worker 有时候会出点问题_ ",
-        "Name": "Braytech没有更新到最新版本？"
-      },
-      "Widgets": {
-        "Description": "Braytech 的小工具目前只对 iOS 设备 (iPhone, iPad) 开放。\n\n如果你无法在可用小工具列表内找到 Braytech 或它的小工具，试试重启设备、启动 Braytech 应用、重新安装 Braytech 或者等一段时间再试试。\n\n导致这个问题的原因可能是有什么东西搞错了或者 iOS 在搞鬼，祝好运。",
-        "Name": "小工具",
-        "Video1Caption": "向桌面主页添加小工具的方法：",
-        "Video2Caption": "向锁屏界面添加小工具的方法："
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": " _Voluspa_，这一源于 _拉斯普廷_ 的分支思维的名字，是我为 Braytech 的服务器端所取的。它将负责抓取 Braytech 用户的数据以用作公共统计，设置同步，以及其他的核心功能。",
-        "Name": "关于 Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "欢迎使用 Braytech！在开始使用之前，这里有些需要注意的小贴士。\n\n如果你有任何反馈或问题，可以在 Discord 上和我聊聊，或者你也可以去看看FAQ！",

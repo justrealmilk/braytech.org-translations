@@ -487,48 +487,6 @@
     "WeekNth": "Settimana {{number}}",
     "Week_plural": "Settimane"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Ci sono diverse fonti per le statistiche in Destiny. Le Statistiche storiche del clan sono basate sull'endpoint dell'API HistoricalStats mentre altri prendono le statistiche dai Riepiloghi. È difficile constatare quale abbia le statistiche più veritiere.\n\nPer mostrare le statistiche come nella sezione Statistiche storiche del clan sarebbe richiesto scaricare terabyte di dati dai server Bungie e un alto potere computazionale. Detto ciò, sono abbastanza precise per un'amichevole competizione.",
-        "Name": "Le Statistiche storiche del clan non corrispondono a [altra fonte]"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech è disponibile sull'[App Store](https://apps.apple.com/it/app/braytech/id1593151816) di Apple, [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa&hl=it) e [Microsoft Store](https://www.microsoft.com/it-it/p/braytech/9pmp910vslz8)!",
-        "Name": "App store"
-      },
-      "Commonality": {
-        "Description": "Comunemente chiesto: \"Cos'è quella curiosa percentuale di fianco a collezionabili e trionfi?\"\n\nÈ la percentuale di giocatori che hanno scoperto o riscattato tale oggetto. Ogni tanto, _Voluspa_ colleziona dati dagli utenti di _Braytech_ e prende nota di chi ha cosa.\n\nL'utilita o la precisione di tali statistiche sono stati argomenti controversi e la verità è che tutte le statistiche sono inutili e stupide _a meno che_ non venga incluso ogni singolo dato possibile.\n\nÈ lecito ritenere che queste statistiche siano orientate verso i giocatori occasionali (le percentuali possono apparire più alte piuttosto che più basse a causa dell'abilità e dell'attenzione degli utenti che vengono monitorati).\n\nDove disponibile, i suggerimenti per queste statistiche includono il numero totale di giocatori che vengono conteggiati come parte di questa metrica.{{indexed}}",
-        "Name": "Rarità"
-      },
-      "KeyboardShortcuts": {
-        "Description": "In aggiunta alla barra di navigazione con i simboli chiave, Braytech ha una varietà di scorciatoie da tastiera nascoste. Da qualsiasi sezione con la testata (quella con l'emblema del tuo personaggio, etc.), tieni premuto  per vedere le scorciatoie disponibili. Per esempio, premi  per andare su _Trionfi_ e  per tornare qua.",
-        "Name": "Scorciatoie da tastiera"
-      },
-      "ProfilePrivacy": {
-        "Description": "Se sei preoccupato per la tua privacy mentre giochi a Destiny e per il modo in cui l'API espone i tuoi progressi e le tue attività a utilizzo da parte di terzi, puoi modificare le tue impostazioni sulla privacy su [Bungie.net](https://www.bungie.net/7/it/User/Account/Privacy).\n\nFacendo ciò sarà necessario eseguire l'autenticazione su Braytech con Bungie per continuarne l'utilizzo.",
-        "Name": "Privacy profilo"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "Dalla sezione _Impostazioni_ puoi provare una varietà di cose. Inizia con _Aggiorna service worker_. Aspetta qualche secondo e ti verrà chiesto di riavviare.\n\nSe ciò fallisce puoi provare a ricaricare l'app con _Ricarica_. Se il problema persiste allora selezione _Scarta service worker_.\n\n_Per i più tecnici, Braytech usa un service worker e a volte non funzionano._",
-        "Name": "Braytech non si è aggiornato all'ultima versione"
-      },
-      "Widgets": {
-        "Description": "I widget sono attualmente disponibili solo per dispositivi iOS (iPhone, iPad).\n\nSe non riesci a trovare Braytech o i suoi widget nell'elenco dei widget disponibili, prova a riavviare il dispositivo, avviare l'app, reinstallare l'app o aspettare un po'.\n\nO non sei abbastanza bravo o è solo una questione di iOS. Buona fortuna.",
-        "Name": "Widget",
-        "Video1Caption": "Come aggiungere widget alla schermata iniziale.",
-        "Video2Caption": "Come aggiungere widget alla schermata di blocco."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": "_Voluspa_ è il nome della componente lato server di Braytech e deriva da una sub-mente di _Rasputin_. È responsabile della raccolta dei dati del profilo degli utenti di Braytech per le statistiche sulla rarità, la sincronizzazione delle impostazioni e altre funzionalità chiave.",
-        "Name": "A proposito di Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "Benvenuto in Braytech! Prima di iniziare, ho una manciata di suggerimenti per te.\n\nSe hai commenti o domande, possiamo chattare su Discord (in inglese) o puoi controllare le FAQ!",

@@ -487,48 +487,6 @@
     "WeekNth": "周 {{number}}",
     "Week_plural": "周"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Destiny 中有多個統計的數據來源，工會歷史數據統計基於HistoricalStats API 而其他統計數據來源於PGCRs 很難確定哪個數據更准確.\n\n要從Bungie.net服務器下載兆級別的數據并具有强大的計算能力，這也就意味著他們足夠準確.可以進行友好的對比",
-        "Name": "公會歷史統計並不壹定與其他統計保持壹致"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech 可以在 [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa)以及 [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! 遺憾的是在IPhone app store中未發行\n\nBraytech 在IPhone應用程式商店不可用 因爲Apple很貪心 他們的商店是他們的主要資金來源\n\n他們確實部分支持漸進式web應用，如Braytech。要將Braytech添加到主荧幕，請使用Safari導航到應用程序，選擇“共亯工作表”按鈕，然後選擇“添加到主荧幕”。這使得一些科技可以讓Braytech等應用程序的感覺和操作與本機應用程序非常相似.\n\n如果您是Android用戶，並且不希望使用Google Play，您可以使用Google Chrome執行類似的過程.",
-        "Name": "應用商店"
-      },
-      "Commonality": {
-        "Description": "通常會問，收藏品和記錄右側的有趣百分比是多少？\\n\n這是發現或兌換該物品的玩家的百分比.每隔幾天，_Voluspa_ 就會從 _Braytech_ 的用戶那裡收集數據，並記錄下誰得到了什麼。\n\n關於它是否準確或有用一直是一個熱門話題，事實是所有統計數據都是無用且愚蠢的_除非_您已經包括在內 每一條數據都是可能的。\n\n可以公平地假設這些統計數據偏向於休閒玩家（由於受監控用戶的技能和注意力，百分比可能看起來更高而不是更低）。\n\n如果可用， 這些統計數據的工具提示包括計為該指標一部分的玩家總數。{{indexed}}",
-        "Name": "共性"
-      },
-      "KeyboardShortcuts": {
-        "Description": "除了带有按键符号的任何操作栏按钮外，Braytech 还有各种隐藏的键盘快捷键。从带有配置文件标题的任何视图（你的角色名片，等等），按住  t来查看哪些快捷键可供使用。例如，按下  前往 _成就_ 并按下  以返回当前页面。",
-        "Name": "鍵盤快捷鍵"
-      },
-      "ProfilePrivacy": {
-        "Description": " 如果你對游玩天命的隱私或者API將你的游戲進程和活動記錄報告給第三方有所擔心你可以在 [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy)更改你的隱私設定.\n\n在這之後繼續使用Braytech將需要從Bungie獲得授權",
-        "Name": "賬戶隱私"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "從 _Settings_ 視圖, 您可以嘗試各種操作 開始 _Update service worker_. 稍等片刻，系統會提示您重新載入.\n\n如果失敗，您可以嘗試選擇 _Reload_ 刷新應用程式. 如果問題仍然存在請選擇 _Dump service worker_.\n\n_For the technically inclined, Braytech uses a service worker and sometimes they're fussy._",
-        "Name": "Braytech不會更新到最新版本"
-      },
-      "Widgets": {
-        "Description": "🦘 Widgets are currently only available for iOS devices (iPhone, iPad).\n\nIf you can't find Braytech or its widgets in your list of available widgets, try restarting your device, launching the app, reinstalling the app, or waiting an arbitrary time duration.\n\nIt's either a skill issue or just an iOS thing. Good luck.",
-        "Name": "🦘 Widgets",
-        "Video1Caption": "🦘 How to add widgets to your home screen.",
-        "Video2Caption": "🦘 How to add widgets to your lock screen."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": " _Voluspa_, 這源於 _Rasputin_ 的分支思維名稱,是我給Braytech的服務端所取的. 它主要負責抓取Braytech用戶數據作爲公共統計，設定同步以及其他核心功能",
-        "Name": "關於Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "歡迎來到Braytech！ 在你開始之前，我有一些提示給你。\n\n如果你有反饋或問題，我們可以在 Discord 上交流，或者你可以查看常見問題解答！",

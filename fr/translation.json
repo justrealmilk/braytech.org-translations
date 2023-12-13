@@ -487,48 +487,6 @@
     "WeekNth": "Semaine {{number}}",
     "Week_plural": "Semaines"
   },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Il existe plusieurs sources de statistiques dans Destiny. Les statistiques historiques du clan sont basées sur le point de terminaison de l'API HistoricalStats tandis que d'autres sources leurs données à partir des PGCR. Il est difficile de déterminer laquelle contient la valeur la plus précise. \n\nPour afficher les statistiques de la manière vue sur les statistiques historiques du clan, il faudrait télécharger des téraoctets de données à partir des serveurs Bungie et une puissance de calcul importante. Cela dit, ils sont suffisamment précis pour une compétition amicale.",
-        "Name": "Les statistiques de clan ne correspondent pas à [autre chose]"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech est disponible sur [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) et sur le [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Malheureusement, Braytech n'est pas disponible sur l'App Store iPhone.\n\nBraytech n'est pas disponible sur l'App Store iPhone car Apple est gourmand et leur magasin est leur principal entonnoir d'argent.\n\nHeureusement, ils prennent partiellement en charge les applications Web progressives, telles que Braytech. Pour ajouter Braytech à votre écran d'accueil, accédez à l'application à l'aide de Safari, sélectionnez le bouton Partager la feuille et sélectionnez _Ajouter à l'écran d'accueil_. Cela active certaines technologies qui permettent à des applications comme Braytech de réagir et de fonctionner comme des applications natives.\n\nSi vous êtes un utilisateur Android et que vous ne souhaitez pas utiliser Google Play, vous pouvez suivre une procédure similaire avec Google Chrome.",
-        "Name": "Magasins d'applications"
-      },
-      "Commonality": {
-        "Description": "Communément demandé, \"Quel est le drôle de pourcentage à droite des objets de collection et des disques ?\"\n\nIl s'agit d'un pourcentage de joueurs qui ont découvert ou récupéré l'objet. Tous les quelques jours, _Voluspa_ collecte les données des utilisateurs de _Braytech_ et prend note de qui a acquis quoi.\n\nCela a été un sujet brûlant quant à savoir si c'est précis ou utile et la vérité est que toutes les statistiques sont inutiles et stupides _à moins_ que vous ayez inclus toutes les données possibles.\n\nIl est juste de supposer que ces statistiques sont biaisées envers les joueurs occasionnels (les pourcentages peuvent sembler plus élevés que inférieurs en raison des compétences et de l'attention des utilisateurs surveillés).\n\nLorsqu'elles sont disponibles, les infobulles pour ces statistiques incluent le nombre total de joueurs qui sont comptés dans le cadre de cette métrique.{{indexed}}",
-        "Name": "Point en commun"
-      },
-      "KeyboardShortcuts": {
-        "Description": "En plus des boutons de la barre d'action avec des symboles clés, Braytech propose une variété de raccourcis clavier cachés. Depuis n'importe quelle vue avec un en-tête de profil (l'emblème de votre personnage, etc.), appuyez longuement sur  pour voir quels raccourcis sont disponibles. Par exemple, pressez  pour aller vers les _Triomphes_ et  pour revenir ici.",
-        "Name": "Raccourcis clavier"
-      },
-      "ProfilePrivacy": {
-        "Description": "Si vous êtes préoccupé par votre vie privée en jouant à Destiny et par la manière dont l'API expose votre progression et vos activités à des fins d'utilisation par des tiers, vous pouvez modifier vos paramètres de confidentialité sur [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy).\n\nCela exigera que vous authentifiez Braytech auprès de Bungie pour une utilisation continue.",
-        "Name": "Confidentialité du profil"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "Depuis la vue _Paramètres_, vous pouvez essayer différentes choses. Commencez par _mettre à jour le 'service worker'_. Attendez un petit moment et vous devriez être invité à recharger.\n\nSi cela échoue, vous pouvez essayer de rafraîchir l'application en sélectionnant _Reload_. Si le problème persiste, veuillez sélectionner _Dump service worker _ et rapporter l'erreur sur Discord.",
-        "Name": "Braytech ne mettra pas à jour la dernière version"
-      },
-      "Widgets": {
-        "Description": "Les widgets sont actuellement uniquement disponibles pour les appareils iOS (iPhone, iPad).\n\nSi vous ne trouvez pas Braytech ou ses widgets dans votre liste de widgets disponibles, essayez de redémarrer votre appareil, de lancer l'application, de la réinstaller ou d'attendre une durée arbitraire.\n\nCela peut être soit un problème de compétence, soit une particularité d'iOS. Bonne chance.",
-        "Name": "Widgets",
-        "Video1Caption": "Comment ajouter des widgets à votre écran d'accueil.",
-        "Video2Caption": "Comment ajouter des widgets à votre écran verrouillé.."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": "_Voluspa_, nommé d'après une sous-routine de _Rasputin_, c'est ainsi que j'ai nommé le composant côté serveur de Braytech. Il est chargé de rassembler les données de profil des utilisateurs de Braytech pour les statistiques communes, la synchronisation des paramètres et d'autres fonctionnalités clés.",
-        "Name": "À propos de Voluspa"
-      }
-    }
-  },
   "GettingStarted": {
     "Header": {
       "Description": "Bienvenue chez Braytech ! Avant de vous lancer, j'ai quelques conseils pratiques à vous donner.\n\nSi vous avez des commentaires ou des questions, nous pouvons discuter sur Discord ou vous pouvez consulter la FAQ !",
