@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Schwarz"
-      },
-      "Dark": {
-        "Name": "Dunkel"
-      },
-      "Light": {
-        "Name": "Hell"
-      },
+      "Black": "Schwarz",
+      "Dark": "Dunkel",
+      "Light": "Hell",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "🦘 Match System",
         "Description": "Auf Geräten, die dies zulassen, spiegelt Braytech deine Systemeinstellungen wider."

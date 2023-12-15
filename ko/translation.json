@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "블랙"
-      },
-      "Dark": {
-        "Name": "다크"
-      },
-      "Light": {
-        "Name": "라이트"
-      },
+      "Black": "블랙",
+      "Dark": "다크",
+      "Light": "라이트",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "🦘 Match System",
         "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."

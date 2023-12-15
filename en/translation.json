@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Black"
-      },
-      "Dark": {
-        "Name": "Dark"
-      },
-      "Light": {
-        "Name": "Light"
-      },
+      "Light": "Light",
+      "Medium": "Medium",
+      "Dark": "Dark",
+      "Black": "Black",
       "SystemPreference": {
         "Name": "Match System",
         "Description": "Where supported, Braytech will mirror your system preference."

@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "黑"
-      },
-      "Dark": {
-        "Name": "暗"
-      },
-      "Light": {
-        "Name": "亮"
-      },
+      "Black": "黑",
+      "Dark": "暗",
+      "Light": "亮",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "跟随系统偏好",
         "Description": "Braytech 将会在支持的设备上使用你的系统设置。"

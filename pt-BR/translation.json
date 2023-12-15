@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Preto"
-      },
-      "Dark": {
-        "Name": "Escuro"
-      },
-      "Light": {
-        "Name": "Claro"
-      },
+      "Black": "Preto",
+      "Dark": "Escuro",
+      "Light": "Claro",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "🦘 Match System",
         "Description": "Em dispositivos que permitem, Braytech copiará as preferências de tema do seu sistema."

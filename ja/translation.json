@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "ブラック"
-      },
-      "Dark": {
-        "Name": "ダーク"
-      },
-      "Light": {
-        "Name": "ライト"
-      },
+      "Black": "ブラック",
+      "Dark": "ダーク",
+      "Light": "ライト",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "システム設定に合わせる",
         "Description": "デバイス側で許可をしたら、Braytechはシステム設定をミラーします"

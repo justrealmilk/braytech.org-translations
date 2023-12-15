@@ -1169,15 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Negro"
-      },
-      "Dark": {
-        "Name": "Oscuro"
-      },
-      "Light": {
-        "Name": "Claro"
-      },
+      "Black": "Negro",
+      "Dark": "Oscuro",
+      "Light": "Claro",
+      "Medium": "🦘 Medium",
       "SystemPreference": {
         "Name": "Automático",
         "Description": "Cuando sea posible, Braytech reflejará tu preferencia del sistema."
