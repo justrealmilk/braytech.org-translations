@@ -1124,6 +1124,14 @@
     },
     "Subscriptions": {
       "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "State": {
+        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
+        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+      },
+      "DiscordProfile": {
+        "Connected": "🦘 Your connected Discord profile.",
+        "Disconnected": "🦘 Connect your Discord profile by speaking to the Voluspa bot in the [server](https://discord.bray.tech)."
+      },
       "ActiveSubscription": "🦘 Active Subscription",
       "Tiers": "🦘 Tiers"
     },
