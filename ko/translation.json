@@ -1130,7 +1130,7 @@
       },
       "DiscordProfile": {
         "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by speaking to the Voluspa bot in the [server](https://discord.bray.tech)."
+        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
       "ActiveSubscription": "🦘 Active Subscription",
       "Tiers": "🦘 Tiers"
@@ -1169,10 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": "블랙",
-      "Dark": "다크",
       "Light": "라이트",
       "Medium": "🦘 Medium",
+      "Dark": "다크",
+      "Black": "블랙",
       "SystemPreference": {
         "Name": "🦘 Match System",
         "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."

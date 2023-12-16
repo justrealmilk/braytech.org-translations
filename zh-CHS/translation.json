@@ -1130,7 +1130,7 @@
       },
       "DiscordProfile": {
         "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by speaking to the Voluspa bot in the [server](https://discord.bray.tech)."
+        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
       "ActiveSubscription": "🦘 Active Subscription",
       "Tiers": "🦘 Tiers"
@@ -1169,10 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": "黑",
-      "Dark": "暗",
       "Light": "亮",
       "Medium": "🦘 Medium",
+      "Dark": "暗",
+      "Black": "黑",
       "SystemPreference": {
         "Name": "跟随系统偏好",
         "Description": "Braytech 将会在支持的设备上使用你的系统设置。"

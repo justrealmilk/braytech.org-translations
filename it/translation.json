@@ -1130,7 +1130,7 @@
       },
       "DiscordProfile": {
         "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by speaking to the Voluspa bot in the [server](https://discord.bray.tech)."
+        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
       "ActiveSubscription": "🦘 Active Subscription",
       "Tiers": "🦘 Tiers"
@@ -1169,10 +1169,10 @@
       }
     },
     "Theme": {
-      "Black": "Nero",
-      "Dark": "Scuro",
       "Light": "Chiaro",
       "Medium": "🦘 Medium",
+      "Dark": "Scuro",
+      "Black": "Nero",
       "SystemPreference": {
         "Name": "Adatta al sistema",
         "Description": "Dove supportato, Braytech rispecchierà le preferenze del sistema."
