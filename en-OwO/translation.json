@@ -1185,15 +1185,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Bwack"
-      },
-      "Dark": {
-        "Name": "Dawk"
-      },
-      "Light": {
-        "Name": "Wight"
-      },
+      "Light": "Wight",
+      "Medium": "Medwium",
+      "Dark": "Dawk",
+      "Black": "Bwack",
       "SystemPreference": {
         "Description": "Whewe suppowted, Bwaytech wiww miwwow uuw system pwefewence.",
         "Name": "Match System"
