@@ -191,7 +191,7 @@
       "Description": "Questi sono gli account attualmente collegati al tuo profilo Bungie.net.",
       "Name": "Account collegati"
     },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
+    "SubscriptionFeature": "Questa è una funzionalità per abbonati. Alcune funzionalità sono state realizzate solo grazie al supporto dei sostenitori. [Ulteriori informazioni](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "Associa questo profilo Bungie.net a un account Patreon",
       "Name": "Collega Patreon",
@@ -201,7 +201,7 @@
     },
     "Suggestion": {
       "Subtle": "Autenticati con Bungie.net per caricare il tuo profilo e sbloccare molte più funzionalità.",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "Subscriptions": "Autenticati con Bungie.net per creare o gestire un abbonamento.",
       "Text": "La maggior parte delle funzionalità di Braytech sono utilizzabili da tutti gli utenti e dipendono da dati pubblici, ma alcune funzionalità di Destiny richiedono dei permessi espliciti che puoi garantire a Braytech autenticandoti con Bungie.net."
     }
   },
@@ -560,7 +560,7 @@
     "Support": {
       "Description": "Braytech è un lavoro a tempo pieno—io progetto e sviluppo per il fine di migliorarmi e aiutare tutti i Guardiani. Inoltre, a mio discapito, sono contro la pubblicità. Il tuo supporto mi aiuta a mantenere le luci dei riflettori accese e mi permette di realizzare il mio miglior lavoro e di rendere la tua esperienza con Destiny ancor migliore. Spero che tu lo stia amando come io lo amo sviluppare! 💖\n\nEntra su [Discord](https://discord.bray.tech) con gli patron nella Divisione di Ricerca Braytech.",
       "Name": "Sei un fan? Mostra il tuo supporto",
-      "Action": "🦘 Become a Supporter"
+      "Action": "Diventa un sostenitore"
     },
     "Updates": "Aggiornamenti",
     "Blog": {
@@ -580,8 +580,8 @@
       "Frequency": {
         "Daily": "Giornaliera",
         "Weekly": "Settimanale",
-        "Monthly": "🦘 Monthly",
-        "Annually": "🦘 Annually"
+        "Monthly": "Mensile",
+        "Annually": "Annuale"
       },
       "Relative": {
         "Future": "tra {{duration}}",
@@ -1123,17 +1123,17 @@
       "VisualFidelity": "Fedeltà visiva"
     },
     "Subscriptions": {
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Info": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è gratuito o facile!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!\n\nAbbonati a uno dei seguenti livelli per fantastici premi, tra cui, le medaglie del profilo!",
       "State": {
-        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+        "Ending": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento **terminerà** il **{{currentPeriodEnd}}**.",
+        "Renewing": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento si **rinnoverà** il **{{currentPeriodEnd}}**."
       },
       "DiscordProfile": {
-        "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
+        "Connected": "Hai connesso il tuo profilo Discord.",
+        "Disconnected": "Connetti il tuo profilo Discord usando il comando `/register_discord_with_voluspa` nel [server](https://discord.bray.tech) Discord."
       },
-      "ActiveSubscription": "🦘 Active Subscription",
-      "Tiers": "🦘 Tiers"
+      "ActiveSubscription": "Abbonamento attivo",
+      "Tiers": "Livelli"
     },
     "Sync": {
       "Action": {
@@ -1170,7 +1170,7 @@
     },
     "Theme": {
       "Light": "Chiaro",
-      "Medium": "🦘 Medium",
+      "Medium": "Medio",
       "Dark": "Scuro",
       "Black": "Nero",
       "SystemPreference": {
@@ -1224,7 +1224,7 @@
       "Lock": "Blocca",
       "NotGarbage": "Non da buttare",
       "Select": "Seleziona",
-      "ShowLore": "🦘 Show Lore",
+      "ShowLore": "Mostra leggende",
       "Store": "Sposta",
       "Unfavourite": "Rimuovi dai preferiti",
       "Unlock": "Sblocca",
@@ -1336,9 +1336,9 @@
     "Subscriptions": {
       "Description": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è facile o gratuito!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!",
       "Name": "Mantieni Braytech senza pubblicità",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+      "RewardSeraph": "Sblocca la medaglia **Serafino**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
       "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
-      "SupportBraytech": "🦘 Support Braytech",
+      "SupportBraytech": "Supporta Braytech",
       "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
       "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?"
     },
