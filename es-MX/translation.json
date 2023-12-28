@@ -1357,8 +1357,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} fueron evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} descubrieron este coleccionable.",
-      "Description_record": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} fueron evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{value}} completaron este triunfo.",
+      "Description": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} fueron evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{frequency}} descubrieron este coleccionable.",
+      "Description_record": "Visualiza estos datos de una forma distinta al seleccionar un tipo de gráfico alternativo.\n\n_Voluspa_ recopila datos de {{crawled}} jugadores. De esos jugadores, {{assessed}} fueron evaluados con éxito a efectos de proporcionar estos datos. De {{assessed}} jugadores evaluados, {{frequency}} completaron este triunfo.",
       "Name": "Ajustar gráfico"
     },
     "CollectedBy": "{{number}} jugadores consiguieron esto.",

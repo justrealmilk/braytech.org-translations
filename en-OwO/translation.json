@@ -1371,8 +1371,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "View this data in a diffewent mannew by sewecting an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, (・`ω´・) {{assessed}} wewe ૮ ˶ᵔ ᵕ ᵔ˶ ა successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{value}} haz discovewed this cowwectibwe.",
-      "Description_record": "View this data in a diffewent mannew by sewecting *sweats* an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, {{assessed}} wewe successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{value}} haz compweted this wecowd.",
+      "Description": "View this data in a diffewent mannew by sewecting an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, (・`ω´・) {{assessed}} wewe ૮ ˶ᵔ ᵕ ᵔ˶ ა successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{frequency}} haz discovewed this cowwectibwe.",
+      "Description_record": "View this data in a diffewent mannew by sewecting *sweats* an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, {{assessed}} wewe successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{frequency}} haz compweted this wecowd.",
       "Name": "Adjust Gwaph"
     },
     "CollectedBy": "{{number}} pwayews haz cowwected this.",

@@ -1357,8 +1357,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
-      "Description_record": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{value}} 名がこのアイテムを収集しています。",
+      "Description": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{frequency}} 名がこのアイテムを収集しています。",
+      "Description_record": "隣のプルダウンからグラフの表示内容を選択できます。\n\n_Voluspa_ は {{crawled}} 名のプレイヤー情報を収集しています。その中で {{assessed}} 名のプレイヤーデータをこの統計にて利用されています。提供した {{assessed}} 名のうち、 {{frequency}} 名がこのアイテムを収集しています。",
       "Name": "グラフ設定"
     },
     "CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",

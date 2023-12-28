@@ -1357,8 +1357,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{value}} ont découvert cet objet.",
-      "Description_record": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{value}} ont complété cet enregistrement.",
+      "Description": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{frequency}} ont découvert cet objet.",
+      "Description_record": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{frequency}} ont complété cet enregistrement.",
       "Name": "Graphique ajusté"
     },
     "CollectedBy": "{{number}} joueurs possèdent cela.",

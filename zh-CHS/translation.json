@@ -1357,8 +1357,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "通过选择另一种图表类型以不同的方式查看此数据。\n\n_Voluspa_ 从 {{crawled}} 玩家那里收集数据。在这些玩家中， {{assessed}} 成功通过评估以提供此数据。在 {{assessed}} 接受评估的玩家中，有 {{value}} 发现了这个收藏品。",
-      "Description_record": "通过选择另一种类型的图表，以不同的方式查看这些数据。\n\n_Voluspa_收集了来自 {{crawled}} 玩家的数据。在这些玩家中， {{assessed}} ，为提供此数据而成功评估。在 {{assessed}} 评估的玩家中， {{value}} 已经完成了这个记录。",
+      "Description": "通过选择另一种图表类型以不同的方式查看此数据。\n\n_Voluspa_ 从 {{crawled}} 玩家那里收集数据。在这些玩家中， {{assessed}} 成功通过评估以提供此数据。在 {{assessed}} 接受评估的玩家中，有 {{frequency}} 发现了这个收藏品。",
+      "Description_record": "通过选择另一种类型的图表，以不同的方式查看这些数据。\n\n_Voluspa_收集了来自 {{crawled}} 玩家的数据。在这些玩家中， {{assessed}} ，为提供此数据而成功评估。在 {{assessed}} 评估的玩家中， {{frequency}} 已经完成了这个记录。",
       "Name": "调整图表"
     },
     "CollectedBy": "{{number}} 名玩家已收集",

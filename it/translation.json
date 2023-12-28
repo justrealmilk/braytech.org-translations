@@ -1357,8 +1357,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "Visualizza questi dati in modo diverso selezionando un tipo di grafico alternativo.\n\n_Voluspa_ raccoglie dati da {{crawled}} giocatori. Di questi, {{assessed}} sono stati valutati con successo allo scopo di aver fornito questi dati. Su {{assessed}} giocatori valutati, {{value}} hanno scoperto questo collezionabile.",
-      "Description_record": "Visualizza questi dati in modo diverso selezionando un tipo di grafico alternativo.\n\n_Voluspa_ raccoglie dati da {{crawled}} giocatori. Di questi, {{assessed}} sono stati valutati con successo allo scopo di aver fornito questi dati. Su {{assessed}} giocatori valutati, {{value}} hanno completato questo trionfo.",
+      "Description": "Visualizza questi dati in modo diverso selezionando un tipo di grafico alternativo.\n\n_Voluspa_ raccoglie dati da {{crawled}} giocatori. Di questi, {{assessed}} sono stati valutati con successo allo scopo di aver fornito questi dati. Su {{assessed}} giocatori valutati, {{frequency}} hanno scoperto questo collezionabile.",
+      "Description_record": "Visualizza questi dati in modo diverso selezionando un tipo di grafico alternativo.\n\n_Voluspa_ raccoglie dati da {{crawled}} giocatori. Di questi, {{assessed}} sono stati valutati con successo allo scopo di aver fornito questi dati. Su {{assessed}} giocatori valutati, {{frequency}} hanno completato questo trionfo.",
       "Name": "Regola il grafico"
     },
     "CollectedBy": "{{number}} giocatori l'hanno collezionato.",

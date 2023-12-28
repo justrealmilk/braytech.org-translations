@@ -1357,12 +1357,13 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have discovered this collectible.",
-      "Description_record": "View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{value}} have completed this record.",
+      "Description": "View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have discovered this collectible.",
+      "Description_record": "View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have completed this record.",
       "Name": "Adjust Graph"
     },
     "CollectedBy": "{{number}} players have collected this.",
     "Commonality": "Commonality",
+    "Frequency": "Frequency",
     "CompletedBy": "{{number}} players have completed this.",
     "Crawled": "{{number}} players are currently crawled by Voluspa.",
     "GraphType": {
