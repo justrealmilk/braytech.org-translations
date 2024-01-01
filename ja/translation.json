@@ -415,6 +415,8 @@
     "Inventory": "所持品",
     "ItemRolls": "ロール",
     "Items": "アイテム",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "レベル{{number}}",
     "Location": "ロケーション",
     "Lore": "伝承",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",
     "Commonality": "レア度",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
     "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
     "GraphType": {

@@ -415,6 +415,8 @@
     "Inventory": "庫存",
     "ItemRolls": "物品清單",
     "Items": "物品",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "等級 {{number}}",
     "Location": "位置",
     "Lore": "傳説",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": " {{number}} 名玩家已收集",
     "Commonality": "共通",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": " {{number}} 名玩家已完成",
     "Crawled": "{{number}} 玩家被Voluspa索引.",
     "GraphType": {

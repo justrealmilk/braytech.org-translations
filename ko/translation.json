@@ -415,6 +415,8 @@
     "Inventory": "인벤토리",
     "ItemRolls": "아이템 목록",
     "Items": "아이템",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "레벨 {{number}}",
     "Location": "위치",
     "Lore": "지식",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "{{number}}명의 유저가 이것을 획득했습니다.",
     "Commonality": "희소성",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}}명의 유저가 이것을 완료했습니다.",
     "Crawled": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
     "GraphType": {

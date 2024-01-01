@@ -415,6 +415,8 @@
     "Inventory": "🦘 Inventory",
     "ItemRolls": "🦘 아이템 목록",
     "Items": "🦘 Items",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "🦘 Level {{number}}",
     "Location": "🦘 위치",
     "Lore": "🦘 지식",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "🦘 {{number}}명의 유저가 이것을 획득했습니다.",
     "Commonality": "🦘 Commonality",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "🦘 {{number}}명의 유저가 이것을 완료했습니다.",
     "Crawled": "🦘 {{number}} players are currently crawled by Voluspa.",
     "GraphType": {

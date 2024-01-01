@@ -415,6 +415,8 @@
     "Inventory": "Inventar",
     "ItemRolls": "Werte",
     "Items": "Gegenstände",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Level {{number}}",
     "Location": "Standort",
     "Lore": "Lore",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "{{number}} Spieler haben dies eingesammelt.",
     "Commonality": "Statistiken",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}} Spieler haben dies abgeschlossen.",
     "Crawled": "{{number}} Spieler sind von Voluspa indiziert.",
     "GraphType": {

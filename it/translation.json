@@ -415,6 +415,8 @@
     "Inventory": "Inventario",
     "ItemRolls": "Caratteristiche",
     "Items": "Oggetti",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Livello {{number}}",
     "Location": "Luogo",
     "Lore": "Leggende",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "{{number}} giocatori l'hanno collezionato.",
     "Commonality": "Rarità",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}} giocatori l'hanno completato.",
     "Crawled": "{{number}} giocatori indicizzati da Voluspa.",
     "GraphType": {

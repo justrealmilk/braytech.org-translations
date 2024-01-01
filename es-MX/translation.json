@@ -415,6 +415,8 @@
     "Inventory": "Inventario",
     "ItemRolls": "Equipamiento aleatorio",
     "Items": "Objetos",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Nivel {{number}}",
     "Location": "Localización",
     "Lore": "Historia",
@@ -1363,6 +1365,7 @@
     },
     "CollectedBy": "{{number}} jugadores consiguieron esto.",
     "Commonality": "Rareza",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}} jugadores completaron esto.",
     "Crawled": "{{number}} jugadores están indexados por Voluspa.",
     "GraphType": {
