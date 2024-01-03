@@ -6,7 +6,6 @@
     "AllClasses": "Toutes les Classes",
     "Authenticate": "S'authentifier",
     "Back": "Retour",
-    "BecomeAPatron": "Devenez un Patron !",
     "Browse": "Parcourir",
     "Cancel": "Annuler",
     "Close": "Fermer",
@@ -192,15 +191,17 @@
       "Description": "Ce sont les comptes actuellement associées à votre profil Bungie.net.",
       "Name": "Comptes associés"
     },
-    "PatronOnlyFeature": "Ceci est une fonctionnalité réservée aux mécènes. Certaines fonctionnalités ne sont possibles qu'avec le soutien des mécènes. En savoir plus sur [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "Associez ce profil Bungie.net à un compte Patreon",
+      "Name": "🦘 Link Patreon",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
       "Success": "Merci ! Votre email est maintenant associé à vos profils",
       "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
     },
     "Suggestion": {
       "Subtle": "Connectez-vous à Bungie.net pour des fonctionnalités étendues",
+      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "La plupart des fonctionnalités de Braytech sont disponibles pour tous les utilisateurs et dépendent de données accessibles au public, mais certaines fonctionnalités de Destiny nécessitent des autorisations d'accès plus explicites que vous pouvez accorder à Braytech en vous authentifiant auprès de Bungie.net."
     }
   },
@@ -414,6 +415,8 @@
     "Inventory": "Inventaire",
     "ItemRolls": "Attributs",
     "Items": "Objets",
+    "Loadout": "🦘 Loadout",
+    "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Niveau {{number}}",
     "Location": "Position",
     "Lore": "Légende",
@@ -485,48 +488,6 @@
     "WebringInfo": "Visitez un ami de Braytech, un autre projet Destiny créé par la communauté.",
     "WeekNth": "Semaine {{number}}",
     "Week_plural": "Semaines"
-  },
-  "FAQ": {
-    "API": {
-      "StatDiscrepancy": {
-        "Description": "Il existe plusieurs sources de statistiques dans Destiny. Les statistiques historiques du clan sont basées sur le point de terminaison de l'API HistoricalStats tandis que d'autres sources leurs données à partir des PGCR. Il est difficile de déterminer laquelle contient la valeur la plus précise. \n\nPour afficher les statistiques de la manière vue sur les statistiques historiques du clan, il faudrait télécharger des téraoctets de données à partir des serveurs Bungie et une puissance de calcul importante. Cela dit, ils sont suffisamment précis pour une compétition amicale.",
-        "Name": "Les statistiques de clan ne correspondent pas à [autre chose]"
-      }
-    },
-    "Braytech": {
-      "AppStore": {
-        "Description": "Braytech est disponible sur [Google Play](https://play.google.com/store/apps/details?id=braytech.org.twa) et sur le [Microsoft Store](https://www.microsoft.com/en-us/p/braytech/9pmp910vslz8)! Malheureusement, Braytech n'est pas disponible sur l'App Store iPhone.\n\nBraytech n'est pas disponible sur l'App Store iPhone car Apple est gourmand et leur magasin est leur principal entonnoir d'argent.\n\nHeureusement, ils prennent partiellement en charge les applications Web progressives, telles que Braytech. Pour ajouter Braytech à votre écran d'accueil, accédez à l'application à l'aide de Safari, sélectionnez le bouton Partager la feuille et sélectionnez _Ajouter à l'écran d'accueil_. Cela active certaines technologies qui permettent à des applications comme Braytech de réagir et de fonctionner comme des applications natives.\n\nSi vous êtes un utilisateur Android et que vous ne souhaitez pas utiliser Google Play, vous pouvez suivre une procédure similaire avec Google Chrome.",
-        "Name": "Magasins d'applications"
-      },
-      "Commonality": {
-        "Description": "Communément demandé, \"Quel est le drôle de pourcentage à droite des objets de collection et des disques ?\"\n\nIl s'agit d'un pourcentage de joueurs qui ont découvert ou récupéré l'objet. Tous les quelques jours, _Voluspa_ collecte les données des utilisateurs de _Braytech_ et prend note de qui a acquis quoi.\n\nCela a été un sujet brûlant quant à savoir si c'est précis ou utile et la vérité est que toutes les statistiques sont inutiles et stupides _à moins_ que vous ayez inclus toutes les données possibles.\n\nIl est juste de supposer que ces statistiques sont biaisées envers les joueurs occasionnels (les pourcentages peuvent sembler plus élevés que inférieurs en raison des compétences et de l'attention des utilisateurs surveillés).\n\nLorsqu'elles sont disponibles, les infobulles pour ces statistiques incluent le nombre total de joueurs qui sont comptés dans le cadre de cette métrique.{{indexed}}",
-        "Name": "Point en commun"
-      },
-      "KeyboardShortcuts": {
-        "Description": "En plus des boutons de la barre d'action avec des symboles clés, Braytech propose une variété de raccourcis clavier cachés. Depuis n'importe quelle vue avec un en-tête de profil (l'emblème de votre personnage, etc.), appuyez longuement sur  pour voir quels raccourcis sont disponibles. Par exemple, pressez  pour aller vers les _Triomphes_ et  pour revenir ici.",
-        "Name": "Raccourcis clavier"
-      },
-      "ProfilePrivacy": {
-        "Description": "Si vous êtes préoccupé par votre vie privée en jouant à Destiny et par la manière dont l'API expose votre progression et vos activités à des fins d'utilisation par des tiers, vous pouvez modifier vos paramètres de confidentialité sur [Bungie.net](https://www.bungie.net/7/en/User/Account/Privacy).\n\nCela exigera que vous authentifiez Braytech auprès de Bungie pour une utilisation continue.",
-        "Name": "Confidentialité du profil"
-      },
-      "ServiceWorkerUpdate": {
-        "Description": "Depuis la vue _Paramètres_, vous pouvez essayer différentes choses. Commencez par _mettre à jour le 'service worker'_. Attendez un petit moment et vous devriez être invité à recharger.\n\nSi cela échoue, vous pouvez essayer de rafraîchir l'application en sélectionnant _Reload_. Si le problème persiste, veuillez sélectionner _Dump service worker _ et rapporter l'erreur sur Discord.",
-        "Name": "Braytech ne mettra pas à jour la dernière version"
-      },
-      "Widgets": {
-        "Description": "Les widgets sont actuellement uniquement disponibles pour les appareils iOS (iPhone, iPad).\n\nSi vous ne trouvez pas Braytech ou ses widgets dans votre liste de widgets disponibles, essayez de redémarrer votre appareil, de lancer l'application, de la réinstaller ou d'attendre une durée arbitraire.\n\nCela peut être soit un problème de compétence, soit une particularité d'iOS. Bonne chance.",
-        "Name": "Widgets",
-        "Video1Caption": "Comment ajouter des widgets à votre écran d'accueil.",
-        "Video2Caption": "Comment ajouter des widgets à votre écran verrouillé.."
-      }
-    },
-    "Voluspa": {
-      "About": {
-        "Description": "_Voluspa_, nommé d'après une sous-routine de _Rasputin_, c'est ainsi que j'ai nommé le composant côté serveur de Braytech. Il est chargé de rassembler les données de profil des utilisateurs de Braytech pour les statistiques communes, la synchronisation des paramètres et d'autres fonctionnalités clés.",
-        "Name": "À propos de Voluspa"
-      }
-    }
   },
   "GettingStarted": {
     "Header": {
@@ -600,7 +561,8 @@
     },
     "Support": {
       "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support"
+      "Name": "🦘 Are you a fan? Show your support",
+      "Action": "🦘 Become a Supporter"
     },
     "Updates": "Mises à jour",
     "Blog": {
@@ -619,7 +581,9 @@
     "Time": {
       "Frequency": {
         "Daily": "Journalier",
-        "Weekly": "Hebdomadaire"
+        "Weekly": "Hebdomadaire",
+        "Monthly": "🦘 Monthly",
+        "Annually": "🦘 Annually"
       },
       "Relative": {
         "Future": "dans {{duration}}",
@@ -941,18 +905,11 @@
   },
   "Settings": {
     "Category": {
-      "Advanced": {
-        "Name": "Avancé"
-      },
-      "Common": {
-        "Name": "Général"
-      },
-      "PushNotifications": {
-        "Name": "Notifications 'Push'"
-      },
-      "Referrals": {
-        "Name": "🦘 Referrals"
-      }
+      "Common": "Général",
+      "Advanced": "Avancé",
+      "PushNotifications": "Notifications 'Push'",
+      "Referrals": "🦘 Referrals",
+      "Subscriptions": "Subscriptions"
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1131,6 +1088,7 @@
     },
     "Referrals": {
       "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
+      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
       "Referred": "🦘 Members Referred",
       "Rewards": "🦘 Available Rewards"
     },
@@ -1166,6 +1124,19 @@
       "Troubleshooting": "Dépannage",
       "VisualFidelity": "Fidélité visuelle"
     },
+    "Subscriptions": {
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "State": {
+        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
+        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+      },
+      "DiscordProfile": {
+        "Connected": "🦘 Your connected Discord profile.",
+        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
+      },
+      "ActiveSubscription": "🦘 Active Subscription",
+      "Tiers": "🦘 Tiers"
+    },
     "Sync": {
       "Action": {
         "DeleteSyncedSettings": {
@@ -1200,15 +1171,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Noir"
-      },
-      "Dark": {
-        "Name": "Foncé"
-      },
-      "Light": {
-        "Name": "Clair"
-      },
+      "Light": "Clair",
+      "Medium": "🦘 Medium",
+      "Dark": "Foncé",
+      "Black": "Noir",
       "SystemPreference": {
         "Name": "🦘 Match System",
         "Description": "Sur les appareils qui le permettent, Braytech reflétera vos préférences système."
@@ -1253,12 +1219,15 @@
     "Actions": {
       "Acquire": "Acquérir",
       "Compare": "Comparer",
+      "Commonality": "🦘 Commonality",
       "Equip": "Équiper",
       "Favourite": "Favori",
       "Garbage": "Jeter à la poubelle",
       "Details": "🦘 Details",
       "Lock": "Verrouiller",
+      "Lore": "🦘 Lore",
       "NotGarbage": "Ne pas Jeter",
+      "SaveNew": "🦘 Save New",
       "Select": "Sélectionner",
       "Store": "Stocker",
       "Unfavourite": "Retirer des favoris",
@@ -1368,11 +1337,12 @@
     "Auth": {
       "Description": "Vous voulez voir vos objectifs et d'autres données sur les progrès réalisés ? Authentifiez-vous auprès de Bungie.net et permettez à Braytech de lire en toute sécurité les données de votre profil."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "Nous détestons tous les publicités. C'est moche. C'est ennuyeux. Elles collectent vos données et les vendent à des tiers. \n\nAidez-nous à les éloigner de Braytech en soutenant l'application via Patreon. Que ce soit une chose ponctuelle ou un engagement continu, chaque dollar peut aider !",
       "Name": "Aidez-nous à garder Braytech sans pub !",
-      "RewardResearcher": "Les mécènes du niveau \"Researcher\" débloquent cette médaille Clovis Bray.",
+      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
       "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée Warmind ultra.",
+      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
       "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },
@@ -1391,12 +1361,13 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{value}} ont découvert cet objet.",
-      "Description_record": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{value}} ont complété cet enregistrement.",
+      "Description": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{frequency}} ont découvert cet objet.",
+      "Description_record": "Visualisez ces données d'une autre manière en sélectionnant un autre type de graphique.\n\n_Voluspa_ collecte des données sur {{crawled}} joueurs. Parmi ces joueurs, {{assessed}} ont été évalués avec succès dans le but de fournir ces données. Dans ces {{assessed}} joueurs évalués, {{frequency}} ont complété cet enregistrement.",
       "Name": "Graphique ajusté"
     },
     "CollectedBy": "{{number}} joueurs possèdent cela.",
     "Commonality": "Rareté",
+    "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}} joueurs l'ont complété.",
     "Crawled": "{{number}} joueurs analysés par Voluspa.",
     "GraphType": {

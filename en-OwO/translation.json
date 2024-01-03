@@ -1185,15 +1185,10 @@
       }
     },
     "Theme": {
-      "Black": {
-        "Name": "Bwack"
-      },
-      "Dark": {
-        "Name": "Dawk"
-      },
-      "Light": {
-        "Name": "Wight"
-      },
+      "Light": "Wight",
+      "Medium": "Medwium",
+      "Dark": "Dawk",
+      "Black": "Bwack",
       "SystemPreference": {
         "Description": "Whewe suppowted, Bwaytech wiww miwwow uuw system pwefewence.",
         "Name": "Match System"
@@ -1353,7 +1348,7 @@
     "Auth": {
       "Description": "Want to see uuw objectives and othew pwogwess data? UwU Authenticate with Bungie.net and awwow Bwaytech to secuwewy wead uuw pwofiwe data."
     },
-    "Patreon": {
+    "Subscriptions": {
       "Description": "Ads suck so Bwaytech doesn't use them, but none of this is fwee ow easy! OwO\n\nIn pwace of tawgeted advewtising, Bwaytech's devewopew depends on uuw genewosity. Uuw suppowt hewps keep da app onwine, enabwes da devewopew to wowk on new featuwes, and pays da went! OwO",
       "Leaderboards": "Weadewboawds awe a wot of wowk, which whiwe thought-pwovoking, is pawticuwawwy costwy. I had to buy Databases fow Dummies and evewything. If uu wike cowwecting things, maybe we couwd [intewest uu in unwocking some a wawe medaw](https://www.patreon.com/braytech) fow uuw Bwaytech pwofiwe? UwU",
       "Name": "Hewp keep da wights on 🥺",
@@ -1376,8 +1371,8 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "View this data in a diffewent mannew by sewecting an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, (・`ω´・) {{assessed}} wewe ૮ ˶ᵔ ᵕ ᵔ˶ ა successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{value}} haz discovewed this cowwectibwe.",
-      "Description_record": "View this data in a diffewent mannew by sewecting *sweats* an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, {{assessed}} wewe successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{value}} haz compweted this wecowd.",
+      "Description": "View this data in a diffewent mannew by sewecting an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, (・`ω´・) {{assessed}} wewe ૮ ˶ᵔ ᵕ ᵔ˶ ა successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{frequency}} haz discovewed this cowwectibwe.",
+      "Description_record": "View this data in a diffewent mannew by sewecting *sweats* an awtewnate type of gwaph.\n\n_Vowuspa_ cowwects data fwom {{crawled}} pwayews. Of those pwayews, {{assessed}} wewe successfuwwy assessed fow da puwpose of pwoviding this data. Of {{assessed}} assessed pwayews, {{frequency}} haz compweted this wecowd.",
       "Name": "Adjust Gwaph"
     },
     "CollectedBy": "{{number}} pwayews haz cowwected this.",
