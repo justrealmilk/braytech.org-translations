@@ -191,7 +191,7 @@
       "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
       "Name": "連携したアカウント"
     },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
+    "SubscriptionFeature": "これはサブスクリプション契約ユーザー向け機能です。いくつかの機能は、支援者のみが利用可能です。[詳細はこちら](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
       "Name": "Patreonアカウントとリンク",
@@ -201,7 +201,7 @@
     },
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "Subscriptions": "Bungie.netでユーザー認証し、サブスクリプションの契約管理する。",
       "Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。"
     }
   },
@@ -415,8 +415,8 @@
     "Inventory": "所持品",
     "ItemRolls": "ロール",
     "Items": "アイテム",
-    "Loadout": "🦘 Loadout",
-    "Slot": "🦘 Slot {{number}}",
+    "Loadout": "ロードアウト",
+    "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
     "Location": "ロケーション",
     "Lore": "伝承",
@@ -562,7 +562,7 @@
     "Support": {
       "Description": "Braytechは個人事業プロジェクトで運営され私自身を始め、すべてのガーディアンを手助けするために設計しています。そしてアンチ広告主義のため、自分の首を絞めてしまっています。支援をしていただくことで私の光は消えず、Destiny2の世界をより楽しめるよう、全身全霊で作ったこのサイトをもっと情熱を注ぐことができます。もし、このサイトを好きになってくれたら、と思います💖\n\n [Discord](https://discord.bray.tech) に参加したり、Braytech研究施設メンバーとしてサブスクリプション方式の活動支援をお願い致します。",
       "Name": "このサイトが良かったら、Patreonでの支援をお願いします",
-      "Action": "🦘 Become a Supporter"
+      "Action": "支援する"
     },
     "Updates": "アップデート情報",
     "Blog": {
@@ -582,8 +582,8 @@
       "Frequency": {
         "Daily": "デイリー",
         "Weekly": "ウイークリー",
-        "Monthly": "🦘 Monthly",
-        "Annually": "🦘 Annually"
+        "Monthly": "月単位",
+        "Annually": "年間契約"
       },
       "Relative": {
         "Future": "{{duration}} 後",
@@ -909,7 +909,7 @@
       "Advanced": "詳細設定",
       "PushNotifications": "プッシュ通知",
       "Referrals": "リファラル",
-      "Subscriptions": "Subscriptions"
+      "Subscriptions": "サブスクリプション"
     },
     "Developer": {
       "ExperimentalFeatures": {
@@ -1088,7 +1088,7 @@
     },
     "Referrals": {
       "Info": "ガーディアン、お前の友や大切な者をBraytechに紹介すると、馬がエンブレムコードを授けるだろう。\n\n Bungie.netにて**認証したばかりの友**にこの**リンクを紹介する**ことでその大いなる恵みに出会うだろう。",
-      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
+      "Conditions": "コードの入手および利用は、Tom(サイトオーナー)の裁量に委ねられます。紹介されたプロフィールは、ユニークでかつアクティブなプレーヤーのアカウントである必要があります。",
       "Referred": "紹介したメンバー",
       "Rewards": "入手可能な報酬"
     },
@@ -1125,17 +1125,17 @@
       "VisualFidelity": "表示設定"
     },
     "Subscriptions": {
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
       "State": {
-        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+        "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
+        "Renewing": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**更新**となります。"
       },
       "DiscordProfile": {
-        "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
+        "Connected": "連携しているDiscordアカウント",
+        "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
-      "ActiveSubscription": "🦘 Active Subscription",
-      "Tiers": "🦘 Tiers"
+      "ActiveSubscription": "サブスクリプションを発動させる",
+      "Tiers": "支援形態"
     },
     "Sync": {
       "Action": {
@@ -1172,7 +1172,7 @@
     },
     "Theme": {
       "Light": "ライト",
-      "Medium": "🦘 Medium",
+      "Medium": "ミディアム",
       "Dark": "ダーク",
       "Black": "ブラック",
       "SystemPreference": {
@@ -1219,15 +1219,15 @@
     "Actions": {
       "Acquire": "取得する",
       "Compare": "比較する",
-      "Commonality": "🦘 Commonality",
+      "Commonality": "レア度",
       "Equip": "装備",
       "Favourite": "お気に入り",
       "Garbage": "不用品",
       "Details": "詳細",
       "Lock": "ロックする",
-      "Lore": "🦘 Lore",
+      "Lore": "伝承",
       "NotGarbage": "不用品から戻す",
-      "SaveNew": "🦘 Save New",
+      "SaveNew": "新規保存する",
       "Select": "選択",
       "Store": "保管",
       "Unfavourite": "お気に入りから外す",
@@ -1340,9 +1340,9 @@
     "Subscriptions": {
       "Description": "私たちは皆、広告が嫌いです。彼らは醜い。広告はデザイン、世界を汚すものです。Patreonを通じてアプリを支援いただくことで、Braytechから広告を遠ざけることができます。一度だけの支援でも、継続的な支援でも、二束三文の支援でも構いません。",
       "Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+      "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
-      "SupportBraytech": "🦘 Support Braytech",
+      "SupportBraytech": "Braytechを支援する",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
       "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。"
     },
@@ -1367,7 +1367,7 @@
     },
     "CollectedBy": "{{number}} 人のプレイヤーが獲得しています。",
     "Commonality": "レア度",
-    "Frequency": "🦘 Frequency",
+    "Frequency": "ドロップ頻度",
     "CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
     "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
     "GraphType": {
