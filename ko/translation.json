@@ -742,8 +742,7 @@
         },
         "Name": "변경 제안"
       },
-      "RelatedVideo": "이 노드와 관련된 영상이 있습니다.",
-      "RelatedVideoAction": "영상 보기",
+      "RelatedVideo": "이 노드와 관련된 영상이 있습니다: {{url}}",
       "Vendor": {
         "NoSales": "재고 부족"
       }

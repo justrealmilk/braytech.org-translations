@@ -742,8 +742,7 @@
         },
         "Name": "提出變更"
       },
-      "RelatedVideo": "該階點有個關連的影片",
-      "RelatedVideoAction": "打開影片",
+      "RelatedVideo": "該階點有個關連的影片 {{url}}",
       "Vendor": {
         "NoSales": "新的库存."
       }

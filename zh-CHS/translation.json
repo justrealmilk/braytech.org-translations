@@ -742,8 +742,7 @@
         },
         "Name": "提出变更"
       },
-      "RelatedVideo": "该节点有一个关联视频。",
-      "RelatedVideoAction": "打开视频文件",
+      "RelatedVideo": "该节点有一个关联视频 {{url}}",
       "Vendor": {
         "NoSales": "什么都没有。"
       }

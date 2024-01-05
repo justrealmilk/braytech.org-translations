@@ -742,8 +742,7 @@
         },
         "Name": "Proposer un changement"
       },
-      "RelatedVideo": "Cet élément a une vidéo associée.",
-      "RelatedVideoAction": "Ouvrir la vidéo",
+      "RelatedVideo": "Cet élément a une vidéo associée: {{url}}",
       "Vendor": {
         "NoSales": "En rupture de stock."
       }

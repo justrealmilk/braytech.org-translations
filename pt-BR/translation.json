@@ -742,8 +742,7 @@
         },
         "Name": "Propor Mudanças"
       },
-      "RelatedVideo": "Este nódulo possui um video relacionado.",
-      "RelatedVideoAction": "Abrir Arquivo de Vídeo",
+      "RelatedVideo": "Este nódulo possui um video relacionado: {{url}}",
       "Vendor": {
         "NoSales": "Fora de Estoque."
       }

@@ -742,8 +742,7 @@
         },
         "Name": "Proponer cambios"
       },
-      "RelatedVideo": "Este nodo tiene un video asociado",
-      "RelatedVideoAction": "Abrir archivo de video",
+      "RelatedVideo": "Este nodo tiene un video asociado: {{url}}",
       "Vendor": {
         "NoSales": "Recién agotado."
       }

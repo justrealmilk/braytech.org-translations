@@ -742,8 +742,7 @@
         },
         "Name": "🦘 Propose Changes"
       },
-      "RelatedVideo": "🦘 This node has a related video.",
-      "RelatedVideoAction": "🦘 Open Video File",
+      "RelatedVideo": "🦘 This node has a related video: {{url}}",
       "Vendor": {
         "NoSales": "🦘 Fresh out of stock."
       }

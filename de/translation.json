@@ -742,8 +742,7 @@
         },
         "Name": "Änderung vorschlagen"
       },
-      "RelatedVideo": "Dieser Punkt hat ein zugehöriges Video.",
-      "RelatedVideoAction": "Video öffnen",
+      "RelatedVideo": "Dieser Punkt hat ein zugehöriges video: {{url}}",
       "Vendor": {
         "NoSales": "Kürzlich ausverkauft."
       }

@@ -742,8 +742,7 @@
         },
         "Name": "目的変更"
       },
-      "RelatedVideo": "このノードに関連した動画があります",
-      "RelatedVideoAction": "動画ファイルを開く",
+      "RelatedVideo": "このノードに関連した動画があります {{url}}",
       "Vendor": {
         "NoSales": "在庫切れになったばかりのようです。"
       }

@@ -776,7 +776,7 @@
         },
         "Name": "Pwopose Changes"
       },
-      "RelatedVideo": "This node haz a wewated video.",
+      "RelatedVideo": "This node haz a wewated video: {{url}}",
       "RelatedVideoAction": "Open Video Fiwe",
       "Vendor": {
         "NoSales": "Fwesh out of stock."
