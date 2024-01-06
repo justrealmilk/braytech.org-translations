@@ -668,12 +668,16 @@
     }
   },
   "Loading": {
+    "Error": {
+      "Description": "예상치 못한 심각한 오류로 복구 불가능한 일이 발생했습니다."
+    },
     "BungieError": {
       "Description": "현재 중요한 API 정보를 불러올 수 없습니다. 이는 간혈적인 문제입니다. 다시 시도해 주세요.\n\n이 오류가 지속되면 전체적인 API가 정지되었거나 로컬 네트워크에서 Bungie API 요청을 제한하고 있을 수 있습니다.",
       "Name": "Bungie 오류"
     },
-    "Error": {
-      "Description": "예상치 못한 심각한 오류로 복구 불가능한 일이 발생했습니다."
+    "VoluspaError": {
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."

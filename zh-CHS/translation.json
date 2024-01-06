@@ -668,12 +668,16 @@
     }
   },
   "Loading": {
+    "Error": {
+      "Description": "发生了意外不可恢复的情况"
+    },
     "BungieError": {
       "Description": "关键的 API 数据无法在此时加载。这是一个间歇性的问题。请再试一次。\n\n如果这个错误一直存在，API 可能遇到了更大范围的中断，或者你的本地网络限制了 Bungie 的 API 请求。",
       "Name": "来自 Bungie 的错误"
     },
-    "Error": {
-      "Description": "发生了意外不可恢复的情况"
+    "VoluspaError": {
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": "尝试访问浏览器存储时发生错误.\n\n 如果这一错误反复出现，您应当检查您的浏览器与本地存储权限有关的设置。"

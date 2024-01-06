@@ -668,12 +668,16 @@
     }
   },
   "Loading": {
+    "Error": {
+      "Description": "Es ist etwas sehr unerwartetes und irreparables passiert."
+    },
     "BungieError": {
       "Description": "Wesentliche API Daten konnten aktuell nicht geladen werden. Das ist ein vorübergehender Fehler. Bitte versuch es erneut.\n\nFalls das Problem weiterhin besteht, handelt es sich entweder um einen größeren Ausfall der API oder dein Netzwerk wurde wegen zu vieler Anfragen vorübergehend von Bungie blockiert.",
       "Name": "Bungie-Fehler"
     },
-    "Error": {
-      "Description": "Es ist etwas sehr unerwartetes und irreparables passiert."
+    "VoluspaError": {
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."

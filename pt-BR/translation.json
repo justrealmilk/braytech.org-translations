@@ -668,12 +668,16 @@
     }
   },
   "Loading": {
+    "Error": {
+      "Description": "Alguma coisa muito inesperada e irrecuperável aconteceu."
+    },
     "BungieError": {
       "Description": "Dados cruciais da API não puderam ser carregados no momento. Este é um problema intermitente. Por favor, tente novamente.\n\nSe o erro persistir, a API pode estar sofrendo uma vasta queda ou sua rede local pode estar restringindo requisições à API da Bungie.",
       "Name": "Erro da Bungie"
     },
-    "Error": {
-      "Description": "Alguma coisa muito inesperada e irrecuperável aconteceu."
+    "VoluspaError": {
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."

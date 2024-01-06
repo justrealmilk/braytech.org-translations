@@ -668,12 +668,16 @@
     }
   },
   "Loading": {
+    "Error": {
+      "Description": "非常に予期せず回復不能なことが発生しました。"
+    },
     "BungieError": {
       "Description": "今回、重要なAPIデータを読み込むことができませんでした。これは断続的に起こりうる問題です。しばらく待ってもこのエラーが続く場合は、Bungie API がより広い範囲で停止しているか、プレイ環境のローカルネットワークが Bungie API リクエストを制限している可能性があります。",
       "Name": "Bungie側でエラーが発生しているようです"
     },
-    "Error": {
-      "Description": "非常に予期せず回復不能なことが発生しました。"
+    "VoluspaError": {
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\n 再度このエラーが発生する場合は、お使いのブラウザや端末との相性が悪いか、設定が適切でない可能性があります。"
