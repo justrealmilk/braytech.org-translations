@@ -600,7 +600,7 @@
     "TriumphScore": "Triumph Score",
     "CollectionsScore": "Collections Score",
     "Unranked": "This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
-    "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue.",
+    "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue and will be ranked provided their progression is public.",
     "UnrankedGroup": "No one in this clan has been ranked yet.",
     "NoDifference": "No Difference",
     "ActiveProfile": {
