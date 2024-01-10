@@ -385,6 +385,7 @@
     "DateTime": "Data/Hora",
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
+    "Empty": "🦘 Empty",
     "Equipment": "Equipamento",
     "Error": "Erro",
     "Event": "Evento",
@@ -647,7 +648,6 @@
       "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
       "Name": "🦘 Rare Treasures & Exotic Style"
     },
-    "Empty": "🦘 Empty",
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
       "LargestFish": "🦘 Largest Fish",

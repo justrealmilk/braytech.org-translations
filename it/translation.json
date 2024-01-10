@@ -385,6 +385,7 @@
     "DateTime": "Data e orario",
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemi",
+    "Empty": "Vuoto",
     "Equipment": "Equipaggiamento",
     "Error": "Errore",
     "Event": "Evento",
@@ -647,7 +648,6 @@
       "Description": "Trionfa e riscatta le tue ricompense\n\nLa Terra e i mondi al di là toccati dal Viaggiatore custodiscono meravigliose stranezze e tesori mitici ricercati.\n\nIl divertimento sta nella caccia.",
       "Name": "Tesori rari e stile esotico"
     },
-    "Empty": "Vuoto",
     "Fishing": {
       "Description": "Pesca del giorno\n\nLancia una lenza con piombo, metti in mostra il tuo acquario ed entra in competizione con i tuoi compagni pescatori confrontando le catture più pesanti.",
       "LargestFish": "Pesce più grande",

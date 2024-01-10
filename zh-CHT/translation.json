@@ -385,6 +385,7 @@
     "DateTime": "時間",
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
+    "Empty": "空的",
     "Equipment": "裝備",
     "Error": "錯誤",
     "Event": "公開事件",
@@ -647,7 +648,6 @@
       "Description": "完成凱旋記錄並領取你的獎勵\n旅行者在觸及地球和其他世界擁有的奇妙事務與古怪寶藏\n樂趣在途中",
       "Name": "罕見的珍寶和異域風格"
     },
-    "Empty": "空的",
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
       "LargestFish": "🦘 Largest Fish",

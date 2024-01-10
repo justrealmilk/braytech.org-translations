@@ -385,6 +385,7 @@
     "DateTime": "Fecha y hora",
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemas",
+    "Empty": "Vacío",
     "Equipment": "Equipamiento",
     "Error": "Error",
     "Event": "Evento",
@@ -647,7 +648,6 @@
       "Description": "Triunfa y reclama tus recompensas\n\nLa Tierra y los mundos lejanos tocados por el Viajero guardan maravillosas rarezas y codiciados tesoros míticos.\n\nLa diversión está en su búsqueda.",
       "Name": "Tesoros raros y estilos exóticos"
     },
-    "Empty": "Vacío",
     "Fishing": {
       "Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
       "LargestFish": "Pez más grande",

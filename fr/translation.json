@@ -385,6 +385,7 @@
     "DateTime": "Date & Heure",
     "Emblem": "Emblème",
     "Emblem_plural": "Emblèmes",
+    "Empty": "Vide",
     "Equipment": "Équipement",
     "Error": "Erreur",
     "Event": "Évènement",
@@ -647,7 +648,6 @@
       "Description": "Triomphez et réclamez vos récompenses\n\nLa Terre et les mondes au-delà touchés par le Voyageur recèlent de merveilleuses bizarreries et des trésors mythiques recherchés.\n\nLe plaisir est dans la poursuite.",
       "Name": "Trésors Rares & Style Exotique"
     },
-    "Empty": "Vide",
     "Fishing": {
       "Description": "Prise du jour\n\nLancez une ligne lestée, montrez votre aquarium et devenez compétitif en comparant vos prises les plus lourdes avec vos camarades pêcheurs.",
       "LargestFish": "Poisson le plus grand",

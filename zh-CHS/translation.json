@@ -385,6 +385,7 @@
     "DateTime": "时间",
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
+    "Empty": "空的",
     "Equipment": "装备",
     "Error": "错误",
     "Event": "公共事件",
@@ -647,7 +648,6 @@
       "Description": "凯旋，并领取你的奖励\n地球与其他被旅行者光顾过的星球，蕴藏着奇妙的怪事和令人向往的神话宝藏\n去追寻这些乐趣吧",
       "Name": "稀有的宝藏 & 异域风格"
     },
-    "Empty": "空的",
     "Fishing": {
       "Description": "钓鱼日！\n\n拉动钓线, 装饰你的水族馆, 和你的朋友展开激动人心的钓鱼竞争！",
       "LargestFish": "最大的鱼",
