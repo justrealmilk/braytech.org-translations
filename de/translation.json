@@ -1242,6 +1242,7 @@
     },
     "Item": {
       "ExpiresIn": "Läuft in {{duration}} ab.",
+      "ItemMissing": "🦘 Item cannot be found.",
       "NoDescription": "Keine Beschreibung verfügbar.",
       "Quantity": "Anzahl",
       "QuantityMax": "Maximal"

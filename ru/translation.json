@@ -1242,6 +1242,7 @@
     },
     "Item": {
       "ExpiresIn": "Истекает через {{duration}}.",
+      "ItemMissing": "🦘 Item cannot be found.",
       "NoDescription": "Описание отсутствует.",
       "Quantity": "Количество",
       "QuantityMax": "Максимум"

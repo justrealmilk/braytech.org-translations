@@ -1242,6 +1242,7 @@
     },
     "Item": {
       "ExpiresIn": "Caduca en {{duration}}.",
+      "ItemMissing": "🦘 Item cannot be found.",
       "NoDescription": "No hay descripción disponible.",
       "Quantity": "Cantidad",
       "QuantityMax": "Cantidad máxima"

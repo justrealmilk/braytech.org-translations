@@ -1242,6 +1242,7 @@
     },
     "Item": {
       "ExpiresIn": "{{duration}} 후에 만료됩니다.",
+      "ItemMissing": "🦘 Item cannot be found.",
       "NoDescription": "설명이 없습니다.",
       "Quantity": "수량",
       "QuantityMax": "최대"

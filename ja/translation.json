@@ -1242,6 +1242,7 @@
     },
     "Item": {
       "ExpiresIn": "{{duration}}後に無効になります.",
+      "ItemMissing": "🦘 Item cannot be found.",
       "NoDescription": "説明文がありません。",
       "Quantity": "数量",
       "QuantityMax": "最大"
