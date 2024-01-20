@@ -215,24 +215,6 @@
       "ObtainFromVendor": "Obtenu depuis {{name}}"
     },
     "DiffProfile": "Vous consultez le profil de quelqu'un d'autre. Vous pouvez regarder mais si vous essayez de pousser des boutons, n'attendez pas de résultats !",
-    "Equipment": {
-      "Armor": "Armures",
-      "Auxiliary": "Accessoires",
-      "Breakdown": "Équipement",
-      "Weapons": "Armes"
-    },
-    "Filter": {
-      "ArcDamage": "Dégâts cryo-électriques",
-      "DeepsightResonance": "Souvenance",
-      "Favourite": "Favori",
-      "Garbage": "Poubelle",
-      "KineticDamage": "Dégâts cinétiques",
-      "Shaped": "Façonné",
-      "SolarDamage": "Dégâts solaires",
-      "StasisDamage": "Dégâts stasiques",
-      "StrandDamage": "Dégâts filobscurs",
-      "VoidDamage": "Dégâts abyssaux"
-    },
     "FiltersApplied": "Filtres appliqués"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "Munition",
     "AmmoType": "Type de munition",
+    "Armor": "🦘 Armor",
     "ArmorStats": "Statistiques d'armure",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "Caractéristiques de base",
     "Breaker": "Champion",
     "BreakerType": "Type de Champion",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Équipé)",
     "ClassPostmaster": "{{name}} (Commis des postes)",
@@ -547,9 +532,11 @@
     "StatTotal": "Total",
     "State": "État",
     "Stats": "Stats",
+    "Subclass": "🦘 Subclass",
     "Sunset": "Crépuscule",
     "TransferMaximumStack": "{{name}} a un nombre maximal de {{size}}. Utilisez en quelques-uns et réessayez.",
     "UndiscoveredCollectibleVendor": "Acquérez cet article pour l'ajouter à vos collections",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "Tués à l'arme",
     "WeaponStats": "Statistiques d'armes"
   },

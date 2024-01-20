@@ -215,24 +215,6 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
-    "Equipment": {
-      "Armor": "防具",
-      "Auxiliary": "所持品",
-      "Breakdown": "装備詳細",
-      "Weapons": "武器"
-    },
-    "Filter": {
-      "ArcDamage": "アークダメージ",
-      "DeepsightResonance": "共振抽出待ち",
-      "Favourite": "お気に入り",
-      "Garbage": "不用品",
-      "KineticDamage": "キネティックダメージ",
-      "Shaped": "形成した武器",
-      "SolarDamage": "ソーラーダメージ",
-      "StasisDamage": "ステイシスダメージ",
-      "StrandDamage": "ストランドダメージ",
-      "VoidDamage": "ボイドダメージ"
-    },
     "FiltersApplied": "フィルターが適用されました"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "弾薬",
     "AmmoType": "弾薬タイプ",
+    "Armor": "🦘 Armor",
     "ArmorStats": "アーマーステータス",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "基本特性",
     "Breaker": "チャンピオン属性",
     "BreakerType": "特殊属性",
     "ClassType": "クラスタイプ",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "ダメージタイプ",
     "ClassEquipped": "{{name}} (装備中)",
     "ClassPostmaster": "{{name}} (ポストマスター)",
@@ -547,9 +532,11 @@
     "StatTotal": "合計",
     "State": "状態",
     "Stats": "統計",
+    "Subclass": "🦘 Subclass",
     "Sunset": "引退",
     "TransferMaximumStack": "{{name}} は{{size}}の最大アイテム所持数に到達しました。スペースを開けてから再度お試しください。",
     "UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "武器キル数",
     "WeaponStats": "武器性能"
   },

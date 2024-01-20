@@ -215,24 +215,6 @@
       "ObtainFromVendor": "從{{name}}獲得"
     },
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
-    "Equipment": {
-      "Armor": "護甲",
-      "Auxiliary": "雜項",
-      "Breakdown": "總覽",
-      "Weapons": "武器"
-    },
-    "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
-      "DeepsightResonance": "深视",
-      "Favourite": "喜愛的裝備",
-      "Garbage": "垃圾裝備",
-      "KineticDamage": "🦘 Kinetic Damage",
-      "Shaped": "鍛造武器",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
-    },
     "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "彈藥",
     "AmmoType": "彈藥類型",
+    "Armor": "🦘 Armor",
     "ArmorStats": "護甲屬性",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "基本訊息",
     "Breaker": "職業",
     "BreakerType": "職業類型",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": " {{name}} (已解鎖)",
     "ClassPostmaster": " {{name}} (郵政官)",
@@ -547,9 +532,11 @@
     "StatTotal": "總計",
     "State": "數據",
     "Stats": "統計數據",
+    "Subclass": "🦘 Subclass",
     "Sunset": "最後賽季",
     "TransferMaximumStack": " {{name}} 的最大堆積上限為 {{size}}. 消耗掉一些物品並于稍後再試.",
     "UndiscoveredCollectibleVendor": "獲取這個物品並添加進你的收藏之中",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "武器擊殺",
     "WeaponStats": "武器屬性"
   },

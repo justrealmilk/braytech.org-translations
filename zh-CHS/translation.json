@@ -215,24 +215,6 @@
       "ObtainFromVendor": "从{{name}}获得"
     },
     "DiffProfile": "你正在查看他人的个人资料。该页面下的任意按钮点了不会有任何反应！",
-    "Equipment": {
-      "Armor": "护甲",
-      "Auxiliary": "杂项",
-      "Breakdown": "总览",
-      "Weapons": "武器"
-    },
-    "Filter": {
-      "ArcDamage": "电弧属性武器",
-      "DeepsightResonance": "深视",
-      "Favourite": "喜爱的装备",
-      "Garbage": "垃圾装备",
-      "KineticDamage": "动能属性武器",
-      "Shaped": "锻造武器",
-      "SolarDamage": "烈日属性武器",
-      "StasisDamage": "冰影属性武器",
-      "StrandDamage": "缚丝伤害武器",
-      "VoidDamage": "虚空属性武器"
-    },
     "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "弹药",
     "AmmoType": "弹药类型",
+    "Armor": "🦘 Armor",
     "ArmorStats": "护甲属性",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "基本信息",
     "Breaker": "职业",
     "BreakerType": "职业类型",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (已解锁)",
     "ClassPostmaster": "{{name}} (邮政官)",
@@ -547,9 +532,11 @@
     "StatTotal": "总计",
     "State": "数据",
     "Stats": "统计数据",
+    "Subclass": "🦘 Subclass",
     "Sunset": "退环境",
     "TransferMaximumStack": " {{name}} 的最大堆积上限为 {{size}}。消耗掉一些物品并于稍后再试。",
     "UndiscoveredCollectibleVendor": "获取这个物品并添加进你的收藏之中",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "武器击杀",
     "WeaponStats": "武器属性"
   },

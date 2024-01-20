@@ -215,24 +215,6 @@
       "ObtainFromVendor": "Bezogen von {{name}}"
     },
     "DiffProfile": "Du schaust dir das Profil von einem anderen Spieler an. Du kannst dich umschauen, aber wenn du versuchst, Knöpfe zu drücken, erwarte keine Ergebnisse!",
-    "Equipment": {
-      "Armor": "Rüstung",
-      "Auxiliary": "Hilfsmittel",
-      "Breakdown": "Aufschlüsselung",
-      "Weapons": "Waffen"
-    },
-    "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
-      "DeepsightResonance": "Tiefenblick",
-      "Favourite": "Favorit",
-      "Garbage": "Müll",
-      "KineticDamage": "🦘 Kinetic Damage",
-      "Shaped": "Geformt",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
-    },
     "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "Munition",
     "AmmoType": "Munitionsart",
+    "Armor": "🦘 Armor",
     "ArmorStats": "Rüstungswerte",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "Grundlegende Eigenschaften",
     "Breaker": "Brecher",
     "BreakerType": "Brecher Typ",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": "{{name}} (Ausgerüstet)",
     "ClassPostmaster": "{{name}} (Poststelle)",
@@ -547,9 +532,11 @@
     "StatTotal": "Total",
     "State": "Zustand",
     "Stats": "Statistiken",
+    "Subclass": "🦘 Subclass",
     "Sunset": "Untergang",
     "TransferMaximumStack": "{{name}} hat eine maximale Stapelgröße von {{size}}. Verbrauch einige Gegenstände und versuche es erneut.",
     "UndiscoveredCollectibleVendor": "Erwirb diesen Gegenstand, um ihn zu den Sammlungen hinzuzufügen",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "Waffen Kills",
     "WeaponStats": "Waffenwerte"
   },

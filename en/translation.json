@@ -215,24 +215,6 @@
       "ObtainFromVendor": "Obtain From {{name}}"
     },
     "DiffProfile": "You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Equipment": {
-      "Armor": "Armor",
-      "Auxiliary": "Auxiliary",
-      "Breakdown": "Breakdown",
-      "Weapons": "Weapons"
-    },
-    "Filter": {
-      "ArcDamage": "Arc Damage",
-      "DeepsightResonance": "Deepsight",
-      "Favourite": "Favourite",
-      "Garbage": "Garbage",
-      "KineticDamage": "Kinetic Damage",
-      "Shaped": "Shaped",
-      "SolarDamage": "Solar Damage",
-      "StasisDamage": "Stasis Damage",
-      "StrandDamage": "Strand Damage",
-      "VoidDamage": "Void Damage"
-    },
     "FiltersApplied": "Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "Ammo",
     "AmmoType": "Ammo Type",
+    "Armor": "Armor",
     "ArmorStats": "Armor Stats",
+    "Appearance": "Appearance",
     "BasicCharacteristics": "Basic Characteristics",
     "Breaker": "Breaker",
     "BreakerType": "Breaker Type",
     "ClassType": "Class Type",
+    "CumulativeStats": "Cumulative Stats",
     "DamageType": "Damage Type",
     "ClassEquipped": "{{name}} (Equipped)",
     "ClassPostmaster": "{{name}} (Postmaster)",
@@ -547,9 +532,11 @@
     "StatTotal": "Total",
     "State": "State",
     "Stats": "Stats",
+    "Subclass": "Subclass",
     "Sunset": "Sunset",
     "TransferMaximumStack": "{{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
     "UndiscoveredCollectibleVendor": "Acquire this item to add it to your Collections",
+    "Weapons": "Weapons",
     "WeaponKills": "Weapon Kills",
     "WeaponStats": "Weapon Stats"
   },

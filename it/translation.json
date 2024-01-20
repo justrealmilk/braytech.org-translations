@@ -215,24 +215,6 @@
       "ObtainFromVendor": "Ottieni da {{name}}"
     },
     "DiffProfile": "Stai visualizzando il profilo di qualcun altro. Puoi guardare ma se provi a premere i pulsanti, non aspettarti risultati!",
-    "Equipment": {
-      "Armor": "Armature",
-      "Auxiliary": "Extra",
-      "Breakdown": "Sommario",
-      "Weapons": "Armi"
-    },
-    "Filter": {
-      "ArcDamage": "Danni ad arco",
-      "DeepsightResonance": "Vista profonda",
-      "Favourite": "Preferito",
-      "Garbage": "Da buttare",
-      "KineticDamage": "Danni cinetici",
-      "Shaped": "Forgiato",
-      "SolarDamage": "Danni solari",
-      "StasisDamage": "Danni da stasi",
-      "StrandDamage": "Danni da telascura",
-      "VoidDamage": "Danni da vuoto"
-    },
     "FiltersApplied": "Filtri applicati"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "Munizioni",
     "AmmoType": "Tipo munizioni",
+    "Armor": "🦘 Armor",
     "ArmorStats": "Statistiche Armatura",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "Caratteristiche Base",
     "Breaker": "Anti-campione",
     "BreakerType": "Capacità anti-campione",
     "ClassType": "Tipo di classe",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "Tipo di danno",
     "ClassEquipped": "{{name}} (equipaggiato)",
     "ClassPostmaster": "{{name}} (amministratore)",
@@ -547,9 +532,11 @@
     "StatTotal": "Totale",
     "State": "Stato",
     "Stats": "Statistiche",
+    "Subclass": "🦘 Subclass",
     "Sunset": "Stagione massima",
     "TransferMaximumStack": "{{name}} può avere una quantità massima di {{size}}. Consumane alcuni e riprova.",
     "UndiscoveredCollectibleVendor": "Acquisisci questo oggetto per aggiungerlo alle tue Collezioni",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "Uccisioni Arma",
     "WeaponStats": "Statistiche Arma"
   },

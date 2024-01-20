@@ -215,24 +215,6 @@
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Equipment": {
-      "Armor": "방어구",
-      "Auxiliary": "🦘 Auxiliary",
-      "Breakdown": "🦘 Breakdown",
-      "Weapons": "무기"
-    },
-    "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
-      "DeepsightResonance": "심안",
-      "Favourite": "🦘 Favourite",
-      "Garbage": "🦘 Garbage",
-      "KineticDamage": "🦘 Kinetic Damage",
-      "Shaped": "제작",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
-    },
     "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "탄약",
     "AmmoType": "사용 탄약",
+    "Armor": "🦘 Armor",
     "ArmorStats": "방어구 스텟",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "대 용사 속성",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
@@ -547,9 +532,11 @@
     "StatTotal": "총",
     "State": "🦘 State",
     "Stats": "능력치",
+    "Subclass": "🦘 Subclass",
     "Sunset": "시즌 전투력 상한선",
     "TransferMaximumStack": "{{name}}는/은 한번에 최대 {{size}}개를 소지할 수 있습니다. 먼저 조금 사용하신 뒤 다시 시도.",
     "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "무기로 처치",
     "WeaponStats": "최대 사용 가능한 시즌"
   },

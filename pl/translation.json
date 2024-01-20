@@ -215,24 +215,6 @@
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Equipment": {
-      "Armor": "🦘 Armor",
-      "Auxiliary": "🦘 Auxiliary",
-      "Breakdown": "🦘 Breakdown",
-      "Weapons": "🦘 Weapons"
-    },
-    "Filter": {
-      "ArcDamage": "🦘 Arc Damage",
-      "DeepsightResonance": "🦘 Deepsight",
-      "Favourite": "🦘 Favourite",
-      "Garbage": "🦘 Garbage",
-      "KineticDamage": "🦘 Kinetic Damage",
-      "Shaped": "🦘 Shaped",
-      "SolarDamage": "🦘 Solar Damage",
-      "StasisDamage": "🦘 Stasis Damage",
-      "StrandDamage": "🦘 Strand Damage",
-      "VoidDamage": "🦘 Void Damage"
-    },
     "FiltersApplied": "🦘 Filters Applied"
   },
   "Clan": {
@@ -513,11 +495,14 @@
   "Item": {
     "Ammo": "🦘 Ammo",
     "AmmoType": "🦘 사용 탄약",
+    "Armor": "🦘 Armor",
     "ArmorStats": "🦘 방어구 스텟",
+    "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "🦘 기본 속성",
     "Breaker": "🦘 Breaker",
     "BreakerType": "🦘 대 용사 속성",
     "ClassType": "🦘 Class Type",
+    "CumulativeStats": "🦘 Cumulative Stats",
     "DamageType": "🦘 Damage Type",
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
@@ -547,9 +532,11 @@
     "StatTotal": "🦘 총",
     "State": "🦘 State",
     "Stats": "🦘 Stats",
+    "Subclass": "🦘 Subclass",
     "Sunset": "🦘 시즌 전투력 상한선",
     "TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
     "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
+    "Weapons": "🦘 Weapons",
     "WeaponKills": "🦘 Weapon Kills",
     "WeaponStats": "🦘 최대 사용 가능한 시즌"
   },
