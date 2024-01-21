@@ -399,6 +399,7 @@
     "ItemRolls": "Equipamiento aleatorio",
     "Items": "Objetos",
     "Loadout": "🦘 Loadout",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Nivel {{number}}",
     "Location": "Localización",

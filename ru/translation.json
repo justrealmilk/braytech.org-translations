@@ -399,6 +399,7 @@
     "ItemRolls": "Характеристики",
     "Items": "Предметы",
     "Loadout": "Комплект",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "Ячейка {{number}}",
     "LevelNth": "Уровень {{number}}",
     "Location": "Локация",

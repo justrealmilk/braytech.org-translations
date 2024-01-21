@@ -399,6 +399,7 @@
     "ItemRolls": "ロール",
     "Items": "アイテム",
     "Loadout": "ロードアウト",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
     "Location": "ロケーション",

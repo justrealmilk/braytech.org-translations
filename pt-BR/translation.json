@@ -399,6 +399,7 @@
     "ItemRolls": "Rolls",
     "Items": "Itens",
     "Loadout": "🦘 Loadout",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Level {{number}}",
     "Location": "Localização",

@@ -399,6 +399,7 @@
     "ItemRolls": "物品特性",
     "Items": "物品",
     "Loadout": "🦘 Loadout",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Lv.{{number}}",
     "Location": "位置",

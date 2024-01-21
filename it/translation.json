@@ -399,6 +399,7 @@
     "ItemRolls": "Caratteristiche",
     "Items": "Oggetti",
     "Loadout": "🦘 Loadout",
+    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Livello {{number}}",
     "Location": "Luogo",
