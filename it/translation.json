@@ -215,7 +215,8 @@
       "ObtainFromVendor": "Ottieni da {{name}}"
     },
     "DiffProfile": "Stai visualizzando il profilo di qualcun altro. Puoi guardare ma se provi a premere i pulsanti, non aspettarti risultati!",
-    "FiltersApplied": "Filtri applicati"
+    "FiltersApplied": "Filtri applicati",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {

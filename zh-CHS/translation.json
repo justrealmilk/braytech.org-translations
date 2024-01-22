@@ -215,7 +215,8 @@
       "ObtainFromVendor": "从{{name}}获得"
     },
     "DiffProfile": "你正在查看他人的个人资料。该页面下的任意按钮点了不会有任何反应！",
-    "FiltersApplied": "🦘 Filters Applied"
+    "FiltersApplied": "🦘 Filters Applied",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {

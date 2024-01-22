@@ -215,7 +215,8 @@
       "ObtainFromVendor": "從{{name}}獲得"
     },
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
-    "FiltersApplied": "🦘 Filters Applied"
+    "FiltersApplied": "🦘 Filters Applied",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {

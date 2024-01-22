@@ -215,7 +215,8 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
-    "FiltersApplied": "フィルターが適用されました"
+    "FiltersApplied": "フィルターが適用されました",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {

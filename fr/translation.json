@@ -215,7 +215,8 @@
       "ObtainFromVendor": "Obtenu depuis {{name}}"
     },
     "DiffProfile": "Vous consultez le profil de quelqu'un d'autre. Vous pouvez regarder mais si vous essayez de pousser des boutons, n'attendez pas de résultats !",
-    "FiltersApplied": "Filtres appliqués"
+    "FiltersApplied": "Filtres appliqués",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {

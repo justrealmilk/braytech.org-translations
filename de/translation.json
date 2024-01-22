@@ -215,7 +215,8 @@
       "ObtainFromVendor": "Bezogen von {{name}}"
     },
     "DiffProfile": "Du schaust dir das Profil von einem anderen Spieler an. Du kannst dich umschauen, aber wenn du versuchst, Knöpfe zu drücken, erwarte keine Ergebnisse!",
-    "FiltersApplied": "🦘 Filters Applied"
+    "FiltersApplied": "🦘 Filters Applied",
+    "Placeholder": "🦘 enter item name"
   },
   "Clan": {
     "Administration": {
