@@ -325,7 +325,8 @@
     "Received": "已收到嘉奖",
     "ReceivedAbr": "已收到",
     "Sent": "已送出嘉奖",
-    "SentAbr": "已送出"
+    "ScoreCardSend": "🦘 Send for **{{number}}** score",
+    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
   },
   "Common": {
     "CurrentRankNth": "当前等级: {{value}}",
