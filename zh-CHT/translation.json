@@ -903,7 +903,6 @@
       "Common": "普通",
       "Advanced": "高級",
       "PushNotifications": "推送通知",
-      "Referrals": "🦘 Referrals",
       "Subscriptions": "Subscriptions"
     },
     "Developer": {
@@ -1080,12 +1079,6 @@
       "NoReports": "此設備上未存儲任何報告.",
       "ReportsCount": "計數",
       "ReportsMember": "成員"
-    },
-    "Referrals": {
-      "Info": "🦘 Introduce your friends and family to Braytech, and the horse shall reward you with emblem codes.\n\n**Share your unique referral link** with the uninitiated and if they **Authenticate** with Bungie.net, you'll be one body closer to reaping sweet rewards.",
-      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
-      "Referred": "🦘 Members Referred",
-      "Rewards": "🦘 Available Rewards"
     },
     "Search": {
       "HideFeatureSuggestions": {

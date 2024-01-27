@@ -903,7 +903,6 @@
       "Common": "General",
       "Advanced": "Avanzado",
       "PushNotifications": "Notificaciones push",
-      "Referrals": "Recomienda a un amigo",
       "Subscriptions": "Subscriptions"
     },
     "Developer": {
@@ -1080,12 +1079,6 @@
       "NoReports": "No hay informes almacenados en este dispositivo.",
       "ReportsCount": "Cantidad",
       "ReportsMember": "Miembro"
-    },
-    "Referrals": {
-      "Info": "Recomienda Braytech a tus amigos y familiares, y el caballo te recompensará con códigos de emblemas.\n\n**Comparte tu enlace de recomendación** con los no iniciados y si se **Autentifican** con Bungie.net, estarás más cerca de obtener dulces recompensas.",
-      "Conditions": "🦘 Code availability and redemption is at the discretion of Tom. To be eligible, referred profiles need to be played by unique, active players.",
-      "Referred": "Miembros invitados",
-      "Rewards": "Recompensas disponibles"
     },
     "Search": {
       "HideFeatureSuggestions": {

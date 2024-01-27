@@ -903,7 +903,6 @@
       "Common": "共通設定",
       "Advanced": "詳細設定",
       "PushNotifications": "プッシュ通知",
-      "Referrals": "リファラル",
       "Subscriptions": "サブスクリプション"
     },
     "Developer": {
@@ -1080,12 +1079,6 @@
       "NoReports": "このデバイスにレポートデータがありません。",
       "ReportsCount": "カウント",
       "ReportsMember": "メンバー"
-    },
-    "Referrals": {
-      "Info": "ガーディアン、お前の友や大切な者をBraytechに紹介すると、馬がエンブレムコードを授けるだろう。\n\n Bungie.netにて**認証したばかりの友**にこの**リンクを紹介する**ことでその大いなる恵みに出会うだろう。",
-      "Conditions": "コードの入手および利用は、Tom(サイトオーナー)の裁量に委ねられます。紹介されたプロフィールは、ユニークでかつアクティブなプレーヤーのアカウントである必要があります。",
-      "Referred": "紹介したメンバー",
-      "Rewards": "入手可能な報酬"
     },
     "Search": {
       "HideFeatureSuggestions": {

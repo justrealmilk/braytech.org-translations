@@ -903,7 +903,6 @@
       "Common": "Comuni",
       "Advanced": "Avanzate",
       "PushNotifications": "Notifiche push",
-      "Referrals": "Affiliazioni",
       "Subscriptions": "Subscriptions"
     },
     "Developer": {
@@ -1080,12 +1079,6 @@
       "NoReports": "Non è stato trovato nessun riepilogo salvato su questo dispositivo.",
       "ReportsCount": "Nº riepiloghi",
       "ReportsMember": "Profilo"
-    },
-    "Referrals": {
-      "Info": "Introduci amici e famiglia a Braytech e il cavallo ti donerà codici per emblemi.\n\n**Condividi il tuo link unico di affiliazione** con i novizi e, se si sono **autenticati** tramite Bungie.net, sarai di una persona più vicino a delle succulente ricompense.\n\nUnisciti al [server Discord](https://discord.bray.tech) per riscuotere ricompense.",
-      "Conditions": "La disponibilità e il riscatto dei codici sono a discrezione di Tom. Per essere idonei, i profili riferiti devono essere usati da giocatori unici e attivi.",
-      "Referred": "Membri riferiti",
-      "Rewards": "Ricompense disponibili"
     },
     "Search": {
       "HideFeatureSuggestions": {
