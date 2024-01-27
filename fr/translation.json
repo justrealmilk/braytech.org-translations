@@ -325,7 +325,9 @@
     "Received": "Reçus",
     "ReceivedAbr": "Reç.",
     "Sent": "Envoyés",
-    "SentAbr": "Env."
+    "SentAbr": "Env.",
+    "ScoreCardSend": "🦘 Send for **{{number}}** score",
+    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
   },
   "Common": {
     "CurrentRankNth": "Rang actuel: {{value}}",
