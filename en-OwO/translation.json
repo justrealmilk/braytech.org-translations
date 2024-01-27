@@ -934,11 +934,6 @@
     "SeasonProgressDays": "Days"
   },
   "Settings": {
-    "Category": {
-      "Referrals": {
-        "Name": "Wefewwaws"
-      }
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "Stawt using featuwes which may not yet be pwopewwy devewoped, wefined, ow quawity checked.",
@@ -1103,11 +1098,6 @@
       },
       "ServiceWorkerInstalling": "A sewvice wowkew is instawwing. Pwease wait.",
       "Users": "Usews"
-    },
-    "Referrals": {
-      "Info": "Intwoduce uuw fwiends and famiwy to Bwaytech, and da howse shaww wewawd uu with embwem codes.\n\n**Shawe uuw unique wefewwaw wink** with da uninitiated and if they **Authenticate** with Bungie.net, uu'ww *sweats* be one body cwosew to weaping sweet wewawds.",
-      "Referred": "Membews Wefewwed",
-      "Rewards": "Avaiwabwe Wewawds"
     },
     "ReloadRequired": {
       "Description": "Sewect wewoad app to activate uuw changes immediatewy.",
