@@ -325,8 +325,7 @@
     "Received": "受け取った",
     "ReceivedAbr": "受領",
     "Sent": "贈った",
-    "ScoreCardSend": "🦘 Send for **{{number}}** score",
-    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
+    "SentAbr": "進呈"
   },
   "Common": {
     "CurrentRankNth": "現在のランク: {{value}}",
