@@ -557,6 +557,8 @@
       "Name": "🦘 Are you a fan? Show your support",
       "Action": "🦘 Become a Supporter"
     },
+    "Polls": "🦘 Polls",
+    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
     "Updates": "업데이트 내역",
     "Blog": {
       "AllPosts": "모든 게시글",

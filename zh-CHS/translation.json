@@ -557,6 +557,8 @@
       "Name": "🦘 Are you a fan? Show your support",
       "Action": "🦘 Become a Supporter"
     },
+    "Polls": "🦘 Polls",
+    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
     "Updates": "最近更新",
     "Blog": {
       "AllPosts": "所有文章",

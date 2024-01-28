@@ -557,6 +557,8 @@
       "Name": "このサイトが良かったら、Patreonでの支援をお願いします",
       "Action": "支援する"
     },
+    "Polls": "🦘 Polls",
+    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
     "Updates": "アップデート情報",
     "Blog": {
       "AllPosts": "すべての記事",
