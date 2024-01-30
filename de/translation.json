@@ -902,12 +902,6 @@
     "SeasonProgressDays": "Tage"
   },
   "Settings": {
-    "Category": {
-      "Common": "Gewöhnlich",
-      "Advanced": "Erweitert",
-      "PushNotifications": "🦘 Push Notifications",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",

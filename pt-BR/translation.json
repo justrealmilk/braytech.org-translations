@@ -902,12 +902,6 @@
     "SeasonProgressDays": "Dias"
   },
   "Settings": {
-    "Category": {
-      "Common": "Básico",
-      "Advanced": "Avançado",
-      "PushNotifications": "Notificações",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "Comece a usar recursos que ainda não foram desenvolvidos, refinados ou verificados adequadamente.",

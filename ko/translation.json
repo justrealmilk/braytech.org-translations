@@ -902,12 +902,6 @@
     "SeasonProgressDays": "일"
   },
   "Settings": {
-    "Category": {
-      "Common": "일반",
-      "Advanced": "고급",
-      "PushNotifications": "알림",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",

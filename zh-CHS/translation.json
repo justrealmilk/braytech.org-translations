@@ -902,12 +902,6 @@
     "SeasonProgressDays": "天"
   },
   "Settings": {
-    "Category": {
-      "Common": "普通",
-      "Advanced": "高级",
-      "PushNotifications": "推送通知",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "开始使用可能仍未开发完毕、改善或检查质量的特性。",

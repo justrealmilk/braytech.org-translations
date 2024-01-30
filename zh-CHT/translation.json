@@ -902,12 +902,6 @@
     "SeasonProgressDays": "天"
   },
   "Settings": {
-    "Category": {
-      "Common": "普通",
-      "Advanced": "高級",
-      "PushNotifications": "推送通知",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "開始使用可能仍未開發完畢，改善或檢查質量的特性",

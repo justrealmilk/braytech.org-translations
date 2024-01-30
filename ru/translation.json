@@ -902,12 +902,6 @@
     "SeasonProgressDays": "дней"
   },
   "Settings": {
-    "Category": {
-      "Common": "Основные",
-      "Advanced": "Дополнительные",
-      "PushNotifications": "Push-уведомления",
-      "Subscriptions": "Subscriptions"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "Начать использовать функции, которые ещё не до конца разработаны, отполированы и проверены.",

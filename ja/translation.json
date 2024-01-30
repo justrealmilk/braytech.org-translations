@@ -902,12 +902,6 @@
     "SeasonProgressDays": "日経過"
   },
   "Settings": {
-    "Category": {
-      "Common": "共通設定",
-      "Advanced": "詳細設定",
-      "PushNotifications": "プッシュ通知",
-      "Subscriptions": "サブスクリプション"
-    },
     "Developer": {
       "ExperimentalFeatures": {
         "Description": "まだ開発途中や、改良、品質チェックされていない可能性のある機能の使用する。",
