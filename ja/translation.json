@@ -1333,11 +1333,11 @@
       "Description": "自分の目標やその他の進捗データを確認したいですか？Bungie.netを使ってBraytechを認証し、プロフィールデータを安全に読み取れるようにしましょう。"
     },
     "Subscriptions": {
-      "Description": "私たちは皆、広告が嫌いです。彼らは醜い。広告はデザイン、世界を汚すものです。Patreonを通じてアプリを支援いただくことで、Braytechから広告を遠ざけることができます。一度だけの支援でも、継続的な支援でも、二束三文の支援でも構いません。",
-      "Name": "Braytechを広告のないサイトとして継続できるよう、ご協力をお願いします。",
+      "SupportBraytech": "Braytechを支援する",
+      "BuildBraytech": "🦘 Build Braytech",
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enabling work on new features, and keeps the developer alive and housed!",
       "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
-      "SupportBraytech": "Braytechを支援する",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
       "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。"
     },

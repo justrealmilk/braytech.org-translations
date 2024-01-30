@@ -1333,11 +1333,11 @@
       "Description": "🦘 Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data."
     },
     "Subscriptions": {
-      "Description": "🦘 We all hate ads. They're ugly. They're annoying. They collect your data and sell it to third parties.\n\nI would never threaten you with adding ads to Braytech, but your contributions do directly support my family by paying rent, electricity, water, and health bills. Whether it's a one time thing or an ongoing commitment, every **couple of dollars** helps!",
-      "Name": "🦘 Love Braytech?",
+      "SupportBraytech": "🦘 Support Braytech",
+      "BuildBraytech": "🦘 Build Braytech",
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enabling work on new features, and keeps the developer alive and housed!",
       "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
       "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
       "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },

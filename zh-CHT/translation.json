@@ -1333,11 +1333,11 @@
       "Description": "想查詢您的目標和其他數據進度嗎？通過Bungie.net進行身份驗證，並允許Braytech安全獲取您的個人游戲數據資料."
     },
     "Subscriptions": {
-      "Description": "我們都討厭廣告。他們很醜。他們很煩人。他們收集您的數據並將其出售給第三方。\n\n透過 Patreon 支援該應用程式，協助他們遠離 Braytech。無論是一次性的事情還是持續的承諾，每兩美元都會有所幫助！",
-      "Name": "保持無廣告",
+      "SupportBraytech": "🦘 Support Braytech",
+      "BuildBraytech": "🦘 Build Braytech",
+      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enabling work on new features, and keeps the developer alive and housed!",
       "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
       "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "SupportBraytech": "🦘 Support Braytech",
       "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
       "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
     },
