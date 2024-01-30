@@ -1126,6 +1126,7 @@
         "Disconnected": "Connetti il tuo profilo Discord usando il comando `/register_discord_with_voluspa` nel [server](https://discord.bray.tech) Discord."
       },
       "ActiveSubscription": "Abbonamento attivo",
+      "Benefits": "🦘 Benefits",
       "Tiers": "Livelli"
     },
     "Sync": {
@@ -1339,7 +1340,8 @@
       "RewardSeraph": "Sblocca la medaglia **Serafino**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
       "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
       "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
-      "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?"
+      "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?",
+      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
     },
     "Profile": {
       "Action": "Seleziona il tuo personaggio",

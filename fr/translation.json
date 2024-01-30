@@ -1126,6 +1126,7 @@
         "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
       "ActiveSubscription": "🦘 Active Subscription",
+      "Benefits": "🦘 Benefits",
       "Tiers": "🦘 Tiers"
     },
     "Sync": {
@@ -1339,7 +1340,8 @@
       "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
       "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée Warmind ultra.",
       "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?"
+      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe we could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
+      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
     },
     "Profile": {
       "Action": "Sélectionner votre personnage",

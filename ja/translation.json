@@ -1126,6 +1126,7 @@
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
       "ActiveSubscription": "サブスクリプションを発動させる",
+      "Benefits": "🦘 Benefits",
       "Tiers": "支援形態"
     },
     "Sync": {
@@ -1339,7 +1340,8 @@
       "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
-      "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。"
+      "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。",
+      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
     },
     "Profile": {
       "Action": "キャラクターを選ぶ",
