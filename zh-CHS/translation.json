@@ -1221,7 +1221,9 @@
       "Store": "寄存",
       "Unfavourite": "取消收藏",
       "Unlock": "解锁",
-      "Vault": "保险库"
+      "Vault": "保险库",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "在 {{duration}} 后过期",

@@ -1221,7 +1221,9 @@
       "Store": "Transferir",
       "Unfavourite": "Quitar de favoritos",
       "Unlock": "Desbloquear",
-      "Vault": "Al depósito"
+      "Vault": "Al depósito",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "Caduca en {{duration}}.",

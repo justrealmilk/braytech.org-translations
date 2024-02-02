@@ -1221,7 +1221,9 @@
       "Store": "Stocker",
       "Unfavourite": "Retirer des favoris",
       "Unlock": "Débloquer",
-      "Vault": "Mettre au coffre"
+      "Vault": "Mettre au coffre",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "Expire dans {{duration}}.",

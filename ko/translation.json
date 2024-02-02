@@ -1221,7 +1221,9 @@
       "Store": "이동",
       "Unfavourite": "🦘 Unfavourite",
       "Unlock": "잠금 해제",
-      "Vault": "보관"
+      "Vault": "보관",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "{{duration}} 후에 만료됩니다.",

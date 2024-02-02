@@ -1221,7 +1221,9 @@
       "Store": "Store",
       "Unfavourite": "Unfavourite",
       "Unlock": "Unlock",
-      "Vault": "Vault"
+      "Vault": "Vault",
+      "Track": "Track",
+      "Hide": "Hide"
     },
     "Item": {
       "ExpiresIn": "Expires in {{duration}}.",

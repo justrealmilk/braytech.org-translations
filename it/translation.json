@@ -1221,7 +1221,9 @@
       "Store": "Sposta",
       "Unfavourite": "Rimuovi dai preferiti",
       "Unlock": "Sblocca",
-      "Vault": "Deposita"
+      "Vault": "Deposita",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "Scade tra {{duration}}.",

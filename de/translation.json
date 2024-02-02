@@ -1221,7 +1221,9 @@
       "Store": "Ablegen",
       "Unfavourite": "Entfavorisieren",
       "Unlock": "Entsperren",
-      "Vault": "Tresor"
+      "Vault": "Tresor",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "Läuft in {{duration}} ab.",

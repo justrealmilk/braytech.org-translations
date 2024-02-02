@@ -1221,7 +1221,9 @@
       "Store": "Guardar",
       "Unfavourite": "Desfavoritar",
       "Unlock": "Destravar",
-      "Vault": "Cofre"
+      "Vault": "Cofre",
+      "Track": "🦘 Track",
+      "Hide": "🦘 Hide"
     },
     "Item": {
       "ExpiresIn": "Expira em {{duration}}.",
