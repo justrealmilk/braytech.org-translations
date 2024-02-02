@@ -1317,6 +1317,7 @@
       }
     },
     "NoTrackedRecords": "추적중인 업적이 없습니다!",
+    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "추적중인 업적",
     "Triumph_plural": "업적",
     "UnobtainableTriumphs": "획득 불가능",

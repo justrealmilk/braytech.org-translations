@@ -215,7 +215,7 @@
       "ObtainFromVendor": "Bezogen von {{name}}"
     },
     "DiffProfile": "Du schaust dir das Profil von einem anderen Spieler an. Du kannst dich umschauen, aber wenn du versuchst, Knöpfe zu drücken, erwarte keine Ergebnisse!",
-    "FiltersApplied": "Gefiltert",  
+    "FiltersApplied": "Gefiltert",
     "Placeholder": "Item-name eingeben"
   },
   "Clan": {
@@ -1317,6 +1317,7 @@
       }
     },
     "NoTrackedRecords": "Du hast noch keine Triumphe markiert!",
+    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "Markierte Triumphe",
     "Triumph_plural": "Triumphe",
     "UnobtainableTriumphs": "Unerreichbar",

@@ -1317,6 +1317,7 @@
       }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录！",
+    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "已跟踪记录",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",

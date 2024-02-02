@@ -1317,6 +1317,7 @@
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
+    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "追跡中の勝利の道のり",
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
