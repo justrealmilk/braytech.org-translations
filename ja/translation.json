@@ -216,7 +216,7 @@
     },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "FiltersApplied": "フィルターが適用されました",
-    "Placeholder": "🦘 enter item name"
+    "Placeholder": "アイテム検索ワード"
   },
   "Clan": {
     "Administration": {
@@ -326,8 +326,8 @@
     "ReceivedAbr": "受領",
     "Sent": "贈った",
     "SentAbr": "進呈",
-    "ScoreCardSend": "🦘 Send for **{{number}}** score",
-    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
+    "ScoreCardSend": "贈ると**{{number}}**スコア",
+    "ScoreCardReceived": "貰うと**{{number}}**スコア"
   },
   "Common": {
     "CurrentRankNth": "現在のランク: {{value}}",
@@ -402,7 +402,7 @@
     "ItemRolls": "ロール",
     "Items": "アイテム",
     "Loadout": "ロードアウト",
-    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
+    "LoadoutSlotPreview": "ロードアウトスロット{{number}}のプレビュー",
     "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
     "Location": "ロケーション",
@@ -441,9 +441,9 @@
     "ScoreValue": "スコア値",
     "Screenshot": "スクリーショット",
     "Search": "検索",
-    "Season": "🦘 Season",
+    "Season": "シーズン",
     "SeasonNth": "シーズン {{number}} ",
-    "Year": "🦘 Year",
+    "Year": "Year",
     "SeasonPass": "シーズンパス",
     "SeasonRank": "シーズンランク",
     "Season_plural": "シーズン",
@@ -500,14 +500,14 @@
   "Item": {
     "Ammo": "弾薬",
     "AmmoType": "弾薬タイプ",
-    "Armor": "🦘 Armor",
+    "Armor": "アーマー",
     "ArmorStats": "アーマーステータス",
-    "Appearance": "🦘 Appearance",
+    "Appearance": "外観",
     "BasicCharacteristics": "基本特性",
     "Breaker": "チャンピオン属性",
     "BreakerType": "特殊属性",
     "ClassType": "クラスタイプ",
-    "CumulativeStats": "🦘 Cumulative Stats",
+    "CumulativeStats": "累積ステータス値",
     "DamageType": "ダメージタイプ",
     "ClassEquipped": "{{name}} (装備中)",
     "ClassPostmaster": "{{name}} (ポストマスター)",
@@ -533,16 +533,16 @@
     "Perks": "パーク",
     "PowerLimit": "パワーリミット",
     "RedeemWithCode": "[https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) で、コード`{{code}}`を入力するとエンブレムが入手できます。",
-    "Shaped": "🦘 Shaped",
+    "Shaped": "形成武器",
     "ShapedDate": "初回形成日 {{date}}",
     "StatTotal": "合計",
     "State": "状態",
     "Stats": "統計",
-    "Subclass": "🦘 Subclass",
+    "Subclass": "サブクラス",
     "Sunset": "引退",
     "TransferMaximumStack": "{{name}} は{{size}}の最大アイテム所持数に到達しました。スペースを開けてから再度お試しください。",
     "UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
-    "Weapons": "🦘 Weapons",
+    "Weapons": "武器",
     "WeaponKills": "武器キル数",
     "WeaponStats": "武器性能"
   },
@@ -558,8 +558,8 @@
       "Name": "このサイトが良かったら、Patreonでの支援をお願いします",
       "Action": "支援する"
     },
-    "Polls": "🦘 Polls",
-    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
+    "Polls": "アンケート",
+    "PollsChannel": "投票や[Discord](https://discord.bray.tech)サーバーに参加してBraytechの改善にご協力ください。",
     "Updates": "アップデート情報",
     "Blog": {
       "AllPosts": "すべての記事",
@@ -671,8 +671,8 @@
       "Name": "Bungie側でエラーが発生しているようです"
     },
     "VoluspaError": {
-      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
-      "Name": "🦘 Voluspa Error"
+      "Description": "BraytechからVoluspaネットワークに接続できませんでした。ネットワーク接続を遮断しているものが無いかご確認ください",
+      "Name": "Voluspaエラー"
     },
     "IndexedDBError": {
       "Description": "ブラウザのストレージにアクセスしようとしたところ、何か問題が発生しました。\n\n 再度このエラーが発生する場合は、お使いのブラウザや端末との相性が悪いか、設定が適切でない可能性があります。"
@@ -1120,7 +1120,7 @@
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
       "ActiveSubscription": "サブスクリプションを発動させる",
-      "Benefits": "🦘 Benefits",
+      "Benefits": "特典",
       "Tiers": "支援形態"
     },
     "Sync": {
@@ -1206,7 +1206,7 @@
       "Acquire": "取得する",
       "Compare": "比較する",
       "Commonality": "レア度",
-      "Delete": "🦘 Delete",
+      "Delete": "削除する",
       "Equip": "装備",
       "Favourite": "お気に入り",
       "Garbage": "不用品",
@@ -1214,20 +1214,20 @@
       "Lock": "ロックする",
       "Lore": "伝承",
       "NotGarbage": "不用品から戻す",
-      "Overwrite": "🦘 Overwrite",
-      "Remove": "🦘 Remove",
+      "Overwrite": "上書き保存",
+      "Remove": "外す",
       "SaveNew": "新規保存する",
       "Select": "選択",
       "Store": "保管",
       "Unfavourite": "お気に入りから外す",
       "Unlock": "ロックを外す",
       "Vault": "保管庫へ送る",
-      "Track": "🦘 Track",
-      "Hide": "🦘 Hide"
+      "Track": "追跡",
+      "Hide": "隠す"
     },
     "Item": {
       "ExpiresIn": "{{duration}}後に無効になります.",
-      "ItemMissing": "🦘 Item cannot be found.",
+      "ItemMissing": "アイテムが見つかりません",
       "NoDescription": "説明文がありません。",
       "Quantity": "数量",
       "QuantityMax": "最大"
@@ -1319,7 +1319,7 @@
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
-    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
+    "NoHiddenRecords": "まだ勝利の道のりを隠していないようですね。\n\n[設定](/settings)で同期を有効にすると、勝利の道のりの表示設定を同期できます。",
     "TrackedTriumphs": "追跡中の勝利の道のり",
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
@@ -1332,13 +1332,13 @@
     },
     "Subscriptions": {
       "SupportBraytech": "Braytechを支援する",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+      "BuildBraytech": "Braytech維持協力のお願い",
+      "Info": "Braytechではサイトの景観を損ねる原因となるため広告バナーを一切使っていませんが、いつまでも更新できる状況ではありません。\n\n そこでスパチャではないですが、経済的に不安な状況を少しでも減らしてBraytech開発に専念できるように皆様からの支援をお願いします。",
       "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
       "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
       "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
       "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
+      "MemberLinkExample": "このような形で、クランページなどで表示されるネームプレート部分にBraytechサポーターであることを証明する小さなメダルが表示されます。\n\n_このメダルはクロビスブレイ本人またはクローンが起こした行動に対して容認するものではないことをご理解ください。"
     },
     "Profile": {
       "Action": "キャラクターを選ぶ",
