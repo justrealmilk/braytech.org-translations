@@ -1120,6 +1120,7 @@
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
       "ActiveSubscription": "サブスクリプションを発動させる",
+      "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "特典",
       "Tiers": "支援形態"
     },

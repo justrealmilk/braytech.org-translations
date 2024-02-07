@@ -1120,6 +1120,7 @@
         "Disconnected": "Подключите ваш аккаунт Discord используя команду `/register_discord_with_voluspa` в Discord [сервере](https://discord.bray.tech)."
       },
       "ActiveSubscription": "Активная Подписка",
+      "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "Привилегии",
       "Tiers": "Уровни"
     },

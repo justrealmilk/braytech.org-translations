@@ -1120,6 +1120,7 @@
         "Disconnected": "Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
       "ActiveSubscription": "Active Subscription",
+      "ManageSubscription": "Manage Subscription",
       "Benefits": "Benefits",
       "Tiers": "Tiers"
     },
