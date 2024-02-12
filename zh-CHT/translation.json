@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
       "Name": "第一次復活"
     },
+    "Ranks": {
+      "Description": "用你無畏的膽識航行于星際\n帶領火力戰隊擊敗黑暗的爪牙，亦或是熔爐競技場中相互競爭來獲得沙克斯本人的青睞。",
+      "Name": "守護者地位"
+    },
     "Commonality": {
       "Description": "完成凱旋記錄並領取你的獎勵\n旅行者在觸及地球和其他世界擁有的奇妙事務與古怪寶藏\n樂趣在途中",
       "Name": "罕見的珍寶和異域風格"
+    },
+    "Seals": {
+      "Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們",
+      "Name": "🦘 Sigilli"
     },
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
       "LargestFish": "🦘 Largest Fish",
       "Name": "🦘 Competitive Fishing",
       "TypesCaught": "🦘 Types Caught"
-    },
-    "Ranks": {
-      "Description": "用你無畏的膽識航行于星際\n帶領火力戰隊擊敗黑暗的爪牙，亦或是熔爐競技場中相互競爭來獲得沙克斯本人的青睞。",
-      "Guardian": {
-        "Description": "準備接受光能與同伴的評估。",
-        "Name": "守衛者"
-      },
-      "Name": "守護者地位"
-    },
-    "Seals": {
-      "Commonality": "勝利的標志\n完美主義與收藏家的標準，戴好他們",
-      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {

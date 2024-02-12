@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "Le spectre d'un gardien\n\nVotre vie après votre vie commence ici. Vous êtes un ressuscité, choisi par un spectre et doté d'un grand pouvoir à travers la lumière et les ténèbres.\n\nVoici vos premiers pas.",
       "Name": "Première apparition"
     },
+    "Ranks": {
+      "Description": "Par l'audace jusqu'aux étoiles\n\nMenez des escouades à la victoire contre les sbires des Ténèbres et affrontez-vous dans l'Épreuve pour des accolades du seigneur Shaxx lui-même.",
+      "Name": "Valeur du Gardien"
+    },
     "Commonality": {
       "Description": "Triomphez et réclamez vos récompenses\n\nLa Terre et les mondes au-delà touchés par le Voyageur recèlent de merveilleuses bizarreries et des trésors mythiques recherchés.\n\nLe plaisir est dans la poursuite.",
       "Name": "Trésors Rares & Style Exotique"
+    },
+    "Seals": {
+      "Commonality": "Emblèmes de victoire\n\nLa mesure ultime d'un complétiste et d'un collectionneur; portez-les bien.",
+      "Name": "Sceaux de Triomphe"
     },
     "Fishing": {
       "Description": "Prise du jour\n\nLancez une ligne lestée, montrez votre aquarium et devenez compétitif en comparant vos prises les plus lourdes avec vos camarades pêcheurs.",
       "LargestFish": "Poisson le plus grand",
       "Name": "Pêche compétitive",
       "TypesCaught": "Types attrapés"
-    },
-    "Ranks": {
-      "Description": "Par l'audace jusqu'aux étoiles\n\nMenez des escouades à la victoire contre les sbires des Ténèbres et affrontez-vous dans l'Épreuve pour des accolades du seigneur Shaxx lui-même.",
-      "Guardian": {
-        "Description": "Préparez-vous à être évalué par la Lumière et vos pairs.",
-        "Name": "Gardien"
-      },
-      "Name": "Valeur du Gardien"
-    },
-    "Seals": {
-      "Commonality": "Emblèmes de victoire\n\nLa mesure ultime d'un complétiste et d'un collectionneur; portez-les bien.",
-      "Name": "Sceaux de Triomphe"
     }
   },
   "Loading": {

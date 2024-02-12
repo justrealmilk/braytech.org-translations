@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
       "Name": "首次复生"
     },
+    "Ranks": {
+      "Description": "向浩瀚无垠的星空大胆进发\n带领火力战队打败黑暗的爪牙并取得胜利，亦可以在熔炉竞技场中与其他人一决高下，来争夺沙克斯的青睐",
+      "Name": "守护者的地位"
+    },
     "Commonality": {
       "Description": "凯旋，并领取你的奖励\n地球与其他被旅行者光顾过的星球，蕴藏着奇妙的怪事和令人向往的神话宝藏\n去追寻这些乐趣吧",
       "Name": "稀有的宝藏 & 异域风格"
+    },
+    "Seals": {
+      "Commonality": "胜利标志\n是成就达成者与收藏家的终极衡量标准；好好佩戴他们",
+      "Name": "成就与称号"
     },
     "Fishing": {
       "Description": "钓鱼日！\n\n拉动钓线, 装饰你的水族馆, 和你的朋友展开激动人心的钓鱼竞争！",
       "LargestFish": "最大的鱼",
       "Name": "竞技钓鱼",
       "TypesCaught": "捕获类型"
-    },
-    "Ranks": {
-      "Description": "向浩瀚无垠的星空大胆进发\n带领火力战队打败黑暗的爪牙并取得胜利，亦可以在熔炉竞技场中与其他人一决高下，来争夺沙克斯的青睐",
-      "Guardian": {
-        "Description": "准备接受光能与同伴的评估",
-        "Name": "守护者"
-      },
-      "Name": "守护者的地位"
-    },
-    "Seals": {
-      "Commonality": "胜利标志\n是成就达成者与收藏家的终极衡量标准；好好佩戴他们",
-      "Name": "成就与称号"
     }
   },
   "Loading": {

@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "Un Guardiano di uno Spettro\n\nLa vita dopo la tua vita inizia qui. Sei un rinato, scelto da uno Spettro e dotato di grandi poteri tramite la Luce e l'Oscurità.\n\nQuesti sono stati i tuoi primi passi.",
       "Name": "Rinato la prima volta"
     },
+    "Ranks": {
+      "Description": "Osando verso le stelle\n\nGuida le squadre alla vittoria contro i servitori dell'Oscurità e competi l'uno contro l'altro nel Crogiolo per ottenere riconoscimenti da Lord Shaxx in persona.",
+      "Name": "Classificazione dei Guardiani"
+    },
     "Commonality": {
       "Description": "Trionfa e riscatta le tue ricompense\n\nLa Terra e i mondi al di là toccati dal Viaggiatore custodiscono meravigliose stranezze e tesori mitici ricercati.\n\nIl divertimento sta nella caccia.",
       "Name": "Tesori rari e stile esotico"
+    },
+    "Seals": {
+      "Commonality": "Emblemi di vittoria\n\nLa misura definitiva di un completista e collezionista; indossali bene.",
+      "Name": "Sigilli"
     },
     "Fishing": {
       "Description": "Pesca del giorno\n\nLancia una lenza con piombo, metti in mostra il tuo acquario ed entra in competizione con i tuoi compagni pescatori confrontando le catture più pesanti.",
       "LargestFish": "Pesce più grande",
       "Name": "Pesca competitiva",
       "TypesCaught": "Tipi catturati"
-    },
-    "Ranks": {
-      "Description": "Osando verso le stelle\n\nGuida le squadre alla vittoria contro i servitori dell'Oscurità e competi l'uno contro l'altro nel Crogiolo per ottenere riconoscimenti da Lord Shaxx in persona.",
-      "Guardian": {
-        "Description": "Preparati ad essere valutato dalla Luce e dai tuoi pari.",
-        "Name": "Guardiano"
-      },
-      "Name": "Classificazione dei Guardiani"
-    },
-    "Seals": {
-      "Commonality": "Emblemi di vittoria\n\nLa misura definitiva di un completista e collezionista; indossali bene.",
-      "Name": "Sigilli"
     }
   },
   "Loading": {

@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
       "Name": "Primer renacido"
     },
+    "Ranks": {
+      "Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
+      "Name": "Reputación del Guardián"
+    },
     "Commonality": {
       "Description": "Triunfa y reclama tus recompensas\n\nLa Tierra y los mundos lejanos tocados por el Viajero guardan maravillosas rarezas y codiciados tesoros míticos.\n\nLa diversión está en su búsqueda.",
       "Name": "Tesoros raros y estilos exóticos"
+    },
+    "Seals": {
+      "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
+      "Name": "Triunfos del sello"
     },
     "Fishing": {
       "Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
       "LargestFish": "Pez más grande",
       "Name": "Pesca de competición",
       "TypesCaught": "Especies capturadas"
-    },
-    "Ranks": {
-      "Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
-      "Guardian": {
-        "Description": "Prepárate para ser evaluado por la Luz y por tus compañeros.",
-        "Name": "Guardián"
-      },
-      "Name": "Reputación del Guardián"
-    },
-    "Seals": {
-      "Commonality": "Emblemas de la victoria\n\nLa demostración definitiva de un completista y coleccionista; lúcelos bien.",
-      "Name": "Triunfos del sello"
     }
   },
   "Loading": {

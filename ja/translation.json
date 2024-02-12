@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
     },
+    "Ranks": {
+      "Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
+      "Name": "ガーディアンの地位"
+    },
     "Commonality": {
       "Description": "勝利し、報酬を掴め\n\n地球とその向こうの世界には、トラベラーがもたらした素晴らしくも奇想天外な神話の宝物が存在する。\n\n 追跡することに喜びがある。",
       "Name": "レアな宝物とエキゾチックなスタイル"
+    },
+    "Seals": {
+      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
+      "Name": "調印"
     },
     "Fishing": {
       "Description": "今日のフィッシング\n\n釣り竿をキャストし、水槽を豪華にして、仲間と釣果を競争しよう。",
       "LargestFish": "最も大きな釣果",
       "Name": "競技フィッシング",
       "TypesCaught": "釣った種類"
-    },
-    "Ranks": {
-      "Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
-      "Guardian": {
-        "Description": "光と仲間から評価されるように備えろ。",
-        "Name": "ガーディアン"
-      },
-      "Name": "ガーディアンの地位"
-    },
-    "Seals": {
-      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
-      "Name": "調印"
     }
   },
   "Loading": {

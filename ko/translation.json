@@ -635,31 +635,30 @@
     }
   },
   "Legend": {
+    "Profile": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
     "Activity": {
       "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
       "Name": "🦘 First Risen"
     },
+    "Ranks": {
+      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
+      "Name": "🦘 Guardian Standing"
+    },
     "Commonality": {
       "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
       "Name": "🦘 Rare Treasures & Exotic Style"
+    },
+    "Seals": {
+      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Sigilli"
     },
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
       "LargestFish": "🦘 Largest Fish",
       "Name": "🦘 Competitive Fishing",
       "TypesCaught": "🦘 Types Caught"
-    },
-    "Ranks": {
-      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
-      "Guardian": {
-        "Description": "🦘 Prepare to be evaluated by the Light and your peers.",
-        "Name": "🦘 Guardian"
-      },
-      "Name": "🦘 Guardian Standing"
-    },
-    "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Sigilli"
     }
   },
   "Loading": {
