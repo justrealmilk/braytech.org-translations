@@ -363,7 +363,7 @@
     "Classified": "机密",
     "Collectibles": "可收集",
     "Collections": "收藏品",
-    "CollectionsScore": "收藏品分数",
+    "CollectionScore": "收藏品分数",
     "CommendationAbr_plural": "嘉奖",
     "Completed": "已完成",
     "CruciblePlaylist": "熔炉游戏列表",
@@ -594,7 +594,7 @@
     "ActiveScore": "凯旋记录",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
-    "CollectionsScore": "收藏品分数",
+    "CollectionScore": "收藏品分数",
     "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "至少拥有{{number}}个凯旋记录的玩家",
-      "MinCollectionsScore": "至少拥有{{number}}收藏品分数的玩家",
+      "MinCollectionScore": "至少拥有{{number}}收藏品分数的玩家",
       "RankedPlayers": {
         "Name": "参与排名的玩家数",
         "Info": "只有自最新DLC发布后玩过《命运》的玩家才会被排名。"

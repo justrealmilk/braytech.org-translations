@@ -363,7 +363,7 @@
     "Classified": "Censurato",
     "Collectibles": "Collezionabili",
     "Collections": "Collezioni",
-    "CollectionsScore": "Punteggio collezioni",
+    "CollectionScore": "Punteggio collezioni",
     "CommendationAbr_plural": "Encomi",
     "Completed": "Completato",
     "CruciblePlaylist": "Playlist Crogiolo",
@@ -594,7 +594,7 @@
     "ActiveScore": "Punteggio attivo",
     "LegacyScore": "Punteggio storico",
     "TriumphScore": "Punteggio trionfale",
-    "CollectionsScore": "Punteggio collezioni",
+    "CollectionScore": "Punteggio collezioni",
     "Unranked": "Questa classifica sta venendo realizzata con nuovi dati. Sarà pronta in pochi minuti.",
     "UnrankedMember": "Questo giocatore non è stato ancora classificato. È stato aggiunto alla coda e sarà classificato se il suo progresso è pubblico.",
     "UnrankedGroup": "Nessuno in questo clan è stato ancora classificato.",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "Giocatori con un punteggio attivo di almeno {{number}}",
-      "MinCollectionsScore": "Giocatori con un punteggio collezioni di almeno {{number}}",
+      "MinCollectionScore": "Giocatori con un punteggio collezioni di almeno {{number}}",
       "RankedPlayers": {
         "Name": "Giocatori classificati",
         "Info": "Solo i giocatori che hanno giocato a Destiny da almeno l'ultima espansione vengono classificati."

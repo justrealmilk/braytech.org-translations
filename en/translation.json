@@ -363,7 +363,7 @@
     "Classified": "Classified",
     "Collectibles": "Collectibles",
     "Collections": "Collections",
-    "CollectionsScore": "Collections Score",
+    "CollectionScore": "Collections Score",
     "CommendationAbr_plural": "Comms.",
     "Completed": "Completed",
     "CruciblePlaylist": "Crucible Playlist",
@@ -594,7 +594,7 @@
     "ActiveScore": "Active Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
-    "CollectionsScore": "Collections Score",
+    "CollectionScore": "Collections Score",
     "Unranked": "This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
     "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue and will be ranked provided their progression is public.",
     "UnrankedGroup": "No one in this clan has been ranked yet.",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "Players with at least {{number}} Active Score",
-      "MinCollectionsScore": "Players with at least {{number}} Collections Score",
+      "MinCollectionScore": "Players with at least {{number}} Collections Score",
       "RankedPlayers": {
         "Name": "Ranked players",
         "Info": "Only players who've played Destiny since the latest expansion release are ranked."

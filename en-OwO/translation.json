@@ -378,7 +378,7 @@
     "Classified": "Cwassified",
     "Collectibles": "Cowwectibwes",
     "Collections": "Cowwections",
-    "CollectionsScore": "Cowwections Scowe",
+    "CollectionScore": "Cowwections Scowe",
     "CommendationAbr_plural": "Comms.",
     "Completed": "Compweted",
     "CruciblePlaylist": "Cwucibwe Pwaywist",
@@ -634,7 +634,7 @@
       "Name": "Uu"
     },
     "ActiveScore": "Active Scowe",
-    "CollectionsScore": "Cowwections Scowe",
+    "CollectionScore": "Cowwections Scowe",
     "Comparison": {
       "Description": "Wecowds and cowwectibwes which **{{a}}** haz but **{{b}}** doesn't.\n\nThis compawison is made fwom wive data and as such may contwadict da cuwwent weadewboawd wanking.",
       "Name": "Compawison"
@@ -654,7 +654,7 @@
     "Statistics": "Statistics",
     "Stats": {
       "MinActiveScore": "Pwayews with at weast {{number}} Active Scowe",
-      "MinCollectionsScore": "Pwayews with at weast {{number}} Cowwections Scowe",
+      "MinCollectionScore": "Pwayews with at weast {{number}} Cowwections Scowe",
       "RankedPlayers": {
         "Info": "Onwy pwayews who've pwayed Destiny since da watest expansion wewease awe wanked.",
         "Name": "Wanked pwayews"

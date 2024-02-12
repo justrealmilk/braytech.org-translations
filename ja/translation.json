@@ -363,7 +363,7 @@
     "Classified": "機密情報",
     "Collectibles": "収集品",
     "Collections": "コレクション",
-    "CollectionsScore": "コレクションスコア",
+    "CollectionScore": "コレクションスコア",
     "CommendationAbr_plural": "称賛",
     "Completed": "完了",
     "CruciblePlaylist": "クルーシブルプレイリスト",
@@ -594,7 +594,7 @@
     "ActiveScore": "アクティブな勝利の道のりスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
-    "CollectionsScore": "コレクションスコア",
+    "CollectionScore": "コレクションスコア",
     "Unranked": "このリーダーボードは最新データでランキングされています。数分ごとに更新されます。",
     "UnrankedMember": "このプレイヤーはまだランキングされていません。キューに追加されました。",
     "UnrankedGroup": "クラン内にはランクインしたメンバーはまだいません。",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "アクティブスコアで {{number}} 点以上に到達しているプレイヤー数",
-      "MinCollectionsScore": "コレクションスコアで {{number}} 点以上に到達しているプレイヤー数",
+      "MinCollectionScore": "コレクションスコアで {{number}} 点以上に到達しているプレイヤー数",
       "RankedPlayers": {
         "Name": "プレイヤー数",
         "Info": "最新DLCのリリース日以降Destinyをプレイしたプレイヤーのみがカウントされています。"

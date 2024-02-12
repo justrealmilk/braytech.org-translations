@@ -363,7 +363,7 @@
     "Classified": "Geheim",
     "Collectibles": "Sammlerstücke",
     "Collections": "Sammlungen",
-    "CollectionsScore": "Sammlungspunktzahl",
+    "CollectionScore": "Sammlungspunktzahl",
     "CommendationAbr_plural": "Ausz.",
     "Completed": "Vollständig",
     "CruciblePlaylist": "Schmelztigel Playlist",
@@ -594,7 +594,7 @@
     "ActiveScore": "Aktive Triumphpunktzahl",
     "LegacyScore": "Vermächnis Triumphpunktzahl",
     "TriumphScore": "Triumphpunktzahl",
-    "CollectionsScore": "Sammlungspunkzahl",
+    "CollectionScore": "Sammlungspunkzahl",
     "Unranked": "Die Rangliste wird gerade mit neuen Daten versehen. Sie wird in ein paar Minuten wieder bereit sein.",
     "UnrankedMember": "Dieser Spieler wurde noch nicht bewertet. Er wurde in die Warteschlange aufgenommen.",
     "UnrankedGroup": "Niemand in diesem Clan wurde bisher bewertet.",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "Spieler mit mindestens {{number}} aktiven Triumphpunkten",
-      "MinCollectionsScore": "Spieler mit mindestens {{number}} Sammlungspunkten",
+      "MinCollectionScore": "Spieler mit mindestens {{number}} Sammlungspunkten",
       "RankedPlayers": {
         "Name": "Eingestufte Spieler",
         "Info": "Nur Spieler, welche Destiny seit der Veröffentlichung der letzten Erweiterung gespielt haben, werden in die Rangliste mit aufgenommen."

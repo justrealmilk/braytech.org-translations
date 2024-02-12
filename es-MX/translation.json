@@ -363,7 +363,7 @@
     "Classified": "Clasificado",
     "Collectibles": "Coleccionables",
     "Collections": "Colecciones",
-    "CollectionsScore": "Puntaje de colecciones",
+    "CollectionScore": "Puntaje de colecciones",
     "CommendationAbr_plural": "Elog.",
     "Completed": "Completado",
     "CruciblePlaylist": "Lista de juego de Crisol",
@@ -594,7 +594,7 @@
     "ActiveScore": "Puntaje activo",
     "LegacyScore": "Puntaje de legado",
     "TriumphScore": "Puntaje de triunfos",
-    "CollectionsScore": "Puntaje de colecciones",
+    "CollectionScore": "Puntaje de colecciones",
     "Unranked": "Esta tabla clasificatoria se está elaborando con nuevos datos. Estará lista en unos minutos.",
     "UnrankedMember": "Este jugador aún no fue clasificado. Se ha añadido a la cola.",
     "UnrankedGroup": "Nadie de este clan fue clasificado aún.",
@@ -617,7 +617,7 @@
     },
     "Stats": {
       "MinActiveScore": "Jugadores con al menos {{number}} de Puntuación Activa",
-      "MinCollectionsScore": "Jugadores con al menos {{number}} de Puntuación de Colecciones",
+      "MinCollectionScore": "Jugadores con al menos {{number}} de Puntuación de Colecciones",
       "RankedPlayers": {
         "Name": "Jugadores clasificados",
         "Info": "Sólo se clasifican los jugadores que han jugado a Destiny desde el lanzamiento de la última expansión."
