@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "該任務目標有一個關聯的地圖節點，例如掃描目標或特定地點",
-      "Steps": "步驟"
-    },
-    "Info": {
-      "InventoryCapacity": "總計任務和賞金",
-      "NoBounties": "您獲得的獎勵將顯示在這裏",
-      "NoQuests": "你獲得的任務將出現在這裏."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

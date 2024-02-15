@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "이 퀘스트 단계에는 스캔 가능한 구조물 또는 위치와 관련된 맵 노드가 있습니다.",
-      "Steps": "단계"
-    },
-    "Info": {
-      "InventoryCapacity": "총합 퀘스트 및 현상금 한도",
-      "NoBounties": "획득한 현상금이 여기 표시됩니다.",
-      "NoQuests": "획득한 퀘스트가 여기 표시됩니다."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

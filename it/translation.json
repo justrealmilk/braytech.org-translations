@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "Questa parte dell'impresa ha un nodo della mappa correlato come, ad esempio, scansioni o luoghi.",
-      "Steps": "Fasi"
-    },
-    "Info": {
-      "InventoryCapacity": "Capacità totale di imprese e taglie",
-      "NoBounties": "Le tue taglie appariranno qui",
-      "NoQuests": "Le imprese appariranno qui."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

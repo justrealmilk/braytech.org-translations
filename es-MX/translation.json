@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "Este paso de aventura tiene un nodo relacionado en el mapa, como un artefacto escaneable o una ubicación.",
-      "Steps": "Pasos"
-    },
-    "Info": {
-      "InventoryCapacity": "Capacidad total de aventuras y contratos",
-      "NoBounties": "Los contratos que obtengas aparecerán aquí.",
-      "NoQuests": "Las aventuras que obtengas aparecerán aquí."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

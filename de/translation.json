@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "Dieser Questschritt verfügt über einen zugehörigen Kartenpunkt, z.B. ein scannbares Artefakt oder einen Ort.",
-      "Steps": "Schritte"
-    },
-    "Info": {
-      "InventoryCapacity": "Maximale Anzahl an Quests und Beutezügen",
-      "NoBounties": "Beutezüge, die du erwirbst, erscheinen hier.",
-      "NoQuests": "Quests, die du erwirbst, erscheinen hier."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

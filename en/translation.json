@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "This quest step has a related map node, such as a scannable artifact or location.",
-      "Steps": "Steps"
-    },
-    "Info": {
-      "InventoryCapacity": "Total Quest and Bounty Capacity",
-      "NoBounties": "Bounties you acquire will appear here.",
-      "NoQuests": "Quests you acquire will appear here."
-    }
+    "NoBounties": "Bounties you acquire will appear here.",
+    "NoQuests": "Quests you acquire will appear here.",
+    "Rewards": "Quest Rewards",
+    "Steps": "Quest Steps"
   },
   "Search": {
     "Error": {

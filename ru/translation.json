@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "Этот этап поручения имеет связанное место на карте.",
-      "Steps": "Этапы"
-    },
-    "Info": {
-      "InventoryCapacity": "Общая вместимость поручений и контрактов",
-      "NoBounties": "Контракты, что ты получишь будут здесь.",
-      "NoQuests": "Поручения, что ты получишь будут здесь."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

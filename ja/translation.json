@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "このクエストの過程には、スキャン可能なアーティファクトやロケーションなど、関連するマップノードがあります。",
-      "Steps": "過程"
-    },
-    "Info": {
-      "InventoryCapacity": "空きスロット/請け負ったクエストとバウンティの合計",
-      "NoBounties": "バウンティを引き受けるとここに表示されます。",
-      "NoQuests": "クエストを引き受けるとここに表示されます。"
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

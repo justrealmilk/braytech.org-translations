@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "Esta etapa de jornada tem um nódulo relacionado no mapa, como um artefato escaneável ou localização.",
-      "Steps": "Passos"
-    },
-    "Info": {
-      "InventoryCapacity": "Capacidade máxima de Jornadas e Contratos",
-      "NoBounties": "Contratos que você adquirir aparecerão aqui",
-      "NoQuests": "Jornadas que você adquirir aparecerão aqui."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

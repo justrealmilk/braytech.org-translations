@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "🦘 이 퀘스트 단계에는 스캔 가능한 구조물 또는 위치와 관련된 맵 노드가 있습니다.",
-      "Steps": "🦘 Steps"
-    },
-    "Info": {
-      "InventoryCapacity": "🦘 Total Quest and Bounty Capacity",
-      "NoBounties": "🦘 Bounties you acquire will appear here.",
-      "NoQuests": "🦘 Quests you acquire will appear here."
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {

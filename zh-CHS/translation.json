@@ -862,15 +862,10 @@
     }
   },
   "Quests": {
-    "Details": {
-      "RelatedMapMode": "该任务步骤有一个关联的地图节点，例如扫描目标或特定地点。",
-      "Steps": "步骤"
-    },
-    "Info": {
-      "InventoryCapacity": "总计任务和赏金",
-      "NoBounties": "您获得的奖励将显示在这里。",
-      "NoQuests": "您获得的任务将出现在这里。"
-    }
+    "NoBounties": "🦘 Bounties you acquire will appear here.",
+    "NoQuests": "🦘 Quests you acquire will appear here.",
+    "Rewards": "🦘 Quest Rewards",
+    "Steps": "🦘 Quest Steps"
   },
   "Search": {
     "Error": {
