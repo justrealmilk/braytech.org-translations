@@ -839,6 +839,8 @@
     "PointsNextRank": "Punti per il prossimo grado",
     "PointsTotal": "Punti totali",
     "PrestigeNth": "Reset {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "Grado",
     "RankNth": "Grado {{number}}",
     "ResetVendor": "Ritorna dal mercante per resettare il grado",

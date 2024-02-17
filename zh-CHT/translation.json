@@ -839,6 +839,8 @@
     "PointsNextRank": "積分直到下一個等級",
     "PointsTotal": "總分",
     "PrestigeNth": "聲望數值 {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "等級",
     "RankNth": "等級 {{number}}",
     "ResetVendor": "返回NPC以重置您的等級",

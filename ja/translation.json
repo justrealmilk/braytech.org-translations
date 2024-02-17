@@ -839,6 +839,8 @@
     "PointsNextRank": "次ランクまでのポイント",
     "PointsTotal": "合計ポイント",
     "PrestigeNth": "威光 {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "ランク",
     "RankNth": "ランク {{number}}",
     "ResetVendor": "ランクをリセットするためベンダーまで戻ってください。",

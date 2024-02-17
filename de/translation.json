@@ -839,6 +839,8 @@
     "PointsNextRank": "Punkte bis zum nächsten Rang",
     "PointsTotal": "Gesamtpunkte",
     "PrestigeNth": "Prestige {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "Rang",
     "RankNth": "Rang {{number}}",
     "ResetVendor": "Kehre zum Händler zurück, um deinen Rang zurückzusetzen",

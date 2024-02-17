@@ -839,6 +839,8 @@
     "PointsNextRank": "다음 등급까지 남은 점수",
     "PointsTotal": "총합 점수",
     "PrestigeNth": "🦘 Prestige {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "🦘 Rank",
     "RankNth": "{{number}}등급",
     "ResetVendor": "NPC에게 돌아가 등급을 초기화하세요.",

@@ -839,6 +839,8 @@
     "PointsNextRank": "下一级所需分数",
     "PointsTotal": "总分",
     "PrestigeNth": "声望数值 {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "排名",
     "RankNth": "等级 {{number}}",
     "ResetVendor": "回去找商人重置你的等级",

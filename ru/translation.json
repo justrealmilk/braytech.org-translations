@@ -839,6 +839,8 @@
     "PointsNextRank": "Очков до следующего ранга",
     "PointsTotal": "Всего очков",
     "PrestigeNth": "Престиж {{number}}",
+    "ResetsNth": "🦘 1 Reset",
+    "ResetsNth_plural": "🦘 {{number}} Resets",
     "Rank": "Ранг",
     "RankNth": "Ранг {{number}}",
     "ResetVendor": "Вернитесь к торговцу, чтобы обнулить ранг",
