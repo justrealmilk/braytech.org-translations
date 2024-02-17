@@ -219,11 +219,7 @@
     "Placeholder": "Item-name eingeben"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "Die Clan-Administration ist für große Displays ausgelegt. Daher ist diese Seite nur für einen Viewport von mindestens 1500px Breite verfügbar"
-    },
     "BannerPerks": "Banner Vorteile",
-    "ClanAdministration": "Administration",
     "ClanBannerBuilder": {
       "BannerColor": "Banner-Farbe",
       "BannerDetail": "Banner-Detail",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "Gonfalon",
     "ClanAbout": "Über",
-    "ClanRoster": "Übersicht",
-    "ClanTimetable": "Zeitplan",
     "Founded": "Gegründet am {{time}}",
     "Progression": "Wenn dein Clan aufsteigt, werden für alle Mitglieder Clan-Banner-Perks freigeschaltet. Schließt Aktivitäten im gesamten System ab, um die Stufe eures Clans zu erhöhen.",
     "RitualRewards": "Schließt als Clan rituelle Aktivitäten ab, um Engramme von Suraya Hawthorne für alle Mitglieder freizuschalten.",
-    "HistoricalStats": {
-      "Description": "Vergleiche Spieler über Statistiken, aufgeteilt in Aktivitäten.\n\nFür weitere Informationen über die Genauigkeit dieser Statistiken, siehe [Häufig gestellte Fragen](/addendums/faq).",
-      "ViewportWidth": "Die historische Statistik ist für große Displays ausgelegt. Daher ist diese Seite nur für einen Viewport von mindestens 1024px Breite verfügbar"
-    },
     "Members": "{{number}} Mitglieder",
     "MembersLoading": "Lade Mitglieder von {{name}}",
     "NoClan": {

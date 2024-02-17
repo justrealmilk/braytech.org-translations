@@ -219,11 +219,7 @@
     "Placeholder": "inserisci nome oggetto"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "La modalità Amministratore clan si può utilizzare solo su su schermi grandi. Per favore utilizza un display con una larghezza di almeno `1500px`."
-    },
     "BannerPerks": "Bonus stendardo",
-    "ClanAdministration": "Amministrazione",
     "ClanBannerBuilder": {
       "BannerColor": "Colore stendardo",
       "BannerDetail": "Dettagli stendardo",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "Effigie",
     "ClanAbout": "A riguardo",
-    "ClanRoster": "Membri",
-    "ClanTimetable": "Programmazione",
     "Founded": "Fondazione: {{time}}",
     "Progression": "Quando il tuo clan sale di livello, le abilità dello stendardo del clan vengono sbloccate per tutti i membri. Completa le attività sparse per il sistema per aumentare il livello del tuo clan.",
     "RitualRewards": "Assieme al clan, completa attività rituali per sbloccare engrammi per tutti i membri da Suraya Hawthorne.",
-    "HistoricalStats": {
-      "Description": "Confronta i giocatori in base alle statistiche, separate da modalità di gioco.\n\nPer più informazioni sulla precisione di queste statistiche, guarda le [domande più frequenti](/addendums/faq).",
-      "ViewportWidth": "La modalità Statistiche storiche del clan può essere utilizzata solo su schermi grandi. Per favore utilizza un display con una larghezza di almeno `1024px`."
-    },
     "Members": "{{number}} membri",
     "MembersLoading": "Caricando i membri di {{name}}",
     "NoClan": {

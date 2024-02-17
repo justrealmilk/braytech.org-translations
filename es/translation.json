@@ -219,11 +219,7 @@
     "Placeholder": "🦘 enter item name"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "El modo Administración del clan está pensado para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1500px`."
-    },
     "BannerPerks": "Bonificaciones de clan",
-    "ClanAdministration": "Administración",
     "ClanBannerBuilder": {
       "BannerColor": "Color del estandarte",
       "BannerDetail": "Detalles del estandarte",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "Estandarte",
     "ClanAbout": "Acerca de",
-    "ClanRoster": "Jugadores",
-    "ClanTimetable": "Calendario",
     "Founded": "Fundado el {{time}}",
     "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
     "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",
-    "HistoricalStats": {
-      "Description": "Compara las estadísticas de jugadores, desglosadas por modo de actividad. Para más información sobre la precisión de estas estadísticas, consulta [Preguntas frecuentes](/addendums/faq).",
-      "ViewportWidth": "Las estadísticas históricas están pensadas para su uso en pantallas más grandes. Por favor, utiliza una pantalla con una resolución de al menos `1024px`."
-    },
     "Members": "{{number}} miembros",
     "MembersLoading": "Cargando miembros de {{name}}",
     "NoClan": {

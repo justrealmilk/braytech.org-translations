@@ -219,11 +219,7 @@
     "Placeholder": "アイテム検索ワード"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "管理画面は大きなディスプレイでの使用を想定しています。少なくとも横解像度`1500px`以上のディスプレイを使用してください。"
-    },
     "BannerPerks": "バナーパーク",
-    "ClanAdministration": "管理設定",
     "ClanBannerBuilder": {
       "BannerColor": "バナーカラー",
       "BannerDetail": "バナーディテール",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "クランバナー",
     "ClanAbout": "概要",
-    "ClanRoster": "名簿",
-    "ClanTimetable": "タイムテーブル",
     "Founded": "設立日 {{time}}",
     "Progression": "クランのレベルが上がると、クランバナーの特典がメンバー全員にアンロックされます。クランレベルを上げるために、ゲーム内の様々なアクティビティを完了しましょう。",
     "RitualRewards": "クランメンバーとして儀式イベントを完了させ、スラヤ・ホーソーンから報酬エングラムを獲得しましょう。",
-    "HistoricalStats": {
-      "Description": "アクティビティモード別にステータス値でプレーヤーを比較し分類します。\n\nステータス値の正確性については、[よくある質問](/addendums/faq)をご覧ください。",
-      "ViewportWidth": "履歴統計は、大型モニターでの使用を前提としています。少なくともモニター解像度`1024 px`以上のモニターを使用してください。"
-    },
     "Members": "合計 {{number}} 人",
     "MembersLoading": "{{name}} のデータを読み込んでいます",
     "NoClan": {

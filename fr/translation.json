@@ -219,11 +219,7 @@
     "Placeholder": "🦘 enter item name"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "L'administration est destinée à être utilisée sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1500px`."
-    },
     "BannerPerks": "Privilèges de clan",
-    "ClanAdministration": "Administration",
     "ClanBannerBuilder": {
       "BannerColor": "Couleur de la bannière",
       "BannerDetail": "Détail de la bannière",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "Bannière",
     "ClanAbout": "À propos",
-    "ClanRoster": "Escouades",
-    "ClanTimetable": "Calendrier",
     "Founded": "Fondé le {{time}}",
     "Progression": "À mesure que votre clan monte de niveau, des avantages pour la bannière de clan sont débloqués pour tous les membres. Complétez des activités à travers le système pour augmenter le niveau de votre clan.",
     "RitualRewards": "En tant que clan, terminez des activités rituelles pour débloquer des engrammes de Suraya Hawthorne pour tous les membres.",
-    "HistoricalStats": {
-      "Description": "Comparez les joueurs selon les statistiques, détaillées par mode d'activité. Pour plus d'informations sur la précision de ces statistiques, consultez la section [Frequently Asked Questions](/addendums/faq).",
-      "ViewportWidth": "Les statistiques historiques sont destinées à être utilisées sur des écrans plus grands. Veuillez utiliser un affichage avec une fenêtre d'au moins `1024px`."
-    },
     "Members": "{{number}} Membres",
     "MembersLoading": "Chargement de {{name}} membres",
     "NoClan": {

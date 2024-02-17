@@ -219,11 +219,7 @@
     "Placeholder": "🦘 enter item name"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "公会管理模式只能在分辨率更大的窗口使用，请保证您当前的窗口分辨率宽度大于或等于 `1280 像素` 。"
-    },
     "BannerPerks": "旗帜特性",
-    "ClanAdministration": "管理",
     "ClanBannerBuilder": {
       "BannerColor": "旗帜颜色",
       "BannerDetail": "旗帜细节",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "公会旗帜",
     "ClanAbout": "公会信息",
-    "ClanRoster": "名单",
-    "ClanTimetable": "时间安排",
     "Founded": "创建于{{time}}",
     "Progression": "随着公会等级不断提高，公会旗帜将为所有公会成员解锁新的特性。完成星系活动，提高公会等级。",
     "RitualRewards": "至少有一半公会成员组成的火力战队，完成仪式活动即可为整个公会赢得来自霍桑的记忆水晶。",
-    "HistoricalStats": {
-      "Description": "🦘 按照各类活动模式，比较玩家的统计数据。\n\n有关这些统计数据准确性的更多信息，请查看 [常见问题](/addendums/faq)。",
-      "ViewportWidth": "历史数据只能在分辨率更大的窗口使用，请保证您当前窗口分辨率宽度大于或等于 `1024 像素` 。"
-    },
     "Members": "{{number}} 成员",
     "MembersLoading": "正在加载公会 {{name}} 成员信息",
     "NoClan": {

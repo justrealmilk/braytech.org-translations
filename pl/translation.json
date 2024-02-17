@@ -219,11 +219,7 @@
     "Placeholder": "🦘 enter item name"
   },
   "Clan": {
-    "Administration": {
-      "ViewportWidth": "🦘 Administration is intended for use on larger displays. Please use a display with a viewport of atleast `1280px`."
-    },
     "BannerPerks": "🦘 Banner Perks",
-    "ClanAdministration": "🦘 Administration",
     "ClanBannerBuilder": {
       "BannerColor": "🦘 Banner Color",
       "BannerDetail": "🦘 Banner Detail",
@@ -236,15 +232,9 @@
     },
     "ClanGonfalon": "🦘 Gonfalon",
     "ClanAbout": "🦘 About",
-    "ClanRoster": "🦘 Roster",
-    "ClanTimetable": "🦘 시간표",
     "Founded": "🦘 Founded {{time}}",
     "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
     "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
-    "HistoricalStats": {
-      "Description": "🦘 Compare players over stats, broken down by activity mode.\n\nFor more information on the accuracy of these stats, check out [Frequently Asked Questions](/addendums/faq).",
-      "ViewportWidth": "🦘 Historical stats is intended for use on larger displays. Please use a display with a viewport of atleast `1024px`."
-    },
     "Members": "🦘 {{number}} Members",
     "MembersLoading": "🦘 Loading {{name}} members",
     "NoClan": {
