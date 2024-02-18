@@ -10,7 +10,7 @@
     "Cancel": "取消",
     "Close": "关闭",
     "Collapse": "折叠",
-    "CollapseFilters": "🦘 Collapse Filters",
+    "CollapseFilters": "折叠筛选",
     "Confirm": "确认",
     "Customise": "自定义",
     "Delete": "删除",
@@ -19,7 +19,7 @@
     "Done": "完成",
     "Enable": "启用",
     "Expand": "展开",
-    "ExpandFilters": "🦘 Expand Filters",
+    "ExpandFilters": "展开筛选",
     "GatherInVault": "移入保险库",
     "GoToBNet": "前往 Bungie.net",
     "GoToMaps": "前往地图",
@@ -32,14 +32,14 @@
     "HideRedeemed": "隐藏已兑换项",
     "Jump": "跳转到",
     "Lock": "锁定",
-    "Logout": "🦘 Logout",
-    "MemberRemove": "去除成员",
+    "Logout": "注销",
+    "MemberRemove": "移除成员",
     "NextNth": "后 {{number}} 项",
     "SeeNextNth": "没有部分完成的成就。选择一个目标然后开始努力吧！",
     "Now": "当前页",
     "Open": "打开",
     "Previous": "往前",
-    "PullPostmaster": "从邮政长处取回物品",
+    "PullPostmaster": "从邮政管处取回物品",
     "ReloadApp": "重新载入 Braytech",
     "ReloadAppAutomatically": "自动重载应用",
     "RemoveBookmark": "移除书签",
@@ -110,7 +110,7 @@
     "State": {
       "ActivityHistoryError": "加载活动历史时出错，请再试一次。",
       "DownloadingReports": "正在下载报告",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
+      "RestoringReportsProgressValue": "正在恢复报告",
       "DownloadingReportsProgressValue": "正在从 Bungie.net 收集火力战队数据，所需的时间将取决于你的网络和请求的数据量。",
       "GenericError": "出错了，请再试一次。",
       "HydratingReportsCache": "报告数据正在从设备存储中载入。",
@@ -135,7 +135,7 @@
     },
     "Privacy": {
       "Info": "长话短说，Braytech 不使用 cookies 或任何其他机制来跟踪你，也不为广告目的锁定你（我的意思是，Braytech 没有任何广告）。\n\n如果你对本通知的内容有任何疑问，请联系我们 [Discord](https://discord.bray.tech)。",
-      "Policy": "1.  序言\n    1. 出于任何目的，英语版本的此隐私政策应为政策原件、管理文据以及双方的协议。若英语版本的此隐私政策与随后翻译为任何其它语言的版本出现任何冲突，则应以英语版本为准。\n    2. Braytech 为对电子游戏《命运 2》所作的免费饭制服务。此隐私政策解释了您的数据被本应用所使用的方式。\n    3. Braytech 正持续开发，且开发者可能会随时修改此隐私政策，以反映其隐私用法的变化。我们鼓励您定期回看此隐私政策并检查隐私政策末尾处的日期以确保其为最新版本。\n    4. 在此，“开发者”指代为 Tom Chapman。\n2. 开发者所收集的信息\n    1. 由您所提供的信息\n        1. 您的平台特用档案名称被用于加载及显示您的《命运》档案。在任何时候您的私有凭证都不会被收集或使用。\n        2. Braytech 的赞助者亦可以自愿提供其电子邮箱地址，以作为将其《命运》档案与其 Patreon 账号相关联的方式，因而可接收其 Patreon 众筹的适当凭证。\n    2. 开发者自动收集的信息\n        1. 由您对服务的使用所产生的有关数据可能含有您的 IP 地址、浏览器名称与版本、操作系统、推荐来源、访问时长、查看页面以及网页导航路径，且包括您使用服务的时间、频率与方式的信息。\n3. 您的个人数据使用方式\n    1. 《命运》与 Bungie 账号信息\n        1. 为显示与操作《命运》游戏信息，Braytech 使用了 Bungie.net 的 API。Braytech 所能接收到，或即有权限使用的信息，仅包括您的游戏信息（物品、角色等）以及基础账号信息，包括您的 Bungie,net 成员 ID，以及任何关联服务的识别码，比如您的公共 PSN、Xbox Live、Steam、Stadia、暴雪或 Bungie.net 用户名。开发者没有权限获取您的电子邮箱、名字、地址、付款信息或任何其它由 Bungie 或其它游戏平台所持有的个人信息。\n        2. Bungie.net API 的使用受到 Bungie.net 的[使用条款](https://www.bungie.net/7/en/Legal/Terms)与[隐私政策](https://www.bungie.net/7/en/Legal/PrivacyPolicy)所约束。\n    2. Patreon\n        1. 由您，用户，出于将《命运》档案与您的 Patreon 账户关联的目的所提供的数据仅将用于此用途，且将通过 Voluspa 安全地储存。\n    3. 使用数据\n        1. 此使用数据可能会出于分析对网站与服务的使用的目的而被处理。此种处理的法律依据为您的许可或是我们的正当爱好，亦即监测与改进我们的网站与服务。\n    4. Braytech 设定同步\n        1. Voluspa 启用了一种 Braytech 特性，允许您，即用户，存储您的数据（Braytech 设定）并将其在 Braytech 实例间同步。此信息仅可由您与开发者访问。\n\n最后更新于 2021 年 5 月 19 日，星期三。"
+      "Policy": "1.  序言\n    1. 出于任何目的，英语版本的此隐私政策应为政策原件、管理文据以及双方的协议。若英语版本的此隐私政策与随后翻译为任何其它语言的版本出现任何冲突，则应以英语版本为准。\n    2. Braytech 为对电子游戏《命运 2》所作的免费饭制服务。此隐私政策解释了您的数据被本应用所使用的方式。\n    3. Braytech 正持续开发，且开发者可能会随时修改此隐私政策，以反映其隐私用法的变化。我们鼓励您定期回看此隐私政策并检查隐私政策末尾处的日期以确保其为最新版本。\n    4. 在此，“开发者”指代为 Tom Chapman。\n2. 开发者所收集的信息\n    1. 由您所提供的信息\n        1. 您的平台特用档案名称被用于加载及显示您的《命运》档案。在任何时候您的私有凭证都不会被收集或使用。\n        2. Braytech 的赞助者亦可以自愿提供其电子邮箱地址，以作为将其《命运》档案与其 Patreon 账号相关联的方式，因而可接收其 Patreon 众筹的适当凭证。\n    2. 开发者自动收集的信息\n        1. 由您对服务的使用所产生的有关数据可能含有您的 IP 地址、浏览器名称与版本、操作系统、推荐来源、访问时长、查看页面以及网页导航路径，且包括您使用服务的时间、频率与方式的信息。\n3. 您的个人数据使用方式\n    1. 《命运》与 Bungie 账号信息\n        1. 为显示与操作《命运》游戏信息，Braytech 使用了 Bungie.net 的 API。Braytech 所能接收到，或即有权限使用的信息，仅包括您的游戏信息（物品、角色等）以及基础账号信息，包括您的 Bungie,net 成员 ID，以及任何关联服务的识别码，比如您的公共 PSN、Xbox Live、Steam、Stadia、暴雪或 Bungie.net 用户名。开发者没有权限获取您的电子邮箱、名字、地址、付款信息或任何其它由 Bungie 或其它游戏平台所持有的个人信息。\n        2. Bungie.net API 的使用受到 Bungie.net 的[使用条款](https://www.bungie.net/7/en/Legal/Terms)与[隐私政策](https://www.bungie.net/7/en/Legal/PrivacyPolicy)所约束。\n    2. Patreon\n        1. 由您，用户，出于将《命运》档案与您的 Patreon 账号关联的目的所提供的数据仅将用于此用途，且将通过 Voluspa 安全地储存。\n    3. 使用数据\n        1. 此使用数据可能会出于分析对网站与服务的使用的目的而被处理。此种处理的法律依据为您的许可或是我们的正当爱好，亦即监测与改进我们的网站与服务。\n    4. Braytech 设定同步\n        1. Voluspa 启用了一种 Braytech 特性，允许您，即用户，存储您的数据（Braytech 设定）并将其在 Braytech 实例间同步。此信息仅可由您与开发者访问。\n\n最后更新于 2021 年 5 月 19 日，星期三。"
     }
   },
   "App": {
@@ -191,17 +191,17 @@
       "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
       "Name": "已关联的平台账号"
     },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
+    "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
     "LinkPatreon": {
       "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
-      "Name": "🦘 Patreonアカウントとリンク",
+      "Name": "关联至Patreon",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "感谢！你的电子邮件目前与你的个人资料关联",
-      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
+      "Success": "感谢！你的 Patreon 帐号邮箱现在已链接到你的 Bungie.net 个人资料。",
+      "Info": "某些 **Patreon** 的订阅层级包含奖励，例如 **奖牌**，这些奖牌会显示在你的玩家名称旁和对话框中。如需显示你获得的任何奖牌，请输入与你的 Patreon 账号关联的电子邮箱地址。"
     },
     "Suggestion": {
       "Subtle": "使用 Bungie.net 登录以解锁更多功能",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "Subscriptions": "你需要通过登录 Bungie.net 进行身份验证，以便创建或管理订阅。",
       "Text": "Braytech 的大部分功能对所有用户可用，并且依赖于公开数据，而《命运》的一些功能需要访问权限，您可以通过登录 Bungie.net 进行身份验证来授权 Braytech"
     }
   },
@@ -214,9 +214,9 @@
     "Compare": {
       "ObtainFromVendor": "从{{name}}获得"
     },
-    "DiffProfile": "你正在查看他人的个人资料。该页面下的任意按钮点了不会有任何反应！",
-    "FiltersApplied": "🦘 Filters Applied",
-    "Placeholder": "🦘 enter item name"
+    "DiffProfile": "你正在查看他人的个人资料。点击该页面下的任意按钮不会有任何反应！",
+    "FiltersApplied": "已筛选",
+    "Placeholder": "输入物品名称"
   },
   "Clan": {
     "BannerPerks": "旗帜特性",
@@ -260,8 +260,8 @@
           "Name": "公会成员"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "将搜索范围限制为仅包含 Bungie 好友。",
+          "Name": "Bungie 好友"
         }
       }
     },
@@ -316,8 +316,8 @@
     "ReceivedAbr": "已收到",
     "Sent": "已送出嘉奖",
     "SentAbr": "已送出",
-    "ScoreCardSend": "🦘 Send for **{{number}}** score",
-    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
+    "ScoreCardSend": "送出此项嘉奖获得 **{{number}}** 分",
+    "ScoreCardReceived": "收到此项嘉奖获得 **{{number}}** 分"
   },
   "Common": {
     "CurrentRankNth": "当前等级: {{value}}",
@@ -358,8 +358,8 @@
     "Completed": "已完成",
     "CruciblePlaylist": "熔炉游戏列表",
     "DateTime": "时间",
-    "Emblem": "🦘 Emblem",
-    "Emblem_plural": "🦘 Emblems",
+    "Emblem": "徽标",
+    "Emblem_plural": "徽标",
     "Empty": "空的",
     "Equipment": "装备",
     "Error": "错误",
@@ -391,9 +391,9 @@
     "Inventory": "库存",
     "ItemRolls": "物品特性",
     "Items": "物品",
-    "Loadout": "🦘 Loadout",
-    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
-    "Slot": "🦘 Slot {{number}}",
+    "Loadout": "配置",
+    "LoadoutSlotPreview": "预览 {{number}} 号槽位的配置",
+    "Slot": "槽位 {{number}}",
     "LevelNth": "Lv.{{number}}",
     "Location": "位置",
     "Lore": "传说故事",
@@ -409,15 +409,15 @@
     "Patreon": "Patreon",
     "Patron_plural": "赞助人",
     "Player": "玩家",
-    "Player_plural": "🦘 Players",
+    "Player_plural": "玩家",
     "Preview": "预览",
     "Profile": "个人资料",
-    "Profile_plural": "🦘 Profiles",
+    "Profile_plural": "个人资料",
     "Progress": "进程",
     "Progression": "等级",
     "Quests": "任务",
     "Rank_plural": "商人声望",
-    "Rarity": "🦘 Rarity",
+    "Rarity": "稀有度",
     "Record": "记录",
     "Record_plural": "记录",
     "Report_plural": "报告",
@@ -427,11 +427,11 @@
     "Reward_plural": "奖励",
     "Savathûn'sCurse": "萨瓦图恩之咒",
     "Score": "分数",
-    "Score_plural": "🦘 Scores",
+    "Score_plural": "分数",
     "ScoreValue": "分值",
     "Screenshot": "截图",
     "Search": "搜索",
-    "Season": "🦘 Season",
+    "Season": "赛季",
     "SeasonNth": "第 {{number}} 赛季",
     "Year": "🦘 Year",
     "SeasonPass": "季票",
@@ -463,7 +463,7 @@
     "Vendor_plural": "先锋等级",
     "Views": "查看次数",
     "Weapon": "武器",
-    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
+    "WebringInfo": "拜访Braytech的一位朋友，这是另一个由社区创建的 Desinty 项目。",
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
   },
@@ -490,7 +490,7 @@
   "Item": {
     "Ammo": "弹药",
     "AmmoType": "弹药类型",
-    "Armor": "🦘 Armor",
+    "Armor": "护甲",
     "ArmorStats": "护甲属性",
     "Appearance": "🦘 Appearance",
     "BasicCharacteristics": "基本信息",
@@ -498,7 +498,7 @@
     "BreakerType": "职业类型",
     "ClassType": "🦘 Class Type",
     "CumulativeStats": "🦘 Cumulative Stats",
-    "DamageType": "🦘 Damage Type",
+    "DamageType": "伤害类型",
     "ClassEquipped": "{{name}} (已解锁)",
     "ClassPostmaster": "{{name}} (邮政官)",
     "CollectionsRoll": "收藏品",
@@ -523,16 +523,16 @@
     "Perks": "特性组合",
     "PowerLimit": "能量上限",
     "RedeemWithCode": "在Bungie官网 [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) 中使用代码 '{{code}}'来获取这个徽标奖励",
-    "Shaped": "🦘 Shaped",
+    "Shaped": "塑形",
     "ShapedDate": "T.D. {{date}}",
     "StatTotal": "总计",
     "State": "数据",
     "Stats": "统计数据",
-    "Subclass": "🦘 Subclass",
+    "Subclass": "子职业",
     "Sunset": "退环境",
     "TransferMaximumStack": " {{name}} 的最大堆积上限为 {{size}}。消耗掉一些物品并于稍后再试。",
     "UndiscoveredCollectibleVendor": "获取这个物品并添加进你的收藏之中",
-    "Weapons": "🦘 Weapons",
+    "Weapons": "武器",
     "WeaponKills": "武器击杀",
     "WeaponStats": "武器属性"
   },
@@ -540,16 +540,16 @@
     "FeaturedThisWeek": "本周的命运",
     "CallToAction": "通过 Braytech 探索《命运》宇宙，获得有用的知识和信息并将其用于您与暗影力量之间的战斗。",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "关于《命运2》角色进度、公会、成就、收藏品等等。Braytech是《命运2》的一个粉丝网站，允许用户查看和映射清单、追踪和查看成就、检查收藏品，以及更多其他功能。\n\nBraytech 起初只是一个清单应用，但现在已经发展成为集合了众多功能的庞然大物。它始终在不断改进和扩展。\n\n需要快速找到某样东西吗？按下  并开始输入！Braytech有一个搜索界面，可在应用中的任何位置使用。\n\nBraytech 首先是为桌面端用户构建的，但在较小的设备上同样功能完善且界面美观。事实上，还有一个 [iPhone app](https://apps.apple.com/app/braytech/id1593151816) 和一个 [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). 想提一些建议吗？加入 [Discord](https://discord.bray.tech) ！",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support",
-      "Action": "🦘 Become a Supporter"
+      "Description": "Braytech 的开发是一项全职工作——我设计并开发它旨在提升自我和辅助所有守护者。我反对广告，即使这可能导致我自己的失败。你的支持将使我能够继续运营这个网站，让我能够尽我所能地工作，并使你的《命运2》游玩体验更加出色。我希望你喜欢使用 Braytech 的程度与我喜欢开发它的程度一样！💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
+      "Name": "你是粉丝吗？请展现你的支持。",
+      "Action": "成为赞助者"
     },
-    "Polls": "🦘 Polls",
-    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
+    "Polls": "投票",
+    "PollsChannel": "加入 [Discord](https://discord.bray.tech) ，讨论并投票决定 Braytech 如何改进",
     "Updates": "最近更新",
     "Blog": {
       "AllPosts": "所有文章",
@@ -568,8 +568,8 @@
       "Frequency": {
         "Daily": "每天",
         "Weekly": "每周",
-        "Monthly": "🦘 Monthly",
-        "Annually": "🦘 Annually"
+        "Monthly": "每月",
+        "Annually": "每年"
       },
       "Relative": {
         "Future": "将在 {{duration}}",
@@ -626,7 +626,7 @@
   },
   "Legend": {
     "Profile": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+      "Description": "是什么赋予了你力量？在光能与暗影之间，你是像泰坦一样坚守前线，还是像术士一样从远处瓦解整支军队，或者像猎人一样机敏地潜行于阴影之中？"
     },
     "Activity": {
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
@@ -660,8 +660,8 @@
       "Name": "来自 Bungie 的错误"
     },
     "VoluspaError": {
-      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
-      "Name": "🦘 Voluspa Error"
+      "Description": "Braytech 无法连接到 Voluspa 网络。请检查你的网络连接。",
+      "Name": "Voluspa 错误"
     },
     "IndexedDBError": {
       "Description": "尝试访问浏览器存储时发生错误.\n\n 如果这一错误反复出现，您应当检查您的浏览器与本地存储权限有关的设置。"
@@ -778,17 +778,17 @@
     "NthMore": "还有 {{number}} 个",
     "NthRemaining": "剩余 {{number}} 个",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "邮政长快没有地方存放你的物品了。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
-      "DescriptionFull": "邮政长已经用完了所有空间。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
+      "DescriptionAlmostFull": "邮政管快没有地方存放你的物品了。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
+      "DescriptionFull": "邮政管已经用完了所有空间。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
       "Name": "警告!"
     },
     "PushNotifications": {
-      "Description": "当您外出接时，您的设备取消了Voluspa向您发送推送通知的权限。\n\n如果这不是您想要的，您可能需要检查您的设置。",
+      "Description": "在你外出时，你的设备已经取消了 Voluspa 向你推送通知的权限。\n\n如果你不希望这样，可能需要检查你的设置。",
       "Name": "通知推送"
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "没有找到这个公会",
+    "NoGroupsFound": "没有找到此公会",
     "SearchPlaceholder": "请输入公会名称"
   },
   "ProfileSearch": {
@@ -812,16 +812,16 @@
         "Name": "选择不可用"
       },
       "MemberBanned": {
-        "Description": "该账户被禁止使用该应用。这并非错误。",
-        "Name": "账户被禁用"
+        "Description": "该账号被禁止使用该应用。这并非错误。",
+        "Name": "账号被禁用"
       },
       "PrivateProgression": {
-        "Description": "你的账户进程数据不可用。可能是因为你的账户在 Bungie.net 设置为私密。\n\n你可以在Bungie.net更改你的隐私设置，或者授权Braytech与Bungie.net连接。",
+        "Description": "你的账号进程数据不可用。可能是因为你的账号在 Bungie.net 设置为私密。\n\n你可以在Bungie.net更改你的隐私设置，或者授权Braytech与Bungie.net连接。",
         "Name": "私密个人资料"
       },
       "NoCharacters": {
         "Description": "该玩家没有创建任何角色！",
-        "Name": "🦘 No Characters"
+        "Name": "无角色"
       }
     },
     "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
@@ -839,8 +839,8 @@
     "PointsNextRank": "下一级所需分数",
     "PointsTotal": "总分",
     "PrestigeNth": "声望数值 {{number}}",
-    "ResetsNth": "🦘 1 Reset",
-    "ResetsNth_plural": "🦘 {{number}} Resets",
+    "ResetsNth": "1 次重置",
+    "ResetsNth_plural": "{{number}} 次重置",
     "Rank": "排名",
     "RankNth": "等级 {{number}}",
     "ResetVendor": "回去找商人重置你的等级",
@@ -1081,7 +1081,7 @@
         "AlternateAppIcon": "应用图标",
         "Bindings": "按钮外观",
         "FlipSubviewNav": "翻转子视图导航",
-        "ItemSize": "库存物品图标大小"
+        "ItemSize": "库存物品图标尺寸"
       },
       "ItemVisibility": "清单项可见度",
       "LS": "本地数据",
@@ -1096,7 +1096,7 @@
       "VisualFidelity": "视觉保真度"
     },
     "Subscriptions": {
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Info": "广告很烦人，所以Braytech不会添加广告，但这并不意味着它是免费或容易的！\n\n取而代之的是，我需要你的慷慨支持。 你的支持将帮助我开发新功能并支付租金，使 Braytech 能够持续提供在线服务！\n\n订阅以下任何一个层级，即可获得酷炫的奖励，例如个人资料勋章！",
       "State": {
         "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
         "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
@@ -1108,7 +1108,7 @@
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "🦘 Tiers"
+      "Tiers": "等级"
     },
     "Sync": {
       "Action": {
@@ -1144,10 +1144,10 @@
       }
     },
     "Theme": {
-      "Light": "亮",
-      "Medium": "🦘 Medium",
-      "Dark": "暗",
-      "Black": "黑",
+      "Light": "明亮",
+      "Medium": "中等",
+      "Dark": "幽暗",
+      "Black": "深黑",
       "SystemPreference": {
         "Name": "跟随系统偏好",
         "Description": "Braytech 将会在支持的设备上使用你的系统设置。"
@@ -1192,29 +1192,29 @@
     "Actions": {
       "Acquire": "取回",
       "Compare": "比较",
-      "Commonality": "🦘 Commonality",
-      "Delete": "🦘 Delete",
+      "Commonality": "持有率",
+      "Delete": "删除",
       "Equip": "装备",
       "Favourite": "收藏",
       "Garbage": "垃圾",
-      "Details": "🦘 Details",
+      "Details": "详情",
       "Lock": "锁定",
-      "Lore": "🦘 Lore",
+      "Lore": "传奇故事",
       "NotGarbage": "非垃圾",
-      "Overwrite": "🦘 Overwrite",
-      "Remove": "🦘 Remove",
-      "SaveNew": "🦘 Save New",
+      "Overwrite": "覆盖",
+      "Remove": "移除",
+      "SaveNew": "保存新配置",
       "Select": "选择",
       "Store": "寄存",
       "Unfavourite": "取消收藏",
       "Unlock": "解锁",
       "Vault": "保险库",
-      "Track": "🦘 Track",
-      "Hide": "🦘 Hide"
+      "Track": "追踪",
+      "Hide": "隐藏"
     },
     "Item": {
       "ExpiresIn": "在 {{duration}} 后过期",
-      "ItemMissing": "🦘 Item cannot be found.",
+      "ItemMissing": "物品未被找到。",
       "NoDescription": "暂无描述",
       "Quantity": "数量",
       "QuantityMax": "最大值"
@@ -1229,11 +1229,11 @@
   },
   "Triumphs": {
     "AllCompleted": "全部完成",
-    "NonePartiallyComplete": "没有部分完成的成就。选择一个目标然后开始努力吧！",
+    "NonePartiallyComplete": "暂无部分完成的成就。选择一个目标然后开始努力吧！",
     "NearTriumphs": "即将完成",
     "NearLimit": "限于性能原因，仅显示 {{number}} 项成就.",
-    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "NearTotal": "你有 **{{number}}** 项成就未完成。",
+    "PartiallyComplete": "{{number}} 部分完成",
     "Classified": {
       "Description": "这个记录为绝密并可能在之后被解密。",
       "Name": "绝密记录"
@@ -1301,12 +1301,12 @@
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "给予分数的成就",
+        "Description": "仅显示那些在完成时将给予成就分的记录"
       }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录！",
-    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
+    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\n你可以在[Settings](/settings)中启用同步功能以同步你的成就.",
     "TrackedTriumphs": "已跟踪记录",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",
@@ -1318,10 +1318,10 @@
       "Description": "想查询您的目标和其它数据进度吗？通过Bungie.net进行身份认证，并允许Braytech安全获取您的个人游戏数据资料"
     },
     "Subscriptions": {
-      "SupportBraytech": "🦘 Support Braytech",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+      "SupportBraytech": "赞助 Braytech",
+      "BuildBraytech": "构建 Braytech",
+      "Info": " 广告很烦人，所以 Braytech 不会添加广告。但开发和维护 Braytech 需要花费时间。\n\n为了替代广告，Braytech 需要你的慷慨支持。你的支持将帮助 Braytech 能够持续提供在线服务，使我能够开发新功能，并且让开发者能够维持生计和住所！",
+      "RewardSeraph": "解锁 **炽天使** 奖牌, 这象征着对于保护战争思维及其资源，以及改善人类的奉献与承诺。",
       "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
       "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
       "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对 [在Parteon上赞助我们来获取一些稀有徽章](https://www.patreon.com/braytech) 这件事感兴趣？",
@@ -1348,7 +1348,7 @@
     },
     "CollectedBy": "{{number}} 名玩家已收集",
     "Commonality": "持有率",
-    "Frequency": "🦘 Frequency",
+    "Frequency": "频率",
     "CompletedBy": "{{number}} 名玩家已完成",
     "Crawled": "{{number}} 名玩家已被 Voluspa 索引。",
     "GraphType": {
