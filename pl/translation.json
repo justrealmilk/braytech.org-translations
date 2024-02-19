@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "🦘 Recently Discovered",
     "SetComplete": "🦘 Set complete",
-    "SomeAcquiredSomeInvisible": "🦘 Some acquired, {{invisible}} invisible"
+    "SomeAcquiredSomeInvisible": "🦘 Some acquired, {{invisible}} invisible",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -351,7 +353,6 @@
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
     "Empty": "🦘 Empty",
-    "Encounter": "🦘 Encounter",
     "Equipment": "🦘 Equipment",
     "Error": "🦘 Error",
     "Event": "🦘 이벤트",

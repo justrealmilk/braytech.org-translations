@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "最近の発見",
     "SetComplete": "すべて入手済み",
-    "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません"
+    "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -351,7 +353,6 @@
     "Emblem": "エンブレム",
     "Emblem_plural": "エンブレム",
     "Empty": "Empty",
-    "Encounter": "🦘 Encounter",
     "Equipment": "装備",
     "Error": "エラー",
     "Event": "イベント",

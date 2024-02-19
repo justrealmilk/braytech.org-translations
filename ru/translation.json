@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "Недавно найденные",
     "SetComplete": "Коллекция завершена",
-    "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто"
+    "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "Получено",
@@ -351,7 +353,6 @@
     "Emblem": "Эмблема",
     "Emblem_plural": "Эмблемы",
     "Empty": "Пусто",
-    "Encounter": "🦘 Encounter",
     "Equipment": "Снаряжение",
     "Error": "Ошибка",
     "Event": "Событие",

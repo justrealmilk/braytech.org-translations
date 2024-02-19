@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "最近發現的",
     "SetComplete": "集合完畢",
-    "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的"
+    "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -351,7 +353,6 @@
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
     "Empty": "空的",
-    "Encounter": "🦘 Encounter",
     "Equipment": "裝備",
     "Error": "錯誤",
     "Event": "公開事件",

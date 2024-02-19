@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "Descubierto recientemente",
     "SetComplete": "Conjunto completado",
-    "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles"
+    "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "Recibidos",
@@ -351,7 +353,6 @@
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemas",
     "Empty": "Vacío",
-    "Encounter": "🦘 Encounter",
     "Equipment": "Equipamiento",
     "Error": "Error",
     "Event": "Evento",

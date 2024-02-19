@@ -300,7 +300,9 @@
     },
     "RecentlyDiscovered": "최근 발견",
     "SetComplete": "🦘 Set complete",
-    "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐"
+    "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
+    "Encounter": "🦘 Encounter",
+    "AnyEncounter": "🦘 Any Encounter"
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -351,7 +353,6 @@
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
     "Empty": "🦘 Empty",
-    "Encounter": "🦘 Encounter",
     "Equipment": "장비",
     "Error": "오류",
     "Event": "이벤트",
