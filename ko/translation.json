@@ -311,8 +311,6 @@
     "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
   },
   "Common": {
-    "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "🦘 Actions",
     "Activate": "활성화",
     "Active": "🦘 Active",
@@ -331,6 +329,7 @@
     "Challenge": "도전",
     "Challenge_plural": "도전",
     "Character": "🦘 Character",
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
     "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "캐릭터 직업",
     "CharacterLight": "🦘 Character Light",
@@ -352,6 +351,7 @@
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
     "Empty": "🦘 Empty",
+    "Encounter": "🦘 Encounter",
     "Equipment": "장비",
     "Error": "오류",
     "Event": "이벤트",
@@ -424,6 +424,7 @@
     "Search": "검색",
     "Season": "🦘 Season",
     "SeasonNth": "{{number}}시즌",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Year": "🦘 Year",
     "SeasonPass": "시즌 패스",
     "SeasonRank": "시즌 등급",

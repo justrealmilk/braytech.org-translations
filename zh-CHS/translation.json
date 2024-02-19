@@ -311,8 +311,6 @@
     "ScoreCardReceived": "收到此项嘉奖获得 **{{number}}** 分"
   },
   "Common": {
-    "CurrentRankNth": "当前等级: {{value}}",
-    "SeasonEndsIn": "{{number}} 赛季将于 {{duration}} 后结束",
     "Actions": "行动",
     "Activate": "激活",
     "Active": "激活",
@@ -331,6 +329,7 @@
     "Challenge": "挑战",
     "Challenge_plural": "挑战",
     "Character": "角色",
+    "CurrentRankNth": "当前等级: {{value}}",
     "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "CharacterClass": "角色职业",
     "CharacterLight": "角色光等",
@@ -352,6 +351,7 @@
     "Emblem": "徽标",
     "Emblem_plural": "徽标",
     "Empty": "空的",
+    "Encounter": "🦘 Encounter",
     "Equipment": "装备",
     "Error": "错误",
     "Event": "公共事件",
@@ -424,6 +424,7 @@
     "Search": "搜索",
     "Season": "赛季",
     "SeasonNth": "第 {{number}} 赛季",
+    "SeasonEndsIn": "{{number}} 赛季将于 {{duration}} 后结束",
     "Year": "🦘 Year",
     "SeasonPass": "季票",
     "SeasonRank": "赛季等级",

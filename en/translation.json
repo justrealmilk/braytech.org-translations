@@ -311,8 +311,6 @@
     "ScoreCardReceived": "Receive for **{{number}}** score"
   },
   "Common": {
-    "CurrentRankNth": "Current Rank: {{value}}",
-    "SeasonEndsIn": "Season {{number}}: ends in {{duration}}",
     "Actions": "Actions",
     "Activate": "Activate",
     "Active": "Active",
@@ -331,6 +329,7 @@
     "Challenge": "Challenge",
     "Challenge_plural": "Challenges",
     "Character": "Character",
+    "CurrentRankNth": "Current Rank: {{value}}",
     "BrowseNthMembers_plural": "Browse {{number}} Members",
     "CharacterClass": "Character Class",
     "CharacterLight": "Character Light",
@@ -352,6 +351,7 @@
     "Emblem": "Emblem",
     "Emblem_plural": "Emblems",
     "Empty": "Empty",
+    "Encounter": "Encounter",
     "Equipment": "Equipment",
     "Error": "Error",
     "Event": "Event",
@@ -424,6 +424,7 @@
     "Search": "Search",
     "Season": "Season",
     "SeasonNth": "Season {{number}}",
+    "SeasonEndsIn": "Season {{number}}: ends in {{duration}}",
     "Year": "Year",
     "SeasonPass": "Season Pass",
     "SeasonRank": "Season Rank",

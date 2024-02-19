@@ -311,8 +311,6 @@
     "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
   },
   "Common": {
-    "CurrentRankNth": "Grado attuale: {{value}}",
-    "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}",
     "Actions": "Azioni",
     "Activate": "Attiva",
     "Active": "Attivo",
@@ -331,6 +329,7 @@
     "Challenge": "Sfida",
     "Challenge_plural": "Sfide",
     "Character": "Personaggio",
+    "CurrentRankNth": "Grado attuale: {{value}}",
     "BrowseNthMembers_plural": "Mostra {{number}} membri",
     "CharacterClass": "Classe del personaggio",
     "CharacterLight": "Luce del personaggio",
@@ -352,6 +351,7 @@
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemi",
     "Empty": "Vuoto",
+    "Encounter": "🦘 Encounter",
     "Equipment": "Equipaggiamento",
     "Error": "Errore",
     "Event": "Evento",
@@ -424,6 +424,7 @@
     "Search": "Cerca",
     "Season": "🦘 Season",
     "SeasonNth": "Stagione {{number}}",
+    "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}",
     "Year": "🦘 Year",
     "SeasonPass": "Pass stagionale",
     "SeasonRank": "Grado stagionale",

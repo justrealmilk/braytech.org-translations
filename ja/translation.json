@@ -311,8 +311,6 @@
     "ScoreCardReceived": "貰うと**{{number}}**スコア"
   },
   "Common": {
-    "CurrentRankNth": "現在のランク: {{value}}",
-    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
     "Actions": "アクション",
     "Activate": "起動する",
     "Active": "アクティブ",
@@ -331,6 +329,7 @@
     "Challenge": "チャレンジ",
     "Challenge_plural": "チャレンジ",
     "Character": "キャラクター",
+    "CurrentRankNth": "現在のランク: {{value}}",
     "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "CharacterClass": "キャラクタークラス",
     "CharacterLight": "キャラクターの光",
@@ -352,6 +351,7 @@
     "Emblem": "エンブレム",
     "Emblem_plural": "エンブレム",
     "Empty": "Empty",
+    "Encounter": "🦘 Encounter",
     "Equipment": "装備",
     "Error": "エラー",
     "Event": "イベント",
@@ -424,6 +424,7 @@
     "Search": "検索",
     "Season": "シーズン",
     "SeasonNth": "シーズン {{number}} ",
+    "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
     "Year": "Year",
     "SeasonPass": "シーズンパス",
     "SeasonRank": "シーズンランク",

@@ -311,8 +311,6 @@
     "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
   },
   "Common": {
-    "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Actions": "行動",
     "Activate": "激活",
     "Active": "生效",
@@ -331,6 +329,7 @@
     "Challenge": "挑戰",
     "Challenge_plural": "挑戰",
     "Character": "🦘 Character",
+    "CurrentRankNth": "🦘 Current Rank: {{value}}",
     "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "角色類",
     "CharacterLight": "角色光等",
@@ -352,6 +351,7 @@
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
     "Empty": "空的",
+    "Encounter": "🦘 Encounter",
     "Equipment": "裝備",
     "Error": "錯誤",
     "Event": "公開事件",
@@ -424,6 +424,7 @@
     "Search": "搜索",
     "Season": "🦘 Season",
     "SeasonNth": "賽季 {{number}}",
+    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
     "Year": "🦘 Year",
     "SeasonPass": "賽季通行證",
     "SeasonRank": "賽季等級",
