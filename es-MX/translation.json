@@ -157,8 +157,7 @@
     },
     "Version": "Versión",
     "TemporaryError": "Se produjo un error temporal de Bungie.",
-    "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se detuvo.\n\nLa interacción con la aplicación reactivará el servicio.",
-    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
+    "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se detuvo.\n\nLa interacción con la aplicación reactivará el servicio."
   },
   "Auth": {
     "Data": {

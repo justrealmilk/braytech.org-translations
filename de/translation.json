@@ -157,8 +157,7 @@
     },
     "Version": "Version",
     "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf.",
-    "MemberServiceInactive": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert.",
-    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
+    "MemberServiceInactive": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert."
   },
   "Auth": {
     "Data": {

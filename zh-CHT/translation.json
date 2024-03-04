@@ -157,8 +157,7 @@
     },
     "Version": "版本",
     "TemporaryError": "Bungie發生了一個臨時錯誤",
-    "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。",
-    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
+    "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。"
   },
   "Auth": {
     "Data": {

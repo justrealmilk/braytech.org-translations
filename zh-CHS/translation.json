@@ -157,8 +157,7 @@
     },
     "Version": "版本",
     "TemporaryError": "Bungie 发生了一个临时错误。",
-    "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新",
-    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
+    "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
   },
   "Auth": {
     "Data": {
