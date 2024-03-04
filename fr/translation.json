@@ -157,7 +157,8 @@
     },
     "Version": "Version",
     "TemporaryError": "Une erreur Bungie temporaire s'est produite.",
-    "MemberServiceInactive": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé."
+    "MemberServiceInactive": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé.",
+    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
   },
   "Auth": {
     "Data": {

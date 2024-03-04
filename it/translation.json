@@ -157,7 +157,8 @@
     },
     "Version": "Versione",
     "TemporaryError": "Si è verificato un errore temporaneo da parte di Bungie.",
-    "MemberServiceInactive": "A causa di inattività, l'aggiornamento dei dati in background è stato sospeso.\n\nInteragire con l'app riattiverà il servizio."
+    "MemberServiceInactive": "A causa di inattività, l'aggiornamento dei dati in background è stato sospeso.\n\nInteragire con l'app riattiverà il servizio.",
+    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
   },
   "Auth": {
     "Data": {

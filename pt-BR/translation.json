@@ -157,7 +157,8 @@
     },
     "Version": "Versão",
     "TemporaryError": "Ocorreu um erro temporário da Bungie.",
-    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
+    "AdBlocked": "🦘 So, you're blocking ads. Maybe you'd prefer to support Braytech through a [subscription](/settings/subscriptions) instead..."
   },
   "Auth": {
     "Data": {
