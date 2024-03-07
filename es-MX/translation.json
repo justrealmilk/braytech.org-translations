@@ -1236,7 +1236,8 @@
       "FireteamLoading": "Cargando miembros de la escuadra",
       "NoClanOrFireteam": "¡Únete a una escuadra o a un clan para comparar a tus compañeros Guardianes contigo!",
       "NotCompleted": "No completado",
-      "OpenView": "Abrir vista detallada"
+      "OpenView": "Abrir vista detallada",
+      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
     },
     "DudTriumphs": "Inservibles",
     "EventCard": "Tarjeta de evento",

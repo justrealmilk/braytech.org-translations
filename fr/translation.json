@@ -1236,7 +1236,8 @@
       "FireteamLoading": "Chargement des membres de l'escouade",
       "NoClanOrFireteam": "Rejoignez une escouade ou un clan pour voir comment vos camarades gardiens s'entassent à côté de vous !",
       "NotCompleted": "Pas complété",
-      "OpenView": "Ouvrir la vue des détails"
+      "OpenView": "Ouvrir la vue des détails",
+      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
     },
     "DudTriumphs": "Ratés",
     "EventCard": "Carte de l'évènement",

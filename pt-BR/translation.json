@@ -1236,7 +1236,8 @@
       "FireteamLoading": "🦘 Loading fireteam members",
       "NoClanOrFireteam": "Entre em um esquadrão ou clã para ver como os seus colegas Guardiões se comportam ao seu lado!",
       "NotCompleted": "Não completado",
-      "OpenView": "Abrir página de detalhes"
+      "OpenView": "Abrir página de detalhes",
+      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
     },
     "DudTriumphs": "Falsos",
     "EventCard": "🦘 Event Card",
