@@ -1245,20 +1245,12 @@
     "LegacyTriumph_plural": "Legacy Triumphs",
     "SelectEntry": "Select an entry to read.",
     "Record": {
-      "Commonality": {
-        "Description": "Percentage of players who are crawled and assessed by Voluspa who've completed this record."
-      },
-      "Expiration": {
-        "Description": "This record may no longer be obtainable once expired."
-      },
+      "Commonality": "Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
+      "Expiration": "This record may no longer be obtainable once expired.",
       "Expires": "Expires at the end of Season {{season}}",
       "IntervalFraction": "{{numerator}} of {{denominator}}",
-      "Score": {
-        "Description": "This record's finite triumph score value."
-      },
-      "ScoreInterval": {
-        "Description": "The next unredeemed interval's score value over the total record value."
-      }
+      "Score": "This record's finite triumph score value.",
+      "ScoreInterval": "The next unredeemed interval's score value over the total record value."
     },
     "PotentialUnattainedScore": "The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "You have redeemed all of these records and chosen to hide them.",

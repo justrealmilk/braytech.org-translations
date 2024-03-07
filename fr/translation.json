@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "Triomphes du passé",
     "SelectEntry": "Sélectionnez une entrée à lire",
     "Record": {
-      "Commonality": {
-        "Description": "Pourcentage de joueurs indexés par Voluspa qui ont validé ce triomphe."
-      },
-      "Expiration": {
-        "Description": "Ce triomphe ne pourra plus être obtenu une fois expiré."
-      },
+      "Commonality": "Pourcentage de joueurs indexés par Voluspa qui ont validé ce triomphe.",
+      "Expiration": "Ce triomphe ne pourra plus être obtenu une fois expiré.",
       "Expires": "Expire à la fin de la Saison {{season}}",
       "IntervalFraction": "{{numerator}} sur {{denominator}}",
-      "Score": {
-        "Description": "Valeur du score de triomphe terminé pour cet enregistrement."
-      },
-      "ScoreInterval": {
-        "Description": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement."
-      }
+      "Score": "Valeur du score de triomphe terminé pour cet enregistrement.",
+      "ScoreInterval": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement."
+    },
+    "Record2": {
+      "Commonality": "Pourcentage de joueurs indexés par Voluspa qui ont validé ce triomphe.",
+      "Expiration": "Ce triomphe ne pourra plus être obtenu une fois expiré.",
+      "Expires": "Expire à la fin de la Saison {{season}}",
+      "IntervalFraction": "{{numerator}} sur {{denominator}}",
+      "Score": "Valeur du score de triomphe terminé pour cet enregistrement.",
+      "ScoreInterval": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement."
     },
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "Vous avez récupéré toutes ces données et choisi de les masquer.",

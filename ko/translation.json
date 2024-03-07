@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "유산 업적",
     "SelectEntry": "읽을 지식을 선택하세요.",
     "Record": {
-      "Commonality": {
-        "Description": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
-      },
-      "Expiration": {
-        "Description": "이 업적은 만료되면 더 이상 얻을 수 없습니다."
-      },
+      "Commonality": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다.",
+      "Expiration": "이 업적은 만료되면 더 이상 얻을 수 없습니다.",
       "Expires": "{{season}} 시즌 종료와 함께 만료됩니다.",
       "IntervalFraction": "{{numerator}} / {{denominator}}",
-      "Score": {
-        "Description": "이 업적에서 얻을 수 있는 점수입니다."
-      },
-      "ScoreInterval": {
-        "Description": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다."
-      }
+      "Score": "이 업적에서 얻을 수 있는 점수입니다.",
+      "ScoreInterval": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다."
+    },
+    "Record2": {
+      "Commonality": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다.",
+      "Expiration": "이 업적은 만료되면 더 이상 얻을 수 없습니다.",
+      "Expires": "{{season}} 시즌 종료와 함께 만료됩니다.",
+      "IntervalFraction": "{{numerator}} / {{denominator}}",
+      "Score": "이 업적에서 얻을 수 있는 점수입니다.",
+      "ScoreInterval": "총 업적 점수 중 현재 단계에서 얻을 수 있는 점수입니다."
     },
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",

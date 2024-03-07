@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "传承成就",
     "SelectEntry": "选择一项来阅读。",
     "Record": {
-      "Commonality": {
-        "Description": "Voluspa 所追踪玩家获得此成就的比例"
-      },
-      "Expiration": {
-        "Description": "这一成就失效后将无法再次获得。"
-      },
+      "Commonality": "Voluspa 所追踪玩家获得此成就的比例",
+      "Expiration": "这一成就失效后将无法再次获得。",
       "Expires": "在 {{season}} 赛季结束时过期",
       "IntervalFraction": "{{denominator}} 分之 {{numerator}}",
-      "Score": {
-        "Description": "这个成就的分数"
-      },
-      "ScoreInterval": {
-        "Description": "距离下次获取成就分所需要的数目"
-      }
+      "Score": "这个成就的分数",
+      "ScoreInterval": "距离下次获取成就分所需要的数目"
+    },
+    "Record2": {
+      "Commonality": "Voluspa 所追踪玩家获得此成就的比例",
+      "Expiration": "这一成就失效后将无法再次获得。",
+      "Expires": "在 {{season}} 赛季结束时过期",
+      "IntervalFraction": "{{denominator}} 分之 {{numerator}}",
+      "Score": "这个成就的分数",
+      "ScoreInterval": "距离下次获取成就分所需要的数目"
     },
     "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",

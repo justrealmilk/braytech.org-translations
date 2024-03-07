@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "Trionfi storici",
     "SelectEntry": "Seleziona una pagina da leggere.",
     "Record": {
-      "Commonality": {
-        "Description": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo."
-      },
-      "Expiration": {
-        "Description": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto."
-      },
+      "Commonality": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo.",
+      "Expiration": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto.",
       "Expires": "Scade al termine della Stagione {{season}}",
       "IntervalFraction": "{{numerator}} di {{denominator}}",
-      "Score": {
-        "Description": "Il punteggio trionfale finito di questo trionfo."
-      },
-      "ScoreInterval": {
-        "Description": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
-      }
+      "Score": "Il punteggio trionfale finito di questo trionfo.",
+      "ScoreInterval": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
+    },
+    "Record2": {
+      "Commonality": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo.",
+      "Expiration": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto.",
+      "Expires": "Scade al termine della Stagione {{season}}",
+      "IntervalFraction": "{{numerator}} di {{denominator}}",
+      "Score": "Il punteggio trionfale finito di questo trionfo.",
+      "ScoreInterval": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
     },
     "PotentialUnattainedScore": "Il Guardiano ha un punteggio di **{{number}}** in attesa di essere sbloccato.",
     "RecordsRedeemed": "Hai già riscattato tutti questi trionfi e hai scelto di nasconderli.",

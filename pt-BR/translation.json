@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "Triunfos Clássicos",
     "SelectEntry": "Selecione uma página para ler.",
     "Record": {
-      "Commonality": {
-        "Description": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro."
-      },
-      "Expiration": {
-        "Description": "Este registro pode não ser mais obtido assim que expirar."
-      },
+      "Commonality": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
+      "Expiration": "Este registro pode não ser mais obtido assim que expirar.",
       "Expires": "Expira no final da Temporada {{season}}",
       "IntervalFraction": "{{numerator}} de {{denominator}}",
-      "Score": {
-        "Description": "A pontuação total deste triunfo."
-      },
-      "ScoreInterval": {
-        "Description": "O intervalo atual de pontuação sobre a pontuação total."
-      }
+      "Score": "A pontuação total deste triunfo.",
+      "ScoreInterval": "O intervalo atual de pontuação sobre a pontuação total."
+    },
+    "Record2": {
+      "Commonality": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
+      "Expiration": "Este registro pode não ser mais obtido assim que expirar.",
+      "Expires": "Expira no final da Temporada {{season}}",
+      "IntervalFraction": "{{numerator}} de {{denominator}}",
+      "Score": "A pontuação total deste triunfo.",
+      "ScoreInterval": "O intervalo atual de pontuação sobre a pontuação total."
     },
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",

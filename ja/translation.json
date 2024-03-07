@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "過去の勝利の道のり",
     "SelectEntry": "読みたい伝承を選択してください",
     "Record": {
-      "Commonality": {
-        "Description": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。"
-      },
-      "Expiration": {
-        "Description": "この項目は、期限が切れると入手できなくなる可能性があります。"
-      },
+      "Commonality": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。",
+      "Expiration": "この項目は、期限が切れると入手できなくなる可能性があります。",
       "Expires": "シーズン{{season}}終了時に期限切れとなります。",
       "IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
-      "Score": {
-        "Description": "このレコードの勝利スコアは有限です。"
-      },
-      "ScoreInterval": {
-        "Description": "合計レコード値に対する次に獲得するスコア値"
-      }
+      "Score": "このレコードの勝利スコアは有限です。",
+      "ScoreInterval": "合計レコード値に対する次に獲得するスコア値"
+    },
+    "Record2": {
+      "Commonality": " Voluspaのインデックスに登録されているプレイヤーのうち、達成したプレイヤーの割合を表示しています。",
+      "Expiration": "この項目は、期限が切れると入手できなくなる可能性があります。",
+      "Expires": "シーズン{{season}}終了時に期限切れとなります。",
+      "IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
+      "Score": "このレコードの勝利スコアは有限です。",
+      "ScoreInterval": "合計レコード値に対する次に獲得するスコア値"
     },
     "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",

@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "Triunfos antiguos",
     "SelectEntry": "Selecciona una página para leer.",
     "Record": {
-      "Commonality": {
-        "Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este triunfo."
-      },
-      "Expiration": {
-        "Description": "Es posible que este triunfo ya no se pueda obtener una vez que haya caducado."
-      },
+      "Commonality": "Porcentaje de jugadores indizados por Voluspa que han canjeado este triunfo.",
+      "Expiration": "Es posible que este triunfo ya no se pueda obtener una vez que haya caducado.",
       "Expires": "Caduca al final de la Temporada {{season}}",
       "IntervalFraction": "{{numerator}} de {{denominator}}",
-      "Score": {
-        "Description": "El valor de la puntuación final de este triunfo."
-      },
-      "ScoreInterval": {
-        "Description": "El valor de la puntuación del paso actual sobre el valor total del triunfo."
-      }
+      "Score": "El valor de la puntuación final de este triunfo.",
+      "ScoreInterval": "El valor de la puntuación del paso actual sobre el valor total del triunfo."
+    },
+    "Record2": {
+      "Commonality": "Porcentaje de jugadores indizados por Voluspa que han canjeado este triunfo.",
+      "Expiration": "Es posible que este triunfo ya no se pueda obtener una vez que haya caducado.",
+      "Expires": "Caduca al final de la Temporada {{season}}",
+      "IntervalFraction": "{{numerator}} de {{denominator}}",
+      "Score": "El valor de la puntuación final de este triunfo.",
+      "ScoreInterval": "El valor de la puntuación del paso actual sobre el valor total del triunfo."
     },
     "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",
     "RecordsRedeemed": "Has canjeado todos estos triunfos y has elegido ocultarlos.",

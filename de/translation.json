@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "Abgelaufene Triumphe",
     "SelectEntry": "Wähle einen Eintrag zum Lesen.",
     "Record": {
-      "Commonality": {
-        "Description": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben."
-      },
-      "Expiration": {
-        "Description": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar."
-      },
+      "Commonality": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
+      "Expiration": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar.",
       "Expires": "Läuft am Ende der Saison {{season}} ab.",
       "IntervalFraction": "{{numerator}} von {{denominator}}",
-      "Score": {
-        "Description": "Die finale Triumph Punktzahl."
-      },
-      "ScoreInterval": {
-        "Description": "Die Triumph Punktzahl des aktuellen Intervalls."
-      }
+      "Score": "Die finale Triumph Punktzahl.",
+      "ScoreInterval": "Die Triumph Punktzahl des aktuellen Intervalls."
+    },
+    "Record2": {
+      "Commonality": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
+      "Expiration": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar.",
+      "Expires": "Läuft am Ende der Saison {{season}} ab.",
+      "IntervalFraction": "{{numerator}} von {{denominator}}",
+      "Score": "Die finale Triumph Punktzahl.",
+      "ScoreInterval": "Die Triumph Punktzahl des aktuellen Intervalls."
     },
     "PotentialUnattainedScore": "Der Hüter hat **{{number}}** Triumphpunkte welche darauf warten freigeschaltet zu werden.",
     "RecordsRedeemed": "Du hast dir all diese Aufzeichnungen abeholt und wählst sie zu verstecken.",

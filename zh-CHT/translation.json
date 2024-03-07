@@ -1245,20 +1245,20 @@
     "LegacyTriumph_plural": "昔日凱旋記錄",
     "SelectEntry": "選擇需要查閲的條目",
     "Record": {
-      "Commonality": {
-        "Description": "被Voluspa收錄的玩家中有多少人獲得了這個記錄."
-      },
-      "Expiration": {
-        "Description": "此記錄一旦過期可能無法再獲取."
-      },
+      "Commonality": "被Voluspa收錄的玩家中有多少人獲得了這個記錄.",
+      "Expiration": "此記錄一旦過期可能無法再獲取.",
       "Expires": "在 {{season}} 賽季結束時失效",
       "IntervalFraction": " {{numerator}} 的 {{denominator}}",
-      "Score": {
-        "Description": " 該記錄的有限成就分數值."
-      },
-      "ScoreInterval": {
-        "Description": "在總記錄值的下一個未兌換區間的分數值."
-      }
+      "Score": " 該記錄的有限成就分數值.",
+      "ScoreInterval": "在總記錄值的下一個未兌換區間的分數值."
+    },
+    "Record2": {
+      "Commonality": "被Voluspa收錄的玩家中有多少人獲得了這個記錄.",
+      "Expiration": "此記錄一旦過期可能無法再獲取.",
+      "Expires": "在 {{season}} 賽季結束時失效",
+      "IntervalFraction": " {{numerator}} 的 {{denominator}}",
+      "Score": " 該記錄的有限成就分數值.",
+      "ScoreInterval": "在總記錄值的下一個未兌換區間的分數值."
     },
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "您已取得所有這些記錄並選擇隱藏他們",
