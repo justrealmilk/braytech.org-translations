@@ -301,8 +301,8 @@
     "RecentlyDiscovered": "最近の発見",
     "SetComplete": "すべて入手済み",
     "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
-    "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter"
+    "Encounter": "遭遇戦",
+    "AnyEncounter": "全遭遇戦"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -619,7 +619,7 @@
   },
   "Legend": {
     "Profile": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+      "Description": "力は何を齎すのか;  光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
@@ -832,8 +832,8 @@
     "PointsNextRank": "次ランクまでのポイント",
     "PointsTotal": "合計ポイント",
     "PrestigeNth": "威光 {{number}}",
-    "ResetsNth": "🦘 1 Reset",
-    "ResetsNth_plural": "🦘 {{number}} Resets",
+    "ResetsNth": "1回リセット",
+    "ResetsNth_plural": "{{number}} 回リセット",
     "Rank": "ランク",
     "RankNth": "ランク {{number}}",
     "ResetVendor": "ランクをリセットするためベンダーまで戻ってください。",
@@ -847,10 +847,10 @@
     }
   },
   "Quests": {
-    "NoBounties": "🦘 Bounties you acquire will appear here.",
-    "NoQuests": "🦘 Quests you acquire will appear here.",
-    "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps"
+    "NoBounties": "バウンティを受託するとここに表示されます。",
+    "NoQuests": "クエストを受託するとここに表示されます。",
+    "Rewards": "クエスト報酬",
+    "Steps": "クエスト進捗"
   },
   "Search": {
     "Error": {
@@ -1099,7 +1099,7 @@
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
       "ActiveSubscription": "サブスクリプションを発動させる",
-      "ManageSubscription": "🦘 Manage Subscription",
+      "ManageSubscription": "サブスクリプション管理",
       "Benefits": "特典",
       "Tiers": "支援形態"
     },
@@ -1237,7 +1237,7 @@
       "NoClanOrFireteam": "ファイアチームやクランに参加して、仲間のガーディアンの実力を確認してみましょう!",
       "NotCompleted": "未達成",
       "OpenView": "詳細を見る",
-      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
+      "HasItem": "この記録は次のアイテムに関連しています。[詳細]({{string}})にて確認できます。"
     },
     "DudTriumphs": "工事中",
     "EventCard": "イベントカード",
