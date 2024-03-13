@@ -1096,7 +1096,7 @@
       },
       "DiscordProfile": {
         "Connected": "Your connected Discord profile.",
-        "Disconnected": "Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
+        "Disconnected": "Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech).\n\nGet your server perks and participate in the conversation to help shape Braytech's development!"
       },
       "ActiveSubscription": "Active Subscription",
       "ManageSubscription": "Manage Subscription",
