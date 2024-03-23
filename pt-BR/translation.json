@@ -575,6 +575,8 @@
     "Global": "🦘 Global",
     "Statistics": "🦘 Statistics",
     "ActiveScore": "🦘 Active Score",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "🦘 Triumph Score",
     "CollectionScore": "🦘 Collections Score",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "Triunfos Clássicos",
     "SelectEntry": "Selecione uma página para ler.",
     "Record": {
-      "Commonality": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
-      "Expiration": "Este registro pode não ser mais obtido assim que expirar.",
-      "Expires": "Expira no final da Temporada {{season}}",
-      "IntervalFraction": "{{numerator}} de {{denominator}}",
-      "Score": "A pontuação total deste triunfo.",
-      "ScoreInterval": "O intervalo atual de pontuação sobre a pontuação total."
-    },
-    "Record2": {
       "Commonality": "Porcentagem de jogadores que são indexados por Voluspa que resgataram este registro.",
       "Expiration": "Este registro pode não ser mais obtido assim que expirar.",
       "Expires": "Expira no final da Temporada {{season}}",

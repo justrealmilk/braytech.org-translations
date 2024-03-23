@@ -575,6 +575,8 @@
     "Global": "Global",
     "Statistics": "Statistiken",
     "ActiveScore": "Aktive Triumphpunktzahl",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "Vermächnis Triumphpunktzahl",
     "TriumphScore": "Triumphpunktzahl",
     "CollectionScore": "Sammlungspunkzahl",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "Abgelaufene Triumphe",
     "SelectEntry": "Wähle einen Eintrag zum Lesen.",
     "Record": {
-      "Commonality": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
-      "Expiration": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar.",
-      "Expires": "Läuft am Ende der Saison {{season}} ab.",
-      "IntervalFraction": "{{numerator}} von {{denominator}}",
-      "Score": "Die finale Triumph Punktzahl.",
-      "ScoreInterval": "Die Triumph Punktzahl des aktuellen Intervalls."
-    },
-    "Record2": {
       "Commonality": "Prozentsatz der Spieler, die in Voluspa indiziert sind und diesen Eintrag abgeschlossen haben.",
       "Expiration": "Dieser Triumph ist nach Ablauf möglicherweise nicht mehr verfügbar.",
       "Expires": "Läuft am Ende der Saison {{season}} ab.",

@@ -575,6 +575,8 @@
     "Global": "Mundial",
     "Statistics": "Estadísticas",
     "ActiveScore": "Puntaje activo",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "Puntaje de legado",
     "TriumphScore": "Puntaje de triunfos",
     "CollectionScore": "Puntaje de colecciones",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "Triunfos de legado",
     "SelectEntry": "Selecciona una página para leer.",
     "Record": {
-      "Commonality": "Porcentaje de jugadores indexados por Voluspa que canjearon este triunfo.",
-      "Expiration": "Es posible que este triunfo ya no se pueda obtener una vez que caduque.",
-      "Expires": "Caduca al final de la Temporada {{season}}",
-      "IntervalFraction": "{{numerator}} de {{denominator}}",
-      "Score": "El valor del puntaje final de este triunfo.",
-      "ScoreInterval": "El valor del puntaje del paso actual sobre el valor total del triunfo."
-    },
-    "Record2": {
       "Commonality": "Porcentaje de jugadores indexados por Voluspa que canjearon este triunfo.",
       "Expiration": "Es posible que este triunfo ya no se pueda obtener una vez que caduque.",
       "Expires": "Caduca al final de la Temporada {{season}}",

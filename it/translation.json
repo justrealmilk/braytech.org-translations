@@ -575,6 +575,8 @@
     "Global": "Globale",
     "Statistics": "Statistiche",
     "ActiveScore": "Punteggio attivo",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "Punteggio storico",
     "TriumphScore": "Punteggio trionfale",
     "CollectionScore": "Punteggio collezioni",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "Trionfi storici",
     "SelectEntry": "Seleziona una pagina da leggere.",
     "Record": {
-      "Commonality": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo.",
-      "Expiration": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto.",
-      "Expires": "Scade al termine della Stagione {{season}}",
-      "IntervalFraction": "{{numerator}} di {{denominator}}",
-      "Score": "Il punteggio trionfale finito di questo trionfo.",
-      "ScoreInterval": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
-    },
-    "Record2": {
       "Commonality": "Percentuale di giocatori indicizzati da Voluspa che hanno completato questo trionfo.",
       "Expiration": "Questo trionfo potrebbe non essere più ottenibile una volta scaduto.",
       "Expires": "Scade al termine della Stagione {{season}}",

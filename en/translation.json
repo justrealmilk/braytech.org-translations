@@ -575,6 +575,8 @@
     "Global": "Global",
     "Statistics": "Statistics",
     "ActiveScore": "Active Score",
+    "SealScore": "Seal Score",
+    "GildScore": "Gild Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
     "CollectionScore": "Collections Score",

@@ -575,6 +575,8 @@
     "Global": "🦘 Global",
     "Statistics": "🦘 Statistics",
     "ActiveScore": "🦘 Active Score",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "🦘 Triumph Score",
     "CollectionScore": "🦘 Collections Score",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "🦘 Legacy Triumphs",
     "SelectEntry": "🦘 Select an entry to read.",
     "Record": {
-      "Commonality": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
-      "Expiration": "🦘 이 업적은 만료되면 더 이상 얻을 수 없습니다.",
-      "Expires": "🦘 {{season}} 시즌 종료와 함께 만료됩니다.",
-      "IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-      "Score": "🦘 This record's finite triumph score value.",
-      "ScoreInterval": "🦘 The next unredeemed interval's score value over the total record value."
-    },
-    "Record2": {
       "Commonality": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
       "Expiration": "🦘 이 업적은 만료되면 더 이상 얻을 수 없습니다.",
       "Expires": "🦘 {{season}} 시즌 종료와 함께 만료됩니다.",

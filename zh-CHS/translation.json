@@ -575,6 +575,8 @@
     "Global": "全球",
     "Statistics": "统计",
     "ActiveScore": "凯旋记录",
+    "SealScore": "🦘 Seal Score",
+    "GildScore": "🦘 Gild Score",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
     "CollectionScore": "收藏品分数",
@@ -1245,14 +1247,6 @@
     "LegacyTriumph_plural": "传承成就",
     "SelectEntry": "选择一项来阅读。",
     "Record": {
-      "Commonality": "Voluspa 所追踪玩家获得此成就的比例",
-      "Expiration": "这一成就失效后将无法再次获得。",
-      "Expires": "在 {{season}} 赛季结束时过期",
-      "IntervalFraction": "{{denominator}} 分之 {{numerator}}",
-      "Score": "这个成就的分数",
-      "ScoreInterval": "距离下次获取成就分所需要的数目"
-    },
-    "Record2": {
       "Commonality": "Voluspa 所追踪玩家获得此成就的比例",
       "Expiration": "这一成就失效后将无法再次获得。",
       "Expires": "在 {{season}} 赛季结束时过期",
