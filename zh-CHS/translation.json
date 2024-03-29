@@ -426,7 +426,7 @@
     "Season": "赛季",
     "SeasonNth": "第 {{number}} 赛季",
     "SeasonEndsIn": "{{number}} 赛季将于 {{duration}} 后结束",
-    "Year": "🦘 Year",
+    "Year": "年",
     "SeasonPass": "季票",
     "SeasonRank": "赛季等级",
     "Season_plural": "赛季",
@@ -438,7 +438,7 @@
     "Support": "支持",
     "TimePlayed": "游戏时间",
     "TimeRemaining": "剩余时间",
-    "TopNth": "🦘 Top {{number}}",
+    "TopNth": "前 {{number}}",
     "Translator_plural": "译者",
     "TrialsPassage": "试炼门票",
     "TrialsPoints": "试炼分数",
@@ -485,12 +485,12 @@
     "AmmoType": "弹药类型",
     "Armor": "护甲",
     "ArmorStats": "护甲属性",
-    "Appearance": "🦘 Appearance",
+    "Appearance": "外观",
     "BasicCharacteristics": "基本信息",
     "Breaker": "职业",
     "BreakerType": "职业类型",
-    "ClassType": "🦘 Class Type",
-    "CumulativeStats": "🦘 Cumulative Stats",
+    "ClassType": "分支类型",
+    "CumulativeStats": "累计",
     "DamageType": "伤害类型",
     "ClassEquipped": "{{name}} (已解锁)",
     "ClassPostmaster": "{{name}} (邮政官)",
@@ -575,8 +575,8 @@
     "Global": "全球",
     "Statistics": "统计",
     "ActiveScore": "凯旋记录",
-    "SealScore": "🦘 Seal Score",
-    "GildScore": "🦘 Gild Score",
+    "SealScore": "封存分数",
+    "GildScore": "镀金分数",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
     "CollectionScore": "收藏品分数",
@@ -849,10 +849,10 @@
     }
   },
   "Quests": {
-    "NoBounties": "🦘 Bounties you acquire will appear here.",
-    "NoQuests": "🦘 Quests you acquire will appear here.",
-    "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps"
+    "NoBounties": "你领取的赏金单会在这里显示",
+    "NoQuests":"你领取的任务会在这里显示",
+    "Rewards": "奖励",
+    "Steps": "步骤"
   },
   "Search": {
     "Error": {
@@ -1093,16 +1093,16 @@
     "Subscriptions": {
       "Info": "广告很烦人，所以Braytech不会添加广告，但这并不意味着它是免费或容易的！\n\n取而代之的是，我需要你的慷慨支持。 你的支持将帮助我开发新功能并支付租金，使 Braytech 能够持续提供在线服务！\n\n订阅以下任何一个层级，即可获得酷炫的奖励，例如个人资料勋章！",
       "State": {
-        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+        "Ending": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **结束**。",
+        "Renewing": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **自动续订**。"
       },
       "DiscordProfile": {
-        "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
+        "Connected": "你已关联 Discord 账户",
+        "Disconnected": "关联 Discord账户，这样就可以在 Discord [服务器](https://discord.bray.tech) 里使用命令 `/register_discord_with_voluspa`。"
       },
-      "ActiveSubscription": "🦘 Active Subscription",
-      "ManageSubscription": "🦘 Manage Subscription",
-      "Benefits": "🦘 Benefits",
+      "ActiveSubscription": "当前订阅",
+      "ManageSubscription": "管理订阅",
+      "Benefits": "奖励",
       "Tiers": "等级"
     },
     "Sync": {
@@ -1239,7 +1239,7 @@
       "NoClanOrFireteam": "加入一个火力战队或公会，看看你的同伴在你身边的表现如何！",
       "NotCompleted": "未完成",
       "OpenView": "查看详情",
-      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
+      "HasItem": "这项记录和一个物品相关联，你可以查看这件物品的[详情]({{string}})。"
     },
     "DudTriumphs": "即将入库提醒",
     "EventCard": "事件卡片",
@@ -1293,8 +1293,8 @@
         "Description": "仅显示那些在完成时将给予成就分的记录"
       }
     },
-    "NoTrackedRecords": "你尚未追踪任何一条记录！",
-    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\n你可以在[Settings](/settings)中启用同步功能以同步你的成就.",
+    "NoTrackedRecords": "你尚未追踪任何一条记录",
+    "NoHiddenRecords": "你没有隐藏任何一条记录",
     "TrackedTriumphs": "已跟踪记录",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",
@@ -1313,7 +1313,7 @@
       "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
       "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
       "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对 [在Parteon上赞助我们来获取一些稀有徽章](https://www.patreon.com/braytech) 这件事感兴趣？",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
+      "MemberLinkExample": " _你_想要在你的个人名片上来一个酷炫闪亮的小奖牌吗？这代表着对 Braytech 开发工作的大力支持与赞助！.\n\n_Braytech 及其下属公司不支持 克洛维斯·布瑞 的相关观点和行为。_"
     },
     "Profile": {
       "Action": "选择你的角色",
