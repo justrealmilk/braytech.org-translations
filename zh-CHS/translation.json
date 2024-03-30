@@ -39,7 +39,7 @@
     "Now": "当前页",
     "Open": "打开",
     "Previous": "往前",
-    "PullPostmaster": "从邮政管处取回物品",
+    "PullPostmaster": "从邮政长处取回物品",
     "ReloadApp": "重新载入 Braytech",
     "ReloadAppAutomatically": "自动重载应用",
     "RemoveBookmark": "移除书签",
@@ -456,7 +456,7 @@
     "Vendor_plural": "先锋等级",
     "Views": "查看次数",
     "Weapon": "武器",
-    "WebringInfo": "拜访Braytech的一位朋友，这是另一个由社区创建的 Desinty 项目。",
+    "WebringInfo": "拜访Braytech的一位朋友，这是另一个由社区创建的 Destiny 项目。",
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
   },
@@ -493,7 +493,7 @@
     "CumulativeStats": "累计",
     "DamageType": "伤害类型",
     "ClassEquipped": "{{name}} (已解锁)",
-    "ClassPostmaster": "{{name}} (邮政官)",
+    "ClassPostmaster": "{{name}} (邮政长)",
     "CollectionsRoll": "收藏品",
     "Compare": "比较",
     "CouldntFindItemForUnequip": "未能在所指定的角色上找到 {{name}} 的位置上装备的物品。",
@@ -537,8 +537,8 @@
       "Name": "Braytech"
     },
     "Support": {
-      "Description": "Braytech 的开发是一项全职工作——我设计并开发它旨在提升自我和辅助所有守护者。我反对广告，即使这可能导致我自己的失败。你的支持将使我能够继续运营这个网站，让我能够尽我所能地工作，并使你的《命运2》游玩体验更加出色。我希望你喜欢使用 Braytech 的程度与我喜欢开发它的程度一样！💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "你是粉丝吗？请展现你的支持。",
+      "Description": "Braytech 的开发是一项全职工作——我设计并开发它旨在提升自我和辅助所有守护者。我反对广告，即使这可能导致这个项目的终结。你的支持将使我能够继续运营这个网站，让我能够尽我所能地工作，并使你的《命运2》游玩体验更加出色。我希望你喜欢使用 Braytech 的程度与我喜欢开发它的程度一样！💖\n\n和其他的赞助者一起加入我们位于 [Discord](https://discord.bray.tech) 服务器的 Braytech 研发部门。",
+      "Name": "你是我们的忠实用户吗？我们需要你的慷慨解囊。",
       "Action": "成为赞助者"
     },
     "Polls": "投票",
@@ -773,8 +773,8 @@
     "NthMore": "还有 {{number}} 个",
     "NthRemaining": "剩余 {{number}} 个",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "邮政管快没有地方存放你的物品了。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
-      "DescriptionFull": "邮政管已经用完了所有空间。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
+      "DescriptionAlmostFull": "邮政长快没有地方存放你的物品了。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
+      "DescriptionFull": "邮政长已经用完了所有空间。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
       "Name": "警告!"
     },
     "PushNotifications": {
