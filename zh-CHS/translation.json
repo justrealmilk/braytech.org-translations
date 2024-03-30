@@ -408,10 +408,9 @@
     "Progress": "进程",
     "Progression": "等级",
     "Quests": "任务",
+    "Rank": "🦘 Rank",
     "Rank_plural": "商人声望",
     "Rarity": "稀有度",
-    "Record": "记录",
-    "Record_plural": "记录",
     "Report_plural": "报告",
     "Reputation": "声誉等级",
     "Reset": "重置",
@@ -445,9 +444,10 @@
     "ActiveScore": "凯旋记录",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
-    "ActiveRecords": "🦘 Active Records",
-    "LegacyRecords": "🦘 Legacy Records",
-    "Triumphs": "成就",
+    "ActiveTriumphs": "🦘 Active Triumphs",
+    "LegacyTriumphs": "🦘 Legacy Triumphs",
+    "Triumph": "🦘 Triumph",
+    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "未知",
     "Users": "用户",
     "ValorPoints": "英勇点数",
@@ -615,7 +615,7 @@
         "Name": "距离下次刷新还有",
         "Info": "玩家会在每次定时更新任务完成后重新排名。"
       },
-      "RarestRecords": "最稀有的记录",
+      "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "最稀有的收藏品"
     }
   },
@@ -850,7 +850,7 @@
   },
   "Quests": {
     "NoBounties": "你领取的赏金单会在这里显示",
-    "NoQuests":"你领取的任务会在这里显示",
+    "NoQuests": "你领取的任务会在这里显示",
     "Rewards": "奖励",
     "Steps": "步骤"
   },

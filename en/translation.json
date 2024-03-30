@@ -345,7 +345,7 @@
     "Classified": "Classified",
     "Collectibles": "Collectibles",
     "Collections": "Collections",
-    "CollectionScore": "Collections Score",
+    "CollectionScore": "Collection Score",
     "CommendationAbr_plural": "Comms.",
     "Completed": "Completed",
     "CruciblePlaylist": "Crucible Playlist",
@@ -408,10 +408,9 @@
     "Progress": "Progress",
     "Progression": "Progression",
     "Quests": "Quests",
+    "Rank": "Rank",
     "Rank_plural": "Ranks",
     "Rarity": "Rarity",
-    "Record": "Record",
-    "Record_plural": "Records",
     "Report_plural": "Reports",
     "Reputation": "Reputation",
     "Reset": "Reset",
@@ -445,9 +444,10 @@
     "ActiveScore": "Active Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
-    "ActiveRecords": "Active Records",
-    "LegacyRecords": "Legacy Records",
-    "Triumphs": "Triumphs",
+    "ActiveTriumphs": "Active Triumphs",
+    "LegacyTriumphs": "Legacy Triumphs",
+    "Triumph": "Triumph",
+    "Triumphs_plural": "Triumphs",
     "Unknown": "Unknown",
     "Users": "Users",
     "ValorPoints": "Valor Points",
@@ -598,7 +598,7 @@
     },
     "Comparison": {
       "Name": "Comparison",
-      "Description": "Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Description": "Triumphs and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
     },
     "Stats": {
       "MinActiveScore": "Players with at least {{number}} Active Score",
@@ -615,7 +615,7 @@
         "Name": "Time until next rank",
         "Info": "Players are ranked at the end of each profile scrape job."
       },
-      "RarestRecords": "Rarest Records",
+      "RarestTriumphs": "Rarest Triumphs",
       "RarestCollectibles": "Rarest Collectibles"
     }
   },
@@ -943,24 +943,24 @@
         "Name": "Hide Acquired Collection Items"
       },
       "HideCompletedRecords": {
-        "Description": "If a triumph record is completed and redeemed, it will be hidden under Triumphs views.",
-        "Name": "Hide Completed Triumph Records"
+        "Description": "If a triumph is completed and redeemed, it will be hidden under Triumphs views.",
+        "Name": "Hide Completed Triumphs"
       },
       "HideDudRecords": {
-        "Description": "Hide dud (empty or unused) records from view. This is a manually curated [list](/triumphs/dud).",
-        "Name": "Hide Dud Triumph Records"
+        "Description": "Hide dud (empty or unused) triumphs from view. This is a manually curated [list](/triumphs/dud).",
+        "Name": "Hide Dud Triumphs"
       },
       "HideInvisibleCollectibles": {
         "Description": "If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
         "Name": "Hide Invisible Collection Items"
       },
       "HideInvisibleRecords": {
-        "Description": "If the game specifies that you are unable to see a particular record, it will render as \"Secret\" under Triumphs views.",
-        "Name": "Hide Invisible Triumph Records"
+        "Description": "If the game specifies that you are unable to see a particular triumph, it will render as \"Secret\" under Triumphs views.",
+        "Name": "Hide Invisible Triumphs"
       },
       "HideUnobtainableRecords": {
-        "Description": "Hide unobtainable records from view. This is a manually curated [list](/triumphs/unobtainable).",
-        "Name": "Hide Unobtainable Triumph Records"
+        "Description": "Hide unobtainable triumphs from view. This is a manually curated [list](/triumphs/unobtainable).",
+        "Name": "Hide Unobtainable Triumphs"
       }
     },
     "LS": {
@@ -1064,7 +1064,7 @@
         "Name": "Hide Feature Suggestions"
       },
       "ItemVisibilityOverride": {
-        "Description": "Use this setting to override global Item Visibility settings for records and collectibles.",
+        "Description": "Use this setting to override global Item Visibility settings for triumphs and collectibles.",
         "Name": "Show Completed and Acquired"
       }
     },
@@ -1230,8 +1230,8 @@
     "NearTotal": "You have **{{number}}** triumphs remaining.",
     "PartiallyComplete": "{{number}} Partially Completed",
     "Classified": {
-      "Description": "This record is classified and may be revealed at a later time.",
-      "Name": "Classified Record"
+      "Description": "This triumph is classified and may be revealed at a later time.",
+      "Name": "Classified Triumph"
     },
     "Details": {
       "Completed": "Completed",
@@ -1239,7 +1239,7 @@
       "NoClanOrFireteam": "Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
       "NotCompleted": "Not Completed",
       "OpenView": "Open Details View",
-      "HasItem": "This record is related to an item. You can view this item's [details]({{string}})."
+      "HasItem": "This triumph is related to an item. You can view this item's [details]({{string}})."
     },
     "DudTriumphs": "Duds",
     "EventCard": "Event Card",
@@ -1247,16 +1247,16 @@
     "LegacyTriumph_plural": "Legacy Triumphs",
     "SelectEntry": "Select an entry to read.",
     "Record": {
-      "Commonality": "Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
-      "Expiration": "This record may no longer be obtainable once expired.",
+      "Commonality": "Percentage of players who are crawled and assessed by Voluspa who've completed this triumph.",
+      "Expiration": "This triumph may no longer be obtainable once expired.",
       "Expires": "Expires at the end of Season {{season}}",
       "IntervalFraction": "{{numerator}} of {{denominator}}",
-      "Score": "This record's finite triumph score value.",
-      "ScoreInterval": "The next unredeemed interval's score value over the total record value."
+      "Score": "This triumph's finite score value.",
+      "ScoreInterval": "The next unredeemed interval's score value over the total triumph value."
     },
     "PotentialUnattainedScore": "The Guardian has **{{number}}** score waiting to be to unlocked.",
-    "RecordsRedeemed": "You have redeemed all of these records and chosen to hide them.",
-    "RecordsUnavailable": "There are no records available for display.",
+    "RecordsRedeemed": "You have redeemed all of these triumphs and chosen to hide them.",
+    "RecordsUnavailable": "There are no triumphs available for display.",
     "Seal": "Seal",
     "SealTitleSeasonSuffix": "{{title}} (Season {{season}})",
     "Seal_plural": "Seals",
@@ -1290,7 +1290,7 @@
     "Options": {
       "GrantsScore": {
         "Name": "Grants Score",
-        "Description": "Only display records which grant triumph score upon completion."
+        "Description": "Only display triumphs which grant score upon completion."
       }
     },
     "NoTrackedRecords": "You aren't tracking any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
@@ -1317,7 +1317,7 @@
     },
     "Profile": {
       "Action": "Select Your Character",
-      "Description": "Want to see your objective progress, redeemed records, discovered collectibles, and way more? Load your profile and select your character."
+      "Description": "Want to see your objective progress, redeemed triumphs, discovered collectibles, and way more? Load your profile and select your character."
     }
   },
   "Vendor": {
@@ -1331,7 +1331,7 @@
   "Voluspa": {
     "AdjustGraph": {
       "Description": "View this data in a different manner by selecting an alternate type of graph.\n\n**Voluspa** collects data from {{crawled}} players. Of those players, **{{assessed}}** were successfully **assessed** for the purpose of providing this data. Of {{assessed}} assessed players, **{{frequency}}** have **discovered** this collectible.",
-      "Description_record": "View this data in a different manner by selecting an alternate type of graph.\n\n**Voluspa** collects data from {{crawled}} players. Of those players, **{{assessed}}** were successfully **assessed** for the purpose of providing this data. Of {{assessed}} assessed players, **{{frequency}}** have **completed** this record.",
+      "Description_record": "View this data in a different manner by selecting an alternate type of graph.\n\n**Voluspa** collects data from {{crawled}} players. Of those players, **{{assessed}}** were successfully **assessed** for the purpose of providing this data. Of {{assessed}} assessed players, **{{frequency}}** have **completed** this triumph.",
       "Name": "Adjust Graph"
     },
     "CollectedBy": "{{number}} players have collected this.",
