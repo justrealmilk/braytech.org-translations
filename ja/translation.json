@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "敗北",
-        "PvPWin": "勝利"
-      },
-      "Last100": {
-        "PvE": "直近100件のアクティビティ",
-        "PvP": "直近100件の対戦"
-      },
       "Lifetime": "生涯",
       "Line": {
         "AverageKD": "平均K/D"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "各ランク",
     "Rarity": "レア度",
+    "Recent": "🦘 Recent",
     "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",

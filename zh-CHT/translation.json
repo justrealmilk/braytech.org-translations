@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "從上圖中選擇一個有活動的日期",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "勝利",
-        "PvPWin": "失敗"
-      },
-      "Last100": {
-        "PvE": "最近的100場活動",
-        "PvP": "最近的100場比賽"
-      },
       "Lifetime": "生涯",
       "Line": {
         "AverageKD": "平均K/D"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "🦘 Ranks",
     "Rarity": "🦘 Rarity",
+    "Recent": "🦘 Recent",
     "Report_plural": "🦘 Reports",
     "Reputation": "聲望等級",
     "Reset": "重置",

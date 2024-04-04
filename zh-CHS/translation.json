@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "从上图选择一个有活动的日期",
     "BookmarksSync": "通过Voluspa在设备之间同步书签",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "失败",
-        "PvPWin": "胜利"
-      },
-      "Last100": {
-        "PvE": "查看最近的100场PVE活动",
-        "PvP": "查看最近的100场PVP活动"
-      },
       "Lifetime": "生涯",
       "Line": {
         "AverageKD": "平均 K/D"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "商人声望",
     "Rarity": "稀有度",
+    "Recent": "🦘 Recent",
     "Report_plural": "报告",
     "Reputation": "声誉等级",
     "Reset": "重置",

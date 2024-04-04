@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "패배",
-        "PvPWin": "승리"
-      },
-      "Last100": {
-        "PvE": "최근 활동 100회",
-        "PvP": "최근 매치 100회"
-      },
       "Lifetime": "전체 기간",
       "Line": {
         "AverageKD": "평균 K/D"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "🦘 Ranks",
     "Rarity": "🦘 Rarity",
+    "Recent": "🦘 Recent",
     "Report_plural": "🦘 Reports",
     "Reputation": "평판",
     "Reset": "초기화",

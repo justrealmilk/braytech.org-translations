@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "Seleziona una data con attività dal grafico sopra.",
     "BookmarksSync": "Sincronizza i preferiti tra dispositivi con Voluspa.",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "Sconfitta",
-        "PvPWin": "Vittoria"
-      },
-      "Last100": {
-        "PvE": "Ultime 100 attività",
-        "PvP": "Ultime 100 partite"
-      },
       "Lifetime": "Totale",
       "Line": {
         "AverageKD": "U/M medio"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "Gradi",
     "Rarity": "Rarità",
+    "Recent": "🦘 Recent",
     "Report_plural": "Riepiloghi",
     "Reputation": "Reputazione",
     "Reset": "Reset",

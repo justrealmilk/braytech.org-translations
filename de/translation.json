@@ -73,14 +73,6 @@
     "SelectDateFromGraph": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus.",
     "BookmarksSync": "Synchronisiere Lesezeichen zwischen Geräten mit Voluspa.",
     "Modes": {
-      "Bar": {
-        "PvPLoss": "Verloren",
-        "PvPWin": "Gewonnen"
-      },
-      "Last100": {
-        "PvE": "Letzte 100 Aktivitäten",
-        "PvP": "Letzte 100 Matches"
-      },
       "Lifetime": "Lebenslang",
       "Line": {
         "AverageKD": "Durchschnittliche K/D"
@@ -411,6 +403,7 @@
     "Rank": "🦘 Rank",
     "Rank_plural": "Ränge",
     "Rarity": "Seltenheit",
+    "Recent": "🦘 Recent",
     "Report_plural": "Berichte",
     "Reputation": "Reputation",
     "Reset": "Zurücksetzen",
