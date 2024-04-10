@@ -1278,7 +1278,9 @@
       "Name": "Sortiert nach **Namen**",
       "Rarity": "Sortiert nach **Seltenheit**",
       "Score": "Sortiert nach **Punkten**",
-      "Unsorted": "Sortiert von **Bungie**"
+      "Bungie": "Sortiert von **Bungie**",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
     },
     "Options": {
       "GrantsScore": {

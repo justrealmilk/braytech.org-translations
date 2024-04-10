@@ -1278,7 +1278,9 @@
       "Name": "Ordenado por **nombre**",
       "Rarity": "Ordenado por rareza",
       "Score": "Ordenado por puntaje",
-      "Unsorted": "Ordenado por Bungie"
+      "Bungie": "Ordenado por Bungie",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
     },
     "Options": {
       "GrantsScore": {

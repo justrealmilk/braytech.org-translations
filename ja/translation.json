@@ -1278,7 +1278,9 @@
       "Name": "**名前順**で並び替え",
       "Rarity": "レア度順に並び替え",
       "Score": "スコア順に並び替え",
-      "Unsorted": "Bungie指定の順に並び替え"
+      "Bungie": "Bungie指定の順に並び替え",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
     },
     "Options": {
       "GrantsScore": {

@@ -1278,7 +1278,9 @@
       "Name": "按名称排序",
       "Rarity": "按稀有度排序",
       "Score": "按分数排序",
-      "Unsorted": "按 Bungie 默认排序"
+      "Bungie": "按 Bungie 默认排序",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
     },
     "Options": {
       "GrantsScore": {

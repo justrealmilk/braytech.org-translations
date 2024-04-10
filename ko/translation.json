@@ -1278,7 +1278,9 @@
       "Name": "🦘 Sorted by **Name**",
       "Rarity": "희귀도 정렬",
       "Score": "점수 정렬",
-      "Unsorted": "번지 기준 정렬"
+      "Bungie": "번지 기준 정렬",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
     },
     "Options": {
       "GrantsScore": {
