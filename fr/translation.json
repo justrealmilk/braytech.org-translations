@@ -1247,7 +1247,7 @@
       "Score": "Valeur du score de triomphe terminé pour cet enregistrement.",
       "ScoreInterval": "Valeur du score du prochain intervalle non utilisé par rapport à la valeur totale de l'enregistrement."
     },
-    "PotentialUnattainedScore": "Le Guardien a **{{nombre}}** points en attente de déblocage.",
+    "PotentialUnattainedScore": "Le Gardien a **{{number}}** de points en attente de déblocage.",
     "RecordsRedeemed": "Vous avez récupéré toutes ces données et choisi de les masquer.",
     "RecordsUnavailable": "Il n'y a pas de données disponibles pour l'affichage.",
     "Seal": "Sceau",
