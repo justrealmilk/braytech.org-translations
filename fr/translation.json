@@ -1288,6 +1288,7 @@
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
     "NoHiddenRecords": "Vous ne cachez pas encore de triomphes !\n\nVous pouvez synchroniser vos triomphes en activant la synchronisation dans [Settings](/settings).",
     "TrackedTriumphs": "Enregistrements suivis",
+    "Triumph": "🦘 Triumph",
     "Triumph_plural": "Triomphes",
     "UnobtainableTriumphs": "Impossible à obtenir",
     "UnredeemedTriumphs": "Triomphes non validés",

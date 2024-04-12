@@ -1288,6 +1288,7 @@
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
     "NoHiddenRecords": "まだ勝利の道のりを隠していないようですね。\n\n[設定](/settings)で同期を有効にすると、勝利の道のりの表示設定を同期できます。",
     "TrackedTriumphs": "追跡中の勝利の道のり",
+    "Triumph": "🦘 Triumph",
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
     "UnredeemedTriumphs": "取得していない勝利の道のり",

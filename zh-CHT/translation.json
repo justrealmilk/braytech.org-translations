@@ -1288,6 +1288,7 @@
     "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",
     "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "已跟蹤記錄",
+    "Triumph": "🦘 Triumph",
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "無法獲得",
     "UnredeemedTriumphs": "未兌換成就",

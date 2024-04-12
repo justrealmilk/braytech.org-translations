@@ -1286,6 +1286,7 @@
     "NoTrackedRecords": "You aren't tracking any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "NoHiddenRecords": "You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
     "TrackedTriumphs": "Tracked",
+    "Triumph": "Triumph",
     "Triumph_plural": "Triumphs",
     "UnobtainableTriumphs": "Unobtainable",
     "UnredeemedTriumphs": "Unredeemed",
