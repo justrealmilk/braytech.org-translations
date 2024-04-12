@@ -293,8 +293,8 @@
     "RecentlyDiscovered": "Descubierto recientemente",
     "SetComplete": "Conjunto completado",
     "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
-    "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter"
+    "Encounter": "Encuentro",
+    "AnyEncounter": "Cualquier encuentro"
   },
   "Commendations": {
     "Received": "Recibidos",
@@ -400,10 +400,10 @@
     "Progress": "Progreso",
     "Progression": "Progreso",
     "Quests": "Aventuras",
-    "Rank": "🦘 Rank",
+    "Rank": "Nivel",
     "Rank_plural": "Niveles",
     "Rarity": "Rareza",
-    "Recent": "🦘 Recent",
+    "Recent": "Reciente",
     "Report_plural": "Informes",
     "Reputation": "Reputación",
     "Reset": "Reiniciar",
@@ -437,10 +437,10 @@
     "ActiveScore": "Puntuación activa",
     "LegacyScore": "Puntuación antigua",
     "TriumphScore": "Puntos de Triunfo",
-    "ActiveTriumphs": "🦘 Active Triumphs",
-    "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
+    "ActiveTriumphs": "Triunfos activos",
+    "LegacyTriumphs": "Triunfos antiguos",
+    "Triumph": "Triunfo",
+    "Triumphs_plural": "Triunfos",
     "Unknown": "Desconocido",
     "Users": "Usuarios",
     "ValorPoints": "Puntos de Valor",
@@ -564,12 +564,12 @@
     }
   },
   "Leaderboards": {
-    "Rank": "Nivel",
+    "Rank": "Posición",
     "Global": "Mundial",
     "Statistics": "Estadísticas",
     "ActiveScore": "Puntuación activa",
-    "SealScore": "🦘 Seal Score",
-    "GildScore": "🦘 Gild Score",
+    "SealScore": "Puntuación de sello",
+    "GildScore": "Puntuación dorada",
     "LegacyScore": "Puntuación antigua",
     "TriumphScore": "Puntuación de triunfos",
     "CollectionScore": "Puntuación de colecciones",
@@ -608,7 +608,7 @@
         "Name": "Tiempo hasta la siguiente clasificación",
         "Info": "Los jugadores se clasifican al final de cada operación de rastreo de perfiles."
       },
-      "RarestTriumphs": "🦘 Rarest Triumphs",
+      "RarestTriumphs": "Triunfos más raros",
       "RarestCollectibles": "Coleccionables más raros"
     }
   },
@@ -827,8 +827,8 @@
     "PointsNextRank": "Puntos para siguiente nivel",
     "PointsTotal": "Puntuación total",
     "PrestigeNth": "Prestigio {{number}}",
-    "ResetsNth": "🦘 1 Reset",
-    "ResetsNth_plural": "🦘 {{number}} Resets",
+    "ResetsNth": "1 reinicio",
+    "ResetsNth_plural": "{{number}} reinicios",
     "Rank": "Nivel",
     "RankNth": "Nivel {{number}}",
     "ResetVendor": "Regresa al comerciante para reiniciar tu rango",
@@ -1232,7 +1232,7 @@
       "NoClanOrFireteam": "¡Únete a una escuadra o a un clan para comparar a tus compañeros Guardianes contigo!",
       "NotCompleted": "No completado",
       "OpenView": "Abrir vista detallada",
-      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
+      "HasItem": "Este triunfo está relacionado con un objeto. Puedes ver los [detalles]({{string}}) del objeto."
     },
     "DudTriumphs": "Inservibles",
     "EventCard": "Tarjeta de evento",
@@ -1279,8 +1279,8 @@
       "Rarity": "Ordenado por rareza",
       "Score": "Ordenado por puntuación",
       "Bungie": "Ordenado por Bungie",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "User": "Ordenado por **usuario**",
+      "None": "Sin ordenar"
     },
     "Options": {
       "GrantsScore": {
