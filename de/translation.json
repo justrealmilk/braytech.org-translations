@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "Die Seltenheit eines Gegenstands ist der Anteil aller Spieler, die dieses Item gefunden haben und von Voluspa indiziert sind."
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Du hast alle diese Gegenstände erarbeitet und dich dafür entschieden, sie zu verstecken.",
     "CollectiblesUnavailable": "Es sind keine Gegenstände zum Anzeigen verfügbar.",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "Triumphpunktzahl",
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "Unbekannt",
     "Users": "Benutzer",
     "ValorPoints": "Tapferkeitspunkte",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "Fang des Tages\n\nWerfe eine Bleileine, präsentiere dein Aquarium und vergleiche deine besten Fänge mit anderen Anglern.",
-      "LargestFish": "Größter Fisch",
-      "Name": "Wettkampffischerei",
-      "TypesCaught": "Arten gefangen"
+      "Name": "Wettkampffischerei"
     }
   },
   "Loading": {

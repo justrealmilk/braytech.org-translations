@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "収集品のレア度は、Voluspaのインデックスに登録されているプレイヤーのうち、収集したプレイヤーの割合で表されます。"
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
     "CollectiblesUnavailable": "表示できるコレクションはありません",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "勝利の道のりのスコア",
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "不明",
     "Users": "ユーザー",
     "ValorPoints": "武勇ポイント",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "今日のフィッシング\n\n釣り竿をキャストし、水槽を豪華にして、仲間と釣果を競争しよう。",
-      "LargestFish": "最も大きな釣果",
-      "Name": "競技フィッシング",
-      "TypesCaught": "釣った種類"
+      "Name": "競技フィッシング"
     }
   },
   "Loading": {

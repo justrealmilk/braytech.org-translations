@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "Porcentaje de jugadores indizados por Voluspa que han descubierto este coleccionable."
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Has adquirido todos estos coleccionables y has elegido ocultarlos.",
     "CollectiblesUnavailable": "No hay objetos de colección disponibles para mostrar.",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "Puntos de Triunfo",
     "ActiveTriumphs": "Triunfos activos",
     "LegacyTriumphs": "Triunfos antiguos",
-    "Triumph": "Triunfo",
-    "Triumphs_plural": "Triunfos",
     "Unknown": "Desconocido",
     "Users": "Usuarios",
     "ValorPoints": "Puntos de Valor",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
-      "LargestFish": "Pez más grande",
-      "Name": "Pesca de competición",
-      "TypesCaught": "Especies capturadas"
+      "Name": "Pesca de competición"
     }
   },
   "Loading": {

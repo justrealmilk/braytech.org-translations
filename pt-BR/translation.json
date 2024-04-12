@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "A raridade do colecionável representa a porcentagem de jogadores indexados pela Voluspa que o coletaram."
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "Pontuação de Triunfo",
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "Desconhecido",
     "Users": "🦘 Users",
     "ValorPoints": "Pontos de Valor",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
-      "LargestFish": "🦘 Largest Fish",
-      "Name": "🦘 Competitive Fishing",
-      "TypesCaught": "🦘 Types Caught"
+      "Name": "🦘 Competitive Fishing"
     }
   },
   "Loading": {

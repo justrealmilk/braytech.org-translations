@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "Percentuale di giocatori indicizzati da Voluspa che hanno scoperto questo collezionabile."
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Hai già acquisito tutti questi oggetti delle collezioni e hai scelto di nasconderli.",
     "CollectiblesUnavailable": "Non ci sono oggetti delle collezioni disponibili da visualizzare.",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "Punteggio trionfale",
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "Sconosciuto",
     "Users": "Utenti",
     "ValorPoints": "Punti valore",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "Pesca del giorno\n\nLancia una lenza con piombo, metti in mostra il tuo acquario ed entra in competizione con i tuoi compagni pescatori confrontando le catture più pesanti.",
-      "LargestFish": "Pesce più grande",
-      "Name": "Pesca competitiva",
-      "TypesCaught": "Tipi catturati"
+      "Name": "Pesca competitiva"
     }
   },
   "Loading": {

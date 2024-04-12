@@ -284,6 +284,7 @@
     "Collectible": {
       "Commonality": "收藏品的持有率代表了 Voluspa 跟踪玩家的获取百分比。"
     },
+    "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "你已经收集了所有可收集品 选中并隐藏它们",
     "CollectiblesUnavailable": "暂无可供展示的收藏品",
     "Grouped": {
@@ -439,8 +440,6 @@
     "TriumphScore": "成就分数",
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Triumph": "🦘 Triumph",
-    "Triumphs_plural": "🦘 Triumphs",
     "Unknown": "未知",
     "Users": "用户",
     "ValorPoints": "英勇点数",
@@ -634,9 +633,7 @@
     },
     "Fishing": {
       "Description": "钓鱼日！\n\n拉动钓线, 装饰你的水族馆, 和你的朋友展开激动人心的钓鱼竞争！",
-      "LargestFish": "最大的鱼",
-      "Name": "竞技钓鱼",
-      "TypesCaught": "捕获类型"
+      "Name": "竞技钓鱼"
     }
   },
   "Loading": {
