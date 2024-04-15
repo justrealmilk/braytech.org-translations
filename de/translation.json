@@ -97,7 +97,9 @@
       "DidNotFinish": "Spieler hat die Aktivität nicht abgeschlossen",
       "Mercy": "Gnade",
       "Tie": "Unentschieden",
-      "Victory": "Sieg"
+      "Victory": "Sieg",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "Beim Laden des Aktivitätsverlaufs ist ein Fehler aufgetreten. Bitte versuche es erneut.",

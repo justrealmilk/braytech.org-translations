@@ -97,7 +97,9 @@
       "DidNotFinish": "途中離脱",
       "Mercy": "コールドゲーム",
       "Tie": "引き分け",
-      "Victory": "勝利"
+      "Victory": "勝利",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",

@@ -97,7 +97,9 @@
       "DidNotFinish": "玩家未完成",
       "Mercy": "慈悲",
       "Tie": "平手",
-      "Victory": "勝利"
+      "Victory": "勝利",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "嘗試加載活動歷史記錄時出錯.請再試一次.",

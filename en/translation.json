@@ -97,7 +97,9 @@
       "DidNotFinish": "Player did not finish",
       "Mercy": "Mercy",
       "Tie": "Tie",
-      "Victory": "Victory"
+      "Victory": "Victory",
+      "ObjectiveFailed": "Objective Failed",
+      "Failure": "Failure"
     },
     "State": {
       "ActivityHistoryError": "Something went wrong while trying to load activity history. Please try again.",

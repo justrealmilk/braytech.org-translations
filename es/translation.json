@@ -97,7 +97,9 @@
       "DidNotFinish": "El jugador no ha terminado",
       "Mercy": "Clemencia",
       "Tie": "Empate",
-      "Victory": "Victoria"
+      "Victory": "Victoria",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "Algo salió mal al intentar cargar el historial de actividades. Por favor, inténtalo de nuevo.",

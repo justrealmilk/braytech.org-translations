@@ -97,7 +97,9 @@
       "DidNotFinish": "玩家未完成活动",
       "Mercy": "仁慈规则激活",
       "Tie": "双方持平，沙克斯可不喜欢持平",
-      "Victory": "赢得漂亮，再接再厉"
+      "Victory": "赢得漂亮，再接再厉",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "加载活动历史时出错，请再试一次。",

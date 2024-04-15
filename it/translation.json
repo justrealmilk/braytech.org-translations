@@ -97,7 +97,9 @@
       "DidNotFinish": "Il giocatore non ha completato l'attività",
       "Mercy": "Pietà",
       "Tie": "Pareggio",
-      "Victory": "Vittoria"
+      "Victory": "Vittoria",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "Qualcosa è andato storto durante il caricamento della cronologia attività. Perfavore riprova.",

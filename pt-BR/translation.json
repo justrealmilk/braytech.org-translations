@@ -97,7 +97,9 @@
       "DidNotFinish": "🦘 Player did not finish",
       "Mercy": "🦘 Mercy",
       "Tie": "🦘 Tie",
-      "Victory": "Vitória"
+      "Victory": "Vitória",
+      "ObjectiveFailed": "🦘 Objective Failed",
+      "Failure": "🦘 Failure"
     },
     "State": {
       "ActivityHistoryError": "Alguma coisa deu errado ao carregar o histórico de atividades. Por favor, tente novamente.",
