@@ -283,9 +283,7 @@
       "Progress": "Progesso da insígnia"
     },
     "CollectedBy": "🦘 Collected",
-    "Collectible": {
-      "Commonality": "A raridade do colecionável representa a porcentagem de jogadores indexados pela Voluspa que o coletaram."
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display",

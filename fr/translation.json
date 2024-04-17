@@ -283,9 +283,7 @@
       "Progress": "Progression du badge"
     },
     "CollectedBy": "Récupéré",
-    "Collectible": {
-      "Commonality": "Pourcentage de joueurs indexés par Voluspa qui ont découvert cette entrée de la collection."
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Vous avez acquis tous ces objets de collection et choisi de les cacher",
     "CollectiblesUnavailable": "Il n'y a pas d'objets de collection disponibles pour l'affichage",

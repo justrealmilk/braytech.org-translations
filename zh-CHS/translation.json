@@ -283,9 +283,7 @@
       "Progress": "进行中证章"
     },
     "CollectedBy": "已收集",
-    "Collectible": {
-      "Commonality": "收藏品的持有率代表了 Voluspa 跟踪玩家的获取百分比。"
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "你已经收集了所有可收集品 选中并隐藏它们",
     "CollectiblesUnavailable": "暂无可供展示的收藏品",

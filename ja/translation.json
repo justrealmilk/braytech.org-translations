@@ -283,9 +283,7 @@
       "Progress": "記章の進捗"
     },
     "CollectedBy": "入手済",
-    "Collectible": {
-      "Commonality": "収集品のレア度は、Voluspaのインデックスに登録されているプレイヤーのうち、収集したプレイヤーの割合で表されます。"
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
     "CollectiblesUnavailable": "表示できるコレクションはありません",

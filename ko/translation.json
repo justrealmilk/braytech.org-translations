@@ -283,9 +283,7 @@
       "Progress": "배지 진행도"
     },
     "CollectedBy": "🦘 Collected",
-    "Collectible": {
-      "Commonality": "Voluspa에서 확인되는 유저 중 이 업적을 완료한 플레이어 비율입니다."
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display",

@@ -283,9 +283,7 @@
       "Progress": "Abzeichen-Fortschritt"
     },
     "CollectedBy": "Gesammelt",
-    "Collectible": {
-      "Commonality": "Die Seltenheit eines Gegenstands ist der Anteil aller Spieler, die dieses Item gefunden haben und von Voluspa indiziert sind."
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Du hast alle diese Gegenstände erarbeitet und dich dafür entschieden, sie zu verstecken.",
     "CollectiblesUnavailable": "Es sind keine Gegenstände zum Anzeigen verfügbar.",

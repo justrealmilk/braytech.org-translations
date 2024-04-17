@@ -283,9 +283,7 @@
       "Progress": "進行中印章"
     },
     "CollectedBy": "收集",
-    "Collectible": {
-      "Commonality": "收藏品的稀有性代表了 Voluspa 跟蹤玩家的收录百分比"
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "你已經收集了所有的可收藏品，選中並隱藏他們",
     "CollectiblesUnavailable": "暫無可供展示的收藏品",

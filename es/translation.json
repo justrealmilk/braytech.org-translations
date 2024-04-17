@@ -283,9 +283,7 @@
       "Progress": "Progreso de insignia"
     },
     "CollectedBy": "Conseguidos",
-    "Collectible": {
-      "Commonality": "Porcentaje de jugadores indizados por Voluspa que han descubierto este coleccionable."
-    },
+    "Collectible": "Collectible",
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Has adquirido todos estos coleccionables y has elegido ocultarlos.",
     "CollectiblesUnavailable": "No hay objetos de colección disponibles para mostrar.",
