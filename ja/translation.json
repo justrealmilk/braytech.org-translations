@@ -98,8 +98,8 @@
       "Mercy": "コールドゲーム",
       "Tie": "引き分け",
       "Victory": "勝利",
-      "ObjectiveFailed": "🦘 Objective Failed",
-      "Failure": "🦘 Failure"
+      "ObjectiveFailed": "目標失敗",
+      "Failure": "失敗"
     },
     "State": {
       "ActivityHistoryError": "アクティビティの履歴を読み込もうとして、何か問題が発生しました。もう一度お試しください。",
@@ -283,8 +283,8 @@
       "Progress": "記章の進捗"
     },
     "CollectedBy": "入手済",
-    "Collectible": "Collectible",
-    "Collectible_plural": "🦘 Collectibles",
+    "Collectible": "コレクション",
+    "Collectible_plural": "コレクション",
     "CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
     "CollectiblesUnavailable": "表示できるコレクションはありません",
     "Grouped": {
@@ -401,10 +401,10 @@
     "Progress": "進捗",
     "Progression": "進捗",
     "Quests": "クエスト",
-    "Rank": "🦘 Rank",
+    "Rank": "ランク",
     "Rank_plural": "各ランク",
     "Rarity": "レア度",
-    "Recent": "🦘 Recent",
+    "Recent": "直近",
     "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",
@@ -438,8 +438,8 @@
     "ActiveScore": "アクティビティスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりのスコア",
-    "ActiveTriumphs": "🦘 Active Triumphs",
-    "LegacyTriumphs": "🦘 Legacy Triumphs",
+    "ActiveTriumphs": "現行の勝利の道のり",
+    "LegacyTriumphs": "過去の勝利の道のり",
     "Unknown": "不明",
     "Users": "ユーザー",
     "ValorPoints": "武勇ポイント",
@@ -567,8 +567,8 @@
     "Global": "全世界ランキング",
     "Statistics": "統計データ",
     "ActiveScore": "アクティブな勝利の道のりスコア",
-    "SealScore": "🦘 Seal Score",
-    "GildScore": "🦘 Gild Score",
+    "SealScore": "印のスコア",
+    "GildScore": "黄金のスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
     "CollectionScore": "コレクションスコア",
@@ -607,7 +607,7 @@
         "Name": "次のランキング発表までの時間",
         "Info": "プレイヤー順位は、定期的なサーバー更新タイミング合わせて変動します。"
       },
-      "RarestTriumphs": "🦘 Rarest Triumphs",
+      "RarestTriumphs": "最もレアな勝利の道のり",
       "RarestCollectibles": "最もレアなコレクション"
     }
   },
@@ -1276,8 +1276,8 @@
       "Rarity": "レア度順に並び替え",
       "Score": "スコア順に並び替え",
       "Bungie": "Bungie指定の順に並び替え",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "User": "**User**名前ごとに並び替え",
+      "None": "並び替え解除"
     },
     "Options": {
       "GrantsScore": {
@@ -1288,7 +1288,7 @@
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
     "NoHiddenRecords": "まだ勝利の道のりを隠していないようですね。\n\n[設定](/settings)で同期を有効にすると、勝利の道のりの表示設定を同期できます。",
     "TrackedTriumphs": "追跡中の勝利の道のり",
-    "Triumph": "🦘 Triumph",
+    "Triumph": "勝利の道のり",
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
     "UnredeemedTriumphs": "取得していない勝利の道のり",
