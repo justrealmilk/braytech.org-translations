@@ -1092,7 +1092,8 @@
     "BraytechUsername": {
       "Info": "With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
       "Activated": "Your custom username has been activated. ✨",
-      "Placeholder": "Zavalas_lil_pookie_🥰"
+      "Placeholder": "Zavalas_lil_pookie_🥰",
+      "Specifications": "Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported."
     },
     "Sync": {
       "Action": {
