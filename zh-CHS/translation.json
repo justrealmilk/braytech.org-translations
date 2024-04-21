@@ -177,13 +177,6 @@
       "Name": "已关联的平台账号"
     },
     "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "将本 Bungie.net 账号与一个 Patreon 账号关联",
-      "Name": "关联至Patreon",
-      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "感谢！你的 Patreon 帐号邮箱现在已链接到你的 Bungie.net 个人资料。",
-      "Info": "某些 **Patreon** 的订阅层级包含奖励，例如 **奖牌**，这些奖牌会显示在你的玩家名称旁和对话框中。如需显示你获得的任何奖牌，请输入与你的 Patreon 账号关联的电子邮箱地址。"
-    },
     "Suggestion": {
       "Subtle": "使用 Bungie.net 登录以解锁更多功能",
       "Subscriptions": "你需要通过登录 Bungie.net 进行身份验证，以便创建或管理订阅。",

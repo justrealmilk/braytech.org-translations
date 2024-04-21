@@ -177,13 +177,6 @@
       "Name": "Associated Memberships"
     },
     "SubscriptionFeature": "This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "Link your Bungie.net profile with your Patreon account's email.",
-      "Name": "Link Patreon",
-      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "Thanks! Your Patreon account's email is now linked to your Bungie.net profile.",
-      "Info": "Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
-    },
     "Suggestion": {
       "Subtle": "Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
       "Subscriptions": "Authenticate with Bungie.net to create or manage a subscription.",

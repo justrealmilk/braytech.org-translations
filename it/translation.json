@@ -177,13 +177,6 @@
       "Name": "Account collegati"
     },
     "SubscriptionFeature": "Questa è una funzionalità per abbonati. Alcune funzionalità sono state realizzate solo grazie al supporto dei sostenitori. [Ulteriori informazioni](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "Associa questo profilo Bungie.net a un account Patreon",
-      "Name": "Collega Patreon",
-      "Placeholder": "vuvuzela_grassone69@hotmail.atollo",
-      "Success": "Grazie! La tua email è ora associata al tuo profilo",
-      "Info": "Alcuni gradi di **Patreon** includono ricompense come **medaglie** che verranno visualizzate a fianco del tuo nome giocatore e in finestre di dialogo. Attiva la visualizzazione di qualsiasi medaglia tu abbia guadagnato inserendo la email associata al tuo account Patreon."
-    },
     "Suggestion": {
       "Subtle": "Autenticati con Bungie.net per caricare il tuo profilo e sbloccare molte più funzionalità.",
       "Subscriptions": "Autenticati con Bungie.net per creare o gestire un abbonamento.",

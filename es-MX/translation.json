@@ -177,13 +177,6 @@
       "Name": "Cuentas asociadas"
     },
     "SubscriptionFeature": "Esta es una función para suscriptores. Algunas funciones sólo son posibles con la suscripción. [Más información](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "Asocia este perfil de Bungie.net con una cuenta de Patreon",
-      "Name": "Vincula Patreon",
-      "Placeholder": "zuzuvala_fofisano69@hotmail.reef",
-      "Success": "¡Gracias! Tu correo electrónico está ahora vinculado a tus perfiles",
-      "Info": "Algunos niveles de **Patreon** incluyen recompensas como **elogios** que se muestran al lado de tu nombre de jugador y en los cuadros de diálogo. Activa la visualización de las medallas que ganaste al introducir el correo electrónico asociado a tu cuenta de Patreon."
-    },
     "Suggestion": {
       "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
       "Subscriptions": "Autentícate con Bungie.net para crear o gestionar una suscripción.",

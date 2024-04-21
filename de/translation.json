@@ -177,13 +177,6 @@
       "Name": "Verknüpfte Profile"
     },
     "SubscriptionFeature": "Das ist eine Funktion nur für Mitglieder. Einige Funktionen sind nur durch die Unterzüzung von Migliedern möglich. [Mehr erfahren](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "Verknüpfe dieses Bungie.net-Profil mit einem Patreon-Konto",
-      "Name": "Patreon verknüpfen",
-      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "Danke! Deine E-Mail ist nun mit deinen Profilen verbunden.",
-      "Info": "Einige **Patreon**-Stufen beinhalten Belohnungen wie **Abzeichen**, welche neben deinem Spielernamen und in Dialog-Fenstern angezeigt werden. Aktiviere deine verdienten Abzeichen, indem du deine E-Mail, welche mit deinem Patreon-Konto verknüpft ist, eingibst."
-    },
     "Suggestion": {
       "Subtle": "Mit Bungie.net einloggen, um mehr Features zu nutzen.",
       "Subscriptions": "Authentifizieren mit Bungie.net, um eine Mitgliederschaft zu erwerben oder diese zu verwalten.",

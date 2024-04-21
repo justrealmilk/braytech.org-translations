@@ -177,13 +177,6 @@
       "Name": "連携したアカウント"
     },
     "SubscriptionFeature": "これはサブスクリプション契約ユーザー向け機能です。いくつかの機能は、支援者のみが利用可能です。[詳細はこちら](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "このBungie.netプロファイルをPatreonアカウントに関連付けます",
-      "Name": "Patreonアカウントとリンク",
-      "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "おめでとうございます! これで、メールアドレスはあなたのプロファイルに関連付けられました",
-      "Info": "一部の **Patreon**で支援している方のTierランクによって敬意を示す**メダル**がプレイヤー名の隣に表示されるようになります。メダルを表示するにはPatreonアカウントで使用しているメールアドレスを入力してください。"
-    },
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
       "Subscriptions": "Bungie.netでユーザー認証し、サブスクリプションの契約管理する。",

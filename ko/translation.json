@@ -177,13 +177,6 @@
       "Name": "연결된 회원정보"
     },
     "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
-    "LinkPatreon": {
-      "Description": "이 Bungie.net 프로필을 Patreon 계정과 연결",
-      "Name": "🦘 Patreonアカウントとリンク",
-      "Placeholder": "zabalra_daemeori_shipgay@gmail.reef",
-      "Success": "감사합니다! 이제 사용자의 이메일이 사용자의 프로필과 연결되었습니다.",
-      "Info": "🦘 Some **Patreon** tiers include rewards such as **medals** which are displayed at the side of your player name and in dialogs. Enable display of any medals you've earned by entering the email associated with your Patreon account."
-    },
     "Suggestion": {
       "Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",
       "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
