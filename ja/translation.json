@@ -1053,6 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "認証",
+      "BraytechUsername": "🦘 Braytech Username",
       "Developer": "開発者",
       "IDB": "データベース容量",
       "Interface": {
@@ -1087,6 +1088,11 @@
       "ManageSubscription": "サブスクリプション管理",
       "Benefits": "特典",
       "Tiers": "支援形態"
+    },
+    "BraytechUsername": {
+      "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
+      "Activated": "🦘 Your custom username has been activated. ✨",
+      "Placeholder": "🦘 Zavalas_lil_pookie_🥰"
     },
     "Sync": {
       "Action": {

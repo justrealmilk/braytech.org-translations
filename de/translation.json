@@ -1053,6 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "Authentifizierung",
+      "BraytechUsername": "🦘 Braytech Username",
       "Developer": "Entwickler",
       "IDB": "Datenbank-Speicher",
       "Interface": {
@@ -1087,6 +1088,11 @@
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "Vorteile",
       "Tiers": "Stufen"
+    },
+    "BraytechUsername": {
+      "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
+      "Activated": "🦘 Your custom username has been activated. ✨",
+      "Placeholder": "🦘 Zavalas_lil_pookie_🥰"
     },
     "Sync": {
       "Action": {

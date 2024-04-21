@@ -1053,6 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "Авторизация",
+      "BraytechUsername": "🦘 Braytech Username",
       "Developer": "Для разработчиков",
       "IDB": "Хранилище базы данных",
       "Interface": {
@@ -1087,6 +1088,11 @@
       "ManageSubscription": "Управление Подпиской",
       "Benefits": "Привилегии",
       "Tiers": "Уровни"
+    },
+    "BraytechUsername": {
+      "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
+      "Activated": "🦘 Your custom username has been activated. ✨",
+      "Placeholder": "🦘 Zavalas_lil_pookie_🥰"
     },
     "Sync": {
       "Action": {
