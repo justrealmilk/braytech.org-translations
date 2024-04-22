@@ -1093,8 +1093,9 @@
       "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
       "Activated": "🦘 Your custom username has been activated. ✨",
       "Disabled": "🦘 Your custom username has been disabled.",
-      "Placeholder": "🦘 Zavalas_lil_pookie_🥰",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported."
+      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
+      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription."
     },
     "Sync": {
       "Action": {
