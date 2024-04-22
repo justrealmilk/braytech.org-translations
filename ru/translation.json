@@ -1053,7 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "Авторизация",
-      "BraytechUsername": "🦘 Braytech Username",
+      "BraytechUsername": "Имя Пользователя Braytech",
       "Developer": "Для разработчиков",
       "IDB": "Хранилище базы данных",
       "Interface": {
@@ -1090,12 +1090,12 @@
       "Tiers": "Уровни"
     },
     "BraytechUsername": {
-      "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
-      "Activated": "🦘 Your custom username has been activated. ✨",
-      "Disabled": "🦘 Your custom username has been disabled.",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription."
+      "Info": "Оформив [подписку](/setttings/subscriptions), вы можете использовать пользовательское имя пользователя, чтобы еще больше упростить обмен ссылками и открытие вашего собственного профиля.",
+      "Activated": "Ваше пользовательское имя пользователя было активировано. ✨",
+      "Disabled": "Ваше пользовательское имя пользователя было отключено.",
+      "Specifications": "Максимальная длина имени пользователя составляет 127 символов. Поддерживаются любые символы слов (эквивалентно [a-zA-Z0-9_]) и некоторые эмодзи.",
+      "AuthRequired": "Управление именем пользователм тебует, чтобы вы аутентифицировались в Braytech через Bungie.net.",
+      "SubscriptionRequired": "Чтобы получить имя пользователя, вы должны быть подписчиком. [Поддержите Braytech](/setttings/subscriptions) через подписку."
     },
     "Sync": {
       "Action": {
