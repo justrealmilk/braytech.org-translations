@@ -1090,15 +1090,6 @@
       "Benefits": "Vorteile",
       "Tiers": "Stufen"
     },
-    "BraytechIdentity": {
-      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "Activated": "🦘 Your custom username has been activated. ✨",
-      "Disabled": "🦘 Your custom username has been disabled.",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription.",
-      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below."
-    },
     "Sync": {
       "Action": {
         "DeleteSyncedSettings": {
