@@ -853,7 +853,8 @@
       "MatchesAllHidden": "這裏有一場對局數據記錄，但你已選擇將其隱藏",
       "MatchesAllHidden_plural": "🦘 Há uma correspondênca, mas vocês optaram por escondê-la!",
       "NoMatches": "未找到結果",
-      "Top10": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗"
+      "Top10Upsell": "顯示前 10 個結果.隨時按  以獲得完整的搜索體驗",
+      "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
     },
     "ShortcutKey": " 按  鍵可從任意位置呼出搜索功能",
     "Suggestions": "搜索支持過濾器作為前綴。您也可以通過清單標識符進行搜索。例如，在遊戲中最好的武器，「564802913」。\n\n結果會依名稱、來源和說明排列優先順序。",
@@ -1095,7 +1096,8 @@
       "Disabled": "🦘 Your custom username has been disabled.",
       "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
       "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription."
+      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription.",
+      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below."
     },
     "Sync": {
       "Action": {

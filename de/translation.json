@@ -853,7 +853,8 @@
       "MatchesAllHidden": "Es gibt eine Übereinstimmung, aber du hast sie verborgen!",
       "MatchesAllHidden_plural": "Es gibt {{count}} Übereinstimmungen, aber du hast sie verborgen!",
       "NoMatches": "Keine Übereinstimmungen gefunden.",
-      "Top10": "Zeigt die ersten 10 Resultate. Drücke  um die komplette Suche zu öffnen."
+      "Top10Upsell": "Zeigt die ersten 10 Resultate. Drücke  um die komplette Suche zu öffnen.",
+      "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
     },
     "ShortcutKey": "Drücke , um die Suche von überall aus aufzurufen",
     "Suggestions": "Die Suche unterstützt Filter als Präfixe. Du kannst auch nach einem manifesten Bezeichner suchen. Zum Beispiel, die beste Waffe im Spiel, `564802913`.\n\nDie Ergebnisse werden nach Name, Quelle und Beschreibung priorisiert.",
@@ -1095,7 +1096,8 @@
       "Disabled": "🦘 Your custom username has been disabled.",
       "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
       "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription."
+      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/setttings/subscriptions) through a subscription.",
+      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below."
     },
     "Sync": {
       "Action": {
