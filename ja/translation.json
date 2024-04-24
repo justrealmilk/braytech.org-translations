@@ -1053,7 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "認証",
-      "BraytechUsername": "🦘 Braytech Username",
+      "BraytechIdentity": "🦘 Braytech Username",
       "Developer": "開発者",
       "IDB": "データベース容量",
       "Interface": {
@@ -1089,8 +1089,8 @@
       "Benefits": "特典",
       "Tiers": "支援形態"
     },
-    "BraytechUsername": {
-      "Info": "🦘 With a [subscription](/setttings/subscriptions), you can claim a custom username to make sharing links and loading your own profile even easier.",
+    "BraytechIdentity": {
+      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
       "Activated": "🦘 Your custom username has been activated. ✨",
       "Disabled": "🦘 Your custom username has been disabled.",
       "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",

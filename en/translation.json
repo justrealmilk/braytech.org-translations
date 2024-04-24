@@ -1053,7 +1053,7 @@
     },
     "SubCategory": {
       "Authentication": "Authentication",
-      "BraytechUsername": "Braytech Username",
+      "BraytechIdentity": "Braytech Identity",
       "Developer": "Developer",
       "IDB": "Database Storage",
       "Interface": {
@@ -1089,8 +1089,8 @@
       "Benefits": "Benefits",
       "Tiers": "Tiers"
     },
-    "BraytechUsername": {
-      "Info": "Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+    "BraytechIdentity": {
+      "CustomUsername": "Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
       "Activated": "Your custom username has been activated. ✨",
       "Disabled": "Your custom username has been disabled.",
       "Specifications": "Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
