@@ -679,7 +679,8 @@
       "SettingsFetch": "Соединение с Bungie.net",
       "StoreManifest": "Кэширование данных манифеста"
     },
-    "WaitingForBungie": "Ожидаем ответ от Bungie"
+    "WaitingForBungie": "Ожидаем ответ от Bungie",
+    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
   },
   "Maps": {
     "Context": {

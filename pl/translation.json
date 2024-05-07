@@ -679,7 +679,8 @@
       "SettingsFetch": "🦘 Connecting to Bungie.net",
       "StoreManifest": "🦘 Storing Manifest Data"
     },
-    "WaitingForBungie": "🦘 Waiting for Bungie"
+    "WaitingForBungie": "🦘 Waiting for Bungie",
+    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
   },
   "Maps": {
     "Context": {

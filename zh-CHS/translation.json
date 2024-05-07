@@ -679,7 +679,8 @@
       "SettingsFetch": "正在连接至 Bungie.net",
       "StoreManifest": "正在保存清单数据"
     },
-    "WaitingForBungie": "等待 Bungie 响应"
+    "WaitingForBungie": "等待 Bungie 响应",
+    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
   },
   "Maps": {
     "Context": {

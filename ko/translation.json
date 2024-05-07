@@ -679,7 +679,8 @@
       "SettingsFetch": "Bungie.net에 연결중",
       "StoreManifest": "Manifest 데이터 저장중"
     },
-    "WaitingForBungie": "Bungie 기다리는 중"
+    "WaitingForBungie": "Bungie 기다리는 중",
+    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
   },
   "Maps": {
     "Context": {

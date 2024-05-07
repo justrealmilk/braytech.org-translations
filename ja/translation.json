@@ -679,7 +679,8 @@
       "SettingsFetch": "Bungie.netへ接続中",
       "StoreManifest": "マニフェストデータをダウンロードしています"
     },
-    "WaitingForBungie": "Bungieからの応答を待っています"
+    "WaitingForBungie": "Bungieからの応答を待っています",
+    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
   },
   "Maps": {
     "Context": {
