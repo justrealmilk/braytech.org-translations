@@ -412,6 +412,7 @@
     "Season": "🦘 Season",
     "SeasonNth": "Stagione {{number}}",
     "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}",
+    "StatTracker_plural": "🦘 Stat Trackers",
     "Year": "🦘 Year",
     "SeasonPass": "Pass stagionale",
     "SeasonRank": "Grado stagionale",

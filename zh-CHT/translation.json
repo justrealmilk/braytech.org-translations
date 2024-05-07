@@ -412,6 +412,7 @@
     "Season": "🦘 Season",
     "SeasonNth": "賽季 {{number}}",
     "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
+    "StatTracker_plural": "🦘 Stat Trackers",
     "Year": "🦘 Year",
     "SeasonPass": "賽季通行證",
     "SeasonRank": "賽季等級",

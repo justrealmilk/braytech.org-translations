@@ -412,6 +412,7 @@
     "Season": "シーズン",
     "SeasonNth": "シーズン {{number}} ",
     "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
+    "StatTracker_plural": "🦘 Stat Trackers",
     "Year": "Year",
     "SeasonPass": "シーズンパス",
     "SeasonRank": "シーズンランク",

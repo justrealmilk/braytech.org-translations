@@ -412,6 +412,7 @@
     "Season": "Saison",
     "SeasonNth": "Saison {{number}}",
     "SeasonEndsIn": "Season {{number}}: endet in {{duration}}",
+    "StatTracker_plural": "🦘 Stat Trackers",
     "Year": "Jahr",
     "SeasonPass": "Saison-Pass",
     "SeasonRank": "Saison-Rang",
