@@ -446,6 +446,13 @@
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周"
   },
+  "Sorted": {
+    "Completion": "🦘 Sorted by **Completion**",
+    "Name": "🦘 Sorted by **Name**",
+    "Expiry": "🦘 Sorted by **Expiry**",
+    "User": "🦘 Sorted by **User**",
+    "None": "🦘 Unsorted"
+  },
   "GettingStarted": {
     "Header": {
       "Description": "欢迎使用 Braytech！在开始使用之前，这里有些需要注意的小贴士。\n\n如果你有任何反馈或问题，可以在 Discord 上和我聊聊，或者你也可以去看看FAQ！",

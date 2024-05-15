@@ -445,6 +445,13 @@
     "WebringInfo": "Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "Week {{number}}",
     "Week_plural": "Weeks"
+  },  
+  "Sorted": {
+    "Completion": "Sorted by **Completion**",
+    "Name": "Sorted by **Name**",
+    "Expiry": "Sorted by **Expiry**",
+    "User": "Sorted by **User**",
+    "None": "Unsorted"
   },
   "GettingStarted": {
     "Header": {

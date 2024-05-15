@@ -446,6 +446,13 @@
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas"
   },
+  "Sorted": {
+    "Completion": "🦘 Sorted by **Completion**",
+    "Name": "🦘 Sorted by **Name**",
+    "Expiry": "🦘 Sorted by **Expiry**",
+    "User": "🦘 Sorted by **User**",
+    "None": "🦘 Unsorted"
+  },
   "GettingStarted": {
     "Header": {
       "Description": "Bem vindo ao Braytech! Antes de começar, eu tenho umas dicas para você.\n\nSe você tiver algum feedback ou perguntas, nós podemos conversar no Discord ou você pode checar o FAQ!",

@@ -446,6 +446,13 @@
     "WeekNth": "第{{number}}週",
     "Week_plural": "週"
   },
+  "Sorted": {
+    "Completion": "🦘 Sorted by **Completion**",
+    "Name": "🦘 Sorted by **Name**",
+    "Expiry": "🦘 Sorted by **Expiry**",
+    "User": "🦘 Sorted by **User**",
+    "None": "🦘 Unsorted"
+  },
   "GettingStarted": {
     "Header": {
       "Description": "Braytechへようこそ! 始める前にtipsを見ることをお勧めします。\n\nフィードバックや質問があれば、Discordで質問したりFAQを参照してみてください!",
