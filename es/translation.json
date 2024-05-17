@@ -9,6 +9,7 @@
     "Browse": "Navegar",
     "Cancel": "Cancelar",
     "Close": "Cerrar",
+    "Condense": "🦘 Condense",
     "Collapse": "Reducir",
     "CollapseFilters": "Cerrar filtros",
     "Confirm": "Confirmar",
@@ -444,7 +445,8 @@
     "Weapon": "Arma",
     "WebringInfo": "Visita a un amigo de Braytech, otro proyecto de Destiny creado por la comunidad.",
     "WeekNth": "Semana {{number}}",
-    "Week_plural": "Semanas"
+    "Week_plural": "Semanas",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "Los contratos que obtengas aparecerán aquí.",
     "NoQuests": "Las aventuras que obtengas aparecerán aquí.",
     "Rewards": "Recompensas de aventura",
-    "Steps": "Pasos de aventura"
+    "Steps": "Pasos de aventura",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {

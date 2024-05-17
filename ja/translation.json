@@ -9,6 +9,7 @@
     "Browse": "詳しく見る",
     "Cancel": "キャンセル",
     "Close": "閉じる",
+    "Condense": "🦘 Condense",
     "Collapse": "折りたたむ",
     "CollapseFilters": "フィルターを折りたたむ",
     "Confirm": "確認",
@@ -444,7 +445,8 @@
     "Weapon": "武器",
     "WebringInfo": "Braytechと親交のあるコミュニティで作られた、新しいDestinyのプロジェクトを見てみよう!",
     "WeekNth": "第{{number}}週",
-    "Week_plural": "週"
+    "Week_plural": "週",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "バウンティを受託するとここに表示されます。",
     "NoQuests": "クエストを受託するとここに表示されます。",
     "Rewards": "クエスト報酬",
-    "Steps": "クエスト進捗"
+    "Steps": "クエスト進捗",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {

@@ -9,6 +9,7 @@
     "Browse": "浏览",
     "Cancel": "取消",
     "Close": "关闭",
+    "Condense": "🦘 Condense",
     "Collapse": "折叠",
     "CollapseFilters": "折叠筛选",
     "Confirm": "确认",
@@ -444,7 +445,8 @@
     "Weapon": "武器",
     "WebringInfo": "拜访Braytech的一位朋友，这是另一个由社区创建的 Destiny 项目。",
     "WeekNth": "第 {{number}} 周",
-    "Week_plural": "周"
+    "Week_plural": "周",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "你领取的赏金单会在这里显示",
     "NoQuests": "你领取的任务会在这里显示",
     "Rewards": "奖励",
-    "Steps": "步骤"
+    "Steps": "步骤",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {

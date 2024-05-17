@@ -9,6 +9,7 @@
     "Browse": "Обзор",
     "Cancel": "Отмена",
     "Close": "Закрыть",
+    "Condense": "🦘 Condense",
     "Collapse": "Свернуть",
     "CollapseFilters": "Свернуть Фильтры",
     "Confirm": "Подтвердить",
@@ -444,7 +445,8 @@
     "Weapon": "Оружие",
     "WebringInfo": "Посетите друга Braytech, другого созданного сообществом проекта по Destiny.",
     "WeekNth": "Неделя {{number}}",
-    "Week_plural": "Недели"
+    "Week_plural": "Недели",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "Контракты, которые вы получите, появятся здесь.",
     "NoQuests": "Поручения, которые вы получите, появятся здесь.",
     "Rewards": "Награды Поручения",
-    "Steps": "Этапы Поручения"
+    "Steps": "Этапы Поручения",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {

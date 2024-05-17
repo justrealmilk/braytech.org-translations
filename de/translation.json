@@ -9,6 +9,7 @@
     "Browse": "Durchstöbern",
     "Cancel": "Abbrechen",
     "Close": "Schließen",
+    "Condense": "🦘 Condense",
     "Collapse": "Zuklappen",
     "CollapseFilters": "Filter zuklappen",
     "Confirm": "Bestätigen",
@@ -444,7 +445,8 @@
     "Weapon": "Waffe",
     "WebringInfo": "Besuche einen Freund von Braytech, ein weiteres von der Community geschaffenes Destiny-Projekt.",
     "WeekNth": "Woche {{number}}",
-    "Week_plural": "Wochen"
+    "Week_plural": "Wochen",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "🦘 Bounties you acquire will appear here.",
     "NoQuests": "🦘 Quests you acquire will appear here.",
     "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps"
+    "Steps": "🦘 Quest Steps",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {

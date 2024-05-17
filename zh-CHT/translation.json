@@ -9,6 +9,7 @@
     "Browse": "🦘 Browse",
     "Cancel": "取消",
     "Close": "關閉",
+    "Condense": "🦘 Condense",
     "Collapse": "崩潰",
     "CollapseFilters": "🦘 Collapse Filters",
     "Confirm": "確認",
@@ -444,7 +445,8 @@
     "Weapon": "武器",
     "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
     "WeekNth": "周 {{number}}",
-    "Week_plural": "周"
+    "Week_plural": "周",
+    "XP": "🦘 {{number}} XP"
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -844,7 +846,10 @@
     "NoBounties": "🦘 Bounties you acquire will appear here.",
     "NoQuests": "🦘 Quests you acquire will appear here.",
     "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps"
+    "Steps": "🦘 Quest Steps",
+    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "BountiesValue": "🦘 The value of your completed bounties.",
+    "XPBonuses": "🦘 Bonuses which can multiply the value of your completed bounties."
   },
   "Search": {
     "Error": {
