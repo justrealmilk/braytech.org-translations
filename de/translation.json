@@ -37,6 +37,7 @@
     "MemberRemove": "Mitglied entfernen",
     "NextNth": "Nächsten {{number}}",
     "SeeNextNth": "Keine fast abgeschlossenen Triumphe. Suche dir eine Aufgabe raus und lege los!",
+    "None": "🦘 None",
     "Now": "Jetzt",
     "Open": "Öffnen",
     "Previous": "Vorherige",
@@ -364,6 +365,7 @@
     "GuardianRank": "Hüter-Rang",
     "Guardians": "Hüter",
     "Help": "Hilfe",
+    "Highlight": "🦘 Highlight",
     "HistoricalStats": "Historische Statistiken",
     "InfamyPoints": "Ruchlosigkeitspunkte",
     "Inspect": "Inspizieren",
@@ -437,6 +439,7 @@
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "Unbekannt",
     "Users": "Benutzer",
+    "Username": "🦘 Username",
     "ValorPoints": "Tapferkeitspunkte",
     "VanguardPoints": "Vorhut-Punkte",
     "Vendor": "Händler",
@@ -1104,14 +1107,15 @@
       "Benefits": "Vorteile",
       "Tiers": "Stufen"
     },
-    "BraytechIdentity": {
-      "Activated": "🦘 Your identity has been updated. ✨",
-      "Disabled": "🦘 Your identity has been disabled.",
-      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below.",
+    "BraytechLegend": {
+      "Updated": "🦘 Your legend has been updated. ✨",
+      "Disabled": "🦘 Your legend has been disabled.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
+      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view.",
       "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
+      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
     },
     "Sync": {
       "Action": {

@@ -37,6 +37,7 @@
     "MemberRemove": "Eliminar miembro",
     "NextNth": "Siguientes {{number}}",
     "SeeNextNth": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
+    "None": "🦘 None",
     "Now": "Ahora",
     "Open": "Abrir",
     "Previous": "Anteriores",
@@ -364,6 +365,7 @@
     "GuardianRank": "Nivel de Guardián",
     "Guardians": "Guardianes",
     "Help": "Ayuda",
+    "Highlight": "🦘 Highlight",
     "HistoricalStats": "Estadísticas históricas",
     "InfamyPoints": "Puntos de Infamia",
     "Inspect": "Inspeccionar",
@@ -437,6 +439,7 @@
     "LegacyTriumphs": "Triunfos antiguos",
     "Unknown": "Desconocido",
     "Users": "Usuarios",
+    "Username": "🦘 Username",
     "ValorPoints": "Puntos de Valor",
     "VanguardPoints": "Puntos de Vanguardia",
     "Vendor": "Comerciante",
@@ -1104,14 +1107,15 @@
       "Benefits": "Beneficios",
       "Tiers": "Niveles"
     },
-    "BraytechIdentity": {
-      "Activated": "Tu identidad ha sido actualizada. ✨",
-      "Disabled": "Tu identidad ha sido desactivada.",
-      "CustomUsername": "Reclama un nombre de usuario personalizado para que compartir enlaces y cargar tu perfil sea más fácil. Los [Suscriptores](/settings/subscriptions) obtienen muchos beneficios, incluyendo la posibilidad de obtener un nombre de usuario personalizado.",
-      "ShareHighlight": "Cuando compartes un enlace a tu perfil, se genera una imagen específica para ti. Puedes elegir destacar un triunfo o un analizador estadístico del que te sientas orgulloso mediante la siguiente casilla.",
-      "Specifications": "La longitud máxima de los nombres de usuario es de 127 caracteres. Se admite cualquier carácter de palabra (equivalente a [a-zA-Z0-9_]) y algunos emoji.",
-      "AuthRequired": "La gestión de nombres de usuario requiere que primero te autentifiques en Braytech con Bungie.net.",
-      "SubscriptionRequired": "Para reclamar un nombre de usuario, es necesario ser un suscriptor. [Apoya a Braytech](/settings/subscriptions) a través de una suscripción."
+    "BraytechLegend": {
+      "Updated": "🦘 Your legend has been updated. ✨",
+      "Disabled": "🦘 Your legend has been disabled.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
+      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view.",
+      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
+      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
     },
     "Sync": {
       "Action": {
