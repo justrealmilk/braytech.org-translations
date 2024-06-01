@@ -9,7 +9,7 @@
     "Browse": "Обзор",
     "Cancel": "Отмена",
     "Close": "Закрыть",
-    "Condense": "🦘 Condense",
+    "Condense": "Сократить",
     "Collapse": "Свернуть",
     "CollapseFilters": "Свернуть Фильтры",
     "Confirm": "Подтвердить",
@@ -37,7 +37,7 @@
     "MemberRemove": "Удалить участника",
     "NextNth": "Следующие {{number}}",
     "SeeNextNth": "Ваши частично выполненные триумфы. Выбирайте цель и приступайте!",
-    "None": "🦘 None",
+    "None": "Нет",
     "Now": "В начало",
     "Open": "Открыть",
     "Previous": "Предыдущие",
@@ -353,7 +353,7 @@
     "FeaturedEvent": "Мероприятие",
     "FeaturedNightfall": "Сумрачный Налёт",
     "FeaturedPlaylist": "Плейлист",
-    "Filters": "🦘 Filters",
+    "Filters": "Фильтры",
     "Fireteam": "Боевая группа",
     "Fireteam_plural": "Боевые группы",
     "FireteamMembers": "Члены боевой группы",
@@ -365,7 +365,7 @@
     "GuardianRank": "Ранг Стража",
     "Guardians": "Стражи",
     "Help": "Помощь",
-    "Highlight": "🦘 Highlight",
+    "Highlight": "Выделить",
     "HistoricalStats": "Статистика",
     "InfamyPoints": "Очков бесчестия",
     "Inspect": "Информация",
@@ -439,7 +439,7 @@
     "LegacyTriumphs": "Прошлые Триумфы",
     "Unknown": "Неизвестно",
     "Users": "Пользователи",
-    "Username": "🦘 Username",
+    "Username": "Имя Пользователя",
     "ValorPoints": "Очков доблести",
     "VanguardPoints": "Очков Авангарда",
     "Vendor": "Вендор",
@@ -449,14 +449,14 @@
     "WebringInfo": "Посетите друга Braytech, другого созданного сообществом проекта по Destiny.",
     "WeekNth": "Неделя {{number}}",
     "Week_plural": "Недели",
-    "XP": "🦘 {{number}} XP"
+    "XP": "{{number}} Опыта"
   },
   "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
+    "Completion": "Отсортировано по **Завершению**",
+    "Name": "Отсортировано по **Названию**",
+    "Expiry": "Отсортировано по **Истечению**",
+    "User": "Отсортировано **Пользователем**",
+    "None": "Несортировано"
   },
   "GettingStarted": {
     "Header": {
@@ -850,9 +850,9 @@
     "NoQuests": "Поручения, которые вы получите, появятся здесь.",
     "Rewards": "Награды Поручения",
     "Steps": "Этапы Поручения",
-    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
-    "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "ProjectedRanks": "Сумма выполненных вами контрактов равна вышеуказанному рангу сезонного абонемента, если вы их получите.",
+    "BountiesValue": "Сумма выполненных вами контрактов.",
+    "XPBonuses": "Бонусы"
   },
   "Search": {
     "Error": {
@@ -1108,15 +1108,15 @@
       "Tiers": "Уровни"
     },
     "BraytechLegend": {
-      "Updated": "🦘 Your legend has been updated. ✨",
-      "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
-      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
-      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
-      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
+      "Updated": "Ваша легенда была обновлена. ✨",
+      "Disabled": "Ваша легенда была отключена.",
+      "Info": "Укажите в своем профиле уникальное имя пользователя, чтобы было проще делиться своим профилем, выберите триумф или трекер, чтобы выделять его когда вы делитесь своим профилем, и выберите персонажа, который будет использоваться по умолчанию когда вы делитесь своей ссылкой без указания персонажа.\n\n[Подписчики](/settings/subscriptions) получают множество преимуществ, включая возможность использовать уникальное имя пользователя.",
+      "AuthRequired": "Чтобы изменить свою легенду, для начал вы должны войти в Braytech через Bungie.net.",
+      "SubscriptionRequired": "Чтобы получить имя пользователя и другие крутые вещи, вы должны быть подписчиком. [Поддержите Braytech](/settings/subscriptions) через подписку.",
+      "Username": "Выберите уникальное им пользователя или вернитесь к своему имени Bungie. Вы можете изменить это в любое время.\n\nСпециалист по брендингу предоставляется по запросу за скромную плату.",
+      "UsernameSpecifications": "Максимальная длина для имени пользователя составляет 127 символов. Поддерживаются либые символы слова (эквивалентно [a-zA-Z0-9_]) и некоторые эмоджи.",
+      "DefaultCharacter": "Вы можете выбрать персонажа, который будет выбираться по умолчанию когда вы делитесь своей ссылкой без указания персонажа.\n\nНапример, когда вы делитесь ссылкой https://bray.tech/@/{{username}}, Braytech попросит пользователя выбрать персонажа. Вместо этого, вы можете выбрать предпочитаемого персонажа.",
+      "ShareHighlight": "Когда вы делитесь своим профилем, генерируется уникальное изображение. У вас есть возможность выделить триумф или трекер, которым вы гордитесь. Это также будет отображено в вашем виде [Легенды](/legend)."
     },
     "Sync": {
       "Action": {
