@@ -180,7 +180,6 @@
     "SubscriptionFeature": "これはサブスクリプション契約ユーザー向け機能です。いくつかの機能は、支援者のみが利用可能です。[詳細はこちら](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
-      "Subscriptions": "Bungie.netでユーザー認証し、サブスクリプションの契約管理する。",
       "Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。"
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "アセンダントの挑戦",
     "Available": "入手可能",
     "AvailableActivities": "利用可能なアクティビティ",
+    "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "Cancel": "キャンセル",
     "Challenge": "チャレンジ",
     "Challenge_plural": "チャレンジ",
     "Character": "キャラクター",
     "CurrentRankNth": "現在のランク: {{value}}",
-    "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "CharacterClass": "キャラクタークラス",
     "CharacterLight": "キャラクターの光",
     "CharacterSpecific": "Braytechの他機能と同様、このページは選択中のキャラのデータとなります。",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "アクティブプロファイル",
-    "BungieNetProfile": "Bungie.netに登録されているプロファイル",
     "ChangeProfile": "プロファイルを変更",
     "CrossSaveProfile": "このプレイヤーはクロスセーブを有効にしています。アクティブなプロフィールはマークされています。",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
         "Renewing": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**更新**となります。"
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "サブスクリプションを発動させる",
       "ManageSubscription": "サブスクリプション管理",
       "Benefits": "特典",
-      "Tiers": "支援形態"
+      "Tiers": "支援形態",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",

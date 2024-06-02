@@ -180,7 +180,6 @@
     "SubscriptionFeature": "Das ist eine Funktion nur für Mitglieder. Einige Funktionen sind nur durch die Unterzüzung von Migliedern möglich. [Mehr erfahren](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "Mit Bungie.net einloggen, um mehr Features zu nutzen.",
-      "Subscriptions": "Authentifizieren mit Bungie.net, um eine Mitgliederschaft zu erwerben oder diese zu verwalten.",
       "Text": "Die meisten Funktionen von Braytech sind für alle Nutzer zugänglich und basieren auf öffentlich verfügbaren Daten. Einige Funktionalitäten erfordern jedoch spezifische Zugangsrechte, die du Braytech erteilen kannst, indem du dich über Bungie.net anmeldest."
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "Aszendenten-Herausforderung",
     "Available": "Verfügbar",
     "AvailableActivities": "Verfügbare Aktivitäten",
+    "BrowseNthMembers_plural": "Durchsuche {{number}} Mitglieder",
     "Cancel": "Abbrechen",
     "Challenge": "Herausforderung",
     "Challenge_plural": "Herausforderungen",
     "Character": "Charakter",
     "CurrentRankNth": "Aktueller Rang: {{value}}",
-    "BrowseNthMembers_plural": "Durchsuche {{number}} Mitglieder",
     "CharacterClass": "Charakter-Klasse",
     "CharacterLight": "Charakter-Power",
     "CharacterSpecific": "Wie die meisten Braytech-Funktionen ist diese Ansicht charakterspezifisch.",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "Aktives Profil",
-    "BungieNetProfile": "Bungie.net-Profile",
     "ChangeProfile": "Profil wechseln",
     "CrossSaveProfile": "Dieser Spieler hat Cross Save aktiviert. Sein aktives Profil ist markiert.",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "Werbung suckt, deshalb schaltet Braytech keine, aber nichts hiervon ist Konstenlos oder Einfach!\n\nStatt Werbund, bin ich auf deine Großzügigkeit angewiesen. Deine Unterstüzung hilft die App am laufen zu halten, ermöglicht es mir an neuen Funktionen zu arbeiten, and zahlt meine Miete!\n\nAbonniere mit eine der folgenden Stufen, um coole Belohnungen wie Profilabzeichen zu erhalten!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "Du hast am **{{created}}** abonniert und dein Abonnement **endet** am **{{currentPeriodEnd}}**.",
         "Renewing": "Du hast am **{{created}}** abonniert und dein Abonnement **erneuert** sich am **{{currentPeriodEnd}}**."
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "Aktive Mitgliedschaft",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "Vorteile",
-      "Tiers": "Stufen"
+      "Tiers": "Stufen",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",

@@ -180,7 +180,6 @@
     "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "대부분의 Braytech 기능들은 모든 유저가 접근 가능한 열린 정보에 기반하지만, 일부 데스티니의 기능들은 Bungie.net 인증을 통해 더 명확한 접근 허가를 필요로 합니다."
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "승천 도전",
     "Available": "🦘 Available",
     "AvailableActivities": "사용 가능한 활동",
+    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "Cancel": "취소",
     "Challenge": "도전",
     "Challenge_plural": "도전",
     "Character": "🦘 Character",
     "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "캐릭터 직업",
     "CharacterLight": "🦘 Character Light",
     "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "활성화된 프로필",
-    "BungieNetProfile": "Bungie.net 프로필",
     "ChangeProfile": "프로필 변경",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
         "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "🦘 Tiers"
+      "Tiers": "🦘 Tiers",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",

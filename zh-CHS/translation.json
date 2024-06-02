@@ -180,7 +180,6 @@
     "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "使用 Bungie.net 登录以解锁更多功能",
-      "Subscriptions": "你需要通过登录 Bungie.net 进行身份验证，以便创建或管理订阅。",
       "Text": "Braytech 的大部分功能对所有用户可用，并且依赖于公开数据，而《命运》的一些功能需要访问权限，您可以通过登录 Bungie.net 进行身份验证来授权 Braytech"
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "上维挑战",
     "Available": "可用",
     "AvailableActivities": "可用活动",
+    "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "Cancel": "取消",
     "Challenge": "挑战",
     "Challenge_plural": "挑战",
     "Character": "角色",
     "CurrentRankNth": "当前等级: {{value}}",
-    "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "CharacterClass": "角色职业",
     "CharacterLight": "角色光等",
     "CharacterSpecific": "如同大多数Braytech的功能一样，这个视图是针对特定角色的",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
-    "BungieNetProfile": "Bungie.net资料",
     "ChangeProfile": "更换档案",
     "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "广告很烦人，所以Braytech不会添加广告，但这并不意味着它是免费或容易的！\n\n取而代之的是，我需要你的慷慨支持。 你的支持将帮助我开发新功能并支付租金，使 Braytech 能够持续提供在线服务！\n\n订阅以下任何一个层级，即可获得酷炫的奖励，例如个人资料勋章！",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **结束**。",
         "Renewing": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **自动续订**。"
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "当前订阅",
       "ManageSubscription": "管理订阅",
       "Benefits": "奖励",
-      "Tiers": "等级"
+      "Tiers": "等级",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",

@@ -180,7 +180,6 @@
     "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "🦘 Login with Bungie.net to unlock more features.",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net."
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "🦘 Ascendant Challenge",
     "Available": "🦘 Available",
     "AvailableActivities": "🦘 Available Activities",
+    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "Cancel": "🦘 Cancel",
     "Challenge": "🦘 Challenge",
     "Challenge_plural": "🦘 Challenges",
     "Character": "🦘 Character",
     "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "🦘 Character Class",
     "CharacterLight": "🦘 Character Light",
     "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "🦘 Active Profile",
-    "BungieNetProfile": "🦘 Bungie.net Profile",
     "ChangeProfile": "🦘 Change Profile",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
         "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "🦘 Tiers"
+      "Tiers": "🦘 Tiers",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",

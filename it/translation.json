@@ -180,7 +180,6 @@
     "SubscriptionFeature": "Questa è una funzionalità per abbonati. Alcune funzionalità sono state realizzate solo grazie al supporto dei sostenitori. [Ulteriori informazioni](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "Autenticati con Bungie.net per caricare il tuo profilo e sbloccare molte più funzionalità.",
-      "Subscriptions": "Autenticati con Bungie.net per creare o gestire un abbonamento.",
       "Text": "La maggior parte delle funzionalità di Braytech sono utilizzabili da tutti gli utenti e dipendono da dati pubblici, ma alcune funzionalità di Destiny richiedono dei permessi espliciti che puoi garantire a Braytech autenticandoti con Bungie.net."
     }
   },
@@ -314,12 +313,12 @@
     "AscendantChallenge": "Sfida Ascendente",
     "Available": "Disponibile",
     "AvailableActivities": "Attività disponibili",
+    "BrowseNthMembers_plural": "Mostra {{number}} membri",
     "Cancel": "Cancella",
     "Challenge": "Sfida",
     "Challenge_plural": "Sfide",
     "Character": "Personaggio",
     "CurrentRankNth": "Grado attuale: {{value}}",
-    "BrowseNthMembers_plural": "Mostra {{number}} membri",
     "CharacterClass": "Classe del personaggio",
     "CharacterLight": "Luce del personaggio",
     "CharacterSpecific": "Come la maggior parte delle funzionalità di Braytech, questa sezione è pensata su base del singolo personaggio.",
@@ -785,7 +784,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "Profilo attivo",
-    "BungieNetProfile": "Profilo Bungie.net",
     "ChangeProfile": "Cambia profilo",
     "CrossSaveProfile": "Questo giocatore ha attivato il Cross Save. Il loro profilo attivo è segnato.",
     "Error": {
@@ -1094,6 +1092,7 @@
     },
     "Subscriptions": {
       "Info": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è gratuito o facile!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!\n\nAbbonati a uno dei seguenti livelli per fantastici premi, tra cui, le medaglie del profilo!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento **terminerà** il **{{currentPeriodEnd}}**.",
         "Renewing": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento si **rinnoverà** il **{{currentPeriodEnd}}**."
@@ -1105,7 +1104,8 @@
       "ActiveSubscription": "Abbonamento attivo",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "Livelli"
+      "Tiers": "Livelli",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",
