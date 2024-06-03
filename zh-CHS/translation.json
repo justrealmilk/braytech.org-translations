@@ -624,6 +624,10 @@
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
       "Name": "首次复生"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "向浩瀚无垠的星空大胆进发\n带领火力战队打败黑暗的爪牙并取得胜利，亦可以在熔炉竞技场中与其他人一决高下，来争夺沙克斯的青睐",
       "Name": "守护者的地位"

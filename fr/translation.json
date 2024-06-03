@@ -624,6 +624,10 @@
       "Description": "Le spectre d'un gardien\n\nVotre vie après votre vie commence ici. Vous êtes un ressuscité, choisi par un spectre et doté d'un grand pouvoir à travers la lumière et les ténèbres.\n\nVoici vos premiers pas.",
       "Name": "Première apparition"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "Par l'audace jusqu'aux étoiles\n\nMenez des escouades à la victoire contre les sbires des Ténèbres et affrontez-vous dans l'Épreuve pour des accolades du seigneur Shaxx lui-même.",
       "Name": "Valeur du Gardien"

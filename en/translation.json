@@ -624,6 +624,10 @@
       "Description": "A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
       "Name": "First Risen"
     },
+    "Highlight": {
+      "Description": "Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "Highlight"
+    },
     "Ranks": {
       "Description": "Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.\n\nThis is how you measure up this season.",
       "Name": "Standing"

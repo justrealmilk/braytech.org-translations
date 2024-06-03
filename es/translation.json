@@ -624,6 +624,10 @@
       "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
       "Name": "Primer renacido"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
       "Name": "Reputación del Guardián"

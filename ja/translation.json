@@ -624,6 +624,10 @@
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
       "Name": "ガーディアンの地位"
