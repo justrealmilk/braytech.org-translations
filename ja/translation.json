@@ -9,7 +9,7 @@
     "Browse": "詳しく見る",
     "Cancel": "キャンセル",
     "Close": "閉じる",
-    "Condense": "🦘 Condense",
+    "Condense": "閉じる",
     "Collapse": "折りたたむ",
     "CollapseFilters": "フィルターを折りたたむ",
     "Confirm": "確認",
@@ -37,7 +37,7 @@
     "MemberRemove": "メンバーを外す",
     "NextNth": "次の{{number}}件",
     "SeeNextNth": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
-    "None": "🦘 None",
+    "None": "無し",
     "Now": "最新",
     "Open": "開く",
     "Previous": "戻る",
@@ -352,7 +352,7 @@
     "FeaturedEvent": "注目のイベント",
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
-    "Filters": "🦘 Filters",
+    "Filters": "フィルター",
     "Fireteam": "ファイアチーム",
     "Fireteam_plural": "ファイアチーム",
     "FireteamMembers": "ファイアチームのメンバー",
@@ -364,7 +364,7 @@
     "GuardianRank": "ガーディアンランク",
     "Guardians": "ガーディアン",
     "Help": "ヘルプ",
-    "Highlight": "🦘 Highlight",
+    "Highlight": "ハイライト",
     "HistoricalStats": "履歴統計",
     "InfamyPoints": "悪名ポイント",
     "Inspect": "詳細",
@@ -414,7 +414,7 @@
     "Season": "シーズン",
     "SeasonNth": "シーズン {{number}} ",
     "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
-    "StatTracker_plural": "🦘 Stat Trackers",
+    "StatTracker_plural": "ステータストラッカー",
     "Year": "Year",
     "SeasonPass": "シーズンパス",
     "SeasonRank": "シーズンランク",
@@ -438,7 +438,7 @@
     "LegacyTriumphs": "過去の勝利の道のり",
     "Unknown": "不明",
     "Users": "ユーザー",
-    "Username": "🦘 Username",
+    "Username": "ユーザーネーム",
     "ValorPoints": "武勇ポイント",
     "VanguardPoints": "ヴァンガードポイント",
     "Vendor": "ベンダー",
@@ -448,14 +448,14 @@
     "WebringInfo": "Braytechと親交のあるコミュニティで作られた、新しいDestinyのプロジェクトを見てみよう!",
     "WeekNth": "第{{number}}週",
     "Week_plural": "週",
-    "XP": "🦘 {{number}} XP"
+    "XP": "経験値 {{number}} ポイント"
   },
   "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
+    "Completion": "**達成**で並び替え",
+    "Name": "**名前**で並び替え",
+    "Expiry": "**期限**で並び替え",
+    "User": "**ユーザー**で並び替え",
+    "None": "並び替えなし"
   },
   "GettingStarted": {
     "Header": {
@@ -591,7 +591,7 @@
     },
     "MemberSearch": {
       "Name": "ガーディアン検索",
-      "Description": "友人やライバルとのスコアを比べるがいい"
+      "Description": "友人やライバルとのスコアを比較します。"
     },
     "Comparison": {
       "Name": "比較",
@@ -618,15 +618,15 @@
   },
   "Legend": {
     "Profile": {
-      "Description": "力は何を齎すのか;  光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
+      "Description": "力はいったい何を齎すのか。  光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
     },
     "Highlight": {
-      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
-      "Name": "🦘 Highlight"
+      "Description": "誇りと歓喜\n\nお前はこの功績を、周囲に知れ渡るよう肩にかけることを選んだ。",
+      "Name": "ハイライト"
     },
     "Ranks": {
       "Description": "大胆な行動で、星々を目指せ。\n\nファイアチームを率いて闇の組織の配下に勝利し、クルーシブルで互いに競い合い、シャックス卿から直接報酬を得よう。",
@@ -695,7 +695,7 @@
       "StoreManifest": "マニフェストデータをダウンロードしています"
     },
     "WaitingForBungie": "Bungieからの応答を待っています",
-    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
+    "WaitingForVoluspa": "Voluspaからの応答を待っています"
   },
   "Maps": {
     "Context": {
@@ -852,9 +852,9 @@
     "NoQuests": "クエストを受託するとここに表示されます。",
     "Rewards": "クエスト報酬",
     "Steps": "クエスト進捗",
-    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
-    "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "ProjectedRanks": "完了したバウンティーの価値は、上記シーズンパスのランクに相当します。",
+    "BountiesValue": "完了したバウンティーの価値",
+    "XPBonuses": "経験値ボーナス"
   },
   "Search": {
     "Error": {
@@ -873,7 +873,7 @@
       "MatchesAllHidden_plural": " {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
       "NoMatches": "検索しましたが見つかりませんでした",
       "Top10Upsell": "トップの検索結果10件を表示します。すべての検索結果を見たい場合は  キーを押して検索モードをご利用ください",
-      "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
+      "TopNSpecificity": "上位{{number}}のマッチを表示します。続きも表示できます。"
     },
     "ShortcutKey": "いつでも  キーを押して検索できます",
     "Suggestions": "検索では、接頭語を入力するとフィルタとして利用できます。また、マニフェスト識別子でも検索できます。例えば、ゲーム内で最高の武器の一つ、 `564802913` で検索すると名前、ソース、および説明の順番で結果が優先されます。",
@@ -1073,7 +1073,7 @@
     },
     "SubCategory": {
       "Authentication": "認証",
-      "BraytechIdentity": "🦘 Braytech Username",
+      "BraytechIdentity": "Braytechユーザー名",
       "Developer": "開発者",
       "IDB": "データベース容量",
       "Interface": {
@@ -1096,7 +1096,7 @@
     },
     "Subscriptions": {
       "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
-      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "AuthRequired": "サブスクリプションを設定に反映させるため、Bungie.netに認証を行ってください。",
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
         "Renewing": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**更新**となります。"
@@ -1109,18 +1109,18 @@
       "ManageSubscription": "サブスクリプション管理",
       "Benefits": "特典",
       "Tiers": "支援形態",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Help": "システム不具合を発見したら[Discord](https://discord.bray.tech)、またはメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)でご報告ください。"
     },
     "BraytechLegend": {
-      "Updated": "🦘 Your legend has been updated. ✨",
-      "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
-      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
-      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
-      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
+      "Updated": "階級がアップデートされました✨",
+      "Disabled": "階級が停止されました。",
+      "Info": "プロフィールを表示をより魅力的にできるようユニークなユーザー名でプロフィールを飾ったり、プロフィールが共有されたときに強調表示する勝利の道のりやトラッカーの選択、プロフィールのリンクが文字指定なしで共有されたときのデフォルトの文字を選択したりできます。\n\n[サブスクリプション](/settings/subscriptions)に加入するとこれらのユーザー名表示のカスタマイズが可能になります。",
+      "AuthRequired": "サブスクリプションを発動させるには、再度Bungie.netにてBraytechの利用認証を許可する必要があります。",
+      "SubscriptionRequired": "ユーザー名の装飾やカスタマイズにはサブスクリプション登録が必要です。[Support Braytech](/settings/subscriptions)から登録してください。",
+      "Username": "新規のユーザー名にするか、Bungie.netで登録した名前を選択してください。後からいつでも変更可能です\n\n別途追加費用は掛かりますが、スペシャリストによる支援も利用できます。",
+      "UsernameSpecifications": "ユーザー名の最長文字数は半角英数字127文字です。大文字、小文字は区別されいくつかのemojiも利用できます。",
+      "DefaultCharacter": "共有リンクURLを生成する時、IDベースではない任意の文字を指定できます。\n\n例えば、https://bray.tech/@/{{username}}のように作成できます。またこのリンクを作成する時に最初に表示させたいキャラクラスがあれば指定してください。",
+      "ShareHighlight": "プロファイルが共有された時、特定の画像が生成されます。その画像には表示させたい達成した勝利の道のりやトラッカーを指定できます。またこの画像は[Legend](/legend)でも表示されます。"
     },
     "Sync": {
       "Action": {
