@@ -854,7 +854,8 @@
     "Steps": "步骤",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
     "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "XPBonuses": "🦘 Bonuses",
+    "SuggestedPath": "🦘 Suggested Path"
   },
   "Search": {
     "Error": {

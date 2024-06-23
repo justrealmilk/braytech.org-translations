@@ -854,7 +854,8 @@
     "Steps": "Pasos de aventura",
     "ProjectedRanks": "El valor de tus contratos completados equivaldrá a estos niveles del pase de temporada si los reclamas.",
     "BountiesValue": "El valor de tus contratos completados.",
-    "XPBonuses": "Bonificaciones"
+    "XPBonuses": "Bonificaciones",
+    "SuggestedPath": "🦘 Suggested Path"
   },
   "Search": {
     "Error": {
