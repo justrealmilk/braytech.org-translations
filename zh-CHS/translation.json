@@ -5,6 +5,7 @@
     "AddEvent": "添加活动",
     "AllClasses": "全部职业",
     "Authenticate": "认证",
+    "Avoid": "🦘 Avoid",
     "Back": "返回",
     "Browse": "浏览",
     "Cancel": "取消",
@@ -37,6 +38,7 @@
     "MemberRemove": "移除成员",
     "NextNth": "后 {{number}} 项",
     "SeeNextNth": "没有部分完成的成就。选择一个目标然后开始努力吧！",
+    "None": "🦘 None",
     "Now": "当前页",
     "Open": "打开",
     "Previous": "往前",
@@ -179,7 +181,6 @@
     "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "使用 Bungie.net 登录以解锁更多功能",
-      "Subscriptions": "你需要通过登录 Bungie.net 进行身份验证，以便创建或管理订阅。",
       "Text": "Braytech 的大部分功能对所有用户可用，并且依赖于公开数据，而《命运》的一些功能需要访问权限，您可以通过登录 Bungie.net 进行身份验证来授权 Braytech"
     }
   },
@@ -313,12 +314,12 @@
     "AscendantChallenge": "上维挑战",
     "Available": "可用",
     "AvailableActivities": "可用活动",
+    "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "Cancel": "取消",
     "Challenge": "挑战",
     "Challenge_plural": "挑战",
     "Character": "角色",
     "CurrentRankNth": "当前等级: {{value}}",
-    "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "CharacterClass": "角色职业",
     "CharacterLight": "角色光等",
     "CharacterSpecific": "如同大多数Braytech的功能一样，这个视图是针对特定角色的",
@@ -364,6 +365,7 @@
     "GuardianRank": "守护者等级",
     "Guardians": "守护者",
     "Help": "帮助",
+    "Highlight": "🦘 Highlight",
     "HistoricalStats": "历史统计数据",
     "InfamyPoints": "恶行点数",
     "Inspect": "查看",
@@ -437,6 +439,7 @@
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "未知",
     "Users": "用户",
+    "Username": "🦘 Username",
     "ValorPoints": "英勇点数",
     "VanguardPoints": "先锋点数",
     "Vendor": "商人",
@@ -622,6 +625,10 @@
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
       "Name": "首次复生"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "向浩瀚无垠的星空大胆进发\n带领火力战队打败黑暗的爪牙并取得胜利，亦可以在熔炉竞技场中与其他人一决高下，来争夺沙克斯的青睐",
       "Name": "守护者的地位"
@@ -782,7 +789,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "当前档案",
-    "BungieNetProfile": "Bungie.net资料",
     "ChangeProfile": "更换档案",
     "CrossSaveProfile": "这名玩家启用了 Cross Save（跨平台保存），他们的活跃档案已经标出。",
     "Error": {
@@ -849,7 +855,8 @@
     "Steps": "步骤",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
     "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "XPBonuses": "🦘 Bonuses",
+    "SuggestedPath": "🦘 Suggested Path"
   },
   "Search": {
     "Error": {
@@ -1091,6 +1098,7 @@
     },
     "Subscriptions": {
       "Info": "广告很烦人，所以Braytech不会添加广告，但这并不意味着它是免费或容易的！\n\n取而代之的是，我需要你的慷慨支持。 你的支持将帮助我开发新功能并支付租金，使 Braytech 能够持续提供在线服务！\n\n订阅以下任何一个层级，即可获得酷炫的奖励，例如个人资料勋章！",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **结束**。",
         "Renewing": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **自动续订**。"
@@ -1102,16 +1110,19 @@
       "ActiveSubscription": "当前订阅",
       "ManageSubscription": "管理订阅",
       "Benefits": "奖励",
-      "Tiers": "等级"
+      "Tiers": "等级",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
-    "BraytechIdentity": {
-      "Activated": "🦘 Your identity has been updated. ✨",
-      "Disabled": "🦘 Your identity has been disabled.",
-      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below.",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
+    "BraytechLegend": {
+      "Updated": "🦘 Your legend has been updated. ✨",
+      "Disabled": "🦘 Your legend has been disabled.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
+      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
+      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
+      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
+      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
     },
     "Sync": {
       "Action": {
@@ -1377,7 +1388,6 @@
       "SeasonalChallengesAvailable": "{{number}}项赛季挑战可用",
       "Type": {
         "Rituals": "仪式活动",
-        "Bounties": "悬赏",
         "Crucible": "熔炉竞技场",
         "Dungeon": "地牢",
         "Exotic": "异域装备",

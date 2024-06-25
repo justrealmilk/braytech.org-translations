@@ -5,6 +5,7 @@
     "AddEvent": "Aggiungi evento",
     "AllClasses": "Tutte le classi",
     "Authenticate": "Autentica",
+    "Avoid": "🦘 Avoid",
     "Back": "Indietro",
     "Browse": "Mostra di più",
     "Cancel": "Annulla",
@@ -37,6 +38,7 @@
     "MemberRemove": "Rimuovi membro",
     "NextNth": "Prossimi {{number}}",
     "SeeNextNth": "Vedi i prossimi {{number}}",
+    "None": "🦘 None",
     "Now": "Ora",
     "Open": "Apri",
     "Previous": "Precedenti",
@@ -179,7 +181,6 @@
     "SubscriptionFeature": "Questa è una funzionalità per abbonati. Alcune funzionalità sono state realizzate solo grazie al supporto dei sostenitori. [Ulteriori informazioni](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "Autenticati con Bungie.net per caricare il tuo profilo e sbloccare molte più funzionalità.",
-      "Subscriptions": "Autenticati con Bungie.net per creare o gestire un abbonamento.",
       "Text": "La maggior parte delle funzionalità di Braytech sono utilizzabili da tutti gli utenti e dipendono da dati pubblici, ma alcune funzionalità di Destiny richiedono dei permessi espliciti che puoi garantire a Braytech autenticandoti con Bungie.net."
     }
   },
@@ -313,12 +314,12 @@
     "AscendantChallenge": "Sfida Ascendente",
     "Available": "Disponibile",
     "AvailableActivities": "Attività disponibili",
+    "BrowseNthMembers_plural": "Mostra {{number}} membri",
     "Cancel": "Cancella",
     "Challenge": "Sfida",
     "Challenge_plural": "Sfide",
     "Character": "Personaggio",
     "CurrentRankNth": "Grado attuale: {{value}}",
-    "BrowseNthMembers_plural": "Mostra {{number}} membri",
     "CharacterClass": "Classe del personaggio",
     "CharacterLight": "Luce del personaggio",
     "CharacterSpecific": "Come la maggior parte delle funzionalità di Braytech, questa sezione è pensata su base del singolo personaggio.",
@@ -364,6 +365,7 @@
     "GuardianRank": "Grado del Guardiano",
     "Guardians": "Guardiani",
     "Help": "Aiuto",
+    "Highlight": "🦘 Highlight",
     "HistoricalStats": "Statistiche storiche",
     "InfamyPoints": "Punti infamia",
     "Inspect": "Ispeziona",
@@ -437,6 +439,7 @@
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "Sconosciuto",
     "Users": "Utenti",
+    "Username": "🦘 Username",
     "ValorPoints": "Punti valore",
     "VanguardPoints": "Punti avanguardia",
     "Vendor": "Mercante",
@@ -622,6 +625,10 @@
       "Description": "Un Guardiano di uno Spettro\n\nLa vita dopo la tua vita inizia qui. Sei un rinato, scelto da uno Spettro e dotato di grandi poteri tramite la Luce e l'Oscurità.\n\nQuesti sono stati i tuoi primi passi.",
       "Name": "Rinato la prima volta"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "Osando verso le stelle\n\nGuida le squadre alla vittoria contro i servitori dell'Oscurità e competi l'uno contro l'altro nel Crogiolo per ottenere riconoscimenti da Lord Shaxx in persona.",
       "Name": "Classificazione dei Guardiani"
@@ -782,7 +789,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "Profilo attivo",
-    "BungieNetProfile": "Profilo Bungie.net",
     "ChangeProfile": "Cambia profilo",
     "CrossSaveProfile": "Questo giocatore ha attivato il Cross Save. Il loro profilo attivo è segnato.",
     "Error": {
@@ -849,7 +855,8 @@
     "Steps": "🦘 Quest Steps",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
     "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "XPBonuses": "🦘 Bonuses",
+    "SuggestedPath": "🦘 Suggested Path"
   },
   "Search": {
     "Error": {
@@ -1091,6 +1098,7 @@
     },
     "Subscriptions": {
       "Info": "Le pubblicità fanno schifo, quindi Braytech non ne ha, ma niente di tutto questo è gratuito o facile!\n\nAl posto delle pubblicità, dipendo dalla tua generosità. Il tuo supporto mi aiuta a mantenere l'app online, mi permette di lavorare su nuove funzionalità e di pagarmi l'affitto!\n\nAbbonati a uno dei seguenti livelli per fantastici premi, tra cui, le medaglie del profilo!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento **terminerà** il **{{currentPeriodEnd}}**.",
         "Renewing": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento si **rinnoverà** il **{{currentPeriodEnd}}**."
@@ -1102,16 +1110,19 @@
       "ActiveSubscription": "Abbonamento attivo",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "Livelli"
+      "Tiers": "Livelli",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
-    "BraytechIdentity": {
-      "Activated": "🦘 Your identity has been updated. ✨",
-      "Disabled": "🦘 Your identity has been disabled.",
-      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below.",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
+    "BraytechLegend": {
+      "Updated": "🦘 Your legend has been updated. ✨",
+      "Disabled": "🦘 Your legend has been disabled.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
+      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
+      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
+      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
+      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
     },
     "Sync": {
       "Action": {
@@ -1377,7 +1388,6 @@
       "SeasonalChallengesAvailable": "{{number}} sfide stagionali disponibili",
       "Type": {
         "Rituals": "Rituali",
-        "Bounties": "Taglie",
         "Crucible": "Crogiolo",
         "Dungeon": "Segreta",
         "Exotic": "Esotiche",

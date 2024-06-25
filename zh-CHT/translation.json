@@ -5,6 +5,7 @@
     "AddEvent": "添加活動",
     "AllClasses": "所有類",
     "Authenticate": "認證",
+    "Avoid": "🦘 Avoid",
     "Back": "返回",
     "Browse": "🦘 Browse",
     "Cancel": "取消",
@@ -37,6 +38,7 @@
     "MemberRemove": "移除成員",
     "NextNth": "下 {{number}}",
     "SeeNextNth": "沒有部分完成的成就，選擇一個目標然後開始努力吧",
+    "None": "🦘 None",
     "Now": "當前頁",
     "Open": "打開",
     "Previous": "前往",
@@ -179,7 +181,6 @@
     "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Suggestion": {
       "Subtle": "登錄到Bungie.net以解鎖更多内容",
-      "Subscriptions": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "Text": "Braytech的大部分功能對所有用戶可用, 並且依賴於公開數據, 而 Destiny 的壹些功能需要訪問權限, 您可以通過登錄 Bungie.net 進行身份驗證來授權 Braytech"
     }
   },
@@ -313,12 +314,12 @@
     "AscendantChallenge": "上維挑戰",
     "Available": "可用",
     "AvailableActivities": "可用活動",
+    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "Cancel": "取消",
     "Challenge": "挑戰",
     "Challenge_plural": "挑戰",
     "Character": "🦘 Character",
     "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "CharacterClass": "角色類",
     "CharacterLight": "角色光等",
     "CharacterSpecific": "與大多數 Braytech 功能一樣，此視圖是特定於角色的。",
@@ -364,6 +365,7 @@
     "GuardianRank": "🦘 Guardian Rank",
     "Guardians": "守護者",
     "Help": "🦘 Help",
+    "Highlight": "🦘 Highlight",
     "HistoricalStats": "歷史數據",
     "InfamyPoints": "惡行分數",
     "Inspect": "查看",
@@ -437,6 +439,7 @@
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "未知",
     "Users": "用戶",
+    "Username": "🦘 Username",
     "ValorPoints": "英勇分數",
     "VanguardPoints": "先鋒點數",
     "Vendor": "商人",
@@ -622,6 +625,10 @@
       "Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
       "Name": "第一次復活"
     },
+    "Highlight": {
+      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
+      "Name": "🦘 Highlight"
+    },
     "Ranks": {
       "Description": "用你無畏的膽識航行于星際\n帶領火力戰隊擊敗黑暗的爪牙，亦或是熔爐競技場中相互競爭來獲得沙克斯本人的青睞。",
       "Name": "守護者地位"
@@ -782,7 +789,6 @@
   },
   "ProfileSearch": {
     "ActiveProfile": "當前檔案",
-    "BungieNetProfile": "Bungie.net狀況",
     "ChangeProfile": "更換檔案",
     "CrossSaveProfile": "🦘 This player has enabled Cross Save. Their active profile is marked.",
     "Error": {
@@ -849,7 +855,8 @@
     "Steps": "🦘 Quest Steps",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
     "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses"
+    "XPBonuses": "🦘 Bonuses",
+    "SuggestedPath": "🦘 Suggested Path"
   },
   "Search": {
     "Error": {
@@ -1091,6 +1098,7 @@
     },
     "Subscriptions": {
       "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
         "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
@@ -1102,16 +1110,19 @@
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Benefits": "🦘 Benefits",
-      "Tiers": "🦘 Tiers"
+      "Tiers": "🦘 Tiers",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
-    "BraytechIdentity": {
-      "Activated": "🦘 Your identity has been updated. ✨",
-      "Disabled": "🦘 Your identity has been disabled.",
-      "CustomUsername": "🦘 Claim a custom username to make sharing links and loading your profile easier. [Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "ShareHighlight": "🦘 When you share a link to your profile, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of using the input below.",
-      "Specifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "AuthRequired": "🦘 Username management requires that you first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription."
+    "BraytechLegend": {
+      "Updated": "🦘 Your legend has been updated. ✨",
+      "Disabled": "🦘 Your legend has been disabled.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
+      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
+      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
+      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
+      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
     },
     "Sync": {
       "Action": {
@@ -1377,7 +1388,6 @@
       "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
       "Type": {
         "Rituals": "🦘 Rituals",
-        "Bounties": "賞金單",
         "Crucible": "熔爐",
         "Dungeon": "地牢",
         "Exotic": "異域",
