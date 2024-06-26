@@ -5,7 +5,7 @@
     "AddEvent": "Añadir evento",
     "AllClasses": "Todas las clases",
     "Authenticate": "Autentícate",
-    "Avoid": "🦘 Avoid",
+    "Avoid": "Evitar",
     "Back": "Atrás",
     "Browse": "Navegar",
     "Cancel": "Cancelar",
@@ -38,7 +38,7 @@
     "MemberRemove": "Eliminar miembro",
     "NextNth": "Siguientes {{number}}",
     "SeeNextNth": "No hay triunfos parcialmente completados. ¡Elige un objetivo y empieza!",
-    "None": "🦘 None",
+    "None": "Ninguno",
     "Now": "Ahora",
     "Open": "Abrir",
     "Previous": "Anteriores",
@@ -365,7 +365,7 @@
     "GuardianRank": "Rango de Guardián",
     "Guardians": "Guardianes",
     "Help": "Ayuda",
-    "Highlight": "🦘 Highlight",
+    "Highlight": "Destacado",
     "HistoricalStats": "Estadísticas históricas",
     "InfamyPoints": "Puntos de Infamia",
     "Inspect": "Inspeccionar",
@@ -439,7 +439,7 @@
     "LegacyTriumphs": "Triunfos de legado",
     "Unknown": "Desconocido",
     "Users": "Usuarios",
-    "Username": "🦘 Username",
+    "Username": "Nombre de usuario",
     "ValorPoints": "Puntos de Valor",
     "VanguardPoints": "Puntos de Vanguardia",
     "Vendor": "Comerciante",
@@ -626,8 +626,8 @@
       "Name": "Primer renacido"
     },
     "Highlight": {
-      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
-      "Name": "🦘 Highlight"
+      "Description": "Tu orgullo y alegría\n\nElegiste lucir este logro a la vista de todos.",
+      "Name": "Destacado"
     },
     "Ranks": {
       "Description": "Con audacia hacia las estrellas\n\nLidera escuadras hasta la victoria contra esbirros de la Oscuridad y competid entre vosotros en el Crisol en busca de elogios del mismísimo Lord Shaxx.",
@@ -856,7 +856,7 @@
     "ProjectedRanks": "El valor de tus contratos completados equivaldrá a estos rangos del pase de temporada si los reclamas.",
     "BountiesValue": "El valor de tus contratos completados.",
     "XPBonuses": "Bonificaciones",
-    "SuggestedPath": "🦘 Suggested Path"
+    "SuggestedPath": "Camino sugerido"
   },
   "Search": {
     "Error": {
@@ -1098,7 +1098,7 @@
     },
     "Subscriptions": {
       "Info": "Los anuncios apestan, así que Braytech no los usa, ¡pero nada de esto es gratis ni fácil!\n\nEn lugar de anuncios, dependo de tu generosidad. Tu apoyo ayuda a mantener la aplicación en línea, me permite trabajar en nuevas características, y ¡paga mi alquiler!\n\n¡Suscríbete en uno de los siguientes rangos para obtener recompensas como medallas de perfil!",
-      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "AuthRequired": "Autentícate con Bungie.net para crear o gestionar una suscripción.",
       "State": {
         "Ending": "Te suscribiste el **{{created}}** y tu suscripción **terminará** el **{{currentPeriodEnd}}**.",
         "Renewing": "Te suscribiste el **{{created}}** y tu suscripción se **renovará** el **{{currentPeriodEnd}}**."
@@ -1111,18 +1111,18 @@
       "ManageSubscription": "Gestionar suscripción",
       "Benefits": "Beneficios",
       "Tiers": "Rangos",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Help": "Puedes obtener ayuda en cualquier momento a través de [Discord](https://discord.bray.tech) o por correo electrónico a [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
     },
     "BraytechLegend": {
-      "Updated": "🦘 Your legend has been updated. ✨",
-      "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
-      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
-      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
-      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
-      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
+      "Updated": "Tu leyenda fue actualizada. ✨",
+      "Disabled": "Tu leyenda fue desactivada.",
+      "Info": "Personaliza tu perfil con un nombre de usuario único para que sea más fácil compartirlo, selecciona un triunfo o rastreador para resaltarlo cuando se comparta tu perfil y elige un personaje para que aparezca por defecto cuando se comparta un enlace a tu perfil que no tenga un personaje especificado.\n\nLos [suscriptores](/settings/subscriptions) obtienen muchas ventajas, incluida la posibilidad de obtener un nombre de usuario personalizado.",
+      "AuthRequired": "Para modificar tu leyenda, primero te tienes que autenticar en Braytech con Bungie.net.",
+      "SubscriptionRequired": "Para reclamar un nombre de usuario y otros trucos geniales, necesitas ser un suscriptor. [Apoya a Braytech](/settings/subscriptions) mediante una suscripción.",
+      "Username": "Elige un nombre de usuario único o utiliza tu nombre de Bungie. Puedes cambiarlo en cualquier momento. Si lo deseas, puedes solicitar los servicios de un especialista en identidad de marca por un módico precio.",
+      "UsernameSpecifications": "La longitud máxima de los nombres de usuario es de 127 caracteres. Se admite cualquier carácter de palabra (equivalente a [a-zA-Z0-9_]) y algunos emoji.",
+      "DefaultCharacter": "Puedes elegir un personaje para que sea el predeterminado para los enlaces compartidos sin un identificador de personaje. Por ejemplo, si compartes un enlace a https://bray.tech/@/{{username}}, Braytech pedirá al usuario que seleccione un personaje. Puedes seleccionar un personaje por defecto en su lugar.",
+      "ShareHighlight": "Cuando compartes un enlace a tu perfil, se genera una imagen específica para ti. Puedes elegir destacar un triunfo o un rastredor del que te sientas orgulloso. Esto también se mostrará en la sección [Leyenda](/legend)."
     },
     "Sync": {
       "Action": {
