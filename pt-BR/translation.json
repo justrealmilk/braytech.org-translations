@@ -761,6 +761,7 @@
       "Activity": "Encontrado na atividade",
       "ActivityName": "Encontrado na atividade: {{string}}",
       "AscendantChallenge": "Encontrado no Desafio Ascendente: {{string}}",
+      "Cyst": "🦘 Found within Cyst: {{string}}",
       "LostSector": "Encontrado no Setor Perdido: {{string}}",
       "Story": "Encontrado na História: {{string}}",
       "Strike": "Encontrado no Assalto: {{string}}"

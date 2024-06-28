@@ -761,6 +761,7 @@
       "Activity": "🦘 Found within activity",
       "ActivityName": "🦘 Found within activity: {{string}}",
       "AscendantChallenge": "🦘 Found within Ascendant Challenge: {{string}}",
+      "Cyst": "🦘 Found within Cyst: {{string}}",
       "LostSector": "🦘 Found within Lost Sector: {{string}}",
       "Story": "🦘 Found within Story: {{string}}",
       "Strike": "🦘 Found within Strike: {{string}}"

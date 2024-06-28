@@ -761,6 +761,7 @@
       "Activity": "활동에서 찾을 수 있습니다.",
       "ActivityName": "활동 {{string}} 에서 찾을 수 있습니다.",
       "AscendantChallenge": "승천 도전 {{string}} 에서 찾을 수 있습니다.",
+      "Cyst": "🦘 Found within Cyst: {{string}}",
       "LostSector": "잊혀진 구역 {{string}} 에서 찾을 수 있습니다.",
       "Story": "스토리 {{string}} 에서 찾을 수 있습니다.",
       "Strike": "공격전 {{string}} 에서 찾을 수 있습니다."
