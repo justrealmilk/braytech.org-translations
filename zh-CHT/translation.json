@@ -761,6 +761,7 @@
       "Activity": "在活動中找到",
       "ActivityName": "在活動中找到: {{string}}",
       "AscendantChallenge": "在上緯挑戰: {{string}}",
+      "Cyst": "🦘 Found within Cyst: {{string}}",
       "LostSector": "在遺落之地找到: {{string}}",
       "Story": "在劇情中發現: {{string}}",
       "Strike": "在日落打擊中發現: {{string}}"
