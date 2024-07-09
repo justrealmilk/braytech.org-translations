@@ -761,7 +761,7 @@
       "Activity": "Se encuentra dentro de la actividad",
       "ActivityName": "Se encuentra dentro de la actividad: {{string}}",
       "AscendantChallenge": "Se encuentra dentro del Desafío Ascendente: {{string}}",
-      "Cyst": "🦘 Found within Cyst: {{string}}",
+      "Cyst": "Se encentra en el Quiste: {{string}}",
       "LostSector": "Se encuentra dentro del Sector Perdido: {{string}}",
       "Story": "Se encuentra dentro de la misión: {{string}}",
       "Strike": "Se encuentra dentro del Asalto: {{string}}"
