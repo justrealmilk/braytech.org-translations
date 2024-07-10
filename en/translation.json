@@ -112,7 +112,7 @@
       "HydratingReportsCache": "Restoring reports data from local storage",
       "LoadGroupMembers": "Analysing clan and activity history",
       "LoadingPeriod": "Scanning... {{date}}",
-      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in [Settings](/settings).",
+      "NoBookmarks": "You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in [Settings](/settings#sync).",
       "NoHistoryAvailable": "Find a fireteam and seek triumph against enemies of the Traveler.",
       "PeriodNotFound": "The requested period could not be found in this character's activity history.",
       "RequestHistory": "Analysing activity history",
@@ -1315,8 +1315,8 @@
         "Description": "Only display triumphs which grant score upon completion."
       }
     },
-    "NoTrackedRecords": "You aren't tracking any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
-    "NoHiddenRecords": "You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
+    "NoTrackedRecords": "You aren't tracking any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings#sync).",
+    "NoHiddenRecords": "You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings#sync).",
     "TrackedTriumphs": "Tracked",
     "Triumph": "Triumph",
     "Triumph_plural": "Triumphs",
