@@ -655,8 +655,8 @@
       "Name": "Bungie 發生了錯誤"
     },
     "VoluspaError": {
-      "Description": "Braytech 無法連接到 Voluspa 網路，請檢查您的網路連接。",
-      "Name": "Voluspa 錯誤"
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please verify your WAN accessibility.",
+      "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
       "Description": " 如果再次出現這種錯誤，很可能是因爲您的瀏覽器或者設備不兼容或配置不當導致的"
