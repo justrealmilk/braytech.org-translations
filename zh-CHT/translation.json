@@ -655,7 +655,7 @@
       "Name": "Bungie 發生了錯誤"
     },
     "VoluspaError": {
-      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please check your 56k modem's phone line connection.",
+      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please verify your WAN accessibility.",
       "Name": "🦘 Voluspa Error"
     },
     "IndexedDBError": {
