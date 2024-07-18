@@ -154,4 +154,4 @@ Press button **Create pull request** once more after that.
 
 ## Contacts
 
-* [discord.braytech.org](https://discord.braytech.org)
+* [discord.bray.tech](https://discord.bray.tech)
