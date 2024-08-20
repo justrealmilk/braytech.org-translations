@@ -644,6 +644,10 @@
     "Fishing": {
       "Description": "🦘 Catch of the day\n\nCast a weighted line, showcase your aquarium, and get competitive comparing your heftiest catches with your fellow anglers.",
       "Name": "🦘 Competitive Fishing"
+    },
+    "AggregateActivityStats": {
+      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
+      "Name": "🦘 Aggregate Activity Stats"
     }
   },
   "Loading": {

@@ -644,6 +644,10 @@
     "Fishing": {
       "Description": "Pesca del giorno\n\nLancia una lenza con piombo, metti in mostra il tuo acquario ed entra in competizione con i tuoi compagni pescatori confrontando le catture più pesanti.",
       "Name": "Pesca competitiva"
+    },
+    "AggregateActivityStats": {
+      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
+      "Name": "🦘 Aggregate Activity Stats"
     }
   },
   "Loading": {

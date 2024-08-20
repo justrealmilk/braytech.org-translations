@@ -644,6 +644,10 @@
     "Fishing": {
       "Description": "Улов дня\n\nБросьте утяжеленную леску, продемонстрируйте свой аквариум, и соревнуйтесь, сравнивая свои самые лучшие уловы с другими рыболовами.",
       "Name": "Соревновательная рыбалка"
+    },
+    "AggregateActivityStats": {
+      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
+      "Name": "🦘 Aggregate Activity Stats"
     }
   },
   "Loading": {

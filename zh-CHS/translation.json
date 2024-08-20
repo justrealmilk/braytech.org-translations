@@ -644,6 +644,10 @@
     "Fishing": {
       "Description": "钓鱼日！\n\n拉动钓线, 装饰你的水族馆, 和你的朋友展开激动人心的钓鱼竞争！",
       "Name": "竞技钓鱼"
+    },
+    "AggregateActivityStats": {
+      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
+      "Name": "🦘 Aggregate Activity Stats"
     }
   },
   "Loading": {
