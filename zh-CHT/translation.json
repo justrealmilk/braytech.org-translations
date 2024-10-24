@@ -496,6 +496,7 @@
     "ClassEquipped": " {{name}} (已解鎖)",
     "ClassPostmaster": " {{name}} (郵政官)",
     "CollectionsRoll": "收藏品",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "比較",
     "CouldntFindItemForUnequip": "未能在指定的角色上找到 {{name}}'的位置上的裝備的物品",
     "CraftingRequiredLevel": "需要武器等級 {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "提出變更"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "該階點有個關連的影片 {{url}}",
       "Vendor": {
         "NoSales": "新的库存."
@@ -1240,13 +1243,6 @@
       "NoDescription": "暫無描述.",
       "Quantity": "數量",
       "QuantityMax": "最大"
-    },
-    "Items": {
-      "StatTotal": "共計"
-    },
-    "Maps": {
-      "Availability": "可用：每 {{period}}",
-      "UntrackableChecklistItem": "無法追蹤的清單項"
     }
   },
   "Triumphs": {

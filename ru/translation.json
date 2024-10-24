@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (Экипировано)",
     "ClassPostmaster": "{{name}} (Почтмейстер)",
     "CollectionsRoll": "Характеристики из Коллекции",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "Сравнить",
     "CouldntFindItemForUnequip": "Предмет для экипировки на место {{name}} не может быть найден на персонаже, на котором он находится.",
     "CraftingRequiredLevel": "Требуется {{number}} уровень оружия",
@@ -733,6 +734,8 @@
         },
         "Name": "Предложить изменения"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "Это место имеет связанное с ним видео: {{url}}",
       "Vendor": {
         "NoSales": "Здесь нет доступных предметов."
@@ -1240,13 +1243,6 @@
       "NoDescription": "Описание отсутствует.",
       "Quantity": "Количество",
       "QuantityMax": "Максимум"
-    },
-    "Items": {
-      "StatTotal": "Всего"
-    },
-    "Maps": {
-      "Availability": "Доступно: каждые {{period}}",
-      "UntrackableChecklistItem": "Неотслеживаемый объект"
     }
   },
   "Triumphs": {

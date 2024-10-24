@@ -496,6 +496,7 @@
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "수집품 스텟",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "🦘 Compare",
     "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "변경 제안"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "이 노드와 관련된 영상이 있습니다: {{url}}",
       "Vendor": {
         "NoSales": "재고 부족"
@@ -1240,13 +1243,6 @@
       "NoDescription": "설명이 없습니다.",
       "Quantity": "수량",
       "QuantityMax": "최대"
-    },
-    "Items": {
-      "StatTotal": "총"
-    },
-    "Maps": {
-      "Availability": "{{period}} 마다 사용가능",
-      "UntrackableChecklistItem": "체크리스트 추적 해제"
     }
   },
   "Triumphs": {

@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (Équipé)",
     "ClassPostmaster": "{{name}} (Commis des postes)",
     "CollectionsRoll": "Collection d'attributs",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "Comparer",
     "CouldntFindItemForUnequip": "Un objet à équiper à la place de {{name}} est introuvable sur le personnage où il se trouve.",
     "CraftingRequiredLevel": "Nécessite arme de niveau {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "Proposer un changement"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "Cet élément a une vidéo associée: {{url}}",
       "Vendor": {
         "NoSales": "En rupture de stock."
@@ -1240,13 +1243,6 @@
       "NoDescription": "Aucune description disponible.",
       "Quantity": "Quantité",
       "QuantityMax": "Max"
-    },
-    "Items": {
-      "StatTotal": "Total"
-    },
-    "Maps": {
-      "Availability": "Disponible: tous les {{period}}",
-      "UntrackableChecklistItem": "Liste de contrôle impossible à suivre"
     }
   },
   "Triumphs": {

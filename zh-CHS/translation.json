@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (已解锁)",
     "ClassPostmaster": "{{name}} (邮政长)",
     "CollectionsRoll": "收藏品",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "比较",
     "CouldntFindItemForUnequip": "未能在所指定的角色上找到 {{name}} 的位置上装备的物品。",
     "CraftingRequiredLevel": "需要的武器等级 {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "提出变更"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "该节点有一个关联视频 {{url}}",
       "Vendor": {
         "NoSales": "什么都没有。"
@@ -1240,13 +1243,6 @@
       "NoDescription": "暂无描述",
       "Quantity": "数量",
       "QuantityMax": "最大值"
-    },
-    "Items": {
-      "StatTotal": "总计"
-    },
-    "Maps": {
-      "Availability": "可用：每 {{period}}",
-      "UntrackableChecklistItem": "无法追踪的清单项"
     }
   },
   "Triumphs": {

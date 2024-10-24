@@ -496,6 +496,7 @@
     "ClassEquipped": "🦘 {{name}} (Equipped)",
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "🦘 Collections Roll",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "🦘 Compare",
     "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "🦘 Propose Changes"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "🦘 This node has a related video: {{url}}",
       "Vendor": {
         "NoSales": "🦘 Fresh out of stock."
@@ -1240,13 +1243,6 @@
       "NoDescription": "🦘 No description available.",
       "Quantity": "🦘 Quantity",
       "QuantityMax": "🦘 Max"
-    },
-    "Items": {
-      "StatTotal": "🦘 총"
-    },
-    "Maps": {
-      "Availability": "🦘 Available: every {{period}}",
-      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item"
     }
   },
   "Triumphs": {

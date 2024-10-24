@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (equipado)",
     "ClassPostmaster": "{{name}} (administración)",
     "CollectionsRoll": "Estadísticas de colecciones",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "Comparar",
     "CouldntFindItemForUnequip": "Un objeto destinado a equiparse en el {{name}} no se ha podido encontrar en el personaje que lo tiene.",
     "CraftingRequiredLevel": "Requiere nivel de arma {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "Proponer cambios"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "Este nodo tiene un vídeo asociado: {{url}}",
       "Vendor": {
         "NoSales": "Recién agotado."
@@ -1240,13 +1243,6 @@
       "NoDescription": "No hay descripción disponible.",
       "Quantity": "Cantidad",
       "QuantityMax": "Cantidad máxima"
-    },
-    "Items": {
-      "StatTotal": "Total"
-    },
-    "Maps": {
-      "Availability": "Disponible: cada {{period}}",
-      "UntrackableChecklistItem": "Lista de coleccionables no rastreable"
     }
   },
   "Triumphs": {

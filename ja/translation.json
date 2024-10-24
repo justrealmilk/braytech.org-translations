@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (装備中)",
     "ClassPostmaster": "{{name}} (ポストマスター)",
     "CollectionsRoll": "コレクション品のステータス",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "比較する",
     "CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
     "CraftingRequiredLevel": "武器レベル {{number}} が必要です",
@@ -733,6 +734,8 @@
         },
         "Name": "目的変更"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "このノードに関連した動画があります {{url}}",
       "Vendor": {
         "NoSales": "在庫切れになったばかりのようです。"
@@ -1240,13 +1243,6 @@
       "NoDescription": "説明文がありません。",
       "Quantity": "数量",
       "QuantityMax": "最大"
-    },
-    "Items": {
-      "StatTotal": "合計"
-    },
-    "Maps": {
-      "Availability": "入手可能: {{period}} ごと",
-      "UntrackableChecklistItem": "追跡不可能なチェックリスト"
     }
   },
   "Triumphs": {

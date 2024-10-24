@@ -496,6 +496,7 @@
     "ClassEquipped": "{{name}} (Ausgerüstet)",
     "ClassPostmaster": "{{name}} (Poststelle)",
     "CollectionsRoll": "Sammlungs-Werte",
+    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
     "Compare": "Vergleiche",
     "CouldntFindItemForUnequip": "Ein anstelle von {{Name}} auszurüstender Gegenstand konnte nicht auf dem Charakter gefunden werden, auf dem er sich befindet.",
     "CraftingRequiredLevel": "Benötigtes Waffen Level {{number}}",
@@ -733,6 +734,8 @@
         },
         "Name": "Änderung vorschlagen"
       },
+      "AvailableEvery": "🦘 Available: every {{period}}",
+      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
       "RelatedVideo": "Dieser Punkt hat ein zugehöriges video: {{url}}",
       "Vendor": {
         "NoSales": "Kürzlich ausverkauft."
@@ -1240,13 +1243,6 @@
       "NoDescription": "Keine Beschreibung verfügbar.",
       "Quantity": "Anzahl",
       "QuantityMax": "Maximal"
-    },
-    "Items": {
-      "StatTotal": "Total"
-    },
-    "Maps": {
-      "Availability": "Verfügbar: jede {{period}}",
-      "UntrackableChecklistItem": "Nicht nachverfolgbare Checkliste"
     }
   },
   "Triumphs": {
