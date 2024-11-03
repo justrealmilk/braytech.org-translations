@@ -1110,6 +1110,7 @@
     },
     "Subscriptions": {
       "Info": " Реклама - отстой, поэтому Braytech её не использует, но все это не бесплатно и не просто!\n\nВместо рекламы я полагаюсь на вашу щедрость. Ваша поддержка помогает поддерживать приложение в рабочем состоянии, позволяет мне работать над новыми функциями и оплачивает мою аренду!\n\nПодпишитесь на один из следующих уровней, чтобы получить классные награды, такие как медали профиля!",
+      "Help": "Вы можете в любое время обратиться за помощью в [Discord](https://discord.bray.tech) или по электронной почте [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "Авторизуйтесь с помощью Bungie.net чтобы создать подписку или управлять ею.",
       "State": {
         "Ending": "Вы подписались **{{created}}**, и ваша подписка **закончится** **{{currentPeriodEnd}}**.",
@@ -1123,7 +1124,11 @@
       "ManageSubscription": "Управление Подпиской",
       "Benefits": "Привилегии",
       "Tiers": "Уровни",
-      "Help": "Вы можете в любое время обратиться за помощью в [Discord](https://discord.bray.tech) или по электронной почте [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "Ваша легенда была обновлена. ✨",

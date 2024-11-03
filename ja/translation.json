@@ -1110,6 +1110,7 @@
     },
     "Subscriptions": {
       "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
+      "Help": "システム不具合を発見したら[Discord](https://discord.bray.tech)、またはメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)でご報告ください。",
       "AuthRequired": "サブスクリプションを設定に反映させるため、Bungie.netに認証を行ってください。",
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
@@ -1123,7 +1124,11 @@
       "ManageSubscription": "サブスクリプション管理",
       "Benefits": "特典",
       "Tiers": "支援形態",
-      "Help": "システム不具合を発見したら[Discord](https://discord.bray.tech)、またはメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)でご報告ください。"
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "階級がアップデートされました✨",

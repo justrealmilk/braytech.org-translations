@@ -1110,6 +1110,7 @@
     },
     "Subscriptions": {
       "Info": "Los anuncios apestan, así que Braytech no los usa, ¡pero nada de esto es gratis ni fácil!\n\nEn lugar de anuncios, dependo de tu generosidad. Tu apoyo ayuda a mantener la aplicación en línea, me permite trabajar en nuevas características, y ¡paga mi alquiler!\n\n¡Suscríbete en uno de los siguientes niveles para obtener recompensas como medallas de perfil!",
+      "Help": "Puedes obtener ayuda en cualquier momento a través de [Discord](https://discord.bray.tech) o por correo electrónico a [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "Autentifícate con Bungie.net para crear o gestionar una suscripción.",
       "State": {
         "Ending": "Te suscribiste el **{{created}}** y tu suscripción **terminará** el **{{currentPeriodEnd}}**.",
@@ -1123,7 +1124,11 @@
       "ManageSubscription": "Gestionar suscripción",
       "Benefits": "Beneficios",
       "Tiers": "Niveles",
-      "Help": "Puedes obtener ayuda en cualquier momento a través de [Discord](https://discord.bray.tech) o por correo electrónico a [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "Tu leyenda ha sido actualizada. ✨",
