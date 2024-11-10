@@ -1122,6 +1122,11 @@
       },
       "ActiveSubscription": "Active Subscription",
       "ManageSubscription": "Manage Subscription",
+      "Stripe": "Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "Receive E-mail",
+        "Description": "Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "Benefits",
       "Tiers": "Tiers",
       "Legends": "Legends",

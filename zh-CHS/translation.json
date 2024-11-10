@@ -1122,6 +1122,11 @@
       },
       "ActiveSubscription": "当前订阅",
       "ManageSubscription": "管理订阅",
+      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "🦘 Receive E-mail",
+        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "奖励",
       "Tiers": "等级",
       "Legends": "🦘 Legends",

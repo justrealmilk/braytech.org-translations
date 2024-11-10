@@ -1122,6 +1122,11 @@
       },
       "ActiveSubscription": "Активная Подписка",
       "ManageSubscription": "Управление Подпиской",
+      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "🦘 Receive E-mail",
+        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "Привилегии",
       "Tiers": "Уровни",
       "Legends": "🦘 Legends",
