@@ -610,13 +610,9 @@
         "Name": "参与排名的玩家数",
         "Info": "只有自最新DLC发布后玩过《命运》的玩家才会被排名。"
       },
-      "ScraperCompletionValue": {
-        "Name": "被抓取过的玩家数",
-        "Info": "曾经访问过 Braytech 的玩家将会被抓取数据。"
-      },
-      "ScraperTimeRemaining": {
-        "Name": "距离下次刷新还有",
-        "Info": "玩家会在每次定时更新任务完成后重新排名。"
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "最稀有的收藏品"

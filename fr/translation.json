@@ -610,13 +610,9 @@
         "Name": "Joueurs classés",
         "Info": "Seuls les joueurs ayant joué à Destiny depuis la sortie de la dernière extension sont classés."
       },
-      "ScraperCompletionValue": {
-        "Name": "Joueurs en attente",
-        "Info": "Les joueurs qui ont visité Braytech sont mis en file d'attente pour l'analyse de leur profil."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Temps jusqu'au prochain rang",
-        "Info": "Les joueurs sont classés à la fin de chaque recherche de profil."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "Triomphes les plus rares",
       "RarestCollectibles": "Objets les plus rares"

@@ -610,13 +610,9 @@
         "Name": "Ranked players",
         "Info": "Only players who've played Destiny since the latest expansion release are ranked."
       },
-      "ScraperCompletionValue": {
-        "Name": "Scraped players",
-        "Info": "Players who've visited Braytech are queued for profile scraping."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Time until next rank",
-        "Info": "Players are ranked at the end of each profile scrape job."
+      "RankedDate": {
+        "Name": "Ranked date",
+        "Info": "Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "Rarest Triumphs",
       "RarestCollectibles": "Rarest Collectibles"

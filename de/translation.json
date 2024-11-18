@@ -610,13 +610,9 @@
         "Name": "Eingestufte Spieler",
         "Info": "Nur Spieler, welche Destiny seit der Veröffentlichung der letzten Erweiterung gespielt haben, werden in die Rangliste mit aufgenommen."
       },
-      "ScraperCompletionValue": {
-        "Name": "Gescannte Spieler",
-        "Info": "Spieler, die Braytech besucht haben, stehen in der Warteschlange für den Scanndurchgang."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Zeit bis zum nächsten Scanndurchgang",
-        "Info": "Spieler werden am Ende jedes Scanndurchganges in eine Rangliste aufgenommen."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "Seltenste Sammlungsstücke"

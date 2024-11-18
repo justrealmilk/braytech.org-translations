@@ -610,13 +610,9 @@
         "Name": "Giocatori classificati",
         "Info": "Solo i giocatori che hanno giocato a Destiny da almeno l'ultima espansione vengono classificati."
       },
-      "ScraperCompletionValue": {
-        "Name": "Giocatori indicizzati",
-        "Info": "Giocatori che hanno visitato Braytech e sono in coda per l'indicizzazione."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Tempo rimanente alla prossima riclassifica",
-        "Info": "I giocatori vengono classificati alla fine di ogni processo di indicizzazione."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "Collezionabili più rari"

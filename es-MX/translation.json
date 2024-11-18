@@ -610,13 +610,9 @@
         "Name": "Jugadores clasificados",
         "Info": "Sólo se clasifican los jugadores que han jugado a Destiny desde el lanzamiento de la última expansión."
       },
-      "ScraperCompletionValue": {
-        "Name": "Jugadores rastreados",
-        "Info": "Los jugadores que visitaron Braytech se ponen en cola para el rastreo de perfiles."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Tiempo hasta la siguiente clasificación",
-        "Info": "Los jugadores se clasifican al final de cada operación de rastreo de perfiles."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "Triunfos más raros",
       "RarestCollectibles": "Coleccionables más raros"

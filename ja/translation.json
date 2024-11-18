@@ -610,13 +610,9 @@
         "Name": "プレイヤー数",
         "Info": "最新DLCのリリース日以降Destinyをプレイしたプレイヤーのみがカウントされています。"
       },
-      "ScraperCompletionValue": {
-        "Name": "Braytech利用者",
-        "Info": "これまでにBraytechを利用したユーザー数"
-      },
-      "ScraperTimeRemaining": {
-        "Name": "次のランキング発表までの時間",
-        "Info": "プレイヤー順位は、定期的なサーバー更新タイミング合わせて変動します。"
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "最もレアな勝利の道のり",
       "RarestCollectibles": "最もレアなコレクション"
