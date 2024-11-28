@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "Otorga puntuación",
         "Description": "Mostrar sólo los triunfos que otorgan puntuación de triunfos al ser completados."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "¡Aún no estás siguiendo ningún triunfo!",

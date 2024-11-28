@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "Gibt Triumphpunkte",
         "Description": "Zeigt nur Triumphe an, welche bei Abschluss Triumphpunkte geben."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "Du hast noch keine Triumphe markiert!",

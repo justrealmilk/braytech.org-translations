@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "🦘 Grants Score",
         "Description": "🦘 Only display records which grant triumph score upon completion."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",

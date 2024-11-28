@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "给予分数的成就",
         "Description": "仅显示那些在完成时将给予成就分的记录"
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录",

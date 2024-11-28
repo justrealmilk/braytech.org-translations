@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "Даёт Очки",
         "Description": "Отображать только те триумфы, которые дают очки триумфов по завершении."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",

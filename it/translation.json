@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "Da punteggio",
         "Description": "Mostra solo trionfi che danno punteggio trionfale una volta completati."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "Non stai ancora seguendo nessun trionfo!",

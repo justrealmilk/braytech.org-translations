@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "スコア対象のみ",
         "Description": "スコアがある勝利の道のりだけを表示する。"
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",

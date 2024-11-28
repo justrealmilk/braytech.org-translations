@@ -1323,6 +1323,10 @@
       "GrantsScore": {
         "Name": "Score validé",
         "Description": "N'afficher que les enregistrements qui accordent un score de triomphe à l'issue de l'exercice."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
