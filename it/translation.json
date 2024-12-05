@@ -1285,6 +1285,8 @@
       "Score": "Il punteggio trionfale finito di questo trionfo.",
       "ScoreInterval": "Il valore del punteggio della prossima fase non riscattata diviso il valore totale del trionfo."
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "Il Guardiano ha un punteggio di **{{number}}** in attesa di essere sbloccato.",
     "RecordsRedeemed": "Hai già riscattato tutti questi trionfi e hai scelto di nasconderli.",
     "RecordsUnavailable": "Non ci sono trionfi disponibili da visualizzare.",

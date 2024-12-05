@@ -1285,6 +1285,8 @@
       "Score": " 該記錄的有限成就分數值.",
       "ScoreInterval": "在總記錄值的下一個未兌換區間的分數值."
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "您已取得所有這些記錄並選擇隱藏他們",
     "RecordsUnavailable": "沒有可顯示的記錄",

@@ -1285,6 +1285,8 @@
       "Score": "El valor de la puntuación final de este triunfo.",
       "ScoreInterval": "El valor de la puntuación del paso actual sobre el valor total del triunfo."
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",
     "RecordsRedeemed": "Has canjeado todos estos triunfos y has elegido ocultarlos.",
     "RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
