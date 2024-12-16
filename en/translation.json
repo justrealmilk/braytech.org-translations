@@ -624,6 +624,10 @@
     "Profile": {
       "Description": "What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
     },
+    "Guardian": {
+      "Description": "What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "Guardian"
+    },
     "Activity": {
       "Description": "A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
       "Name": "First Risen"
@@ -641,7 +645,7 @@
       "Name": "Rare Treasures & Exotic Style"
     },
     "Seals": {
-      "Commonality": "Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Description": "Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "Triumph Seals"
     },
     "Fishing": {
