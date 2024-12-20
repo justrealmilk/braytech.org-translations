@@ -624,6 +624,10 @@
     "Profile": {
       "Description": "力はいったい何を齎すのか。  光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
+    "Guardian": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "🦘 Guardian"
+    },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
@@ -641,7 +645,7 @@
       "Name": "レアな宝物とエキゾチックなスタイル"
     },
     "Seals": {
-      "Commonality": "勝利の証\n\n完璧主義者とコレクターの究極の証を雄々しく身に纏え。",
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "調印"
     },
     "Fishing": {
@@ -1109,6 +1113,7 @@
     "Subscriptions": {
       "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
       "Help": "システム不具合を発見したら[Discord](https://discord.bray.tech)、またはメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)でご報告ください。",
+      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "サブスクリプションを設定に反映させるため、Bungie.netに認証を行ってください。",
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
@@ -1341,7 +1346,8 @@
     "Triumph_plural": "勝利の道のり",
     "UnobtainableTriumphs": "入手できません",
     "UnredeemedTriumphs": "取得していない勝利の道のり",
-    "TrackedSync": "Voluspaを通じてデバイス間の道のりのトラックキングを同期しています。"
+    "TrackedSync": "Voluspaを通じてデバイス間の道のりのトラックキングを同期しています。",
+    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
   "Upsell": {
     "Auth": {

@@ -624,6 +624,10 @@
     "Profile": {
       "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
     },
+    "Guardian": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "🦘 Guardian"
+    },
     "Activity": {
       "Description": "Der Hüter eines Geistes\n\nDein Leben nach dem Leben beginnt hier. Du bist ein Wiederauferstandener, der von einem Geist auserwählt und mit großer Macht durch Licht und Dunkelheit ausgestattet wurde.\n\n Dies waren deine ersten Schritte.",
       "Name": "Erste Auferstehung"
@@ -641,7 +645,7 @@
       "Name": "Seltene Schätze und exotischer Stil"
     },
     "Seals": {
-      "Commonality": "Zeichen des Erfolgs\n\nder ultimative Maßstab für einen Vollendungsfanatiker und Sammler; tragen Sie sie gut.",
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "Triumph Siegel"
     },
     "Fishing": {
@@ -1109,6 +1113,7 @@
     "Subscriptions": {
       "Info": "Werbung suckt, deshalb schaltet Braytech keine, aber nichts hiervon ist Konstenlos oder Einfach!\n\nStatt Werbund, bin ich auf deine Großzügigkeit angewiesen. Deine Unterstüzung hilft die App am laufen zu halten, ermöglicht es mir an neuen Funktionen zu arbeiten, and zahlt meine Miete!\n\nAbonniere mit eine der folgenden Stufen, um coole Belohnungen wie Profilabzeichen zu erhalten!",
       "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "Du hast am **{{created}}** abonniert und dein Abonnement **endet** am **{{currentPeriodEnd}}**.",
@@ -1341,7 +1346,8 @@
     "Triumph_plural": "Triumphe",
     "UnobtainableTriumphs": "Unerreichbar",
     "UnredeemedTriumphs": "Nicht eingelöste Triumphe",
-    "TrackedSync": "Synchronisiere markierte Triumphe zwischen Geräten mit Voluspa."
+    "TrackedSync": "Synchronisiere markierte Triumphe zwischen Geräten mit Voluspa.",
+    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
   "Upsell": {
     "Auth": {
