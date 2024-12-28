@@ -43,6 +43,7 @@
     "Open": "打开",
     "Previous": "往前",
     "PullPostmaster": "从邮政长处取回物品",
+    "Reassess": "🦘 Reassess",
     "ReloadApp": "重新载入 Braytech",
     "ReloadAppAutomatically": "自动重载应用",
     "RemoveBookmark": "移除书签",
@@ -401,6 +402,7 @@
     "Rank_plural": "商人声望",
     "Rarity": "稀有度",
     "Recent": "🦘 Recent",
+    "Redacted": "🦘 Redacted",
     "Report_plural": "报告",
     "Reputation": "声誉等级",
     "Reset": "重置",
@@ -582,6 +584,7 @@
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
     "CollectionScore": "收藏品分数",
+    "LastUpdated": "🦘 Your profile was last updated **{{string}}**. If desired, you may request that your profile be immediately reassessed prior to all leaderboards being re-ranked.",
     "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
@@ -609,13 +612,9 @@
         "Name": "参与排名的玩家数",
         "Info": "只有自最新DLC发布后玩过《命运》的玩家才会被排名。"
       },
-      "ScraperCompletionValue": {
-        "Name": "被抓取过的玩家数",
-        "Info": "曾经访问过 Braytech 的玩家将会被抓取数据。"
-      },
-      "ScraperTimeRemaining": {
-        "Name": "距离下次刷新还有",
-        "Info": "玩家会在每次定时更新任务完成后重新排名。"
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "最稀有的收藏品"
@@ -624,6 +623,10 @@
   "Legend": {
     "Profile": {
       "Description": "是什么赋予了你力量？在光能与暗影之间，你是像泰坦一样坚守前线，还是像术士一样从远处瓦解整支军队，或者像猎人一样机敏地潜行于阴影之中？"
+    },
+    "Guardian": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "🦘 Guardian"
     },
     "Activity": {
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
@@ -642,7 +645,7 @@
       "Name": "稀有的宝藏 & 异域风格"
     },
     "Seals": {
-      "Commonality": "胜利标志\n是成就达成者与收藏家的终极衡量标准；好好佩戴他们",
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "成就与称号"
     },
     "Fishing": {
@@ -1109,6 +1112,8 @@
     },
     "Subscriptions": {
       "Info": "广告很烦人，所以Braytech不会添加广告，但这并不意味着它是免费或容易的！\n\n取而代之的是，我需要你的慷慨支持。 你的支持将帮助我开发新功能并支付租金，使 Braytech 能够持续提供在线服务！\n\n订阅以下任何一个层级，即可获得酷炫的奖励，例如个人资料勋章！",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **结束**。",
@@ -1120,9 +1125,18 @@
       },
       "ActiveSubscription": "当前订阅",
       "ManageSubscription": "管理订阅",
+      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "🦘 Receive Email",
+        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "奖励",
       "Tiers": "等级",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",
@@ -1235,6 +1249,7 @@
       "Unlock": "解锁",
       "Vault": "保险库",
       "Track": "追踪",
+      "Pin": "🦘 Pin",
       "Hide": "隐藏"
     },
     "Item": {
@@ -1277,6 +1292,8 @@
       "Score": "这个成就的分数",
       "ScoreInterval": "距离下次获取成就分所需要的数目"
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",
     "RecordsUnavailable": "没有可显示的记录。",
@@ -1316,6 +1333,10 @@
       "GrantsScore": {
         "Name": "给予分数的成就",
         "Description": "仅显示那些在完成时将给予成就分的记录"
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录",
@@ -1325,7 +1346,8 @@
     "Triumph_plural": "成就",
     "UnobtainableTriumphs": "无法获取",
     "UnredeemedTriumphs": "未兑换成就",
-    "TrackedSync": "通过Voluspa在设备之间同步已跟踪的成就."
+    "TrackedSync": "通过Voluspa在设备之间同步已跟踪的成就.",
+    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
   "Upsell": {
     "Auth": {

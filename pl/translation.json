@@ -43,6 +43,7 @@
     "Open": "🦘 Open",
     "Previous": "🦘 Previous",
     "PullPostmaster": "🦘 Pull From Postmaster",
+    "Reassess": "🦘 Reassess",
     "ReloadApp": "🦘 Reload App",
     "ReloadAppAutomatically": "🦘 Reload App Automatically",
     "RemoveBookmark": "🦘 Remove Bookmark",
@@ -401,6 +402,7 @@
     "Rank_plural": "🦘 Ranks",
     "Rarity": "🦘 Rarity",
     "Recent": "🦘 Recent",
+    "Redacted": "🦘 Redacted",
     "Report_plural": "🦘 Reports",
     "Reputation": "🦘 평판",
     "Reset": "🦘 Reset",
@@ -582,6 +584,7 @@
     "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "🦘 Triumph Score",
     "CollectionScore": "🦘 Collections Score",
+    "LastUpdated": "🦘 Your profile was last updated **{{string}}**. If desired, you may request that your profile be immediately reassessed prior to all leaderboards being re-ranked.",
     "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
     "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
     "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
@@ -609,13 +612,9 @@
         "Name": "🦘 Ranked players",
         "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
       },
-      "ScraperCompletionValue": {
-        "Name": "🦘 Scraped players",
-        "Info": "🦘 Players who've visited Braytech are queued for profile scraping."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "🦘 Time until next rank",
-        "Info": "🦘 Players are ranked at the end of each profile scrape job."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "🦘 Rarest Triumphs",
       "RarestCollectibles": "🦘 Rarest Collectibles"
@@ -624,6 +623,10 @@
   "Legend": {
     "Profile": {
       "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+    },
+    "Guardian": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "🦘 Guardian"
     },
     "Activity": {
       "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
@@ -642,7 +645,7 @@
       "Name": "🦘 Rare Treasures & Exotic Style"
     },
     "Seals": {
-      "Commonality": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "🦘 Sigilli"
     },
     "Fishing": {
@@ -1109,6 +1112,8 @@
     },
     "Subscriptions": {
       "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
+      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
@@ -1120,9 +1125,18 @@
       },
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
+      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "🦘 Receive Email",
+        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "🦘 Benefits",
       "Tiers": "🦘 Tiers",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",
@@ -1235,6 +1249,7 @@
       "Unlock": "🦘 Unlock",
       "Vault": "🦘 Vault",
       "Track": "🦘 Track",
+      "Pin": "🦘 Pin",
       "Hide": "🦘 Hide"
     },
     "Item": {
@@ -1277,6 +1292,8 @@
       "Score": "🦘 This record's finite triumph score value.",
       "ScoreInterval": "🦘 The next unredeemed interval's score value over the total record value."
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
     "RecordsUnavailable": "🦘 There are no records available for display.",
@@ -1316,6 +1333,10 @@
       "GrantsScore": {
         "Name": "🦘 Grants Score",
         "Description": "🦘 Only display records which grant triumph score upon completion."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "🦘 You aren't tracking any records yet!",
@@ -1325,7 +1346,8 @@
     "Triumph_plural": "🦘 Triumphs",
     "UnobtainableTriumphs": "🦘 Unobtainable",
     "UnredeemedTriumphs": "🦘 Unredeemed Triumphs",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa."
+    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
+    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
   "Upsell": {
     "Auth": {

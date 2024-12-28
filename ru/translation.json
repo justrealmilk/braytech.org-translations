@@ -43,6 +43,7 @@
     "Open": "Открыть",
     "Previous": "Предыдущие",
     "PullPostmaster": "Вытащить из Почтмейстера",
+    "Reassess": "🦘 Reassess",
     "ReloadApp": "Перезагрузить приложение",
     "ReloadAppAutomatically": "Перезагружать приложение автоматически",
     "RemoveBookmark": "Убрать из Закладок",
@@ -401,6 +402,7 @@
     "Rank_plural": "Ранги",
     "Rarity": "Редкость",
     "Recent": "Недавнее",
+    "Redacted": "🦘 Redacted",
     "Report_plural": "Активности",
     "Reputation": "Репутация",
     "Reset": "Сбросить",
@@ -582,6 +584,7 @@
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Счёт триумфов",
     "CollectionScore": "Счёт коллекции",
+    "LastUpdated": "🦘 Your profile was last updated **{{string}}**. If desired, you may request that your profile be immediately reassessed prior to all leaderboards being re-ranked.",
     "Unranked": "Эта Таблица лидеров оценивается с новой информацией. Она будет готова через несколько минут.",
     "UnrankedMember": "Этот игрок еще не был оценён. Они были добавлены в очередь.",
     "UnrankedGroup": "Ещё никто в этом клане не был оценён.",
@@ -609,13 +612,9 @@
         "Name": "Оценённые игроки",
         "Info": "Оцениваются только те игроки, которые играли в Destiny с момента релиза текущего дополнения."
       },
-      "ScraperCompletionValue": {
-        "Name": "Собранные игроки",
-        "Info": "Игроки, которые посещали Braytech, добавлены в очередь на сбор информации о профиле."
-      },
-      "ScraperTimeRemaining": {
-        "Name": "Время до следующего оценивания",
-        "Info": "Игроки оценениваются в конце сбора информации каждого профиля."
+      "RankedDate": {
+        "Name": "🦘 Ranked date",
+        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
       },
       "RarestTriumphs": "Редчайшие Триумфы",
       "RarestCollectibles": "Редчайшие Предметы"
@@ -624,6 +623,10 @@
   "Legend": {
     "Profile": {
       "Description": "Что дает вам силу; преодолевая свет и тьму, вы удерживаете линию фронта как Титан, уничтожаете целые армии издалека как Варлок или трусливо пробираетесь сквозь тени как Охотник?"
+    },
+    "Guardian": {
+      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
+      "Name": "🦘 Guardian"
     },
     "Activity": {
       "Description": "Призрак Стража.\n\nВаша жизнь после вашей жизни начинается здесь. Вы воскрешённый, выбранный Призраком, и дарованный великой силой благодаря Свету и Тьме.\n\nЭто были ваши первые шаги.",
@@ -642,7 +645,7 @@
       "Name": "Редкие Скоровища & Стиль игры с Экзотами"
     },
     "Seals": {
-      "Commonality": "Эмблемы побед\n\nВысший показатель перфекционизма и коллекционерства; носите их хорошо.",
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "Печати триумфов"
     },
     "Fishing": {
@@ -1109,6 +1112,8 @@
     },
     "Subscriptions": {
       "Info": " Реклама - отстой, поэтому Braytech её не использует, но все это не бесплатно и не просто!\n\nВместо рекламы я полагаюсь на вашу щедрость. Ваша поддержка помогает поддерживать приложение в рабочем состоянии, позволяет мне работать над новыми функциями и оплачивает мою аренду!\n\nПодпишитесь на один из следующих уровней, чтобы получить классные награды, такие как медали профиля!",
+      "Help": "Вы можете в любое время обратиться за помощью в [Discord](https://discord.bray.tech) или по электронной почте [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "Авторизуйтесь с помощью Bungie.net чтобы создать подписку или управлять ею.",
       "State": {
         "Ending": "Вы подписались **{{created}}**, и ваша подписка **закончится** **{{currentPeriodEnd}}**.",
@@ -1120,9 +1125,18 @@
       },
       "ActiveSubscription": "Активная Подписка",
       "ManageSubscription": "Управление Подпиской",
+      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Newsletter": {
+        "Name": "🦘 Receive Email",
+        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+      },
       "Benefits": "Привилегии",
       "Tiers": "Уровни",
-      "Help": "Вы можете в любое время обратиться за помощью в [Discord](https://discord.bray.tech) или по электронной почте [subscriptions@bray.tech](mailto:subscriptions@bray.tech)."
+      "Legends": "🦘 Legends",
+      "Connect": "🦘 Connect",
+      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
     },
     "BraytechLegend": {
       "Updated": "Ваша легенда была обновлена. ✨",
@@ -1235,6 +1249,7 @@
       "Unlock": "Разблокировать",
       "Vault": "В Хранилище",
       "Track": "Отслеживать",
+      "Pin": "🦘 Pin",
       "Hide": "Скрыть"
     },
     "Item": {
@@ -1277,6 +1292,8 @@
       "Score": "Очки триумфов, начисляемые за получение триумфа.",
       "ScoreInterval": "Очки триумфов начисляемые за текущий этап в сравнении с очками за все этапы."
     },
+    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
+    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",
@@ -1316,6 +1333,10 @@
       "GrantsScore": {
         "Name": "Даёт Очки",
         "Description": "Отображать только те триумфы, которые дают очки триумфов по завершении."
+      },
+      "MatchClass": {
+        "Name": "🦘 Match Class",
+        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
       }
     },
     "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",
@@ -1325,7 +1346,8 @@
     "Triumph_plural": "Триумфы",
     "UnobtainableTriumphs": "Недоступные",
     "UnredeemedTriumphs": "Неполученные триумфы",
-    "TrackedSync": "Синхронизировать отслеживаемые триумфы между устройствами с помощью Voluspa."
+    "TrackedSync": "Синхронизировать отслеживаемые триумфы между устройствами с помощью Voluspa.",
+    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
   "Upsell": {
     "Auth": {
