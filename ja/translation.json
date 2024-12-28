@@ -43,7 +43,7 @@
     "Open": "開く",
     "Previous": "戻る",
     "PullPostmaster": "ポストマスターからアイテムを取得する",
-    "Reassess": "🦘 Reassess",
+    "Reassess": "再評価",
     "ReloadApp": "アプリをリロードする",
     "ReloadAppAutomatically": "自動的にアプリを再読み込みする",
     "RemoveBookmark": "ブックマークから削除",
@@ -402,7 +402,7 @@
     "Rank_plural": "各ランク",
     "Rarity": "レア度",
     "Recent": "直近",
-    "Redacted": "🦘 Redacted",
+    "Redacted": "再編集",
     "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",
@@ -584,7 +584,7 @@
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
     "CollectionScore": "コレクションスコア",
-    "LastUpdated": "🦘 Your profile was last updated **{{string}}**. If desired, you may request that your profile be immediately reassessed prior to all leaderboards being re-ranked.",
+    "LastUpdated": "ユーザーデータの最終更新：**{{string}}** 希望があれば、次回のランキングデータ更新直前にユーザーデータの即時再評価をリクエストできます。",
     "Unranked": "このリーダーボードは最新データでランキングされています。数分ごとに更新されます。",
     "UnrankedMember": "このプレイヤーはまだランキングされていません。キューに追加されました。",
     "UnrankedGroup": "クラン内にはランクインしたメンバーはまだいません。",
@@ -613,8 +613,8 @@
         "Info": "最新DLCのリリース日以降Destinyをプレイしたプレイヤーのみがカウントされています。"
       },
       "RankedDate": {
-        "Name": "🦘 Ranked date",
-        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
+        "Name": "ランキング最終更新",
+        "Info": "この時間にランキング表が更新されました。"
       },
       "RarestTriumphs": "最もレアな勝利の道のり",
       "RarestCollectibles": "最もレアなコレクション"
@@ -622,11 +622,11 @@
   },
   "Legend": {
     "Profile": {
-      "Description": "力はいったい何を齎すのか。  光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
+      "Description": "力はいったい何を齎すのか。 光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
     "Guardian": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
-      "Name": "🦘 Guardian"
+      "Description": "力はいったい何を齎すのか。 光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?",
+      "Name": "ガーディアン"
     },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
@@ -645,7 +645,7 @@
       "Name": "レアな宝物とエキゾチックなスタイル"
     },
     "Seals": {
-      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Description": "勝利のエンブレム\n\n完全を極める者の栄誉。誇りをもって身に着けよ。",
       "Name": "調印"
     },
     "Fishing": {
@@ -1113,7 +1113,7 @@
     "Subscriptions": {
       "Info": "広告表示は非常に不愉快なため、Braytechは使っていませんが、かと言ってここを無料で提供し続けられる状況でもありません。\n\n広告収入の代わりに、皆さんからの支援を得てここは継続できています。投げ銭のおかげでサービスを継続させ、機能アップデートに専念して取り組むことができています。\n\nどうぞ、プロフィールのページでのメダルを表示させる形でのお礼となりますが是非とも次の支援ランクのどれでも良いのでサブスクリプションによる支援をお願いいたします。",
       "Help": "システム不具合を発見したら[Discord](https://discord.bray.tech)、またはメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)でご報告ください。",
-      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "サブスクリプション料金はすべてUSドル表記です。異なるプランで再登録することでプラン変更ができます。\n\nお困りの際は、[Discord](https://discord.bray.tech) やメール[subscriptions@bray.tech](mailto:subscriptions@bray.tech)へご連絡ください。",
       "AuthRequired": "サブスクリプションを設定に反映させるため、Bungie.netに認証を行ってください。",
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
@@ -1125,18 +1125,18 @@
       },
       "ActiveSubscription": "サブスクリプションを発動させる",
       "ManageSubscription": "サブスクリプション管理",
-      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Stripe": "Stripeでサブスクリプションを管理できます。",
       "Newsletter": {
-        "Name": "🦘 Receive Email",
-        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+        "Name": "メール配信",
+        "Description": "Braytechのブログ記事やサブスク情報を、メールでお届けします。"
       },
       "Benefits": "特典",
       "Tiers": "支援形態",
-      "Legends": "🦘 Legends",
-      "Connect": "🦘 Connect",
-      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development."
+      "Legends": "レジェンド",
+      "Connect": "接続",
+      "Blog": "Braytechの開発はブログで随時更新。より面白く、有益な記事をお届けします。",
+      "Discord": "Braytechコミュニティに参加して仲間たちと集まろう! 雑談、アイデア、バグ報告、アプリのヘルプもすぐに受け取れます。",
+      "NewSubs": "Braytechの継続を支援する、最近サブスクリプション登録した支援者の方々"
     },
     "BraytechLegend": {
       "Updated": "階級がアップデートされました✨",
@@ -1249,7 +1249,7 @@
       "Unlock": "ロックを外す",
       "Vault": "保管庫へ送る",
       "Track": "追跡",
-      "Pin": "🦘 Pin",
+      "Pin": "ピン留めする",
       "Hide": "隠す"
     },
     "Item": {
@@ -1292,8 +1292,8 @@
       "Score": "このレコードの勝利スコアは有限です。",
       "ScoreInterval": "合計レコード値に対する次に獲得するスコア値"
     },
-    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechActiveScore": "あなたのアクティブな勝利の道のりスコアは **{{number}}** です（Braytech算出）。達成可能な勝利の道のりから計算されています。",
+    "BungieActiveScore": "Bungieでの公式スコアは{{number}}です。コンテンツ更新によって勝利の道のりが削除、またはスコア変更されていない場合は差異が発生することがあります。",
     "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",
@@ -1326,7 +1326,7 @@
       "Rarity": "レア度順に並び替え",
       "Score": "スコア順に並び替え",
       "Bungie": "Bungie指定の順に並び替え",
-      "User": "**User**名前ごとに並び替え",
+      "User": "**ユーザー名**順に並び替え",
       "None": "並び替え解除"
     },
     "Options": {
@@ -1335,8 +1335,8 @@
         "Description": "スコアがある勝利の道のりだけを表示する。"
       },
       "MatchClass": {
-        "Name": "🦘 Match Class",
-        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
+        "Name": "クラス",
+        "Description": "「選択したキャラクターのクラスに一致する勝利の道のりのみを表示する"
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
@@ -1347,7 +1347,7 @@
     "UnobtainableTriumphs": "入手できません",
     "UnredeemedTriumphs": "取得していない勝利の道のり",
     "TrackedSync": "Voluspaを通じてデバイス間の道のりのトラックキングを同期しています。",
-    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
+    "PinPresentationNodes": "右クリックで選択アイテムをリストの先頭に固定表示します。"
   },
   "Upsell": {
     "Auth": {
