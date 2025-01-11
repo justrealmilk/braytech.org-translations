@@ -1390,6 +1390,7 @@
     "Frequency": "Frequency",
     "CompletedBy": "{{number}} players have completed this.",
     "Crawled": "{{number}} players are currently crawled by Voluspa.",
+    "Assessed": "{{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "Frequency",
       "TimeSeries": "Time Series"

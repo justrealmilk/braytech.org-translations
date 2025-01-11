@@ -1390,6 +1390,7 @@
     "Frequency": "🦘 Frequency",
     "CompletedBy": "{{number}}명의 유저가 이것을 완료했습니다.",
     "Crawled": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
+    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "🦘 Frequency",
       "TimeSeries": "🦘 Time Series"

@@ -1390,6 +1390,7 @@
     "Frequency": "Частота",
     "CompletedBy": "{{number}} игрок(ов) завершили это.",
     "Crawled": "{{number}} игрок(ов) индексированы системой Voluspa.",
+    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "Частота",
       "TimeSeries": "Временные ряды"

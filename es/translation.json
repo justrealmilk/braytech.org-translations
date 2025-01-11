@@ -1390,6 +1390,7 @@
     "Frequency": "Frecuencia",
     "CompletedBy": "{{number}} jugadores han completado esto.",
     "Crawled": "{{number}} jugadores están indizados por Voluspa.",
+    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "Frecuencia",
       "TimeSeries": "Series cronológicas"

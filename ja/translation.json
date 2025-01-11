@@ -1390,6 +1390,7 @@
     "Frequency": "ドロップ頻度",
     "CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
     "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
+    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "レア度",
       "TimeSeries": "時系列"

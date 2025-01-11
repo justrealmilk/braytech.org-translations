@@ -1390,6 +1390,7 @@
     "Frequency": "🦘 Frequency",
     "CompletedBy": " {{number}} 名玩家已完成",
     "Crawled": "{{number}} 玩家被Voluspa索引.",
+    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
     "GraphType": {
       "Frequency": "頻率",
       "TimeSeries": "時間序列"
