@@ -584,7 +584,7 @@
     "GildScore": "Gild Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
-    "CollectionScore": "Collections Score",
+    "CollectionScore": "Collection Score",
     "ProfileLastUpdated": "Profile last updated",
     "LeaderboardsLastUpdated": "Leaderboards last updated",
     "RequestUpdate": "If desired, you may request that your profile be immediately updated prior to all leaderboards being updated.",
@@ -610,7 +610,7 @@
     },
     "Stats": {
       "MinActiveScore": "Players with at least {{number}} Active Score",
-      "MinCollectionScore": "Players with at least {{number}} Collections Score",
+      "MinCollectionScore": "Players with at least {{number}} Collection Score",
       "RankedPlayers": {
         "Name": "Players ranked",
         "Info": "Only players who've played Destiny since the latest expansion release are ranked."
