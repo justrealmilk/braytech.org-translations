@@ -587,7 +587,7 @@
     "CollectionScore": "Collection Score",
     "ProfileLastUpdated": "Profile last updated",
     "LeaderboardsLastUpdated": "Leaderboards last updated",
-    "RequestUpdate": "If desired, you may request that your profile be immediately updated prior to all leaderboards being updated.",
+    "RequestUpdate": "As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
     "Unranked": "This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
     "UnrankedMember": "This player hasn't been ranked yet. They've been added to the queue and will be ranked provided their progression is public.",
     "UnrankedGroup": "No one in this clan has been ranked yet.",

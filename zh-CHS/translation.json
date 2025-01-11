@@ -587,7 +587,7 @@
     "CollectionScore": "收藏品分数",
     "ProfileLastUpdated": "🦘 Profile last updated",
     "LeaderboardsLastUpdated": "🦘 Leaderboards last updated",
-    "RequestUpdate": "🦘 If desired, you may request that your profile be immediately updated prior to all leaderboards being updated.",
+    "RequestUpdate": "🦘 As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
     "Unranked": "排行榜正在更新，将会在几分钟内准备就绪。",
     "UnrankedMember": "这名守护者还没有被排行榜索引，我们已经把他添加到索引队列中，请待会儿再来查看。",
     "UnrankedGroup": "这个公会中没有任何成员进入排行榜。",
