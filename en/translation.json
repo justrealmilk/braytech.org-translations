@@ -1122,7 +1122,7 @@
     "Subscriptions": {
       "Info": "Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
       "Help": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "HelpMore": "Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).\n- You can cancel at any time–benefits remain active for the time paid.\n- Changing tiers is achieved by resubscribing at a different tier.\n- If you prefer, you can make a donation through [PayPal](https://paypal.me/braytechltd).\n- If you have feedback of any sort, please deliver it, [direct to me](mailto:subscriptions@bray.tech) or via [Discord](https://discord.bray.tech), so I may improve my service!",
       "AuthRequired": "Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
