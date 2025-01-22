@@ -707,7 +707,7 @@
       "Name": "Configuration failure"
     },
     "Status": {
-      "DownloadingManifest": "Downloading {{version}} From Bungie",
+      "DownloadingManifest": "Downloading Data From Bungie",
       "FatalError": "Fatal Error",
       "NoInternetError": "No Internet",
       "Other": "Starting Windows 95",
