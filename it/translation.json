@@ -343,6 +343,9 @@
     "Empty": "Vuoto",
     "Equipment": "Equipaggiamento",
     "Error": "Errore",
+    "Episode": "🦘 Episode",
+    "EpisodeNth": "🦘 Episode {{number}}",
+    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "Event": "Evento",
     "EventNth": "1 evento",
     "EventNth_plural": "{{count}} eventi",
@@ -418,11 +421,7 @@
     "Season": "🦘 Season",
     "SeasonNth": "Stagione {{number}}",
     "SeasonEndsIn": "Stagione {{number}}: termina tra {{duration}}",
-    "Episode": "🦘 Episode",
-    "EpisodeNth": "🦘 Episode {{number}}",
-    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "StatTracker_plural": "🦘 Stat Trackers",
-    "Year": "🦘 Year",
     "SeasonPass": "Pass stagionale",
     "SeasonRank": "Grado stagionale",
     "Season_plural": "Stagioni",
@@ -444,6 +443,7 @@
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "Sconosciuto",
+    "Year": "🦘 Year",
     "You": "🦘 You",
     "Users": "Utenti",
     "Username": "🦘 Username",
@@ -881,6 +881,10 @@
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
+  },
+  "RewardHistory": {
+    "Name": "🦘 Reward History",
+    "Info": "🦘 Press to display session history."
   },
   "Search": {
     "Error": {

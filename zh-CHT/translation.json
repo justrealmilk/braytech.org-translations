@@ -343,6 +343,9 @@
     "Empty": "空的",
     "Equipment": "裝備",
     "Error": "錯誤",
+    "Episode": "🦘 Episode",
+    "EpisodeNth": "🦘 Episode {{number}}",
+    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "Event": "公開事件",
     "EventNth": "公開事件",
     "EventNth_plural": "🦘 1 Evento",
@@ -418,11 +421,7 @@
     "Season": "🦘 Season",
     "SeasonNth": "賽季 {{number}}",
     "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
-    "Episode": "🦘 Episode",
-    "EpisodeNth": "🦘 Episode {{number}}",
-    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "StatTracker_plural": "🦘 Stat Trackers",
-    "Year": "🦘 Year",
     "SeasonPass": "賽季通行證",
     "SeasonRank": "賽季等級",
     "Season_plural": "赛季",
@@ -444,6 +443,7 @@
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "未知",
+    "Year": "🦘 Year",
     "You": "🦘 You",
     "Users": "用戶",
     "Username": "🦘 Username",
@@ -881,6 +881,10 @@
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
+  },
+  "RewardHistory": {
+    "Name": "🦘 Reward History",
+    "Info": "🦘 Press to display session history."
   },
   "Search": {
     "Error": {

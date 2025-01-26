@@ -343,6 +343,9 @@
     "Empty": "Empty",
     "Equipment": "装備",
     "Error": "エラー",
+    "Episode": "エピソード",
+    "EpisodeNth": "エピソード {{number}}",
+    "EpisodeEndsIn": "エピソード {{number}}: 残り {{duration}}",
     "Event": "イベント",
     "EventNth": "1 イベント",
     "EventNth_plural": "{{count}} イベント",
@@ -418,11 +421,7 @@
     "Season": "シーズン",
     "SeasonNth": "シーズン {{number}} ",
     "SeasonEndsIn": "第{{number}}シーズン: 残り{{duration}}",
-    "Episode": "エピソード",
-    "EpisodeNth": "エピソード {{number}}",
-    "EpisodeEndsIn": "エピソード {{number}}: 残り {{duration}}",
     "StatTracker_plural": "ステータストラッカー",
-    "Year": "Year",
     "SeasonPass": "シーズンパス",
     "SeasonRank": "シーズンランク",
     "Season_plural": "シーズン",
@@ -444,6 +443,7 @@
     "ActiveTriumphs": "現行の勝利の道のり",
     "LegacyTriumphs": "過去の勝利の道のり",
     "Unknown": "不明",
+    "Year": "Year",
     "You": "🦘 You",
     "Users": "ユーザー",
     "Username": "ユーザーネーム",
@@ -881,6 +881,10 @@
     "BountiesValue": "完了したバウンティーの価値",
     "XPBonuses": "経験値ボーナス",
     "SuggestedPath": "パス候補"
+  },
+  "RewardHistory": {
+    "Name": "🦘 Reward History",
+    "Info": "🦘 Press to display session history."
   },
   "Search": {
     "Error": {

@@ -343,6 +343,9 @@
     "Empty": "🦘 Empty",
     "Equipment": "🦘 Equipment",
     "Error": "🦘 Error",
+    "Episode": "🦘 Episode",
+    "EpisodeNth": "🦘 Episode {{number}}",
+    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "Event": "🦘 이벤트",
     "EventNth": "🦘 1 Event",
     "EventNth_plural": "🦘 {{count}} イベント",
@@ -418,11 +421,7 @@
     "Season": "🦘 Season",
     "SeasonNth": "🦘 Season {{number}}",
     "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
-    "Episode": "🦘 Episode",
-    "EpisodeNth": "🦘 Episode {{number}}",
-    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
     "StatTracker_plural": "🦘 Stat Trackers",
-    "Year": "🦘 Year",
     "SeasonPass": "🦘 Season Pass",
     "SeasonRank": "🦘 Season Rank",
     "Season_plural": "🦘 시즌",
@@ -444,6 +443,7 @@
     "ActiveTriumphs": "🦘 Active Triumphs",
     "LegacyTriumphs": "🦘 Legacy Triumphs",
     "Unknown": "🦘 Unknown",
+    "Year": "🦘 Year",
     "You": "🦘 You",
     "Users": "🦘 Users",
     "Username": "🦘 Username",
@@ -881,6 +881,10 @@
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
+  },
+  "RewardHistory": {
+    "Name": "🦘 Reward History",
+    "Info": "🦘 Press to display session history."
   },
   "Search": {
     "Error": {
