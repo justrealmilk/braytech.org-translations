@@ -501,7 +501,7 @@
     "ClassPostmaster": "{{name}} (ポストマスター)",
     "CollectionsRoll": "コレクション品のステータス",
     "Uninstanced": "この項目は、コレクション内で表示できるようにインスタンスデータなしで表示しています。",
-    "Compare": "比較する",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
     "CraftingRequiredLevel": "武器レベル {{number}} が必要です",
     "CurrentlyCantRoll": "このパークは現在、この武器から出てきません。",

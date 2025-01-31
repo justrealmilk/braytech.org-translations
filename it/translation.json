@@ -501,7 +501,7 @@
     "ClassPostmaster": "{{name}} (amministratore)",
     "CollectionsRoll": "Caratteristiche delle collezioni",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "Confronta",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "Non è stato possibile trovare un oggetto da equipaggiare al posto di {{name}} sul personaggio in cui si trova.",
     "CraftingRequiredLevel": "Richiede arma di livello {{number}}",
     "CurrentlyCantRoll": "Questa peculiarità non è disponibile su quest'arma",

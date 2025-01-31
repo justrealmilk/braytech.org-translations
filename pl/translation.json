@@ -501,7 +501,7 @@
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "🦘 Collections Roll",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "🦘 Compare",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
     "CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",

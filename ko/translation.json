@@ -501,7 +501,7 @@
     "ClassPostmaster": "🦘 {{name}} (Postmaster)",
     "CollectionsRoll": "수집품 스텟",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "🦘 Compare",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
     "CurrentlyCantRoll": "이 속성은 해당 무기에서 나오지 않습니다.",

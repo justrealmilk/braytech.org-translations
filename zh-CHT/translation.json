@@ -501,7 +501,7 @@
     "ClassPostmaster": " {{name}} (郵政官)",
     "CollectionsRoll": "收藏品",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "比較",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "未能在指定的角色上找到 {{name}}'的位置上的裝備的物品",
     "CraftingRequiredLevel": "需要武器等級 {{number}}",
     "CurrentlyCantRoll": "該特性目前無法在該武器上取得",

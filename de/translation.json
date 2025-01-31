@@ -501,7 +501,7 @@
     "ClassPostmaster": "{{name}} (Poststelle)",
     "CollectionsRoll": "Sammlungs-Werte",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "Vergleiche",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "Ein anstelle von {{Name}} auszurüstender Gegenstand konnte nicht auf dem Charakter gefunden werden, auf dem er sich befindet.",
     "CraftingRequiredLevel": "Benötigtes Waffen Level {{number}}",
     "CurrentlyCantRoll": "Dieser Perk ist derzeit nicht für diese Waffe verfügbar",

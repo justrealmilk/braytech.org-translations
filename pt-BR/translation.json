@@ -501,7 +501,7 @@
     "ClassPostmaster": "{{name}} (Correio)",
     "CollectionsRoll": "Roll de Coleção",
     "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Compare": "Comparar",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
     "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
     "CurrentlyCantRoll": "Este perk não está disponível nesta arma no momento",

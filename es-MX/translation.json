@@ -501,7 +501,7 @@
     "ClassPostmaster": "{{name}} (administración)",
     "CollectionsRoll": "Estadísticas de colecciones",
     "Uninstanced": "Este elemento se muestra sin ningún dato de instancia, tal y como aparecería dentro de Colecciones.",
-    "Compare": "Comparar",
+    "Dupes": "🦘 Dupes",
     "CouldntFindItemForUnequip": "Un objeto destinado a equiparse en el {{name}} no se pudo encontrar en el personaje que lo tiene.",
     "CraftingRequiredLevel": "Requiere nivel de arma {{number}}",
     "CurrentlyCantRoll": "Esta ventaja no se puede obtener en esta arma actualmente",
