@@ -52,6 +52,8 @@
     "SelectDate": "Select Date",
     "SelectMasterwork": "Any Masterwork",
     "Set": "Set",
+    "Snatch": "Snatch",
+    "Submit": "Submit",
     "Share": "Share",
     "ShowAll": "Show All",
     "ShowCollectionsRolls": "Show Possible Rolls",
@@ -175,6 +177,9 @@
     },
     "Friends": {
       "Text": "Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
+    },
+    "Dresstiny": {
+      "Text": "Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
     "Login": "Login with Bungie.net",
     "Memberships": {
@@ -317,6 +322,7 @@
     "AscendantChallenge": "Ascendant Challenge",
     "Available": "Available",
     "AvailableActivities": "Available Activities",
+    "Browse": "Browse",
     "BrowseNthMembers_plural": "Browse {{number}} Members",
     "Cancel": "Cancel",
     "Challenge": "Challenge",
@@ -383,6 +389,8 @@
     "LoadoutSlotPreview": "Loadout Slot {{number}} Preview",
     "Slot": "Slot {{number}}",
     "LevelNth": "Level {{number}}",
+    "LikeNth": "**1** Like",
+    "LikeNth_plural": "**{{number}}** Likes",
     "Location": "Location",
     "Lore": "Lore",
     "LoreBook": "Lore Book",
@@ -459,7 +467,32 @@
     "WeekNth": "Week {{number}}",
     "Week_plural": "Weeks",
     "XP": "{{number}} XP"
-  },  
+  },
+  "Dresstiny": {
+    "Fit": "Fit",
+    "CreateFit": {
+      "Name": "Create",
+      "Description": "Create a new fit based on your equipment or fantasy."
+    },
+    "AlterFit": {
+      "Name": "Alter",
+      "Description": "Alter an existing fit and pull tight any loose threads."
+    },
+    "Form": {
+      "Name": {
+        "Info": "An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "<name>"
+      },
+      "Description": {
+        "Info": "Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "<description>"
+      },
+      "Screenshot": {
+        "Info": "Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any obstructions may result in your screenshot failing approval.",
+        "Placeholder": "<screenshot>"
+      }
+    }
+  },
   "Sorted": {
     "Completion": "Sorted by **Completion**",
     "Name": "Sorted by **Name**",
