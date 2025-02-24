@@ -440,6 +440,7 @@
     "Source": "Source",
     "SpecialCommendationAbr_plural": "Sp. Comms.",
     "SpecialCommendation_plural": "Special Comms.",
+    "Statistics": "Statistics",
     "Submit": "Submit",
     "Support": "Support",
     "TimePlayed": "Time Played",
@@ -491,6 +492,24 @@
       "Screenshot": {
         "Info": "Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any obstructions may result in your screenshot failing approval.",
         "Placeholder": "<screenshot>"
+      }
+    },
+    "Stats": {
+      "Total": {
+        "Info": "The length of this zesty lookbook.",
+        "Name": "Total"
+      },
+      "Likes": {
+        "Info": "The number of times the fits have been \"checked.\"",
+        "Name": "Likes"
+      },
+      "Members": {
+        "Info": "The force behind this whirlwind of trendsetting fashion.",
+        "Name": "Members"
+      },
+      "ClassDistribution": {
+        "Info": "It's a popularity contest–this is how it's won.",
+        "Name": "Class Distribution"
       }
     }
   },
@@ -616,7 +635,6 @@
   "Leaderboards": {
     "Rank": "Rank",
     "Global": "Global",
-    "Statistics": "Statistics",
     "Active": "Active",
     "Seal": "Seal",
     "Gild": "Gild",
