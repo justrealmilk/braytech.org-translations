@@ -392,6 +392,7 @@
     "LevelNth": "Level {{number}}",
     "LikeNth": "**1** Like",
     "LikeNth_plural": "**{{number}}** Likes",
+    "Like_plural": "Likes",
     "Location": "Location",
     "Lore": "Lore",
     "LoreBook": "Lore Book",
@@ -472,6 +473,7 @@
   },
   "Dresstiny": {
     "Fit": "Fit",
+    "Fit_plural": "Fits",
     "CreateFit": {
       "Name": "Create",
       "Description": "Create a new fit based on your equipment or fantasy."
