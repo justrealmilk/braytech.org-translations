@@ -20,6 +20,7 @@
     "Dismiss": "取消",
     "Done": "完成",
     "Enable": "启用",
+    "Equip": "🦘 Equip",
     "Expand": "展开",
     "ExpandFilters": "展开筛选",
     "GatherInVault": "移入保险库",
@@ -52,6 +53,8 @@
     "SelectDate": "选择一组日期",
     "SelectMasterwork": "选择大师杰作",
     "Set": "设定",
+    "Snatch": "🦘 Snatch",
+    "Submit": "🦘 Submit",
     "Share": "分享",
     "ShowAll": "展示所有",
     "ShowCollectionsRolls": "显示可能的特性组合",
@@ -156,7 +159,8 @@
     },
     "Version": "版本",
     "TemporaryError": "Bungie 发生了一个临时错误。",
-    "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新"
+    "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新",
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
   },
   "Auth": {
     "Data": {
@@ -175,6 +179,9 @@
     },
     "Friends": {
       "Text": "验证 Bungie.net 档案后能在这里看到你的好友列表！你可以在这里快速查看在线好友并查看他们的个人资料！"
+    },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
     "Login": "登录到 Bungie.net",
     "Memberships": {
@@ -197,7 +204,6 @@
       "ObtainFromVendor": "从{{name}}获得"
     },
     "DiffProfile": "你正在查看他人的个人资料。点击该页面下的任意按钮不会有任何反应！",
-    "FiltersApplied": "已筛选",
     "Placeholder": "输入物品名称"
   },
   "Clan": {
@@ -317,6 +323,7 @@
     "AscendantChallenge": "上维挑战",
     "Available": "可用",
     "AvailableActivities": "可用活动",
+    "Browse": "🦘 Browse",
     "BrowseNthMembers_plural": "查看 {{number}} 个成员",
     "Cancel": "取消",
     "Challenge": "挑战",
@@ -360,7 +367,9 @@
     "FeaturedEvent": "赛季活动",
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "轮换游玩列表",
-    "Filters": "🦘 Filters",
+    "Filter": "🦘 Filter",
+    "Filter_plural": "🦘 Filters",
+    "FiltersApplied": "🦘 Filters Applied",
     "Fireteam": "火力战队",
     "Fireteam_plural": "所有火力战队",
     "FireteamMembers": "火力战队成员",
@@ -383,6 +392,9 @@
     "LoadoutSlotPreview": "预览 {{number}} 号槽位的配置",
     "Slot": "槽位 {{number}}",
     "LevelNth": "Lv.{{number}}",
+    "LikeNth": "🦘 **1** Like",
+    "LikeNth_plural": "🦘 **{{number}}** Likes",
+    "Like_plural": "🦘 Likes",
     "Location": "位置",
     "Lore": "传说故事",
     "LoreBook": "传说故事",
@@ -431,6 +443,7 @@
     "Source": "来源",
     "SpecialCommendationAbr_plural": "特殊嘉奖",
     "SpecialCommendation_plural": "特殊嘉奖",
+    "Statistics": "🦘 Statistics",
     "Submit": "提交",
     "Support": "支持",
     "TimePlayed": "游戏时间",
@@ -459,6 +472,54 @@
     "WeekNth": "第 {{number}} 周",
     "Week_plural": "周",
     "XP": "🦘 {{number}} XP"
+  },
+  "Dresstiny": {
+    "Fit": "🦘 Fit",
+    "Fit_plural": "🦘 Fits",
+    "Popular": "🦘 Popular",
+    "CreateFit": {
+      "Name": "🦘 Create",
+      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+    },
+    "AlterFit": {
+      "Name": "🦘 Alter",
+      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+    },
+    "Form": {
+      "Loadout": {
+        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+      },
+      "Name": {
+        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "🦘 <name>"
+      },
+      "Description": {
+        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "🦘 <description>"
+      },
+      "Screenshot": {
+        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
+        "Placeholder": "🦘 <screenshot>"
+      }
+    },
+    "Stats": {
+      "Total": {
+        "Info": "🦘 The length of this zesty lookbook.",
+        "Name": "🦘 Total"
+      },
+      "Likes": {
+        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
+        "Name": "🦘 Likes"
+      },
+      "Members": {
+        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Name": "🦘 Members"
+      },
+      "ClassDistribution": {
+        "Info": "🦘 It's a popularity contest–this is how it's won.",
+        "Name": "🦘 Class Distribution"
+      }
+    }
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -582,7 +643,6 @@
   "Leaderboards": {
     "Rank": "排行榜",
     "Global": "全球",
-    "Statistics": "统计",
     "Active": "🦘 Active",
     "Seal": "🦘 Seal",
     "Gild": "🦘 Gild",

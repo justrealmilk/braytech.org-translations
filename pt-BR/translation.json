@@ -20,6 +20,7 @@
     "Dismiss": "Dispensar",
     "Done": "Feito",
     "Enable": "Habilitar",
+    "Equip": "🦘 Equip",
     "Expand": "🦘 Expand",
     "ExpandFilters": "🦘 Expand Filters",
     "GatherInVault": "Transferir Para o Cofre",
@@ -52,6 +53,8 @@
     "SelectDate": "Selecionar Data",
     "SelectMasterwork": "Selecionar Obra-Prima",
     "Set": "Definir",
+    "Snatch": "🦘 Snatch",
+    "Submit": "🦘 Submit",
     "Share": "Compartilhar",
     "ShowAll": "Mostrar tudo",
     "ShowCollectionsRolls": "Exibir Possíveis Vantagens",
@@ -156,7 +159,8 @@
     },
     "Version": "Versão",
     "TemporaryError": "Ocorreu um erro temporário da Bungie.",
-    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service."
+    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
   },
   "Auth": {
     "Data": {
@@ -175,6 +179,9 @@
     },
     "Friends": {
       "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
+    },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
     "Login": "Logar em Bungie.net",
     "Memberships": {
@@ -197,7 +204,6 @@
       "ObtainFromVendor": "Obter de {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "FiltersApplied": "🦘 Filters Applied",
     "Placeholder": "🦘 enter item name"
   },
   "Clan": {
@@ -317,6 +323,7 @@
     "AscendantChallenge": "Desafio Ascendente",
     "Available": "🦘 Available",
     "AvailableActivities": "Atividades Disponíveis",
+    "Browse": "🦘 Browse",
     "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
     "Cancel": "Cancelar",
     "Challenge": "Desafio",
@@ -360,7 +367,9 @@
     "FeaturedEvent": "Evento em Destaque",
     "FeaturedNightfall": "Anoitecer em Destaque",
     "FeaturedPlaylist": "Modo de Jogo em Destaque",
-    "Filters": "🦘 Filters",
+    "Filter": "🦘 Filter",
+    "Filter_plural": "🦘 Filters",
+    "FiltersApplied": "🦘 Filters Applied",
     "Fireteam": "Esquadrão",
     "Fireteam_plural": "🦘 Fireteams",
     "FireteamMembers": "Membros do Esquadrão",
@@ -383,6 +392,9 @@
     "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
     "Slot": "🦘 Slot {{number}}",
     "LevelNth": "Level {{number}}",
+    "LikeNth": "🦘 **1** Like",
+    "LikeNth_plural": "🦘 **{{number}}** Likes",
+    "Like_plural": "🦘 Likes",
     "Location": "Localização",
     "Lore": "História",
     "LoreBook": "🦘 Lore Book",
@@ -431,6 +443,7 @@
     "Source": "Fonte",
     "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
     "SpecialCommendation_plural": "🦘 Special Comms.",
+    "Statistics": "🦘 Statistics",
     "Submit": "Enviar",
     "Support": "🦘 Support",
     "TimePlayed": "Tempo jogado",
@@ -459,6 +472,54 @@
     "WeekNth": "Semana {{number}}",
     "Week_plural": "Semanas",
     "XP": "🦘 {{number}} XP"
+  },
+  "Dresstiny": {
+    "Fit": "🦘 Fit",
+    "Fit_plural": "🦘 Fits",
+    "Popular": "🦘 Popular",
+    "CreateFit": {
+      "Name": "🦘 Create",
+      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+    },
+    "AlterFit": {
+      "Name": "🦘 Alter",
+      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+    },
+    "Form": {
+      "Loadout": {
+        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+      },
+      "Name": {
+        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "🦘 <name>"
+      },
+      "Description": {
+        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "🦘 <description>"
+      },
+      "Screenshot": {
+        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
+        "Placeholder": "🦘 <screenshot>"
+      }
+    },
+    "Stats": {
+      "Total": {
+        "Info": "🦘 The length of this zesty lookbook.",
+        "Name": "🦘 Total"
+      },
+      "Likes": {
+        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
+        "Name": "🦘 Likes"
+      },
+      "Members": {
+        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Name": "🦘 Members"
+      },
+      "ClassDistribution": {
+        "Info": "🦘 It's a popularity contest–this is how it's won.",
+        "Name": "🦘 Class Distribution"
+      }
+    }
   },
   "Sorted": {
     "Completion": "🦘 Sorted by **Completion**",
@@ -582,7 +643,6 @@
   "Leaderboards": {
     "Rank": "🦘 Rank",
     "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
     "Active": "🦘 Active",
     "Seal": "🦘 Seal",
     "Gild": "🦘 Gild",

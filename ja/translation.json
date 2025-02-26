@@ -20,6 +20,7 @@
     "Dismiss": "閉じる",
     "Done": "完了",
     "Enable": "有効にする",
+    "Equip": "🦘 Equip",
     "Expand": "展開する",
     "ExpandFilters": "フィルターを広げる",
     "GatherInVault": "すべて保管庫に送る",
@@ -52,6 +53,8 @@
     "SelectDate": "日付選択",
     "SelectMasterwork": "マスターワークを選択",
     "Set": "セット",
+    "Snatch": "🦘 Snatch",
+    "Submit": "🦘 Submit",
     "Share": "共有",
     "ShowAll": "すべてを表示する",
     "ShowCollectionsRolls": "可能性があるロールを表示",
@@ -156,7 +159,8 @@
     },
     "Version": "バージョン",
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
-    "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。"
+    "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
   },
   "Auth": {
     "Data": {
@@ -175,6 +179,9 @@
     },
     "Friends": {
       "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
+    },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
     "Login": "Bungie.netでログインする",
     "Memberships": {
@@ -197,7 +204,6 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
-    "FiltersApplied": "フィルターが適用されました",
     "Placeholder": "アイテム検索ワード"
   },
   "Clan": {
@@ -317,6 +323,7 @@
     "AscendantChallenge": "アセンダントの挑戦",
     "Available": "入手可能",
     "AvailableActivities": "利用可能なアクティビティ",
+    "Browse": "🦘 Browse",
     "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "Cancel": "キャンセル",
     "Challenge": "チャレンジ",
@@ -360,7 +367,9 @@
     "FeaturedEvent": "注目のイベント",
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
-    "Filters": "フィルター",
+    "Filter": "🦘 Filter",
+    "Filter_plural": "🦘 Filters",
+    "FiltersApplied": "🦘 Filters Applied",
     "Fireteam": "ファイアチーム",
     "Fireteam_plural": "ファイアチーム",
     "FireteamMembers": "ファイアチームのメンバー",
@@ -383,6 +392,9 @@
     "LoadoutSlotPreview": "ロードアウトスロット{{number}}のプレビュー",
     "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
+    "LikeNth": "🦘 **1** Like",
+    "LikeNth_plural": "🦘 **{{number}}** Likes",
+    "Like_plural": "🦘 Likes",
     "Location": "ロケーション",
     "Lore": "伝承",
     "LoreBook": "伝承の書物",
@@ -431,6 +443,7 @@
     "Source": "入手方法",
     "SpecialCommendationAbr_plural": "摘要",
     "SpecialCommendation_plural": "特別欄",
+    "Statistics": "🦘 Statistics",
     "Submit": "送信",
     "Support": "支援する",
     "TimePlayed": "プレイ時間",
@@ -459,6 +472,54 @@
     "WeekNth": "第{{number}}週",
     "Week_plural": "週",
     "XP": "経験値 {{number}} ポイント"
+  },
+  "Dresstiny": {
+    "Fit": "🦘 Fit",
+    "Fit_plural": "🦘 Fits",
+    "Popular": "🦘 Popular",
+    "CreateFit": {
+      "Name": "🦘 Create",
+      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+    },
+    "AlterFit": {
+      "Name": "🦘 Alter",
+      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+    },
+    "Form": {
+      "Loadout": {
+        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+      },
+      "Name": {
+        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "🦘 <name>"
+      },
+      "Description": {
+        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "🦘 <description>"
+      },
+      "Screenshot": {
+        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
+        "Placeholder": "🦘 <screenshot>"
+      }
+    },
+    "Stats": {
+      "Total": {
+        "Info": "🦘 The length of this zesty lookbook.",
+        "Name": "🦘 Total"
+      },
+      "Likes": {
+        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
+        "Name": "🦘 Likes"
+      },
+      "Members": {
+        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Name": "🦘 Members"
+      },
+      "ClassDistribution": {
+        "Info": "🦘 It's a popularity contest–this is how it's won.",
+        "Name": "🦘 Class Distribution"
+      }
+    }
   },
   "Sorted": {
     "Completion": "**達成**で並び替え",
@@ -582,7 +643,6 @@
   "Leaderboards": {
     "Rank": "ランク",
     "Global": "全世界ランキング",
-    "Statistics": "統計データ",
     "Active": "🦘 Active",
     "Seal": "🦘 Seal",
     "Gild": "🦘 Gild",

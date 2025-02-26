@@ -20,6 +20,7 @@
     "Dismiss": "Закрыть",
     "Done": "Применить",
     "Enable": "Включить",
+    "Equip": "🦘 Equip",
     "Expand": "Расширить",
     "ExpandFilters": "Развернуть Фильтры",
     "GatherInVault": "Собрать в Хранилище",
@@ -52,6 +53,8 @@
     "SelectDate": "Выбрать дату",
     "SelectMasterwork": "Выбрать Абсолют",
     "Set": "Установить",
+    "Snatch": "🦘 Snatch",
+    "Submit": "🦘 Submit",
     "Share": "Поделиться",
     "ShowAll": "Показать всё",
     "ShowCollectionsRolls": "Показать возможные роллы",
@@ -156,7 +159,8 @@
     },
     "Version": "Версия",
     "TemporaryError": "Произошла временная ошибка на стороне Bungie.",
-    "MemberServiceInactive": "Из-за неактивности, фоновое обновление данных вашего профиля приостановлено.\n\nВзаимодействие с приложением возобновит работу сервиса."
+    "MemberServiceInactive": "Из-за неактивности, фоновое обновление данных вашего профиля приостановлено.\n\nВзаимодействие с приложением возобновит работу сервиса.",
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
   },
   "Auth": {
     "Data": {
@@ -175,6 +179,9 @@
     },
     "Friends": {
       "Text": "Авторизуйтесь на сайте Bungie.net, чтобы увидеть здесь список ваших друзей Bungie! Это удобный быстрый доступ к тому, чтобы видеть кто сейчас в сети и смотреть профили друг друга!"
+    },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
     "Login": "Зайти через Bungie.net",
     "Memberships": {
@@ -197,7 +204,6 @@
       "ObtainFromVendor": "Получить из {{name}}"
     },
     "DiffProfile": "Вы просматриваете чей-то профиль. Вы можете смотреть, но если вы попытаетесь нажимать на кнопки, не ждите результатов!",
-    "FiltersApplied": "Фильтры Применены",
     "Placeholder": "введите название предмета"
   },
   "Clan": {
@@ -317,6 +323,7 @@
     "AscendantChallenge": "Высшее испытание",
     "Available": "Доступно",
     "AvailableActivities": "Доступные активности",
+    "Browse": "🦘 Browse",
     "BrowseNthMembers_plural": "Обзор {{number}} участников",
     "Cancel": "Отмена",
     "Challenge": "Испытание",
@@ -360,7 +367,9 @@
     "FeaturedEvent": "Мероприятие",
     "FeaturedNightfall": "Сумрачный Налёт",
     "FeaturedPlaylist": "Плейлист",
-    "Filters": "Фильтры",
+    "Filter": "🦘 Filter",
+    "Filter_plural": "🦘 Filters",
+    "FiltersApplied": "🦘 Filters Applied",
     "Fireteam": "Боевая группа",
     "Fireteam_plural": "Боевые группы",
     "FireteamMembers": "Члены боевой группы",
@@ -383,6 +392,9 @@
     "LoadoutSlotPreview": "Предпросмотр Слота Комплекта {{number}}",
     "Slot": "Ячейка {{number}}",
     "LevelNth": "Уровень {{number}}",
+    "LikeNth": "🦘 **1** Like",
+    "LikeNth_plural": "🦘 **{{number}}** Likes",
+    "Like_plural": "🦘 Likes",
     "Location": "Локация",
     "Lore": "Истории",
     "LoreBook": "Книги лора",
@@ -431,6 +443,7 @@
     "Source": "Источник",
     "SpecialCommendationAbr_plural": "Ос. похв.",
     "SpecialCommendation_plural": "Особая похв.",
+    "Statistics": "🦘 Statistics",
     "Submit": "Подтвердить",
     "Support": "Поддержка",
     "TimePlayed": "Времени в игре",
@@ -459,6 +472,54 @@
     "WeekNth": "Неделя {{number}}",
     "Week_plural": "Недели",
     "XP": "{{number}} Опыта"
+  },
+  "Dresstiny": {
+    "Fit": "🦘 Fit",
+    "Fit_plural": "🦘 Fits",
+    "Popular": "🦘 Popular",
+    "CreateFit": {
+      "Name": "🦘 Create",
+      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+    },
+    "AlterFit": {
+      "Name": "🦘 Alter",
+      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+    },
+    "Form": {
+      "Loadout": {
+        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+      },
+      "Name": {
+        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "🦘 <name>"
+      },
+      "Description": {
+        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "🦘 <description>"
+      },
+      "Screenshot": {
+        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
+        "Placeholder": "🦘 <screenshot>"
+      }
+    },
+    "Stats": {
+      "Total": {
+        "Info": "🦘 The length of this zesty lookbook.",
+        "Name": "🦘 Total"
+      },
+      "Likes": {
+        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
+        "Name": "🦘 Likes"
+      },
+      "Members": {
+        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Name": "🦘 Members"
+      },
+      "ClassDistribution": {
+        "Info": "🦘 It's a popularity contest–this is how it's won.",
+        "Name": "🦘 Class Distribution"
+      }
+    }
   },
   "Sorted": {
     "Completion": "Отсортировано по **Завершению**",
@@ -582,7 +643,6 @@
   "Leaderboards": {
     "Rank": "Ранг",
     "Global": "Глобально",
-    "Statistics": "Статистика",
     "Active": "🦘 Active",
     "Seal": "🦘 Seal",
     "Gild": "🦘 Gild",

@@ -204,7 +204,6 @@
       "ObtainFromVendor": "Obtain From {{name}}"
     },
     "DiffProfile": "You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "FiltersApplied": "Filters Applied",
     "Placeholder": "enter item name"
   },
   "Clan": {
@@ -368,7 +367,9 @@
     "FeaturedEvent": "Featured Event",
     "FeaturedNightfall": "Featured Nightfall",
     "FeaturedPlaylist": "Featured Playlist",
-    "Filters": "Filters",
+    "Filter": "Filter",
+    "Filter_plural": "Filters",
+    "FiltersApplied": "Filters Applied",
     "Fireteam": "Fireteam",
     "Fireteam_plural": "Fireteams",
     "FireteamMembers": "Fireteam Members",
@@ -475,6 +476,7 @@
   "Dresstiny": {
     "Fit": "Fit",
     "Fit_plural": "Fits",
+    "Popular": "Popular",
     "CreateFit": {
       "Name": "Create",
       "Description": "Create a new fit based on your equipment or fantasy."
