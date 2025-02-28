@@ -501,6 +501,10 @@
       "Screenshot": {
         "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
         "Placeholder": "🦘 <screenshot>"
+      },
+      "Url": {
+        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
+        "Placeholder": "🦘 <url> [optional]"
       }
     },
     "Stats": {
