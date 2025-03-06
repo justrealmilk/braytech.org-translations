@@ -1506,7 +1506,10 @@
         "Raid": "Рейд",
         "Seasonal": "Сезонные",
         "Strikes": "Налёты"
-      }
+      },
+      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }
