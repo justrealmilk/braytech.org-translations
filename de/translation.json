@@ -299,7 +299,8 @@
     "SetComplete": "Set vollständig",
     "SomeAcquiredSomeInvisible": "Einige erworben, {{invisible}} unsichtbar.",
     "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter"
+    "AnyEncounter": "🦘 Any Encounter",
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "Erhalten",

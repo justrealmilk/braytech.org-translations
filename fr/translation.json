@@ -299,7 +299,8 @@
     "SetComplete": "Ensemble complet",
     "SomeAcquiredSomeInvisible": "Quelques uns ont été obtenu, {{invisible}} est invisible",
     "Encounter": "Rencontre",
-    "AnyEncounter": "Toute rencontre"
+    "AnyEncounter": "Toute rencontre",
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "Reçus",

@@ -299,7 +299,8 @@
     "SetComplete": "集合完畢",
     "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter"
+    "AnyEncounter": "🦘 Any Encounter",
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "🦘 Received",

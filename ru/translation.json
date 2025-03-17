@@ -299,7 +299,8 @@
     "SetComplete": "Коллекция завершена",
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
     "Encounter": "Этап",
-    "AnyEncounter": "Любой Этап"
+    "AnyEncounter": "Любой Этап",
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "Получено",

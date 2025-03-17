@@ -299,7 +299,8 @@
     "SetComplete": "已完成收藏",
     "SomeAcquiredSomeInvisible": "部分已取得，{{invisible}} 件已隐藏",
     "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter"
+    "AnyEncounter": "🦘 Any Encounter",
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "已收到嘉奖",
