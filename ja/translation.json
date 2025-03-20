@@ -7,7 +7,7 @@
     "Authenticate": "認証",
     "Avoid": "回避する",
     "Back": "戻る",
-    "Browse": "詳しく見る",
+    "Browse": "閲覧",
     "Cancel": "キャンセル",
     "Close": "閉じる",
     "Condense": "閉じる",
@@ -19,9 +19,9 @@
     "Disable": "無効",
     "Dismiss": "閉じる",
     "Done": "完了",
-    "Edit": "🦘 Edit",
+    "Edit": "編集",
     "Enable": "有効にする",
-    "Equip": "🦘 Equip",
+    "Equip": "装備",
     "Expand": "展開する",
     "ExpandFilters": "フィルターを広げる",
     "GatherInVault": "すべて保管庫に送る",
@@ -37,8 +37,8 @@
     "Jump": "ジャンプ",
     "Lock": "ロックする",
     "Logout": "ログアウト",
-    "Mark": "🦘 Mark",
-    "Unmark": "🦘 Unmark",
+    "Mark": "マーク",
+    "Unmark": "マーク解除",
     "MemberRemove": "メンバーを外す",
     "NextNth": "次の{{number}}件",
     "SeeNextNth": "部分的にも達成した勝利の道のりがありません。目的を選んで始めましょう!",
@@ -54,18 +54,19 @@
     "SelectDate": "日付選択",
     "SelectMasterwork": "マスターワークを選択",
     "Set": "セット",
-    "Snatch": "🦘 Snatch",
-    "Submit": "🦘 Submit",
-    "Share": "共有",
+    "Snatch": "取得",
+    "Submit": "提出",
+    "Share": "シェアする",
     "ShowAll": "すべてを表示する",
     "ShowCollectionsRolls": "可能性があるロールを表示",
     "ShowHiddenStats": "基本ステータス値",
     "TryAgain": "再試行",
     "Unlock": "アンロック",
     "UserReady": "すぐに始める",
-    "Update": "🦘 Update",
+    "Update": "更新",
     "ViewHistoricalData": "データ履歴を見る",
-    "ViewMore": "続きを見る"
+    "ViewMore": "続きを見る",
+    "WindowSize": "この機能は大きなウィンドウで最適に動作します。ウィンドウを大きくしてください。"
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
@@ -161,7 +162,7 @@
     "Version": "バージョン",
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
     "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
+    "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。"
   },
   "Auth": {
     "Data": {
@@ -182,7 +183,7 @@
       "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
     },
     "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
+      "Text": "Bungie.netで認証して、Destinyの装飾をコーディネートしましょう！"
     },
     "Login": "Bungie.netでログインする",
     "Memberships": {
@@ -300,7 +301,7 @@
     "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
     "Encounter": "遭遇戦",
     "AnyEncounter": "全遭遇戦",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "最終エンカウンター"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -325,7 +326,7 @@
     "AscendantChallenge": "アセンダントの挑戦",
     "Available": "入手可能",
     "AvailableActivities": "利用可能なアクティビティ",
-    "Browse": "🦘 Browse",
+    "Browse": "閲覧",
     "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "Cancel": "キャンセル",
     "Challenge": "チャレンジ",
@@ -361,8 +362,8 @@
     "EventNth": "1 イベント",
     "EventNth_plural": "{{count}} イベント",
     "Examples": "例",
-    "Exotic": "🦘 Exotic",
-    "Experience": "🦘 Experience",
+    "Exotic": "エキゾチック",
+    "Experience": "経験値",
     "Expiration": "有効期限",
     "Expired": "期限切れ",
     "Expiry": "残り時間",
@@ -370,9 +371,9 @@
     "FeaturedEvent": "注目のイベント",
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
-    "Filter": "🦘 Filter",
-    "Filter_plural": "🦘 Filters",
-    "FiltersApplied": "🦘 Filters Applied",
+    "Filter": "フィルター",
+    "Filter_plural": "フィルター",
+    "FiltersApplied": "フィルター適用中",
     "Fireteam": "ファイアチーム",
     "Fireteam_plural": "ファイアチーム",
     "FireteamMembers": "ファイアチームのメンバー",
@@ -395,9 +396,9 @@
     "LoadoutSlotPreview": "ロードアウトスロット{{number}}のプレビュー",
     "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
-    "LikeNth": "🦘 **1** Like",
-    "LikeNth_plural": "🦘 **{{number}}** Likes",
-    "Like_plural": "🦘 Likes",
+    "LikeNth": "**1** いいね",
+    "LikeNth_plural": "**{{number}}** いいね",
+    "Like_plural": " いいね",
     "Location": "ロケーション",
     "Lore": "伝承",
     "LoreBook": "伝承の書物",
@@ -446,7 +447,7 @@
     "Source": "入手方法",
     "SpecialCommendationAbr_plural": "摘要",
     "SpecialCommendation_plural": "特別欄",
-    "Statistics": "🦘 Statistics",
+    "Statistics": "ステータス値",
     "Submit": "送信",
     "Support": "支援する",
     "TimePlayed": "プレイ時間",
@@ -462,7 +463,7 @@
     "LegacyTriumphs": "過去の勝利の道のり",
     "Unknown": "不明",
     "Year": "Year",
-    "You": "🦘 You",
+    "You": "プレイヤー",
     "Users": "ユーザー",
     "Username": "ユーザーネーム",
     "ValorPoints": "武勇ポイント",
@@ -477,54 +478,54 @@
     "XP": "経験値 {{number}} ポイント"
   },
   "Dresstiny": {
-    "Fit": "🦘 Fit",
-    "Fit_plural": "🦘 Fits",
-    "Popular": "🦘 Popular",
+    "Fit": "Fit",
+    "Fit_plural": "Fits",
+    "Popular": "人気",
     "CreateFit": {
-      "Name": "🦘 Create",
-      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+      "Name": "作成",
+      "Description": "現在の装備や装飾から作成する。"
     },
     "AlterFit": {
-      "Name": "🦘 Alter",
-      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+      "Name": "変更",
+      "Description": "既存の装飾を変更して更に美しさに磨きをかける。"
     },
     "Form": {
       "Loadout": {
-        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+        "Info": "ビルドを作成する前に、ゲーム内で装備を調整してください。APIが変更を反映するまでに時間がかかる場合があります。" 
       },
       "Name": {
-        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "🦘 <name>"
+        "Info": "比類のない美しさ、可愛らしさ、そして逞しさにふさわしいオリジナルの名前をつけましょう。",
+        "Placeholder": " <名前>"
       },
       "Description": {
-        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "🦘 <description>"
+        "Info": "説明は任意で、256文字以内に収めてください。",
+        "Placeholder": "<説明文>"
       },
       "Screenshot": {
-        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
-        "Placeholder": "🦘 <screenshot>"
+        "Info": "スクリーンショットは 16:9（例：1920 x 1080）、21:9、または 32:9 のアスペクト比で、3MB 未満の JPEG 形式である必要があります。最良の結果を得るために、カーソルは画面下中央に置いて撮影してください。これらに沿っていないデータは、データ登録ができない可能性があります。",
+        "Placeholder": "<スクリーンショット>"
       },
       "Url": {
-        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "🦘 <url> [optional]"
+        "Info": "Reddit（r/DestinyFashion）への投稿のリンクを入力してください。",
+        "Placeholder": "<url> [オプション]"
       }
     },
     "Stats": {
       "Total": {
-        "Info": "🦘 The length of this zesty lookbook.",
-        "Name": "🦘 Total"
+        "Info": "コーディネート集",
+        "Name": "合計"
       },
       "Likes": {
-        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "🦘 Likes"
+        "Info": "このコーディネートが何度\"いいね\"されたかを示します。かなり盛り上がっているようです。」",
+        "Name": "いいね"
       },
       "Members": {
-        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "🦘 Members"
+        "Info": "この勢いあふれるファッションシーンを牽引する力。誰もがインフルエンサーとして活躍しています。",
+        "Name": "メンバー"
       },
       "ClassDistribution": {
-        "Info": "🦘 It's a popularity contest–this is how it's won.",
-        "Name": "🦘 Class Distribution"
+        "Info": "人気投票です。これが誰のものかと見せつけましょう",
+        "Name": "クラス分布"
       }
     }
   },
@@ -571,7 +572,7 @@
     "ClassPostmaster": "{{name}} (ポストマスター)",
     "CollectionsRoll": "コレクション品のステータス",
     "Uninstanced": "この項目は、コレクション内で表示できるようにインスタンスデータなしで表示しています。",
-    "Dupes": "🦘 Dupes",
+    "Dupes": "複製",
     "CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
     "CraftingRequiredLevel": "武器レベル {{number}} が必要です",
     "CurrentlyCantRoll": "このパークは現在、この武器から出てきません。",
@@ -585,7 +586,7 @@
     "Intrinsic": "内在特性",
     "ItemAction": "アイテム操作",
     "Mods": "MOD",
-    "Marked": "🦘 Marked",
+    "Marked": "マーク適用中",
     "PerkEverything": "このパークは、すべてのアクティビティで非常に人気があります。",
     "PerkPvE": "このパークは、PvEコンテンツでの利用を推奨されています。",
     "PerkPvP": "このパークは、PvPコンテンツでの利用を推奨されています。",
@@ -650,21 +651,21 @@
   "Leaderboards": {
     "Rank": "ランク",
     "Global": "全世界ランキング",
-    "Active": "🦘 Active",
-    "Seal": "🦘 Seal",
-    "Gild": "🦘 Gild",
-    "Legacy": "🦘 Legacy",
-    "Triumph": "🦘 Triumph",
-    "Collection": "🦘 Collection",
+    "Active": "アクティブ",
+    "Seal": "印",
+    "Gild": "黄金",
+    "Legacy": "レガシー",
+    "Triumph": "勝利の道のり",
+    "Collection": "コレクション",
     "ActiveScore": "アクティブな勝利の道のりスコア",
     "SealScore": "印のスコア",
     "GildScore": "黄金のスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
     "CollectionScore": "コレクションスコア",
-    "ProfileLastUpdated": "🦘 Profile last updated",
-    "LeaderboardsLastUpdated": "🦘 Leaderboards last updated",
-    "RequestUpdate": "🦘 As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
+    "ProfileLastUpdated": "プロフィールの最終更新",
+    "LeaderboardsLastUpdated": "リーダーボードの最終更新",
+    "RequestUpdate": "サブスクリプションユーザーは、リーダーボードが更新される前にプロフィールを即時更新のリクエストが可能です。",
     "Unranked": "このリーダーボードは最新データでランキングされています。数分ごとに更新されます。",
     "UnrankedMember": "このプレイヤーはまだランキングされていません。キューに追加されました。",
     "UnrankedGroup": "クラン内にはランクインしたメンバーはまだいません。",
@@ -953,8 +954,8 @@
     "SuggestedPath": "パス候補"
   },
   "RewardHistory": {
-    "Name": "🦘 Reward History",
-    "Info": "🦘 Press to display session history."
+    "Name": "報酬の履歴",
+    "Info": "セッションの履歴を表示する"
   },
   "Search": {
     "Error": {
@@ -1472,8 +1473,8 @@
     "Commonality": "レア度",
     "Frequency": "ドロップ頻度",
     "CompletedBy": "{{number}} 人のプレイヤーが達成しています。",
-    "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています.",
-    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
+    "Crawled": "{{number}} 人のプレイヤーがVoluspaにて存在を確認されています。",
+    "Assessed": "{{number}} 人のプレイヤーがVoluspaにて精査されています。",
     "GraphType": {
       "Frequency": "レア度",
       "TimeSeries": "時系列"
@@ -1510,9 +1511,9 @@
         "Seasonal": "シーズン",
         "Strikes": "ストライク"
       },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
+      "WorldDropsNeeded": " **{{light}}** に達するまでレアアイテムをドロップしないように、ワールドドロップを探す。",
+      "PowerfulDropsNeeded": " **{{light}}** に達するため、最高峰の報酬を獲得するアクティビティに参加する。",
+      "PinnacleDropsNeeded": "現在、最高峰の報酬のために周回中です。高難易度アクティビティをクリアして**{{light}}**まで目指しましょう!"
     }
   }
 }
