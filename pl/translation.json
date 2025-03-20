@@ -1334,7 +1334,9 @@
       "Vault": "🦘 Vault",
       "Track": "🦘 Track",
       "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide"
+      "Hide": "🦘 Hide",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "🦘 Expires in {{duration}}.",

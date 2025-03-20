@@ -1334,7 +1334,9 @@
       "Vault": "Al depósito",
       "Track": "Seguir",
       "Pin": "Fijar",
-      "Hide": "Ocultar"
+      "Hide": "Ocultar",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "Caduca en {{duration}}.",

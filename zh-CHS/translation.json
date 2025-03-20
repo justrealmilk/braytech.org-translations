@@ -1334,7 +1334,9 @@
       "Vault": "保险库",
       "Track": "追踪",
       "Pin": "🦘 Pin",
-      "Hide": "隐藏"
+      "Hide": "隐藏",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "在 {{duration}} 后过期",

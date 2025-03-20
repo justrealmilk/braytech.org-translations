@@ -1334,7 +1334,9 @@
       "Vault": "Mettre au coffre",
       "Track": "Suivre",
       "Pin": "🦘 Pin",
-      "Hide": "Cacher"
+      "Hide": "Cacher",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "Expire dans {{duration}}.",

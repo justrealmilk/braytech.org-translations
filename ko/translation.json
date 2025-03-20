@@ -1334,7 +1334,9 @@
       "Vault": "보관",
       "Track": "🦘 Track",
       "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide"
+      "Hide": "🦘 Hide",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "{{duration}} 후에 만료됩니다.",

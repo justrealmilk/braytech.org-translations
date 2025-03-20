@@ -1334,7 +1334,9 @@
       "Vault": "保管庫へ送る",
       "Track": "追跡",
       "Pin": "ピン留めする",
-      "Hide": "隠す"
+      "Hide": "隠す",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "{{duration}}後に無効になります.",

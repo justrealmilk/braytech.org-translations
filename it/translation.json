@@ -1334,7 +1334,9 @@
       "Vault": "Deposita",
       "Track": "🦘 Track",
       "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide"
+      "Hide": "🦘 Hide",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "Scade tra {{duration}}.",

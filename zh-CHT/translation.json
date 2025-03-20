@@ -1334,7 +1334,9 @@
       "Vault": "保險庫",
       "Track": "🦘 Track",
       "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide"
+      "Hide": "🦘 Hide",
+      "ShowMenu": "🦘 Show Menu",
+      "HideMenu": "🦘 Hide Menu"
     },
     "Item": {
       "ExpiresIn": "在 {{duration}} 失效",
