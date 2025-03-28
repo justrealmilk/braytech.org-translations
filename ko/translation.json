@@ -161,7 +161,8 @@
     "Version": "버전",
     "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
     "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
   },
   "Auth": {
     "Data": {
@@ -405,7 +406,6 @@
     "Medal_plural": "메달",
     "MembersOnline": "{{number}}명 접속중",
     "Name": "이름",
-    "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
     "NothingHereYet": "여긴 아직 아무것도 없어요.",
     "Objectives": "진척도",
     "Offline": "오프라인",
@@ -1482,6 +1482,7 @@
     "ProfilesAssessed": "🦘 Profiles Assessed"
   },
   "Weeklies": {
+    "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
     "Challenges": {
       "ActivityBonus": "활동 보너스",
       "ArtifactPower": {

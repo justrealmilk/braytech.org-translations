@@ -426,7 +426,6 @@
     "Medal_plural": "Medaws",
     "MembersOnline": "**{{number}}** Onwine",
     "Name": "Name",
-    "NoActivitiesAvailable": "Thewe *wuns away* awen't any activities avaiwabwe to uu. Pewhaps uu don't meet da wequiwements...",
     "NothingHereYet": "Thewe's nothing hewe yet",
     "Objectives": "Objectives",
     "Offline": "Offwine",
@@ -1377,6 +1376,7 @@
     "ProfilesAssessed": "Pwofiwes Assessed"
   },
   "Weeklies": {
+    "NoActivitiesAvailable": "Thewe *wuns away* awen't any activities avaiwabwe to uu. Pewhaps uu don't meet da wequiwements...",
     "Challenges": {
       "ActivityBonus": "Activity Bonuses",
       "ArtifactPower": {

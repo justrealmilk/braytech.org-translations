@@ -161,7 +161,8 @@
     "Version": "版本",
     "TemporaryError": "Bungie發生了一個臨時錯誤",
     "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
   },
   "Auth": {
     "Data": {
@@ -405,7 +406,6 @@
     "Medal_plural": "獎章",
     "MembersOnline": "{{number}} 在綫",
     "Name": "名字",
-    "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求",
     "NothingHereYet": "這裏什麽都沒有",
     "Objectives": "目標",
     "Offline": "離綫",
@@ -1482,6 +1482,7 @@
     "ProfilesAssessed": "評估設定檔"
   },
   "Weeklies": {
+    "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求...",
     "Challenges": {
       "ActivityBonus": "活動加成",
       "ArtifactPower": {

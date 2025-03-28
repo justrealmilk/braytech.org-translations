@@ -161,7 +161,8 @@
     "Version": "Versión",
     "TemporaryError": "Se ha producido un error temporal de Bungie.",
     "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio.",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey."
+    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
   },
   "Auth": {
     "Data": {
@@ -405,7 +406,6 @@
     "Medal_plural": "Medallas",
     "MembersOnline": "{{number}} en línea",
     "Name": "Nombre",
-    "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
     "NothingHereYet": "No hay nada aquí todavía",
     "Objectives": "Objetivos",
     "Offline": "Fuera de línea",
@@ -1482,6 +1482,7 @@
     "ProfilesAssessed": "Perfiles evaluados"
   },
   "Weeklies": {
+    "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
     "Challenges": {
       "ActivityBonus": "Bonificaciones de actividad",
       "ArtifactPower": {

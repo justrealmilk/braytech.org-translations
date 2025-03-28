@@ -65,8 +65,7 @@
     "UserReady": "すぐに始める",
     "Update": "更新",
     "ViewHistoricalData": "データ履歴を見る",
-    "ViewMore": "続きを見る",
-    "WindowSize": "この機能は大きなウィンドウで最適に動作します。ウィンドウを大きくしてください。"
+    "ViewMore": "続きを見る"
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
@@ -162,7 +161,8 @@
     "Version": "バージョン",
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
     "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
-    "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。"
+    "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。",
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
   },
   "Auth": {
     "Data": {
@@ -406,7 +406,6 @@
     "Medal_plural": "メダル",
     "MembersOnline": "{{number}} はオンラインです",
     "Name": "名前",
-    "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "NothingHereYet": "まだ何も無いようです",
     "Objectives": "達成状況",
     "Offline": "オフライン",
@@ -491,7 +490,7 @@
     },
     "Form": {
       "Loadout": {
-        "Info": "ビルドを作成する前に、ゲーム内で装備を調整してください。APIが変更を反映するまでに時間がかかる場合があります。" 
+        "Info": "ビルドを作成する前に、ゲーム内で装備を調整してください。APIが変更を反映するまでに時間がかかる場合があります。"
       },
       "Name": {
         "Info": "比類のない美しさ、可愛らしさ、そして逞しさにふさわしいオリジナルの名前をつけましょう。",
@@ -1483,6 +1482,7 @@
     "ProfilesAssessed": "プレイヤー人数"
   },
   "Weeklies": {
+    "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "Challenges": {
       "ActivityBonus": "アクティビティボーナス",
       "ArtifactPower": {
