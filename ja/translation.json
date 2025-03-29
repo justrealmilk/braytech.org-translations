@@ -162,7 +162,8 @@
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
     "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
     "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
+    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
     "Data": {

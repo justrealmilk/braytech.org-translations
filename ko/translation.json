@@ -162,7 +162,8 @@
     "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
     "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
     "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
+    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
     "Data": {

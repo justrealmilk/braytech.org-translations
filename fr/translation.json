@@ -162,7 +162,8 @@
     "TemporaryError": "Une erreur Bungie temporaire s'est produite.",
     "MemberServiceInactive": "En raison de l'inactivité, le rafraîchissement en arrière-plan des données de votre profil a été interrompu. \n\nEn interagissant avec l'application, le service sera réactivé.",
     "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty."
+    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
+    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
     "Data": {
