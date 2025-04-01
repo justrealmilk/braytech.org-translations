@@ -1198,7 +1198,7 @@
     "Subscriptions": {
       "Info": "Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe to one of the following tiers for privileged features!",
       "Help": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "HelpMore": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).\n\nYour question may already been answered in [Frequently Asked Questions](/addendums/faq).\n\nIf you have feedback of any sort, please deliver it, [direct to me](mailto:subscriptions@bray.tech) or via [Discord](https://discord.bray.tech), so I may improve my service!",
+      "HelpMore": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).\n\nYour question may have been answered already in [Frequently Asked Questions](/addendums/faq).\n\nIf you have feedback of any sort, please deliver it, [direct to me](mailto:subscriptions@bray.tech) or via [Discord](https://discord.bray.tech), so I may improve my service!",
       "AuthRequired": "Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
