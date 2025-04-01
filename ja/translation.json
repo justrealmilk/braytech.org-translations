@@ -1221,7 +1221,9 @@
       "Connect": "接続",
       "Blog": "Braytechの開発はブログで随時更新。より面白く、有益な記事をお届けします。",
       "Discord": "Braytechコミュニティに参加して仲間たちと集まろう! 雑談、アイデア、バグ報告、アプリのヘルプもすぐに受け取れます。",
-      "NewSubs": "Braytechの継続を支援する、最近サブスクリプション登録した支援者の方々"
+      "NewSubs": "Braytechの継続を支援する、最近サブスクリプション登録した支援者の方々",
+      "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
+      "JustOnce": "🦘 Just Once"
     },
     "BraytechLegend": {
       "Updated": "階級がアップデートされました✨",
