@@ -109,6 +109,11 @@ const contributors = [
     membershipType: 3,
     membershipId: '4611686018483638871', // gevoup
   },
+  {
+    language: 'zh-CHS',
+    membershipType: 3,
+    membershipId: '4611686018499351600', // 势不可挡盾兵
+  },
 ];
 
 export default contributors;
