@@ -159,6 +159,7 @@
       "Name": "非対応のブラウザー"
     },
     "Version": "バージョン",
+    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
     "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
     "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。",
@@ -1030,9 +1031,6 @@
       "AlternateAppIcon": {
         "Info": "アプリのアイコンを変更する"
       },
-      "Bindings": {
-        "Info": "ボタンの外観を機種に合わせ変更します。これは現在、視覚のみの効果です。"
-      },
       "FlipSubviewNav": {
         "Info": "モバイルデバイス向けで、利き手が違う人のためにデザインを変更します",
         "Left": "左手モード",
@@ -1180,7 +1178,6 @@
       "IDB": "データベース容量",
       "Interface": {
         "AlternateAppIcon": "アプリのアイコン",
-        "Bindings": "キー入力表示設定",
         "FlipSubviewNav": "サブ画面のナビを反転させる",
         "ItemSize": "所持品のアイテムサイズ"
       },

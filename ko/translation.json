@@ -159,6 +159,7 @@
       "Name": "지원하지 않는 브라우저"
     },
     "Version": "버전",
+    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
     "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
     "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
     "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
@@ -1030,9 +1031,6 @@
       "AlternateAppIcon": {
         "Info": "🦘 Alter the appearance of the app's icon."
       },
-      "Bindings": {
-        "Info": "버튼 모양을 변경합니다. 시각적 효과일 뿐입니다."
-      },
       "FlipSubviewNav": {
         "Info": "튀고 싶거나 오른손으로 휴대폰을 사용하는 유저들을 위한 기능입니다.",
         "Left": "왼쪽",
@@ -1180,7 +1178,6 @@
       "IDB": "데이터베이스 저장소",
       "Interface": {
         "AlternateAppIcon": "🦘 App Icon",
-        "Bindings": "단축키",
         "FlipSubviewNav": "하위 보기 뒤집기",
         "ItemSize": "인벤토리 아이템"
       },

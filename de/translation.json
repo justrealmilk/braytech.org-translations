@@ -159,6 +159,7 @@
       "Name": "Nicht unterstützter Browser"
     },
     "Version": "Version",
+    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
     "TemporaryError": "Ein vorübergehender Fehler von Bungie trat auf.",
     "MemberServiceInactive": "Aufgrund von Inaktivität wurde die Hintergrundaktualisierung deiner Profildaten angehalten.\n\n Durch eine Interaktion mit der App wird der Dienst wieder aktiviert.",
     "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
@@ -1030,9 +1031,6 @@
       "AlternateAppIcon": {
         "Info": "Ändere das Aussehen des App-Symbols."
       },
-      "Bindings": {
-        "Info": "Ändere das Erscheinungsbild von Schaltflächen."
-      },
       "FlipSubviewNav": {
         "Info": "Für Benutzer, die anders sein wollen, und für Benutzer, die Braytech auf ihrem mobilen Gerät mit der rechten Hand bedienen.",
         "Left": "Links",
@@ -1180,7 +1178,6 @@
       "IDB": "Datenbank-Speicher",
       "Interface": {
         "AlternateAppIcon": "App Symbol",
-        "Bindings": "Anbindung",
         "FlipSubviewNav": "Drehe Subview Navigation",
         "ItemSize": "Gegestandsgröße im Inventar"
       },

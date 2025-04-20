@@ -159,6 +159,7 @@
       "Name": "不支持当前浏览器中使用。"
     },
     "Version": "版本",
+    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
     "TemporaryError": "Bungie 发生了一个临时错误。",
     "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新",
     "WindowSize": "这种体验在更大的窗口中效果最好。把它弄大一点，亲爱的。",
@@ -1030,9 +1031,6 @@
       "AlternateAppIcon": {
         "Info": "更换APP图标"
       },
-      "Bindings": {
-        "Info": "替换按钮外观，仅影响视觉效果。"
-      },
       "FlipSubviewNav": {
         "Info": "专为与众不同以及在移动设备上用右手使用 Braytech 的用户提供！",
         "Left": "左",
@@ -1180,7 +1178,6 @@
       "IDB": "数据库存储",
       "Interface": {
         "AlternateAppIcon": "应用图标",
-        "Bindings": "按钮外观",
         "FlipSubviewNav": "翻转子视图导航",
         "ItemSize": "库存物品图标尺寸"
       },
