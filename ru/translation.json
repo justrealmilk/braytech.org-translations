@@ -1377,7 +1377,7 @@
       "Expires": "Срок действия истекает в конце Сезона {{season}}",
       "IntervalFraction": "{{numerator}} из {{denominator}}",
       "Score": "Очки триумфов, начисляемые за получение триумфа.",
-      "ScoreInterval": "Очки триумфов начисляемые за текущий этап в сравнении с очками за все этапы."
+      "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
     "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",

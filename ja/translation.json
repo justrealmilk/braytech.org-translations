@@ -1377,7 +1377,7 @@
       "Expires": "シーズン{{season}}終了時に期限切れとなります。",
       "IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
       "Score": "このレコードの勝利スコアは有限です。",
-      "ScoreInterval": "合計レコード値に対する次に獲得するスコア値"
+      "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "あなたのアクティブな勝利の道のりスコアは **{{number}}** です（Braytech算出）。達成可能な勝利の道のりから計算されています。",
     "BungieActiveScore": "Bungieでの公式スコアは{{number}}です。コンテンツ更新によって勝利の道のりが削除、またはスコア変更されていない場合は差異が発生することがあります。",

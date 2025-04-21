@@ -1377,7 +1377,7 @@
       "Expires": "Expira no final da Temporada {{season}}",
       "IntervalFraction": "{{numerator}} de {{denominator}}",
       "Score": "A pontuação total deste triunfo.",
-      "ScoreInterval": "O intervalo atual de pontuação sobre a pontuação total."
+      "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
     "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",

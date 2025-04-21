@@ -1377,7 +1377,7 @@
       "Expires": "在 {{season}} 賽季結束時失效",
       "IntervalFraction": " {{numerator}} 的 {{denominator}}",
       "Score": " 該記錄的有限成就分數值.",
-      "ScoreInterval": "在總記錄值的下一個未兌換區間的分數值."
+      "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
     "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",

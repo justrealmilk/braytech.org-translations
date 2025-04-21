@@ -1377,7 +1377,7 @@
       "Expires": "在 {{season}} 赛季结束时过期",
       "IntervalFraction": "{{denominator}} 分之 {{numerator}}",
       "Score": "这个成就的分数",
-      "ScoreInterval": "距离下次获取成就分所需要的数目"
+      "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "您的活跃成就得分是 **{{number}}**，由Braytech确定。此值是通过检查可用的成就来计算的。",
     "BungieActiveScore": "根据Bungie，你的得分是 **{{number}}**。这可能有误，因为它可能没有考虑一些后来被移除或分数值改变的成就。",
