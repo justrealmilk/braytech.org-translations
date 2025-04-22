@@ -1484,6 +1484,7 @@
   },
   "Weeklies": {
     "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям...",
+    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
     "Challenges": {
       "ActivityBonus": "Бонус Активности",
       "ArtifactPower": {

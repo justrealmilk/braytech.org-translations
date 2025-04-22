@@ -1484,6 +1484,7 @@
   },
   "Weeklies": {
     "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求...",
+    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
     "Challenges": {
       "ActivityBonus": "活動加成",
       "ArtifactPower": {

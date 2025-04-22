@@ -1484,6 +1484,7 @@
   },
   "Weeklies": {
     "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
+    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
     "Challenges": {
       "ActivityBonus": "활동 보너스",
       "ArtifactPower": {
