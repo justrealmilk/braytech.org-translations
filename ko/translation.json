@@ -27,7 +27,7 @@
     "GatherInVault": "금고에 모으기",
     "GoToBNet": "Bungie.net으로 이동",
     "GoToMaps": "지도로 이동",
-    "GoToTwitter": "트위터로 이동",
+    "GoToBluesky": "🦘 Go to Bluesky",
     "HideAcquired": "획득한 항목 숨김",
     "HideCollectionsRolls": "가능한 특성 ",
     "HideCompleted": "완료한 항목 숨김",
@@ -157,6 +157,10 @@
     "UnsupportedBrowser": {
       "Description": "Braytech는 작동을 위해 최신 브라우저의 기능들이 필요합니다. 1년 이상 지난 브라우저들이 Braytech의 최소 지원 브라우저로 설정되어 있습니다. 따라서 이 메시지를 보게 되었다면, 새 것으로 옮길 때가 되었다는 것입니다.\n\nMicrosoft Edge와 같은 Chromium 기반 브라우저가 권장됩니다.@className=warning@",
       "Name": "지원하지 않는 브라우저"
+    },
+    "AuthReset": {
+      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
+      "Name": "🦘 Authentication Reset"
     },
     "Version": "버전",
     "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",

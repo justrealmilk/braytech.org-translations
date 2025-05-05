@@ -27,7 +27,7 @@
     "GatherInVault": "すべて保管庫に送る",
     "GoToBNet": "Bungie.netへ進む",
     "GoToMaps": "マップへ進む",
-    "GoToTwitter": "Twitterへ進む",
+    "GoToBluesky": "🦘 Go to Bluesky",
     "HideAcquired": "取得済みを表示しない",
     "HideCollectionsRolls": "可能性があるロールを隠す",
     "HideCompleted": "完了済みを表示しない",
@@ -157,6 +157,10 @@
     "UnsupportedBrowser": {
       "Description": "Braytechを動作させるためには、最新のブラウザが必要です。1年以上前のブラウザでもBraytechを動作させることができるよう、最小のブラウザ要件が設定されています。そのため、このメッセージが表示された場合はブラウザをアップデートする時期です。\n\n Microsoft EdgeなどのChromiumベースのブラウザを推奨します。@className=warning@",
       "Name": "非対応のブラウザー"
+    },
+    "AuthReset": {
+      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
+      "Name": "🦘 Authentication Reset"
     },
     "Version": "バージョン",
     "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",

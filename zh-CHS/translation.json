@@ -27,7 +27,7 @@
     "GatherInVault": "移入保险库",
     "GoToBNet": "前往 Bungie.net",
     "GoToMaps": "前往地图",
-    "GoToTwitter": "前往 Twitter",
+    "GoToBluesky": "🦘 Go to Bluesky",
     "HideAcquired": "隐藏已取得项",
     "HideCollectionsRolls": "隐藏可能的特性组合",
     "HideCompleted": "隐藏已完成项",
@@ -157,6 +157,10 @@
     "UnsupportedBrowser": {
       "Description": "Braytech 需要现代化的浏览器来运作。运行 Braytech 浏览器的最低要求为最近一年有过更新记录。所以，如果你遇到了本提示，是时候换个新的浏览器了。\n\n推荐使用基于Chromium的浏览器，比如 Microsoft Edge 。@className=warning@",
       "Name": "不支持当前浏览器中使用。"
+    },
+    "AuthReset": {
+      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
+      "Name": "🦘 Authentication Reset"
     },
     "Version": "版本",
     "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",

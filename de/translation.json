@@ -27,7 +27,7 @@
     "GatherInVault": "Im Tresor sammeln",
     "GoToBNet": "Besuche Bungie.net",
     "GoToMaps": "Zur Karte",
-    "GoToTwitter": "Besuche Twitter",
+    "GoToBluesky": "🦘 Go to Bluesky",
     "HideAcquired": "Erlangte Einträge ausblenden",
     "HideCollectionsRolls": "Verstecke mögliche Rolls",
     "HideCompleted": "Abgeschlossene Einträge ausblenden",
@@ -157,6 +157,10 @@
     "UnsupportedBrowser": {
       "Description": "Braytech benötigt moderne Browserfunktionen, um zu funktionieren. Die Mindestanforderungen an den Browser sind so festgelegt, dass Braytech auch mit Browsern ausgeführt werden kann, die weit über ein Jahr alt sind. Wenn du diese Meldung siehst, ist es an der Zeit, einen neuen Browser zu verwenden. Wir empfehlen einen Chromium-basierten Browser wie Microsoft Edge.@className=warning@",
       "Name": "Nicht unterstützter Browser"
+    },
+    "AuthReset": {
+      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
+      "Name": "🦘 Authentication Reset"
     },
     "Version": "Version",
     "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
