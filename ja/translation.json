@@ -742,6 +742,10 @@
     "AggregateActivityStats": {
       "Description": "経験の積み重ね\n\n確かにこれまで「神」を倒し、その残骸から武器を形成してきました。一方で、 どれほど非情に彼らを殺してきたでしょうか...",
       "Name": "アクティビティステータス集計"
+    },
+    "Share": {
+      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
+      "Name": "🦘 Share"
     }
   },
   "Loading": {

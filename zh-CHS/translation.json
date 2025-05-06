@@ -742,6 +742,10 @@
     "AggregateActivityStats": {
       "Description": "累积经验\n\n当然，你摧毁了“神明”，在某些情况下，还用它们的残骸打造了武器，但你到底多少次毫无思考地消灭了它们...",
       "Name": "累积活动统计"
+    },
+    "Share": {
+      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
+      "Name": "🦘 Share"
     }
   },
   "Loading": {

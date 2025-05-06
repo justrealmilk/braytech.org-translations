@@ -742,6 +742,10 @@
     "AggregateActivityStats": {
       "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
       "Name": "🦘 Aggregate Activity Stats"
+    },
+    "Share": {
+      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
+      "Name": "🦘 Share"
     }
   },
   "Loading": {

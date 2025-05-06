@@ -742,6 +742,10 @@
     "AggregateActivityStats": {
       "Description": "Накопленный Опыт\n\nКонечно, вы уничтожали \"богов,\" а иногда даже создавали оружие из их останков, но сколько раз вы бездумно убивали их?..",
       "Name": "Совокупная Статистика Активностей"
+    },
+    "Share": {
+      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
+      "Name": "🦘 Share"
     }
   },
   "Loading": {
