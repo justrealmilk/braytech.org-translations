@@ -305,8 +305,8 @@
     "SomeAcquiredSomeInvisible": "Some acquiwed, {{invisible}} invisibwe"
   },
   "Commendations": {
-    "Received": "Weceived",
-    "ReceivedAbr": "*boops uuw nose* Wecvd.",
+    "Received": "*boops uuw nose* Weceived",
+    "ReceivedAbr": "Wecvd.",
     "ScoreCardReceived": "Weceive fow **{{number}}** scowe",
     "ScoreCardSend": "Send fow **{{number}}** scowe",
     "Sent": "Sent",
