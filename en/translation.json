@@ -896,7 +896,7 @@
   "ProfileSearch": {
     "ActiveProfile": "Active Profile",
     "ChangeProfile": "Change Profile",
-    "CrossSaveProfile": "This player has enabled Cross Save. Their active profile is marked.",
+    "CrossSaveProfile": "This player has enabled Cross Save.",
     "Error": {
       "Network": {
         "Description": "A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
