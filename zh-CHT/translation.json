@@ -884,7 +884,7 @@
       "DescriptionFull": "郵差用完了所有空間.如果妳不收回妳的物品, 妳會永遠失去它們!",
       "Name": "警告!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "您的設備取消了Voluspa向您發送推送通知的權限 \n\n如果這不是您想要的，您可能要檢查您的設置",
       "Name": "通知推送"
     }

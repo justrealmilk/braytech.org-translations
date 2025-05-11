@@ -884,7 +884,7 @@
       "DescriptionFull": "邮政长已经用完了所有空间。如果你不取回你的物品，后面所丢失的物品会顶替掉最老的那个！",
       "Name": "警告!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "在你外出时，你的设备已经取消了 Voluspa 向你推送通知的权限。\n\n如果你不希望这样，可能需要检查你的设置。",
       "Name": "通知推送"
     }

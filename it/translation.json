@@ -884,7 +884,7 @@
       "DescriptionFull": "L'Amministratore è pieno. Se non ritiri i tuoi oggetti li perderai per sempre!",
       "Name": "Attenzione!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "Mentre eri fuori a toccare l'erba, il tuo dispositivo ha revocato l'autorizzazione di Voluspa a inviarti notifiche push.\n\nPuoi rivedere le tue impostazioni se non è quello che volevi.",
       "Name": "Notifiche push"
     }

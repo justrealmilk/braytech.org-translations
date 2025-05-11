@@ -884,7 +884,7 @@
       "DescriptionFull": "La administración está llena. ¡Si no recoges tus objetos, los perderás para siempre!",
       "Name": "¡ADVERTENCIA!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "Mientras estabas afuera tocando hierba, tu dispositivo ha anulado la autorización a Voluspa para enviarte notificaciones _push_.\n\nEs posible que quieras revisar tu configuración si esto no es lo que querías.",
       "Name": "Notificaciones push"
     }

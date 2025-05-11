@@ -884,7 +884,7 @@
       "DescriptionFull": "ポストマスターのスペースがありません。アイテムを回収しないと、アイテムは永久に失われます！",
       "Name": "注意！"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "おそらく外出中の誤操作などで、Voluspaのプッシュ通知を送る権限を取り消してしまったと思われます。\n\n プッシュ通知を有効にしたい場合は、設定を確認してください。",
       "Name": "プッシュ通知"
     }

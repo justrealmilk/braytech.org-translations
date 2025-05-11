@@ -884,7 +884,7 @@
       "DescriptionFull": "Die Poststelle ist komplett voll. Wenn du deine Gegenstände nicht abholst, gehen sie für immer verloren!",
       "Name": "WARNUNG!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "Während du draußen Gras berührt hast, hat dein Gerät Voluspa die Berechtigung entzogen, dir Push-Benachrichtigungen zu senden.\n\nDu solltest deine Einstellungen überprüfen, wenn das nicht das ist, was du wolltest.",
       "Name": "Push Benachrichtungen"
     }

@@ -884,7 +884,7 @@
       "DescriptionFull": "Le commis des postes est complètement à court d'espace. Si vous ne récupérez pas vos objets, vous les perdrez pour toujours !",
       "Name": "ATTENTION !"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "Pendant que vous touchiez de l'herbe, votre appareil a annulé l'autorisation de Voluspa de vous envoyer des notifications 'Push'.\n\nVous pouvez revoir vos paramètres si ce n'est pas ce que vous vouliez.",
       "Name": "Notifications 'Push'"
     }

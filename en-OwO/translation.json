@@ -864,7 +864,7 @@
       "DescriptionFull": "Da Postmastew is compwetewy out of space. If uu do not wetwieve uuw items, uu wiww wose them fowevew! OwO",
       "Name": "Wawning! OwO"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "Whiwe uu wewe out touching gwass, uuw device wescinded Vowuspa's authowity to send uu push notifications.\n\nUu may want to weview uuw settings if this is not what uu wanted.",
       "Name": "Push Notifications"
     }

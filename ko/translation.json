@@ -884,7 +884,7 @@
       "DescriptionFull": "우편함이 완전히 가득찼습니다. 아이템을 회수하지 않으면, 완전히 잃어버리게 됩니다!",
       "Name": "경고!"
     },
-    "PushNotifications": {
+    "SubscriptionEndpointChanged": {
       "Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
       "Name": "🦘 Push Notifications"
     }
