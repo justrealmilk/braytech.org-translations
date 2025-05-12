@@ -1495,6 +1495,10 @@
   "Weeklies": {
     "NoActivitiesAvailable": "There aren't any activities available to you. Perhaps you don't meet the requirements...",
     "NoActivitiesAvailableNoLicense": "There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "DailyChallenges": "Daily Challenges",
+      "WeeklyChallenges": "Weekly Challenges"
+    },
     "Challenges": {
       "ActivityBonus": "Activity Bonuses",
       "ArtifactPower": {
