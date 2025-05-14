@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "Comms.",
     "Completed": "Completed",
     "CruciblePlaylist": "Crucible Playlist",
+    "Currency": "Currency",
+    "Currency_plural": "Currencies",
     "DateTime": "Date Time",
     "Emblem": "Emblem",
     "Emblem_plural": "Emblems",
@@ -1499,7 +1501,9 @@
     "Event": {
       "Rank": "Event Rank",
       "DailyChallenges": "Daily Challenges",
-      "WeeklyChallenges": "Weekly Challenges"
+      "WeeklyChallenges": "Weekly Challenges",
+      "TriumphsInfo": "This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "Event ends in **{{duration}}**"
     },
     "Challenges": {
       "ActivityBonus": "Activity Bonuses",
