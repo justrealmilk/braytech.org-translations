@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "🦘 Comms.",
     "Completed": "완료함",
     "CruciblePlaylist": "🦘 Crucible Playlist",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "날짜/시간",
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
@@ -434,6 +436,7 @@
     "Report_plural": "🦘 Reports",
     "Reputation": "평판",
     "Reset": "초기화",
+    "Reset_plural": "🦘 Resets",
     "Reward": "🦘 Reward",
     "Reward_plural": "보상",
     "Savathûn'sCurse": "사바툰의 저주",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "활동 보너스",
       "ArtifactPower": {

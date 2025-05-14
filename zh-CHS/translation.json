@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "嘉奖",
     "Completed": "已完成",
     "CruciblePlaylist": "熔炉游戏列表",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "时间",
     "Emblem": "徽标",
     "Emblem_plural": "徽标",
@@ -434,6 +436,7 @@
     "Report_plural": "报告",
     "Reputation": "声誉等级",
     "Reset": "重置",
+    "Reset_plural": "🦘 Resets",
     "Reward": "奖励",
     "Reward_plural": "奖励",
     "Savathûn'sCurse": "萨瓦图恩之咒",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "没有任何活动可以让你选，也许他们都不符合你的要求...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "当前启用的加成",
       "ArtifactPower": {

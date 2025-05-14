@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "Encomi",
     "Completed": "Completato",
     "CruciblePlaylist": "Playlist Crogiolo",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "Data e orario",
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemi",
@@ -434,6 +436,7 @@
     "Report_plural": "Riepiloghi",
     "Reputation": "Reputazione",
     "Reset": "Reset",
+    "Reset_plural": "🦘 Resets",
     "Reward": "Ricompensa",
     "Reward_plural": "Ricompense",
     "Savathûn'sCurse": "Maledizione di Savathûn",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "Non ci sono attività disponibili per te. Forse non soddisfi i requisiti...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "Bonus attività",
       "ArtifactPower": {

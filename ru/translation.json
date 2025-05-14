@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "Похв.",
     "Completed": "Выполнено",
     "CruciblePlaylist": "Плейлисты Горнила",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "Дата и время",
     "Emblem": "Эмблема",
     "Emblem_plural": "Эмблемы",
@@ -434,6 +436,7 @@
     "Report_plural": "Активности",
     "Reputation": "Репутация",
     "Reset": "Сбросить",
+    "Reset_plural": "🦘 Resets",
     "Reward": "Награда",
     "Reward_plural": "Награды",
     "Savathûn'sCurse": "Проклятие Саватун",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "Бонус Активности",
       "ArtifactPower": {

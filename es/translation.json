@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "Menc.",
     "Completed": "Completado",
     "CruciblePlaylist": "Lista de juego de Crisol",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "Fecha y hora",
     "Emblem": "Emblema",
     "Emblem_plural": "Emblemas",
@@ -434,6 +436,7 @@
     "Report_plural": "Informes",
     "Reputation": "Reputación",
     "Reset": "Reiniciar",
+    "Reset_plural": "🦘 Resets",
     "Reward": "Recompensa",
     "Reward_plural": "Recompensas",
     "Savathûn'sCurse": "Maldición de Savathûn",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "Bonificaciones de actividad",
       "ArtifactPower": {

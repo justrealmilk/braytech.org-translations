@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "🦘 Comms.",
     "Completed": "完整",
     "CruciblePlaylist": "🦘 Crucible Playlist",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "時間",
     "Emblem": "🦘 Emblem",
     "Emblem_plural": "🦘 Emblems",
@@ -434,6 +436,7 @@
     "Report_plural": "🦘 Reports",
     "Reputation": "聲望等級",
     "Reset": "重置",
+    "Reset_plural": "🦘 Resets",
     "Reward": "奖励",
     "Reward_plural": "獎勵",
     "Savathûn'sCurse": "薩瓦圖恩詛咒",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "活動加成",
       "ArtifactPower": {

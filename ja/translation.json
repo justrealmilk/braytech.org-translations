@@ -356,6 +356,8 @@
     "CommendationAbr_plural": "称賛",
     "Completed": "完了",
     "CruciblePlaylist": "クルーシブルプレイリスト",
+    "Currency": "🦘 Currency",
+    "Currency_plural": "🦘 Currencies",
     "DateTime": "日時",
     "Emblem": "エンブレム",
     "Emblem_plural": "エンブレム",
@@ -434,6 +436,7 @@
     "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",
+    "Reset_plural": "🦘 Resets",
     "Reward": "報酬",
     "Reward_plural": "報酬",
     "Savathûn'sCurse": "サバスンの呪い",
@@ -1495,6 +1498,13 @@
   "Weeklies": {
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "Event": {
+      "Rank": "🦘 Event Rank",
+      "DailyChallenges": "🦘 Daily Challenges",
+      "WeeklyChallenges": "🦘 Weekly Challenges",
+      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
+      "EndsIn": "🦘 Event ends in **{{duration}}**"
+    },
     "Challenges": {
       "ActivityBonus": "アクティビティボーナス",
       "ArtifactPower": {
