@@ -739,9 +739,9 @@
       "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
       "Name": "Печати триумфов"
     },
-    "Fishing": {
-      "Description": "Улов дня\n\nБросьте утяжеленную леску, продемонстрируйте свой аквариум, и соревнуйтесь, сравнивая свои самые лучшие уловы с другими рыболовами.",
-      "Name": "Соревновательная рыбалка"
+    "Gambit": {
+      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
+      "Name": "🦘 Gambit"
     },
     "AggregateActivityStats": {
       "Description": "Накопленный Опыт\n\nКонечно, вы уничтожали \"богов,\" а иногда даже создавали оружие из их останков, но сколько раз вы бездумно убивали их?..",

@@ -739,9 +739,9 @@
       "Description": "勝利のエンブレム\n\n完全を極める者の栄誉。誇りをもって身に着けよ。",
       "Name": "調印"
     },
-    "Fishing": {
-      "Description": "今日のフィッシング\n\n釣り竿をキャストし、水槽を豪華にして、仲間と釣果を競争しよう。",
-      "Name": "競技フィッシング"
+    "Gambit": {
+      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
+      "Name": "🦘 Gambit"
     },
     "AggregateActivityStats": {
       "Description": "経験の積み重ね\n\n確かにこれまで「神」を倒し、その残骸から武器を形成してきました。一方で、 どれほど非情に彼らを殺してきたでしょうか...",

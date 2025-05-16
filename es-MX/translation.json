@@ -739,9 +739,9 @@
       "Description": "Emblemas de victoria\n\nLa quintaesencia de un completista y coleccionista; llévalos con gusto.",
       "Name": "Triunfos del sello"
     },
-    "Fishing": {
-      "Description": "Captura del día\n\nLanza un sedal lastrado, exhibe tu acuario y compite por las mejores capturas comparándolas con las de otros pescadores.",
-      "Name": "Pesca de competición"
+    "Gambit": {
+      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
+      "Name": "🦘 Gambit"
     },
     "AggregateActivityStats": {
       "Description": "Experiencia acumulada\n\nClaro que has aniquilado \"dioses\" y, en algunos casos, has fabricado armas con sus restos, pero ¿cuántas veces los has asesinado sin pensar...?",
