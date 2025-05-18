@@ -19,7 +19,7 @@
     "Disable": "Отключить",
     "Dismiss": "Закрыть",
     "Done": "Применить",
-    "Edit": "🦘 Edit",
+    "Edit": "Изменить",
     "Enable": "Включить",
     "Equip": "🦘 Equip",
     "Expand": "Расширить",
@@ -27,7 +27,7 @@
     "GatherInVault": "Собрать в Хранилище",
     "GoToBNet": "Перейти на Bungie.net",
     "GoToMaps": "Перейти к картам",
-    "GoToBluesky": "🦘 Go to Bluesky",
+    "GoToBluesky": "Перейти на Bluesky",
     "HideAcquired": "Скрыть полученные",
     "HideCollectionsRolls": "Скрыть возможные роллы",
     "HideCompleted": "Скрыть выполненные",
@@ -37,8 +37,8 @@
     "Jump": "Перепрыгнуть",
     "Lock": "Заблокировать",
     "Logout": "Выйти",
-    "Mark": "🦘 Mark",
-    "Unmark": "🦘 Unmark",
+    "Mark": "Отметить",
+    "Unmark": "Разметить",
     "MemberRemove": "Удалить участника",
     "NextNth": "Следующие {{number}}",
     "SeeNextNth": "Ваши частично выполненные триумфы. Выбирайте цель и приступайте!",
@@ -54,8 +54,8 @@
     "SelectDate": "Выбрать дату",
     "SelectMasterwork": "Выбрать Абсолют",
     "Set": "Установить",
-    "Snatch": "🦘 Snatch",
-    "Submit": "🦘 Submit",
+    "Snatch": "Урвать",
+    "Submit": "Отправить",
     "Share": "Поделиться",
     "ShowAll": "Показать всё",
     "ShowCollectionsRolls": "Показать возможные роллы",
@@ -63,7 +63,7 @@
     "TryAgain": "Попробовать снова",
     "Unlock": "Разблокировать",
     "UserReady": "Поехали!",
-    "Update": "🦘 Update",
+    "Update": "Обновить",
     "ViewHistoricalData": "Показать данные за прошлые периоды",
     "ViewMore": "Показать больше"
   },
@@ -159,16 +159,16 @@
       "Name": "Неподдерживаемый браузер"
     },
     "AuthReset": {
-      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
-      "Name": "🦘 Authentication Reset"
+      "Description": "Во времени обновлений входа, Bungie вернули неожиданную ошибку. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
+      "Name": "Авторизация стёрта"
     },
     "Version": "Версия",
-    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
+    "Updated": "Braytech обновился на новейшую версию! Посмотри историю изменений для деталей. Нажми сюда чтобы перейти в нею!",
     "TemporaryError": "Произошла временная ошибка на стороне Bungie.",
     "MemberServiceInactive": "Из-за неактивности, фоновое обновление данных вашего профиля приостановлено.\n\nВзаимодействие с приложением возобновит работу сервиса.",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
-    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
+    "WindowSize": "Это приложение работает лучше всего в большем окне. Сделай его больше, дорогой.",
+    "MilestonesError": "🦘 Milestones data failed to load. API Bungie могут испытывать проблемы на данный момент.",
+    "APIIssue": "Знанная [Bungie API проблема]({{url}}) не позволяет Braytech корректно это показывать на данный момент."
   },
   "Auth": {
     "Data": {
@@ -189,7 +189,7 @@
       "Text": "Авторизуйтесь на сайте Bungie.net, чтобы увидеть здесь список ваших друзей Bungie! Это удобный быстрый доступ к тому, чтобы видеть кто сейчас в сети и смотреть профили друг друга!"
     },
     "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
+      "Text": "Авторизуйтесь с Bungie.net чтобы создавать и изменять свои Dresstiny наряды!"
     },
     "Login": "Зайти через Bungie.net",
     "Memberships": {
@@ -305,9 +305,9 @@
     "RecentlyDiscovered": "Недавно найденные",
     "SetComplete": "Коллекция завершена",
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
-    "Encounter": "Этап",
-    "AnyEncounter": "Любой Этап",
-    "FinalEncounter": "🦘 Final Encounter"
+    "Encounter": "Столкновение",
+    "AnyEncounter": "Лобое Столкновение",
+    "FinalEncounter": "Финальное Столкновение"
   },
   "Commendations": {
     "Received": "Получено",
@@ -332,8 +332,8 @@
     "AscendantChallenge": "Высшее испытание",
     "Available": "Доступно",
     "AvailableActivities": "Доступные активности",
-    "App_plural": "🦘 Apps",
-    "Browse": "🦘 Browse",
+    "App_plural": "Приложения",
+    "Browse": "Обзор",
     "BrowseNthMembers_plural": "Обзор {{number}} участников",
     "Cancel": "Отмена",
     "Challenge": "Испытание",
@@ -356,8 +356,8 @@
     "CommendationAbr_plural": "Похв.",
     "Completed": "Выполнено",
     "CruciblePlaylist": "Плейлисты Горнила",
-    "Currency": "🦘 Currency",
-    "Currency_plural": "🦘 Currencies",
+    "Currency": "Валюта",
+    "Currency_plural": "Валюты",
     "DateTime": "Дата и время",
     "Emblem": "Эмблема",
     "Emblem_plural": "Эмблемы",
@@ -371,8 +371,8 @@
     "EventNth": "1 Событие",
     "EventNth_plural": "{{count}} Событий",
     "Examples": "Примеры",
-    "Exotic": "🦘 Exotic",
-    "Experience": "🦘 Experience",
+    "Exotic": "Экзотика",
+    "Experience": "Опыт",
     "Expiration": "Срок действия",
     "Expired": "Истекло",
     "Expiry": "Истечение",
@@ -380,9 +380,9 @@
     "FeaturedEvent": "Мероприятие",
     "FeaturedNightfall": "Сумрачный Налёт",
     "FeaturedPlaylist": "Плейлист",
-    "Filter": "🦘 Filter",
-    "Filter_plural": "🦘 Filters",
-    "FiltersApplied": "🦘 Filters Applied",
+    "Filter": "Фильтр",
+    "Filter_plural": "Фильтры",
+    "FiltersApplied": "Фильтры включены",
     "Fireteam": "Боевая группа",
     "Fireteam_plural": "Боевые группы",
     "FireteamMembers": "Члены боевой группы",
@@ -405,9 +405,9 @@
     "LoadoutSlotPreview": "Предпросмотр Слота Комплекта {{number}}",
     "Slot": "Ячейка {{number}}",
     "LevelNth": "Уровень {{number}}",
-    "LikeNth": "🦘 **1** Like",
-    "LikeNth_plural": "🦘 **{{number}}** Likes",
-    "Like_plural": "🦘 Likes",
+    "LikeNth": "**1** Оайк",
+    "LikeNth_plural": "**{{number}}** Лайков",
+    "Like_plural": "Лайки",
     "Location": "Локация",
     "Lore": "Истории",
     "LoreBook": "Книги лора",
@@ -432,11 +432,11 @@
     "Rank_plural": "Ранги",
     "Rarity": "Редкость",
     "Recent": "Недавнее",
-    "Redacted": "🦘 Redacted",
+    "Redacted": "Отредактировано",
     "Report_plural": "Активности",
     "Reputation": "Репутация",
     "Reset": "Сбросить",
-    "Reset_plural": "🦘 Resets",
+    "Reset_plural": "Сбросыивания",
     "Reward": "Награда",
     "Reward_plural": "Награды",
     "Savathûn'sCurse": "Проклятие Саватун",
@@ -456,11 +456,11 @@
     "Source": "Источник",
     "SpecialCommendationAbr_plural": "Ос. похв.",
     "SpecialCommendation_plural": "Особая похв.",
-    "Statistics": "🦘 Statistics",
+    "Statistics": "Статистики",
     "Submit": "Подтвердить",
     "Support": "Поддержка",
     "TimePlayed": "Времени в игре",
-    "TimeStarted": "🦘 Time Started",
+    "TimeStarted": "Время Начато",
     "TimeRemaining": "До отбытия",
     "TopNth": "Топ {{number}}",
     "Translator_plural": "Переводчики",
@@ -473,7 +473,7 @@
     "LegacyTriumphs": "Прошлые Триумфы",
     "Unknown": "Неизвестно",
     "Year": "Год",
-    "You": "🦘 You",
+    "You": "Ты",
     "Users": "Пользователи",
     "Username": "Имя Пользователя",
     "ValorPoints": "Очков доблести",
@@ -488,54 +488,54 @@
     "XP": "{{number}} Опыта"
   },
   "Dresstiny": {
-    "Fit": "🦘 Fit",
-    "Fit_plural": "🦘 Fits",
-    "Popular": "🦘 Popular",
+    "Fit": "Fit",
+    "Fit_plural": "Fits",
+    "Popular": "Popular",
     "CreateFit": {
-      "Name": "🦘 Create",
-      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+      "Name": "Create",
+      "Description": "Create a new fit based on your equipment or fantasy."
     },
     "AlterFit": {
-      "Name": "🦘 Alter",
-      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+      "Name": "Alter",
+      "Description": "Alter an existing fit and pull tight any loose threads."
     },
     "Form": {
       "Loadout": {
-        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+        "Info": "Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes. **The latest API data is from {{time}}.**"
       },
       "Name": {
-        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "🦘 <name>"
+        "Info": "An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Placeholder": "<name>"
       },
       "Description": {
-        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "🦘 <description>"
+        "Info": "Descriptions are optional and should be 256 characters or fewer.",
+        "Placeholder": "<description>"
       },
       "Screenshot": {
-        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
-        "Placeholder": "🦘 <screenshot>"
+        "Info": "Screenshots should be captured from the **Customize Appearance** screen in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
+        "Placeholder": "<screenshot>"
       },
       "Url": {
-        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "🦘 <url> [optional]"
+        "Info": "Include a link to your Reddit r/DestinyFashion post.",
+        "Placeholder": "<url> [optional]"
       }
     },
     "Stats": {
       "Total": {
-        "Info": "🦘 The length of this zesty lookbook.",
-        "Name": "🦘 Total"
+        "Info": "The length of this zesty lookbook.",
+        "Name": "Total"
       },
       "Likes": {
-        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "🦘 Likes"
+        "Info": "The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
+        "Name": "Likes"
       },
       "Members": {
-        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "🦘 Members"
+        "Info": "The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Name": "Members"
       },
       "ClassDistribution": {
-        "Info": "🦘 It's a popularity contest–this is how it's won.",
-        "Name": "🦘 Class Distribution"
+        "Info": "It's a popularity contest–this is how it's won.",
+        "Name": "Class Distribution"
       }
     }
   },
