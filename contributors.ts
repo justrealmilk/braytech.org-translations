@@ -114,6 +114,11 @@ const contributors = [
     membershipType: 3,
     membershipId: '4611686018499351600', // 势不可挡盾兵
   },
+  {
+    language: 'ru',
+    membershipType: 6,
+    membershipId: '4611686018529845456', // Lunairayz
+  },
 ];
 
 export default contributors;
