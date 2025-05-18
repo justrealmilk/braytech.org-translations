@@ -21,7 +21,7 @@
     "Done": "Применить",
     "Edit": "Изменить",
     "Enable": "Включить",
-    "Equip": "🦘 Equip",
+    "Equip": "Экипируй",
     "Expand": "Расширить",
     "ExpandFilters": "Развернуть Фильтры",
     "GatherInVault": "Собрать в Хранилище",
@@ -167,7 +167,7 @@
     "TemporaryError": "Произошла временная ошибка на стороне Bungie.",
     "MemberServiceInactive": "Из-за неактивности, фоновое обновление данных вашего профиля приостановлено.\n\nВзаимодействие с приложением возобновит работу сервиса.",
     "WindowSize": "Это приложение работает лучше всего в большем окне. Сделай его больше, дорогой.",
-    "MilestonesError": "🦘 Milestones data failed to load. API Bungie могут испытывать проблемы на данный момент.",
+    "MilestonesError": "Не удалось загрузить данные о вехах. API Bungie могут испытывать проблемы на данный момент.",
     "APIIssue": "Знанная [Bungie API проблема]({{url}}) не позволяет Braytech корректно это показывать на данный момент."
   },
   "Auth": {
@@ -209,7 +209,7 @@
       "UnusedEnergy": "Неиспользованная энергия"
     },
     "Compare": {
-      "ObtainFromVendor": "Получить из {{name}}"
+      "ObtainFromVendor": "Получить от {{name}}"
     },
     "DiffProfile": "Вы просматриваете чей-то профиль. Вы можете смотреть, но если вы попытаетесь нажимать на кнопки, не ждите результатов!",
     "Placeholder": "введите название предмета"
@@ -405,12 +405,12 @@
     "LoadoutSlotPreview": "Предпросмотр Слота Комплекта {{number}}",
     "Slot": "Ячейка {{number}}",
     "LevelNth": "Уровень {{number}}",
-    "LikeNth": "**1** Оайк",
+    "LikeNth": "**1** Лайк",
     "LikeNth_plural": "**{{number}}** Лайков",
     "Like_plural": "Лайки",
     "Location": "Локация",
     "Lore": "Истории",
-    "LoreBook": "Книги лора",
+    "LoreBook": "Книги историй",
     "Map": "Карта",
     "Medal_plural": "Медали",
     "MembersOnline": "Онлайн: **{{number}}**",
@@ -661,21 +661,21 @@
   "Leaderboards": {
     "Rank": "Ранг",
     "Global": "Глобально",
-    "Active": "🦘 Active",
-    "Seal": "🦘 Seal",
-    "Gild": "🦘 Gild",
-    "Legacy": "🦘 Legacy",
-    "Triumph": "🦘 Triumph",
-    "Collection": "🦘 Collection",
+    "Active": "Активные",
+    "Seal": "Печати",
+    "Gild": "Позолоченные",
+    "Legacy": "Древние",
+    "Triumph": "Триумфы",
+    "Collection": "Коллекция",
     "ActiveScore": "Счёт активных триумфов",
     "SealScore": "Счёт Печатей",
     "GildScore": "Счёт Позолот",
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Счёт триумфов",
     "CollectionScore": "Счёт коллекции",
-    "ProfileLastUpdated": "🦘 Profile last updated",
-    "LeaderboardsLastUpdated": "🦘 Leaderboards last updated",
-    "RequestUpdate": "🦘 As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
+    "ProfileLastUpdated": "Профиль последний раз обновлён",
+    "LeaderboardsLastUpdated": "Таблица лидеров последний раз обновлена",
+    "RequestUpdate": "Как подписчик, вы можете запросить немедленное обновление вашего профиля до обновления всех таблиц лидеров.",
     "Unranked": "Эта Таблица лидеров оценивается с новой информацией. Она будет готова через несколько минут.",
     "UnrankedMember": "Этот игрок еще не был оценён. Они были добавлены в очередь.",
     "UnrankedGroup": "Ещё никто в этом клане не был оценён.",
@@ -704,8 +704,8 @@
         "Info": "Оцениваются только те игроки, которые играли в Destiny с момента релиза текущего дополнения."
       },
       "RankedDate": {
-        "Name": "🦘 Ranked date",
-        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
+        "Name": "Ранговая дата",
+        "Info": "Ранги были обновлены свежей данными столько времени спустя."
       },
       "RarestTriumphs": "Редчайшие Триумфы",
       "RarestCollectibles": "Редчайшие Предметы"
@@ -716,8 +716,8 @@
       "Description": "Что дает вам силу; преодолевая свет и тьму, вы удерживаете линию фронта как Титан, уничтожаете целые армии издалека как Варлок или трусливо пробираетесь сквозь тени как Охотник?"
     },
     "Guardian": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
-      "Name": "🦘 Guardian"
+      "Description": "Что дает вам силу; преодолевая свет и тьму, вы удерживаете линию фронта как Титан, уничтожаете целые армии издалека как Варлок или трусливо пробираетесь сквозь тени как Охотник?",
+      "Name": "Стажник"
     },
     "Activity": {
       "Description": "Призрак Стража.\n\nВаша жизнь после вашей жизни начинается здесь. Вы воскрешённый, выбранный Призраком, и дарованный великой силой благодаря Свету и Тьме.\n\nЭто были ваши первые шаги.",
@@ -736,12 +736,12 @@
       "Name": "Редкие Скоровища & Стиль игры с Экзотами"
     },
     "Seals": {
-      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Description": "Эмблемы побед\n\nВысшая мера для совершественника и коллекционера: носите их с гордостью.",
       "Name": "Печати триумфов"
     },
     "Gambit": {
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
-      "Name": "🦘 Gambit"
+      "Name": "Гамбит"
     },
     "Crucible": {
       "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
@@ -753,7 +753,7 @@
     },
     "Share": {
       "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
-      "Name": "🦘 Share"
+      "Name": "Поделится"
     }
   },
   "Loading": {
@@ -836,9 +836,9 @@
         },
         "Name": "Предложить изменения"
       },
-      "AvailableEvery": "🦘 Available: every {{period}}",
-      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
-      "RelatedVideo": "Это место имеет связанное с ним видео: {{url}}",
+      "AvailableEvery": "Доступно: каждые {{period}}",
+      "UntrackableChecklistItem": "Неотслеживаемый элемент контрольного списка",
+      "RelatedVideo": "Этот элемент имеет связанное с ним видео: {{url}}",
       "Vendor": {
         "NoSales": "Здесь нет доступных предметов."
       }
@@ -972,8 +972,8 @@
     "SuggestedPath": "Предлагаемый Путь"
   },
   "RewardHistory": {
-    "Name": "🦘 Reward History",
-    "Info": "🦘 Press to display session history."
+    "Name": "История Наград",
+    "Info": "Нажмите чтобы отобразить историю наград."
   },
   "Search": {
     "Error": {
@@ -1224,20 +1224,20 @@
       },
       "ActiveSubscription": "Активная Подписка",
       "ManageSubscription": "Управление Подпиской",
-      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "Stripe": "Посетить Stripe для управления вашей подписки.",
       "Newsletter": {
-        "Name": "🦘 Receive Email",
-        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+        "Name": "Получать Писмя",
+        "Description": "Получайте блог-посты Braytech и любую соответствующую информацию для подпищиков, доставлено прямо в ваш почтовый ящик."
       },
       "Benefits": "Привилегии",
       "Tiers": "Уровни",
-      "Legends": "🦘 Legends",
-      "Connect": "🦘 Connect",
-      "Blog": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "Discord": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubs": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
-      "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
-      "JustOnce": "🦘 Just Once"
+      "Legends": "Легедны",
+      "Connect": "Свяжитесь",
+      "Blog": "Следите за развитием Braytech, следя за последними блог-постами. Я стараюсь делать их максимально интересными и познавательными!",
+      "Discord": "Присоединяйтесь к сообществу Braytech! Общайтесь, оставляйте предложения, сообщайте об ошибках и получайте помощь для приложения.",
+      "NewSubs": "Недавние подписчики, которые несут Braytech на своих плечах, обеспечивая его постоянное развитие.",
+      "OneTime": "Сделайте единоразовое пожертвование в поддержку Braytech. Никаких обязательств, но я приглашу вас выпить.",
+      "JustOnce": "Один Раз"
     },
     "BraytechLegend": {
       "Updated": "Ваша легенда была обновлена. ✨",
@@ -1345,16 +1345,16 @@
       "Remove": "Убрать",
       "SaveNew": "Сохранить Новый",
       "Select": "Выбрать",
-      "Show": "🦘 Show",
+      "Show": "Показать",
       "Store": "Передать",
       "Unfavourite": "Убрать из избранного",
       "Unlock": "Разблокировать",
       "Vault": "В Хранилище",
       "Track": "Отслеживать",
-      "Pin": "🦘 Pin",
+      "Pin": "Приколоть",
       "Hide": "Скрыть",
-      "ShowMenu": "🦘 Show Menu",
-      "HideMenu": "🦘 Hide Menu"
+      "ShowMenu": "Показать меню",
+      "HideMenu": "Спрятать меню"
     },
     "Item": {
       "ExpiresIn": "Истекает через {{duration}}.",
@@ -1394,10 +1394,10 @@
       "Expires": "Срок действия истекает в конце Сезона {{season}}",
       "IntervalFraction": "{{numerator}} из {{denominator}}",
       "Score": "Очки триумфов, начисляемые за получение триумфа.",
-      "ScoreProgress": "🦘 The score value earned for this triumph."
+      "ScoreProgress": "Количесвто очков, полученные за этот триумф."
     },
-    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechActiveScore": "Ваше активное очки трумфов, определено Braytech: **{{number}}**. Это число ссчитано изучением доступных триумфов.",
+    "BungieActiveScore": "🦘 Согласно Bungie, ваш счет очков **{{number}}**. Это может быть неточным, так как Bungie может не учитывать некоторые триумфы, которые с тех пор были удалены или у которых были изменены значения счета.",
     "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",
@@ -1439,8 +1439,8 @@
         "Description": "Отображать только те триумфы, которые дают очки триумфов по завершении."
       },
       "MatchClass": {
-        "Name": "🦘 Match Class",
-        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
+        "Name": "Соответсвовать Классу",
+        "Description": "Отображать только классовые триумфы, соответствующие классу выбранного персонажа."
       }
     },
     "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",
@@ -1451,7 +1451,7 @@
     "UnobtainableTriumphs": "Недоступные",
     "UnredeemedTriumphs": "Неполученные триумфы",
     "TrackedSync": "Синхронизировать отслеживаемые триумфы между устройствами с помощью Voluspa.",
-    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
+    "PinPresentationNodes": "Щелкните правой кнопкой мыши узел, чтобы закрепить его на вверху списка."
   },
   "Upsell": {
     "Auth": {
@@ -1459,7 +1459,7 @@
     },
     "Subscriptions": {
       "SupportBraytech": "Поддержать Braytech",
-      "BuildBraytech": "Соберите Braytech",
+      "BuildBraytech": "Стройте Braytech",
       "Info": "Реклама - отстой, поэтому Baytech ее не использует, но создание Braytech требует времени.\n\nВместо рекламы Braytech рассчитывает на вашу щедрость. Ваша поддержка помогает поддерживать приложение онлайн, позволяет работать над новыми функциями и поддерживает жизнь разработчика!",
       "RewardSeraph": "Разблокируйте медаль **Серафим**, символ преданности делу защиты Военного Разума и его имущества, а также улучшения человечества.",
       "RewardSubmind": "Откройте анимированную медаль Военного Разума золотого уровня. Каждая медаль Военного Разума гарантированно содержит не менее 7.00% пыли фрагмента Военного Разума™",
@@ -1491,7 +1491,7 @@
     "Frequency": "Частота",
     "CompletedBy": "{{number}} игрок(ов) завершили это.",
     "Crawled": "{{number}} игрок(ов) индексированы системой Voluspa.",
-    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
+    "Assessed": "{{number}} игрок(ов) сейчас оценены системой Voluspa.",
     "GraphType": {
       "Frequency": "Частота",
       "TimeSeries": "Временные ряды"
@@ -1503,11 +1503,11 @@
     "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
     "Event": {
-      "Rank": "🦘 Event Rank",
-      "DailyChallenges": "🦘 Daily Challenges",
-      "WeeklyChallenges": "🦘 Weekly Challenges",
-      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
-      "EndsIn": "🦘 Event ends in **{{duration}}**"
+      "Rank": "Эвентовый Ранг",
+      "DailyChallenges": "Эжедневные Вызовы",
+      "WeeklyChallenges": "Эженедельные Вызовы",
+      "TriumphsInfo": "У этого эвента есть соответсвующая печать, **{{seal}}**. Завершите эти триумфы, чтобы получить новый титул.",
+      "EndsIn": "Эвент заканчивается через **{{duration}}**"
     },
     "Challenges": {
       "ActivityBonus": "Бонус Активности",
@@ -1537,9 +1537,9 @@
         "Seasonal": "Сезонные",
         "Strikes": "Налёты"
       },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
+      "WorldDropsNeeded": "Ищите мировое Снаряжение, пока не достигнете **{{light}}** чтобы избежать потери снаряжение с большим уровнем.",
+      "PowerfulDropsNeeded": "Занимайтесь деятельностью, которая вознаграждает Мощное снаряжения до **{{light}}**.",
+      "PinnacleDropsNeeded": "Вы на молоте за Сверхмощной Снарижением. Достичте **{{light}}** выполняя самые сложнейшие активности."
     }
   }
 }
