@@ -743,6 +743,10 @@
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
       "Name": "🦘 Gambit"
     },
+    "Crucible": {
+      "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
+      "Name": "🦘 Crucible"
+    },
     "AggregateActivityStats": {
       "Description": "累积经验\n\n当然，你摧毁了“神明”，在某些情况下，还用它们的残骸打造了武器，但你到底多少次毫无思考地消灭了它们...",
       "Name": "累积活动统计"

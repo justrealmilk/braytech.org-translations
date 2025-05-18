@@ -743,6 +743,10 @@
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
       "Name": "🦘 Gambit"
     },
+    "Crucible": {
+      "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
+      "Name": "🦘 Crucible"
+    },
     "AggregateActivityStats": {
       "Description": "Накопленный Опыт\n\nКонечно, вы уничтожали \"богов,\" а иногда даже создавали оружие из их останков, но сколько раз вы бездумно убивали их?..",
       "Name": "Совокупная Статистика Активностей"
