@@ -117,7 +117,12 @@ const contributors = [
   {
     language: 'ru',
     membershipType: 6,
-    membershipId: '4611686018529845456', // Alexanst54
+    membershipId: '4611686018529845456', // quinn
+  },
+   {
+    language: 'fr',
+    membershipType: 3,
+    membershipId: '4611686018523435689', // Alex*
   },
 ];
 
