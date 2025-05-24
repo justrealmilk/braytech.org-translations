@@ -45,6 +45,7 @@
     "None": "Aucun",
     "Now": "Aujourd'hui",
     "Open": "Ouvrir",
+    "Okay": "🦘 Okay",
     "Previous": "Précédent",
     "PullPostmaster": "Retirer du Commis des Postes",
     "ReloadApp": "Recharger l'application",
@@ -1379,6 +1380,7 @@
       "Completed": "Complété",
       "FireteamLoading": "Chargement des membres de l'escouade",
       "NoClanOrFireteam": "Rejoignez une escouade ou un clan pour voir comment vos camarades gardiens s'entassent à côté de vous !",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "Pas complété",
       "OpenView": "Ouvrir la vue des détails",
       "HasItem": "Cet enregistrement est lié à un élément. Vous pouvez consulter les [details] de cet élément ({{string}})."

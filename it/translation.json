@@ -45,6 +45,7 @@
     "None": "🦘 None",
     "Now": "Ora",
     "Open": "Apri",
+    "Okay": "🦘 Okay",
     "Previous": "Precedenti",
     "PullPostmaster": "Recupera dall'Amministratrice",
     "ReloadApp": "Ricarica",
@@ -1379,6 +1380,7 @@
       "Completed": "Completato",
       "FireteamLoading": "Caricando i membri della squadra",
       "NoClanOrFireteam": "Unisciti a una squadra o un clan per confrontarti con altri Guardiani!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "Non completato",
       "OpenView": "Vedi dettagli",
       "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."

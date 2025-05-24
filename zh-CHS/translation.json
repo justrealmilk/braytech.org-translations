@@ -45,6 +45,7 @@
     "None": "无",
     "Now": "当前页",
     "Open": "打开",
+    "Okay": "🦘 Okay",
     "Previous": "往前",
     "PullPostmaster": "从邮政长处取回物品",
     "ReloadApp": "重新载入 Braytech",
@@ -1379,6 +1380,7 @@
       "Completed": "已完成",
       "FireteamLoading": "正在加载火力战队成员",
       "NoClanOrFireteam": "加入一个火力战队或公会，看看你的同伴在你身边的表现如何！",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "未完成",
       "OpenView": "查看详情",
       "HasItem": "这项记录和一个物品相关联，你可以查看这件物品的[详情]({{string}})。"

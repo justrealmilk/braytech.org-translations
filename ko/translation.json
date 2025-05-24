@@ -45,6 +45,7 @@
     "None": "🦘 None",
     "Now": "지금 ",
     "Open": "열기",
+    "Okay": "🦘 Okay",
     "Previous": "이전",
     "PullPostmaster": "우편 담당자에게서 수령",
     "ReloadApp": "앱 재시작",
@@ -1379,6 +1380,7 @@
       "Completed": "완료함",
       "FireteamLoading": "🦘 Loading fireteam members",
       "NoClanOrFireteam": "화력팀이나 클랜에 가입하여 당신의 동료 수호자들이 당신 옆에 어떻게 있는지 보세요!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "완료하지 않음",
       "OpenView": "세부 정보",
       "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."

@@ -45,6 +45,7 @@
     "None": "Ninguno",
     "Now": "Ahora",
     "Open": "Abrir",
+    "Okay": "🦘 Okay",
     "Previous": "Anteriores",
     "PullPostmaster": "Sacar de Administración",
     "ReloadApp": "Recargar aplicación",
@@ -1379,6 +1380,7 @@
       "Completed": "Completado",
       "FireteamLoading": "Cargando miembros de la escuadra",
       "NoClanOrFireteam": "¡Únete a una escuadra o a un clan para comparar a tus compañeros Guardianes contigo!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "No completado",
       "OpenView": "Abrir vista detallada",
       "HasItem": "Este triunfo está relacionado con un objeto. Puedes ver los [detalles]({{string}}) del objeto."

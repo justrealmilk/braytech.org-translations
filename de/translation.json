@@ -45,6 +45,7 @@
     "None": "🦘 None",
     "Now": "Jetzt",
     "Open": "Öffnen",
+    "Okay": "🦘 Okay",
     "Previous": "Vorherige",
     "PullPostmaster": "Von der Poststelle holen",
     "ReloadApp": "App neuladen",
@@ -1379,6 +1380,7 @@
       "Completed": "Abgeschlossen",
       "FireteamLoading": "Lade Einsatztrup-Mitglieder",
       "NoClanOrFireteam": "Tritt einem Einsatztrupp oder einem Clan bei und sieh, wie deine verbündeten Hüter performen!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "Nicht abgeschlossen",
       "OpenView": "Detailansicht öffnen",
       "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."

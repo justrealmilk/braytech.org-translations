@@ -45,6 +45,7 @@
     "None": "無し",
     "Now": "最新",
     "Open": "開く",
+    "Okay": "🦘 Okay",
     "Previous": "戻る",
     "PullPostmaster": "ポストマスターからアイテムを取得する",
     "ReloadApp": "アプリをリロードする",
@@ -1379,6 +1380,7 @@
       "Completed": "達成済",
       "FireteamLoading": "ファイアチームのメンバー情報を読み込んでいます",
       "NoClanOrFireteam": "ファイアチームやクランに参加して、仲間のガーディアンの実力を確認してみましょう!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "未達成",
       "OpenView": "詳細を見る",
       "HasItem": "この記録は次のアイテムに関連しています。[詳細]({{string}})にて確認できます。"

@@ -45,6 +45,7 @@
     "None": "🦘 None",
     "Now": "🦘 Now",
     "Open": "🦘 Open",
+    "Okay": "🦘 Okay",
     "Previous": "🦘 Previous",
     "PullPostmaster": "🦘 Pull From Postmaster",
     "ReloadApp": "🦘 Reload App",
@@ -1379,6 +1380,7 @@
       "Completed": "🦘 Completed",
       "FireteamLoading": "🦘 Loading fireteam members",
       "NoClanOrFireteam": "🦘 Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
+      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
       "NotCompleted": "🦘 Not Completed",
       "OpenView": "🦘 Open Details View",
       "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
