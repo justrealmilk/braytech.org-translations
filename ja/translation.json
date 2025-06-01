@@ -54,6 +54,7 @@
     "Reset": "リセット",
     "SelectDate": "日付選択",
     "SelectMasterwork": "マスターワークを選択",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "セット",
     "Snatch": "取得",
     "Submit": "提出",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "プロファイルを選択"
     },
     "PushNotifications": {
-      "BraveBrowser": "おや、Braveブラウザを使っているようですね。 Braveの設定で \"プッシュ通知でGoogleサービスを利用する\" を有効にしているか確認してください。",
+      "Info": "プッシュ通知は、ブラウザやOSのAPIを利用して、アプリを使っていないときでも通知を確認できる機能です。\n\n Braytechの通知を利用する場合は、ユーザーでメッセージの種類、タイミングなどを設定できます。",
       "Condition": {
         "AnyActivity": "すべてのアクティビティ",
         "AnyMod": "すべてのMod",
@@ -1158,15 +1159,14 @@
       "Event": "イベント",
       "Frequency": "頻度",
       "Incompatible": "このブラウザではプッシュ通知が利用できません",
-      "Info": "プッシュ通知は、ブラウザやOSのAPIを利用して、アプリを使っていないときでも通知を確認できる機能です。\n\n Braytechの通知を利用する場合は、ユーザーでメッセージの種類、タイミングなどを設定できます。",
       "NoServiceWorker": "サービスワーカーがインストールされていません。Braytechのページをリロードしてみてください。",
       "PermissionDenied": "お使いのブラウザは、通知機能を無効にしています。続行するには、手動で通知を有効にするか、ブラウザの設定をリセットする必要があります。",
+      "ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
       "PreviewNotifications": {
         "Description": "通知をすぐに開始する。",
         "Name": "プレビュー通知"
       },
-      "ServiceWorkerInstalling": "サービスワーカーをインストールしています。しばらくお待ち下さい。",
-      "Users": "ユーザー"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
@@ -1223,6 +1223,7 @@
         "Connected": "連携しているDiscordアカウント",
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "サブスクリプションを発動させる",
       "ManageSubscription": "サブスクリプション管理",
       "Stripe": "Stripeでサブスクリプションを管理できます。",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "Voluspaを通じてデバイス間の道のりのトラックキングを同期しています。",
     "PinPresentationNodes": "右クリックで選択アイテムをリストの先頭に固定表示します。"
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "自分の目標やその他の進捗データを確認したいですか？Bungie.netを使ってBraytechを認証し、プロフィールデータを安全に読み取れるようにしましょう。"
-    },
-    "Subscriptions": {
-      "SupportBraytech": "Braytechを支援する",
-      "BuildBraytech": "Braytech維持協力のお願い",
-      "Info": "Braytechではサイトの景観を損ねる原因となるため広告バナーを一切使っていませんが、いつまでも更新できる状況ではありません。\n\n そこでスパチャではないですが、経済的に不安な状況を少しでも減らしてBraytech開発に専念できるように皆様からの支援をお願いします。",
-      "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
-      "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
-      "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
-      "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。",
-      "MemberLinkExample": "このような形で、クランページなどで表示されるネームプレート部分にBraytechサポーターであることを証明する小さなメダルが表示されます。\n\n_このメダルはクロビスブレイ本人またはクローンが起こした行動に対して容認するものではないことをご理解ください。"
-    },
-    "Profile": {
-      "Action": "キャラクターを選ぶ",
-      "Description": "自分の目標達成状況、達成した記録、発見したコレクションなどを確認したいですか？ 自分のプロフィールを読み込んで、キャラクターを選択してください。"
-    }
+  "Subscriptions": {
+    "SupportBraytech": "Braytechを支援する",
+    "BuildBraytech": "Braytech維持協力のお願い",
+    "Info": "Braytechではサイトの景観を損ねる原因となるため広告バナーを一切使っていませんが、いつまでも更新できる状況ではありません。\n\n そこでスパチャではないですが、経済的に不安な状況を少しでも減らしてBraytech開発に専念できるように皆様からの支援をお願いします。",
+    "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
+    "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
+    "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
+    "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。",
+    "MemberLinkExample": "このような形で、クランページなどで表示されるネームプレート部分にBraytechサポーターであることを証明する小さなメダルが表示されます。\n\n_このメダルはクロビスブレイ本人またはクローンが起こした行動に対して容認するものではないことをご理解ください。",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

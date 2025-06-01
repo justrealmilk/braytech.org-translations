@@ -54,6 +54,7 @@
     "Reset": "🦘 Reset",
     "SelectDate": "🦘 Select Date",
     "SelectMasterwork": "🦘 Any Masterwork",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "🦘 Set",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "🦘 Select a profile"
     },
     "PushNotifications": {
-      "BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
+      "Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
       "Condition": {
         "AnyActivity": "🦘 Any Activity",
         "AnyMod": "🦘 Any Mod",
@@ -1158,15 +1159,14 @@
       "Event": "🦘 Event",
       "Frequency": "🦘 Frequency",
       "Incompatible": "🦘 Your browser doesn't support push notifications yet.",
-      "Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
       "NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
       "PermissionDenied": "🦘 You've denied permission to send notifications. You'll need to manually enable or reset them before we can continue. Check your browser and device settings.",
+      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
       "PreviewNotifications": {
         "Description": "🦘 Dispatch enabled notifications immediately.",
         "Name": "🦘 Preview Notifications"
       },
-      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
-      "Users": "🦘 Users"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "🦘 Select reload app to activate your changes immediately.",
@@ -1223,6 +1223,7 @@
         "Connected": "🦘 Your connected Discord profile.",
         "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
     "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "🦘 Want to see your objectives and other progress data? Authenticate with Bungie.net and allow Braytech to securely read your profile data."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "🦘 Support Braytech",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
-    },
-    "Profile": {
-      "Action": "🦘 Select Your Character",
-      "Description": "🦘 Want to see your objective progress, redeemed records, discovered collectibles, and way more? Load your profile and select your character."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "🦘 Support Braytech",
+    "BuildBraytech": "🦘 Build Braytech",
+    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+    "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+    "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
+    "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
+    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

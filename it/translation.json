@@ -54,6 +54,7 @@
     "Reset": "Reset",
     "SelectDate": "Seleziona data",
     "SelectMasterwork": "Seleziona statistica prodigio",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "Conferma",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "Seleziona un profilo"
     },
     "PushNotifications": {
-      "BraveBrowser": "Sembra che tu stia utilizzando un browser stupidotto, Brave: assicurati che l'opzione \"Utilizza i servizi Google per i messaggi push\" sia abilitato nelle impostazioni del tuo browser.",
+      "Info": "Le notifiche push utilizzano le API del browser e del sistema operativo per inviarti notifiche anche quando non stai utilizzando l'app.\n\nSe vuoi che Braytech ti invii notifiche, qui puoi controllare se, quando e perché.",
       "Condition": {
         "AnyActivity": "Qualsiasi attività",
         "AnyMod": "Qualsiasi modifica",
@@ -1158,15 +1159,14 @@
       "Event": "Evento",
       "Frequency": "Frequenza",
       "Incompatible": "Il tuo browser non supporta ancora le notifiche push.",
-      "Info": "Le notifiche push utilizzano le API del browser e del sistema operativo per inviarti notifiche anche quando non stai utilizzando l'app.\n\nSe vuoi che Braytech ti invii notifiche, qui puoi controllare se, quando e perché.",
       "NoServiceWorker": "Non è stato installato alcun service worker. Prova a ricaricare Braytech.",
       "PermissionDenied": "Il tuo browser dice che hai negato l'autorizzazione di invio notifiche. Dovrai abilitarla o reimpostarla manualmente prima di poter continuare.",
+      "ServiceWorkerInstalling": "Installazione del service worker. Attendere prego.",
       "PreviewNotifications": {
         "Description": "Invia le notifiche attivate immediatamente.",
         "Name": "Anteprima di notifiche"
       },
-      "ServiceWorkerInstalling": "Installazione del service worker. Attendere prego.",
-      "Users": "Utenti"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "Seleziona Ricarica per attivare immediatamente le modifiche.",
@@ -1223,6 +1223,7 @@
         "Connected": "Hai connesso il tuo profilo Discord.",
         "Disconnected": "Connetti il tuo profilo Discord usando il comando `/register_discord_with_voluspa` nel [server](https://discord.bray.tech) Discord."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Abbonamento attivo",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "Sincronizza i trionfi seguiti tra i dispositivi tramite Voluspa.",
     "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "Vuoi vedere i tuoi obiettivi e altri dati sul tuo progresso? Autenticati con Bungie.net e consenti a Braytech di leggere in modo sicuro i dati del tuo profilo."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "Supporta Braytech",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-      "RewardSeraph": "Sblocca la medaglia **Serafino**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
-      "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
-      "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
-      "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
-    },
-    "Profile": {
-      "Action": "Seleziona il tuo personaggio",
-      "Description": "Vuoi vedere i progressi dei tuoi obiettivi, trionfi riscattati, collezionabili scoperti e molto altro ancora? Carica il tuo profilo e seleziona il tuo personaggio."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "Supporta Braytech",
+    "BuildBraytech": "🦘 Build Braytech",
+    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "RewardSeraph": "Sblocca la medaglia **Serafino**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
+    "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
+    "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",
+    "Leaderboards": "Le classifiche richiedono molto lavoro e, sebbene stimolante, è particolarmente costoso. Ho dovuto comprare \"Database per principinati\" e quel genere di roba lì. Se ti piace collezionare oggetti, forse potremmo [interessarti a sbloccare alcune medaglie rare](https://www.patreon.com/braytech) per il tuo profilo Braytech?",
+    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

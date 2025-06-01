@@ -54,6 +54,7 @@
     "Reset": "重置",
     "SelectDate": "选择一组日期",
     "SelectMasterwork": "选择大师杰作",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "设定",
     "Snatch": "🦘 Snatch",
     "Submit": "提交",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "选择玩家资料"
     },
     "PushNotifications": {
-      "BraveBrowser": "很明显您正在使用一个愚蠢的浏览器，Brave: 请确保“使用谷歌服务推送消息”在你的浏览器设置中是开启的",
+      "Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
       "Condition": {
         "AnyActivity": "所有活动",
         "AnyMod": "所有模组",
@@ -1158,15 +1159,14 @@
       "Event": "事件",
       "Frequency": "频率",
       "Incompatible": "您的浏览器尚未支持推送通知。",
-      "Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
       "NoServiceWorker": "Service Worker 未被安装。请尝试重载 Braytech。",
       "PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
+      "ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
       "PreviewNotifications": {
         "Description": "立即推送启用通知。",
         "Name": "预览通知"
       },
-      "ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
-      "Users": "用户"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "选择重载应用以使您的修改立即生效。",
@@ -1223,6 +1223,7 @@
         "Connected": "你已关联 Discord 账户",
         "Disconnected": "关联 Discord账户，这样就可以在 Discord [服务器](https://discord.bray.tech) 里使用命令 `/register_discord_with_voluspa`。"
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "当前订阅",
       "ManageSubscription": "管理订阅",
       "Stripe": "访问Stripe管理您的订阅。",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "通过Voluspa在设备之间同步已跟踪的成就.",
     "PinPresentationNodes": "右键单击演示文稿节点将其固定到列表顶部。"
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "想查询您的目标和其它数据进度吗？通过Bungie.net进行身份认证，并允许Braytech安全获取您的个人游戏数据资料"
-    },
-    "Subscriptions": {
-      "SupportBraytech": "赞助 Braytech",
-      "BuildBraytech": "构建 Braytech",
-      "Info": " 广告很烦人，所以 Braytech 不会添加广告。但开发和维护 Braytech 需要花费时间。\n\n为了替代广告，Braytech 需要你的慷慨支持。你的支持将帮助 Braytech 能够持续提供在线服务，使我能够开发新功能，并且让开发者能够维持生计和住所！",
-      "RewardSeraph": "解锁 **炽天使** 奖牌, 这象征着对于保护战争思维及其资源，以及改善人类的奉献与承诺。",
-      "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
-      "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
-      "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对 [在Parteon上赞助我们来获取一些稀有徽章](https://www.patreon.com/braytech) 这件事感兴趣？",
-      "MemberLinkExample": " _你_想要在你的个人名片上来一个酷炫闪亮的小奖牌吗？这代表着对 Braytech 开发工作的大力支持与赞助！.\n\n_Braytech 及其下属公司不支持 克洛维斯·布瑞 的相关观点和行为。_"
-    },
-    "Profile": {
-      "Action": "选择你的角色",
-      "Description": "想看看你的目标进度、已经被兑换的记录、已经被发现的收藏品和更多的东西吗？加载你的个人资料并选择你的角色。"
-    }
+  "Subscriptions": {
+    "SupportBraytech": "赞助 Braytech",
+    "BuildBraytech": "构建 Braytech",
+    "Info": " 广告很烦人，所以 Braytech 不会添加广告。但开发和维护 Braytech 需要花费时间。\n\n为了替代广告，Braytech 需要你的慷慨支持。你的支持将帮助 Braytech 能够持续提供在线服务，使我能够开发新功能，并且让开发者能够维持生计和住所！",
+    "RewardSeraph": "解锁 **炽天使** 奖牌, 这象征着对于保护战争思维及其资源，以及改善人类的奉献与承诺。",
+    "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
+    "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",
+    "Leaderboards": "开发排行榜是一件富有挑战性的工作，同时代价也很高昂——因为我买了不少关于数据库的书！咳咳，所以，如果你喜欢收集东西，也许你对 [在Parteon上赞助我们来获取一些稀有徽章](https://www.patreon.com/braytech) 这件事感兴趣？",
+    "MemberLinkExample": " _你_想要在你的个人名片上来一个酷炫闪亮的小奖牌吗？这代表着对 Braytech 开发工作的大力支持与赞助！.\n\n_Braytech 及其下属公司不支持 克洛维斯·布瑞 的相关观点和行为。_",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

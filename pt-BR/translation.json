@@ -54,6 +54,7 @@
     "Reset": "Redefinir",
     "SelectDate": "Selecionar Data",
     "SelectMasterwork": "Selecionar Obra-Prima",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "Definir",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "Selecione um perfil"
     },
     "PushNotifications": {
-      "BraveBrowser": "🦘 You appear to be using a silly browser, Brave: please ensure \"Use Google services for push messaging\" is enabled in your browser's settings.",
+      "Info": "As notificações push usam as APIs do navegador e do sistema operacional para enviar notificações mesmo quando você não estiver usando o aplicativo.\n\nSe quiser que o Braytech envie notificações, aqui você pode configurar os eventos e a frequencia para que elas sejam exibidas.",
       "Condition": {
         "AnyActivity": "🦘 Any Activity",
         "AnyMod": "🦘 Any Mod",
@@ -1158,15 +1159,14 @@
       "Event": "🦘 Event",
       "Frequency": "🦘 Frequency",
       "Incompatible": "Seu navegador ainda não suporta notificações push.",
-      "Info": "As notificações push usam as APIs do navegador e do sistema operacional para enviar notificações mesmo quando você não estiver usando o aplicativo.\n\nSe quiser que o Braytech envie notificações, aqui você pode configurar os eventos e a frequencia para que elas sejam exibidas.",
       "NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
       "PermissionDenied": "Seu navegador diz que você negou a permissão de notificações. Você precisará habilitá-la ou redefini-la manualmente antes que possamos continuar.",
+      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
       "PreviewNotifications": {
         "Description": "🦘 Dispatch enabled notifications immediately.",
         "Name": "🦘 Preview Notifications"
       },
-      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
-      "Users": "🦘 Users"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "🦘 Select reload app to activate your changes immediately.",
@@ -1223,6 +1223,7 @@
         "Connected": "🦘 Your connected Discord profile.",
         "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
     "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "Quer ver seus objetivos e outros progressos? Autentique-se com Bungie.net e permita que Braytech leia os dados de seu perfil com segurança."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "🦘 Support Braytech",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
-    },
-    "Profile": {
-      "Action": "Selecione seu personagem",
-      "Description": "Quer ver seu progresso, registros resgatados, colecionáveis descobertos e muito mais? Carregue seu perfil e selecione seu personagem."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "🦘 Support Braytech",
+    "BuildBraytech": "🦘 Build Braytech",
+    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+    "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+    "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
+    "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
+    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

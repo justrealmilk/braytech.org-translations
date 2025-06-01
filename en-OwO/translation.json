@@ -1432,15 +1432,7 @@
     "UnobtainableTriumphs": "Unobtainabwe",
     "UnredeemedTriumphs": "Unwedeemed"
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "Want to see uuw objectives and othew pwogwess data? UwU Authenticate with Bungie.net and awwow Bwaytech to secuwewy wead uuw pwofiwe data."
-    },
-    "Profile": {
-      "Action": "Sewect Uuw Chawactew",
-      "Description": "Want to see uuw objective pwogwess, wedeemed twiumphs, discovewed cowwectibwes, and way mowe? UwU Woad uuw pwofiwe and sewect uuw chawactew."
-    },
-    "Subscriptions": {
+  "Subscriptions": {
       "BuildBraytech": "Buiwd Bwaytech togethew",
       "Info": "Ads suck so Bwaytech doesn't use them, but buiwding Bwaytech costs time.\n\nIn pwace of ads, Bwaytech depends on uuw genewosity. Uuw suppowt hewps keep da app onwine, enabwes wowk on new featuwes, and keeps da devewopew awive and housed! OwO",
       "Leaderboards": "Weadewboawds awe a wot of wowk, which whiwe thought-pwovoking, is pawticuwawwy costwy. I had to buy Databases fow Dummies and evewything. If uu wike cowwecting things, maybe I couwd [intewest uu in unwocking some a wawe medaw](/settings/subscwiptions) fow uuw Bwaytech pwofiwe? UwU",
@@ -1449,7 +1441,6 @@
       "RewardSubmind": "Unwock da animated **Wawmind** gowd tiew medaw. Evewy Wawmind medaw guawenteed to contain at weast 7.00% Wawmind fwagment dust™",
       "Rewards": "Unwock unique pwofiwe medaws when uu subscwibe to Bwaytech's Patweon! OwO",
       "SupportBraytech": "Suppowt Bwaytech"
-    }
   },
   "Vendor": {
     "FailureStrings": {

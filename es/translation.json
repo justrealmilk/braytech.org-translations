@@ -54,6 +54,7 @@
     "Reset": "Reiniciar",
     "SelectDate": "Elegir fecha",
     "SelectMasterwork": "Seleccionar obra maestra",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "Establecer",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "Selecciona un perfil"
     },
     "PushNotifications": {
-      "BraveBrowser": "Parece que utilizas un navegador ridículo, Brave: asegúrate de que la opción \"Utilizar los servicios de Google para la mensajería push\" está activada en la configuración de tu navegador.",
+      "Info": "Las notificaciones _push_ utilizan las APIs del navegador y del sistema operativo para enviarte notificaciones incluso cuando no estás usando la aplicación.\n\nSi quieres que Braytech te envíe notificaciones, puedes controlar si, cuándo y por qué, aquí.",
       "Condition": {
         "AnyActivity": "Cualquier actividad",
         "AnyMod": "Cualquier modificador",
@@ -1158,15 +1159,14 @@
       "Event": "Evento",
       "Frequency": "Frecuencia",
       "Incompatible": "Tu navegador aún no es compatible con las notificaciones _push_.",
-      "Info": "Las notificaciones _push_ utilizan las APIs del navegador y del sistema operativo para enviarte notificaciones incluso cuando no estás usando la aplicación.\n\nSi quieres que Braytech te envíe notificaciones, puedes controlar si, cuándo y por qué, aquí.",
       "NoServiceWorker": "Todavía no se ha instalado un _service worker_. Prueba a recargar Braytech.",
       "PermissionDenied": "Tu navegador dice que has denegado el permiso para enviar notificaciones. Tendrás que habilitarlas o restablecerlas manualmente antes de poder continuar.",
+      "ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
       "PreviewNotifications": {
         "Description": "Envía inmediatamente las notificaciones habilitadas.",
         "Name": "Probar las notificaciones"
       },
-      "ServiceWorkerInstalling": "Se está instalando un _service worker_. Por favor, espera.",
-      "Users": "Usuarios"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "Selecciona recargar la aplicación para activar los cambios inmediatamente.",
@@ -1223,6 +1223,7 @@
         "Connected": "Tu perfil de Discord conectado.",
         "Disconnected": "Conecta tu perfil de Discord utilizando el comando `/register_discord_with_voluspa` en el [servidor](https://discord.bray.tech) de Discord."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Suscripción activa",
       "ManageSubscription": "Gestionar suscripción",
       "Stripe": "Visita Stripe para gestionar tu suscripción.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "Sincroniza los triunfos seguidos entre dispositivos con Voluspa.",
     "PinPresentationNodes": "Pulsa con el botón derecho del ratón sobre un nodo para anclarlo a la parte superior de la lista."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "¿Quieres ver tus objetivos y otros datos de tu progreso? Autentifícate con Bungie.net y permite a Braytech leer de forma segura los datos de tu perfil."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "Apoya Braytech",
-      "BuildBraytech": "Construye Braytech",
-      "Info": "Los anuncios apestan, así que Braytech no los usa, pero construir Braytech cuesta tiempo.\n\nEn lugar de anuncios, Braytech depende de tu generosidad. Tu apoyo ayuda a mantener la aplicación en línea, permite trabajar en nuevas características, y mantiene al desarrollador ¡vivo y con casa!",
-      "RewardSeraph": "Desbloquea la medalla **Serafín**, un símbolo de dedicación y compromiso con la protección del Estratega y sus recursos, y con el desarrollo de la humanidad.",
-      "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
-      "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",
-      "Leaderboards": "Las tablas de clasificación dan mucho trabajo, lo cual, aunque da que pensar, es especialmente costoso. Tuve que comprarme \"Databases for Dummies\" y todo. Si te gusta coleccionar cosas, ¿quizás podría [interesarte desbloquear alguna insignia rara](https://www.patreon.com/braytech) para tu enlace de miembro?",
-      "MemberLinkExample": "Este podrías ser _tú_, con una pequeña medalla en tu enlace de miembro para demostrar tu apoyo a Braytech y su desarrollo.\n\n_Braytech y sus subsidiarias no respaldan las acciones de Clovis Bray I o sus variantes._"
-    },
-    "Profile": {
-      "Action": "Elige tu personaje",
-      "Description": "¿Quieres ver el progreso de tus objetivos, los triunfos canjeados, los coleccionables descubiertos y mucho más? Carga tu perfil y selecciona tu personaje."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "Apoya Braytech",
+    "BuildBraytech": "Construye Braytech",
+    "Info": "Los anuncios apestan, así que Braytech no los usa, pero construir Braytech cuesta tiempo.\n\nEn lugar de anuncios, Braytech depende de tu generosidad. Tu apoyo ayuda a mantener la aplicación en línea, permite trabajar en nuevas características, y mantiene al desarrollador ¡vivo y con casa!",
+    "RewardSeraph": "Desbloquea la medalla **Serafín**, un símbolo de dedicación y compromiso con la protección del Estratega y sus recursos, y con el desarrollo de la humanidad.",
+    "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
+    "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",
+    "Leaderboards": "Las tablas de clasificación dan mucho trabajo, lo cual, aunque da que pensar, es especialmente costoso. Tuve que comprarme \"Databases for Dummies\" y todo. Si te gusta coleccionar cosas, ¿quizás podría [interesarte desbloquear alguna insignia rara](https://www.patreon.com/braytech) para tu enlace de miembro?",
+    "MemberLinkExample": "Este podrías ser _tú_, con una pequeña medalla en tu enlace de miembro para demostrar tu apoyo a Braytech y su desarrollo.\n\n_Braytech y sus subsidiarias no respaldan las acciones de Clovis Bray I o sus variantes._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

@@ -54,6 +54,7 @@
     "Reset": "重置",
     "SelectDate": "選擇一組日期",
     "SelectMasterwork": "選擇大師之作",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "設定",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "選擇玩家資料"
     },
     "PushNotifications": {
-      "BraveBrowser": "您似乎使用愚蠢的瀏覽器, Brave：請確保瀏覽器設置中啟用了「使用 Google 服務推送消息傳遞」。",
+      "Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
       "Condition": {
         "AnyActivity": "所有活動",
         "AnyMod": "所有模組",
@@ -1158,15 +1159,14 @@
       "Event": "事件",
       "Frequency": "頻率",
       "Incompatible": "你的瀏覽器尚未支持推送通知",
-      "Info": "推送通知将使用浏览器与操作系统的 API 向您发送通知，即使您未在使用本应用。\n\n如果您希望 Braytech 向您推送通知，您可以在此控制是否推送、何时推送以及为何推送。",
       "NoServiceWorker": "Service Worker 未被安装。请尝试重载 Braytech。",
       "PermissionDenied": "您的浏览器报告您拒绝了发送通知的权限。在继续之前您将需要手动启用或重置这些权限。",
+      "ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
       "PreviewNotifications": {
         "Description": "立即推送启用通知。",
         "Name": "预览通知"
       },
-      "ServiceWorkerInstalling": "Service Worker 正在安装中。请稍候。",
-      "Users": "🦘 Users"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "选择重载应用以使您的修改立即生效。",
@@ -1223,6 +1223,7 @@
         "Connected": "🦘 Your connected Discord profile.",
         "Disconnected": "🦘 Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech)."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "🦘 Active Subscription",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
     "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "想查詢您的目標和其他數據進度嗎？通過Bungie.net進行身份驗證，並允許Braytech安全獲取您的個人游戲數據資料."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "🦘 Support Braytech",
-      "BuildBraytech": "🦘 Build Braytech",
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-      "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-      "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-      "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-      "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
-      "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._"
-    },
-    "Profile": {
-      "Action": "選取你的角色",
-      "Description": "想查看您的進展、兌換的記錄、發現的收藏品等等？ 加載您的個人資料並選擇您的角色。"
-    }
+  "Subscriptions": {
+    "SupportBraytech": "🦘 Support Braytech",
+    "BuildBraytech": "🦘 Build Braytech",
+    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
+    "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
+    "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
+    "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
+    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

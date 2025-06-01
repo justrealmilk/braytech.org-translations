@@ -54,6 +54,7 @@
     "Reset": "Réinitialiser",
     "SelectDate": "Sélectionnez une date",
     "SelectMasterwork": "Sélectionner Pièce Maîtresse",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "Confirmer",
     "Snatch": "Arracher",
     "Submit": "Soumettre",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "Sélectionnez un profil"
     },
     "PushNotifications": {
-      "BraveBrowser": "Il semble que vous utilisiez un navigateur stupide. Brave : assurez-vous que l'option \"Utiliser les services Google pour la messagerie instantanée\" est activée dans les paramètres de votre navigateur.",
+      "Info": "Les notifications 'Push' utilisent les API du navigateur et du système d'exploitation pour vous envoyer des notifications même lorsque vous n'utilisez pas l'application.\n\nSi vous souhaitez que Braytech vous envoie des notifications, vous pouvez contrôler ici certains réglages pour les envoyer.",
       "Condition": {
         "AnyActivity": "Toutes les activités",
         "AnyMod": "Tous les Mods",
@@ -1158,15 +1159,14 @@
       "Event": "Évènement",
       "Frequency": "Fréquence",
       "Incompatible": "Votre navigateur ne prend pas encore en charge les notifications 'Push'.",
-      "Info": "Les notifications 'Push' utilisent les API du navigateur et du système d'exploitation pour vous envoyer des notifications même lorsque vous n'utilisez pas l'application.\n\nSi vous souhaitez que Braytech vous envoie des notifications, vous pouvez contrôler ici certains réglages pour les envoyer.",
       "NoServiceWorker": "Un service 'worker' n'a pas encore été installé. Essayez de recharger Braytech.",
       "PermissionDenied": "Votre navigateur indique que vous avez refusé l'autorisation d'envoyer des notifications. Vous devrez les activer ou les réinitialiser manuellement avant que nous puissions continuer.",
+      "ServiceWorkerInstalling": "Un service worker est en train d'installer. S'il vous plaît, patientez.",
       "PreviewNotifications": {
         "Description": "Envoyez immédiatement les notifications activées.",
         "Name": "Aperçu des notifications"
       },
-      "ServiceWorkerInstalling": "Un service worker est en train d'installer. S'il vous plaît, patientez.",
-      "Users": "Utilisateurs"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "Sélectionnez 'Recharger l'application' pour activer vos changements immédiatement.",
@@ -1223,6 +1223,7 @@
         "Connected": "Votre profil Discord connecté.",
         "Disconnected": "Connectez votre profil Discord en utilisant la commande `/register_discord_with_voluspa` dans le [server] Discord (https://discord.bray.tech)."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Abonnement actif",
       "ManageSubscription": "Gérer l'abonnement",
       "Stripe": "Visitez Stripe pour gérer votre abonnement.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "Synchronisez les triomphes suivis entre les appareils avec Voluspa.",
     "PinPresentationNodes": "Cliquez avec le bouton droit de la présentation pour l'épingler en haut de la liste."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "Vous voulez voir vos objectifs et d'autres données sur les progrès réalisés ? Authentifiez-vous auprès de Bungie.net et permettez à Braytech de lire en toute sécurité les données de votre profil."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "Soutenir Braytech",
-      "BuildBraytech": "Construire Braytech",
-      "Info": "Les publicités sont nulles, donc Braytech ne les utilise pas, mais construire Braytech coûte du temps.\n\nA la place des publicités, Braytech dépend de votre générosité. Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités, et de maintenir le développeur en vie et logé !",
-      "RewardSeraph": "Débloquez la médaille **Seraph**, un symbole de dévouement et d'engagement pour la protection de l'Esprit Tutélaire et de ses biens, et pour l'amélioration de l'humanité.",
-      "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée d'Esprit Tutélaire ultra.",
-      "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
-      "Leaderboards": "Les classements représentent beaucoup de travail, ce qui, bien que stimulant, est particulièrement coûteux. J'ai dû acheter des bases de données pour les nuls et tout le reste. Si vous aimez collectionner des objets, nous pourrions peut-être [interest you in unlocking some a rare medal] (https://www.patreon.com/braytech) pour votre profil Braytech ?",
-      "MemberLinkExample": "Cela pourrait être _you_, avec une petite médaille cool sur votre lien de membre pour démontrer votre soutien à Braytech et à son développement.\n\n_Braytech et ses filiales ne soutiennent pas les actions de Clovis Bray I ou de leurs variantes._"
-    },
-    "Profile": {
-      "Action": "Sélectionner votre personnage",
-      "Description": "Vous voulez voir votre progression objective, vos enregistrements échangés, vos objets de collection découverts et bien plus encore ? Chargez votre profil et sélectionnez votre personnage."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "Soutenir Braytech",
+    "BuildBraytech": "Construire Braytech",
+    "Info": "Les publicités sont nulles, donc Braytech ne les utilise pas, mais construire Braytech coûte du temps.\n\nA la place des publicités, Braytech dépend de votre générosité. Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités, et de maintenir le développeur en vie et logé !",
+    "RewardSeraph": "Débloquez la médaille **Seraph**, un symbole de dévouement et d'engagement pour la protection de l'Esprit Tutélaire et de ses biens, et pour l'amélioration de l'humanité.",
+    "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée d'Esprit Tutélaire ultra.",
+    "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
+    "Leaderboards": "Les classements représentent beaucoup de travail, ce qui, bien que stimulant, est particulièrement coûteux. J'ai dû acheter des bases de données pour les nuls et tout le reste. Si vous aimez collectionner des objets, nous pourrions peut-être [interest you in unlocking some a rare medal] (https://www.patreon.com/braytech) pour votre profil Braytech ?",
+    "MemberLinkExample": "Cela pourrait être _you_, avec une petite médaille cool sur votre lien de membre pour démontrer votre soutien à Braytech et à son développement.\n\n_Braytech et ses filiales ne soutiennent pas les actions de Clovis Bray I ou de leurs variantes._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {

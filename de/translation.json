@@ -54,6 +54,7 @@
     "Reset": "Zurücksetzen",
     "SelectDate": "Datum auswählen",
     "SelectMasterwork": "Wähle Meisterwerk",
+    "SelectYourCharacter": "🦘 Select Your Character",
     "Set": "Setzen",
     "Snatch": "🦘 Snatch",
     "Submit": "🦘 Submit",
@@ -1143,7 +1144,7 @@
       "NoProfileSelected": "Wähle ein Profil"
     },
     "PushNotifications": {
-      "BraveBrowser": "Du scheinst einen komischen Browser zu benutzen, Brave: Bitte stelle sicher, dass \"Google-Dienste für Push-Nachrichten verwenden\" in den Einstellungen deines Browsers aktiviert ist.",
+      "Info": "Push-Benachrichtigungen verwenden Browser- und Betriebssystem-APIs, um dir Benachrichtigungen zu senden, auch wenn du die App nicht verwendest.\n\n Wenn du möchtest, dass Braytech dir Benachrichtigungen sendet, kannst du hier festlegen, ob, wann und wofür.",
       "Condition": {
         "AnyActivity": "Jegliche Aktivität",
         "AnyMod": "Jeglicher Mod",
@@ -1158,15 +1159,14 @@
       "Event": "Event",
       "Frequency": "Frquenz",
       "Incompatible": "Dein Browser unterstützt noch keine Push-Benachrichtigungen.",
-      "Info": "Push-Benachrichtigungen verwenden Browser- und Betriebssystem-APIs, um dir Benachrichtigungen zu senden, auch wenn du die App nicht verwendest.\n\n Wenn du möchtest, dass Braytech dir Benachrichtigungen sendet, kannst du hier festlegen, ob, wann und wofür.",
       "NoServiceWorker": "Ein Dienst wurde noch nicht installiert. Versuche Braytech neu zuladen.",
       "PermissionDenied": "Dein Browser sagt, dass du die Erlaubnis zum Senden von Benachrichtigungen verweigert hast. Du musst sie manuell aktivieren oder zurücksetzen, bevor wir fortfahren können.",
+      "ServiceWorkerInstalling": "Ein Dienst wird installiert. Bitte warte.",
       "PreviewNotifications": {
         "Description": "Aktivierte Benachrichtigungen werden sofort versenden.",
         "Name": "Vorschau Benachrichtigungen"
       },
-      "ServiceWorkerInstalling": "Ein Dienst wird installiert. Bitte warte.",
-      "Users": "Benutzer"
+      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
     },
     "ReloadRequired": {
       "Description": "Wähle App neu laden, um deine Änderungen sofort zu aktivieren.",
@@ -1223,6 +1223,7 @@
         "Connected": "Dein verbundenes Discord Profil.",
         "Disconnected": "Verbinde dein Discord Profil, indem du den `/register_discord_with_voluspa` Befehl im [Braytech Discord Server](https://discord.bray.tech) verwendest."
       },
+      "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Aktive Mitgliedschaft",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
@@ -1455,24 +1456,16 @@
     "TrackedSync": "Synchronisiere markierte Triumphe zwischen Geräten mit Voluspa.",
     "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
   },
-  "Upsell": {
-    "Auth": {
-      "Description": "Willst du deine Fortschritte einsehen können? Melde dich über Bungie.net an und erlaube Braytech, deine Profildaten zu lesen."
-    },
-    "Subscriptions": {
-      "SupportBraytech": "Unterstütze Braytech",
-      "BuildBraytech": "Baue Braytech",
-      "Info": "Werbung ist ätzend, deshalb verwendet Braytech keine, allerdings kostet es eine Menge Zeit, an Braytech zu arbeiten.\n\nStatt Werbung ist Braytech auf deine Großzügigkeit angewiesen. Deine Unterstützung hilft, die App am Laufen zu halten, ermöglicht die Arbeit an neuen Funktionen und hält den Entwickler am Leben und unter einem Dach!",
-      "RewardSeraph": "Schalte das **Seraph****-Abzeichen frei, ein Symbol der Hingabe und des Engagements für den Schutz des Kriegsgeistes und seiner Ressourcen ... und für die Verbesserung der Menschheit.",
-      "RewardSubmind": "Submind-Stufe Patrons schalten dieses animierte Krigsgeist-Ultra-Abzeichen frei.",
-      "Rewards": "Schalte einzigartig Profil Abzeichen frei, indem du Braytechs Patreon abonnierst.",
-      "Leaderboards": "Ranglisten sind eine Menge Arbeit, die zwar zum Nachdenken anregt, was auch sehr kostspielig ist. Ich musste mir auch „Datenbanken für Dummies” und alles andere zulegen. Wenn du gerne Dinge sammelst, könnten wir vielleicht dein [Interesse zum Freischalten eines seltenen Abzeichens](https://www.patreon.com/braytech) für dein Braytech-Profil wecken?",
-      "MemberLinkExample": "Das könntest _du_ sein mit einem coolen kleinen Abzeichen an deiner Mitglieder Verknüpfung, um deine Unterstützung für Braytech und seine Entwicklung zu demonstrieren.\n\n_Braytech und ihre Tochtergesellschaften unterstützen nicht die Handlungen von Clovis Bray I oder seiner Varianten._"
-    },
-    "Profile": {
-      "Action": "Charakterauswahl",
-      "Description": "Willst du deine Fortschritte, eingelösten Triumphe, Sammlungen und vieles mehr einsehen? Lade dein Profil und wähle deinen Charakter."
-    }
+  "Subscriptions": {
+    "SupportBraytech": "Unterstütze Braytech",
+    "BuildBraytech": "Baue Braytech",
+    "Info": "Werbung ist ätzend, deshalb verwendet Braytech keine, allerdings kostet es eine Menge Zeit, an Braytech zu arbeiten.\n\nStatt Werbung ist Braytech auf deine Großzügigkeit angewiesen. Deine Unterstützung hilft, die App am Laufen zu halten, ermöglicht die Arbeit an neuen Funktionen und hält den Entwickler am Leben und unter einem Dach!",
+    "RewardSeraph": "Schalte das **Seraph****-Abzeichen frei, ein Symbol der Hingabe und des Engagements für den Schutz des Kriegsgeistes und seiner Ressourcen ... und für die Verbesserung der Menschheit.",
+    "RewardSubmind": "Submind-Stufe Patrons schalten dieses animierte Krigsgeist-Ultra-Abzeichen frei.",
+    "Rewards": "Schalte einzigartig Profil Abzeichen frei, indem du Braytechs Patreon abonnierst.",
+    "Leaderboards": "Ranglisten sind eine Menge Arbeit, die zwar zum Nachdenken anregt, was auch sehr kostspielig ist. Ich musste mir auch „Datenbanken für Dummies” und alles andere zulegen. Wenn du gerne Dinge sammelst, könnten wir vielleicht dein [Interesse zum Freischalten eines seltenen Abzeichens](https://www.patreon.com/braytech) für dein Braytech-Profil wecken?",
+    "MemberLinkExample": "Das könntest _du_ sein mit einem coolen kleinen Abzeichen an deiner Mitglieder Verknüpfung, um deine Unterstützung für Braytech und seine Entwicklung zu demonstrieren.\n\n_Braytech und ihre Tochtergesellschaften unterstützen nicht die Handlungen von Clovis Bray I oder seiner Varianten._",
+    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
   },
   "Vendor": {
     "FailureStrings": {
