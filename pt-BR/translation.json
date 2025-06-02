@@ -945,7 +945,9 @@
     "SavedProfile": "Perfil salvo",
     "SearchForPlayer": "Procurar jogador",
     "SearchPlaceholder": "Insira a gamertag ou SteamId64",
-    "SelectACharacter": "Selecionar o personagem"
+    "SelectACharacter": "Selecionar o personagem",
+    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
+    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "🦘 Points",

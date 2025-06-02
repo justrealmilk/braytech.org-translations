@@ -945,7 +945,9 @@
     "SavedProfile": "Saved Profile",
     "SearchForPlayer": "Profile Search",
     "SearchPlaceholder": "enter BungieName#0343",
-    "SelectACharacter": "Select a Character"
+    "SelectACharacter": "Select a Character",
+    "ThirdPartyApps": "View this player's profile on one of our friend's apps.",
+    "ContentOwned": "This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "Points",

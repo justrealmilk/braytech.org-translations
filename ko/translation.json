@@ -945,7 +945,9 @@
     "SavedProfile": "저장된 프로필",
     "SearchForPlayer": "플레이어 검색",
     "SearchPlaceholder": "게임태그 또는 SteamId64 입력",
-    "SelectACharacter": "캐릭터 선택"
+    "SelectACharacter": "캐릭터 선택",
+    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
+    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "🦘 Points",

@@ -945,7 +945,9 @@
     "SavedProfile": "保存したプロファイル",
     "SearchForPlayer": "プレイヤーを検索する",
     "SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
-    "SelectACharacter": "キャラクターを選択する"
+    "SelectACharacter": "キャラクターを選択する",
+    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
+    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "ポイント",

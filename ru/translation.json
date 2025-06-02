@@ -945,7 +945,9 @@
     "SavedProfile": "Сохраненный профиль",
     "SearchForPlayer": "Найти игрока",
     "SearchPlaceholder": "Введите ИмяBungie#0343",
-    "SelectACharacter": "Выберите персонажа"
+    "SelectACharacter": "Выберите персонажа",
+    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
+    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "Очки",

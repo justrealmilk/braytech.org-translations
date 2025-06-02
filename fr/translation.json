@@ -945,7 +945,9 @@
     "SavedProfile": "Profil sauvegardé",
     "SearchForPlayer": "Recherche de joueur",
     "SearchPlaceholder": "Entrez un nom Bungie",
-    "SelectACharacter": "Sélectionner un personnage"
+    "SelectACharacter": "Sélectionner un personnage",
+    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
+    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
   },
   "Progression": {
     "Points": "Points",
