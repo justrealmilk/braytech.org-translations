@@ -493,54 +493,54 @@
     "XP": "{{number}} Опыта"
   },
   "Dresstiny": {
-    "Fit": "Fit",
-    "Fit_plural": "Fits",
-    "Popular": "Popular",
+    "Fit": "Наряд",
+    "Fit_plural": "Наряды",
+    "Popular": "Популярно",
     "CreateFit": {
-      "Name": "Create",
-      "Description": "Create a new fit based on your equipment or fantasy."
+      "Name": "Создать",
+      "Description": "Создай новый наряд основан на твоём снаряжений или фантазий."
     },
     "AlterFit": {
-      "Name": "Alter",
-      "Description": "Alter an existing fit and pull tight any loose threads."
+      "Name": "Изменит",
+      "Description": "Измени существующий нарад и подтяны весующие нити."
     },
     "Form": {
       "Loadout": {
-        "Info": "Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes. **The latest API data is from {{time}}.**"
+        "Info": "Измени свой наряд внутри игры перед тем как создоавать наряд. Может занят пару минут чтоб API обновился. **Последние данные с API были {{time}}.**"
       },
       "Name": {
-        "Info": "An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "<name>"
+        "Info": "Оригинальное имя, подходящее вашей непревзойденной красоте, милости и мужественности.",
+        "Placeholder": "<название>"
       },
       "Description": {
-        "Info": "Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "<description>"
+        "Info": "Описания необязательны и должны быть или менее 256 символов.",
+        "Placeholder": "<описание>"
       },
       "Screenshot": {
-        "Info": "Screenshots should be captured from the **Customize Appearance** screen in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
-        "Placeholder": "<screenshot>"
+        "Info": "🦘 Скриншоты лучше должны быть сделаны с экрана **Customize Appearance** в игре. Направбте свой курсор в нижную середну. **Любые отклонения от этих правил могут привести к неодобрению вашего наряда.** Для идеального наряда, поставьте яркость в настройках игры на 4.",
+        "Placeholder": "<скриншот>"
       },
       "Url": {
-        "Info": "Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "<url> [optional]"
+        "Info": "Добавь ссылку на свой Reddit пост в r/DestinyFashion.",
+        "Placeholder": "<ссылка> [необязательно]"
       }
     },
     "Stats": {
       "Total": {
         "Info": "The length of this zesty lookbook.",
-        "Name": "Total"
+        "Name": "Всего"
       },
       "Likes": {
         "Info": "The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "Likes"
+        "Name": "Лайков"
       },
       "Members": {
-        "Info": "The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "Members"
+        "Info": "Сила, стоящая за этим вихрем моды, задающей тренды. Каждый из них-моды..",
+        "Name": "Участников"
       },
       "ClassDistribution": {
-        "Info": "It's a popularity contest–this is how it's won.",
-        "Name": "Class Distribution"
+        "Info": "Это конкурс популярности-вот как он выйгрывается.",
+        "Name": "Распределение Клссов"
       }
     }
   },
@@ -586,7 +586,7 @@
     "ClassEquipped": "{{name}} (Экипировано)",
     "ClassPostmaster": "{{name}} (Почтмейстер)",
     "CollectionsRoll": "Характеристики из Коллекции",
-    "Uninstanced": "🦘 This item is displayed without any instance data, как бы показывалось в Коллекции.",
+    "Uninstanced": "🦘 Этот предмет показывается без any instance data, также как бы показывалось в Коллекции.",
     "Dupes": "Дупликаты",
     "CouldntFindItemForUnequip": "Предмет для экипировки на место {{name}} не может быть найден на персонаже, на котором он находится.",
     "CraftingRequiredLevel": "Требуется {{number}} уровень оружия",
@@ -845,7 +845,7 @@
       "UntrackableChecklistItem": "Неотслеживаемый элемент контрольного списка",
       "RelatedVideo": "Этот элемент имеет связанное с ним видео: {{url}}",
       "Vendor": {
-        "NoSales": "Здесь нет доступных предметов."
+        "NoSales": "Здесь нет доступных продаж."
       }
     },
     "Nodes": {
