@@ -1244,7 +1244,29 @@
       "Discord": "Braytechコミュニティに参加して仲間たちと集まろう! 雑談、アイデア、バグ報告、アプリのヘルプもすぐに受け取れます。",
       "NewSubs": "Braytechの継続を支援する、最近サブスクリプション登録した支援者の方々",
       "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
-      "JustOnce": "🦘 Just Once"
+      "JustOnce": "🦘 Just Once",
+      "Benefit": {
+        "Username": {
+          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
+          "Name": "🦘 Username"
+        },
+        "Highlight": {
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Name": "🦘 Highlight"
+        },
+        "EmblemCodes": {
+          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
+          "Name": "🦘 Emblem Codes"
+        },
+        "AdvancedLeaderboards": {
+          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
+          "Name": "🦘 Advanced Leaderboards"
+        },
+        "PriorityDevelopment": {
+          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
+          "Name": "🦘 Priority Development"
+        }
+      }
     },
     "BraytechLegend": {
       "Updated": "階級がアップデートされました✨",
