@@ -517,7 +517,7 @@
         "Placeholder": "<description>"
       },
       "Screenshot": {
-        "Info": "Screenshots should be captured from the **Customize Appearance** screen in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
+        "Info": "Screenshots should be captured from the **Customize Appearance** view in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
         "Placeholder": "<screenshot>"
       },
       "Url": {
@@ -1251,7 +1251,7 @@
           "Name": "Username"
         },
         "Highlight": {
-          "Description": "Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "Highlight"
         },
         "EmblemCodes": {
@@ -1259,7 +1259,7 @@
           "Name": "Emblem Codes"
         },
         "AdvancedLeaderboards": {
-          "Description": "If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
+          "Description": "If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you can choose to update your profile's Leaderboards data and reassess all leaderboards on demand.",
           "Name": "Advanced Leaderboards"
         },
         "PriorityDevelopment": {
