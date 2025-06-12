@@ -1236,7 +1236,7 @@
         "Name": "接收电子邮件",
         "Description": "获取Braytech的博客文章以及任何相关订阅者信息直接发送到您的邮箱。"
       },
-      "Benefits": "奖励",
+      "Perks": "奖励",
       "Tiers": "等级",
       "Legends": "🦘 Legends",
       "Connect": "🦘 Connect",
@@ -1271,7 +1271,7 @@
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",
       "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many perks including the ability to grab a custom username.",
       "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
       "SubscriptionRequired": "要申请用户名和其他很酷的技巧，您需要成为订阅者。[支持Braytech](/settings/subscriptions)通过订阅。",
       "Username": "选择一个唯一的用户名或回退到您的Bungie名称。你可以随时更改这个。\n\n根据要求，可提供品牌专家服务，费用适中。",

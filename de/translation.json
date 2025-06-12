@@ -1236,7 +1236,7 @@
         "Name": "🦘 Receive Email",
         "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
       },
-      "Benefits": "Vorteile",
+      "Perks": "Vorteile",
       "Tiers": "Stufen",
       "Legends": "🦘 Legends",
       "Connect": "🦘 Connect",
@@ -1271,7 +1271,7 @@
     "BraytechLegend": {
       "Updated": "🦘 Your legend has been updated. ✨",
       "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many benefits including the ability to grab a custom username.",
+      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many perks including the ability to grab a custom username.",
       "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
       "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
       "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
