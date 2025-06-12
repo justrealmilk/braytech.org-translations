@@ -357,7 +357,7 @@
     "CollectionScore": "Счёт коллекции",
     "CommendationAbr_plural": "Похв.",
     "Completed": "Выполнено",
-    "ContentOwned": "🦘 Content Owned",
+    "ContentOwned": "Имеюшие Расширения",
     "CruciblePlaylist": "Плейлисты Горнила",
     "Currency": "Валюта",
     "Currency_plural": "Валюты",
@@ -493,54 +493,54 @@
     "XP": "{{number}} Опыта"
   },
   "Dresstiny": {
-    "Fit": "Fit",
-    "Fit_plural": "Fits",
-    "Popular": "Popular",
+    "Fit": "Наряд",
+    "Fit_plural": "Наряды",
+    "Popular": "Популярно",
     "CreateFit": {
-      "Name": "Create",
-      "Description": "Create a new fit based on your equipment or fantasy."
+      "Name": "Создать",
+      "Description": "Создай новый наряд основан на твоём снаряжений или фантазий."
     },
     "AlterFit": {
-      "Name": "Alter",
-      "Description": "Alter an existing fit and pull tight any loose threads."
+      "Name": "Изменит",
+      "Description": "Измени существующий нарад и подтяны весующие нити."
     },
     "Form": {
       "Loadout": {
-        "Info": "Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes. **The latest API data is from {{time}}.**"
+        "Info": "Измени свой наряд внутри игры перед тем как создоавать наряд. Может занят пару минут чтоб API обновился. **Последние данные с API были {{time}}.**"
       },
       "Name": {
-        "Info": "An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "<name>"
+        "Info": "Оригинальное имя, подходящее вашей непревзойденной красоте, милости и мужественности.",
+        "Placeholder": "<название>"
       },
       "Description": {
-        "Info": "Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "<description>"
+        "Info": "Описания необязательны и должны быть или менее 256 символов.",
+        "Placeholder": "<описание>"
       },
       "Screenshot": {
-        "Info": "Screenshots should be captured from the **Customize Appearance** screen in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
-        "Placeholder": "<screenshot>"
+        "Info": "🦘 Скриншоты лучше должны быть сделаны с экрана **Customize Appearance** в игре. Направбте свой курсор в нижную середну. **Любые отклонения от этих правил могут привести к неодобрению вашего наряда.** Для идеального наряда, поставьте яркость в настройках игры на 4.",
+        "Placeholder": "<скриншот>"
       },
       "Url": {
-        "Info": "Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "<url> [optional]"
+        "Info": "Добавь ссылку на свой Reddit пост в r/DestinyFashion.",
+        "Placeholder": "<ссылка> [необязательно]"
       }
     },
     "Stats": {
       "Total": {
         "Info": "The length of this zesty lookbook.",
-        "Name": "Total"
+        "Name": "Всего"
       },
       "Likes": {
         "Info": "The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "Likes"
+        "Name": "Лайков"
       },
       "Members": {
-        "Info": "The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "Members"
+        "Info": "Сила, стоящая за этим вихрем моды, задающей тренды. Каждый из них-моды..",
+        "Name": "Участников"
       },
       "ClassDistribution": {
-        "Info": "It's a popularity contest–this is how it's won.",
-        "Name": "Class Distribution"
+        "Info": "Это конкурс популярности-вот как он выйгрывается.",
+        "Name": "Распределение Клссов"
       }
     }
   },
@@ -586,7 +586,7 @@
     "ClassEquipped": "{{name}} (Экипировано)",
     "ClassPostmaster": "{{name}} (Почтмейстер)",
     "CollectionsRoll": "Характеристики из Коллекции",
-    "Uninstanced": "🦘 This item is displayed without any instance data, как бы показывалось в Коллекции.",
+    "Uninstanced": "🦘 Этот предмет показывается без any instance data, также как бы показывалось в Коллекции.",
     "Dupes": "Дупликаты",
     "CouldntFindItemForUnequip": "Предмет для экипировки на место {{name}} не может быть найден на персонаже, на котором он находится.",
     "CraftingRequiredLevel": "Требуется {{number}} уровень оружия",
@@ -845,7 +845,7 @@
       "UntrackableChecklistItem": "Неотслеживаемый элемент контрольного списка",
       "RelatedVideo": "Этот элемент имеет связанное с ним видео: {{url}}",
       "Vendor": {
-        "NoSales": "Здесь нет доступных предметов."
+        "NoSales": "Здесь нет доступных продаж."
       }
     },
     "Nodes": {
@@ -1247,24 +1247,24 @@
       "JustOnce": "Один Раз",
       "Benefit": {
         "Username": {
-          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
-          "Name": "🦘 Username"
+          "Description": "Сократи свою ссылку с кучи длинных цифр до чего-то более роскошное.\n\nВыбери уникальное имя или твое совподяющее имя Bungie, решение твоё. Это просто еще один милый способ отличить себя от других игроков, и облегчает доступ прямо к своему профилю на устройстве, которое вы не использовали.\n\nЭмодзи поддержываются **🐸**",
+          "Name": "Имя пользователя"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
-          "Name": "🦘 Highlight"
+          "Description": "Выдели какой-то специальный Триумф или удивительный трэкер.\n\nЭто выделеные будет показываться на твоём экране [Легенды](/legend) и в изображениях для ссылок которые разашлёшь по интернету.",
+          "Name": "Выделение"
         },
         "EmblemCodes": {
-          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
-          "Name": "🦘 Emblem Codes"
+          "Description": "Braytech набрало большую коллекцию кодов эмблем, в которую иногда вносят вклад самые доброжелательные пользователи.\n\nКак подписчик, вы можете запросить код на любую эмблему из [Тайника Разработчика]({{url}}).",
+          "Name": "Коды Эмблем"
         },
         "AdvancedLeaderboards": {
-          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
-          "Name": "🦘 Advanced Leaderboards"
+          "Description": "Если вы опытный с [Таблицами Лидеров](/leaderboards), у тебя ещё пара инструментов.\n\nКак подписчик, вы можете сравнить разницы между соседними игроками на таблице, и у вас есть опция обновить свои данные в Таблице и все другие таблицы, в любое время.",
+          "Name": "Расширённые Таблицы Лидеров"
         },
         "PriorityDevelopment": {
-          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
-          "Name": "🦘 Priority Development"
+          "Description": "Braytech идеален настолько, насколько он полезен для пользователей. Я, разработчик, всегда брал обратную связь и предложения от пользовтелей.\n\nПользователи помогают сделать Braytech лучше, и я дам приоритет вашим отзывам и предложениям.",
+          "Name": "Приоритетная Разработка"
         }
       }
     },
