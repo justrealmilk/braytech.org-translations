@@ -393,6 +393,7 @@
     "FireteamSize": "Fireteam Size",
     "Friend": "Friend",
     "Friend_plural": "Friends",
+    "FriendNth_plural": "{{number}} Friends",
     "GloryPoints": "Glory Points",
     "GuardianRank": "Guardian Rank",
     "Guardians": "Guardians",

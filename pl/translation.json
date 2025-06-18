@@ -393,6 +393,7 @@
     "FireteamSize": "🦘 화력팀 크기",
     "Friend": "🦘 Friend",
     "Friend_plural": "🦘 Friends",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "🦘 Glory Points",
     "GuardianRank": "🦘 Guardian Rank",
     "Guardians": "🦘 Guardians",

@@ -393,6 +393,7 @@
     "FireteamSize": "Tamaño de la escuadra",
     "Friend": "Amigo",
     "Friend_plural": "Amigos",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "Puntos de Gloria",
     "GuardianRank": "Rango de Guardián",
     "Guardians": "Guardianes",

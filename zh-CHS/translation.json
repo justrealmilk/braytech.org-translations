@@ -393,6 +393,7 @@
     "FireteamSize": "火力战队规模",
     "Friend": "好友",
     "Friend_plural": "好友",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "荣耀点数",
     "GuardianRank": "守护者等级",
     "Guardians": "守护者",

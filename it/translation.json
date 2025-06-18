@@ -393,6 +393,7 @@
     "FireteamSize": "Posti squadra",
     "Friend": "Amici",
     "Friend_plural": "Amici",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "Punti gloria",
     "GuardianRank": "Grado del Guardiano",
     "Guardians": "Guardiani",
