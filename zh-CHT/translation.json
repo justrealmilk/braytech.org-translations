@@ -393,6 +393,7 @@
     "FireteamSize": "獲利戰隊規模",
     "Friend": "🦘 Friend",
     "Friend_plural": "🦘 Friends",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "榮耀分數",
     "GuardianRank": "🦘 Guardian Rank",
     "Guardians": "守護者",

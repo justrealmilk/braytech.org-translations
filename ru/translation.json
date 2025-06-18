@@ -393,6 +393,7 @@
     "FireteamSize": "Размер боевой группы",
     "Friend": "Друг",
     "Friend_plural": "Друзья",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "Очков славы",
     "GuardianRank": "Ранг Стража",
     "Guardians": "Стражи",

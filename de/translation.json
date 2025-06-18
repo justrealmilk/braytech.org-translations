@@ -393,6 +393,7 @@
     "FireteamSize": "Einsatztruppgröße",
     "Friend": "Freund",
     "Friend_plural": "Freunde",
+    "FriendNth_plural": "🦘 {{number}} Friends",
     "GloryPoints": "Ruhmpunkte",
     "GuardianRank": "Hüter-Rang",
     "Guardians": "Hüter",
