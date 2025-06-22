@@ -507,7 +507,7 @@
     },
     "Form": {
       "Loadout": {
-        "Info": "Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes. **The latest API data is from {{time}}.**"
+        "Info": "Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes. _Please ensure the displayed equipment matches before submission._ **The latest API data is from {{time}}.**"
       },
       "Name": {
         "Info": "An original name befitting your unmatched beauty, cutesieness, and machismo.",
