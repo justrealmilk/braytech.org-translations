@@ -730,6 +730,10 @@
       "Description": "Le spectre d'un gardien\n\nVotre vie après votre vie commence ici. Vous êtes un ressuscité, choisi par un spectre et doté d'un grand pouvoir à travers la lumière et les ténèbres.\n\nVoici vos premiers pas.",
       "Name": "Première apparition"
     },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
+    },
     "Highlight": {
       "Description": "Votre fierté et votre joie\n\nVous avez choisi de porter cet accomplissement sur votre épaule, pour que tout le monde puisse le voir.",
       "Name": "Mise en lumière"

@@ -730,6 +730,10 @@
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
     },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
+    },
     "Highlight": {
       "Description": "誇りと歓喜\n\nお前はこの功績を、周囲に知れ渡るよう肩にかけることを選んだ。",
       "Name": "ハイライト"

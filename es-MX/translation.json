@@ -730,6 +730,10 @@
       "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
       "Name": "Primer renacido"
     },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
+    },
     "Highlight": {
       "Description": "Tu orgullo y alegría\n\nElegiste lucir este logro a la vista de todos.",
       "Name": "Destacado"
