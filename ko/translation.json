@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!"
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -380,6 +381,7 @@
     "Expired": "만료됨",
     "Expiry": "만료",
     "Failure": "실패",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "선정된 이벤트",
     "FeaturedNightfall": "선정된 황혼전",
     "FeaturedPlaylist": "선정된 플레이리스트",

@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "部分已取得，{{invisible}} 件已隐藏",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "任何遭遇战",
-    "FinalEncounter": "最后遭遇战"
+    "FinalEncounter": "最后遭遇战",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!"
   },
   "Commendations": {
     "Received": "已收到嘉奖",
@@ -380,6 +381,7 @@
     "Expired": "失效",
     "Expiry": "过期时间",
     "Failure": "失败",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "赛季活动",
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "轮换游玩列表",

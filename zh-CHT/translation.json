@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!"
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -380,6 +381,7 @@
     "Expired": "失效",
     "Expiry": "到期",
     "Failure": "失敗",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "賽季活動",
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "輪換游玩列表",
