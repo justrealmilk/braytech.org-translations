@@ -309,8 +309,7 @@
     "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
     "Encounter": "遭遇戦",
     "AnyEncounter": "全遭遇戦",
-    "FinalEncounter": "最終エンカウンター",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!"
+    "FinalEncounter": "最終エンカウンター"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -381,7 +380,6 @@
     "Expired": "期限切れ",
     "Expiry": "残り時間",
     "Failure": "失敗",
-    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "注目のイベント",
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",

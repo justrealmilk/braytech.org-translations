@@ -309,8 +309,7 @@
     "SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!"
+    "FinalEncounter": "🦘 Final Encounter"
   },
   "Commendations": {
     "Received": "Ricevuti",
@@ -381,7 +380,6 @@
     "Expired": "Scaduta",
     "Expiry": "Scadenza",
     "Failure": "Fallimento",
-    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "Evento in evidenza",
     "FeaturedNightfall": "Cala la Notte in evidenza",
     "FeaturedPlaylist": "Playlist in evidenza",
