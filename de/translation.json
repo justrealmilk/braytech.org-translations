@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "Einige erworben, {{invisible}} unsichtbar.",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "Erhalten",
@@ -380,6 +381,7 @@
     "Expired": "Abgelaufen",
     "Expiry": "Verfall",
     "Failure": "Gescheitert",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "Ausgewähltes Event",
     "FeaturedNightfall": "Ausgewählte Dämmerung",
     "FeaturedPlaylist": "Ausgewählte Playlist",

@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
     "Encounter": "Столкновение",
     "AnyEncounter": "Лобое Столкновение",
-    "FinalEncounter": "Финальное Столкновение"
+    "FinalEncounter": "Финальное Столкновение",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "Получено",
@@ -380,6 +381,7 @@
     "Expired": "Истекло",
     "Expiry": "Истечение",
     "Failure": "Неудачи",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "Мероприятие",
     "FeaturedNightfall": "Сумрачный Налёт",
     "FeaturedPlaylist": "Плейлист",
