@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
     "Encounter": "Encounter",
     "AnyEncounter": "Any Encounter",
-    "FinalEncounter": "Final Encounter"
+    "FinalEncounter": "Final Encounter",
+    "StashFavourites": "Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "Received",
@@ -380,6 +381,7 @@
     "Expired": "Expired",
     "Expiry": "Expiry",
     "Failure": "Failure",
+    "Favourite_plural": "Favourites",
     "FeaturedEvent": "Featured Event",
     "FeaturedNightfall": "Featured Nightfall",
     "FeaturedPlaylist": "Featured Playlist",
@@ -601,6 +603,7 @@
     "Inspect": "Inspect",
     "Intrinsic": "Intrinsic",
     "ItemAction": "Item Action",
+    "Locked": "Locked",
     "Mods": "Mods",
     "Marked": "Marked",
     "PerkEverything": "This perk is highly sought after for all activities",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
       "Name": "First Risen"
+    },
+    "Dresstiny": {
+      "Description": "Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "Dresstiny"
     },
     "Highlight": {
       "Description": "Pride and joy\n\nIt's a trophy, a badge of honour, and a mark of distinction. It's the thing you show off to your friends and family.\n\nThis is what you want to be known for.",
@@ -975,6 +982,7 @@
     "Rewards": "Quest Rewards",
     "Steps": "Quest Steps",
     "ProjectedRanks": "The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "ExperienceNeeded": "Experience needed for next rank.",
     "BountiesValue": "The value of your completed bounties.",
     "XPBonuses": "Bonuses",
     "SuggestedPath": "Suggested Path"

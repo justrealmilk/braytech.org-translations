@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -380,6 +381,7 @@
     "Expired": "만료됨",
     "Expiry": "만료",
     "Failure": "실패",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "선정된 이벤트",
     "FeaturedNightfall": "선정된 황혼전",
     "FeaturedPlaylist": "선정된 플레이리스트",
@@ -601,6 +603,7 @@
     "Inspect": "조사",
     "Intrinsic": "본질",
     "ItemAction": "🦘 Item Action",
+    "Locked": "🦘 Locked",
     "Mods": "개조 부품",
     "Marked": "🦘 Marked",
     "PerkEverything": "이 속성은 모든 활동에서 선호되고 있습니다.",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
       "Name": "🦘 First Risen"
+    },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
     },
     "Highlight": {
       "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
@@ -975,6 +982,7 @@
     "Rewards": "🦘 Quest Rewards",
     "Steps": "🦘 Quest Steps",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
@@ -1252,7 +1260,7 @@
           "Name": "🦘 Username"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "🦘 Highlight"
         },
         "EmblemCodes": {

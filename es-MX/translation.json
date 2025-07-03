@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
     "Encounter": "Encuentro",
     "AnyEncounter": "Cualquier encuentro",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "Recibidos",
@@ -380,6 +381,7 @@
     "Expired": "Caducado",
     "Expiry": "Caducidad",
     "Failure": "Fracaso",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "Evento destacado",
     "FeaturedNightfall": "Ocaso destacado",
     "FeaturedPlaylist": "Lista destacada",
@@ -601,6 +603,7 @@
     "Inspect": "Inspeccionar",
     "Intrinsic": "Intrínseco",
     "ItemAction": "Acción de objeto",
+    "Locked": "🦘 Locked",
     "Mods": "Modificadores",
     "Marked": "🦘 Marked",
     "PerkEverything": "Esta ventaja se busca mucho para todas las actividades",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",
       "Name": "Primer renacido"
+    },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
     },
     "Highlight": {
       "Description": "Tu orgullo y alegría\n\nElegiste lucir este logro a la vista de todos.",
@@ -975,6 +982,7 @@
     "Rewards": "Recompensas de aventura",
     "Steps": "Pasos de aventura",
     "ProjectedRanks": "El valor de tus contratos completados equivaldrá a estos rangos del pase de temporada si los reclamas.",
+    "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "El valor de tus contratos completados.",
     "XPBonuses": "Bonificaciones",
     "SuggestedPath": "Camino sugerido"
@@ -1252,7 +1260,7 @@
           "Name": "🦘 Username"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "🦘 Highlight"
         },
         "EmblemCodes": {

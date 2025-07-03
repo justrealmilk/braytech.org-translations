@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "Einige erworben, {{invisible}} unsichtbar.",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "Erhalten",
@@ -380,6 +381,7 @@
     "Expired": "Abgelaufen",
     "Expiry": "Verfall",
     "Failure": "Gescheitert",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "Ausgewähltes Event",
     "FeaturedNightfall": "Ausgewählte Dämmerung",
     "FeaturedPlaylist": "Ausgewählte Playlist",
@@ -601,6 +603,7 @@
     "Inspect": "Inspizieren",
     "Intrinsic": "Intrinsic",
     "ItemAction": "Gegenstands-Aktionen",
+    "Locked": "🦘 Locked",
     "Mods": "Mods",
     "Marked": "🦘 Marked",
     "PerkEverything": "Dieser Perk ist für alle Aktivitäten sehr gesucht",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "Der Hüter eines Geistes\n\nDein Leben nach dem Leben beginnt hier. Du bist ein Wiederauferstandener, der von einem Geist auserwählt und mit großer Macht durch Licht und Dunkelheit ausgestattet wurde.\n\n Dies waren deine ersten Schritte.",
       "Name": "Erste Auferstehung"
+    },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
     },
     "Highlight": {
       "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
@@ -975,6 +982,7 @@
     "Rewards": "🦘 Quest Rewards",
     "Steps": "🦘 Quest Steps",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
@@ -1252,7 +1260,7 @@
           "Name": "🦘 Username"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "🦘 Highlight"
         },
         "EmblemCodes": {

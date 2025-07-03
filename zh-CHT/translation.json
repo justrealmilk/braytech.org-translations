@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter"
+    "FinalEncounter": "🦘 Final Encounter",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "🦘 Received",
@@ -380,6 +381,7 @@
     "Expired": "失效",
     "Expiry": "到期",
     "Failure": "失敗",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "賽季活動",
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "輪換游玩列表",
@@ -601,6 +603,7 @@
     "Inspect": "查看",
     "Intrinsic": "固有框架",
     "ItemAction": "動作",
+    "Locked": "🦘 Locked",
     "Mods": "模組",
     "Marked": "🦘 Marked",
     "PerkEverything": "該特性適合所有活動",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
       "Name": "第一次復活"
+    },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
     },
     "Highlight": {
       "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
@@ -975,6 +982,7 @@
     "Rewards": "🦘 Quest Rewards",
     "Steps": "🦘 Quest Steps",
     "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
+    "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
     "SuggestedPath": "🦘 Suggested Path"
@@ -1252,7 +1260,7 @@
           "Name": "🦘 Username"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "🦘 Highlight"
         },
         "EmblemCodes": {

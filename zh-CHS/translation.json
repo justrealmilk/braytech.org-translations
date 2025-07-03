@@ -309,7 +309,8 @@
     "SomeAcquiredSomeInvisible": "部分已取得，{{invisible}} 件已隐藏",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "任何遭遇战",
-    "FinalEncounter": "最后遭遇战"
+    "FinalEncounter": "最后遭遇战",
+    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
   },
   "Commendations": {
     "Received": "已收到嘉奖",
@@ -380,6 +381,7 @@
     "Expired": "失效",
     "Expiry": "过期时间",
     "Failure": "失败",
+    "Favourite_plural": "🦘 Favourites",
     "FeaturedEvent": "赛季活动",
     "FeaturedNightfall": "日落",
     "FeaturedPlaylist": "轮换游玩列表",
@@ -601,6 +603,7 @@
     "Inspect": "查看",
     "Intrinsic": "固有框架",
     "ItemAction": "动作",
+    "Locked": "🦘 Locked",
     "Mods": "模组",
     "Marked": "已标记",
     "PerkEverything": "该特性适合所有活动",
@@ -728,6 +731,10 @@
     "Activity": {
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
       "Name": "首次复生"
+    },
+    "Dresstiny": {
+      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
+      "Name": "🦘 Dresstiny"
     },
     "Highlight": {
       "Description": "你的骄傲与喜悦\n\n你选择把这个成就扛在肩上，让周围的人看到。",
@@ -975,6 +982,7 @@
     "Rewards": "奖励",
     "Steps": "步骤",
     "ProjectedRanks": "您完成的悬赏价值等同于您领取上述季票等级。",
+    "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "您完成的悬赏的价值。",
     "XPBonuses": "加成",
     "SuggestedPath": "建议路径"
@@ -1252,7 +1260,7 @@
           "Name": "🦘 Username"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) screen and in images generated for links you share around the internet.",
+          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
           "Name": "🦘 Highlight"
         },
         "EmblemCodes": {
