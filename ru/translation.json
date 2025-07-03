@@ -946,6 +946,8 @@
       }
     },
     "GetStarted": "Похоже, вы здесь новичок! Вы можете начать, нажав **Авторизоваться** и войдя на Bungie.net, или вы можете найти свое имя Bungie и загрузить свой профиль вручную!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "Новый Свет",
     "NoProfilesFound": "Нет найденных профилей",
     "PreviousSearches": "Прошлые поиски",

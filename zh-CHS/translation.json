@@ -946,6 +946,8 @@
       }
     },
     "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "新曙光",
     "NoProfilesFound": "没有找到档案",
     "PreviousSearches": "历史搜索",

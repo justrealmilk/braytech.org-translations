@@ -946,6 +946,8 @@
       }
     },
     "GetStarted": "¡Parece que eres nuevo aquí! ¡Puedes empezar pulsando **Autentícate** e iniciar sesión en Bungie.net o puedes buscar tu nombre de Bungie y cargar tu perfil manualmente!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "Nueva Luz",
     "NoProfilesFound": "Ningún perfil encontrado",
     "PreviousSearches": "Búsquedas anteriores",

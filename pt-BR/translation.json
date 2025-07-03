@@ -946,6 +946,8 @@
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "🦘 New Light",
     "NoProfilesFound": "Nenhum perfil encontrado",
     "PreviousSearches": "Buscas anteriores",

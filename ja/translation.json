@@ -946,6 +946,8 @@
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "新たな光",
     "NoProfilesFound": "プロファイルはありません",
     "PreviousSearches": "前の検索",
