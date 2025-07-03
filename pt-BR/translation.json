@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
         "Placeholder": "🦘 <name>"

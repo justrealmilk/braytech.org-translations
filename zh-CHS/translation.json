@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "在创建装备配置前，请先在游戏中调整装备。API可能需要一些时间来反映您的更改。"
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "一个原创的名字，配得上你无与伦比的美丽、可爱和男子气概。",
         "Placeholder": "名称"

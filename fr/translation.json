@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "Ajustez votre équipement en jeu avant de créer une apparence. L’API peut prendre un peu de temps pour refléter les changements."
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "Un nom original digne de ta beauté inégalée, de ta mignonnerie irrésistible, et de ton charisme viril.",
         "Placeholder": "<nom>"
