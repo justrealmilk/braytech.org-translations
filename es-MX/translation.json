@@ -728,9 +728,9 @@
     "Profile": {
       "Description": "¿Qué es lo que te da poder? A través de la luz y la oscuridad, ¿te mantienes en primera línea como un Titán, desintegras ejércitos enteros desde lejos como un Hechicero o te mueves cobardemente entre las sombras como un Cazador?"
     },
-    "Guardian": {
-      "Description": "¿Qué te da poder? A través de la luz y la oscuridad, ¿defiendes la primera línea como un Titán, desintegras ejércitos enteros desde lejos como un Hechicero, o te mueves sigilosamente entre las sombras como un Cazador?",
-      "Name": "Guardián"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "El espectro del Guardián\n\nTu vida después de tu vida comienza aquí. Eres un renacido, elegido por un Espectro, y dotado de un gran poder a través de la Luz y la Oscuridad.\n\nEstos fueron tus primeros pasos.",

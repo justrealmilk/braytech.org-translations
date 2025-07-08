@@ -728,9 +728,9 @@
     "Profile": {
       "Description": "Qu'est-ce qui vous donne du pouvoir; à travers la lumière et les ténèbres, tenez-vous les lignes de front comme un Titan, désintégrez des armées entières à distance comme un Arcaniste, ou avancez-vous lâchement dans l'ombre comme un Chasseur ?"
     },
-    "Guardian": {
-      "Description": "Qu'est-ce qui vous donne du pouvoir ? À travers la lumière et les tenèbres, allez-vous directement au front en tant que Titan, désintégrez-vous des armées entières à distance en tant qu'arcaniste, ou vous déplacez-vous sournoisement dans les ombres en tant que Chasseur ?",
-      "Name": "Gardien"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "Le spectre d'un gardien\n\nVotre vie après votre vie commence ici. Vous êtes un ressuscité, choisi par un spectre et doté d'un grand pouvoir à travers la lumière et les ténèbres.\n\nVoici vos premiers pas.",
