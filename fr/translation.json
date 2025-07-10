@@ -54,7 +54,7 @@
     "Reset": "Réinitialiser",
     "SelectDate": "Sélectionnez une date",
     "SelectMasterwork": "Sélectionner Pièce Maîtresse",
-    "SelectYourCharacter": "🦘 Select Your Character",
+    "SelectYourCharacter": "Sélectionner votre personnage",
     "Set": "Confirmer",
     "Snatch": "Arracher",
     "Submit": "Soumettre",
@@ -310,7 +310,7 @@
     "Encounter": "Rencontre",
     "AnyEncounter": "Toute rencontre",
     "FinalEncounter": "Dernière rencontre",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
+    "StashFavourites": "Rangez tous vos objets de collection préférés ici !\n\nVous pouvez synchroniser vos objets de collection en activant la synchronisation dans [Paramètres](/settings#sync)."
   },
   "Commendations": {
     "Received": "Reçus",
@@ -358,7 +358,7 @@
     "CollectionScore": "Score de Collections",
     "CommendationAbr_plural": "Élog.",
     "Completed": "Complétés",
-    "ContentOwned": "🦘 Content Owned",
+    "ContentOwned": "Contenu possédé",
     "CruciblePlaylist": "Programme de l'Épreuve",
     "Currency": "Monnaie",
     "Currency_plural": "Monnaies",
@@ -381,7 +381,7 @@
     "Expired": "Expiré",
     "Expiry": "Expiration",
     "Failure": "Échec",
-    "Favourite_plural": "🦘 Favourites",
+    "Favourite_plural": "Favoris",
     "FeaturedEvent": "Évènement en cours",
     "FeaturedNightfall": "Nuit noire actuelle",
     "FeaturedPlaylist": "Activité PVP actuelle",
@@ -395,7 +395,7 @@
     "FireteamSize": "Taille de l'escouade",
     "Friend": "Ami",
     "Friend_plural": "Amis",
-    "FriendNth_plural": "🦘 {{number}} Friends",
+    "FriendNth_plural": "{{number}} Amis",
     "GloryPoints": "Points de Gloire",
     "GuardianRank": "Rang de Gardien",
     "Guardians": "Gardiens",
@@ -420,7 +420,7 @@
     "Map": "Carte",
     "Medal_plural": "Médailles",
     "MembersOnline": "{{number}} en ligne",
-    "Meta": "🦘 Meta",
+    "Meta": "Meta",
     "Name": "Nom",
     "NothingHereYet": "Il n'y a encore rien ici",
     "Objectives": "Objectifs",
@@ -466,7 +466,7 @@
     "Statistics": "Statistiques",
     "Submit": "Envoyer",
     "Support": "Assistance",
-    "ThirdPartyApps": "🦘 Third Party Apps",
+    "ThirdPartyApps": "Applications tierces",
     "TimePlayed": "Temps de jeu",
     "TimeStarted": "Heure de départ",
     "TimeRemaining": "Temps restant",
@@ -510,6 +510,10 @@
     "Form": {
       "Loadout": {
         "Info": "Ajustez votre équipement en jeu avant de créer une apparence. L’API peut prendre un peu de temps pour refléter les changements."
+      },
+      "Overwrite": {
+        "Info": "Remplacez l'équipement stocké par l'équipement actuel du personnage sélectionné.",
+        "Name": "Remplacez l'équipement"
       },
       "Name": {
         "Info": "Un nom original digne de ta beauté inégalée, de ta mignonnerie irrésistible, et de ton charisme viril.",
@@ -603,7 +607,7 @@
     "Inspect": "Inspecter",
     "Intrinsic": "Armature",
     "ItemAction": "Action de l'objet",
-    "Locked": "🦘 Locked",
+    "Locked": "Verouillé",
     "Mods": "Mods",
     "Marked": "Marqué",
     "PerkEverything": "Cet attribut est très recherché pour toutes les activités",
@@ -724,17 +728,17 @@
     "Profile": {
       "Description": "Qu'est-ce qui vous donne du pouvoir; à travers la lumière et les ténèbres, tenez-vous les lignes de front comme un Titan, désintégrez des armées entières à distance comme un Arcaniste, ou avancez-vous lâchement dans l'ombre comme un Chasseur ?"
     },
-    "Guardian": {
-      "Description": "Qu'est-ce qui vous donne du pouvoir ? À travers la lumière et les tenèbres, allez-vous directement au front en tant que Titan, désintégrez-vous des armées entières à distance en tant qu'arcaniste, ou vous déplacez-vous sournoisement dans les ombres en tant que Chasseur ?",
-      "Name": "Gardien"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "Le spectre d'un gardien\n\nVotre vie après votre vie commence ici. Vous êtes un ressuscité, choisi par un spectre et doté d'un grand pouvoir à travers la lumière et les ténèbres.\n\nVoici vos premiers pas.",
       "Name": "Première apparition"
     },
     "Dresstiny": {
-      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
-      "Name": "🦘 Dresstiny"
+      "Description": "\n\nCertains disent que vous êtes un leader de la mode, d'autres disent que vous êtes un créateur de tendances, mais une chose est sûre : vous savez comment équiper les articles !\n\nVoici le véritable objectif final : Dresstiny.",
+      "Name": "Dresstiny"
     },
     "Highlight": {
       "Description": "Votre fierté et votre joie\n\nVous avez choisi de porter cet accomplissement sur votre épaule, pour que tout le monde puisse le voir.",
@@ -946,6 +950,8 @@
       }
     },
     "GetStarted": "Il semblerait que tu sois nouveau ici ! Tu peux commencer en appuyant sur **Authenticate** et en te connectant sur Bungie.net ou tu peux rechercher ton nom Bungie et charger ton profil manuellement !",
+    "Authenticate": "Authentifiez-vous en toute sécurité avec Bungie.net pour charger votre profil, activer les actions de profil telles que la gestion de l'inventaire et débloquer des tonnes d'autres fonctionnalités.",
+    "RemoveHistory": "Faites un clic droit sur un profil pour le supprimer de la liste.",
     "NewLight": "Nouvelle Lumière",
     "NoProfilesFound": "Pas de profils trouvés",
     "PreviousSearches": "Recherches précédentes",
@@ -954,8 +960,8 @@
     "SearchForPlayer": "Recherche de joueur",
     "SearchPlaceholder": "Entrez un nom Bungie",
     "SelectACharacter": "Sélectionner un personnage",
-    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
-    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
+    "ThirdPartyApps": "Consultez le profil de ce joueur sur l'une des applications de nos amis.",
+    "ContentOwned": "Ce joueur possède le contenu suivant sur la plateforme sur laquelle il a joué en dernier."
   },
   "Progression": {
     "Points": "Points",
@@ -982,7 +988,7 @@
     "Rewards": "Récompenses de quête",
     "Steps": "Étapes de quête",
     "ProjectedRanks": "La valeur de vos contrats complétées équivaut aux rangs du pass saisonnier ci-dessus si vous les réclamez.",
-    "ExperienceNeeded": "🦘 Experience needed for next rank.",
+    "ExperienceNeeded": "Expérience requise pour le rang suivant.",
     "BountiesValue": "La valeur de vos contrats complétées.",
     "XPBonuses": "Bonus",
     "SuggestedPath": "Chemin suggéré"
@@ -1180,7 +1186,7 @@
         "Description": "Envoyez immédiatement les notifications activées.",
         "Name": "Aperçu des notifications"
       },
-      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
+      "Stats": "**{{subscriptions}}** appareils abonnés par les utilisateurs de **{{subscribers}}**, dont **{{subscribed}}** prennent en charge Braytech avec un abonnement."
     },
     "ReloadRequired": {
       "Description": "Sélectionnez 'Recharger l'application' pour activer vos changements immédiatement.",
@@ -1237,7 +1243,7 @@
         "Connected": "Votre profil Discord connecté.",
         "Disconnected": "Connectez votre profil Discord en utilisant la commande `/register_discord_with_voluspa` dans le [server] Discord (https://discord.bray.tech)."
       },
-      "UpsellSubscription": "🦘 Support with a subscription",
+      "UpsellSubscription": "Support avec un abonnement",
       "ActiveSubscription": "Abonnement actif",
       "ManageSubscription": "Gérer l'abonnement",
       "Stripe": "Visitez Stripe pour gérer votre abonnement.",
@@ -1256,32 +1262,32 @@
       "JustOnce": "Juste une fois",
       "Perk": {
         "Username": {
-          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
-          "Name": "🦘 Username"
+          "Description": "Raccourcissez votre adresse en remplaçant une longue série de chiffres par une adresse plus simple. Choisissez un nom unique ou utilisez votre nom Bungie, à vous de voir. C'est une autre façon originale de vous distinguer des autres joueurs et cela vous permet d'accéder directement à votre profil sur un appareil que vous n'avez pas utilisé. Emojis pris en charge **🐸**",
+          "Name": "Nom d'utilisateur"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
-          "Name": "🦘 Highlight"
+          "Description": "Choisissez de mettre en lumière un triomphe spécial ou un suivi de statistiques impressionnant.\n\nCe point culminant est affiché sur votre vue [Légende](/legend) et dans les images générées pour les liens que vous partagez sur la toile.",
+          "Name": "Mise en lumière"
         },
         "EmblemCodes": {
-          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
-          "Name": "🦘 Emblem Codes"
+          "Description": "Braytech a amassé une grande collection de codes d'emblèmes, parfois alimentés par ses utilisateurs les plus bienveillants.\n\nEn tant qu'abonné, vous pouvez échanger un code d'emblème depuis [The Developer's Stash]({{url}}).",
+          "Name": "Codes d'emblèmes"
         },
         "AdvancedLeaderboards": {
-          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
-          "Name": "🦘 Advanced Leaderboards"
+          "Description": "Si vous êtes un utilisateur expérimenté de [Leaderboards](/leaderboards), vous disposez de deux outils supplémentaires dans votre inventaire.\n\nEn tant qu'abonné, vous pouvez comparer la différence entre deux joueurs adjacents sur un classement, et vous avez la possibilité de mettre à jour les données des classements de votre profil et de réévaluer tous les classements à la demande.",
+          "Name": "Leaderboards avancé"
         },
         "Medal": {
-          "Description": "🦘 High tier subscribers unlock a permanent medal for their profiles, displayed wherever their profile appears, both on roster entries and in player details dialogs.",
-          "Name": "🦘 Medals"
+          "Description": "Les abonnés de niveau supérieur débloquent une médaille permanente pour leur profil, affichée partout où leur profil apparaît, à la fois sur les détails d'escouades et dans les détails du joueur.",
+          "Name": "Médailles"
         },
         "PriorityDevelopment": {
-          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
-          "Name": "🦘 Priority Development"
+          "Description": "L'efficacité de Braytech dépend de son utilité pour ses utilisateurs. En tant que développeur, j'ai toujours pris en compte les commentaires et suggestions des utilisateurs. Grâce à eux, Braytech s'est amélioré, et j'en tiendrai compte en priorité.",
+          "Name": "Dévolopement prioritaire"
         },
         "Newsletter": {
-          "Description": "🦘 Subscribe to Braytech's newsletter to receive blog posts and more directly to your email inbox. It's an old Cryptarch technology, but it's functional.",
-          "Name": "🦘 Newsletter"
+          "Description": "Abonnez-vous à la newsletter de Braytech pour recevoir les articles du blog et plus encore directement dans votre boîte mail. C'est une ancienne technologie Cryptarch, mais elle est fonctionnelle.",
+          "Name": "Newsletter"
         }
       }
     },
@@ -1425,7 +1431,7 @@
       "Completed": "Complété",
       "FireteamLoading": "Chargement des membres de l'escouade",
       "NoClanOrFireteam": "Rejoignez une escouade ou un clan pour voir comment vos camarades gardiens s'entassent à côté de vous !",
-      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
+      "LoadBungieFriends": "Souhaitez-vous afficher vos amis Bungie ? Cela prendra quelques secondes.",
       "NotCompleted": "Pas complété",
       "OpenView": "Ouvrir la vue des détails",
       "HasItem": "Cet enregistrement est lié à un élément. Vous pouvez consulter les [details] de cet élément ({{string}})."
@@ -1509,7 +1515,7 @@
     "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
     "Leaderboards": "Les classements représentent beaucoup de travail, ce qui, bien que stimulant, est particulièrement coûteux. J'ai dû acheter des bases de données pour les nuls et tout le reste. Si vous aimez collectionner des objets, nous pourrions peut-être [interest you in unlocking some a rare medal] (https://www.patreon.com/braytech) pour votre profil Braytech ?",
     "MemberLinkExample": "Cela pourrait être _you_, avec une petite médaille cool sur votre lien de membre pour démontrer votre soutien à Braytech et à son développement.\n\n_Braytech et ses filiales ne soutiennent pas les actions de Clovis Bray I ou de leurs variantes._",
-    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
+    "UpsellInfo": "Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités et de maintenir le développeur en vie !"
   },
   "Vendor": {
     "FailureStrings": {

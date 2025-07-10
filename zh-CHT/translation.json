@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
         "Placeholder": "🦘 <name>"
@@ -724,9 +728,9 @@
     "Profile": {
       "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
     },
-    "Guardian": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
-      "Name": "🦘 Guardian"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "機靈守護者\n你的旅程從此開始，你是一個被機靈選中復活，并被賦予了光明與黑暗的强大力量的人。\n你的旅途将从此刻开始",
@@ -946,6 +950,8 @@
       }
     },
     "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "🦘 New Light",
     "NoProfilesFound": "沒有找到檔案",
     "PreviousSearches": "歷史搜索",

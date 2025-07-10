@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "ビルドを作成する前に、ゲーム内で装備を調整してください。APIが変更を反映するまでに時間がかかる場合があります。"
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "比類のない美しさ、可愛らしさ、そして逞しさにふさわしいオリジナルの名前をつけましょう。",
         "Placeholder": " <名前>"
@@ -724,9 +728,9 @@
     "Profile": {
       "Description": "力はいったい何を齎すのか。 光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
-    "Guardian": {
-      "Description": "力はいったい何を齎すのか。 光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?",
-      "Name": "ガーディアン"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
@@ -946,6 +950,8 @@
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "新たな光",
     "NoProfilesFound": "プロファイルはありません",
     "PreviousSearches": "前の検索",

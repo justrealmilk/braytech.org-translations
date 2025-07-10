@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
         "Placeholder": "🦘 <name>"
@@ -724,9 +728,9 @@
     "Profile": {
       "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
     },
-    "Guardian": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move slyly through the shadows as a Hunter?",
-      "Name": "🦘 Guardian"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "Un Guardiano di uno Spettro\n\nLa vita dopo la tua vita inizia qui. Sei un rinato, scelto da uno Spettro e dotato di grandi poteri tramite la Luce e l'Oscurità.\n\nQuesti sono stati i tuoi primi passi.",
@@ -946,6 +950,8 @@
       }
     },
     "GetStarted": "Sembra che tu sia nuovo da queste parti! Puoi iniziare andando su **Autentica** e accedendo a Bungie.net oppure puoi cercare il tuo nome Bungie e caricare il tuo profilo manualmente!",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "Nuova Luce",
     "NoProfilesFound": "Nessun profilo trovato",
     "PreviousSearches": "Ricerche precedenti",

@@ -511,6 +511,10 @@
       "Loadout": {
         "Info": "在创建装备配置前，请先在游戏中调整装备。API可能需要一些时间来反映您的更改。"
       },
+      "Overwrite": {
+        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
+        "Name": "🦘 Overwrite Equipment"
+      },
       "Name": {
         "Info": "一个原创的名字，配得上你无与伦比的美丽、可爱和男子气概。",
         "Placeholder": "名称"
@@ -724,9 +728,9 @@
     "Profile": {
       "Description": "是什么赋予了你力量？在光能与暗影之间，你是像泰坦一样坚守前线，还是像术士一样从远处瓦解整支军队，或者像猎人一样机敏地潜行于阴影之中？"
     },
-    "Guardian": {
-      "Description": "是什么赋予了你力量？在光能与暗影之间，你是像泰坦一样坚守前线，还是像术士一样从远处瓦解整支军队，或者像猎人一样狡猾地潜行于阴影之中？",
-      "Name": "守护者"
+    "Medals": {
+      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
+      "Name": "🦘 Medals"
     },
     "Activity": {
       "Description": "守护者，带上你的机灵\n你的复生之路将从此刻开始。你被机灵选中再度复生，并被光明与暗影赋予了强大的力量\n这些是你最开始需要做的事：",
@@ -946,6 +950,8 @@
       }
     },
     "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
+    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
+    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
     "NewLight": "新曙光",
     "NoProfilesFound": "没有找到档案",
     "PreviousSearches": "历史搜索",
