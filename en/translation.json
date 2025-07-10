@@ -1502,6 +1502,10 @@
       "HideCompletedAll": {
         "Name": "Hide Completed",
         "Description": "Hide all triumphs which are completed by all selected members."
+      },
+      "CollapseAll": {
+        "Name": "Collapse All",
+        "Description": "Collapse all nodes so that you may explore at your own leisure."
       }
     },
     "NoTrackedRecords": "You aren't tracking any triumphs yet! You can track a triumph by interacting with the green marker.\n\nYou can sync your triumphs by enabling sync in [Settings](/settings#sync).",
