@@ -308,8 +308,8 @@
     "SetComplete": "Set completato",
     "SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
     "Options": {
-      "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
+      "HideAcquiredAll": {
+        "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },

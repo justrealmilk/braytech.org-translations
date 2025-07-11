@@ -308,8 +308,8 @@
     "SetComplete": "集合完畢",
     "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Options": {
-      "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
+      "HideAcquiredAll": {
+        "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },

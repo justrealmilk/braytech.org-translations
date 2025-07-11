@@ -308,8 +308,8 @@
     "SetComplete": "Коллекция завершена",
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
     "Options": {
-      "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
+      "HideAcquiredAll": {
+        "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },

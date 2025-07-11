@@ -308,8 +308,8 @@
     "SetComplete": "已完成收藏",
     "SomeAcquiredSomeInvisible": "部分已取得，{{invisible}} 件已隐藏",
     "Options": {
-      "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
+      "HideAcquiredAll": {
+        "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },
