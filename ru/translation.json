@@ -307,6 +307,12 @@
     "RecentlyDiscovered": "Недавно найденные",
     "SetComplete": "Коллекция завершена",
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
+    "Options": {
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "Столкновение",
     "AnyEncounter": "Лобое Столкновение",
     "FinalEncounter": "Финальное Столкновение",
@@ -1494,6 +1500,18 @@
       "MatchClass": {
         "Name": "Соответсвовать Классу",
         "Description": "Отображать только классовые триумфы, соответствующие классу выбранного персонажа."
+      },
+      "Flatten": {
+        "Name": "🦘 Flatten",
+        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+      },
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+      },
+      "CollapseAll": {
+        "Name": "🦘 Collapse All",
+        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
       }
     },
     "NoTrackedRecords": "Сейчас вы ничего не отслеживаете.",

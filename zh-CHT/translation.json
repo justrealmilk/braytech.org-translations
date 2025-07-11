@@ -307,6 +307,12 @@
     "RecentlyDiscovered": "最近發現的",
     "SetComplete": "集合完畢",
     "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
+    "Options": {
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
     "FinalEncounter": "🦘 Final Encounter",
@@ -1494,6 +1500,18 @@
       "MatchClass": {
         "Name": "🦘 Match Class",
         "Description": "🦘 Only display class-related triumphs which match the selected character's class."
+      },
+      "Flatten": {
+        "Name": "🦘 Flatten",
+        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+      },
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+      },
+      "CollapseAll": {
+        "Name": "🦘 Collapse All",
+        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
       }
     },
     "NoTrackedRecords": "妳尚未追蹤任何壹條記錄!",

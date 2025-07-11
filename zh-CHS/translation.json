@@ -307,6 +307,12 @@
     "RecentlyDiscovered": "最新发现",
     "SetComplete": "已完成收藏",
     "SomeAcquiredSomeInvisible": "部分已取得，{{invisible}} 件已隐藏",
+    "Options": {
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "任何遭遇战",
     "FinalEncounter": "最后遭遇战",
@@ -1494,6 +1500,18 @@
       "MatchClass": {
         "Name": "职业匹配",
         "Description": "仅显示与所选角色职业匹配的职业相关成就。"
+      },
+      "Flatten": {
+        "Name": "🦘 Flatten",
+        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+      },
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+      },
+      "CollapseAll": {
+        "Name": "🦘 Collapse All",
+        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
       }
     },
     "NoTrackedRecords": "你尚未追踪任何一条记录",

@@ -307,6 +307,12 @@
     "RecentlyDiscovered": "Recently Discovered",
     "SetComplete": "Set complete",
     "SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
+    "Options": {
+      "HideCompletedAll": {
+        "Name": "Hide Completed",
+        "Description": "Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "Encounter",
     "AnyEncounter": "Any Encounter",
     "FinalEncounter": "Final Encounter",

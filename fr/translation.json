@@ -307,6 +307,12 @@
     "RecentlyDiscovered": "Découvert récemment",
     "SetComplete": "Ensemble complet",
     "SomeAcquiredSomeInvisible": "Quelques uns ont été obtenu, {{invisible}} est invisible",
+    "Options": {
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "Rencontre",
     "AnyEncounter": "Toute rencontre",
     "FinalEncounter": "Dernière rencontre",
@@ -1494,6 +1500,18 @@
       "MatchClass": {
         "Name": "Match Class",
         "Description": "Afficher uniquement les triomphes liés à la classe qui correspondent à la classe du personnage sélectionné."
+      },
+      "Flatten": {
+        "Name": "🦘 Flatten",
+        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+      },
+      "HideCompletedAll": {
+        "Name": "🦘 Hide Completed",
+        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+      },
+      "CollapseAll": {
+        "Name": "🦘 Collapse All",
+        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
       }
     },
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
