@@ -1512,6 +1512,10 @@
       "CollapseAll": {
         "Name": "🦘 Collapse All",
         "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
+      },
+      "RootNode": {
+        "Name": "🦘 Root Node",
+        "Description": "🦘 Select a root node to explore."
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
