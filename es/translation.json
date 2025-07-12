@@ -1509,6 +1509,10 @@
         "Name": "🦘 Hide Completed",
         "Description": "🦘 Hide all triumphs which are completed by all selected members."
       },
+      "ExpandAll": {
+        "Name": "🦘 Expand All",
+        "Description": "🦘 Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
+      },
       "CollapseAll": {
         "Name": "🦘 Collapse All",
         "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
