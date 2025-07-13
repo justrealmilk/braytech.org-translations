@@ -1259,6 +1259,10 @@
         "Name": "Recibir correo electrónico",
         "Description": "Recibe los artículos del blog de Braytech y cualquier información relevante para suscriptores directamente en tu bandeja de entrada."
       },
+      "ChangeTier": {
+        "Name": "🦘 Change Tier",
+        "Description": "🦘 Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+      },
       "Perks": "Beneficios",
       "Tiers": "Niveles",
       "Legends": "Leyendas",
