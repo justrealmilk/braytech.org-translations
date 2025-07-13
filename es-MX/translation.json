@@ -171,7 +171,7 @@
     "WindowSize": "Esta experiencia funciona mejor en una ventana más grande. Hazla más grande, cariño.",
     "MilestonesError": "No se han podido cargar los datos de los hitos. La API de Bungie puede estar experimentando problemas de disponibilidad.",
     "APIIssue": "Un [problema con la API de Bungie]({{url}}) conocido impide que Braytech muestre esto correctamente en este momento."
-   },
+  },
   "Auth": {
     "Data": {
       "Description": "Elimina los datos de autenticación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
@@ -403,6 +403,7 @@
     "Friend_plural": "Amigos",
     "FriendNth_plural": "{{number}} amigos",
     "GloryPoints": "Puntos de Gloria",
+    "Graph": "🦘 Graph",
     "GuardianRank": "Rango de Guardián",
     "Guardians": "Guardianes",
     "Help": "Ayuda",
@@ -425,6 +426,7 @@
     "LoreBook": "Libro de historia",
     "Map": "Mapa",
     "Medal_plural": "Medallas",
+    "Member_plural": "🦘 Members",
     "MembersOnline": "{{number}} en línea",
     "Meta": "Meta",
     "Name": "Nombre",
@@ -502,7 +504,7 @@
     "XP": "{{number}} PE"
   },
   "Dresstiny": {
-"Fit": "Vestuario",
+    "Fit": "Vestuario",
     "Fit_plural": "Vestuarios",
     "Popular": "Popular",
     "CreateFit": {
@@ -1264,7 +1266,7 @@
       "Blog": "Sigue el desarrollo de Braytech a través de las últimas entradas del blog. Intento que sean lo más interesantes y perspicaces posible.",
       "Discord": "¡Únete a la comunidad Braytech! Pasa el rato, deja sugerencias, informa de errores y obtén ayuda para la aplicación al instante.",
       "NewSubs": "Suscriptores recientes que llevan a Braytech sobre sus hombros, permitiendo su continuo desarrollo.",
-"OneTime": "Haz una donación única para apoyar a Braytech. Sin compromiso, pero te invitaré a una copa.",
+      "OneTime": "Haz una donación única para apoyar a Braytech. Sin compromiso, pero te invitaré a una copa.",
       "JustOnce": "Solo una vez",
       "Perk": {
         "Username": {
