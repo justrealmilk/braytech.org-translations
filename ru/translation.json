@@ -676,7 +676,8 @@
       },
       "Relative": {
         "Future": "через {{duration}}",
-        "Past": "{{duration}} назад"
+        "Past": "{{duration}} назад",
+        "Updated": "🦘 Updated {{duration}}"
       }
     }
   },

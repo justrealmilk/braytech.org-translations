@@ -676,7 +676,8 @@
       },
       "Relative": {
         "Future": "🦘 in {{duration}}",
-        "Past": "🦘 {{duration}} ago"
+        "Past": "🦘 {{duration}} ago",
+        "Updated": "🦘 Updated {{duration}}"
       }
     }
   },
