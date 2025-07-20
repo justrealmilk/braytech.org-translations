@@ -1578,11 +1578,12 @@
     "LastCrawled": "indizado por última vez {{time}}",
     "ProfilesAssessed": "Perfiles evaluados"
   },
-  "Weeklies": {
+  "Operations": {
     "NoActivitiesAvailable": "No hay actividades disponibles para ti. Quizá no cumplas con los requisitos...",
     "NoActivitiesAvailableNoLicense": "No tienes ninguna actividad disponible porque no posees la expansión necesaria.",
     "Event": {
-      "Rank": "Nivel de evento",
+      "EventRank": "🦘 Event Rank",
+      "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "Desafíos diarios",
       "WeeklyChallenges": "Desafíos semanales",
       "TriumphsInfo": "Este evento tiene un sello relacionado, **{{seal}}**. Completa estos triunfos para ganar un nuevo título.",

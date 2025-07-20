@@ -1578,11 +1578,12 @@
     "LastCrawled": "{{time}} depuis la dernière analyse",
     "ProfilesAssessed": "Profils évalués"
   },
-  "Weeklies": {
+  "Operations": {
     "NoActivitiesAvailable": "Aucune activité n'est disponible pour vous. Peut-être que vous ne répondez pas aux exigences...",
     "NoActivitiesAvailableNoLicense": "Aucune activité n'est disponible car vous ne possédez pas l'extension requise.",
     "Event": {
-      "Rank": "Rang de l'événement",
+      "EventRank": "🦘 Event Rank",
+      "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "Défis quotidiens",
       "WeeklyChallenges": "Défis hebdomadaires",
       "TriumphsInfo": "Cet événement est associé à un sceau : **{{seal}}**. Terminez ces triomphes pour obtenir un nouveau titre.",

@@ -1578,11 +1578,12 @@
     "LastCrawled": "{{time}}に更新されました",
     "ProfilesAssessed": "プレイヤー人数"
   },
-  "Weeklies": {
+  "Operations": {
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
     "Event": {
-      "Rank": "🦘 Event Rank",
+      "EventRank": "🦘 Event Rank",
+      "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "🦘 Daily Challenges",
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",

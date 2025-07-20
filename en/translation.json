@@ -1578,11 +1578,12 @@
     "LastCrawled": "Last crawled {{time}}",
     "ProfilesAssessed": "Profiles Assessed"
   },
-  "Weeklies": {
+  "Operations": {
     "NoActivitiesAvailable": "There aren't any activities available to you. Perhaps you don't meet the requirements...",
     "NoActivitiesAvailableNoLicense": "There aren't any activities available to you as you don't own the required expansion.",
     "Event": {
-      "Rank": "Event Rank",
+      "EventRank": "Event Rank",
+      "WeeklyRank": "Weekly Rank",
       "DailyChallenges": "Daily Challenges",
       "WeeklyChallenges": "Weekly Challenges",
       "TriumphsInfo": "This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
