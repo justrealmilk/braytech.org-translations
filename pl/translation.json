@@ -214,7 +214,10 @@
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "🦘 enter item name"
+    "Placeholder": "🦘 enter item name",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "🦘 Banner Perks",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "🦘 참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "🦘 Activity Bonuses",
-      "ArtifactPower": {
-        "Description": "🦘 A bonus to your Light level, channeled by your equipped seasonal artifact through experience gained.",
-        "Name": "🦘 Artifact Power Bonus"
-      },
-      "ArtifactPowerBonus": "🦘 Power Bonus",
-      "GearPower": {
-        "Description": "🦘 The average Power level of your currently equipped armaments.",
-        "Name": "🦘 Gear Power"
-      },
-      "NoChallenges": "🦘 You've smashed all of your available challenges this week!",
-      "Power": {
-        "Description": "🦘 Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
-        "Name": "🦘 Light"
-      },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-      "Type": {
-        "Rituals": "🦘 Rituals",
-        "Crucible": "🦘 Crucible",
-        "Dungeon": "🦘 Dungeon",
-        "Exotic": "🦘 Exotic",
-        "Expansion": "🦘 Expansion",
-        "Gambit": "🦘 Gambit",
-        "Raid": "🦘 Raid",
-        "Seasonal": "🦘 Seasonal",
-        "Strikes": "🦘 Strikes"
-      },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }

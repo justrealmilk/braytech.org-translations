@@ -214,7 +214,10 @@
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "🦘 enter item name"
+    "Placeholder": "🦘 enter item name",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "배너 효과",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "활동 보너스",
-      "ArtifactPower": {
-        "Description": "경험치를 획득함에 따라 장착한 시즌 유물이 제공하는 보너스 전투력입니다.",
-        "Name": "유물 전투력 보너스"
-      },
-      "ArtifactPowerBonus": "전투력 보너스",
-      "GearPower": {
-        "Description": "현재 장착한 장비들의 평균 전투력입니다.",
-        "Name": "장비 전투력"
-      },
-      "NoChallenges": "당신의 수호자가 이번주에 할 수 있는 모든 도전들을 부숴버린 것 같습니다.",
-      "Power": {
-        "Description": "전투력 점수는 현재 착용한 모든 장비의 전투력 수치의 평균입니다. 전투력 점수가 높으면 적에게 주는 피해량과 방어가 함께 증가합니다.",
-        "Name": "빛"
-      },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-      "Type": {
-        "Rituals": "🦘 Rituals",
-        "Crucible": "시련의 장",
-        "Dungeon": "던전",
-        "Exotic": "경이",
-        "Expansion": "확장팩",
-        "Gambit": "갬빗",
-        "Raid": "레이드",
-        "Seasonal": "시즌",
-        "Strikes": "공격전"
-      },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }

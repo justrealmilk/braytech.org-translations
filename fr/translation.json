@@ -214,7 +214,10 @@
       "ObtainFromVendor": "Obtenu depuis {{name}}"
     },
     "DiffProfile": "Vous consultez le profil de quelqu'un d'autre. Vous pouvez regarder mais si vous essayez de pousser des boutons, n'attendez pas de résultats !",
-    "Placeholder": "saisir le nom de l'objet"
+    "Placeholder": "saisir le nom de l'objet",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "Privilèges de clan",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "Aucune activité n'est disponible pour vous. Peut-être que vous ne répondez pas aux exigences...",
     "NoActivitiesAvailableNoLicense": "Aucune activité n'est disponible car vous ne possédez pas l'extension requise.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "Défis hebdomadaires",
       "TriumphsInfo": "Cet événement est associé à un sceau : **{{seal}}**. Terminez ces triomphes pour obtenir un nouveau titre.",
       "EndsIn": "L'événement se termine dans **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "Bonus de l'activité",
-      "ArtifactPower": {
-        "Description": "Bonus de niveau de Lumière, généré par l'Artéfact saisonnier grâce à l'expérience acquise.",
-        "Name": "Puissance bonus de l'Artéfact"
-      },
-      "ArtifactPowerBonus": "Puissance Bonus",
-      "GearPower": {
-        "Description": "Niveau de Puissance moyen de votre équipement sélectionné",
-        "Name": "Puissance de l'équipement"
-      },
-      "NoChallenges": "Vous avez réussi tous vos défis disponibles cette semaine !",
-      "Power": {
-        "Description": "Votre niveau de Lumière correspond au cumul de la puissance de votre équipement sélectionné. Un niveau de Lumière plus élevé améliore vos dégâts et votre défense.",
-        "Name": "Lumière"
-      },
-      "SeasonalChallengesAvailable": "{{number}} défis saisonniers disponibles",
-      "Type": {
-        "Rituals": "Rituels",
-        "Crucible": "Épreuve",
-        "Dungeon": "Donjon",
-        "Exotic": "Exotique",
-        "Expansion": "Extension",
-        "Gambit": "Gambit",
-        "Raid": "Raid",
-        "Seasonal": "Saisonnier",
-        "Strikes": "Assauts"
-      },
-      "WorldDropsNeeded": "Recherchez les drops dans le monde jusqu'à ce que vous ayez atteint **{{light}}** pour éviter de gaspiller des drops avec un plus grand potentiel.",
-      "PowerfulDropsNeeded": "Participez à des activités qui récompensent par des équipements puissants pour atteindre **{{light}}**.",
-      "PinnacleDropsNeeded": "Vous êtes sur la voie du Prestige. Atteignez **{{light}}** en terminant les activités les plus difficiles."
     }
   }
 }

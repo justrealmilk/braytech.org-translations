@@ -214,7 +214,10 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
-    "Placeholder": "アイテム検索ワード"
+    "Placeholder": "アイテム検索ワード",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "バナーパーク",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "NoActivitiesAvailableNoLicense": "拡張コンテンツを所持していないため、プレイ可能なアクティビティがありません。",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "イベントランク",
       "WeeklyRank": "ウイークリーランク",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "週間の挑戦",
       "TriumphsInfo": "このイベントには称号**{{seal}}**に関連しています。 勝利の道のりを達成させて、新しいタイトルを手に入れましょう",
       "EndsIn": "**{{duration}}**にイベント終了"
-    },
-    "Challenges": {
-      "ActivityBonus": "アクティビティボーナス",
-      "ArtifactPower": {
-        "Description": "得られた経験を通して、シーズンアーティファクトよってもたらされるライトレベルへのボーナス",
-        "Name": "アーティファクトパワーボーナス"
-      },
-      "ArtifactPowerBonus": "パワーボーナス",
-      "GearPower": {
-        "Description": "現在の装備の平均パワーレベルです。",
-        "Name": "装備のパワー"
-      },
-      "NoChallenges": "どうやら今週のアクティビティすべてを回収したようです。",
-      "Power": {
-        "Description": "光のレベルは、現在の装備しているパワー値を集計したものです。レベルが高いほど、ダメージ出力と防御力の両方が向上します。",
-        "Name": "光のレベル"
-      },
-      "SeasonalChallengesAvailable": "個のシーズン {{number}} の挑戦が残っています",
-      "Type": {
-        "Rituals": "儀式",
-        "Crucible": "クルーシブル",
-        "Dungeon": "迷宮",
-        "Exotic": "エキゾチック",
-        "Expansion": "エキスパンション",
-        "Gambit": "ギャンビット",
-        "Raid": "レイド",
-        "Seasonal": "シーズン",
-        "Strikes": "ストライク"
-      },
-      "WorldDropsNeeded": " **{{light}}** に達するまでレアアイテムをドロップしないように、ワールドドロップを探す。",
-      "PowerfulDropsNeeded": " **{{light}}** に達するため、最高峰の報酬を獲得するアクティビティに参加する。",
-      "PinnacleDropsNeeded": "現在、最高峰の報酬のために周回中です。高難易度アクティビティをクリアして**{{light}}**まで目指しましょう!"
     }
   }
 }

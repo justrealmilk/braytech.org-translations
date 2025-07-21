@@ -214,7 +214,10 @@
       "ObtainFromVendor": "Obter de {{name}}"
     },
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "🦘 enter item name"
+    "Placeholder": "🦘 enter item name",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "Modificadores do Banner",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "Não há nenhuma atividade disponível para você. Você possivelmente não possui os requisitos...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "Bônus de Atividade",
-      "ArtifactPower": {
-        "Description": "Um bônus para o seu nível de luz, canalizado pelo seu artefato sazonal equipado por meio da experiência adquirida.",
-        "Name": "Bônus de Porder de Artefato"
-      },
-      "ArtifactPowerBonus": "Bônus de Poder",
-      "GearPower": {
-        "Description": "O nível médio de poder de seus armamentos equipados atualmente.",
-        "Name": "Poder de Equipamento"
-      },
-      "NoChallenges": "Parece que seu Guardião acabou com todos os desafios dessa semana.",
-      "Power": {
-        "Description": "Seu nível de luz é um agregado do valor de energia em todos os seus equipamentos equipados atualmente. Um nível de luz mais alto melhora tanto seu danos quanto sua defesa.",
-        "Name": "Luz"
-      },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-      "Type": {
-        "Rituals": "🦘 Rituals",
-        "Crucible": "Crisol",
-        "Dungeon": "Masmorra",
-        "Exotic": "Exótica",
-        "Expansion": "Expansão",
-        "Gambit": "Artimanha",
-        "Raid": "Incursão",
-        "Seasonal": "Sazonal",
-        "Strikes": "Assaltos"
-      },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }

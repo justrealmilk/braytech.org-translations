@@ -214,7 +214,10 @@
       "ObtainFromVendor": "從{{name}}獲得"
     },
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
-    "Placeholder": "🦘 enter item name"
+    "Placeholder": "🦘 enter item name",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "旗幟特性",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "沒有任何活動可供你選擇，也許不符合你的要求...",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "活動加成",
-      "ArtifactPower": {
-        "Description": "你的光等加成，由你裝備的季節性神器透過獲得經驗所引導。",
-        "Name": "神器力量加成"
-      },
-      "ArtifactPowerBonus": "力量獎勵",
-      "GearPower": {
-        "Description": "目前裝備武器的平均力量等級。",
-        "Name": "裝備力量"
-      },
-      "NoChallenges": "看來你的守護者本週已經完成了他們所有可用的挑戰。",
-      "Power": {
-        "Description": "你的光等是你目前裝備中所有裝備的能量值的總和。更高的光等會提高你的傷害輸出和防禦力。",
-        "Name": "光等"
-      },
-      "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-      "Type": {
-        "Rituals": "🦘 Rituals",
-        "Crucible": "熔爐",
-        "Dungeon": "地牢",
-        "Exotic": "異域",
-        "Expansion": "資料片",
-        "Gambit": "千謀百計",
-        "Raid": "突襲",
-        "Seasonal": "季節",
-        "Strikes": "打擊"
-      },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }

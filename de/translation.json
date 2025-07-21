@@ -214,7 +214,10 @@
       "ObtainFromVendor": "Bezogen von {{name}}"
     },
     "DiffProfile": "Du schaust dir das Profil von einem anderen Spieler an. Du kannst dich umschauen, aber wenn du versuchst, Knöpfe zu drücken, erwarte keine Ergebnisse!",
-    "Placeholder": "Item-name eingeben"
+    "Placeholder": "Item-name eingeben",
+    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "Banner Vorteile",
@@ -1581,6 +1584,9 @@
   "Operations": {
     "NoActivitiesAvailable": "Hier sind keine Aktivitäten für dich verfügbar. Vielleicht erfüllst du die Anforderungen nicht.",
     "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
+    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
     "Event": {
       "EventRank": "🦘 Event Rank",
       "WeeklyRank": "🦘 Weekly Rank",
@@ -1588,38 +1594,6 @@
       "WeeklyChallenges": "🦘 Weekly Challenges",
       "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "Aktivitätsbonus",
-      "ArtifactPower": {
-        "Description": "Ein Bonus auf deine Lichtstufe, der von deinem ausgerüsteten saisonalen Artefakt durch gewonnene Erfahrung kanalisiert wird.",
-        "Name": "Artefakt-Powerbonus"
-      },
-      "ArtifactPowerBonus": "Powerbonus",
-      "GearPower": {
-        "Description": "Das durchschnittliche Powerlevel deiner derzeit ausgerüsteten Waffen.",
-        "Name": "Ausrüstungs-Power"
-      },
-      "NoChallenges": "Scheint als hätte dein Hüter alle Herausforderungen für diese Woche gemeistert.",
-      "Power": {
-        "Description": "Dein Powerlevel ist der Durchschnitt der Powerwerte aller deiner derzeit ausgerüsteten Gegenstände. Ein höheres Powerlevel verbessert sowohl deinen ausgeteilten Schaden als auch deine Verteidigung.",
-        "Name": "Power"
-      },
-      "SeasonalChallengesAvailable": "{{number}} Saisonale Herausforderungen verfügbar",
-      "Type": {
-        "Rituals": "Ritual",
-        "Crucible": "Schmelztiegel",
-        "Dungeon": "Dungeon",
-        "Exotic": "Exotisch",
-        "Expansion": "Erweiterung",
-        "Gambit": "Gambit",
-        "Raid": "Raid",
-        "Seasonal": "Saisonal",
-        "Strikes": "Strikes"
-      },
-      "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the the most challenging activities."
     }
   }
 }
