@@ -27,7 +27,7 @@
     "GatherInVault": "すべて保管庫に送る",
     "GoToBNet": "Bungie.netへ進む",
     "GoToMaps": "マップへ進む",
-    "GoToBluesky": "🦘 Go to Bluesky",
+    "GoToBluesky": "Bluesky(SNS)へ進む",
     "HideAcquired": "取得済みを表示しない",
     "HideCollectionsRolls": "可能性があるロールを隠す",
     "HideCompleted": "完了済みを表示しない",
@@ -45,7 +45,7 @@
     "None": "無し",
     "Now": "最新",
     "Open": "開く",
-    "Okay": "🦘 Okay",
+    "Okay": "了解",
     "Previous": "戻る",
     "PullPostmaster": "ポストマスターからアイテムを取得する",
     "ReloadApp": "アプリをリロードする",
@@ -54,7 +54,7 @@
     "Reset": "リセット",
     "SelectDate": "日付選択",
     "SelectMasterwork": "マスターワークを選択",
-    "SelectYourCharacter": "🦘 Select Your Character",
+    "SelectYourCharacter": "キャラクターを選択",
     "Set": "セット",
     "Snatch": "取得",
     "Submit": "提出",
@@ -161,16 +161,16 @@
       "Name": "非対応のブラウザー"
     },
     "AuthReset": {
-      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
-      "Name": "🦘 Authentication Reset"
+      "Description": "認証データの更新中に、Bungieから予期しないエラーが返されました。そのため、認証データはリセットされました。\n\nBungieサーバーがダウンしていないことを確認してから、設定画面より再認証を行ってください。",
+      "Name": "認証リセット"
     },
     "Version": "バージョン",
-    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
+    "Updated": "Braytechが最新バージョンにアップデートされました！ 詳細は変更ログをタップしてご確認ください。",
     "TemporaryError": "一時的にBungieでエラーが発生しています。",
     "MemberServiceInactive": "アプリの操作が一定時間なかったため、プロフィールのバックグラウンド更新を一時停止しました。\n\nアプリを再操作すれば、更新が再開されます。",
     "WindowSize": "この機能は大きなウィンドウサイズでの動作を前提にしています。操作や表示に問題がある場合はウィンドウを大きくしてください。",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
-    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
+    "MilestonesError": "マイルストーンのデータを読み込めませんでした。BungieのAPIに接続障害が発生している可能性があります。",
+    "APIIssue": "現在、既知の[Bungie APIの問題] ({{url}}) により、Braytechではこの情報を正しく表示できません。"
   },
   "Auth": {
     "Data": {
@@ -309,14 +309,14 @@
     "SomeAcquiredSomeInvisible": "一部取得しましたが、 {{invisible}} は見られません",
     "Options": {
       "HideAcquiredAll": {
-        "Name": "🦘 Hide Acquired",
-        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+        "Name": "取得済みを非表示",
+        "Description": "選択中のすべてのメンバーが入手済みのアイテムを非表示にします。"
       }
     },
     "Encounter": "遭遇戦",
     "AnyEncounter": "全遭遇戦",
     "FinalEncounter": "最終エンカウンター",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
+    "StashFavourites": "お気に入りの収集アイテムをここにまとめて保管しましょう！\n\n[設定](/settings#sync)で同期を有効にすると、収集アイテムを同期できます。"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -341,7 +341,7 @@
     "AscendantChallenge": "アセンダントの挑戦",
     "Available": "入手可能",
     "AvailableActivities": "利用可能なアクティビティ",
-    "App_plural": "🦘 Apps",
+    "App_plural": "Apps",
     "Browse": "閲覧",
     "BrowseNthMembers_plural": " {{number}} 名のメンバー詳細を見る",
     "Cancel": "キャンセル",
@@ -364,10 +364,10 @@
     "CollectionScore": "コレクションスコア",
     "CommendationAbr_plural": "称賛",
     "Completed": "完了",
-    "ContentOwned": "🦘 Content Owned",
+    "ContentOwned": "所持コンテンツ",
     "CruciblePlaylist": "クルーシブルプレイリスト",
-    "Currency": "🦘 Currency",
-    "Currency_plural": "🦘 Currencies",
+    "Currency": "通貨",
+    "Currency_plural": "通貨",
     "DateTime": "日時",
     "Emblem": "エンブレム",
     "Emblem_plural": "エンブレム",
@@ -387,7 +387,7 @@
     "Expired": "期限切れ",
     "Expiry": "残り時間",
     "Failure": "失敗",
-    "Favourite_plural": "🦘 Favourites",
+    "Favourite_plural": "お気に入り",
     "FeaturedEvent": "注目のイベント",
     "FeaturedNightfall": "注目のナイトフォール",
     "FeaturedPlaylist": "注目のプレイリストイベント",
@@ -401,9 +401,9 @@
     "FireteamSize": "ファイアチームの大きさ",
     "Friend": "フレンド",
     "Friend_plural": "フレンド",
-    "FriendNth_plural": "🦘 {{number}} Friends",
+    "FriendNth_plural": "{{number}} 人のフレンド",
     "GloryPoints": "栄光ポイント",
-    "Graph": "🦘 Graph",
+    "Graph": "グラフ",
     "GuardianRank": "ガーディアンランク",
     "Guardians": "ガーディアン",
     "Help": "ヘルプ",
@@ -426,16 +426,16 @@
     "LoreBook": "伝承の書物",
     "Map": "マップ",
     "Medal_plural": "メダル",
-    "Member_plural": "🦘 Members",
+    "Member_plural": "メンバー",
     "MembersOnline": "{{number}} はオンラインです",
-    "Meta": "🦘 Meta",
+    "Meta": "メタ",
     "Name": "名前",
     "NothingHereYet": "まだ何も無いようです",
     "Objectives": "達成状況",
     "Offline": "オフライン",
     "Patreon": "Patreon",
     "Patron_plural": "支援者",
-    "Power": "🦘 Power",
+    "Power": "パワー",
     "Player": "プレイヤー",
     "Player_plural": "プレイヤー",
     "Preview": "プレビュー",
@@ -452,7 +452,7 @@
     "Report_plural": "記録",
     "Reputation": "評価",
     "Reset": "リセットする",
-    "Reset_plural": "🦘 Resets",
+    "Reset_plural": "リセット",
     "Reward": "報酬",
     "Reward_plural": "報酬",
     "Savathûn'sCurse": "サバスンの呪い",
@@ -475,9 +475,9 @@
     "Statistics": "ステータス値",
     "Submit": "送信",
     "Support": "支援する",
-    "ThirdPartyApps": "🦘 Third Party Apps",
+    "ThirdPartyApps": "サードパーティ製アプリ",
     "TimePlayed": "プレイ時間",
-    "TimeStarted": "🦘 Time Started",
+    "TimeStarted": "開始時刻",
     "TimeRemaining": "残り時間",
     "TopNth": "トップ {{number}}",
     "Translator_plural": "翻訳者",
@@ -521,8 +521,8 @@
         "Info": "ビルドを作成する前に、ゲーム内で装備を調整してください。APIが変更を反映するまでに時間がかかる場合があります。"
       },
       "Overwrite": {
-        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
-        "Name": "🦘 Overwrite Equipment"
+        "Info": "保存されているロードアウトを、選択中のキャラクターの現在の装備で上書きします。",
+        "Name": "ロードアウトを上書きする"
       },
       "Name": {
         "Info": "比類のない美しさ、可愛らしさ、そして逞しさにふさわしいオリジナルの名前をつけましょう。",
@@ -616,7 +616,7 @@
     "Inspect": "詳細",
     "Intrinsic": "内在特性",
     "ItemAction": "アイテム操作",
-    "Locked": "🦘 Locked",
+    "Locked": "ロック中",
     "Mods": "MOD",
     "Marked": "マーク適用中",
     "PerkEverything": "このパークは、すべてのアクティビティで非常に人気があります。",
@@ -677,7 +677,7 @@
       "Relative": {
         "Future": "{{duration}} 後",
         "Past": "{{duration}} 前",
-        "Updated": "🦘 Updated {{duration}}"
+        "Updated": "{{duration}} 更新"
       }
     }
   },
@@ -739,16 +739,16 @@
       "Description": "力はいったい何を齎すのか。 光と闇の間を彷徨い、タイタンとして前線の盾となり絶望の崖に追い込むのか、ウォーロックとして遠距離から全軍を崩壊させるのか、それともハンターとして影に隠れ喉元に刃を突きつけるのか?"
     },
     "Medals": {
-      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
-      "Name": "🦘 Medals"
+      "Description": "表彰\n\nデジタル形式のこのメダルは、さまざまな貢献や功績を称えるものです。Destinyコミュニティにおける関わり、支援、達成を成し遂げたあなたのプロフィールを称えるために表示されます。",
+      "Name": "メダル"
     },
     "Activity": {
       "Description": "ゴーストの守護者(ガーディアン)\n\n死後の人生が、ここから始まる。お前はゴーストに選ばれた蘇りし者であり、光と闇を通して偉大な力を授けられた。\n\nこれが最初の一歩だった。",
       "Name": "最初の復活"
     },
     "Dresstiny": {
-      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
-      "Name": "🦘 Dresstiny"
+      "Description": "おしゃれ番長\n\nあなたはファッションリーダーだと言う人もいれば、流行仕掛け人だと言う人もいます。ですが、ひとつだけ確かなのは——あなたは装備の使い方をよく分かっている、ということです！これこそが真のエンドゲーム、「Dresstiny」なのです。",
+      "Name": "Dresstiny"
     },
     "Highlight": {
       "Description": "誇りと歓喜\n\nお前はこの功績を、周囲に知れ渡るよう肩にかけることを選んだ。",
@@ -767,20 +767,20 @@
       "Name": "調印"
     },
     "Gambit": {
-      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
-      "Name": "🦘 Gambit"
+      "Description": "悪名高き者\n\nへぇ…かけらを稼いで、ブロッカーを送り込むのがまるで準備運動のようになってきたな。お前たちガーディアンはまさに嵐のようだ—相手に侵入し、かけら貯めて、ウェーブを切り抜けるのも朝飯前。\n\n{{number}}勝とは、たいしたものだ。ただギャンビットを遊んでいるわけじゃない、高度な策略家のそれだ。…もしかしたら暗黒の奴らもこっそり覗きに来ているかもな。",
+      "Name": "ギャンビット"
     },
     "Crucible": {
-      "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
-      "Name": "🦘 Crucible"
+      "Description": "［叫び声にならない雄叫び］\n\nそうだ! これだ…これこそがクルーシブルの真髄! \n\nお前の光は太陽のように燃え上がり、迷いや弱さを焼き尽くしている！こんな力を目の当たりにできるとは…光栄の極みだ！\n\nさあ、もう一度戦場へ戻ってくれ——「伝説」というのは何でできているのか、奴らに見せつけてやれ！",
+      "Name": "クルーシブル"
     },
     "AggregateActivityStats": {
       "Description": "経験の積み重ね\n\n確かにこれまで「神」を倒し、その残骸から武器を形成してきました。一方で、 どれほど非情に彼らを殺してきたでしょうか...",
       "Name": "アクティビティステータス集計"
     },
     "Share": {
-      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
-      "Name": "🦘 Share"
+      "Description": "自慢しよう\n\nあなたのレジェンドのリンクを共有すると、友人たちに見せるための特別なプレビュー画像が生成されます。\n\n画像は現在のプロフィールデータから作成され、定期的に更新されます。; ただし、一部のサービスでは一時的にキャッシュされる場合があります。",
+      "Name": "シェアする"
     }
   },
   "Loading": {
@@ -960,8 +960,8 @@
       }
     },
     "GetStarted": "どうやら初めてのようですね! Bungie.netで**認証**をタップしてログインするか、Bungieでの名前を検索してプロフィールを手動で読み込むことで始めることができます!",
-    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
-    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
+    "Authenticate": "Bungie.netを使って認証することで、セキュアなままプロフィールの読み込みや所持品管理などの操作が可能になり、その他さまざまな機能がご利用いただけます。",
+    "RemoveHistory": "プロフィールを右クリックすると、リストから削除できます。",
     "NewLight": "新たな光",
     "NoProfilesFound": "プロファイルはありません",
     "PreviousSearches": "前の検索",
@@ -970,8 +970,8 @@
     "SearchForPlayer": "プレイヤーを検索する",
     "SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
     "SelectACharacter": "キャラクターを選択する",
-    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
-    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
+    "ThirdPartyApps": "このプレイヤーのプロフィールを、提携している外部アプリで表示します。",
+    "ContentOwned": "このプレイヤーは、最後にプレイしたプラットフォーム上で以下のコンテンツを所持しています。"
   },
   "Progression": {
     "Points": "ポイント",
@@ -998,7 +998,7 @@
     "Rewards": "クエスト報酬",
     "Steps": "クエスト進捗",
     "ProjectedRanks": "完了したバウンティーの価値は、上記シーズンパスのランクに相当します。",
-    "ExperienceNeeded": "🦘 Experience needed for next rank.",
+    "ExperienceNeeded": "次のランクに必要な経験値",
     "BountiesValue": "完了したバウンティーの価値",
     "XPBonuses": "経験値ボーナス",
     "SuggestedPath": "パス候補"
@@ -1196,7 +1196,7 @@
         "Description": "通知をすぐに開始する。",
         "Name": "プレビュー通知"
       },
-      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
+      "Stats": "*{{subscribers}}**人のユーザーが、**{{subscriptions}}**台のデバイスに登録しています。そのうち**{{subscribed}}**人がBraytechを有償サブスクリプションで支援していただています。"
     },
     "ReloadRequired": {
       "Description": "アプリの再読み込みを選択すると、変更内容がすぐに有効になります。",
@@ -1253,7 +1253,7 @@
         "Connected": "連携しているDiscordアカウント",
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
       },
-      "UpsellSubscription": "🦘 Support with a subscription",
+      "UpsellSubscription": "サブスクリプションで支援する",
       "ActiveSubscription": "サブスクリプションを発動させる",
       "ManageSubscription": "サブスクリプション管理",
       "Stripe": "Stripeでサブスクリプションを管理できます。",
@@ -1262,8 +1262,8 @@
         "Description": "Braytechのブログ記事やサブスク情報を、メールでお届けします。"
       },
       "ChangeTier": {
-        "Name": "🦘 Change Tier",
-        "Description": "🦘 Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+        "Name": "Tierを変更する",
+        "Description": "Tierの変更は確認するだけで簡単かつすぐに適用されます。請求は変更確定時に行われます。\n\nもし何か問題があったりしたら、遠慮なくご連絡ください。[subscriptions@bray.tech](mailto:subscriptions@bray.tech) までメールをいただくか、[Discord](https://discord.bray.tech) でメンションしてください。"
       },
       "Perks": "特典",
       "Tiers": "支援形態",
@@ -1272,36 +1272,36 @@
       "Blog": "Braytechの開発はブログで随時更新。より面白く、有益な記事をお届けします。",
       "Discord": "Braytechコミュニティに参加して仲間たちと集まろう! 雑談、アイデア、バグ報告、アプリのヘルプもすぐに受け取れます。",
       "NewSubs": "Braytechの継続を支援する、最近サブスクリプション登録した支援者の方々",
-      "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
-      "JustOnce": "🦘 Just Once",
+      "OneTime": " Braytechを支援するために、1回限りの寄付をしてみませんか? 義務や縛りは一切ありません——ただし、お礼はさせてくださいね。",
+      "JustOnce": "一度だけ",
       "Perk": {
         "Username": {
-          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
-          "Name": "🦘 Username"
+          "Description": "長い数字の羅列だったアドレスを、もっとスマートなものに短縮しましょう。\n\nユニークな名前を選んでも、Bungie名に合わせてもOK。これは他のプレイヤーと差をつける、ちょっとしたかわいい方法のひとつです。さらに、使ったことのない端末でも自分のプロフィールにすぐアクセスできるようになります。\n\n絵文字も使えます 🐸",
+          "Name": "ユーザー名"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
-          "Name": "🦘 Highlight"
+          "Description": "特別な勝利の道のり、または目を引く実績のトラッカーをハイライトとして選びましょう。\n\nこのハイライトは、あなたの[伝説](/legend) や、インターネット上で共有するリンクから生成される画像に表示されます。",
+          "Name": "ハイライト"
         },
         "EmblemCodes": {
-          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
-          "Name": "🦘 Emblem Codes"
+          "Description": "Braytechは、慈悲深きユーザーたちの協力もあって、膨大なエンブレムコードのコレクションを築き上げてきました。\n\nサブスクリプションメンバーであれば、[開発者の隠し倉庫]({{url}})からエンブレムコードを1つ引き換えることができます。",
+          "Name": "エンブレムコード"
         },
         "AdvancedLeaderboards": {
-          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
-          "Name": "🦘 Advanced Leaderboards"
+          "Description": "あなたが[リーダーボード](/leaderboards) のヘビーユーザーであれば、さらに2つの便利なツールが追加されます。\n\nサブスクリプションメンバーになると、リーダーボード上の隣接する2人の比較ができるほか、プロフィールのリーダーボード情報を手動で更新し、すべてのリーダーボードを即座に再評価することが可能になります。",
+          "Name": "上級リーダーボード"
         },
         "Medal": {
-          "Description": "🦘 High tier subscribers unlock a permanent medal for their profiles, displayed wherever their profile appears, both on roster entries and in player details dialogs.",
-          "Name": "🦘 Medals"
+          "Description": "上位Tierのサブスクリプションメンバーは、プロフィールに恒久的なメダルをアンロックできます。このメダルは、フレンド一覧やプレイヤー詳細画面など、プロフィールが表示されるあらゆる場所に表示されます。",
+          "Name": "メダル"
         },
         "PriorityDevelopment": {
-          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
-          "Name": "🦘 Priority Development"
+          "Description": "Braytechの価値は、ユーザーの皆さんにとってどれだけ役立つかにかかっています。私は開発者として、常にユーザーからのフィードバックや提案を大切にしてきました。\n\nBraytechがここまで成長できたのは、ユーザーの力によるものです。これからも、あなたの声を最優先で受け止めていきます。",
+          "Name": "開発で大切にしていること"
         },
         "Newsletter": {
-          "Description": "🦘 Subscribe to Braytech's newsletter to receive blog posts and more directly to your email inbox. It's an old Cryptarch technology, but it's functional.",
-          "Name": "🦘 Newsletter"
+          "Description": "Braytechのニュースレターに登録すると、ブログ記事などの最新情報がメールで直接届きます。古のクリプトアーキの技術ですが…まだちゃんと動いていますよ。",
+          "Name": "メール配信"
         }
       }
     },
@@ -1411,7 +1411,7 @@
       "Remove": "外す",
       "SaveNew": "新規保存する",
       "Select": "選択",
-      "Show": "🦘 Show",
+      "Show": "表示",
       "Store": "保管",
       "Unfavourite": "お気に入りから外す",
       "Unlock": "ロックを外す",
@@ -1419,8 +1419,8 @@
       "Track": "追跡",
       "Pin": "ピン留めする",
       "Hide": "隠す",
-      "ShowMenu": "🦘 Show Menu",
-      "HideMenu": "🦘 Hide Menu"
+      "ShowMenu": "メニューを表示",
+      "HideMenu": "メニューを隠す"
     },
     "Item": {
       "ExpiresIn": "{{duration}}後に無効になります.",
@@ -1445,7 +1445,7 @@
       "Completed": "達成済",
       "FireteamLoading": "ファイアチームのメンバー情報を読み込んでいます",
       "NoClanOrFireteam": "ファイアチームやクランに参加して、仲間のガーディアンの実力を確認してみましょう!",
-      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
+      "LoadBungieFriends": "Bungieのフレンドを表示しますか？表示には数秒かかります。",
       "NotCompleted": "未達成",
       "OpenView": "詳細を見る",
       "HasItem": "この記録は次のアイテムに関連しています。[詳細]({{string}})にて確認できます。"
@@ -1461,7 +1461,7 @@
       "Expires": "シーズン{{season}}終了時に期限切れとなります。",
       "IntervalFraction": "{{denominator}} 個中の {{numerator}} 個",
       "Score": "このレコードの勝利スコアは有限です。",
-      "ScoreProgress": "🦘 The score value earned for this triumph."
+      "ScoreProgress": "この勝利の道のりで獲得できるスコアの値です。"
     },
     "BraytechActiveScore": "あなたのアクティブな勝利の道のりスコアは **{{number}}** です（Braytech算出）。達成可能な勝利の道のりから計算されています。",
     "BungieActiveScore": "Bungieでの公式スコアは{{number}}です。コンテンツ更新によって勝利の道のりが削除、またはスコア変更されていない場合は差異が発生することがあります。",
@@ -1510,24 +1510,24 @@
         "Description": "「選択したキャラクターのクラスに一致する勝利の道のりのみを表示する"
       },
       "Flatten": {
-        "Name": "🦘 Flatten",
-        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+        "Name": "まとめて表示",
+        "Description": "ツリー表示ではなく、すべてをひとつのリストにまとめて表示します。"
       },
       "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
-        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+        "Name": "達成済みを隠す",
+        "Description": "選択中のすべてのメンバーが達成済みの勝利の道のりを非表示にします。"
       },
       "ExpandAll": {
-        "Name": "🦘 Expand All",
-        "Description": "🦘 Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
+        "Name": "すべて展開する",
+        "Description": "すべてのノードを展開して、壮大な任務の全貌を味わいましょう。"
       },
       "CollapseAll": {
-        "Name": "🦘 Collapse All",
-        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
+        "Name": "すべて折りたたむ",
+        "Description": "すべてのノードを折りたたんで、必要なところから順に確認できます。"
       },
       "RootNode": {
-        "Name": "🦘 Root Node",
-        "Description": "🦘 Select a root node to explore."
+        "Name": "ルートノード",
+        "Description": "探索を始めるルートノードを選択してください。"
       }
     },
     "NoTrackedRecords": "まだ勝利の道のりを追跡していません！",
@@ -1549,7 +1549,7 @@
     "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",
     "Leaderboards": "リーダーボード機能は、実装するためにテスト用データを購入したりと公開までに非常に多くの困難がありました。もしアイテムコレクションに興味があれば、メンバーリンクに[レアなフレアーのアンロック](https://www.patreon.com/braytech) を付ける機能を通じてサイト支援をしていただければ幸いです。",
     "MemberLinkExample": "このような形で、クランページなどで表示されるネームプレート部分にBraytechサポーターであることを証明する小さなメダルが表示されます。\n\n_このメダルはクロビスブレイ本人またはクローンが起こした行動に対して容認するものではないことをご理解ください。",
-    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
+    "UpsellInfo": "皆さまのご支援は、このアプリの運営、新機能の開発、そして開発者の生命維持（！）に役立っています！"
   },
   "Vendor": {
     "FailureStrings": {
@@ -1580,14 +1580,14 @@
   },
   "Operations": {
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
-    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
+    "NoActivitiesAvailableNoLicense": "拡張コンテンツを所持していないため、プレイ可能なアクティビティがありません。",
     "Event": {
-      "EventRank": "🦘 Event Rank",
-      "WeeklyRank": "🦘 Weekly Rank",
-      "DailyChallenges": "🦘 Daily Challenges",
-      "WeeklyChallenges": "🦘 Weekly Challenges",
-      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
-      "EndsIn": "🦘 Event ends in **{{duration}}**"
+      "EventRank": "イベントランク",
+      "WeeklyRank": "ウイークリーランク",
+      "DailyChallenges": "日刊の挑戦",
+      "WeeklyChallenges": "週間の挑戦",
+      "TriumphsInfo": "このイベントには称号**{{seal}}**に関連しています。 勝利の道のりを達成させて、新しいタイトルを手に入れましょう",
+      "EndsIn": "**{{duration}}**にイベント終了"
     },
     "Challenges": {
       "ActivityBonus": "アクティビティボーナス",
