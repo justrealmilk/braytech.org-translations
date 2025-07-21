@@ -1100,10 +1100,6 @@
         "Description": "在成就下隐藏已完成的成就记录。",
         "Name": "隐藏已完成的成就"
       },
-      "HideDudRecords": {
-        "Description": "从视图中隐藏无用（空白或未使用）的记录",
-        "Name": "隐藏无用的成就记录"
-      },
       "HideInvisibleCollectibles": {
         "Description": "在收藏品下隐藏游戏禁止查看的那些收藏品。",
         "Name": "隐藏不可见的收藏品"

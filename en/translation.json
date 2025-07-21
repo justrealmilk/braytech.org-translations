@@ -1100,10 +1100,6 @@
         "Description": "If a triumph is completed and redeemed, it will be hidden under Triumphs views.",
         "Name": "Hide Completed Triumphs"
       },
-      "HideDudRecords": {
-        "Description": "Hide dud (empty or unused) triumphs from view. This is a manually curated [list](/triumphs/dud).",
-        "Name": "Hide Dud Triumphs"
-      },
       "HideInvisibleCollectibles": {
         "Description": "If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
         "Name": "Hide Invisible Collection Items"

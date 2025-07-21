@@ -1100,10 +1100,6 @@
         "Description": "Blendet errungene Triumphe in der Triumphe-Ansicht aus.",
         "Name": "Fertige Triumphe ausblenden"
       },
-      "HideDudRecords": {
-        "Description": "Blendet leere oder unbenutzte Triumphe aus der Triumphe-Ansicht aus.",
-        "Name": "Verstecke unbenutzte Triumphe"
-      },
       "HideInvisibleCollectibles": {
         "Description": "Blendet Gegenstände in der Sammlungen-Ansicht aus, wenn das Spiel vorgibt, dass du sie nicht sehen sollst.",
         "Name": "Unsichtbare Gegenstände ausblenden"

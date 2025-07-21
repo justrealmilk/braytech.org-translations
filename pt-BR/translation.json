@@ -1100,10 +1100,6 @@
         "Description": "Se um triunfo estiver completo e resgatado, ele aparecerá escondido na página de Triunfos.",
         "Name": "Esconder triunfos completos"
       },
-      "HideDudRecords": {
-        "Description": "Esconder registros falsos (vazios ou não usados) das páginas",
-        "Name": "Esconder triunfos falsos"
-      },
       "HideInvisibleCollectibles": {
         "Description": "Se o jogo especificar que você não tem permissão para ver um colecionável específico, ele aparecerá escondido na página de Coleções.",
         "Name": "Esconder itens invisíveis da coleção"

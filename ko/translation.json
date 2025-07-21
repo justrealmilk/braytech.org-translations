@@ -1100,10 +1100,6 @@
         "Description": "업적을 완료하고 획득하면 업적 화면에서 숨김",
         "Name": "완료한 업적 숨김"
       },
-      "HideDudRecords": {
-        "Description": "사용 불가능한 업적(무의미하거나 사용되지 않는) 업적을 화면에서 숨깁니다. 선택한 목록은 제외됩니다.",
-        "Name": "사용 불가능한 업적 숨김"
-      },
       "HideInvisibleCollectibles": {
         "Description": "게임에서 숨겨진 수집품이라면, 수집품 화면에서 숨김.",
         "Name": "비밀 수집품 숨김"

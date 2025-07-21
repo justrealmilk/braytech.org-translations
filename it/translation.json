@@ -1100,10 +1100,6 @@
         "Description": "Se un trionfo è stato completato e riscattato, sarà nascosto dalla sezione Trionfi.",
         "Name": "Nascondi trionfi completati"
       },
-      "HideDudRecords": {
-        "Description": "Nascondi trionfi fittizi (vuoti o inutilizzati) dalla sezione. Questa [lista](/triumphs/dud) è curata manualmente.",
-        "Name": "Nascondi trionfi fittizi"
-      },
       "HideInvisibleCollectibles": {
         "Description": "Se il gioco specifica che non puoi vedere un particolare equipaggiamento, questo verrà nascosto dalla sezione Collezioni.",
         "Name": "Nascondi oggetti della collezione invisibili"

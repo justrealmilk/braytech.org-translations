@@ -1100,10 +1100,6 @@
         "Description": "Si un triomphe est complété et validé, il sera caché dans la page des Triomphes.",
         "Name": "Masquer les triomphes obtenus"
       },
-      "HideDudRecords": {
-        "Description": "Masque les enregistrements vides (vides ou inutilisés) de la vue",
-        "Name": "Masquer les records de triomphe raté"
-      },
       "HideInvisibleCollectibles": {
         "Description": "Si le jeu pense qu'il n'est pas possible de voir un objet, il sera caché dans la page des Collections.",
         "Name": "Masquer les objets de collection invisibles"

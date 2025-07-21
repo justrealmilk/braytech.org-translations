@@ -1100,10 +1100,6 @@
         "Description": "Si un triunfo está completado y canjeado, se ocultará en la sección Triunfos.",
         "Name": "Ocultar triunfos completos"
       },
-      "HideDudRecords": {
-        "Description": "Oculta los triunfos inservibles (vacíos o sin usar). Esta es una [lista](/triumphs/dud) elaborada manualmente.",
-        "Name": "Ocultar los triunfos inservibles"
-      },
       "HideInvisibleCollectibles": {
         "Description": "Si el juego especifica que no puedes ver un coleccionable en particular, se ocultará en la sección Colecciones.",
         "Name": "Ocultar elementos invisibles de la colección"
