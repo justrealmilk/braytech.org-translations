@@ -1048,10 +1048,6 @@
         "Description": "If a twiumph is compweted and wedeemed, it wiww be hidden undew Twiumphs views.",
         "Name": "Hide Compweted Twiumphs"
       },
-      "HideDudRecords": {
-        "Description": "Hide dud (empty ow unused) twiumphs fwom view. This is a manuawwy cuwated [wist](/twiumphs/dud).",
-        "Name": "Hide Dud Twiumphs"
-      },
       "HideInvisibleCollectibles": {
         "Description": "If da game specifies that uu awe unabwe to see a pawticuwaw cowwectibwe, it wiww be hidden undew Cowwections views.",
         "Name": "Hide Invisibwe Cowwection Items"
