@@ -536,7 +536,7 @@
         "Placeholder": "<description>"
       },
       "Screenshot": {
-        "Info": "Screenshots should be captured from the **Customize Appearance** view in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
+        "Info": "Screenshots should be captured from the **Customize Appearance** view in-game. Set your **screen brightness to 3** in game settings to match. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
         "Placeholder": "<screenshot>"
       },
       "Url": {
