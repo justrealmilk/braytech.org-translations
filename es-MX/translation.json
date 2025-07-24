@@ -319,7 +319,8 @@
     "Encounter": "Encuentro",
     "AnyEncounter": "Cualquier encuentro",
     "FinalEncounter": "Encuentro final",
-    "StashFavourites": "¡Guarda aquí todos tus coleccionables favoritos!\n\nPuedes sincronizar tus coleccionables activando la sincronización en [Ajustes](/settings#sync)."
+    "StashFavourites": "¡Guarda aquí todos tus coleccionables favoritos!\n\nPuedes sincronizar tus coleccionables activando la sincronización en [Ajustes](/settings#sync).",
+    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
   },
   "Commendations": {
     "Received": "Recibidos",

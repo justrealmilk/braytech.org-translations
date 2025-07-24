@@ -319,7 +319,8 @@
     "Encounter": "遭遇戦",
     "AnyEncounter": "全遭遇戦",
     "FinalEncounter": "最終エンカウンター",
-    "StashFavourites": "お気に入りの収集アイテムをここにまとめて保管しましょう！\n\n[設定](/settings#sync)で同期を有効にすると、収集アイテムを同期できます。"
+    "StashFavourites": "お気に入りの収集アイテムをここにまとめて保管しましょう！\n\n[設定](/settings#sync)で同期を有効にすると、収集アイテムを同期できます。",
+    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
   },
   "Commendations": {
     "Received": "受け取った",

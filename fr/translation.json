@@ -319,7 +319,8 @@
     "Encounter": "Rencontre",
     "AnyEncounter": "Toute rencontre",
     "FinalEncounter": "Dernière rencontre",
-    "StashFavourites": "Rangez tous vos objets de collection préférés ici !\n\nVous pouvez synchroniser vos objets de collection en activant la synchronisation dans [Paramètres](/settings#sync)."
+    "StashFavourites": "Rangez tous vos objets de collection préférés ici !\n\nVous pouvez synchroniser vos objets de collection en activant la synchronisation dans [Paramètres](/settings#sync).",
+    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
   },
   "Commendations": {
     "Received": "Reçus",
