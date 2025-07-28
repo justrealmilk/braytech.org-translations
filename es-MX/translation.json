@@ -641,7 +641,8 @@
     "UndiscoveredCollectibleVendor": "Adquiere este objeto para añadirlo a tus Colecciones",
     "Weapons": "Armas",
     "WeaponKills": "Bajas con arma",
-    "WeaponStats": "Estadísticas del arma"
+    "WeaponStats": "Estadísticas del arma",
+    "Tier": "🦘 Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "Esta semana",

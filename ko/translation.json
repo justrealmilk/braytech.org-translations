@@ -641,7 +641,8 @@
     "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
     "Weapons": "🦘 Weapons",
     "WeaponKills": "무기로 처치",
-    "WeaponStats": "최대 사용 가능한 시즌"
+    "WeaponStats": "최대 사용 가능한 시즌",
+    "Tier": "🦘 Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "이번 주",

@@ -641,7 +641,8 @@
     "UndiscoveredCollectibleVendor": "获取这个物品并添加进你的收藏之中",
     "Weapons": "武器",
     "WeaponKills": "武器击杀",
-    "WeaponStats": "武器属性"
+    "WeaponStats": "武器属性",
+    "Tier": "🦘 Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "本周的命运",

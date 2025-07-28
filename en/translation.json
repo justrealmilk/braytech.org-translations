@@ -641,7 +641,8 @@
     "UndiscoveredCollectibleVendor": "Acquire this item to add it to your Collections",
     "Weapons": "Weapons",
     "WeaponKills": "Weapon Kills",
-    "WeaponStats": "Weapon Stats"
+    "WeaponStats": "Weapon Stats",
+    "Tier": "Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "This Week",

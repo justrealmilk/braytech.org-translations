@@ -641,7 +641,8 @@
     "UndiscoveredCollectibleVendor": "アイテムを取得して保管庫に追加する",
     "Weapons": "武器",
     "WeaponKills": "武器キル数",
-    "WeaponStats": "武器性能"
+    "WeaponStats": "武器性能",
+    "Tier": "🦘 Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "今週のDestiny2",
