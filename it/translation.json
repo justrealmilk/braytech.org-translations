@@ -1253,7 +1253,8 @@
       "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
       "State": {
         "Ending": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento **terminerà** il **{{currentPeriodEnd}}**.",
-        "Renewing": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento si **rinnoverà** il **{{currentPeriodEnd}}**."
+        "Renewing": "Ti sei abbbonato il **{{created}}** e il tuo abbonamento si **rinnoverà** il **{{currentPeriodEnd}}**.",
+        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
       },
       "DiscordProfile": {
         "Connected": "Hai connesso il tuo profilo Discord.",
@@ -1261,6 +1262,7 @@
       },
       "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Abbonamento attivo",
+      "InactiveSubscription": "🦘 Inactive",
       "ManageSubscription": "🦘 Manage Subscription",
       "Stripe": "🦘 Visit Stripe to manage your subscription.",
       "Newsletter": {
