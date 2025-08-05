@@ -1257,7 +1257,7 @@
         "Cancelled": "Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
       },
       "DiscordProfile": {
-        "Connected": "Your connected Discord profile.",
+        "Connected": "Your connected Discord profile.\nAs your Discord profile and Bungie.net profile are now connected, you're able to receive Subscriber perks and you're able to receive rewards from Braytech programs.",
         "Disconnected": "Get your server perks and participate in the conversation to help shape Braytech's development!"
       },
       "UpsellSubscription": "Support with a subscription",
