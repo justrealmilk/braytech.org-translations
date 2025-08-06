@@ -1481,6 +1481,7 @@
     "Seal_plural": "印章",
     "Seals": {
       "AvailableTitle": "可用的標題：**{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "印章稀有度代表了 Voluspa 跟蹤的玩家的獲取百分比.",
         "Name": "印章持有率"

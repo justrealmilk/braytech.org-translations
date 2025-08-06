@@ -1481,6 +1481,7 @@
     "Seal_plural": "印",
     "Seals": {
       "AvailableTitle": "入手可能なタイトル: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
         "Name": "印のレアリティ"

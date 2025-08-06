@@ -1481,6 +1481,7 @@
     "Seal_plural": "인장",
     "Seals": {
       "AvailableTitle": "🦘 Available title: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Voluspa에서 확인되는 유저 중 이 인장을 획득한 플레이어 비율입니다.",
         "Name": "인장 희소성"

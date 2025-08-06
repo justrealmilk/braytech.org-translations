@@ -1481,6 +1481,7 @@
     "Seal_plural": "🦘 Seals",
     "Seals": {
       "AvailableTitle": "🦘 Available title: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
         "Name": "🦘 Seal Commonality"

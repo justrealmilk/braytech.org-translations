@@ -1481,6 +1481,7 @@
     "Seal_plural": "Печати",
     "Seals": {
       "AvailableTitle": "Доступный титул: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Редкость печати отображает редкость получения печати среди игроков индексируемых Voluspa.",
         "Name": "Редкость печати"

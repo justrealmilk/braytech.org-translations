@@ -1481,6 +1481,7 @@
     "Seal_plural": "Sigilli",
     "Seals": {
       "AvailableTitle": "Titolo disponibile: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito questo titolo.",
         "Name": "Rarità sigillo"

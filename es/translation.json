@@ -1481,6 +1481,7 @@
     "Seal_plural": "Sellos",
     "Seals": {
       "AvailableTitle": "Título disponible: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este título.",
         "Name": "Rareza del sello"

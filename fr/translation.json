@@ -1481,6 +1481,7 @@
     "Seal_plural": "Sceaux",
     "Seals": {
       "AvailableTitle": "Titre disponible: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Pourcentage de joueurs indexés par Voluspa ayant acquis ce sceau.",
         "Name": "Rareté du sceau"

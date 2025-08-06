@@ -1481,6 +1481,7 @@
     "Seal_plural": "Siegel",
     "Seals": {
       "AvailableTitle": "Verfügbarer Titel: **{{title}}**",
+      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Prozentsatz der Spieler, die von Voluspa indiziert sind und diesen Titel erworben haben.",
         "Name": "Siegel-Häufigkeit"
