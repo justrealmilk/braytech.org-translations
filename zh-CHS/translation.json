@@ -1258,7 +1258,8 @@
       },
       "DiscordProfile": {
         "Connected": "你已关联 Discord 账户",
-        "Disconnected": "关联 Discord账户，这样就可以在 Discord [服务器](https://discord.bray.tech) 里使用命令 `/register_discord_with_voluspa`。"
+        "Disconnected": "关联 Discord账户，这样就可以在 Discord [服务器](https://discord.bray.tech) 里使用命令 `/register_discord_with_voluspa`。",
+        "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "订阅支持",
       "ActiveSubscription": "当前订阅",

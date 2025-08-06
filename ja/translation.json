@@ -1258,7 +1258,8 @@
       },
       "DiscordProfile": {
         "Connected": "連携しているDiscordアカウント",
-        "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。"
+        "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。",
+        "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "サブスクリプションで支援する",
       "ActiveSubscription": "サブスクリプションを発動させる",

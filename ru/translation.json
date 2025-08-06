@@ -1258,7 +1258,8 @@
       },
       "DiscordProfile": {
         "Connected": "Ваш подключенный профиль Discord.",
-        "Disconnected": "Подключите ваш аккаунт Discord используя команду `/register_discord_with_voluspa` в Discord [сервере](https://discord.bray.tech)."
+        "Disconnected": "Подключите ваш аккаунт Discord используя команду `/register_discord_with_voluspa` в Discord [сервере](https://discord.bray.tech).",
+        "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "Поддержать подпиской",
       "ActiveSubscription": "Активная подписка",

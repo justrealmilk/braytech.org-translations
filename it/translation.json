@@ -1258,7 +1258,8 @@
       },
       "DiscordProfile": {
         "Connected": "Hai connesso il tuo profilo Discord.",
-        "Disconnected": "Connetti il tuo profilo Discord usando il comando `/register_discord_with_voluspa` nel [server](https://discord.bray.tech) Discord."
+        "Disconnected": "Connetti il tuo profilo Discord usando il comando `/register_discord_with_voluspa` nel [server](https://discord.bray.tech) Discord.",
+        "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "🦘 Support with a subscription",
       "ActiveSubscription": "Abbonamento attivo",
