@@ -695,13 +695,13 @@
     "Rank": "Rank",
     "Global": "Global",
     "Active": "Active",
-    "Seal": "Seal",
+    "Title": "Title",
     "Gild": "Gild",
     "Legacy": "Legacy",
     "Triumph": "Triumph",
     "Collection": "Collection",
     "ActiveScore": "Active Score",
-    "SealScore": "Seal Score",
+    "TitleScore": "Title Score",
     "GildScore": "Gild Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
@@ -772,9 +772,9 @@
       "Description": "Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
       "Name": "Rare Treasures & Exotic Style"
     },
-    "Seals": {
+    "Titles": {
       "Description": "Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "Triumph Seals"
+      "Name": "Triumph Titles"
     },
     "Gambit": {
       "Description": "Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "Duds",
     "EventCard": "Event Card",
-    "LegacySeal_plural": "Legacy Seals",
+    "LegacyTitle_plural": "Legacy Titles",
     "LegacyTriumph_plural": "Legacy Triumphs",
     "SelectEntry": "Select an entry to read.",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "You have redeemed all of these triumphs and chosen to hide them.",
     "RecordsUnavailable": "There are no triumphs available for display.",
-    "Seal": "Seal",
-    "SealTitleSeasonSuffix": "{{title}} (Season {{season}})",
-    "Seal_plural": "Seals",
-    "Seals": {
+    "Title": "Title",
+    "Title_plural": "Titles",
+    "Titles": {
       "AvailableTitle": "Available title: **{{title}}**",
       "CanBeGilded": "This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "Seal Commonality"
+        "Name": "Title Commonality"
       },
       "CommonalityGilded": {
         "Description": "Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-        "Name": "Gilded Seal Commonality"
+        "Name": "Gilded Title Commonality"
       },
       "PlayerTitle": "Player title: **{{title}}**",
-      "SealCompleted": "Seal Completed",
-      "SealGilded": "Seal Gilded",
-      "SealGildedProgress": "Gilded Progress",
-      "SealProgress": "Seal Progress"
+      "TitleCompleted": "Title Completed",
+      "TitleGilded": "Title Gilded",
+      "TitleGildedProgress": "Gilded Progress",
+      "TitleProgress": "Title Progress"
     },
     "Secret": {
       "Name": "Secret Triumph",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "Weekly Rank",
       "DailyChallenges": "Daily Challenges",
       "WeeklyChallenges": "Weekly Challenges",
-      "TriumphsInfo": "This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "Event ends in **{{duration}}**"
     }
   }

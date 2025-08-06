@@ -695,13 +695,13 @@
     "Rank": "ランク",
     "Global": "全世界ランキング",
     "Active": "アクティブ",
-    "Seal": "印",
+    "Title": "🦘 Title",
     "Gild": "黄金",
     "Legacy": "レガシー",
     "Triumph": "勝利の道のり",
     "Collection": "コレクション",
     "ActiveScore": "アクティブな勝利の道のりスコア",
-    "SealScore": "印のスコア",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "黄金のスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
@@ -772,9 +772,9 @@
       "Description": "勝利し、報酬を掴め\n\n地球とその向こうの世界には、トラベラーがもたらした素晴らしくも奇想天外な神話の宝物が存在する。\n\n 追跡することに喜びがある。",
       "Name": "レアな宝物とエキゾチックなスタイル"
     },
-    "Seals": {
-      "Description": "勝利のエンブレム\n\n完全を極める者の栄誉。誇りをもって身に着けよ。",
-      "Name": "調印"
+    "Titles": {
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "悪名高き者\n\nへぇ…かけらを稼いで、ブロッカーを送り込むのがまるで準備運動のようになってきたな。お前たちガーディアンはまさに嵐のようだ—相手に侵入し、かけら貯めて、ウェーブを切り抜けるのも朝飯前。\n\n{{number}}勝とは、たいしたものだ。ただギャンビットを遊んでいるわけじゃない、高度な策略家のそれだ。…もしかしたら暗黒の奴らもこっそり覗きに来ているかもな。",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "工事中",
     "EventCard": "イベントカード",
-    "LegacySeal_plural": "過去の印",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "過去の勝利の道のり",
     "SelectEntry": "読みたい伝承を選択してください",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",
-    "Seal": "印",
-    "SealTitleSeasonSuffix": "{{title}} (シーズン {{season}})",
-    "Seal_plural": "印",
-    "Seals": {
-      "AvailableTitle": "入手可能なタイトル: **{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "印のレアリティは、Voluspaによってインデックス化されたプレイヤーの割合です。",
-        "Name": "印のレアリティ"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Voluspaのインデックスに登録されているプレイヤーのうち、このタイトルを取得した人の割合。",
-        "Name": "勝利の道のりの印のレア度"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "プレイヤータイトル: **{{title}}**",
-      "SealCompleted": "終了した印",
-      "SealGilded": "勝利の道のりの印",
-      "SealGildedProgress": "勝利の道のりの印の進行状況",
-      "SealProgress": "印の進捗"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "秘密の勝利の道のり",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "ウイークリーランク",
       "DailyChallenges": "日刊の挑戦",
       "WeeklyChallenges": "週間の挑戦",
-      "TriumphsInfo": "このイベントには称号**{{seal}}**に関連しています。 勝利の道のりを達成させて、新しいタイトルを手に入れましょう",
       "EndsIn": "**{{duration}}**にイベント終了"
     }
   }

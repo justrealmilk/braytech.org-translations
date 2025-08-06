@@ -695,13 +695,13 @@
     "Rank": "Ранг",
     "Global": "Глобально",
     "Active": "Активные",
-    "Seal": "Печати",
+    "Title": "🦘 Title",
     "Gild": "Позолоченные",
     "Legacy": "Древние",
     "Triumph": "Триумфы",
     "Collection": "Коллекция",
     "ActiveScore": "Счёт активных триумфов",
-    "SealScore": "Счёт Печатей",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "Счёт Позолот",
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Счёт триумфов",
@@ -772,9 +772,9 @@
       "Description": "Ликуйте и получайте свои награды.\n\nЗемля и тронутые Странником миры за пределом хранят удивительные странности и желанные сокровища мифов\n\nСамое интересное — в поиске.",
       "Name": "Редкие Скоровища & Стиль игры с Экзотами"
     },
-    "Seals": {
-      "Description": "Эмблемы побед\n\nВысшая мера для совершественника и коллекционера: носите их с гордостью.",
-      "Name": "Печати триумфов"
+    "Titles": {
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "Недействительные",
     "EventCard": "Карточка события",
-    "LegacySeal_plural": "Прошлые печати",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "Прошлые триумфы",
     "SelectEntry": "Выберите страницу для чтения.",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",
-    "Seal": "Печать",
-    "SealTitleSeasonSuffix": "{{title}} (Сезон {{season}})",
-    "Seal_plural": "Печати",
-    "Seals": {
-      "AvailableTitle": "Доступный титул: **{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "Редкость печати отображает редкость получения печати среди игроков индексируемых Voluspa.",
-        "Name": "Редкость печати"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Редкость печати отображает редкость получения и золочения печати среди игроков индексируемых Voluspa.",
-        "Name": "Редкость позолоченной печати"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "Титул игрока: **{{title}}**",
-      "SealCompleted": "Печать выполнена",
-      "SealGilded": "Позолоченная печать",
-      "SealGildedProgress": "Прогресс золочения",
-      "SealProgress": "Прогресс печати"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "Секретный триумф",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "Эжедневные Вызовы",
       "WeeklyChallenges": "Эженедельные Вызовы",
-      "TriumphsInfo": "У этого эвента есть соответсвующая печать, **{{seal}}**. Завершите эти триумфы, чтобы получить новый титул.",
       "EndsIn": "Эвент заканчивается через **{{duration}}**"
     }
   }

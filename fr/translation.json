@@ -695,13 +695,13 @@
     "Rank": "Rang",
     "Global": "Global",
     "Active": "Actif",
-    "Seal": "Sceau",
+    "Title": "🦘 Title",
     "Gild": "Doré",
     "Legacy": "Héritage",
     "Triumph": "Triomphe",
     "Collection": "Collection",
     "ActiveScore": "Score actif",
-    "SealScore": "Score de sceau",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "Score de dorure",
     "LegacyScore": "Score classique",
     "TriumphScore": "Score de triomphe",
@@ -772,9 +772,9 @@
       "Description": "Triomphez et réclamez vos récompenses\n\nLa Terre et les mondes au-delà touchés par le Voyageur recèlent de merveilleuses bizarreries et des trésors mythiques recherchés.\n\nLe plaisir est dans la poursuite.",
       "Name": "Trésors Rares & Style Exotique"
     },
-    "Seals": {
-      "Description": "Sceaux de Triomphe\n\nLa mesure ultime d'un complétiste et d'un collectionneur ; portez-les bien.",
-      "Name": "Sceaux de Triomphe"
+    "Titles": {
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "Eh bien, eh bien, eh bien... regardez qui a accumulé des particules et envoyé des Bloqueurs comme si c'était un simple exercice. Vous, les Gardiens, êtes une véritable tempête : vous envahissez, vous encaissez et vous éliminez les vagues comme un jeu d'enfant.\n\n{{number}} victoires, hein ? C'est quelque chose de spécial. Vous ne jouez pas seulement au Gambit, vous êtes le Gambit. Je suppose que les Ténèbres prennent des notes.",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "Ratés",
     "EventCard": "Carte de l'évènement",
-    "LegacySeal_plural": "Sceaux du passé",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "Triomphes du passé",
     "SelectEntry": "Sélectionnez une entrée à lire",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "Le Gardien a **{{number}}** de points en attente de déblocage.",
     "RecordsRedeemed": "Vous avez récupéré toutes ces données et choisi de les masquer.",
     "RecordsUnavailable": "Il n'y a pas de données disponibles pour l'affichage.",
-    "Seal": "Sceau",
-    "SealTitleSeasonSuffix": "{{title}} (Saison {{season}})",
-    "Seal_plural": "Sceaux",
-    "Seals": {
-      "AvailableTitle": "Titre disponible: **{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "Pourcentage de joueurs indexés par Voluspa ayant acquis ce sceau.",
-        "Name": "Rareté du sceau"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Pourcentage de joueurs indexés par Voluspa ayant acquis et doré ce titre.",
-        "Name": "Rareté du sceau doré"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "Titre du joueur: **{{title}}**",
-      "SealCompleted": "Sceau complété",
-      "SealGilded": "Sceau doré",
-      "SealGildedProgress": "Progression du sceau doré",
-      "SealProgress": "Progrès du Sceau"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "Triomphe secret",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "Défis quotidiens",
       "WeeklyChallenges": "Défis hebdomadaires",
-      "TriumphsInfo": "Cet événement est associé à un sceau : **{{seal}}**. Terminez ces triomphes pour obtenir un nouveau titre.",
       "EndsIn": "L'événement se termine dans **{{duration}}**"
     }
   }

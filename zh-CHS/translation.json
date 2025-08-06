@@ -695,13 +695,13 @@
     "Rank": "排行榜",
     "Global": "全球",
     "Active": "凯旋",
-    "Seal": "封存",
+    "Title": "🦘 Title",
     "Gild": "镀金",
     "Legacy": "传承",
     "Triumph": "成就",
     "Collection": "收藏品",
     "ActiveScore": "凯旋记录",
-    "SealScore": "封存分数",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "镀金分数",
     "LegacyScore": "传承分数",
     "TriumphScore": "成就分数",
@@ -772,9 +772,9 @@
       "Description": "凯旋，并领取你的奖励\n\n地球与其他被旅行者光顾过的星球，蕴藏着奇妙的怪事和令人向往的神话宝藏\n去追寻这些乐趣吧。",
       "Name": "稀有的宝藏 & 异域风格"
     },
-    "Seals": {
-      "Description": "胜利徽章\n\n完成主义者与收藏家的终极衡量标准；好好佩戴它们。",
-      "Name": "成就与称号"
+    "Titles": {
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "恶名\n\n喔喔喔...看看谁又像日常演练那样熟练存入三角荧光以及召唤阻绝者。你们守护者是真正的风暴，像过家家一样横扫一波波战员。\n\n嗯...赢了{{number}}次？确实厉害。你不是在游玩智谋——你就是智谋。估计黑暗力量已经看上你了。",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "即将入库提醒",
     "EventCard": "事件卡片",
-    "LegacySeal_plural": "传承称号",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "传承成就",
     "SelectEntry": "选择一项来阅读。",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",
     "RecordsUnavailable": "没有可显示的记录。",
-    "Seal": "称号",
-    "SealTitleSeasonSuffix": "{{title}} (第 {{season}} 赛季)",
-    "Seal_plural": "称号",
-    "Seals": {
-      "AvailableTitle": "可用称号：**{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "称号的稀有度代表了 Voluspa 跟踪的玩家的获取百分比。",
-        "Name": "称号持有率"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Voluspa 所追踪玩家获得并镀金该称号的比例",
-        "Name": "镀金称号持有率"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "玩家称号：**{{title}}**",
-      "SealCompleted": "已完成称号",
-      "SealGilded": "称号已镀金",
-      "SealGildedProgress": "镀金进度",
-      "SealProgress": "称号进度"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "秘密成就",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "每周评级",
       "DailyChallenges": "每日挑战",
       "WeeklyChallenges": "每周挑战",
-      "TriumphsInfo": "此事件有一个相关的称号：**{{seal}}**。完成这些成就即可获得新的称号。",
       "EndsIn": "事件将在**{{duration}}**后结束。"
     }
   }

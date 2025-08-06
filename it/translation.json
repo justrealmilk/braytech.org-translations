@@ -695,13 +695,13 @@
     "Rank": "Grado",
     "Global": "Globale",
     "Active": "🦘 Active",
-    "Seal": "🦘 Seal",
+    "Title": "🦘 Title",
     "Gild": "🦘 Gild",
     "Legacy": "🦘 Legacy",
     "Triumph": "🦘 Triumph",
     "Collection": "🦘 Collection",
     "ActiveScore": "Punteggio attivo",
-    "SealScore": "🦘 Seal Score",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "🦘 Gild Score",
     "LegacyScore": "Punteggio storico",
     "TriumphScore": "Punteggio trionfale",
@@ -772,9 +772,9 @@
       "Description": "Trionfa e riscatta le tue ricompense\n\nLa Terra e i mondi al di là toccati dal Viaggiatore custodiscono meravigliose stranezze e tesori mitici ricercati.\n\nIl divertimento sta nella caccia.",
       "Name": "Tesori rari e stile esotico"
     },
-    "Seals": {
+    "Titles": {
       "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "Sigilli"
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "Trionfi fittizi",
     "EventCard": "Carta evento",
-    "LegacySeal_plural": "Sigilli storici",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "Trionfi storici",
     "SelectEntry": "Seleziona una pagina da leggere.",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "Il Guardiano ha un punteggio di **{{number}}** in attesa di essere sbloccato.",
     "RecordsRedeemed": "Hai già riscattato tutti questi trionfi e hai scelto di nasconderli.",
     "RecordsUnavailable": "Non ci sono trionfi disponibili da visualizzare.",
-    "Seal": "Sigillo",
-    "SealTitleSeasonSuffix": "{{title}} (Stagione {{season}})",
-    "Seal_plural": "Sigilli",
-    "Seals": {
-      "AvailableTitle": "Titolo disponibile: **{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito questo titolo.",
-        "Name": "Rarità sigillo"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Percentuale di giocatori indicizzati da Voluspa che hanno acquisito e indorato questo titolo.",
-        "Name": "Rarità sigillo indorato"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "Titolo giocatore: **{{title}}**",
-      "SealCompleted": "Sigillo completato",
-      "SealGilded": "Titolo indorato",
-      "SealGildedProgress": "Progresso indoratura",
-      "SealProgress": "Progresso sigillo"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "Trionfo segreto",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "🦘 Daily Challenges",
       "WeeklyChallenges": "🦘 Weekly Challenges",
-      "TriumphsInfo": "🦘 This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "🦘 Event ends in **{{duration}}**"
     }
   }

@@ -695,13 +695,13 @@
     "Rank": "Posición",
     "Global": "Mundial",
     "Active": "Activo",
-    "Seal": "Sello",
+    "Title": "🦘 Title",
     "Gild": "Dorado",
     "Legacy": "Antiguo",
     "Triumph": "Triunfo",
     "Collection": "Colección",
     "ActiveScore": "Puntuación activa",
-    "SealScore": "Puntuación de sello",
+    "TitleScore": "🦘 Title Score",
     "GildScore": "Puntuación dorada",
     "LegacyScore": "Puntuación antigua",
     "TriumphScore": "Puntuación de triunfos",
@@ -772,9 +772,9 @@
       "Description": "Triunfa y reclama tus recompensas\n\nLa Tierra y los mundos lejanos tocados por el Viajero guardan maravillosas rarezas y codiciados tesoros míticos.\n\nLa diversión está en su búsqueda.",
       "Name": "Tesoros raros y estilos exóticos"
     },
-    "Seals": {
-      "Description": "Emblemas de victoria\n\nLa quintaesencia de un completista y coleccionista; llévalos con gusto.",
-      "Name": "Triunfos del sello"
+    "Titles": {
+      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
+      "Name": "🦘 Triumph Titles"
     },
     "Gambit": {
       "Description": "Infame\n\nBueno, bueno, bueno... miren quién ha estado apilando motas y lanzando bloqueadores como si fuera práctica de tiro. Vosotros los Guardianes son un verdaderp huracán. Invadiendo, entregando motas y despejando oleadas como si fuera un juego de niños.\n\n{{number}} victorias, ¿eh? Eso es algo especial. No sólo juegas a Gambito, eres Gambito. Creo que la Oscuridad está tomando nota.",
@@ -1461,7 +1461,7 @@
     },
     "DudTriumphs": "Inservibles",
     "EventCard": "Tarjeta de evento",
-    "LegacySeal_plural": "Sellos antiguos",
+    "LegacyTitle_plural": "🦘 Legacy Titles",
     "LegacyTriumph_plural": "Triunfos antiguos",
     "SelectEntry": "Selecciona una página para leer.",
     "Record": {
@@ -1477,25 +1477,24 @@
     "PotentialUnattainedScore": "El Guardián tiene **{{number}}** puntos esperando a ser desbloqueados.",
     "RecordsRedeemed": "Has canjeado todos estos triunfos y has elegido ocultarlos.",
     "RecordsUnavailable": "No hay triunfos disponibles para su visualización.",
-    "Seal": "Sello",
-    "SealTitleSeasonSuffix": "{{title}} (Temporada {{season}})",
-    "Seal_plural": "Sellos",
-    "Seals": {
-      "AvailableTitle": "Título disponible: **{{title}}**",
+    "Title": "🦘 Title",
+    "Title_plural": "🦘 Titles",
+    "Titles": {
+      "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
-        "Description": "Porcentaje de jugadores indizados por Voluspa que han canjeado este título.",
-        "Name": "Rareza del sello"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
+        "Name": "🦘 Title Commonality"
       },
       "CommonalityGilded": {
-        "Description": "Porcentaje de jugadores indizados por Voluspa que han adquirido y dorado este título.",
-        "Name": "Rareza del sello dorado"
+        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
+        "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "Título de jugador: **{{title}}**",
-      "SealCompleted": "Sello completado",
-      "SealGilded": "Sello dorado",
-      "SealGildedProgress": "Progreso de sellos dorados",
-      "SealProgress": "Progreso de sellos"
+      "PlayerTitle": "🦘 Player title: **{{title}}**",
+      "TitleCompleted": "🦘 Title Completed",
+      "TitleGilded": "🦘 Title Gilded",
+      "TitleGildedProgress": "🦘 Gilded Progress",
+      "TitleProgress": "🦘 Title Progress"
     },
     "Secret": {
       "Name": "Triunfo secreto",
@@ -1599,7 +1598,6 @@
       "WeeklyRank": "🦘 Weekly Rank",
       "DailyChallenges": "Desafíos diarios",
       "WeeklyChallenges": "Desafíos semanales",
-      "TriumphsInfo": "Este evento tiene un sello relacionado, **{{seal}}**. Completa estos triunfos para ganar un nuevo título.",
       "EndsIn": "El evento termina en **{{duration}}**"
     }
   }
