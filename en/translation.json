@@ -417,6 +417,7 @@
     "Help": "Help",
     "Highlight": "Highlight",
     "HistoricalStats": "Historical Stats",
+    "Inactive": "Inactive",
     "InfamyPoints": "Infamy Points",
     "Inspect": "Inspect",
     "Inventory": "Inventory",
@@ -1262,8 +1263,8 @@
         "Linked": "**{{username}}** is linked"
       },
       "UpsellSubscription": "Support with a subscription",
-      "ActiveSubscription": "Active",
-      "InactiveSubscription": "Inactive",
+      "ActiveSubscription": "Active Subscription",
+      "InactiveSubscription": "Inactive Subscription",
       "ManageSubscription": "Manage Subscription",
       "Stripe": "Visit Stripe to manage your subscription.",
       "Newsletter": {
