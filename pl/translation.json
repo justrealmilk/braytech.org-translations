@@ -83,6 +83,7 @@
       "SinglePlayer": "🦘 Single Player Activity"
     },
     "SelectDateFromGraph": "🦘 Select a date with activities played from the graph above.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Lifetime": "🦘 Lifetime",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Placeholder": "🦘 enter item name",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

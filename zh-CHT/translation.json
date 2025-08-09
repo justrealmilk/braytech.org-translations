@@ -83,6 +83,7 @@
       "SinglePlayer": "單人活動"
     },
     "SelectDateFromGraph": "從上圖中選擇一個有活動的日期",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Lifetime": "生涯",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "從{{name}}獲得"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
     "Placeholder": "🦘 enter item name",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

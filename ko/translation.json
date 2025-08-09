@@ -83,6 +83,7 @@
       "SinglePlayer": "싱글 플레이 활동"
     },
     "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Lifetime": "전체 기간",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Placeholder": "🦘 enter item name",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

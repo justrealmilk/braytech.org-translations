@@ -83,6 +83,7 @@
       "SinglePlayer": "Actividad de un jugador"
     },
     "SelectDateFromGraph": "Selecciona una fecha con actividades jugadas en el gráfico de arriba.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "Sincroniza favoritos entre dispositivos con Voluspa.",
     "Modes": {
       "Lifetime": "Total",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "Obtenido de {{name}}"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "Estás viendo el perfil de otra persona. Puedes mirar, pero si intentas pulsar botones, ¡no esperes resultados!",
     "Placeholder": "introduce nombre de objeto",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

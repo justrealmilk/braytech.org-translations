@@ -83,6 +83,7 @@
       "SinglePlayer": "Одиночная активность"
     },
     "SelectDateFromGraph": "Выберите дату с активностями на графике выше.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "Синхронизировать закладки между устройствами с помощью Voluspa.",
     "Modes": {
       "Lifetime": "Все время",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "Получить от {{name}}"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "Вы просматриваете чей-то профиль. Вы можете смотреть, но если вы попытаетесь нажимать на кнопки, не ждите результатов!",
     "Placeholder": "введите название предмета",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

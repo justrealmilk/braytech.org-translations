@@ -83,6 +83,7 @@
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Modes": {
       "Lifetime": "生涯",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "{{name}}から入手する"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Placeholder": "アイテム検索ワード",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

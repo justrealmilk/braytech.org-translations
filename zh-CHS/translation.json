@@ -83,6 +83,7 @@
       "SinglePlayer": "单人活动"
     },
     "SelectDateFromGraph": "从上图选择一个有活动的日期",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
     "BookmarksSync": "通过Voluspa在设备之间同步书签",
     "Modes": {
       "Lifetime": "生涯",
@@ -217,6 +218,7 @@
     "Compare": {
       "ObtainFromVendor": "从{{name}}获得"
     },
+    "ActualLight": "🦘 Actual Light",
     "DiffProfile": "你正在查看他人的个人资料。点击该页面下的任意按钮不会有任何反应！",
     "Placeholder": "输入物品名称",
     "WorldDropsNeeded": "为了避免浪费最佳光等提升，请从世界掉落中获取装备，直到你到达 **{{light}}** 光等。",
