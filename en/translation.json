@@ -35,6 +35,7 @@
     "HideHiddenStats": "Advanced Stats",
     "HideRedeemed": "Hide Redeemed",
     "Jump": "Jump",
+    "LinkToDiscord": "Link to Discord",
     "Lock": "Lock",
     "Logout": "Logout",
     "Mark": "Mark",
@@ -81,7 +82,8 @@
       "Open": "Fireteam Open",
       "SinglePlayer": "Single Player Activity"
     },
-    "SelectDateFromGraph": "Select a date with activities played from the graph above.",
+    "SelectDateFromGraph": "Select a date with activities played from the graph above by tapping a bar element.",
+    "SelectedDateFromGraph": "Activities for the selected mode played on the date selected.",
     "BookmarksSync": "Sync bookmarks between devices with Voluspa.",
     "Modes": {
       "Lifetime": "Lifetime",
@@ -100,6 +102,9 @@
     "ModifiersUnavailable": "Modifiers aren't available right now.",
     "NoMedalsAwarded": "No Medals Awarded",
     "NoStatsAvailable": "No Stats Available",
+    "MatchmakingOn": "Matchmaking: On",
+    "FireteamSolo": "Single Player",
+    "FireteamPlayers3": "Fireteam: 1-3 Players",
     "TeamScore": "Team Score",
     "SelectMode": "Select Mode",
     "SelectModeInfo": "To drill down to a specific activity, select a mode from the interface above",
@@ -213,8 +218,12 @@
     "Compare": {
       "ObtainFromVendor": "Obtain From {{name}}"
     },
+    "ActualLight": "Actual Light",
     "DiffProfile": "You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "enter item name"
+    "Placeholder": "enter item name",    
+    "WorldDropsNeeded": "Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
+    "PowerfulDropsNeeded": "Engage with activities which reward Powerful Gear to reach **{{light}}**.",
+    "PinnacleDropsNeeded": "You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
   },
   "Clan": {
     "BannerPerks": "Banner Perks",
@@ -307,10 +316,17 @@
     "RecentlyDiscovered": "Recently Discovered",
     "SetComplete": "Set complete",
     "SomeAcquiredSomeInvisible": "Some acquired, {{invisible}} invisible",
+    "Options": {
+      "HideAcquiredAll": {
+        "Name": "Hide Acquired",
+        "Description": "Hide all collectibles which are acquired by all selected members."
+      }
+    },
     "Encounter": "Encounter",
     "AnyEncounter": "Any Encounter",
     "FinalEncounter": "Final Encounter",
-    "StashFavourites": "Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync)."
+    "StashFavourites": "Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync).",
+    "EververseGambling": "Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
   },
   "Commendations": {
     "Received": "Received",
@@ -397,11 +413,13 @@
     "Friend_plural": "Friends",
     "FriendNth_plural": "{{number}} Friends",
     "GloryPoints": "Glory Points",
+    "Graph": "Graph",
     "GuardianRank": "Guardian Rank",
     "Guardians": "Guardians",
     "Help": "Help",
     "Highlight": "Highlight",
     "HistoricalStats": "Historical Stats",
+    "Inactive": "Inactive",
     "InfamyPoints": "Infamy Points",
     "Inspect": "Inspect",
     "Inventory": "Inventory",
@@ -419,6 +437,7 @@
     "LoreBook": "Lore Book",
     "Map": "Map",
     "Medal_plural": "Medals",
+    "Member_plural": "Members",
     "MembersOnline": "**{{number}}** Online",
     "Meta": "Meta",
     "Name": "Name",
@@ -427,6 +446,7 @@
     "Offline": "Offline",
     "Patreon": "Patreon",
     "Patron_plural": "Patrons",
+    "Power": "Power",
     "Player": "Player",
     "Player_plural": "Players",
     "Preview": "Preview",
@@ -524,7 +544,7 @@
         "Placeholder": "<description>"
       },
       "Screenshot": {
-        "Info": "Screenshots should be captured from the **Customize Appearance** view in-game. Place your cursor in the bottom middle for best results. **Any deviations from these guidelines may result in your fit failing approval.** For a perfect fit, set your brightness to 4 in game settings.",
+        "Info": "- Screenshots should be captured from the **Customize Appearance** view in-game.\n- Place your cursor in the bottom middle for best results.\n- _Set screen brightness to 3 in game settings._\n- **Any deviations from these guidelines may result in your fit failing approval.**",
         "Placeholder": "<screenshot>"
       },
       "Url": {
@@ -604,6 +624,7 @@
     "EnergyCost": "Energy",
     "EnergyMeter": "Energy",
     "EnergyUnused": "Unused",
+    "History": "Item History",
     "Inspect": "Inspect",
     "Intrinsic": "Intrinsic",
     "ItemAction": "Item Action",
@@ -628,7 +649,8 @@
     "UndiscoveredCollectibleVendor": "Acquire this item to add it to your Collections",
     "Weapons": "Weapons",
     "WeaponKills": "Weapon Kills",
-    "WeaponStats": "Weapon Stats"
+    "WeaponStats": "Weapon Stats",
+    "Tier": "Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "This Week",
@@ -667,7 +689,8 @@
       },
       "Relative": {
         "Future": "in {{duration}}",
-        "Past": "{{duration}} ago"
+        "Past": "{{duration}} ago",
+        "Updated": "Updated {{duration}}"
       }
     }
   },
@@ -675,13 +698,13 @@
     "Rank": "Rank",
     "Global": "Global",
     "Active": "Active",
-    "Seal": "Seal",
+    "Title": "Title",
     "Gild": "Gild",
     "Legacy": "Legacy",
     "Triumph": "Triumph",
     "Collection": "Collection",
     "ActiveScore": "Active Score",
-    "SealScore": "Seal Score",
+    "TitleScore": "Title Score",
     "GildScore": "Gild Score",
     "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
@@ -752,9 +775,9 @@
       "Description": "Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
       "Name": "Rare Treasures & Exotic Style"
     },
-    "Seals": {
+    "Titles": {
       "Description": "Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "Triumph Seals"
+      "Name": "Triumph Titles"
     },
     "Gambit": {
       "Description": "Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
@@ -1087,10 +1110,6 @@
         "Description": "If a triumph is completed and redeemed, it will be hidden under Triumphs views.",
         "Name": "Hide Completed Triumphs"
       },
-      "HideDudRecords": {
-        "Description": "Hide dud (empty or unused) triumphs from view. This is a manually curated [list](/triumphs/dud).",
-        "Name": "Hide Dud Triumphs"
-      },
       "HideInvisibleCollectibles": {
         "Description": "If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
         "Name": "Hide Invisible Collection Items"
@@ -1234,30 +1253,37 @@
       "Info": "Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe to one of the following tiers for privileged features!",
       "Help": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "HelpMore": "You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).\n\nYour question may have been answered already in [Frequently Asked Questions](/addendums/faq).\n\nIf you have feedback of any sort, please deliver it, [direct to me](mailto:subscriptions@bray.tech) or via [Discord](https://discord.bray.tech), so I may improve my service!",
-      "AuthRequired": "Authenticate with Bungie.net to create or manage a subscription.",
+      "AuthRequired": "Authenticate with Bungie.net to create or manage a subscription, or to link to Discord.",
       "State": {
         "Ending": "You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**."
+        "Renewing": "You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**.",
+        "Cancelled": "Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
       },
       "DiscordProfile": {
-        "Connected": "Your connected Discord profile.",
-        "Disconnected": "Connect your Discord profile by using the `/register_discord_with_voluspa` command in the Discord [server](https://discord.bray.tech).\n\nGet your server perks and participate in the conversation to help shape Braytech's development!"
+        "Connected": "Your connected Discord profile.\nAs your Discord profile and Bungie.net profile are now connected, you're able to receive Subscriber perks and you're able to receive rewards from Braytech programs.",
+        "Disconnected": "Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
+        "Linked": "**{{username}}** is linked"
       },
       "UpsellSubscription": "Support with a subscription",
       "ActiveSubscription": "Active Subscription",
+      "InactiveSubscription": "Inactive Subscription",
       "ManageSubscription": "Manage Subscription",
       "Stripe": "Visit Stripe to manage your subscription.",
       "Newsletter": {
         "Name": "Receive Email",
         "Description": "Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
       },
+      "ChangeTier": {
+        "Name": "Change Tier",
+        "Description": "Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+      },
       "Perks": "Perks",
       "Tiers": "Tiers",
       "Legends": "Legends",
       "Connect": "Connect",
-      "Blog": "Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "Discord": "Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubs": "Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
+      "BlogInfo": "Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
+      "DiscordInfo": "Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
+      "NewSubsInfo": "Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
       "OneTime": "Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
       "JustOnce": "Just Once",
       "Perk": {
@@ -1438,7 +1464,7 @@
     },
     "DudTriumphs": "Duds",
     "EventCard": "Event Card",
-    "LegacySeal_plural": "Legacy Seals",
+    "LegacyTitle_plural": "Legacy Titles",
     "LegacyTriumph_plural": "Legacy Triumphs",
     "SelectEntry": "Select an entry to read.",
     "Record": {
@@ -1454,24 +1480,24 @@
     "PotentialUnattainedScore": "The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "You have redeemed all of these triumphs and chosen to hide them.",
     "RecordsUnavailable": "There are no triumphs available for display.",
-    "Seal": "Seal",
-    "SealTitleSeasonSuffix": "{{title}} (Season {{season}})",
-    "Seal_plural": "Seals",
-    "Seals": {
+    "Title": "Title",
+    "Title_plural": "Titles",
+    "Titles": {
       "AvailableTitle": "Available title: **{{title}}**",
+      "CanBeGilded": "This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "Seal Commonality"
+        "Name": "Title Commonality"
       },
       "CommonalityGilded": {
         "Description": "Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-        "Name": "Gilded Seal Commonality"
+        "Name": "Gilded Title Commonality"
       },
       "PlayerTitle": "Player title: **{{title}}**",
-      "SealCompleted": "Seal Completed",
-      "SealGilded": "Seal Gilded",
-      "SealGildedProgress": "Gilded Progress",
-      "SealProgress": "Seal Progress"
+      "TitleCompleted": "Title Completed",
+      "TitleGilded": "Title Gilded",
+      "TitleGildedProgress": "Gilded Progress",
+      "TitleProgress": "Title Progress"
     },
     "Secret": {
       "Name": "Secret Triumph",
@@ -1503,9 +1529,17 @@
         "Name": "Hide Completed",
         "Description": "Hide all triumphs which are completed by all selected members."
       },
+      "ExpandAll": {
+        "Name": "Expand All",
+        "Description": "Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
+      },
       "CollapseAll": {
         "Name": "Collapse All",
         "Description": "Collapse all nodes so that you may explore at your own leisure."
+      },
+      "RootNode": {
+        "Name": "Root Node",
+        "Description": "Select a root node to explore."
       }
     },
     "NoTrackedRecords": "You aren't tracking any triumphs yet! You can track a triumph by interacting with the green marker.\n\nYou can sync your triumphs by enabling sync in [Settings](/settings#sync).",
@@ -1527,7 +1561,7 @@
     "Rewards": "Unlock unique profile medals when you subscribe to Braytech's Patreon!",
     "Leaderboards": "Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](/settings/subscriptions) for your Braytech profile?",
     "MemberLinkExample": "This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
-    "UpsellInfo": "Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
+    "UpsellInfo": "Your support helps keep the app online, enables work on new features, and keeps the developer from freezing to death at night."
   },
   "Vendor": {
     "FailureStrings": {
@@ -1556,47 +1590,18 @@
     "LastCrawled": "Last crawled {{time}}",
     "ProfilesAssessed": "Profiles Assessed"
   },
-  "Weeklies": {
+  "Operations": {
     "NoActivitiesAvailable": "There aren't any activities available to you. Perhaps you don't meet the requirements...",
     "NoActivitiesAvailableNoLicense": "There aren't any activities available to you as you don't own the required expansion.",
+    "SeasonalChallengesAvailable": "{{number}} Seasonal Challenges Available",
+    "SieveBegins": "The Sieve begins in **{{duration}}**",
+    "SieveAvailable": "The Sieve is available for the next **{{duration}}**",
     "Event": {
-      "Rank": "Event Rank",
+      "EventRank": "Event Rank",
+      "WeeklyRank": "Weekly Rank",
       "DailyChallenges": "Daily Challenges",
       "WeeklyChallenges": "Weekly Challenges",
-      "TriumphsInfo": "This event has a related seal, **{{seal}}**. Complete these triumphs to earn a new title.",
       "EndsIn": "Event ends in **{{duration}}**"
-    },
-    "Challenges": {
-      "ActivityBonus": "Activity Bonuses",
-      "ArtifactPower": {
-        "Description": "A bonus to your Light level, channeled by your equipped seasonal artifact through experience gained.",
-        "Name": "Artifact Power Bonus"
-      },
-      "ArtifactPowerBonus": "Power Bonus",
-      "GearPower": {
-        "Description": "The average Power level of your currently equipped armaments.",
-        "Name": "Gear Power"
-      },
-      "NoChallenges": "You've smashed all of your available challenges this week!",
-      "Power": {
-        "Description": "Your Light level is an aggregate of the Power value across all of your currently equipped gear. A higher Light level improves both your damage output and your defense.",
-        "Name": "Light"
-      },
-      "SeasonalChallengesAvailable": "{{number}} Seasonal Challenges Available",
-      "Type": {
-        "Rituals": "Rituals",
-        "Crucible": "Crucible",
-        "Dungeon": "Dungeon",
-        "Exotic": "Exotic",
-        "Expansion": "Expansion",
-        "Gambit": "Gambit",
-        "Raid": "Raid",
-        "Seasonal": "Seasonal",
-        "Strikes": "Strikes"
-      },
-      "WorldDropsNeeded": "Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-      "PowerfulDropsNeeded": "Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-      "PinnacleDropsNeeded": "You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
     }
   }
 }
