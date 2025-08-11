@@ -35,7 +35,7 @@
     "HideHiddenStats": "Дополнительные характеристики",
     "HideRedeemed": "Скрыть полученные",
     "Jump": "Перепрыгнуть",
-    "LinkToDiscord": "🦘 Link to Discord",
+    "LinkToDiscord": "Соединится с Discord",
     "Lock": "Заблокировать",
     "Logout": "Выйти",
     "Mark": "Отметить",
@@ -83,7 +83,7 @@
       "SinglePlayer": "Одиночная активность"
     },
     "SelectDateFromGraph": "Выберите дату с активностями на графике выше.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectedDateFromGraph": "Активности для выбранного режима сыгранны на выбранной дате.",
     "BookmarksSync": "Синхронизировать закладки между устройствами с помощью Voluspa.",
     "Modes": {
       "Lifetime": "Все время",
@@ -102,9 +102,9 @@
     "ModifiersUnavailable": "Модификаторы недоступны в данный момент.",
     "NoMedalsAwarded": "Нет полученных медалей",
     "NoStatsAvailable": "Нет доступной статистики",
-    "MatchmakingOn": "🦘 Matchmaking: On",
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
+    "MatchmakingOn": "Подбор: Включен",
+    "FireteamSolo": "Одиночная",
+    "FireteamPlayers3": "Боевая Группа: 1-3 Игрока",
     "TeamScore": "Результат команды",
     "SelectMode": "Выбрать режим",
     "SelectModeInfo": "Чтобы детализировать информацию по определенной активности, выберите режим в выпадающем списке выше",
@@ -218,12 +218,12 @@
     "Compare": {
       "ObtainFromVendor": "Получить от {{name}}"
     },
-    "ActualLight": "🦘 Actual Light",
+    "ActualLight": "Настоящая Сила",
     "DiffProfile": "Вы просматриваете чей-то профиль. Вы можете смотреть, но если вы попытаетесь нажимать на кнопки, не ждите результатов!",
     "Placeholder": "введите название предмета",
-    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
+    "WorldDropsNeeded": "Выйскивайте мировую добычу пока не достигните **{{light}}** чтобы избежать потерь с большим потенциалом.",
+    "PowerfulDropsNeeded": "Участвуйте в сильных активностях пока не достигните **{{light}}**.",
+    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Достигте **{{light}}** выполняя самые сложные активности."
   },
   "Clan": {
     "BannerPerks": "Модификаторы знамени",
@@ -318,15 +318,15 @@
     "SomeAcquiredSomeInvisible": "Некоторое получено, {{invisible}} скрыто",
     "Options": {
       "HideAcquiredAll": {
-        "Name": "🦘 Hide Acquired",
-        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+        "Name": "Спрятать Приобретённые",
+        "Description": "Спрятать все коллекции, приобретенные всеми избранными членами."
       }
     },
     "Encounter": "Столкновение",
     "AnyEncounter": "Лобое Столкновение",
     "FinalEncounter": "Финальное Столкновение",
     "StashFavourites": "Засунь все свои избраынные вещи сюда!\n\nТы можешь синхронизировать свои избраынные вещи, включив синхронизацию в [Настройках](/settings#sync).",
-    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
+    "EververseGambling": "Успешные прогнозы зависят от соответствия моделей (если вообще есть) и контенты манифестов. Если прогноза не видно, то её нет."
   },
   "Commendations": {
     "Received": "Получено",
@@ -413,13 +413,13 @@
     "Friend_plural": "Друзья",
     "FriendNth_plural": "{{number}} Друзей",
     "GloryPoints": "Очков славы",
-    "Graph": "🦘 Graph",
+    "Graph": "Графа",
     "GuardianRank": "Ранг Стража",
     "Guardians": "Стражи",
     "Help": "Помощь",
     "Highlight": "Выделить",
     "HistoricalStats": "Статистика",
-    "Inactive": "🦘 Inactive",
+    "Inactive": "Неактивен",
     "InfamyPoints": "Очков бесчестия",
     "Inspect": "Информация",
     "Inventory": "Инвентарь",
@@ -437,7 +437,7 @@
     "LoreBook": "Книги историй",
     "Map": "Карта",
     "Medal_plural": "Медали",
-    "Member_plural": "🦘 Members",
+    "Member_plural": "Участники",
     "MembersOnline": "Онлайн: **{{number}}**",
     "Meta": "Мета",
     "Name": "Имя",
@@ -446,7 +446,7 @@
     "Offline": "Не в сети",
     "Patreon": "Patreon",
     "Patron_plural": "Спонсоры на Patreon",
-    "Power": "🦘 Power",
+    "Power": "Сила",
     "Player": "Игрок",
     "Player_plural": "Игроки",
     "Preview": "Предпросмотр",
@@ -624,7 +624,7 @@
     "EnergyCost": "Энергия",
     "EnergyMeter": "Энергия",
     "EnergyUnused": "Не использовано",
-    "History": "🦘 Item History",
+    "History": "Журнал Наград",
     "Inspect": "Информация",
     "Intrinsic": "Изначальный",
     "ItemAction": "Действия предмета",
@@ -650,7 +650,7 @@
     "Weapons": "Оружие",
     "WeaponKills": "Убийства оружием",
     "WeaponStats": "Характеристики оружия",
-    "Tier": "🦘 Tier"
+    "Tier": "Уровень"
   },
   "Landing": {
     "FeaturedThisWeek": "На этой неделе",
@@ -690,7 +690,7 @@
       "Relative": {
         "Future": "через {{duration}}",
         "Past": "{{duration}} назад",
-        "Updated": "🦘 Updated {{duration}}"
+        "Updated": "Обновлено {{duration}}"
       }
     }
   },
@@ -698,13 +698,13 @@
     "Rank": "Ранг",
     "Global": "Глобально",
     "Active": "Активные",
-    "Title": "🦘 Title",
+    "Title": "Звание",
     "Gild": "Позолоченные",
     "Legacy": "Древние",
     "Triumph": "Триумфы",
     "Collection": "Коллекция",
     "ActiveScore": "Счёт активных триумфов",
-    "TitleScore": "🦘 Title Score",
+    "TitleScore": "Очки Звания",
     "GildScore": "Счёт Позолот",
     "LegacyScore": "Счёт прошлых триумфов",
     "TriumphScore": "Счёт триумфов",
@@ -777,7 +777,7 @@
     },
     "Titles": {
       "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Triumph Titles"
+      "Name": "Звания Триумфа"
     },
     "Gambit": {
       "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
@@ -1257,16 +1257,16 @@
       "State": {
         "Ending": "Вы подписались **{{created}}**, и ваша подписка **закончится** **{{currentPeriodEnd}}**.",
         "Renewing": "Вы подписались **{{created}}**, и ваша подписка **возобновится** **{{currentPeriodEnd}}**.",
-        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
+        "Cancelled": "Ваша подписка закончилась **ended** в **{{currentPeriodEnd}}**. Спасибо за вашу поддержку!"
       },
       "DiscordProfile": {
         "Connected": "Ваш подключенный профиль Discord.",
-        "Disconnected": "Подключите ваш аккаунт Discord используя команду `/register_discord_with_voluspa` в Discord [сервере](https://discord.bray.tech).",
-        "Linked": "🦘 **{{username}}** is linked"
+        "Disconnected": "Подключите ваш аккаунт Discord используя команду `/register_discord_with_voluspa` в [Discord сервере](https://discord.bray.tech).",
+        "Linked": "**{{username}}** соеденён"
       },
       "UpsellSubscription": "Поддержать подпиской",
       "ActiveSubscription": "Активная подписка",
-      "InactiveSubscription": "🦘 Inactive",
+      "InactiveSubscription": "Неакнтивная подписка",
       "ManageSubscription": "Управление подпиской",
       "Stripe": "Посетить Stripe для управления вашей подписки.",
       "Newsletter": {
@@ -1274,8 +1274,8 @@
         "Description": "Получайте блог-посты Braytech и любую соответствующую информацию для подпищиков, доставлено прямо в ваш почтовый ящик."
       },
       "ChangeTier": {
-        "Name": "🦘 Change Tier",
-        "Description": "🦘 Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+        "Name": "Поменять Уровень",
+        "Description": "Меная уровни легко и быстро. Всё что надо сделать, это подтверить. Оплата за уровень будет моментальная .\n\nЕсли у вас будут проблемы, пожалуйста не сомневайтесь–напишите мне на [subscriptions@bray.tech](mailto:subscriptions@bray.tech) или @ мена в [Discord](https://discord.bray.tech)."
       },
       "Perks": "Перки",
       "Tiers": "Уровни",
@@ -1464,7 +1464,7 @@
     },
     "DudTriumphs": "Недействительные",
     "EventCard": "Карточка события",
-    "LegacyTitle_plural": "🦘 Legacy Titles",
+    "LegacyTitle_plural": "Прошлые звания",
     "LegacyTriumph_plural": "Прошлые триумфы",
     "SelectEntry": "Выберите страницу для чтения.",
     "Record": {
@@ -1480,24 +1480,24 @@
     "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",
-    "Title": "🦘 Title",
-    "Title_plural": "🦘 Titles",
+    "Title": "Звание",
+    "Title_plural": "Звания",
     "Titles": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
+      "AvailableTitle": "Доступное звание: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
       "Commonality": {
         "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "🦘 Title Commonality"
+        "Name": "Общность Звания"
       },
       "CommonalityGilded": {
         "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
         "Name": "🦘 Gilded Title Commonality"
       },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "TitleCompleted": "🦘 Title Completed",
+      "PlayerTitle": "Звания игрока: **{{title}}**",
+      "TitleCompleted": "Звание Выполнено",
       "TitleGilded": "🦘 Title Gilded",
       "TitleGildedProgress": "🦘 Gilded Progress",
-      "TitleProgress": "🦘 Title Progress"
+      "TitleProgress": "Прогресс Звания"
     },
     "Secret": {
       "Name": "Секретный триумф",
@@ -1522,19 +1522,19 @@
         "Description": "Отображать только классовые триумфы, соответствующие классу выбранного персонажа."
       },
       "Flatten": {
-        "Name": "🦘 Flatten",
+        "Name": "Выровнять",
         "Description": "🦘 Use a flat list for display rather than a tree-style view."
       },
       "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
+        "Name": "Спрятать Выполненные",
         "Description": "🦘 Hide all triumphs which are completed by all selected members."
       },
       "ExpandAll": {
-        "Name": "🦘 Expand All",
+        "Name": "Развернуть Все",
         "Description": "🦘 Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
       },
       "CollapseAll": {
-        "Name": "🦘 Collapse All",
+        "Name": "Свернуть Все",
         "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
       },
       "RootNode": {
@@ -1593,12 +1593,12 @@
   "Operations": {
     "NoActivitiesAvailable": "Сейчас нет ни одного задания доступного для вас. Возможно, вы не соответствуете требованиям...",
     "NoActivitiesAvailableNoLicense": "Сейчас нет ни одного задания доступного для вас потому-что вы не владеете нужным контентом.",
-    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
-    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
+    "SeasonalChallengesAvailable": "{{number}} Сезонных Вызовов Доступно",
+    "SieveBegins": "🦘 The Sieve начнётся через **{{duration}}**",
+    "SieveAvailable": "🦘 The Sieve доступна для **{{duration}}**",
     "Event": {
-      "EventRank": "🦘 Event Rank",
-      "WeeklyRank": "🦘 Weekly Rank",
+      "EventRank": "Ранг Эвента",
+      "WeeklyRank": "Недельный Ранг",
       "DailyChallenges": "Эжедневные Вызовы",
       "WeeklyChallenges": "Эженедельные Вызовы",
       "EndsIn": "Эвент заканчивается через **{{duration}}**"
