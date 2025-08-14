@@ -1477,7 +1477,8 @@
       "ScoreProgress": "此成就已获得的分数"
     },
     "BraytechActiveScore": "您的活跃成就得分是 **{{number}}**，由Braytech确定。此值是通过检查可用的成就来计算的。",
-    "BungieActiveScore": "根据Bungie，你的得分是 **{{number}}**。这可能有误，因为它可能没有考虑一些后来被移除或分数值改变的成就。",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
     "RecordsRedeemed": "您已取得所有这些记录并选择隐藏它们。",
     "RecordsUnavailable": "没有可显示的记录。",

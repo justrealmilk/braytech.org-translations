@@ -1477,7 +1477,8 @@
       "ScoreProgress": "La valeur du score gagné pour ce triomphe."
     },
     "BraytechActiveScore": "Votre score de triomphe actif est de **{{number}}**, tel que déterminé par Braytech. Cette valeur est calculée en examinant les triomphes disponibles..",
-    "BungieActiveScore": "Selon Bungie, votre score est de **{{number}}**. Ce chiffre peut être inexact, car il ne prend pas en compte certains triomphes qui ont depuis été supprimés ou dont le score a été modifié.",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "Le Gardien a **{{number}}** de points en attente de déblocage.",
     "RecordsRedeemed": "Vous avez récupéré toutes ces données et choisi de les masquer.",
     "RecordsUnavailable": "Il n'y a pas de données disponibles pour l'affichage.",

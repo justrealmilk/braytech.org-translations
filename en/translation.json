@@ -1476,8 +1476,9 @@
       "Score": "This triumph's finite score value.",
       "ScoreProgress": "The score value earned for this triumph."
     },
-    "BraytechActiveScore": "Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BungieActiveScore": "According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechActiveScore": "Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BraytechLegacyScore": "Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "The Guardian has **{{number}}** score waiting to be to unlocked.",
     "RecordsRedeemed": "You have redeemed all of these triumphs and chosen to hide them.",
     "RecordsUnavailable": "There are no triumphs available for display.",

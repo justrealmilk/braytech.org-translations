@@ -1477,7 +1477,8 @@
       "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "Il Guardiano ha un punteggio di **{{number}}** in attesa di essere sbloccato.",
     "RecordsRedeemed": "Hai già riscattato tutti questi trionfi e hai scelto di nasconderli.",
     "RecordsUnavailable": "Non ci sono trionfi disponibili da visualizzare.",

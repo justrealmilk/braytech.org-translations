@@ -1477,7 +1477,8 @@
       "ScoreProgress": "Количесвто очков, полученные за этот триумф."
     },
     "BraytechActiveScore": "Ваше активное очки трумфов, определено Braytech: **{{number}}**. Это число ссчитано изучением доступных триумфов.",
-    "BungieActiveScore": "Согласно Bungie, ваш счет очков **{{number}}**. Это может быть неточным, так как Bungie может не учитывать некоторые триумфы, которые с тех пор были удалены или у которых были изменены значения счета.",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "У Стража осталось **{{number}}** очков, ожидающих разблокировки.",
     "RecordsRedeemed": "Ты получил все эти триумфы и решил скрыть их.",
     "RecordsUnavailable": "Нет доступных для отображения триумфов.",

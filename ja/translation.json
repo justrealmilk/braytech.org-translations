@@ -1477,7 +1477,8 @@
       "ScoreProgress": "この勝利の道のりで獲得できるスコアの値です。"
     },
     "BraytechActiveScore": "あなたのアクティブな勝利の道のりスコアは **{{number}}** です（Braytech算出）。達成可能な勝利の道のりから計算されています。",
-    "BungieActiveScore": "Bungieでの公式スコアは{{number}}です。コンテンツ更新によって勝利の道のりが削除、またはスコア変更されていない場合は差異が発生することがあります。",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",

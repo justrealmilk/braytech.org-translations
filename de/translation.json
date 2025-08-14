@@ -1477,7 +1477,8 @@
       "ScoreProgress": "🦘 The score value earned for this triumph."
     },
     "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BungieActiveScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
+    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "Der Hüter hat **{{number}}** Triumphpunkte welche darauf warten freigeschaltet zu werden.",
     "RecordsRedeemed": "Du hast dir all diese Aufzeichnungen abeholt und wählst sie zu verstecken.",
     "RecordsUnavailable": "Es gibt keine Aufzeichnungen welche angezeigen werden können",
