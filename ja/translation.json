@@ -35,7 +35,7 @@
     "HideHiddenStats": "ステータス詳細",
     "HideRedeemed": "入手済みを表示しない",
     "Jump": "ジャンプ",
-    "LinkToDiscord": "🦘 Link to Discord",
+    "LinkToDiscord": "Discordサーバーへのリンク",
     "Lock": "ロックする",
     "Logout": "ログアウト",
     "Mark": "マーク",
@@ -83,7 +83,7 @@
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectedDateFromGraph": "指定した期間でプレイされた、選択したモードのアクティビティです。",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Modes": {
       "Lifetime": "生涯",
@@ -102,9 +102,9 @@
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "MatchmakingOn": "🦘 Matchmaking: On",
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
+    "MatchmakingOn": "マッチメイキング:有効",
+    "FireteamSolo": "シングルプレイヤー",
+    "FireteamPlayers3": "ファイアチーム: 1-3プレイヤー",
     "TeamScore": "チームスコア",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
@@ -218,12 +218,12 @@
     "Compare": {
       "ObtainFromVendor": "{{name}}から入手する"
     },
-    "ActualLight": "🦘 Actual Light",
+    "ActualLight": "現在のパワー値",
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Placeholder": "アイテム検索ワード",
-    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
+    "WorldDropsNeeded": "より高いパワーのアイテムドロップを無駄にしないよう、**{{light}}** に到達するまではワールドドロップを狙いましょう。",
+    "PowerfulDropsNeeded": "強力な報酬が手に入るアクティビティで、**{{light}}** を目指しましょう。",
+    "PinnacleDropsNeeded": "今は最高峰の装備集めの段階です。難関アクティビティをこなして**{{light}}**を目指しましょう。"
   },
   "Clan": {
     "BannerPerks": "バナーパーク",
@@ -326,7 +326,7 @@
     "AnyEncounter": "全遭遇戦",
     "FinalEncounter": "最終エンカウンター",
     "StashFavourites": "お気に入りの収集アイテムをここにまとめて保管しましょう！\n\n[設定](/settings#sync)で同期を有効にすると、収集アイテムを同期できます。",
-    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
+    "EververseGambling": "ゴーストのプロジェクションは、（もし存在する場合は）事前データとの一致や実際のデータ内容に基づいて表示されます。このページに表示されない場合、そのプロジェクションは現在入手できません。"
   },
   "Commendations": {
     "Received": "受け取った",
@@ -419,7 +419,7 @@
     "Help": "ヘルプ",
     "Highlight": "ハイライト",
     "HistoricalStats": "履歴統計",
-    "Inactive": "🦘 Inactive",
+    "Inactive": "無効",
     "InfamyPoints": "悪名ポイント",
     "Inspect": "詳細",
     "Inventory": "所持品",
@@ -624,14 +624,14 @@
     "EnergyCost": "エネルギー",
     "EnergyMeter": "エネルギー",
     "EnergyUnused": "残りスロット",
-    "History": "🦘 Item History",
+    "History": "アイテム履歴",
     "Inspect": "詳細",
     "Intrinsic": "内在特性",
     "ItemAction": "アイテム操作",
     "Locked": "ロック中",
     "Mods": "MOD",
     "Marked": "マーク適用中",
-    "PatternUnlockProgress": "🦘 Pattern unlock progress",
+    "PatternUnlockProgress": "パターンアンロック進捗状況",
     "PerkEverything": "このパークは、すべてのアクティビティで非常に人気があります。",
     "PerkPvE": "このパークは、PvEコンテンツでの利用を推奨されています。",
     "PerkPvP": "このパークは、PvPコンテンツでの利用を推奨されています。",
@@ -651,7 +651,7 @@
     "Weapons": "武器",
     "WeaponKills": "武器キル数",
     "WeaponStats": "武器性能",
-    "Tier": "🦘 Tier"
+    "Tier": "Tier"
   },
   "Landing": {
     "FeaturedThisWeek": "今週のDestiny2",
@@ -699,13 +699,13 @@
     "Rank": "ランク",
     "Global": "全世界ランキング",
     "Active": "アクティブ",
-    "Title": "🦘 Title",
+    "Title": "タイトル",
     "Gild": "黄金",
     "Legacy": "レガシー",
     "Triumph": "勝利の道のり",
     "Collection": "コレクション",
     "ActiveScore": "アクティブな勝利の道のりスコア",
-    "TitleScore": "🦘 Title Score",
+    "TitleScore": "タイトルスコア",
     "GildScore": "黄金のスコア",
     "LegacyScore": "レガシースコア",
     "TriumphScore": "勝利の道のりスコア",
@@ -777,8 +777,8 @@
       "Name": "レアな宝物とエキゾチックなスタイル"
     },
     "Titles": {
-      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Triumph Titles"
+      "Description": "勝利のエンブレム\n\n全ての挑戦をやり遂げ、集めた者の究極の証。誇りを胸に身に着けよ。",
+      "Name": "勝利タイトル"
     },
     "Gambit": {
       "Description": "悪名高き者\n\nへぇ…かけらを稼いで、ブロッカーを送り込むのがまるで準備運動のようになってきたな。お前たちガーディアンはまさに嵐のようだ—相手に侵入し、かけら貯めて、ウェーブを切り抜けるのも朝飯前。\n\n{{number}}勝とは、たいしたものだ。ただギャンビットを遊んでいるわけじゃない、高度な策略家のそれだ。…もしかしたら暗黒の奴らもこっそり覗きに来ているかもな。",
@@ -1121,7 +1121,7 @@
       },
       "HideUnobtainableRecords": {
         "Description": "取得できない記録を非表示にします。",
-        "Name": "入手不可能な勝利の道のりを非表示"
+        "Name": "達成不可の勝利の道のりを表示させない"
       }
     },
     "LS": {
@@ -1258,16 +1258,16 @@
       "State": {
         "Ending": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**満了**となります。",
         "Renewing": "現在支援している**{{created}}**は、**{{currentPeriodEnd}}**に**更新**となります。",
-        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
+        "Cancelled": "現在支援しているサブスクリプションは**{{currentPeriodEnd}}**に**終了**します。 ご支援ありがとうございました!"
       },
       "DiscordProfile": {
         "Connected": "連携しているDiscordアカウント",
         "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。",
-        "Linked": "🦘 **{{username}}** is linked"
+        "Linked": "**{{username}}**はリンクされています"
       },
       "UpsellSubscription": "サブスクリプションで支援する",
       "ActiveSubscription": "サブスクリプションを発動させる",
-      "InactiveSubscription": "🦘 Inactive",
+      "InactiveSubscription": "停止",
       "ManageSubscription": "サブスクリプション管理",
       "Stripe": "Stripeでサブスクリプションを管理できます。",
       "Newsletter": {
@@ -1282,9 +1282,9 @@
       "Tiers": "支援形態",
       "Legends": "レジェンド",
       "Connect": "接続",
-      "BlogInfo": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "DiscordInfo": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubsInfo": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
+      "BlogInfo": "最新のブログ記事でBraytechの開発状況をチェックしましょう。できるだけ面白くて役立つ内容にしています！",
+      "DiscordInfo": "Braytechコミュニティに参加しよう! 気軽に交流したり、提案を投稿したり、不具合を報告したり、アプリのサポートをすぐに受けられます。",
+      "NewSubsInfo": "Braytechを支え、開発を続けさせてくれている、最近支援を始めていただいた支援者の皆さんです。",
       "OneTime": " Braytechを支援するために、1回限りの寄付をしてみませんか? 義務や縛りは一切ありません——ただし、お礼はさせてくださいね。",
       "JustOnce": "一度だけ",
       "Perk": {
@@ -1465,7 +1465,7 @@
     },
     "DudTriumphs": "工事中",
     "EventCard": "イベントカード",
-    "LegacyTitle_plural": "🦘 Legacy Titles",
+    "LegacyTitle_plural": "過去のタイトル",
     "LegacyTriumph_plural": "過去の勝利の道のり",
     "SelectEntry": "読みたい伝承を選択してください",
     "Record": {
@@ -1477,29 +1477,29 @@
       "ScoreProgress": "この勝利の道のりで獲得できるスコアの値です。"
     },
     "BraytechActiveScore": "あなたのアクティブな勝利の道のりスコアは **{{number}}** です（Braytech算出）。達成可能な勝利の道のりから計算されています。",
-    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
-    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
+    "BraytechLegacyScore": "あなたの過去の勝利の道のりスコアは **{{number}}** です（Braytech算出）。この値は、現在のAPIデータから取得可能な勝利の道のりをもとに計算されています。",
+    "BungieScore": "Bungieの情報によると、あなたのスコアは **{{number}}** です。ただし、この値にはすでに削除された勝利の道のりや、スコア値が変更された勝利の道のりが含まれていない可能性があり、正確ではない場合があります。",
     "PotentialUnattainedScore": "残り **{{number}}** スコアの実績が残っています",
     "RecordsRedeemed": "この道のりはすべて完了し、達成済のものは表示しないように設定されています。",
     "RecordsUnavailable": "表示できる未完了の挑戦はありません",
-    "Title": "🦘 Title",
-    "Title_plural": "🦘 Titles",
+    "Title": "タイトル",
+    "Title_plural": "タイトル",
     "Titles": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
-      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
+      "AvailableTitle": "挑戦可能なタイトル: **{{title}}**",
+      "CanBeGilded": "この称号は金のタイトルへとアップグレードできます。黄金のタイトルはシーズンごとにリセットされます。",
       "Commonality": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "🦘 Title Commonality"
+        "Description": "Voluspaによって取得状況が確認されたプレイヤーのうち、この称号を獲得している割合です。",
+        "Name": "称号の普及率"
       },
       "CommonalityGilded": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-        "Name": "🦘 Gilded Title Commonality"
+        "Description": "Voluspaによって取得状況が確認されたプレイヤーのうち、金称号を獲得している割合です。",
+        "Name": "金称号の普及率"
       },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "TitleCompleted": "🦘 Title Completed",
-      "TitleGilded": "🦘 Title Gilded",
-      "TitleGildedProgress": "🦘 Gilded Progress",
-      "TitleProgress": "🦘 Title Progress"
+      "PlayerTitle": "プレイヤータイトル: **{{title}}**",
+      "TitleCompleted": "タイトル達成",
+      "TitleGilded": "アップグレードした称号",
+      "TitleGildedProgress": "アップグレード進捗",
+      "TitleProgress": "称号への進捗"
     },
     "Secret": {
       "Name": "秘密の勝利の道のり",
@@ -1595,9 +1595,9 @@
   "Operations": {
     "NoActivitiesAvailable": "利用可能なアクティビティはありません。おそらくあなたは条件を満たしていません…",
     "NoActivitiesAvailableNoLicense": "拡張コンテンツを所持していないため、プレイ可能なアクティビティがありません。",
-    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
-    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
+    "SeasonalChallengesAvailable": "{{number}}個のシーズンの挑戦が可能です。",
+    "SieveBegins": "**{{duration}}**後に「ふるい」が始まります",
+    "SieveAvailable": "次の「ふるい」は**{{duration}}**に始まります",
     "Event": {
       "EventRank": "イベントランク",
       "WeeklyRank": "ウイークリーランク",
