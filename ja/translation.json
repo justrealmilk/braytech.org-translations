@@ -1604,6 +1604,9 @@
       "DailyChallenges": "日刊の挑戦",
       "WeeklyChallenges": "週間の挑戦",
       "EndsIn": "**{{duration}}**にイベント終了"
+    },
+    "Waypoints": {
+      "NoWaypoints": "🦘 Voluspa couldn't think of any appropriate waypoints. Check back soon."
     }
   }
 }

@@ -1604,6 +1604,9 @@
       "DailyChallenges": "Desafíos diarios",
       "WeeklyChallenges": "Desafíos semanales",
       "EndsIn": "El evento termina en **{{duration}}**"
+    },
+    "Waypoints": {
+      "NoWaypoints": "🦘 Voluspa couldn't think of any appropriate waypoints. Check back soon."
     }
   }
 }
