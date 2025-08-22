@@ -142,8 +142,8 @@
   "App": {
     "BungieError": "Bungie-Fehler",
     "ErrorBoundary": {
-      "Discord": "Braytech hat einen schwerwiegenden Fehler festgestellt. Wenn eine der vorgeschlagenen Aktionen dein Problem nicht behebt, tritt dem [Discord](https://discord.bray.tech) bei, um weitere Hilfe zu erhalten.",
-      "Version": "Bitte gib den folgenden Text an, wenn du diesen Fehler meldest."
+      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
+      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
     },
     "FriendlyError": {
       "Description": "Sagt es Commander Zavala bitte nichts... zumindestestens jetzt noch nicht.",

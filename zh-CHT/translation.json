@@ -142,8 +142,8 @@
   "App": {
     "BungieError": "Bungie 發生錯誤",
     "ErrorBoundary": {
-      "Discord": "Braytech 發生了致命錯誤，如幫助無法解決您的問題請加入[Discord](https://discord.bray.tech)獲得支持",
-      "Version": "請在報告錯誤的時候帶上下面的文字"
+      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
+      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
     },
     "FriendlyError": {
       "Description": "請暫時不要告知指揮官薩瓦拉.....暫時不要",

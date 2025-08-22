@@ -142,8 +142,8 @@
   "App": {
     "BungieError": "Errore di Bungie",
     "ErrorBoundary": {
-      "Discord": "Braytech ha incontrato un errore fatale. Se una delle azioni disponibili non risolve il problema, per favore unisciti al [Discord](https://discord.bray.tech) (in inglese) per ulteriore assistenza.",
-      "Version": "Si prega di citare quanto segue quando si segnala questo errore."
+      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
+      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
     },
     "FriendlyError": {
       "Description": "Per favore, non dirlo al comandante Zavala... Non ancora.",

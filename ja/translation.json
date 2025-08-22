@@ -142,8 +142,8 @@
   "App": {
     "BungieError": "Bungieエラー",
     "ErrorBoundary": {
-      "Discord": "Braytech内部で致命的なエラーが発生しました。 問題が解決しない場合、[Discord](https://discord.bray.tech) からお問い合わせください。",
-      "Version": "このエラーを報告する際には、以下の文字列を引用してください。"
+      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
+      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
     },
     "FriendlyError": {
       "Description": "ザヴァラ司令官にはまだ報告しないでください...",

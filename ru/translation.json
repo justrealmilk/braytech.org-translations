@@ -142,8 +142,8 @@
   "App": {
     "BungieError": "Ошибка Bungie",
     "ErrorBoundary": {
-      "Discord": "На Braytech произошла фатальная ошибка. Если ни одно доступное решение не помогло решить вашу проблему, то зайдите в [Discord](https://discord.bray.tech) для дальнейшей поддержки.",
-      "Version": "Пожалуйста, цитируйте последующие строки, когда сообщаете об ошибке."
+      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
+      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
     },
     "FriendlyError": {
       "Description": "Пожалуйста, не говорите Коммандеру Завале... пока что.",
