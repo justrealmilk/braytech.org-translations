@@ -426,6 +426,7 @@
     "ItemRolls": "物品特性",
     "Items": "物品",
     "Loadout": "配置",
+    "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "预览 {{number}} 号槽位的配置",
     "Slot": "槽位 {{number}}",
     "LevelNth": "Lv.{{number}}",

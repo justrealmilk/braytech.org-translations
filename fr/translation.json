@@ -426,6 +426,7 @@
     "ItemRolls": "Attributs",
     "Items": "Objets",
     "Loadout": "Équipement",
+    "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "Aperçu de l'emplacement d'équipement {{number}}",
     "Slot": "Emplacement {{number}}",
     "LevelNth": "Niveau {{number}}",

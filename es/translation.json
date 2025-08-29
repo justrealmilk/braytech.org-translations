@@ -426,6 +426,7 @@
     "ItemRolls": "Equipamiento aleatorio",
     "Items": "Objetos",
     "Loadout": "Equipamiento",
+    "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "Vista previa de la ranura {{number}} de equipamiento",
     "Slot": "Ranura {{number}}",
     "LevelNth": "Nivel {{number}}",

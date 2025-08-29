@@ -426,6 +426,7 @@
     "ItemRolls": "Caratteristiche",
     "Items": "Oggetti",
     "Loadout": "Dotazione",
+    "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "Anterpima dotazione slot {{number}}",
     "Slot": "Slot {{number}}",
     "LevelNth": "Livello {{number}}",
