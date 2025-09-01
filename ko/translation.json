@@ -178,10 +178,18 @@
     "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
-    "Data": {
-      "Description": "기기에 저장된 인증 정보를 제거합니다. 딱히 필요하진 않지만, 마음의 평화를 위해 제공하고 있습니다.",
-      "Name": "인증 정보"
+    "Login": "Bungie.net 으로 로그인",
+    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": {
+      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
     },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
+    },
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "일반적으로, 개인정보를 보호하기 위해 Braytech의 몇몇 기능을 사용하려면 사용자의 허가가 필요합니다.\n\n이 기능을 사용하려면 Bungie에게 승인한다고 알려주세요. 개인 정보는 공유되지 않으며 더 많은 API 끝부분을 사용할 수 있도록 해주는 인증 코드만 공유됩니다.",
@@ -191,22 +199,6 @@
         "Description": "당신은 다른 유저의 프로필 데이터에 접근할 수 있는 권한이 없지만, 다른 유용한 링크를 통해서 자신의 프로필 데이터로 돌아갈 수 있습니다.\n\n인증에 대한 자세한 내용은 _설정_ 에서 확인하세요.",
         "Name": "오, 이런...아이고....."
       }
-    },
-    "Friends": {
-      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
-    },
-    "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
-    },
-    "Login": "Bungie.net 으로 로그인",
-    "Memberships": {
-      "Description": "현재 Bungie.net 프로필에 연결된 회원 정보입니다.",
-      "Name": "연결된 회원정보"
-    },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "Bungie.net으로 로그인하고 더 많은 기능을 사용하세요.",
-      "Text": "대부분의 Braytech 기능들은 모든 유저가 접근 가능한 열린 정보에 기반하지만, 일부 데스티니의 기능들은 Bungie.net 인증을 통해 더 명확한 접근 허가를 필요로 합니다."
     }
   },
   "Character": {
@@ -219,6 +211,7 @@
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
     "ActualLight": "🦘 Actual Light",
+    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
     "Placeholder": "🦘 enter item name",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

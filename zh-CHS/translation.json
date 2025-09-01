@@ -178,10 +178,18 @@
     "APIIssue": "一个已知的[Bungie API问题]({{url}})阻止了Braytech此时的正确显示。"
   },
   "Auth": {
-    "Data": {
-      "Description": "清除设备上存储的授权数据，必要时使用该功能可以让你淡定下来。",
-      "Name": "授权数据"
+    "Login": "登录到 Bungie.net",
+    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": {
+      "Text": "验证 Bungie.net 档案后能在这里看到你的好友列表！你可以在这里快速查看在线好友并查看他们的个人资料！"
     },
+    "Dresstiny": {
+      "Text": "使用Bungie.net进行认证，以创建和管理您的Dresstiny配装！"
+    },
+    "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "请向 Bungie 授权以使用该功能。你的个人信息不会向我们分享，我们仅获取你的授权码以便与更多 API 接口交互。",
@@ -191,22 +199,6 @@
         "Description": "你未被授权查看其它用户的数据，但你可以使用这些有用的链接回到你的界面。\n\n你可以在 _设置_ 中找到更多有关授权的信息。",
         "Name": "噢噢噢，哈尼......亲爱的，小亲亲"
       }
-    },
-    "Friends": {
-      "Text": "验证 Bungie.net 档案后能在这里看到你的好友列表！你可以在这里快速查看在线好友并查看他们的个人资料！"
-    },
-    "Dresstiny": {
-      "Text": "使用Bungie.net进行认证，以创建和管理您的Dresstiny配装！"
-    },
-    "Login": "登录到 Bungie.net",
-    "Memberships": {
-      "Description": "当前有多个平台账号与你的 Bungie.net 档案相关联。",
-      "Name": "已关联的平台账号"
-    },
-    "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "使用 Bungie.net 登录以解锁更多功能",
-      "Text": "Braytech 的大部分功能对所有用户可用，并且依赖于公开数据，而《命运》的一些功能需要访问权限，您可以通过登录 Bungie.net 进行身份验证来授权 Braytech"
     }
   },
   "Character": {
@@ -219,6 +211,7 @@
       "ObtainFromVendor": "从{{name}}获得"
     },
     "ActualLight": "🦘 Actual Light",
+    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "你正在查看他人的个人资料。点击该页面下的任意按钮不会有任何反应！",
     "Placeholder": "输入物品名称",
     "WorldDropsNeeded": "为了避免浪费最佳光等提升，请从世界掉落中获取装备，直到你到达 **{{light}}** 光等。",

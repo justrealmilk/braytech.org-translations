@@ -178,10 +178,14 @@
     "APIIssue": "A known [Bungie API issue]({{url}}) prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
-    "Data": {
-      "Description": "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
-      "Name": "Authentication Data"
-    },
+    "Login": "Login with Bungie.net",
+    "DeleteAuth": "Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": "Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!",
+    "Dresstiny": "Authenticate with Bungie.net to create and manage your Dresstiny fits!",
+    "SubscriptionFeature": "This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
@@ -191,22 +195,6 @@
         "Description": "You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
         "Name": "Oh, honey... Honnnnneyyyy"
       }
-    },
-    "Friends": {
-      "Text": "Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
-    },
-    "Dresstiny": {
-      "Text": "Authenticate with Bungie.net to create and manage your Dresstiny fits!"
-    },
-    "Login": "Login with Bungie.net",
-    "Memberships": {
-      "Description": "These are the memberships that are currently associated with your Bungie.net profile.",
-      "Name": "Associated Memberships"
-    },
-    "SubscriptionFeature": "This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
-      "Text": "Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net."
     }
   },
   "Character": {
@@ -219,8 +207,9 @@
       "ObtainFromVendor": "Obtain From {{name}}"
     },
     "ActualLight": "Actual Light",
+    "Auth": "[Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "enter item name",    
+    "Placeholder": "enter item name",
     "WorldDropsNeeded": "Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
     "PowerfulDropsNeeded": "Engage with activities which reward Powerful Gear to reach **{{light}}**.",
     "PinnacleDropsNeeded": "You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."

@@ -178,10 +178,18 @@
     "APIIssue": "Un [problema con la API de Bungie]({{url}}) conocido impide que Braytech muestre esto correctamente en este momento."
   },
   "Auth": {
-    "Data": {
-      "Description": "Elimina los datos de autentificación almacenados en tu dispositivo. Aunque no es necesaria, esta función se ofrece para tu tranquilidad.",
-      "Name": "Datos de autentificación"
+    "Login": "Iniciar sesión con Bungie.net",
+    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": {
+      "Text": "Autentifícate con Bungie.net para ver aquí tu lista de amigos de Bungie. ¡Es un atajo práctico para ver quién está conectado y consultar los perfiles de los demás!"
     },
+    "Dresstiny": {
+      "Text": "¡Autentíficate con Bungie.net para crear y gestionar tus ajustes del Destuario!"
+    },
+    "SubscriptionFeature": "Esta es una función para suscriptores. Algunas funciones sólo son posibles con la suscripción. [Más información](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "Para usar esta función, por favor, dile a Bungie que lo apruebas. No se comparte ninguna información personal al aceptar—tan solo un código de autentificación con el que puede interactuar con más puntos terminales de la API.",
@@ -191,22 +199,6 @@
         "Description": "No estás autorizado a acceder a los datos de perfil de otro usuario, pero puedes utilizar estos útiles enlaces para volver al tuyo propio.\n\nPuedes encontrar más información sobre tu autentificación en la sección _Ajustes_.",
         "Name": "Oh, cariño... Cariiiiñoooo"
       }
-    },
-    "Friends": {
-      "Text": "Autentifícate con Bungie.net para ver aquí tu lista de amigos de Bungie. ¡Es un atajo práctico para ver quién está conectado y consultar los perfiles de los demás!"
-    },
-    "Dresstiny": {
-      "Text": "¡Autentíficate con Bungie.net para crear y gestionar tus ajustes del Destuario!"
-    },
-    "Login": "Iniciar sesión con Bungie.net",
-    "Memberships": {
-      "Description": "Estas son las cuentas que están actualmente asociadas con tu perfil de Bungie.net.",
-      "Name": "Cuentas asociadas"
-    },
-    "SubscriptionFeature": "Esta es una función para suscriptores. Algunas funciones sólo son posibles con la suscripción. [Más información](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "Inicia sesión con Bungie.net para desbloquear más funciones.",
-      "Text": "La mayoría de las características de Braytech están disponibles para todos los usuarios y dependen de datos disponibles al público, pero algunas de las características de Destiny requieren permisos de acceso explícitos que puedes conceder a Braytech si te autentificas con Bungie.net."
     }
   },
   "Character": {
@@ -219,6 +211,7 @@
       "ObtainFromVendor": "Obtenido de {{name}}"
     },
     "ActualLight": "🦘 Actual Light",
+    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "Estás viendo el perfil de otra persona. Puedes mirar, pero si intentas pulsar botones, ¡no esperes resultados!",
     "Placeholder": "introduce nombre de objeto",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

@@ -178,10 +178,18 @@
     "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
-    "Data": {
-      "Description": "清除設備上存儲的授權數據.必要時使用該功能可以讓妳淡定下來.",
-      "Name": "授權數據"
+    "Login": "登錄到 Bungie.net",
+    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": {
+      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
     },
+    "Dresstiny": {
+      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
+    },
+    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "請向 Bungie 同意以使用該功能.若如此做, 妳的個人信息不會向我們分享, 我們僅獲取妳的授權碼以便與更多 API 接口交互.",
@@ -191,22 +199,6 @@
         "Description": "您無權訪問其他用戶的配置文件但是您可以在這些鏈接中訪問自己的配置文件\n\n您可以在設定頁找到有關於身份驗證的詳細信息",
         "Name": "Oh, honey... Honnnnneyyyy"
       }
-    },
-    "Friends": {
-      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
-    },
-    "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
-    },
-    "Login": "登錄到 Bungie.net",
-    "Memberships": {
-      "Description": "當前有多個成員與妳的 Bungie.net 檔案關聯.",
-      "Name": "相關成員"
-    },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "登錄到Bungie.net以解鎖更多内容",
-      "Text": "Braytech的大部分功能對所有用戶可用, 並且依賴於公開數據, 而 Destiny 的壹些功能需要訪問權限, 您可以通過登錄 Bungie.net 進行身份驗證來授權 Braytech"
     }
   },
   "Character": {
@@ -219,6 +211,7 @@
       "ObtainFromVendor": "從{{name}}獲得"
     },
     "ActualLight": "🦘 Actual Light",
+    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "您正在檢視其他人的個人檔案。你可以看，但如果你嘗試按下按鈕，不要指望結果！",
     "Placeholder": "🦘 enter item name",
     "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",

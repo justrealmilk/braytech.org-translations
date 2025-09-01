@@ -178,10 +178,18 @@
     "APIIssue": "現在、既知の[Bungie APIの問題] ({{url}}) により、Braytechではこの情報を正しく表示できません。"
   },
   "Auth": {
-    "Data": {
-      "Description": "デバイスの認証データを削除します。必要なものではないですが、心の平安につながるかもしれません。",
-      "Name": "認証データ"
+    "Login": "Bungie.netでログインする",
+    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
+    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
+    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
+    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "Friends": {
+      "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
     },
+    "Dresstiny": {
+      "Text": "Bungie.netで認証して、Destinyの装飾をコーディネートしましょう！"
+    },
+    "SubscriptionFeature": "これはサブスクリプション契約ユーザー向け機能です。いくつかの機能は、支援者のみが利用可能です。[詳細はこちら](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "ユーザーのプライバシーを保護する目的から、Braytechの一部のサービスではユーザーの許可を必要とする設計になっています。\n\nこれらのサービスを使用するには、Bungie経由でアクセスを承認してください。この承認でAPIエンドポイントと認証コードのみがサービスに利用され、個人情報が他者へ共有されることはありません。",
@@ -191,22 +199,6 @@
         "Description": "他ユーザーのプロファイルへはアクセス認証されません。しかし、次のリンクを活用して自分のプロファイルへ戻れます。\n\n認証の状況はこのアプリの設定の、_Settings_ で確認できます。",
         "Name": "うわぁぁぁぁぁぁぁ!!!!"
       }
-    },
-    "Friends": {
-      "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
-    },
-    "Dresstiny": {
-      "Text": "Bungie.netで認証して、Destinyの装飾をコーディネートしましょう！"
-    },
-    "Login": "Bungie.netでログインする",
-    "Memberships": {
-      "Description": "上記はBungie.net のプロフィールに現在連携している情報です。",
-      "Name": "連携したアカウント"
-    },
-    "SubscriptionFeature": "これはサブスクリプション契約ユーザー向け機能です。いくつかの機能は、支援者のみが利用可能です。[詳細はこちら](/settings/subscriptions)",
-    "Suggestion": {
-      "Subtle": "Bungie.netにログインすると、より多くの機能が利用できるようになります。",
-      "Text": "Braytechの機能のほとんどは、すべてのユーザーが利用できる公開されているデータに依存しています。しかし、Destinyの機能の一部は、Bungie.netで認証する明示的なBraytechに対するアクセス許可を必要とします。"
     }
   },
   "Character": {
@@ -219,6 +211,7 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "ActualLight": "現在のパワー値",
+    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Placeholder": "アイテム検索ワード",
     "WorldDropsNeeded": "より高いパワーのアイテムドロップを無駄にしないよう、**{{light}}** に到達するまではワールドドロップを狙いましょう。",
