@@ -1259,7 +1259,7 @@
       },
       "DiscordProfile": {
         "Connected": "你已关联 Discord 账户",
-        "Disconnected": "关联 Discord账户，这样就可以在 Discord [服务器](https://discord.bray.tech) 里使用命令 `/register_discord_with_voluspa`。",
+        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
         "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "订阅支持",

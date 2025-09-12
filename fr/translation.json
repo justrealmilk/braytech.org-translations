@@ -1259,7 +1259,7 @@
       },
       "DiscordProfile": {
         "Connected": "Votre profil Discord connecté.",
-        "Disconnected": "Connectez votre profil Discord en utilisant la commande `/register_discord_with_voluspa` dans le [server] Discord (https://discord.bray.tech).",
+        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
         "Linked": "🦘 **{{username}}** is linked"
       },
       "UpsellSubscription": "Support avec un abonnement",

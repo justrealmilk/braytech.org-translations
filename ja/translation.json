@@ -1259,7 +1259,7 @@
       },
       "DiscordProfile": {
         "Connected": "連携しているDiscordアカウント",
-        "Disconnected": "DiscordのアカウントをBraytech Discordサーバーの[server](https://discord.bray.tech) にあるコマンド`/register_discord_with_voluspa`で登録してください。",
+        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
         "Linked": "**{{username}}**はリンクされています"
       },
       "UpsellSubscription": "サブスクリプションで支援する",
