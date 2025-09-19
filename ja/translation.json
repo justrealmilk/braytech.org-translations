@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
-    "SelectDateInfo": "ジャンプ先を下記から日付を選択する",
-    "SelectDateWaiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。",
+    "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",
       "Full": "ファイアチームは満員です",
@@ -89,9 +88,10 @@
       "Open": "ファイアチームはオープンです",
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
-    "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
-    "SelectedDateFromGraph": "指定した期間でプレイされた、選択したモードのアクティビティです。",
-    "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
+    "FireteamSolo": "シングルプレイヤー",
+    "FireteamPlayers3": "ファイアチーム: 1-3プレイヤー",
+    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "MatchmakingOn": "マッチメイキング:有効",
     "Modes": {
       "Lifetime": "生涯",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "MatchmakingOn": "マッチメイキング:有効",
-    "FireteamSolo": "シングルプレイヤー",
-    "FireteamPlayers3": "ファイアチーム: 1-3プレイヤー",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
     "TeamScore": "チームスコア",
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
+    "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
+    "SelectedDateFromGraph": "指定した期間でプレイされた、選択したモードのアクティビティです。",
+    "SelectDateInfo": "ジャンプ先を下記から日付を選択する",
+    "SelectDateWaiting": "ご注意ください - プレイ回数が多く、ジャンプ先が昔であるほど、時間が掛かります! \n\nBungie's APIは特定の期間のアクティビティの履歴を引き出せないため、それらを回避して検索しています。",
     "Standing": {
       "Defeat": "敗北",
       "DidNotFinish": "途中離脱",

@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
-    "SelectDateInfo": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
-    "SelectDateWaiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité.",
+    "BookmarksSync": "Synchronisez les marque-pages entre les appareils avec Voluspa.",
     "Fireteam": {
       "Closed": "Escouade fermée",
       "Full": "Escouade complète",
@@ -89,9 +88,10 @@
       "Open": "Escouade ouverte",
       "SinglePlayer": "Activité en solo"
     },
-    "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "BookmarksSync": "Synchronisez les marque-pages entre les appareils avec Voluspa.",
+    "FireteamSolo": "🦘 Single Player",
+    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
+    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "MatchmakingOn": "🦘 Matchmaking: On",
     "Modes": {
       "Lifetime": "Durée de vie",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "Modificateurs indisponibles pour le moment.",
     "NoMedalsAwarded": "Pas de médaille remportée",
     "NoStatsAvailable": "Pas de statistiques disponibles",
-    "MatchmakingOn": "🦘 Matchmaking: On",
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
     "TeamScore": "Score d'équipe",
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "SelectMode": "Sélectionnez le mode",
     "SelectModeInfo": "Pour accéder à une activité spécifique, sélectionnez un mode dans l'interface ci-dessus",
+    "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectDateInfo": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
+    "SelectDateWaiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité.",
     "Standing": {
       "Defeat": "Défaite",
       "DidNotFinish": "Le joueur n'a pas terminé la partie",

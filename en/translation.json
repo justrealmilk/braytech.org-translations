@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "Active Rotator",
-    "SelectDateInfo": "Select a date below and prepare to jump",
-    "SelectDateWaiting": "Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
+    "BookmarksSync": "Sync bookmarks between devices with Voluspa.",
     "Fireteam": {
       "Closed": "Fireteam Closed",
       "Full": "Fireteam Full",
@@ -89,9 +88,10 @@
       "Open": "Fireteam Open",
       "SinglePlayer": "Single Player Activity"
     },
-    "SelectDateFromGraph": "Select a date with activities played from the graph above by tapping a bar element.",
-    "SelectedDateFromGraph": "Activities for the selected mode played on the date selected.",
-    "BookmarksSync": "Sync bookmarks between devices with Voluspa.",
+    "FireteamSolo": "Single Player",
+    "FireteamPlayers3": "Fireteam: 1-3 Players",
+    "FireteamPlayers6": "Fireteam: 1-6 Players",
+    "MatchmakingOn": "Matchmaking: On",
     "Modes": {
       "Lifetime": "Lifetime",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "Modifiers aren't available right now.",
     "NoMedalsAwarded": "No Medals Awarded",
     "NoStatsAvailable": "No Stats Available",
-    "MatchmakingOn": "Matchmaking: On",
-    "FireteamSolo": "Single Player",
-    "FireteamPlayers3": "Fireteam: 1-3 Players",
-    "FireteamPlayers6": "Fireteam: 1-6 Players",
     "TeamScore": "Team Score",
+    "RewardScoreSummary": "Reward Score Summary",
     "SelectMode": "Select Mode",
     "SelectModeInfo": "To drill down to a specific activity, select a mode from the interface above",
+    "SelectDateFromGraph": "Select a date with activities played from the graph above by tapping a bar element.",
+    "SelectedDateFromGraph": "Activities for the selected mode played on the date selected.",
+    "SelectDateInfo": "Select a date below and prepare to jump",
+    "SelectDateWaiting": "Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Standing": {
       "Defeat": "Defeat",
       "DidNotFinish": "Did Not Finish",

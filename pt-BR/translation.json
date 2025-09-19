@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "SelectDateInfo": "Selecione uma data abaixo e prepare-se para saltar",
-    "SelectDateWaiting": "Prepare-se: quanto mais atividades você jogar e quanto mais longe você saltar, mais tempo isso levará!\n\nA API da Bungie não permite a solicitação de histórico de atividades de um período específico, então estamos fazendo este trabalho.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Fireteam": {
       "Closed": "Esquadrão Fechado",
       "Full": "Esquadrão Cheio",
@@ -89,9 +88,10 @@
       "Open": "Esquadrão Aberto",
       "SinglePlayer": "Atividade de Um Jogador"
     },
-    "SelectDateFromGraph": "Selecione uma data com atividades jogadas a partir do gráfico acima.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "FireteamSolo": "🦘 Single Player",
+    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
+    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "MatchmakingOn": "🦘 Matchmaking: On",
     "Modes": {
       "Lifetime": "Tudo desde o início",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "Modificadores não estão disponíveis agora",
     "NoMedalsAwarded": "Nenhuma Medalha Premiada",
     "NoStatsAvailable": "Nenhuma estatística disponível",
-    "MatchmakingOn": "🦘 Matchmaking: On",
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
     "TeamScore": "🦘 Team Score",
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "Para detalhar uma atividade específica, selecione um modo na interface acima",
+    "SelectDateFromGraph": "Selecione uma data com atividades jogadas a partir do gráfico acima.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectDateInfo": "Selecione uma data abaixo e prepare-se para saltar",
+    "SelectDateWaiting": "Prepare-se: quanto mais atividades você jogar e quanto mais longe você saltar, mais tempo isso levará!\n\nA API da Bungie não permite a solicitação de histórico de atividades de um período específico, então estamos fazendo este trabalho.",
     "Standing": {
       "Defeat": "Derrota",
       "DidNotFinish": "🦘 Player did not finish",

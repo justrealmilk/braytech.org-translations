@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "本周轮换",
-    "SelectDateInfo": "选择一组数据",
-    "SelectDateWaiting": "系好安全带 - 您玩的活动越多，跳得越远，所需的时间就越长！\n\nBungie 的 API 暂不支持请求特定时期的活动历史记录",
+    "BookmarksSync": "通过Voluspa在设备之间同步书签",
     "Fireteam": {
       "Closed": "火力战队关闭",
       "Full": "火力战队已满",
@@ -89,9 +88,10 @@
       "Open": "火力战队开放",
       "SinglePlayer": "单人活动"
     },
-    "SelectDateFromGraph": "从上图选择一个有活动的日期",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "BookmarksSync": "通过Voluspa在设备之间同步书签",
+    "FireteamSolo": "单人玩家",
+    "FireteamPlayers3": "火力战队：1-3名玩家",
+    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "MatchmakingOn": "匹配功能：开启",
     "Modes": {
       "Lifetime": "生涯",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
-    "MatchmakingOn": "匹配功能：开启",
-    "FireteamSolo": "单人玩家",
-    "FireteamPlayers3": "火力战队：1-3名玩家",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
     "TeamScore": "团队得分",
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "SelectMode": "选择模式",
     "SelectModeInfo": "要查看特定活动，请从上方的界面处选择一个模式",
+    "SelectDateFromGraph": "从上图选择一个有活动的日期",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectDateInfo": "选择一组数据",
+    "SelectDateWaiting": "系好安全带 - 您玩的活动越多，跳得越远，所需的时间就越长！\n\nBungie 的 API 暂不支持请求特定时期的活动历史记录",
     "Standing": {
       "Defeat": "虽败犹荣",
       "DidNotFinish": "玩家未完成活动",

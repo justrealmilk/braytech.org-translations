@@ -79,8 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
-    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
+    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -89,9 +88,10 @@
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
     },
-    "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "FireteamSolo": "🦘 Single Player",
+    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
+    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "MatchmakingOn": "🦘 Matchmaking: On",
     "Modes": {
       "Lifetime": "전체 기간",
       "Line": {
@@ -109,13 +109,14 @@
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "MatchmakingOn": "🦘 Matchmaking: On",
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
     "TeamScore": "🦘 Team Score",
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
+    "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
+    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
+    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
+    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
     "Standing": {
       "Defeat": "패배",
       "DidNotFinish": "🦘 Player did not finish",
