@@ -242,18 +242,15 @@
     "ClanGonfalon": "クランバナー",
     "ClanAbout": "概要",
     "Founded": "設立日 {{time}}",
-    "Progression": "クランのレベルが上がると、クランバナーの特典がメンバー全員にアンロックされます。クランレベルを上げるために、ゲーム内の様々なアクティビティを完了しましょう。",
-    "RitualRewards": "クランメンバーとして儀式イベントを完了させ、スラヤ・ホーソーンから報酬エングラムを獲得しましょう。",
     "Members": "合計 {{number}} 人",
     "MembersLoading": "{{name}} のデータを読み込んでいます",
-    "NoClan": {
-      "Description": "クランとは、オンラインゲームを楽しむための任意の友人グループです。仲間と協力して協力プレイに挑戦したり、ソロプレイでも仲間を代表してプレイすることで、ゲーム内の特別な追加報酬を得ることができます。\n\n友達のクランに参加したり、新しい友達と出会ったり、コンパニオンアプリや[Bungie.net](https://bungie.net/)で自分のクランを作ったりしましょう。",
-      "Name": "クラン未所属"
-    },
+    "Progression": "クランのレベルが上がると、クランバナーの特典がメンバー全員にアンロックされます。クランレベルを上げるために、ゲーム内の様々なアクティビティを完了しましょう。",
+    "RitualRewards": "クランメンバーとして儀式イベントを完了させ、スラヤ・ホーソーンから報酬エングラムを獲得しましょう。",
     "Relationships": {
       "BestFriends": "ベストフレンド",
       "RomanticPartnerships": "最も仲が良いプレーヤー",
       "UndiscoveredFriends": "フレンド候補",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "あなたは孤独ではありません。いずれ友人を作れるでしょう...クランに友人を誘って、いくつかのアクティビティに出かけてみましょう",
       "NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
@@ -274,6 +271,10 @@
           "Name": "Bungieで登録しているフレンド"
         }
       }
+    },
+    "NoClan": {
+      "Description": "クランとは、オンラインゲームを楽しむための任意の友人グループです。仲間と協力して協力プレイに挑戦したり、ソロプレイでも仲間を代表してプレイすることで、ゲーム内の特別な追加報酬を得ることができます。\n\n友達のクランに参加したり、新しい友達と出会ったり、コンパニオンアプリや[Bungie.net](https://bungie.net/)で自分のクランを作ったりしましょう。",
+      "Name": "クラン未所属"
     }
   },
   "Collections": {

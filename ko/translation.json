@@ -242,18 +242,15 @@
     "ClanGonfalon": "🦘 Gonfalon",
     "ClanAbout": "🦘 About",
     "Founded": "생성일: {{time}} ",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Members": "{{number}}명",
     "MembersLoading": "🦘 Loading {{name}} members",
-    "NoClan": {
-      "Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 [Bungie.net](https://bungie.net/) 에서 직접 클랜을 만들 수 있습니다.",
-      "Name": "소속된 클랜 없음"
-    },
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
       "BestFriends": "베프",
       "RomanticPartnerships": "연인",
       "UndiscoveredFriends": "🦘 Undiscovered Friends",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "당신은 혼자가 아니에요 - 친구를 곧 사귈겁니다... 클랜원 친구 한명을 불러 같이 활동 몇개를 해보세요!",
       "NoParters": "데이트 쉽다는거 거짓말이에요. 다시 전투에 임하세요 수호자!",
@@ -274,6 +271,10 @@
           "Name": "🦘 Bungie Friends"
         }
       }
+    },
+    "NoClan": {
+      "Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 [Bungie.net](https://bungie.net/) 에서 직접 클랜을 만들 수 있습니다.",
+      "Name": "소속된 클랜 없음"
     }
   },
   "Collections": {

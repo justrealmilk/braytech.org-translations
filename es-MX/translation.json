@@ -242,18 +242,15 @@
     "ClanGonfalon": "Estandarte",
     "ClanAbout": "Acerca de",
     "Founded": "Fundado el {{time}}",
-    "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
-    "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",
     "Members": "{{number}} miembros",
     "MembersLoading": "Cargando miembros de {{name}}",
-    "NoClan": {
-      "Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
-      "Name": "Sin afiliación a clan"
-    },
+    "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
+    "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",
     "Relationships": {
       "BestFriends": "Mejores amigos",
       "RomanticPartnerships": "Relaciones románticas",
       "UndiscoveredFriends": "Amigos sin descubrir",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "No estás solo; al final harás un amigo... ¡Invita a un compañero del clan a pasar el rato con un par de actividades!",
       "NoParters": "Nadie dijo que las citas fueran fáciles. ¡Vuelve a la lucha, Guardián!",
@@ -274,6 +271,10 @@
           "Name": "Amigos de Bungie"
         }
       }
+    },
+    "NoClan": {
+      "Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
+      "Name": "Sin afiliación a clan"
     }
   },
   "Collections": {

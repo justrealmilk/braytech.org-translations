@@ -242,18 +242,15 @@
     "ClanGonfalon": "公会旗帜",
     "ClanAbout": "公会信息",
     "Founded": "创建于{{time}}",
-    "Progression": "随着公会等级不断提高，公会旗帜将为所有公会成员解锁新的特性。完成星系活动，提高公会等级。",
-    "RitualRewards": "至少有一半公会成员组成的火力战队，完成仪式活动即可为整个公会赢得来自霍桑的记忆水晶。",
     "Members": "{{number}} 成员",
     "MembersLoading": "正在加载公会 {{name}} 成员信息",
-    "NoClan": {
-      "Description": "公会是一个朋友间提高您的游戏体验的可选的组织。与你的公会成员合作迎接挑战，或在独自游玩时代表他们，以此来获得一些额外的奖励。您可以在 [Bungie.net](https://bungie.net/) 或官方应用程序中加入公会来结识新朋友或者创建您自己的公会。",
-      "Name": "暂无所属公会"
-    },
+    "Progression": "随着公会等级不断提高，公会旗帜将为所有公会成员解锁新的特性。完成星系活动，提高公会等级。",
+    "RitualRewards": "至少有一半公会成员组成的火力战队，完成仪式活动即可为整个公会赢得来自霍桑的记忆水晶。",
     "Relationships": {
       "BestFriends": "好朋友",
       "RomanticPartnerships": "情同手足",
       "UndiscoveredFriends": "未能发现的朋友",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "你并不孤单！你迟早会找到朋友的...... 邀请你的公会伙伴一同游玩吧！",
       "NoParters": "约会很容易？没听说过。回去继续战斗吧，守护者！",
@@ -274,6 +271,10 @@
           "Name": "Bungie 好友"
         }
       }
+    },
+    "NoClan": {
+      "Description": "公会是一个朋友间提高您的游戏体验的可选的组织。与你的公会成员合作迎接挑战，或在独自游玩时代表他们，以此来获得一些额外的奖励。您可以在 [Bungie.net](https://bungie.net/) 或官方应用程序中加入公会来结识新朋友或者创建您自己的公会。",
+      "Name": "暂无所属公会"
     }
   },
   "Collections": {

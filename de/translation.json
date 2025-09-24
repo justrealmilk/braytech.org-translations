@@ -242,18 +242,15 @@
     "ClanGonfalon": "Gonfalon",
     "ClanAbout": "Über",
     "Founded": "Gegründet am {{time}}",
-    "Progression": "Wenn dein Clan aufsteigt, werden für alle Mitglieder Clan-Banner-Perks freigeschaltet. Schließt Aktivitäten im gesamten System ab, um die Stufe eures Clans zu erhöhen.",
-    "RitualRewards": "Schließt als Clan rituelle Aktivitäten ab, um Engramme von Suraya Hawthorne für alle Mitglieder freizuschalten.",
     "Members": "{{number}} Mitglieder",
     "MembersLoading": "Lade Mitglieder von {{name}}",
-    "NoClan": {
-      "Description": "Clans sind optionale Gruppen von Freunden, die dein Online-Erlebnis verbessern. Sprich dich mit deinen Freunden ab, um Coop-Herausforderungen zu meistern, oder verdiene zusätzliche Belohnungen durch Solospiel.\n\nTritt einem Clan bei, triff neue Freunde, oder erstelle deinen eigenen Clan auf [Bungie.net](https://bungie.net/).",
-      "Name": "Du gehörst aktuell keinen Clan an"
-    },
+    "Progression": "Wenn dein Clan aufsteigt, werden für alle Mitglieder Clan-Banner-Perks freigeschaltet. Schließt Aktivitäten im gesamten System ab, um die Stufe eures Clans zu erhöhen.",
+    "RitualRewards": "Schließt als Clan rituelle Aktivitäten ab, um Engramme von Suraya Hawthorne für alle Mitglieder freizuschalten.",
     "Relationships": {
       "BestFriends": "Beste Freunde",
       "RomanticPartnerships": "Romantische Partnerschaften",
       "UndiscoveredFriends": "Unentdeckte Freunde",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "Du bist nicht allein - du wirst schon einen Freund finden... Lade einen Clan-Freund zu ein paar Aktivitäten ein!",
       "NoParters": "Niemand hat behauptet, dass Verabredungen einfach sind. Zurück in den Kampf, Hüter!",
@@ -274,6 +271,10 @@
           "Name": "Bungie-Freunde"
         }
       }
+    },
+    "NoClan": {
+      "Description": "Clans sind optionale Gruppen von Freunden, die dein Online-Erlebnis verbessern. Sprich dich mit deinen Freunden ab, um Coop-Herausforderungen zu meistern, oder verdiene zusätzliche Belohnungen durch Solospiel.\n\nTritt einem Clan bei, triff neue Freunde, oder erstelle deinen eigenen Clan auf [Bungie.net](https://bungie.net/).",
+      "Name": "Du gehörst aktuell keinen Clan an"
     }
   },
   "Collections": {

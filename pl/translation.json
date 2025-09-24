@@ -242,18 +242,15 @@
     "ClanGonfalon": "🦘 Gonfalon",
     "ClanAbout": "🦘 About",
     "Founded": "🦘 Founded {{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Members": "🦘 {{number}} Members",
     "MembersLoading": "🦘 Loading {{name}} members",
-    "NoClan": {
-      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
-      "Name": "🦘 No clan affiliation"
-    },
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
       "BestFriends": "🦘 Best Friends",
       "RomanticPartnerships": "🦘 Romantic Partnerships",
       "UndiscoveredFriends": "🦘 Undiscovered Friends",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
       "NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
@@ -274,6 +271,10 @@
           "Name": "🦘 Bungie Friends"
         }
       }
+    },
+    "NoClan": {
+      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
+      "Name": "🦘 No clan affiliation"
     }
   },
   "Collections": {

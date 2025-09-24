@@ -242,18 +242,15 @@
     "ClanGonfalon": "🦘 Gonfalon",
     "ClanAbout": "🦘 About",
     "Founded": "Fundado {{time}}",
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Members": "{{number}} Membros",
     "MembersLoading": "🦘 Loading {{name}} members",
-    "NoClan": {
-      "Description": "Clãs são um grupo de amigos que eleva sua experiência de jogo online. Combine com seus companheiros de clã para participar de desaios cooperativos ou veja-os em suas atividades sozinhos e receba prêmios extras.\n\nEntre no clã de seus amigos, faça novos amigos, ou crie seu próprio clã no aplicativo companion de Destiny ou em [Bungie.net](https://bungie.net/).",
-      "Name": "Sem afiliação de clã"
-    },
+    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
+    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
       "BestFriends": "Melhores Amigos",
       "RomanticPartnerships": "Parcerias românticas",
       "UndiscoveredFriends": "🦘 Undiscovered Friends",
+      "DetailsPane": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
       "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
       "NoFriends": "Você não está sozinho-você fará um amigo eventualmente... Convide um amigo do clã para algumas atividades!",
       "NoParters": "Ninguém falou que namorar era fácil. De volta a luta, Guardião!",
@@ -274,6 +271,10 @@
           "Name": "🦘 Bungie Friends"
         }
       }
+    },
+    "NoClan": {
+      "Description": "Clãs são um grupo de amigos que eleva sua experiência de jogo online. Combine com seus companheiros de clã para participar de desaios cooperativos ou veja-os em suas atividades sozinhos e receba prêmios extras.\n\nEntre no clã de seus amigos, faça novos amigos, ou crie seu próprio clã no aplicativo companion de Destiny ou em [Bungie.net](https://bungie.net/).",
+      "Name": "Sem afiliação de clã"
     }
   },
   "Collections": {
