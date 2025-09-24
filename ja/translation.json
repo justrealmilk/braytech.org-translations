@@ -79,6 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
+    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",

@@ -79,6 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
+    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "Synchronisez les marque-pages entre les appareils avec Voluspa.",
     "Fireteam": {
       "Closed": "Escouade fermée",

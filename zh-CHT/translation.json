@@ -79,6 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "主動輪換",
+    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Fireteam": {
       "Closed": "火力戰隊關閉",

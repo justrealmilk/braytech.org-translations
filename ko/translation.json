@@ -79,6 +79,7 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
+    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
     "Fireteam": {
       "Closed": "비공개 화력팀",
