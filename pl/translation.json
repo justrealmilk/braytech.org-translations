@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "🦘 Trials Passage"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
     "NoMedalsAwarded": "🦘 No Medals Awarded",
     "NoStatsAvailable": "🦘 통계 없음",
     "TeamScore": "🦘 Team Score",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "🦘 To drill down to a specific activity, select a mode from the interface above",
     "SelectDateFromGraph": "🦘 Select a date with activities played from the graph above.",

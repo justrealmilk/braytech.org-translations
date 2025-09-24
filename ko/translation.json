@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "시험 통행권"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
     "TeamScore": "🦘 Team Score",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
     "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",

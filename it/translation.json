@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "Passagio delle Prove"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "I modificatori non sono disponibili ora",
     "NoMedalsAwarded": "Nessuna medaglia ottenuta",
     "NoStatsAvailable": "Nessuna statistica disponibile",
     "TeamScore": "Punteggio di squadra",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "Seleziona modalità",
     "SelectModeInfo": "Per visualizzare dettagliatamente un'attività specifica, seleziona una modalità dall'interfaccia qui sopra",
     "SelectDateFromGraph": "Seleziona una data con attività dal grafico sopra.",

@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "Prüfungen-Pass"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "Modifikatoren sind momentan nicht verfügbar.",
     "NoMedalsAwarded": "Keine Medaillen verliehen",
     "NoStatsAvailable": "Es sind keine Statistiken verfügbar",
     "TeamScore": "Team Score",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "Modus auswählen",
     "SelectModeInfo": "Um eine bestimmte Aktivität aufzuschlüsseln, wähle einen Modus aus dem Menü oben aus",
     "SelectDateFromGraph": "Wähle aus der obigen Grafik ein Datum mit gespielten Aktivitäten aus.",

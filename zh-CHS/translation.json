@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "试炼门票"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
     "TeamScore": "团队得分",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "选择模式",
     "SelectModeInfo": "要查看特定活动，请从上方的界面处选择一个模式",
     "SelectDateFromGraph": "从上图选择一个有活动的日期",

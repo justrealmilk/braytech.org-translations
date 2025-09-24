@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "Passagem dos Desafios"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "Modificadores não estão disponíveis agora",
     "NoMedalsAwarded": "Nenhuma Medalha Premiada",
     "NoStatsAvailable": "Nenhuma estatística disponível",
     "TeamScore": "🦘 Team Score",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "Para detalhar uma atividade específica, selecione um modo na interface acima",
     "SelectDateFromGraph": "Selecione uma data com atividades jogadas a partir do gráfico acima.",

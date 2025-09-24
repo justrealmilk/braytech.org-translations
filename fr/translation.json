@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "Passage du Jugement"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "Modificateurs indisponibles pour le moment.",
     "NoMedalsAwarded": "Pas de médaille remportée",
     "NoStatsAvailable": "Pas de statistiques disponibles",
     "TeamScore": "Score d'équipe",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "Sélectionnez le mode",
     "SelectModeInfo": "Pour accéder à une activité spécifique, sélectionnez un mode dans l'interface ci-dessus",
     "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",

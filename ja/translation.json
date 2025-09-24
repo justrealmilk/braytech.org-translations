@@ -106,11 +106,13 @@
       },
       "TrialsPassage": "試練の道のり"
     },
+    "Modifiers": "🦘 Modifiers",
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
     "TeamScore": "チームスコア",
     "RewardScoreSummary": "🦘 Reward Score Summary",
+    "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
