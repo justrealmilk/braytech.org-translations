@@ -336,6 +336,8 @@
     "ActivityBonus": "활동 보너스",
     "ActivityMembers": "활동 구성원",
     "Activity_plural": "활동",
+    "ActivityNth": "🦘 {{number}} Activity",
+    "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "부록",
     "All": "모두",
     "Armour": "방어구",

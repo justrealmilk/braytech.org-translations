@@ -336,6 +336,8 @@
     "ActivityBonus": "アクティビティ ボーナス",
     "ActivityMembers": "活動中のメンバー",
     "Activity_plural": "アクティビティ",
+    "ActivityNth": "🦘 {{number}} Activity",
+    "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "補足",
     "All": "すべて",
     "Armour": "防具",

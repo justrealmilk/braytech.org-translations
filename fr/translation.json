@@ -336,6 +336,8 @@
     "ActivityBonus": "Bonus d'activité",
     "ActivityMembers": "Membres d'activité",
     "Activity_plural": "Activités",
+    "ActivityNth": "🦘 {{number}} Activity",
+    "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "Addendums",
     "All": "All",
     "Armour": "Armure",

@@ -336,6 +336,8 @@
     "ActivityBonus": "輪換活動加成",
     "ActivityMembers": "活動名冊",
     "Activity_plural": "活動",
+    "ActivityNth": "🦘 {{number}} Activity",
+    "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "附錄",
     "All": "全部",
     "Armour": "防具",

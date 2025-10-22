@@ -336,6 +336,8 @@
     "ActivityBonus": "Бонус активности",
     "ActivityMembers": "Участники активности",
     "Activity_plural": "Активности",
+    "ActivityNth": "🦘 {{number}} Activity",
+    "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "Дополнительно",
     "All": "Всё",
     "Armour": "Броня",
