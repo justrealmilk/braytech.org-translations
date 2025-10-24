@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "Active Rotator",
-    "Difficulty": "Difficulty",
     "BookmarksSync": "Sync bookmarks between devices with Voluspa.",
+    "Difficulty": "Difficulty",
     "Fireteam": {
       "Closed": "Fireteam Closed",
       "Full": "Fireteam Full",
@@ -90,6 +90,10 @@
       "Matchmaking": "Matchmaking",
       "Open": "Fireteam Open",
       "SinglePlayer": "Single Player Activity"
+    },
+    "AllCharacters": {
+      "Name": "All Characters",
+      "Description":"Display activity from all characters combined."
     },
     "FireteamSolo": "Single Player",
     "FireteamPlayers3": "Fireteam: 1-3 Players",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "Modifiers aren't available right now.",
     "NoMedalsAwarded": "No Medals Awarded",
     "NoStatsAvailable": "No Stats Available",
-    "TeamScore": "Team Score",
-    "RewardScoreSummary": "Reward Score Summary",
     "Scoreboard": "Scoreboard",
     "SelectMode": "Select Mode",
     "SelectModeInfo": "To drill down to a specific activity, select a mode from the interface above",
@@ -146,12 +148,14 @@
       "RequestHistory": "Analysing activity history",
       "RequestHistoryPage": "Analysing activity history... Retrieving page {{page}}"
     },
+    "RewardScoreSummary": "Reward Score Summary",
     "Team": {
       "Allies": "Their Team",
       "Alpha": "Alpha",
       "Bravo": "Bravo",
       "Opposition": "Enemy Team"
-    }
+    },
+    "TeamScore": "Team Score"
   },
   "App": {
     "BungieError": "Bungie Error",

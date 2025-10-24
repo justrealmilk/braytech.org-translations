@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "主動輪換",
-    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "Difficulty": "🦘 Difficulty",
     "Fireteam": {
       "Closed": "火力戰隊關閉",
       "Full": "火力戰隊滿員",
@@ -90,6 +90,10 @@
       "Matchmaking": "匹配",
       "Open": "火力戰隊開放",
       "SinglePlayer": "單人活動"
+    },
+    "AllCharacters": {
+      "Name": "🦘 All Characters",
+      "Description": "🦘 Display activity from all characters combined."
     },
     "FireteamSolo": "🦘 Single Player",
     "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "修飾系統暫時不可用",
     "NoMedalsAwarded": "未取得印章",
     "NoStatsAvailable": "沒有可用的統計信息",
-    "TeamScore": "團隊得分",
-    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "要查看特定的活動，請從上方的界面処懸著一個模式",
     "SelectModeInfo": "要查看特定的活動，請從上方的界面処懸著一個模式",
@@ -146,12 +148,14 @@
       "RequestHistory": "分析活動歷史",
       "RequestHistoryPage": "檢索活動歷史量 {{page}}"
     },
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Team": {
       "Allies": "我方隊伍",
       "Alpha": "第一小隊",
       "Bravo": "第二小隊",
       "Opposition": "敵方隊伍"
-    }
+    },
+    "TeamScore": "團隊得分"
   },
   "App": {
     "BungieError": "Bungie 發生錯誤",

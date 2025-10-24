@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "Rotación activa",
-    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "Sincroniza favoritos entre dispositivos con Voluspa.",
+    "Difficulty": "🦘 Difficulty",
     "Fireteam": {
       "Closed": "Escuadra cerrada",
       "Full": "Escuadra llena",
@@ -90,6 +90,10 @@
       "Matchmaking": "Matchmaking",
       "Open": "Escuadra abierta",
       "SinglePlayer": "Actividad de un jugador"
+    },
+    "AllCharacters": {
+      "Name": "🦘 All Characters",
+      "Description": "🦘 Display activity from all characters combined."
     },
     "FireteamSolo": "🦘 Single Player",
     "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "Los modificadores no están disponibles en este momento.",
     "NoMedalsAwarded": "No se han concedido medallas",
     "NoStatsAvailable": "No hay estadísticas disponibles",
-    "TeamScore": "Puntuación del equipo",
-    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "Elige modo",
     "SelectModeInfo": "Para ver los detalles de una actividad específica, selecciona un modo en el menú de arriba",
@@ -146,12 +148,14 @@
       "RequestHistory": "Analizando el historial de actividades",
       "RequestHistoryPage": "Recuperando el volumen del historial de actividad {{page}}"
     },
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Team": {
       "Allies": "Su equipo",
       "Alpha": "Alfa",
       "Bravo": "Bravo",
       "Opposition": "Equipo enemigo"
-    }
+    },
+    "TeamScore": "Puntuación del equipo"
   },
   "App": {
     "BungieError": "Error de Bungie",

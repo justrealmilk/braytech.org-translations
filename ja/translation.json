@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "今週のローテーション",
-    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
+    "Difficulty": "🦘 Difficulty",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",
       "Full": "ファイアチームは満員です",
@@ -90,6 +90,10 @@
       "Matchmaking": "マッチメイキング",
       "Open": "ファイアチームはオープンです",
       "SinglePlayer": "ソロプレイでのアクティビティ"
+    },
+    "AllCharacters": {
+      "Name": "🦘 All Characters",
+      "Description": "🦘 Display activity from all characters combined."
     },
     "FireteamSolo": "シングルプレイヤー",
     "FireteamPlayers3": "ファイアチーム: 1-3プレイヤー",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "TeamScore": "チームスコア",
-    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
@@ -146,12 +148,14 @@
       "RequestHistory": "アクティビティの履歴を分析しています",
       "RequestHistoryPage": "{{page}}ページ目の活動履歴を取得しています"
     },
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Team": {
       "Allies": "見方チーム",
       "Alpha": "アルファ",
       "Bravo": "ブラボー",
       "Opposition": "対戦チーム"
-    }
+    },
+    "TeamScore": "チームスコア"
   },
   "App": {
     "BungieError": "Bungieエラー",

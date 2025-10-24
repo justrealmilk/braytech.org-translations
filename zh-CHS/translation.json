@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "本周轮换",
-    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "通过Voluspa在设备之间同步书签",
+    "Difficulty": "🦘 Difficulty",
     "Fireteam": {
       "Closed": "火力战队关闭",
       "Full": "火力战队已满",
@@ -90,6 +90,10 @@
       "Matchmaking": "匹配中",
       "Open": "火力战队开放",
       "SinglePlayer": "单人活动"
+    },
+    "AllCharacters": {
+      "Name": "🦘 All Characters",
+      "Description": "🦘 Display activity from all characters combined."
     },
     "FireteamSolo": "单人玩家",
     "FireteamPlayers3": "火力战队：1-3名玩家",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
-    "TeamScore": "团队得分",
-    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "选择模式",
     "SelectModeInfo": "要查看特定活动，请从上方的界面处选择一个模式",
@@ -146,12 +148,14 @@
       "RequestHistory": "正在分析活动历史",
       "RequestHistoryPage": "检索活动历史{{page}}"
     },
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Team": {
       "Allies": "他们的队伍",
       "Alpha": "A 队",
       "Bravo": "B 队",
       "Opposition": "敌方队伍"
-    }
+    },
+    "TeamScore": "团队得分"
   },
   "App": {
     "BungieError": "Bungie 发生错误",

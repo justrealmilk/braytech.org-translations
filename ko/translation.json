@@ -81,8 +81,8 @@
   },
   "Activity": {
     "ActiveRotator": "🦘 Active Rotator",
-    "Difficulty": "🦘 Difficulty",
     "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
+    "Difficulty": "🦘 Difficulty",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -90,6 +90,10 @@
       "Matchmaking": "매치메이킹",
       "Open": "공개 화력팀",
       "SinglePlayer": "싱글 플레이 활동"
+    },
+    "AllCharacters": {
+      "Name": "🦘 All Characters",
+      "Description": "🦘 Display activity from all characters combined."
     },
     "FireteamSolo": "🦘 Single Player",
     "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
@@ -113,8 +117,6 @@
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "TeamScore": "🦘 Team Score",
-    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Scoreboard": "🦘 Scoreboard",
     "SelectMode": "🦘 Select Mode",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
@@ -146,12 +148,14 @@
       "RequestHistory": "활동 기록 분석중",
       "RequestHistoryPage": "🦘 Retrieving activity history volume {{page}}"
     },
+    "RewardScoreSummary": "🦘 Reward Score Summary",
     "Team": {
       "Allies": "아군 팀",
       "Alpha": "알파",
       "Bravo": "브라보",
       "Opposition": "적군 팀"
-    }
+    },
+    "TeamScore": "🦘 Team Score"
   },
   "App": {
     "BungieError": "Bungie 오류",
