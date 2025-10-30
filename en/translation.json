@@ -95,6 +95,14 @@
       "Name": "All Characters",
       "Description":"Display activity from all characters combined."
     },
+    "DeletedCharacters": {
+      "Name": "Deleted Characters",
+      "Description":"Include activity from deleted characters."
+    },
+    "SelectCharacter": {
+      "Name": "Select Character",
+      "Description":"Select a specific character."
+    },
     "FireteamSolo": "Single Player",
     "FireteamPlayers3": "Fireteam: 1-3 Players",
     "FireteamPlayers6": "Fireteam: 1-6 Players",
