@@ -261,6 +261,10 @@
     "Founded": "Fundado {{time}}",
     "Members": "{{number}} Membros",
     "MembersLoading": "🦘 Loading {{name}} members",
+    "NoClan": {
+      "Description": "Clãs são um grupo de amigos que eleva sua experiência de jogo online. Combine com seus companheiros de clã para participar de desaios cooperativos ou veja-os em suas atividades sozinhos e receba prêmios extras.\n\nEntre no clã de seus amigos, faça novos amigos, ou crie seu próprio clã no aplicativo companion de Destiny ou em [Bungie.net](https://bungie.net/).",
+      "Name": "Sem afiliação de clã"
+    },
     "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
     "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
@@ -290,10 +294,7 @@
         }
       }
     },
-    "NoClan": {
-      "Description": "Clãs são um grupo de amigos que eleva sua experiência de jogo online. Combine com seus companheiros de clã para participar de desaios cooperativos ou veja-os em suas atividades sozinhos e receba prêmios extras.\n\nEntre no clã de seus amigos, faça novos amigos, ou crie seu próprio clã no aplicativo companion de Destiny ou em [Bungie.net](https://bungie.net/).",
-      "Name": "Sem afiliação de clã"
-    }
+    "SortMembers": "🦘 Sort Members"
   },
   "Collections": {
     "AllAcquired": "Tudo adquirido",
@@ -352,6 +353,7 @@
     "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "Adendos",
     "All": "Tudo",
+    "Alphabetical": "🦘 Alphabetical",
     "Armour": "Armadura",
     "AscendantChallenge": "Desafio Ascendente",
     "Available": "🦘 Available",
@@ -494,6 +496,7 @@
     "Season_plural": "Temporadas",
     "Settings": "Configurações",
     "Source": "Fonte",
+    "Sort": "🦘 Sort",
     "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
     "SpecialCommendation_plural": "🦘 Special Comms.",
     "Statistics": "🦘 Statistics",
@@ -504,6 +507,7 @@
     "TimeStarted": "🦘 Time Started",
     "TimeRemaining": "Tempo Restante",
     "TopNth": "🦘 Top {{number}}",
+    "Total": "🦘 Total",
     "Translator_plural": "Tradutores",
     "TrialsPassage": "Passagem dos Desafios",
     "TrialsPoints": "Pontos dos Desafios",
@@ -585,13 +589,6 @@
         "Name": "🦘 Class Distribution"
       }
     }
-  },
-  "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
   },
   "GettingStarted": {
     "Header": {
@@ -1035,7 +1032,14 @@
     "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
-    "SuggestedPath": "🦘 Suggested Path"
+    "SuggestedPath": "🦘 Suggested Path",
+    "Sorted": {
+      "Completion": "🦘 Sorted by **Completion**",
+      "Name": "🦘 Sorted by **Name**",
+      "Expiry": "🦘 Sorted by **Expiry**",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
+    }
   },
   "RewardHistory": {
     "Name": "🦘 Reward History",

@@ -261,6 +261,10 @@
     "Founded": "🦘 Founded {{time}}",
     "Members": "🦘 {{number}} Members",
     "MembersLoading": "🦘 Loading {{name}} members",
+    "NoClan": {
+      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
+      "Name": "🦘 No clan affiliation"
+    },
     "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
     "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
@@ -290,10 +294,7 @@
         }
       }
     },
-    "NoClan": {
-      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
-      "Name": "🦘 No clan affiliation"
-    }
+    "SortMembers": "🦘 Sort Members"
   },
   "Collections": {
     "AllAcquired": "🦘 모두 획득함",
@@ -352,6 +353,7 @@
     "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "🦘 Addendums",
     "All": "🦘 All",
+    "Alphabetical": "🦘 Alphabetical",
     "Armour": "🦘 방어구",
     "AscendantChallenge": "🦘 Ascendant Challenge",
     "Available": "🦘 Available",
@@ -494,6 +496,7 @@
     "Season_plural": "🦘 시즌",
     "Settings": "🦘 Settings",
     "Source": "🦘 Source",
+    "Sort": "🦘 Sort",
     "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
     "SpecialCommendation_plural": "🦘 Special Comms.",
     "Statistics": "🦘 Statistics",
@@ -504,6 +507,7 @@
     "TimeStarted": "🦘 Time Started",
     "TimeRemaining": "🦘 남은 시간",
     "TopNth": "🦘 Top {{number}}",
+    "Total": "🦘 Total",
     "Translator_plural": "🦘 Translators",
     "TrialsPassage": "🦘 시험 통행권",
     "TrialsPoints": "🦘 시험 점수",
@@ -585,13 +589,6 @@
         "Name": "🦘 Class Distribution"
       }
     }
-  },
-  "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
   },
   "GettingStarted": {
     "Header": {
@@ -1035,7 +1032,14 @@
     "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
-    "SuggestedPath": "🦘 Suggested Path"
+    "SuggestedPath": "🦘 Suggested Path",
+    "Sorted": {
+      "Completion": "🦘 Sorted by **Completion**",
+      "Name": "🦘 Sorted by **Name**",
+      "Expiry": "🦘 Sorted by **Expiry**",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
+    }
   },
   "RewardHistory": {
     "Name": "🦘 Reward History",

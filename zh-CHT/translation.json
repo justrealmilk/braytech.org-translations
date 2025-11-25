@@ -261,6 +261,10 @@
     "Founded": "成立時間 {{time}}",
     "Members": "{{number}} 成員",
     "MembersLoading": "载入{{name}} 成员",
+    "NoClan": {
+      "Description": "公會是一個可選的朋友相關的組織，可以提高您的在綫游戲體驗，來活動一些額外的獎勵，您可以在[Bungie.net](https://bungie.net/)來創建您的公會或者加入公會來結識新朋友.",
+      "Name": "沒有公會相關關係"
+    },
     "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
     "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
     "Relationships": {
@@ -290,10 +294,7 @@
         }
       }
     },
-    "NoClan": {
-      "Description": "公會是一個可選的朋友相關的組織，可以提高您的在綫游戲體驗，來活動一些額外的獎勵，您可以在[Bungie.net](https://bungie.net/)來創建您的公會或者加入公會來結識新朋友.",
-      "Name": "沒有公會相關關係"
-    }
+    "SortMembers": "🦘 Sort Members"
   },
   "Collections": {
     "AllAcquired": "已獲得所有",
@@ -352,6 +353,7 @@
     "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "附錄",
     "All": "全部",
+    "Alphabetical": "🦘 Alphabetical",
     "Armour": "防具",
     "AscendantChallenge": "上維挑戰",
     "Available": "可用",
@@ -494,6 +496,7 @@
     "Season_plural": "赛季",
     "Settings": "設定",
     "Source": "來源",
+    "Sort": "🦘 Sort",
     "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
     "SpecialCommendation_plural": "🦘 Special Comms.",
     "Statistics": "🦘 Statistics",
@@ -504,6 +507,7 @@
     "TimeStarted": "🦘 Time Started",
     "TimeRemaining": "剩餘時間",
     "TopNth": "🦘 Top {{number}}",
+    "Total": "🦘 Total",
     "Translator_plural": "譯者",
     "TrialsPassage": "試煉門票",
     "TrialsPoints": "試煉分數",
@@ -585,13 +589,6 @@
         "Name": "🦘 Class Distribution"
       }
     }
-  },
-  "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
   },
   "GettingStarted": {
     "Header": {
@@ -1035,7 +1032,14 @@
     "ExperienceNeeded": "🦘 Experience needed for next rank.",
     "BountiesValue": "🦘 The value of your completed bounties.",
     "XPBonuses": "🦘 Bonuses",
-    "SuggestedPath": "🦘 Suggested Path"
+    "SuggestedPath": "🦘 Suggested Path",
+    "Sorted": {
+      "Completion": "🦘 Sorted by **Completion**",
+      "Name": "🦘 Sorted by **Name**",
+      "Expiry": "🦘 Sorted by **Expiry**",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
+    }
   },
   "RewardHistory": {
     "Name": "🦘 Reward History",

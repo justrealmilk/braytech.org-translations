@@ -261,6 +261,10 @@
     "Founded": "Fundado el {{time}}",
     "Members": "{{number}} miembros",
     "MembersLoading": "Cargando miembros de {{name}}",
+    "NoClan": {
+      "Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
+      "Name": "Sin afiliación a clan"
+    },
     "Progression": "A medida que tu clan sube de nivel, se desbloquean ventajas de estandarte de clan para todos los miembros. Completa actividades en todo el sistema para aumentar el nivel de tu clan.",
     "RitualRewards": "Como clan, completa actividades rituales para desbloquear engramas de Suraya Hawthorne para todos los miembros.",
     "Relationships": {
@@ -290,10 +294,7 @@
         }
       }
     },
-    "NoClan": {
-      "Description": "Los clanes son grupos opcionales de amigos que mejoran tu experiencia de juego en línea. Coordínate con tus compañeros de clan para enfrentarte a desafíos cooperativos o simplemente represéntalos en solitario para ganar recompensas adicionales.\n\nÚnete al clan de tus amigos, conoce nuevos amigos, o crea el tuyo propio en la aplicación acompañante o en [Bungie.net](https://bungie.net/).",
-      "Name": "Sin afiliación a clan"
-    }
+    "SortMembers": "🦘 Sort Members"
   },
   "Collections": {
     "AllAcquired": "Todo adquirido",
@@ -352,6 +353,7 @@
     "ActivityNth_plural": "🦘 {{number}} Activities",
     "Addendums": "Adenda",
     "All": "Todo",
+    "Alphabetical": "🦘 Alphabetical",
     "Armour": "Armadura",
     "AscendantChallenge": "Desafío ascendente",
     "Available": "Disponible",
@@ -494,6 +496,7 @@
     "Season_plural": "Temporadas",
     "Settings": "Ajustes",
     "Source": "Fuente",
+    "Sort": "🦘 Sort",
     "SpecialCommendationAbr_plural": "Menc. esp.",
     "SpecialCommendation_plural": "Menc. especiales",
     "Statistics": "Estadísticas",
@@ -504,6 +507,7 @@
     "TimeStarted": "Tiempo de inicio",
     "TimeRemaining": "Tiempo restante",
     "TopNth": "Los {{number}} mejores",
+    "Total": "🦘 Total",
     "Translator_plural": "Traductores",
     "TrialsPassage": "Pase de las Pruebas",
     "TrialsPoints": "Puntos de las Pruebas",
@@ -585,13 +589,6 @@
         "Name": "Distribución de clases"
       }
     }
-  },
-  "Sorted": {
-    "Completion": "Ordernado por **Compleción**",
-    "Name": "Ordernado por **Nombre**",
-    "Expiry": "Ordernado por **Caducidad**",
-    "User": "Ordernado por **Usuario**",
-    "None": "Sin ordenar"
   },
   "GettingStarted": {
     "Header": {
@@ -1035,7 +1032,14 @@
     "ExperienceNeeded": "Experiencia necesaria para el siguiente nivel.",
     "BountiesValue": "El valor de tus contratos completados.",
     "XPBonuses": "Bonificaciones",
-    "SuggestedPath": "Camino sugerido"
+    "SuggestedPath": "Camino sugerido",
+    "Sorted": {
+      "Completion": "🦘 Sorted by **Completion**",
+      "Name": "🦘 Sorted by **Name**",
+      "Expiry": "🦘 Sorted by **Expiry**",
+      "User": "🦘 Sorted by **User**",
+      "None": "🦘 Unsorted"
+    }
   },
   "RewardHistory": {
     "Name": "Historial de recompensas",
