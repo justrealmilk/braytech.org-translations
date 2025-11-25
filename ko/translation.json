@@ -313,19 +313,22 @@
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
     "CollectiblesUnavailable": "🦘 There are no collectibles available for display",
+    "Discovered": "🦘 Discovered",
+    "Undiscovered": "🦘 Undiscovered",
+    "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "🦘 Group by Season",
       "Ungroup": "🦘 Ungroup"
     },
-    "RecentlyDiscovered": "최근 발견",
-    "SetComplete": "🦘 Set complete",
-    "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
     "Options": {
       "HideAcquiredAll": {
         "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },
+    "RecentlyDiscovered": "최근 발견",
+    "SetComplete": "🦘 Set complete",
+    "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
     "FinalEncounter": "🦘 Final Encounter",
@@ -435,6 +438,7 @@
     "Items": "아이템",
     "Joined": "🦘 Joined",
     "Last": "🦘 Last",
+    "Legend": "🦘 Legend",
     "Loadout": "🦘 Loadout",
     "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",

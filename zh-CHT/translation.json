@@ -313,19 +313,22 @@
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "你已經收集了所有的可收藏品，選中並隱藏他們",
     "CollectiblesUnavailable": "暫無可供展示的收藏品",
+    "Discovered": "🦘 Discovered",
+    "Undiscovered": "🦘 Undiscovered",
+    "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "按賽季分組",
       "Ungroup": "不分組"
     },
-    "RecentlyDiscovered": "最近發現的",
-    "SetComplete": "集合完畢",
-    "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Options": {
       "HideAcquiredAll": {
         "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },
+    "RecentlyDiscovered": "最近發現的",
+    "SetComplete": "集合完畢",
+    "SomeAcquiredSomeInvisible": "一些获得 {{invisible}} 不可見的",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
     "FinalEncounter": "🦘 Final Encounter",
@@ -435,6 +438,7 @@
     "Items": "物品",
     "Joined": "🦘 Joined",
     "Last": "🦘 Last",
+    "Legend": "🦘 Legend",
     "Loadout": "🦘 Loadout",
     "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",

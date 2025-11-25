@@ -313,19 +313,22 @@
     "Collectible_plural": "🦘 Collectibles",
     "CollectiblesAcquired": "Hai già acquisito tutti questi oggetti delle collezioni e hai scelto di nasconderli.",
     "CollectiblesUnavailable": "Non ci sono oggetti delle collezioni disponibili da visualizzare.",
+    "Discovered": "🦘 Discovered",
+    "Undiscovered": "🦘 Undiscovered",
+    "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "Raggruppa per stagione",
       "Ungroup": "Separa"
     },
-    "RecentlyDiscovered": "Scoperti di recente",
-    "SetComplete": "Set completato",
-    "SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
     "Options": {
       "HideAcquiredAll": {
         "Name": "🦘 Hide Acquired",
         "Description": "🦘 Hide all collectibles which are acquired by all selected members."
       }
     },
+    "RecentlyDiscovered": "Scoperti di recente",
+    "SetComplete": "Set completato",
+    "SomeAcquiredSomeInvisible": "Alcuni ottenuti, {{invisible}} invisibili",
     "Encounter": "🦘 Encounter",
     "AnyEncounter": "🦘 Any Encounter",
     "FinalEncounter": "🦘 Final Encounter",
@@ -435,6 +438,7 @@
     "Items": "Oggetti",
     "Joined": "🦘 Joined",
     "Last": "🦘 Last",
+    "Legend": "🦘 Legend",
     "Loadout": "Dotazione",
     "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "Anterpima dotazione slot {{number}}",

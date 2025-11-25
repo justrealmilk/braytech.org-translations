@@ -313,19 +313,22 @@
     "Collectible_plural": "Coleccionables",
     "CollectiblesAcquired": "Adquiriste todos estos coleccionables y elegiste ocultarlos.",
     "CollectiblesUnavailable": "No hay objetos de colección disponibles para mostrar.",
+    "Discovered": "🦘 Discovered",
+    "Undiscovered": "🦘 Undiscovered",
+    "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "Agrupar por temporada",
       "Ungroup": "Desagrupar"
     },
-    "RecentlyDiscovered": "Descubierto recientemente",
-    "SetComplete": "Conjunto completado",
-    "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
     "Options": {
       "HideAcquiredAll": {
         "Name": "Ocultar adquiridos",
         "Description": "Oculta todos los objetos coleccionables adquiridos por todos los miembros seleccionados."
       }
     },
+    "RecentlyDiscovered": "Descubierto recientemente",
+    "SetComplete": "Conjunto completado",
+    "SomeAcquiredSomeInvisible": "Algunos adquiridos, {{invisible}} invisibles",
     "Encounter": "Encuentro",
     "AnyEncounter": "Cualquier encuentro",
     "FinalEncounter": "Encuentro final",
@@ -435,6 +438,7 @@
     "Items": "Objetos",
     "Joined": "🦘 Joined",
     "Last": "🦘 Last",
+    "Legend": "🦘 Legend",
     "Loadout": "Equipamiento",
     "Loadout_plural": "🦘 Loadouts",
     "LoadoutSlotPreview": "Vista previa de la ranura {{number}} de equipamiento",

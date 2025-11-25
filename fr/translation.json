@@ -313,19 +313,22 @@
     "Collectible_plural": "Collectibles",
     "CollectiblesAcquired": "Vous avez acquis tous ces objets de collection et choisi de les cacher",
     "CollectiblesUnavailable": "Il n'y a pas d'objets de collection disponibles pour l'affichage",
+    "Discovered": "🦘 Discovered",
+    "Undiscovered": "🦘 Undiscovered",
+    "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "Grouper par Saison",
       "Ungroup": "Dégrouper"
     },
-    "RecentlyDiscovered": "Découvert récemment",
-    "SetComplete": "Ensemble complet",
-    "SomeAcquiredSomeInvisible": "Quelques uns ont été obtenu, {{invisible}} est invisible",
     "Options": {
       "HideAcquiredAll": {
         "Name": "Masquer acquis",
         "Description": "Masquer tous les objets de collection acquis par tous les membres sélectionnés."
       }
     },
+    "RecentlyDiscovered": "Découvert récemment",
+    "SetComplete": "Ensemble complet",
+    "SomeAcquiredSomeInvisible": "Quelques uns ont été obtenu, {{invisible}} est invisible",
     "Encounter": "Rencontre",
     "AnyEncounter": "Toute rencontre",
     "FinalEncounter": "Dernière rencontre",
@@ -435,6 +438,7 @@
     "Items": "Objets",
     "Joined": "Rejoint",
     "Last": "Dernier",
+    "Legend": "🦘 Legend",
     "Loadout": "Équipement",
     "Loadout_plural": "Équipements",
     "LoadoutSlotPreview": "Aperçu de l'emplacement d'équipement {{number}}",
