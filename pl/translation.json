@@ -258,6 +258,26 @@
     },
     "ClanGonfalon": "🦘 Gonfalon",
     "ClanAbout": "🦘 About",
+    "Exotics": {
+      "Options": {
+        "WorldDrops": {
+          "Description": "🦘 Display weapon world drops. There's a lot of them so they're hidden by default to improve rendering performance.",
+          "Name": "🦘 Weapon World Drops"
+        },
+        "ArmorTitan": {
+          "Description": "🦘 Display Titan armor. Thick, strong stuff.",
+          "Name": "🦘 Titan Armor"
+        },
+        "ArmorHunter": {
+          "Description": "🦘 Display Hunter armor. Conniving.",
+          "Name": "🦘 Hunter Hunter"
+        },
+        "ArmorWarlock": {
+          "Description": "🦘 Display Warlock armor. The best and most useful class.",
+          "Name": "🦘 Warlock Hunter"
+        }
+      }
+    },
     "Founded": "🦘 Founded {{time}}",
     "Members": "🦘 {{number}} Members",
     "MembersLoading": "🦘 Loading {{name}} members",
