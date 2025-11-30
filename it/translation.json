@@ -1435,6 +1435,10 @@
         "Description": "Rendi tutto più gay, gattaccio. Illumina la tua vita con la favolosa e sconvolgente innovazione tecnologica esclusiva Braytech® in edizione limitata!",
         "Name": "Attiva 🌈"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "Riduce i movimenti dell'interfaccia utente disattivando varie animazioni. Riduce l'utilizzo della CPU.",
         "Name": "Animazioni ridotte"

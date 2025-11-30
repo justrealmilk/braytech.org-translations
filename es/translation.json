@@ -1435,6 +1435,10 @@
         "Description": "Saca tu reinona, mari. ¡Ilumina tu vida con una fabulosa y rompedora innovación tecnológica, exclusiva de Braytech®, de edición limitada!",
         "Name": "Habilitar ✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "Reduce el movimiento de la interfaz de usuario, concretamente desactivando varias animaciones. Reduce el uso de la CPU.",
         "Name": "Reducir movimiento"

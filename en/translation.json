@@ -1431,6 +1431,10 @@
         "Description": "Gay it up, bitch. Light up your life with fabulous, limited edition, ground-shattering, Braytech® exclusive! technological innovation.",
         "Name": "Enable 🌈"
       },
+      "Grinch": {
+        "Description": "You are the Grinch who stole Christmas.",
+        "Name": "Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "Reduce the motion of the user interface, namely by disabling various animations. Reduces CPU usage.",
         "Name": "Reduced Motion"

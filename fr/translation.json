@@ -1435,6 +1435,10 @@
         "Description": "Illuminez votre vie avec une fabuleuse édition limitée, révolutionnaire, innovation technologique exclusive de Braytech®!",
         "Name": "Activer ✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "Réduit les animations de l'interface. Permet de réduire l'usage CPU.",
         "Name": "Réduction de mouvement"

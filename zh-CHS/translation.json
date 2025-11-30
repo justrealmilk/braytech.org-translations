@@ -1435,6 +1435,10 @@
         "Description": "Gay 起来，小婊子！用美妙点亮人生，限量款，闪瞎眼！Braytech® 独家！创新科技！",
         "Name": "启用特效"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "通过关闭多种动画以减少用户界面的活动，这将降低 CPU 的使用率。",
         "Name": "减少界面活动"

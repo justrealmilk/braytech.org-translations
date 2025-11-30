@@ -1435,6 +1435,10 @@
         "Description": "オッスお願いしまーす! Braytech®限定でお届けする限定エディションの技術でライティングするってはっきりわかんだね。",
         "Name": "あっ…（察し）✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "様々なアニメーションを無効にすることで、ユーザーインターフェースの動きを抑えることができます。CPU使用率を低減します。",
         "Name": "モーションを抑制する"

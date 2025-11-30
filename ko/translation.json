@@ -1435,6 +1435,10 @@
         "Description": "게이같은 새끼 ㅋㅋ. Braytech®의 존나 쩌는 한정판 기술과 뒤틀리는 배경으로 네 인생을 빛나게 만들어주마.",
         "Name": "활성화 ✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "여러 애니메이션을 비활성화하여 UI 애니메이션의 사용량을 줄입니다. CPU 사용을 줄입니다.",
         "Name": "모션 감소"

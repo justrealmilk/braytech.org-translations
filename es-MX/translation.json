@@ -1435,6 +1435,10 @@
         "Description": "Salte del closet, perra. ¡Ilumina tu vida con la fabulosa, edición limitada y rompedora innovación tecnológica exclusiva de Braytech®!",
         "Name": "Habilitar ✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "Reduce el movimiento de la interfaz de usuario, concretamente desactivando varias animaciones. Reduce el uso de la CPU.",
         "Name": "Reducir movimiento"

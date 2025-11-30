@@ -1435,6 +1435,10 @@
         "Description": "振作起來 小逼崽子！用精彩絕倫的限量版 Braytech® 獨家產品點亮您的生活！技術創新.",
         "Name": "啟用 ✨"
       },
+      "Grinch": {
+        "Description": "🦘 You are the Grinch who stole Christmas.",
+        "Name": "🦘 Grinch 🚫🎄"
+      },
       "ReducedMotion": {
         "Description": "減少用戶界面的特效，即通過禁用各種動畫.降低 CPU 使用率.",
         "Name": "減少特效"
