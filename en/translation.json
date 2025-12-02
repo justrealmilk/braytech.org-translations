@@ -266,11 +266,11 @@
         },
         "ArmorHunter": {
           "Description": "Display Hunter armor. Conniving.",
-          "Name": "Hunter Hunter"
+          "Name": "Hunter Armor"
         },
         "ArmorWarlock": {
           "Description": "Display Warlock armor. The best and most useful class.",
-          "Name": "Warlock Hunter"
+          "Name": "Warlock Armor"
         }
       }
     },
