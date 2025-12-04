@@ -1651,8 +1651,10 @@
     "SieveBegins": "El Tamiz comienza en **{{duration}}**",
     "SieveAvailable": "El Tamiz está disponible por los próximos **{{duration}}**",
     "Event": {
+      "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Rango del evento",
       "WeeklyRank": "Rango semanal",
+      "WeeklyRewards": "🦘 Weekly Rewards",
       "DailyChallenges": "Desafíos diarios",
       "WeeklyChallenges": "Desafíos semanales",
       "EndsIn": "El evento termina en **{{duration}}**"

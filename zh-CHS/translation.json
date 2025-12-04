@@ -1651,8 +1651,10 @@
     "SieveBegins": "滤网将在**{{duration}}**后开放。",
     "SieveAvailable": "滤网在接下来的**{{duration}}**内保持开放。",
     "Event": {
+      "ActiveOrders": "🦘 Active Orders",
       "EventRank": "事件等级",
       "WeeklyRank": "每周评级",
+      "WeeklyRewards": "🦘 Weekly Rewards",
       "DailyChallenges": "每日挑战",
       "WeeklyChallenges": "每周挑战",
       "EndsIn": "事件将在**{{duration}}**后结束。"

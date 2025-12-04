@@ -1651,8 +1651,10 @@
     "SieveBegins": "**{{duration}}**後に「ふるい」が始まります",
     "SieveAvailable": "次の「ふるい」は**{{duration}}**に始まります",
     "Event": {
+      "ActiveOrders": "🦘 Active Orders",
       "EventRank": "イベントランク",
       "WeeklyRank": "ウイークリーランク",
+      "WeeklyRewards": "🦘 Weekly Rewards",
       "DailyChallenges": "日刊の挑戦",
       "WeeklyChallenges": "週間の挑戦",
       "EndsIn": "**{{duration}}**にイベント終了"

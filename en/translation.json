@@ -1647,8 +1647,10 @@
     "SieveBegins": "The Sieve begins in **{{duration}}** at {{time}}",
     "SieveAvailable": "The Sieve is available for the next **{{duration}}**",
     "Event": {
+      "ActiveOrders": "Active Orders",
       "EventRank": "Event Rank",
       "WeeklyRank": "Weekly Rank",
+      "WeeklyRewards": "Weekly Rewards",
       "DailyChallenges": "Daily Challenges",
       "WeeklyChallenges": "Weekly Challenges",
       "EndsIn": "Event ends in **{{duration}}**"

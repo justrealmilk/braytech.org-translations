@@ -1651,8 +1651,10 @@
     "SieveBegins": "Le Tamis commence dans **{{duration}}**",
     "SieveAvailable": "Le Tamis est disponible pour les **{{duration}}** à venir",
     "Event": {
+      "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Rang d'événement",
       "WeeklyRank": "Rang hebdomadaire",
+      "WeeklyRewards": "🦘 Weekly Rewards",
       "DailyChallenges": "Défis quotidiens",
       "WeeklyChallenges": "Défis hebdomadaires",
       "EndsIn": "L'événement se termine dans **{{duration}}**"

@@ -1651,8 +1651,10 @@
     "SieveBegins": "🦘 The Sieve начнётся через **{{duration}}**",
     "SieveAvailable": "🦘 The Sieve доступна для **{{duration}}**",
     "Event": {
+      "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Ранг Эвента",
       "WeeklyRank": "Недельный Ранг",
+      "WeeklyRewards": "🦘 Weekly Rewards",
       "DailyChallenges": "Эжедневные Вызовы",
       "WeeklyChallenges": "Эженедельные Вызовы",
       "EndsIn": "Эвент заканчивается через **{{duration}}**"
