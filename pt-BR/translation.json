@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
     "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
     "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "🦘 Event Rank",

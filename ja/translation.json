@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "{{number}}個のシーズンの挑戦が可能です。",
     "SieveBegins": "**{{duration}}**後に「ふるい」が始まります",
     "SieveAvailable": "次の「ふるい」は**{{duration}}**に始まります",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "イベントランク",

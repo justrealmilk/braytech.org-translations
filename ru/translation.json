@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "{{number}} Сезонных Вызовов Доступно",
     "SieveBegins": "🦘 The Sieve начнётся через **{{duration}}**",
     "SieveAvailable": "🦘 The Sieve доступна для **{{duration}}**",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Ранг Эвента",

@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "{{number}} défis saisonniers disponibles",
     "SieveBegins": "Le Tamis commence dans **{{duration}}**",
     "SieveAvailable": "Le Tamis est disponible pour les **{{duration}}** à venir",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Rang d'événement",

@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "{{number}} desafíos de temporada disponibles",
     "SieveBegins": "El Tamiz comienza en **{{duration}}**",
     "SieveAvailable": "El Tamiz está disponible por los próximos **{{duration}}**",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "Rango del evento",

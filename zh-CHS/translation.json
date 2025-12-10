@@ -1650,6 +1650,7 @@
     "SeasonalChallengesAvailable": "{{number}} 个赛季挑战可用",
     "SieveBegins": "滤网将在**{{duration}}**后开放。",
     "SieveAvailable": "滤网在接下来的**{{duration}}**内保持开放。",
+    "VanguardAlert": "🦘 Vanguard Alert",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "事件等级",
