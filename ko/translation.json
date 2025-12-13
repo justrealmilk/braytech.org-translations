@@ -80,9 +80,9 @@
     "ViewMore": "더 보기"
   },
   "Activity": {
-    "ActiveRotator": "🦘 Active Rotator",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
-    "Difficulty": "🦘 Difficulty",
+    "ActiveRotator": "활성 로테이션",
+    "BookmarksSync": "Voluspa를 사용하여 기기 간 북마크를 동기화합니다.",
+    "Difficulty": "난이도",
     "Fireteam": {
       "Closed": "비공개 화력팀",
       "Full": "화력팀 정원초과",
@@ -103,10 +103,10 @@
       "Name": "🦘 Select Character",
       "Description": "🦘 Select a specific character."
     },
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
-    "MatchmakingOn": "🦘 Matchmaking: On",
+    "FireteamSolo": "솔로 플레이어",
+    "FireteamPlayers3": "화력팀: 1-3인",
+    "FireteamPlayers6": "화력팀: 1-6인",
+    "MatchmakingOn": "매치메이킹: 활성화",
     "Modes": {
       "Lifetime": "전체 기간",
       "Line": {
@@ -121,17 +121,17 @@
       },
       "TrialsPassage": "시험 통행권"
     },
-    "Modifiers": "🦘 Modifiers",
+    "Modifiers": "모디파이어",
     "ModifiersUnavailable": "현재 사용 불가능한 조정 옵션",
     "NoMedalsAwarded": "수여된 메달 없음",
     "NoStatsAvailable": "통계 없음",
-    "Scoreboard": "🦘 Scoreboard",
-    "SelectMode": "🦘 Select Mode",
+    "Scoreboard": "점수판",
+    "SelectMode": "모드 선택",
     "SelectModeInfo": "특정 활동만 파고들고 싶다면, 상단의 인터페이스에서 모드를 선택하세요.",
     "SelectDateFromGraph": "상단의 그래프에서 활동을 진행한 날짜를 선택하세요.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
-    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
+    "SelectedDateFromGraph": "선택한 날짜에 플레이한 선택된 모드의 활동입니다.",
+    "SelectDateInfo": "아래에서 날짜를 선택하고 점프할 준비를 하세요",
+    "SelectDateWaiting": "안전벨트를 매세요—더 많은 활동을 플레이하고 더 멀리 점프할수록 더 오래 걸립니다!\\n\\nBungie의 API는 특정 기간의 활동 기록 요청을 지원하지 않아 전체 기록을 조회합니다.",
     "Standing": {
       "Defeat": "패배",
       "DidNotFinish": "🦘 Player did not finish",
@@ -156,14 +156,14 @@
       "RequestHistory": "활동 기록 분석중",
       "RequestHistoryPage": "🦘 Retrieving activity history volume {{page}}"
     },
-    "RewardScoreSummary": "🦘 Reward Score Summary",
+    "RewardScoreSummary": "보상 점수 요약",
     "Team": {
       "Allies": "아군 팀",
       "Alpha": "알파",
       "Bravo": "브라보",
       "Opposition": "적군 팀"
     },
-    "TeamScore": "🦘 Team Score"
+    "TeamScore": "팀 점수"
   },
   "App": {
     "BungieError": "Bungie 오류",
@@ -196,26 +196,26 @@
       "Name": "🦘 Authentication Reset"
     },
     "Version": "버전",
-    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
+    "Updated": "Braytech가 최신 버전으로 업데이트되었습니다! 자세한 내용은 변경 로그를 확인하세요. 탭하여 확인하세요!",
     "TemporaryError": "일시적인 Bungie 오류가 발생했습니다.",
-    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
-    "MilestonesError": "🦘 Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
-    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
+    "MemberServiceInactive": "비활동 상태로 인해 프로필 데이터의 백그라운드 새로고침이 일시중지되었습니다.\\n\\n앱과 상호작용하면 서비스가 다시 활성화됩니다.",
+    "WindowSize": "이 환경은 더 큰 창에서 가장 잘 작동합니다. 창을 크게 만들어 주세요.",
+    "MilestonesError": "마일스톤 데이터 로드에 실패했습니다. Bungie의 API에 가용성 문제가 있을 수 있습니다.",
+    "APIIssue": "알려진 [Bungie API 문제]({{url}})로 인해 현재 Braytech가 이를 올바르게 표시할 수 없습니다."
   },
   "Auth": {
     "Login": "Bungie.net 으로 로그인",
-    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
-    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
-    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
-    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "DeleteAuth": "기기에 저장된 인증 데이터를 삭제합니다. 필요하지 않지만 마음의 평화를 위해 제공되는 기능입니다.",
+    "SuggestionShort": "Bungie.net으로 인증하여 프로필을 로드하고 다양한 기능을 잠금 해제하세요.",
+    "SuggestionLong": "Braytech의 대부분 기능은 모든 사용자가 사용할 수 있으며 공개 데이터에 의존하지만, Destiny의 일부 기능은 더 명확한 접근 권한이 필요하며 Bungie.net으로 인증하여 Braytech에 권한을 부여할 수 있습니다.",
+    "MembershipsInfo": "현재 Bungie.net 프로필과 연결된 멤버십입니다.",
     "Friends": {
       "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
     },
     "Dresstiny": {
       "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
     },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
+    "SubscriptionFeature": "구독 기능입니다. 일부 기능은 구독자 지원으로만 제공됩니다. [자세히 알아보기](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
         "Description": "일반적으로, 개인정보를 보호하기 위해 Braytech의 몇몇 기능을 사용하려면 사용자의 허가가 필요합니다.\n\n이 기능을 사용하려면 Bungie에게 승인한다고 알려주세요. 개인 정보는 공유되지 않으며 더 많은 API 끝부분을 사용할 수 있도록 해주는 인증 코드만 공유됩니다.",
@@ -236,13 +236,13 @@
     "Compare": {
       "ObtainFromVendor": "🦘 Obtain From {{name}}"
     },
-    "ActualLight": "🦘 Actual Light",
-    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
-    "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "🦘 enter item name",
-    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
+    "ActualLight": "실제 전투력",
+    "Auth": "장비를 관리하려면 [Bungie.net으로 인증]({{url}})하세요.",
+    "DiffProfile": "다른 사람의 프로필을 보고 있습니다. 볼 수는 있지만 뭔가를 눌렀을 때, 결과를 기대하지 마세요!",
+    "Placeholder": "아이템 이름 입력",
+    "WorldDropsNeeded": "**{{light}}**에 도달할 때까지 월드 드랍을 획득하여 더 큰 잠재력을 가진 드랍을 낭비하지 마세요.",
+    "PowerfulDropsNeeded": "**{{light}}**에 도달하려면 강력한 장비를 보상하는 활동에 참여하세요.",
+    "PinnacleDropsNeeded": "최고급 장비 획득 중입니다. 가장 도전적인 활동을 완료하여 **{{light}}**에 도달하세요."
   },
   "Clan": {
     "BannerPerks": "배너 효과",
@@ -256,8 +256,8 @@
       "EmblemForegroundColor": "문양 주 색상",
       "Name": "클랜 배너 생성기"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "군기",
+    "ClanAbout": "소개",
     "Exotics": {
       "Options": {
         "WorldDrops": {
@@ -280,13 +280,13 @@
     },
     "Founded": "생성일: {{time}} ",
     "Members": "{{number}}명",
-    "MembersLoading": "🦘 Loading {{name}} members",
+    "MembersLoading": "{{name}} 멤버 로딩 중",
     "NoClan": {
       "Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 [Bungie.net](https://bungie.net/) 에서 직접 클랜을 만들 수 있습니다.",
       "Name": "소속된 클랜 없음"
     },
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
+    "Progression": "클랜 레벨이 오르면 모든 멤버에게 클랜 깃발 특전이 잠금 해제됩니다. 시스템 전체의 활동을 완료하여 클랜 레벨을 올리세요.",
+    "RitualRewards": "클랜으로서 의식 활동을 완료하여 모든 멤버를 위해 수라야 호손의 인그램을 잠금 해제하세요.",
     "Relationships": {
       "BestFriends": "베프",
       "RomanticPartnerships": "연인",
@@ -314,7 +314,7 @@
         }
       }
     },
-    "SortMembers": "🦘 Sort Members"
+    "SortMembers": "멤버 정렬"
   },
   "Collections": {
     "AllAcquired": "모두 획득함",
@@ -328,15 +328,15 @@
       "Completed": "배지 완료",
       "Progress": "배지 진행도"
     },
-    "CollectedBy": "🦘 Collected",
+    "CollectedBy": "수집함",
     "Collectible": "Collectible",
-    "Collectible_plural": "🦘 Collectibles",
-    "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them",
-    "CollectiblesUnavailable": "🦘 There are no collectibles available for display",
-    "Discovered": "🦘 Discovered",
-    "Undiscovered": "🦘 Undiscovered",
-    "CatalystIncomplete": "🦘 Catalyst Incomplete",
-    "CatalystCompleted": "🦘 Catalyst Completed",
+    "Collectible_plural": "수집품",
+    "CollectiblesAcquired": "모든 수집품을 획득하였으나 숨겨진 상태입니다",
+    "CollectiblesUnavailable": "표시할 수집품이 없습니다",
+    "Discovered": "발견됨",
+    "Undiscovered": "미발견",
+    "CatalystIncomplete": "촉매 미완료",
+    "CatalystCompleted": "촉매 완료",
     "Grouped": {
       "Season": "🦘 Group by Season",
       "Ungroup": "🦘 Ungroup"
@@ -348,13 +348,13 @@
       }
     },
     "RecentlyDiscovered": "최근 발견",
-    "SetComplete": "🦘 Set complete",
+    "SetComplete": "세트 완료",
     "SomeAcquiredSomeInvisible": "일부 획득, {{invisible}} 숨겨짐",
-    "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync).",
-    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
+    "Encounter": "교전",
+    "AnyEncounter": "모든 교전",
+    "FinalEncounter": "최종 교전",
+    "StashFavourites": "즐겨찾는 모든 수집품을 여기에 보관하세요!\\n\\n[설정](/settings#sync)에서 동기화를 활성화하여 수집품을 동기화할 수 있습니다.",
+    "EververseGambling": "성공적인 예측은 패턴 매칭(존재하는 경우)과 매니페스트 콘텐츠에 의존합니다. 예측이 보이지 않으면 사용할 수 없습니다."
   },
   "Commendations": {
     "Received": "받음",
@@ -560,9 +560,9 @@
     "XP": "{{number}} 경험치"
   },
   "Dresstiny": {
-    "Fit": "🦘 Fit",
-    "Fit_plural": "🦘 Fits",
-    "Popular": "🦘 Popular",
+    "Fit": "코디",
+    "Fit_plural": "코디",
+    "Popular": "인기",
     "CreateFit": {
       "Name": "🦘 Create",
       "Description": "🦘 Create a new fit based on your equipment or fantasy."
@@ -638,66 +638,66 @@
   "Item": {
     "Ammo": "탄약",
     "AmmoType": "사용 탄약",
-    "Armor": "🦘 Armor",
-    "ArmorSetBonus": "🦘 Armor Set Bonus",
-    "ArmorSetBonusRequired2": "🦘 Requires 2 set pieces to be equipped",
-    "ArmorSetBonusRequired4": "🦘 Requires 4 set pieces to be equipped",
+    "Armor": "방어구",
+    "ArmorSetBonus": "방어구 세트 보너스",
+    "ArmorSetBonusRequired2": "2개의 세트 장비 착용 필요",
+    "ArmorSetBonusRequired4": "4개의 세트 장비 착용 필요",
     "ArmorStats": "방어구 스텟",
-    "Appearance": "🦘 Appearance",
+    "Appearance": "외형",
     "BasicCharacteristics": "기본 속성",
-    "Breaker": "🦘 Breaker",
+    "Breaker": "파괴자",
     "BreakerType": "대 용사 속성",
-    "ClassEquipped": "🦘 {{name}} (Equipped)",
-    "ClassPostmaster": "🦘 {{name}} (Postmaster)",
-    "ClassType": "🦘 Class Type",
+    "ClassEquipped": "{{name}} (착용 중)",
+    "ClassPostmaster": "{{name}} (우편함)",
+    "ClassType": "직업 유형",
     "CollectionsRoll": "수집품 스텟",
-    "CumulativeStats": "🦘 Cumulative Stats",
-    "CurrentlyEquipped": "🦘 Currently Equipped",
-    "DamageType": "🦘 Damage Type",
-    "Dupes": "🦘 Dupes",
-    "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
-    "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
+    "CumulativeStats": "누적 능력치",
+    "CurrentlyEquipped": "현재 착용 중",
+    "DamageType": "피해 유형",
+    "Dupes": "중복",
+    "CouldntFindItemForUnequip": "{{name}}을(를) 대신할 아이템이 해당 캐릭터에서 발견되지 않았습니다.",
+    "CraftingRequiredLevel": "무기 레벨 {{number}} 필요",
     "CurrentlyCantRoll": "이 속성은 해당 무기에서 나오지 않습니다.",
-    "Energy": "🦘 Energy",
+    "Energy": "에너지",
     "EnergyAffinity": "에너지 속성",
     "EnergyCapacity": "에너지",
     "EnergyCost": "에너지 비용",
-    "EnergyMeter": "🦘 Energy",
+    "EnergyMeter": "에너지",
     "EnergyUnused": "미사용 에너지",
-    "History": "🦘 Item History",
-    "Holofoil": "🦘 Holofoil",
+    "History": "아이템 기록",
+    "Holofoil": "홀로포일",
     "Inspect": "조사",
     "Intrinsic": "본질",
-    "ItemAction": "🦘 Item Action",
-    "Locked": "🦘 Locked",
+    "ItemAction": "아이템 행동",
+    "Locked": "잠김",
     "Mods": "개조 부품",
-    "Marked": "🦘 Marked",
-    "PatternUnlockProgress": "🦘 Pattern unlock progress",
+    "Marked": "표시됨",
+    "PatternUnlockProgress": "패턴 잠금 해제 진행도",
     "PerkEverything": "이 속성은 모든 활동에서 선호되고 있습니다.",
     "PerkPvE": "이 속성은 선봉대 활동에서 선호되고 있습니다.",
     "PerkPvP": "이 속성은 시련의 장 활동에서 선호되고 있습니다.",
     "PerkRecommended": "이 속성을 추천합니다.",
     "Perks": "특성",
     "PowerLimit": "전투력 제한",
-    "RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}}) to unlock this emblem.",
-    "Shaped": "🦘 Shaped",
+    "RedeemWithCode": "[https://www.bungie.net/redeem](https://www.bungie.net/redeem?token={{code}})에서 코드 `{{code}}`를 사용하여 이 문양을 잠금 해제하세요.",
+    "Shaped": "제작됨",
     "ShapedDate": "제작일 {{date}}",
     "StatTotal": "총",
-    "State": "🦘 State",
+    "State": "상태",
     "Stats": "능력치",
-    "Subclass": "🦘 Subclass",
+    "Subclass": "하위 직업",
     "Sunset": "시즌 전투력 상한선",
     "TransferMaximumStack": "{{name}}는/은 한번에 최대 {{size}}개를 소지할 수 있습니다. 먼저 조금 사용하신 뒤 다시 시도.",
-    "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
-    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Weapons": "🦘 Weapons",
+    "UndiscoveredCollectibleVendor": "이 아이템을 획득하여 수집품에 추가하세요",
+    "Uninstanced": "이 아이템은 수집품에 표시되는 것처럼 인스턴스 데이터 없이 표시됩니다.",
+    "Weapons": "무기",
     "WeaponKills": "무기로 처치",
     "WeaponStats": "최대 사용 가능한 시즌",
-    "Tier": "🦘 Tier"
+    "Tier": "등급"
   },
   "Landing": {
     "FeaturedThisWeek": "이번 주",
-    "CallToAction": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness",
+    "CallToAction": "Braytech를 통해 Destiny를 탐험하여 어둠의 세력과의 전투에 대한 달콤한 보상과 통찰을 얻으세요",
     "Features": {
       "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
       "Name": "🦘 Braytech"
@@ -707,8 +707,8 @@
       "Name": "🦘 Are you a fan? Show your support",
       "Action": "🦘 Become a Supporter"
     },
-    "Polls": "🦘 Polls",
-    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
+    "Polls": "투표",
+    "PollsChannel": "[Discord](https://discord.bray.tech)에서 대화에 참여하고 Braytech 개선 방법에 투표하세요.",
     "Updates": "업데이트 내역",
     "Blog": {
       "AllPosts": "모든 게시글",
@@ -738,27 +738,27 @@
     }
   },
   "Leaderboards": {
-    "Rank": "🦘 Rank",
-    "Global": "🦘 Global",
-    "Active": "🦘 Active",
-    "Title": "🦘 Title",
-    "Gild": "🦘 Gild",
-    "Legacy": "🦘 Legacy",
-    "Triumph": "🦘 Triumph",
-    "Collection": "🦘 Collection",
-    "ActiveScore": "🦘 Active Score",
-    "TitleScore": "🦘 Title Score",
-    "GildScore": "🦘 Gild Score",
-    "LegacyScore": "🦘 Legacy Score",
-    "TriumphScore": "🦘 Triumph Score",
-    "CollectionScore": "🦘 Collections Score",
-    "ProfileLastUpdated": "🦘 Profile last updated",
-    "LeaderboardsLastUpdated": "🦘 Leaderboards last updated",
-    "RequestUpdate": "🦘 As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "NoDifference": "🦘 No Difference",
+    "Rank": "순위",
+    "Global": "전체",
+    "Active": "활성",
+    "Title": "칭호",
+    "Gild": "금박",
+    "Legacy": "유산",
+    "Triumph": "도전과제",
+    "Collection": "수집품",
+    "ActiveScore": "활성 점수",
+    "TitleScore": "칭호 점수",
+    "GildScore": "금박 점수",
+    "LegacyScore": "유산 점수",
+    "TriumphScore": "도전과제 점수",
+    "CollectionScore": "수집품 점수",
+    "ProfileLastUpdated": "프로필 마지막 업데이트",
+    "LeaderboardsLastUpdated": "리더보드 마지막 업데이트",
+    "RequestUpdate": "구독자로서 모든 리더보드가 업데이트되기 전에 프로필을 즉시 업데이트하도록 요청할 수 있습니다.",
+    "Unranked": "이 리더보드는 새로운 데이터로 순위를 매기는 중입니다. 몇 분 후에 준비됩니다.",
+    "UnrankedMember": "이 플레이어는 아직 순위가 매겨지지 않았습니다. 대기열에 추가되었습니다.",
+    "UnrankedGroup": "이 클랜의 누구도 아직 순위가 매겨지지 않았습니다.",
+    "NoDifference": "차이 없음",
     "ActiveProfile": {
       "Name": "🦘 You",
       "Description": "🦘 Select a profile to use with Braytech and see your ranks."
@@ -889,7 +889,7 @@
       "StoreManifest": "Manifest 데이터 저장중"
     },
     "WaitingForBungie": "Bungie 기다리는 중",
-    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
+    "WaitingForVoluspa": "Voluspa 대기 중"
   },
   "Maps": {
     "Context": {
@@ -968,7 +968,7 @@
       "Success": "🦘 A link has been copied to your clipboard."
     },
     "NthMore": "외 {{number}}건",
-    "NthRemaining": "🦘 {{number}} others",
+    "NthRemaining": "외 {{number}}개",
     "PostmasterCapacityWarning": {
       "DescriptionAlmostFull": "우편함이 거의 가득찼습니다. 아이템을 회수하지 않으면, 완전히 잃어버리게 됩니다!",
       "DescriptionFull": "우편함이 완전히 가득찼습니다. 아이템을 회수하지 않으면, 완전히 잃어버리게 됩니다!",
@@ -986,7 +986,7 @@
   "ProfileSearch": {
     "ActiveProfile": "활성화된 프로필",
     "ChangeProfile": "프로필 변경",
-    "CrossSaveProfile": "🦘 This player has enabled Cross Save.",
+    "CrossSaveProfile": "이 플레이어는 크로스 세이브를 활성화했습니다.",
     "Error": {
       "Network": {
         "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
@@ -1015,10 +1015,10 @@
         "Name": "🦘 No Characters"
       }
     },
-    "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
-    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
-    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
-    "NewLight": "🦘 New Light",
+    "GetStarted": "처음 방문하신 것 같습니다! **인증**을 탭하고 Bungie.net에 로그인하여 시작하거나 Bungie 이름을 검색하여 프로필을 수동으로 로드할 수 있습니다!",
+    "Authenticate": "Bungie.net으로 안전하게 인증하여 프로필을 로드하고 인벤토리 관리와 같은 프로필 작업을 활성화하며 다양한 기능을 잠금 해제하세요.",
+    "RemoveHistory": "프로필을 우클릭하여 목록에서 제거하세요.",
+    "NewLight": "새로운 빛",
     "NoProfilesFound": "검색된 프로필 없음",
     "PreviousSearches": "지난 검색",
     "ReturnToAuthMembership": "{{displayName}}로 돌아가기",
@@ -1026,21 +1026,21 @@
     "SearchForPlayer": "플레이어 검색",
     "SearchPlaceholder": "게임태그 또는 SteamId64 입력",
     "SelectACharacter": "캐릭터 선택",
-    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
-    "ContentOwned": "🦘 This players owns the following content on the platform which they last played."
+    "ThirdPartyApps": "파트너 앱에서 이 플레이어의 프로필을 확인하세요.",
+    "ContentOwned": "이 플레이어는 마지막으로 플레이한 플랫폼에서 다음 콘텐츠를 소유하고 있습니다."
   },
   "Progression": {
-    "Points": "🦘 Points",
+    "Points": "포인트",
     "PointsNextRank": "다음 등급까지 남은 점수",
     "PointsTotal": "총합 점수",
-    "PrestigeNth": "🦘 Prestige {{number}}",
-    "ResetsNth": "🦘 1 Reset",
-    "ResetsNth_plural": "🦘 {{number}} Resets",
-    "Rank": "🦘 Rank",
+    "PrestigeNth": "위세 {{number}}",
+    "ResetsNth": "1회 초기화",
+    "ResetsNth_plural": "{{number}}회 초기화",
+    "Rank": "등급",
     "RankNth": "{{number}}등급",
     "ResetVendor": "NPC에게 돌아가 등급을 초기화하세요.",
     "Streak": "연승 및 연패",
-    "Title": "🦘 Title",
+    "Title": "칭호",
     "TrialsPassage": {
       "Flawless": "무결점",
       "FlawlessPassage": "무결점 통행권",
@@ -1049,15 +1049,15 @@
     }
   },
   "Quests": {
-    "NoBounties": "🦘 Bounties you acquire will appear here.",
-    "NoQuests": "🦘 Quests you acquire will appear here.",
-    "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps",
-    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
-    "ExperienceNeeded": "🦘 Experience needed for next rank.",
-    "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses",
-    "SuggestedPath": "🦘 Suggested Path",
+    "NoBounties": "획득한 현상금이 여기에 표시됩니다.",
+    "NoQuests": "획득한 퀘스트가 여기에 표시됩니다.",
+    "Rewards": "퀘스트 보상",
+    "Steps": "퀘스트 단계",
+    "ProjectedRanks": "완료한 현상금의 가치는 획득 시 위의 시즌 패스 등급과 동일합니다.",
+    "ExperienceNeeded": "다음 등급까지 필요한 경험치.",
+    "BountiesValue": "완료한 현상금의 가치.",
+    "XPBonuses": "보너스",
+    "SuggestedPath": "추천 경로",
     "Sorted": {
       "Completion": "🦘 Sorted by **Completion**",
       "Name": "🦘 Sorted by **Name**",
@@ -1090,8 +1090,8 @@
       "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
     },
     "ShortcutKey": "어디서나  을 눌러 검색 기능을 사용하세요.",
-    "Suggestions": "🦘 Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nResults are prioritised by name, source, and description.",
-    "VanguardArchives": "🦘 Welcome to the Vanguard archives."
+    "Suggestions": "검색은 접두사로 필터를 지원합니다. 매니페스트 식별자로도 검색할 수 있습니다. 예를 들어 게임 최고의 무기 `564802913`.\\n\\n결과는 이름, 출처, 설명 순으로 우선순위가 지정됩니다.",
+    "VanguardArchives": "선봉대 기록보관소에 오신 것을 환영합니다."
   },
   "SeasonPass": {
     "ProgressPassLevel": "시즌 등급 진행 상황",
@@ -1499,9 +1499,9 @@
   "Triumphs": {
     "AllCompleted": "모두 완료했습니다.",
     "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
+    "NearTriumphs": "거의 달성됨",
+    "NearLimit": "성능상의 이유로 {{number}}개 도전과제만 표시됩니다.",
+    "NearTotal": "**{{number}}**개의 도전과제가 남아있습니다.",
     "PartiallyComplete": "🦘 {{number}} Partially Completed",
     "Classified": {
       "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",
