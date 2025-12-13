@@ -134,12 +134,12 @@
     "SelectDateWaiting": "안전벨트를 매세요—더 많은 활동을 플레이하고 더 멀리 점프할수록 더 오래 걸립니다!\\n\\nBungie의 API는 특정 기간의 활동 기록 요청을 지원하지 않아 전체 기록을 조회합니다.",
     "Standing": {
       "Defeat": "패배",
-      "DidNotFinish": "🦘 Player did not finish",
-      "Mercy": "🦘 Mercy",
-      "Tie": "🦘 Tie",
+      "DidNotFinish": "완료하지 않음",
+      "Mercy": "자비",
+      "Tie": "동점",
       "Victory": "승리",
-      "ObjectiveFailed": "🦘 Objective Failed",
-      "Failure": "🦘 Failure"
+      "ObjectiveFailed": "목표 실패",
+      "Failure": "실패"
     },
     "State": {
       "ActivityHistoryError": "활동 기록을 불러오는 중 문제가 발생했습니다. 다시 시도해주세요.",
@@ -149,12 +149,12 @@
       "GenericError": "문제가 발생했습니다. 다시 시도해주세요.",
       "HydratingReportsCache": "보고서 자료를 장치의 저장소에서 메모리로 불러오는 중입니다.",
       "LoadGroupMembers": "클랜 및 활동 역사 분석 중",
-      "LoadingPeriod": "🦘 Scanning... {{date}}",
+      "LoadingPeriod": "스캔 중... {{date}}",
       "NoBookmarks": "아직 북마크를 추가하지 않았습니다!\n\n_설정_ 에서 동기화를 활성화해 북마크를 동기화할 수 있습니다.",
-      "NoHistoryAvailable": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
-      "PeriodNotFound": "🦘 The requested period could not be found in this character's activity history.",
+      "NoHistoryAvailable": "화력팀을 찾아 여행자의 적들을 무찌르는 영광을 노려보세요.",
+      "PeriodNotFound": "요청한 기간이 이 캐릭터의 활동 기록에 없습니다.",
       "RequestHistory": "활동 기록 분석중",
-      "RequestHistoryPage": "🦘 Retrieving activity history volume {{page}}"
+      "RequestHistoryPage": "활동 기록 {{page}}번째 불러오는 중"
     },
     "RewardScoreSummary": "보상 점수 요약",
     "Team": {
@@ -756,83 +756,83 @@
     "UnrankedGroup": "이 클랜의 누구도 아직 순위가 매겨지지 않았습니다.",
     "NoDifference": "차이 없음",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "당신",
+      "Description": "Braytech에서 사용할 프로필을 선택하고 순위를 확인하세요."
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "클랜 찾기",
+      "Description": "클랜을 검색하여 멤버들의 순위를 확인하세요."
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "수호자 찾기",
+      "Description": "친구나 상대를 검색하여 순위를 비교하세요."
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "비교",
+      "Description": "**{{a}}**는 가지고 있지만 **{{b}}**는 가지지 않은 도전과제와 수집품입니다.\\n\\n이 비교는 실시간 데이터로 만들어지므로 현재 리더보드 순위와 다를 수 있습니다."
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "활성 점수 {{number}} 이상인 플레이어",
+      "MinCollectionScore": "수집품 점수 {{number}} 이상인 플레이어",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "등록된 플레이어",
+        "Info": "최신 확장팩 출시 이후 Destiny를 플레이한 플레이어만 순위가 매겨집니다."
       },
       "RankedDate": {
-        "Name": "🦘 Ranked date",
-        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
+        "Name": "마지막 업데이트",
+        "Info": "리더보드가 이 시간에 새로운 데이터로 마지막으로 생성되었습니다."
       },
-      "RarestTriumphs": "🦘 Rarest Triumphs",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestTriumphs": "희귀 도전과제",
+      "RarestCollectibles": "희귀 수집품"
     }
   },
   "Legend": {
     "Profile": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+      "Description": "당신에게 힘을 주는 것은 무엇인가? 빛과 어둠을 통해, 타이탄으로서 최전선을 방어하는가, 워록으로서 원거리에서 전군을 무너뜨리는가, 아니면 헌터로서 그림자 속에서 비겁하게 움직이는가?"
     },
     "Medals": {
-      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
-      "Name": "🦘 Medals"
+      "Description": "인정\\n\\n디지털 형태의 인정 표시인 메달은 다양한 기여와 성취를 기념합니다. 프로필에 자랑스럽게 표시되며, Destiny 커뮤니티 내에서의 참여, 지원, 성취를 강조합니다.",
+      "Name": "메달"
     },
     "Activity": {
-      "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
-      "Name": "🦘 First Risen"
+      "Description": "고스트의 수호자\\n\\n당신의 두 번째 삶이 여기서 시작됩니다. 당신은 고스트에 선택된 부활자이며, 빛과 어둠의 거대한 힘을 부여받았습니다.\\n\\n이것이 당신의 첫 발걸음입니다.",
+      "Name": "첫 부활"
     },
     "Dresstiny": {
-      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
-      "Name": "🦘 Dresstiny"
+      "Description": "멋진 패션\\n\\n어떤 사람들은 당신이 패션의 리더라고 하고, 어떤 사람들은 당신이 트렌드세터라고 합니다. 하지만 한 가지는 확실합니다: 당신은 아이템을 멋지게 입을 줄 압니다!\\n\\n이것이 진정한 최종 목표입니다: Dresstiny.",
+      "Name": "Dresstiny"
     },
     "Highlight": {
-      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
-      "Name": "🦘 Highlight"
+      "Description": "자랑과 기쁨\\n\\n그것은 트로피이자, 명예의 배지이며, 구별의 표시입니다. 당신이 친구와 가족에게 자랑하고 싶은 것입니다.\\n\\n이것이 당신이 알려지고 싶은 것입니다.",
+      "Name": "하이라이트"
     },
     "Ranks": {
-      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
-      "Name": "🦘 Guardian Standing"
+      "Description": "용맹함이 이끄는 별들로의 길\\n\\n화력팀을 이끌어 어둠의 수하들에 대한 승리를 거두고, 시련의 장에서 서로 경쟁하여 샤크스 경의 표창을 받으세요.\\n\\n이것으로 이 시즌 당신을 평가합니다.",
+      "Name": "순위"
     },
     "Commonality": {
-      "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
-      "Name": "🦘 Rare Treasures & Exotic Style"
+      "Description": "승리를 거두고 보상을 받으세요\\n\\n여행자의 손길이 닿은 지구와 그 너머의 세계는 경이로운 기묘함과 신화 속 보물들을 품고 있습니다.\\n\\n그것을 쫓는 것이 재미죠.",
+      "Name": "희귀 보물 & 이국적인 스타일"
     },
     "Titles": {
-      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Triumph Titles"
+      "Description": "승리의 상징\\n\\n완벽주의자와 수집가의 궁극의 척도입니다. 자랑스럽게 착용하세요.",
+      "Name": "도전과제 칭호"
     },
     "Gambit": {
-      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
-      "Name": "🦘 Gambit"
+      "Description": "악명 높음\\n\\n오오, 누군가 모트를 모으고 블로커를 떨어뜨리기를 과녁 연습처럼 하고 있네요. 당신 수호자들은 정말 폭풍입니다—침략하고, 입금하고, 파도를 맞히기를 아주 쉽게 하네요.\\n\\n{{number}}번 승리했다고? 뭔가 특별하군요. 당신은 갬빗을 하는 게 아니라 당신이 갬빗입니다. 어둠도 주목하고 있을 겁니다.",
+      "Name": "갬빗"
     },
     "Crucible": {
-      "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
-      "Name": "🦘 Crucible"
+      "Description": "[비명을 지르는 소리]\\n\\n네! 이것이야말로... 시련의 장이 만들어진 진짜 이유입니다! 당신의 빛은 태양처럼 빛나 나약함을 불태웁니다! 이런 힘을 목격할 수 있어 정말 영광입니다! 이제 다시 뛰어드세요—진정한 전설이 뭔지 보여줘!",
+      "Name": "시련의 장"
     },
     "AggregateActivityStats": {
-      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
-      "Name": "🦘 Aggregate Activity Stats"
+      "Description": "누적 경험\\n\\n물론 당신은 \"신들\"을 격파했고, 어떤 경우에는 그들의 잔해로 무기를 만들었지만, 당신이 무심코 그들을 몇 번이나 죽였는지...",
+      "Name": "누적 활동 통계"
     },
     "Share": {
-      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
-      "Name": "🦘 Share"
+      "Description": "자랑하세요\\n\\n당신의 전설 링크를 공유하면 친구들과 공유할 수 있는 고유한 미리보기 이미지가 생성됩니다.\\n\\n이 이미지는 현재 프로필 데이터에서 생성되며 정기적으로 업데이트됩니다. 다만 일부 서비스는 잠시 캐시될 수 있습니다.",
+      "Name": "공유"
     }
   },
   "Loading": {
@@ -889,11 +889,11 @@
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
-      "ChecklistsAndMore": "🦘 Checklists + More",
-      "NoChecklistItems": "🦘 No items detected"
+      "Rotations": "로테이션",
+      "PublicEvents": "공개 이벤트",
+      "Next": "다음: {{next}}",
+      "ChecklistsAndMore": "체크리스트 + 더보기",
+      "NoChecklistItems": "감지된 항목 없음"
     },
     "Inspect": {
       "Instructions": "상세 설명",
@@ -915,8 +915,8 @@
         },
         "Name": "변경 제안"
       },
-      "AvailableEvery": "🦘 Available: every {{period}}",
-      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
+      "AvailableEvery": "사용 가능: 매 {{period}}마다",
+      "UntrackableChecklistItem": "추적 불가능한 체크리스트 항목",
       "RelatedVideo": "이 노드와 관련된 영상이 있습니다: {{url}}",
       "Vendor": {
         "NoSales": "재고 부족"
@@ -989,10 +989,10 @@
         "Name": "🦘 Network Error"
       },
       "Banned": {
-        "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
-        "Dickhead": "🦘 Dickhead.",
-        "Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
-        "Teabagging": "🦘 Player was observed engaging in behaviours that are not conducive of a friendly environment."
+        "Botting": "플레이어가 비활성 감지를 우회하는 자동 도구(봇)를 사용했네요.",
+        "Dickhead": "정말 못된 친구일세.",
+        "Hacking": "플레이어가 게임 규칙을 조작하는 외부 도구(핵)를 사용했네요.",
+        "Teabagging": "플레이어가 친화적인 환경을 해치는 행동을 했네요."
       },
       "CharacterMissing": {
         "Description": "해당 캐릭터를 불러올 수 없습니다. — 삭제되었을 수 있습니다.",
@@ -1505,12 +1505,12 @@
     },
     "Details": {
       "Completed": "완료함",
-      "FireteamLoading": "🦘 Loading fireteam members",
+      "FireteamLoading": "화력팀 멤버 로딩 중",
       "NoClanOrFireteam": "화력팀이나 클랜에 가입하여 당신의 동료 수호자들이 당신 옆에 어떻게 있는지 보세요!",
-      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
+      "LoadBungieFriends": "Bungie 친구 목록을 표시하시겠습니까? 몇 초 정도 걸립니다.",
       "NotCompleted": "완료하지 않음",
       "OpenView": "세부 정보",
-      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
+      "HasItem": "이 업적은 아이템과 연관되어 있습니다. 이 아이템의 [세부 정보]({{string}})를 확인할 수 있습니다."
     },
     "DudTriumphs": "무효",
     "EventCard": "이벤트 카드",
@@ -1523,7 +1523,7 @@
       "Expires": "{{season}} 시즌 종료와 함께 만료됩니다.",
       "IntervalFraction": "{{numerator}} / {{denominator}}",
       "Score": "이 업적에서 얻을 수 있는 점수입니다.",
-      "ScoreProgress": "🦘 The score value earned for this triumph."
+      "ScoreProgress": "이 업적에서 획득한 점수입니다."
     },
     "BraytechActiveScore": "Braytech가 산정한 활성 도전과제 점수는 {{number}}점입니다. 이 값은 획득 가능한 도전과제를 분석하여 계산됩니다.",
     "BraytechLegacyScore": "Braytech가 산정한 유산 도전과제 점수는 {{number}}점입니다. 이 값은 현재 API 데이터로 획득 가능한 도전과제를 분석하여 계산됩니다.",
@@ -1534,21 +1534,21 @@
     "Title": "칭호",
     "Title_plural": "칭호",
     "Titles": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
-      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
+      "AvailableTitle": "사용 가능한 칭호: **{{title}}**",
+      "CanBeGilded": "이 칭호는 금박 처리할 수 있습니다. 금박 칭호는 뛰어난 실력과 성취를 보여주지만 매 시즌마다 초기화됩니다.",
       "Commonality": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "🦘 Title Commonality"
+        "Description": "Voluspa에서 색인된 플레이어 중 이 칭호를 획득한 플레이어 비율입니다.",
+        "Name": "칭호 희소성"
       },
       "CommonalityGilded": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-        "Name": "🦘 Gilded Title Commonality"
+        "Description": "Voluspa에서 색인된 플레이어 중 이 칭호를 획득하고 금박 처리한 플레이어 비율입니다.",
+        "Name": "금박 칭호 희소성"
       },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "TitleCompleted": "🦘 Title Completed",
-      "TitleGilded": "🦘 Title Gilded",
-      "TitleGildedProgress": "🦘 Gilded Progress",
-      "TitleProgress": "🦘 Title Progress"
+      "PlayerTitle": "플레이어 칭호: **{{title}}**",
+      "TitleCompleted": "칭호 완료",
+      "TitleGilded": "칭호 금박 처리됨",
+      "TitleGildedProgress": "금박 진행도",
+      "TitleProgress": "칭호 진행도"
     },
     "Secret": {
       "Name": "비밀 업적",
@@ -1556,41 +1556,41 @@
     },
     "Sorted": {
       "Completion": "완성도 정렬",
-      "Name": "🦘 Sorted by **Name**",
+      "Name": "**이름**순 정렬",
       "Rarity": "희귀도 정렬",
       "Score": "점수 정렬",
       "Bungie": "번지 기준 정렬",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "User": "**사용자**순 정렬",
+      "None": "정렬 안 함"
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "점수 제공",
+        "Description": "완료 시 점수를 제공하는 업적만 표시합니다."
       },
       "MatchClass": {
-        "Name": "🦘 Match Class",
-        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
+        "Name": "직업 일치",
+        "Description": "선택한 캐릭터의 직업과 일치하는 직업 관련 업적만 표시합니다."
       },
       "Flatten": {
-        "Name": "🦘 Flatten",
-        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+        "Name": "평탄화",
+        "Description": "트리 스타일 보기 대신 평탄한 목록으로 표시합니다."
       },
       "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
-        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+        "Name": "완료된 항목 숨김",
+        "Description": "선택한 모든 멤버가 완료한 업적을 숨깁니다."
       },
       "ExpandAll": {
-        "Name": "🦘 Expand All",
-        "Description": "🦘 Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
+        "Name": "모두 펼치기",
+        "Description": "모든 노드를 펼쳐 당신의 거대한 업적의 영광함에 압도되어보세요."
       },
       "CollapseAll": {
-        "Name": "🦘 Collapse All",
-        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
+        "Name": "모두 접기",
+        "Description": "모든 노드를 접어 자신의 속도로 탐색해보세요."
       },
       "RootNode": {
-        "Name": "🦘 Root Node",
-        "Description": "🦘 Select a root node to explore."
+        "Name": "루트 노드",
+        "Description": "탐색할 루트 노드를 선택하세요."
       }
     },
     "NoTrackedRecords": "추적중인 업적이 없습니다!",
@@ -1649,16 +1649,16 @@
     "SieveAvailable": "추출기가 앞으로 **{{duration}}** 동안 이용 가능합니다",
     "VanguardAlert": "선봉대 경보",
     "Event": {
-      "ActiveOrders": "🦘 Active Orders",
-      "EventRank": "🦘 Event Rank",
-      "WeeklyRank": "🦘 Weekly Rank",
-      "WeeklyRewards": "🦘 Weekly Rewards",
-      "DailyChallenges": "🦘 Daily Challenges",
-      "WeeklyChallenges": "🦘 Weekly Challenges",
-      "EndsIn": "🦘 Event ends in **{{duration}}**"
+      "ActiveOrders": "활성 명령",
+      "EventRank": "이벤트 순위",
+      "WeeklyRank": "주간 순위",
+      "WeeklyRewards": "주간 보상",
+      "DailyChallenges": "일일 도전",
+      "WeeklyChallenges": "주간 도전",
+      "EndsIn": "이벤트가 **{{duration}}** 후 종료됩니다"
     },
     "Waypoints": {
-      "NoWaypoints": "🦘 Voluspa couldn't think of any appropriate waypoints. Check back soon."
+      "NoWaypoints": "Voluspa가 적절한 웨이포인트를 찾을 수 없습니다. 나중에 다시 확인해주세요."
     }
   }
 }
