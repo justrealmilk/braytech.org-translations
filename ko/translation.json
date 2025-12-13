@@ -257,20 +257,20 @@
     "Exotics": {
       "Options": {
         "WorldDrops": {
-          "Description": "🦘 Display weapon world drops. There's a lot of them so they're hidden by default to improve rendering performance.",
-          "Name": "🦘 Weapon World Drops"
+          "Description": "무기 월드 드롭을 표시합니다. 렌더링 성능 향상을 위해 기본적으로 숨겨져 있습니다.",
+          "Name": "무기 월드 드롭"
         },
         "ArmorTitan": {
-          "Description": "🦘 Display Titan armor. Thick, strong stuff.",
-          "Name": "🦘 Titan Armor"
+          "Description": "타이탄 방어구를 표시합니다. 튼튼하고 견고한 것들이죠.",
+          "Name": "타이탄 방어구"
         },
         "ArmorHunter": {
-          "Description": "🦘 Display Hunter armor. Conniving.",
-          "Name": "🦘 Hunter Hunter"
+          "Description": "헌터 방어구를 표시합니다. 영리하죠.",
+          "Name": "헌터 방어구"
         },
         "ArmorWarlock": {
-          "Description": "🦘 Display Warlock armor. The best and most useful class.",
-          "Name": "🦘 Warlock Hunter"
+          "Description": "워록 방어구를 표시합니다. 최고이자 가장 유용한 직업이죠.",
+          "Name": "워록 방어구"
         }
       }
     },
@@ -286,15 +286,15 @@
     "Relationships": {
       "BestFriends": "베프",
       "RomanticPartnerships": "연인",
-      "UndiscoveredFriends": "🦘 Undiscovered Friends",
-      "DetailsGraph": "🦘 Displaying player activity history by date, with and without clan members.",
-      "DetailsTable": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
-      "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
-      "NoFriends": "당신은 혼자가 아니에요 - 친구를 곧 사귈겁니다... 클랜원 친구 한명을 불러 같이 활동 몇개를 해보세요!",
-      "NoParters": "데이트 쉽다는거 거짓말이에요. 다시 전투에 임하세요 수호자!",
-      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "UndiscoveredFriends": "아직 만나지 못한 친구들",
+      "DetailsGraph": "플레이어의 활동 기록을 날짜별로 표시합니다. 클랜원 포함 여부를 선택할 수 있습니다.",
+      "DetailsTable": "플레이어가 플레이한 클랜원을 표시합니다. 활동 기록을 집계하고 참가자를 클랜 멤버십과 비교하여 확인합니다. 현재 시즌으로 제한됩니다.",
+      "NoEncounters": "선택한 기간 동안 공유된 활동이 없습니다.",
+      "NoFriends": "당신은 혼자가 아닙니다. 곧 친구를 사귀게 될 거예요... 클랜 친구를 초대해서 몇 가지 활동을 함께 해보세요!",
+      "NoParters": "누군가와 함께한다는 건 쉽지 않죠. 다시 뛰어드세요, 수호자!",
+      "SocialButterfly": "어디서나 볼 수 있네요! 이 시즌에 모두와 플레이했습니다.",
+      "TopFireteams": "상위 {{number}}개 화력팀 구성",
+      "TopFriends": "활동 플레이 횟수 상위 {{number}}명 친구",
       "Options": {
         "LimitCurrentSeason": {
           "Description": "🦘 Only load activities from the current season.",
@@ -560,54 +560,54 @@
     "Fit_plural": "코디",
     "Popular": "인기",
     "CreateFit": {
-      "Name": "🦘 Create",
-      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+      "Name": "생성",
+      "Description": "당신의 장비나 상상력을 바탕으로 새로운 코디를 만드세요."
     },
     "AlterFit": {
-      "Name": "🦘 Alter",
-      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+      "Name": "수정",
+      "Description": "기존 코디를 수정하고 끝마무리를 다듬으세요."
     },
     "Form": {
       "Loadout": {
-        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+        "Info": "코디를 만들기 전에 게임 내에서 장비를 조정하세요. API가 변경사항을 반영하는 데 시간이 걸릴 수 있습니다. _제출 전에 표시된 장비가 일치하는지 확인해주세요._ **최신 API 데이터 시각: {{time}}**"
       },
       "Overwrite": {
-        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
-        "Name": "🦘 Overwrite Equipment"
+        "Info": "저장된 장비 구성을 선택한 캐릭터의 현재 장비로 덮어쓰세요.",
+        "Name": "장비 덮어쓰기"
       },
       "Name": {
-        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "🦘 <name>"
+        "Info": "당신의 비할 데 없는 아름다움, 귀여움, 그리고 남다른 멋을 나타내는 독창적인 이름을 지어주세요.",
+        "Placeholder": "<이름>"
       },
       "Description": {
-        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "🦘 <description>"
+        "Info": "설명은 선택사항이며 256자 이하여야 합니다.",
+        "Placeholder": "<설명>"
       },
       "Screenshot": {
-        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
-        "Placeholder": "🦘 <screenshot>"
+        "Info": "- 스크린샷은 게임 내 **외형 커스터마이징** 화면에서 캡처해야 합니다.\\n- 최상의 결과를 위해 커서를 화면 중앙 아래에 배치하세요.\\n- _게임 설정에서 화면 밝기를 3으로 설정하세요._\\n- **이 지침을 벗어나면 코디 승인에 실패할 수 있습니다.**",
+        "Placeholder": "<스크린샷>"
       },
       "Url": {
-        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "🦘 <url> [optional]"
+        "Info": "Reddit r/DestinyFashion 게시물 링크를 포함하세요.",
+        "Placeholder": "<url> [선택사항]"
       }
     },
     "Stats": {
       "Total": {
-        "Info": "🦘 The length of this zesty lookbook.",
-        "Name": "🦘 Total"
+        "Info": "이 끝내주는 룩북의 규모입니다.",
+        "Name": "총합"
       },
       "Likes": {
-        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "🦘 Likes"
+        "Info": "코디가 \"확인\"된 횟수입니다. 사람들의 열정은 뜨겁습니다.",
+        "Name": "좋아요"
       },
       "Members": {
-        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "🦘 Members"
+        "Info": "이 트렌드세팅 패션 열풍의 핵심입니다. 모두가 트렌드세터입니다.",
+        "Name": "멤버"
       },
       "ClassDistribution": {
-        "Info": "🦘 It's a popularity contest–this is how it's won.",
-        "Name": "🦘 Class Distribution"
+        "Info": "인기도 경쟁입니다—이렇게 이기는 거죠.",
+        "Name": "직업 분포"
       }
     }
   },
@@ -1460,33 +1460,33 @@
     "Actions": {
       "Acquire": "획득",
       "Compare": "비교",
-      "Commonality": "🦘 Commonality",
-      "Delete": "🦘 Delete",
+      "Commonality": "희소성",
+      "Delete": "삭제",
       "Equip": "장착",
       "Favourite": "즐겨찾기",
-      "Garbage": "🦘 Garbage",
-      "Details": "🦘 Details",
+      "Garbage": "폐기",
+      "Details": "세부 정보",
       "Lock": "잠금",
-      "Lore": "🦘 Lore",
-      "NotGarbage": "🦘 Not Garbage",
-      "Overwrite": "🦘 Overwrite",
-      "Remove": "🦘 Remove",
-      "SaveNew": "🦘 Save New",
-      "Select": "🦘 Select",
-      "Show": "🦘 Show",
+      "Lore": "설정",
+      "NotGarbage": "폐기 안 함",
+      "Overwrite": "덮어쓰기",
+      "Remove": "제거",
+      "SaveNew": "새로 저장",
+      "Select": "선택",
+      "Show": "표시",
       "Store": "이동",
-      "Unfavourite": "🦘 Unfavourite",
+      "Unfavourite": "즐겨찾기 해제",
       "Unlock": "잠금 해제",
       "Vault": "보관",
-      "Track": "🦘 Track",
-      "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide",
-      "ShowMenu": "🦘 Show Menu",
-      "HideMenu": "🦘 Hide Menu"
+      "Track": "추적",
+      "Pin": "고정",
+      "Hide": "숨김",
+      "ShowMenu": "메뉴 표시",
+      "HideMenu": "메뉴 숨김"
     },
     "Item": {
       "ExpiresIn": "{{duration}} 후에 만료됩니다.",
-      "ItemMissing": "🦘 Item cannot be found.",
+      "ItemMissing": "아이템을 찾을 수 없습니다.",
       "NoDescription": "설명이 없습니다.",
       "Quantity": "수량",
       "QuantityMax": "최대"
