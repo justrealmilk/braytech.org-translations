@@ -335,6 +335,7 @@
     "CollectiblesUnavailable": "Il n'y a pas d'objets de collection disponibles pour l'affichage",
     "Discovered": "🦘 Discovered",
     "Undiscovered": "🦘 Undiscovered",
+    "CatalystIncomplete": "🦘 Catalyst Incomplete",
     "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "Grouper par Saison",

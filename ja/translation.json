@@ -335,6 +335,7 @@
     "CollectiblesUnavailable": "表示できるコレクションはありません",
     "Discovered": "🦘 Discovered",
     "Undiscovered": "🦘 Undiscovered",
+    "CatalystIncomplete": "🦘 Catalyst Incomplete",
     "CatalystCompleted": "🦘 Catalyst Completed",
     "Grouped": {
       "Season": "シーズン毎にグループ化",
