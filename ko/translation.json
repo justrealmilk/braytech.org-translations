@@ -150,7 +150,7 @@
       "HydratingReportsCache": "보고서 자료를 장치의 저장소에서 메모리로 불러오는 중입니다.",
       "LoadGroupMembers": "클랜 및 활동 역사 분석 중",
       "LoadingPeriod": "스캔 중... {{date}}",
-      "NoBookmarks": "아직 북마크를 추가하지 않았습니다!\n\n_설정_ 에서 동기화를 활성화해 북마크를 동기화할 수 있습니다.",
+      "NoBookmarks": "아직 북마크를 추가하지 않았습니다!\n\n[설정](/settings#sync)에서 동기화를 활성화해 북마크를 동기화할 수 있습니다.",
       "NoHistoryAvailable": "화력팀을 찾아 여행자의 적들을 무찌르는 영광을 노려보세요.",
       "PeriodNotFound": "요청한 기간이 이 캐릭터의 활동 기록에 없습니다.",
       "RequestHistory": "활동 기록 분석중",
@@ -275,8 +275,8 @@
       }
     },
     "Founded": "창립일: **{{time}}**",
-    "Members": "{{number}}명",
-    "MembersLoading": "{{name}} 멤버 로딩 중",
+    "Members": "**{{number}}**명",
+    "MembersLoading": "**{{name}}** 멤버 로딩 중",
     "NoClan": {
       "Description": "클랜은 온라인 게임을 더 즐겁게 할 수 있는 자유로운 친구 모임입니다. 당신의 클랜원들과 협력하여 협동 도전에 참여하거나 솔로 플레이에서 추가 보상을 받을 수 있습니다.\n\n친구의 클랜에 가입하거나, 새로운 친구를 만나거나, 컴페니언 앱 또는 [Bungie.net](https://bungie.net/) 에서 직접 클랜을 만들 수 있습니다.",
       "Name": "소속된 클랜 없음"
@@ -471,7 +471,7 @@
     "Map": "지도",
     "Medal_plural": "메달",
     "Member_plural": "멤버",
-    "MembersOnline": "{{number}}명 접속중",
+    "MembersOnline": "**{{number}}**명 접속중",
     "Meta": "메타",
     "Name": "이름",
     "NothingHereYet": "여긴 아직 아무것도 없어요.",
@@ -613,16 +613,16 @@
   },
   "GettingStarted": {
     "Header": {
-      "Description": "Braytech에 오신 것을 환영합니다! 시작하기 전에 당신에게 몇가지 팁을 알려줄게요.\n\n의견이나 질문이 있다면, Discord에서 채팅을 하거나 FAQ를 확인할 수 있어요!",
+      "Description": "Braytech에 오신 것을 환영합니다! 시작하기 전에 당신에게 몇가지 팁을 알려줄게요.\n\n의견이나 질문이 있다면, [Discord](https://discord.bray.tech)에서 채팅을 하거나 [FAQ](/addendums/faq)를 확인할 수 있어요!",
       "Name": "시작하기"
     },
     "Tips": {
       "Search": {
-        "Description": "빠르게 찾아야 할 것이 있나요? Braytech는 어느 곳에서든 검색 HUD를 제공합니다.\n\n 또는 돋보기 버튼을 눌러 검색을 시작해보세요!",
+        "Description": "빠르게 찾아야 할 것이 있나요? Braytech는 어느 곳에서든 검색 HUD를 제공합니다.\n\n****을 누르거나 ****을 탭하고 입력을 시작해보세요!",
         "Name": "검색"
       },
       "Settings": {
-        "Description": "Braytech는 다크 테마부터 아이템 가시성 설정, 설정 동기화까지 다양한 설정들로 가득차 있습니다.\n\n상단 모서리에서 _설정_ 을 찾아보세요.",
+        "Description": "Braytech는 다크 테마부터 아이템 가시성 설정, 설정 동기화까지 다양한 설정들로 가득차 있습니다.\n\n상단 모서리에서 ****을 찾아보세요.",
         "Name": "설정"
       },
       "Views": {
@@ -1165,7 +1165,7 @@
         "Name": "비밀 업적 숨김"
       },
       "HideUnobtainableRecords": {
-        "Description": "획득 불가능한 업적을 숨깁니다.",
+        "Description": "획득 불가능한 업적을 숨깁니다. 수동으로 관리되는 [목록](/triumphs/unobtainable)입니다.",
         "Name": "획득 불가능한 업적 숨김"
       }
     },
@@ -1496,7 +1496,7 @@
     "AllCompleted": "모두 완료했습니다.",
     "NonePartiallyComplete": "작업중인 업적이 없습니다. 업적을 고르고 작업을 시작하세요!",
     "NearTriumphs": "거의 달성됨",
-    "NearLimit": "성능상의 이유로 {{number}}개 도전과제만 표시됩니다.",
+    "NearLimit": "성능상의 이유로 **{{number}}**개 도전과제만 표시됩니다.",
     "NearTotal": "**{{number}}**개의 도전과제가 남아있습니다.",
     "PartiallyComplete": "{{number}}개 일부 완료됨",
     "Classified": {
@@ -1525,10 +1525,10 @@
       "Score": "이 업적에서 얻을 수 있는 점수입니다.",
       "ScoreProgress": "이 업적에서 획득한 점수입니다."
     },
-    "BraytechActiveScore": "Braytech가 산정한 활성 도전과제 점수는 {{number}}점입니다. 이 값은 획득 가능한 도전과제를 분석하여 계산됩니다.",
-    "BraytechLegacyScore": "Braytech가 산정한 유산 도전과제 점수는 {{number}}점입니다. 이 값은 현재 API 데이터로 획득 가능한 도전과제를 분석하여 계산됩니다.",
-    "BungieScore": "Bungie에 따르면 점수는 {{number}}점입니다. 제거되었거나 점수 값이 변경된 일부 도전과제가 반영되지 않아 부정확할 수 있습니다.",
-    "PotentialUnattainedScore": "수호자가 획득 가능한 점수는 {{number}}점입니다.",
+    "BraytechActiveScore": "Braytech가 산정한 활성 도전과제 점수는 **{{number}}**점입니다. 이 값은 획득 가능한 도전과제를 분석하여 계산됩니다.",
+    "BraytechLegacyScore": "Braytech가 산정한 유산 도전과제 점수는 **{{number}}**점입니다. 이 값은 현재 API 데이터로 획득 가능한 도전과제를 분석하여 계산됩니다.",
+    "BungieScore": "Bungie에 따르면 점수는 **{{number}}**점입니다. 제거되었거나 점수 값이 변경된 일부 도전과제가 반영되지 않아 부정확할 수 있습니다.",
+    "PotentialUnattainedScore": "수호자가 획득 가능한 점수는 **{{number}}**점입니다.",
     "RecordsRedeemed": "해당 기록을 모두 획득하고 숨김 처리하셨습니다.",
     "RecordsUnavailable": "표시할 수 있는 기록이 없습니다.",
     "Title": "칭호",
@@ -1555,11 +1555,11 @@
       "Description": "아직 풀지 못한 수수께끼입니다."
     },
     "Sorted": {
-      "Completion": "완성도 정렬",
+      "Completion": "**완료도**순 정렬",
       "Name": "**이름**순 정렬",
-      "Rarity": "희귀도 정렬",
-      "Score": "점수 정렬",
-      "Bungie": "번지 기준 정렬",
+      "Rarity": "**희귀도**순 정렬",
+      "Score": "**점수**순 정렬",
+      "Bungie": "**번지 기준**순 정렬",
       "User": "**사용자**순 정렬",
       "None": "정렬 안 함"
     },
@@ -1593,7 +1593,7 @@
         "Description": "탐색할 루트 노드를 선택하세요."
       }
     },
-    "NoTrackedRecords": "추적중인 업적이 없습니다!",
+    "NoTrackedRecords": "추적중인 업적이 없습니다! 녹색 마커를 상호작용하여 업적을 추적할 수 있습니다.\n\n[설정](/settings#sync)에서 동기화를 활성화해 업적을 동기화할 수 있습니다.",
     "NoHiddenRecords": "아직 숨긴 도전과제가 없습니다!\\n\\n[설정](/settings)에서 동기화를 활성화하여 도전과제를 동기화할 수 있습니다.",
     "TrackedTriumphs": "추적중인 업적",
     "Triumph": "도전과제",
@@ -1606,9 +1606,9 @@
   "Subscriptions": {
     "SupportBraytech": "Braytech 후원하기",
     "BuildBraytech": "Braytech 빌드하기",
-    "Info": "광고는 별로니까 안 씁니다만, 개발자도 밥은 먹어야 하거든요.",
+    "Info": "광고는 별로니까 안 씁니다만, 개발자도 밥은 먹어야 하거든요.\n\n광고 대신 Braytech는 여러분의 관대함에 의존합니다. 여러분의 지원이 앱을 계속 온라인으로 유지하고, 새로운 기능 작업을 가능하게 하며, 개발자가 살아있고 주거를 유지하게 합니다.\n\n[구독](/settings/subscriptions)을 확인하여 얻을 수 있는 혜택을 확인하세요!",
     "RewardSeraph": "**세라프** 훈장을 획득하세요. 전쟁지능과 그 자산을 보호하고 인류를 발전시키려는 헌신과 약속의 상징입니다.",
-    "RewardSubmind": "서브마인드 등급 후원자는 이 애니메이션 전쟁지능 울트라 훈장을 획득합니다.",
+    "RewardSubmind": "애니메이션 **전쟁지능** 골드 티어 훈장을 잠금 해제하세요. 모든 전쟁지능 훈장은 최소 7.00%의 전쟁지능 파편 먼지™를 포함하고 있습니다.",
     "Rewards": "Braytech Patreon을 구독하여 고유한 프로필 훈장을 획득하세요.",
     "Leaderboards": "리더보드요? 엄청 고됩니다. 머리도 아프고 돈도 많이 들어요. 데이터베이스 입문서까지 샀다니까요. 수집광이시라면 Braytech 프로필에 [희귀 훈장 하나](https://www.patreon.com/braytech) 어떠신가요?",
     "MemberLinkExample": "바로 _당신_도 이렇게 될 수 있습니다. 멤버 링크에 간지나는 훈장 달고 Braytech 지원자임을 과시하세요.\\n\\n_Braytech와 계열사는 클로비스 브레이 1세와 그 아류들의 만행을 절대 지지하지 않습니다._",
