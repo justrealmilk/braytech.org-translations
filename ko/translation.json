@@ -357,12 +357,12 @@
     "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
   },
   "Commendations": {
-    "Received": "🦘 Received",
-    "ReceivedAbr": "🦘 Recvd.",
-    "Sent": "🦘 Sent",
-    "SentAbr": "🦘 Sent",
-    "ScoreCardSend": "🦘 Send for **{{number}}** score",
-    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
+    "Received": "받음",
+    "ReceivedAbr": "받음",
+    "Sent": "보냄",
+    "SentAbr": "보냄",
+    "ScoreCardSend": "보낼 때 **{{number}}**점",
+    "ScoreCardReceived": "받을 때 **{{number}}**점"
   },
   "Common": {
     "Actions": "🦘 Actions",
@@ -630,8 +630,8 @@
         "Name": "설정"
       },
       "Views": {
-        "Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
-        "Name": "🦘 More"
+        "Description": "앱 상단의 ****를 선택하여 Braytech의 모든 기능을 한눈에 확인하세요!",
+        "Name": "더 보기"
       }
     }
   },
@@ -718,22 +718,22 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1미터",
       "MetresAbr_plural": "{{count}}미터",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": "{{count}}kg",
+      "WeightAbr_plural": "{{count}}kg"
     },
     "Time": {
       "Frequency": {
         "Daily": "일간",
         "Weekly": "주간",
-        "Monthly": "🦘 Monthly",
-        "Annually": "🦘 Annually"
+        "Monthly": "월간",
+        "Annually": "연간"
       },
       "Relative": {
         "Future": "{{duration}} 후",
         "Past": "{{duration}} 전",
-        "Updated": "🦘 Updated {{duration}}"
+        "Updated": "{{duration}} 전 업데이트됨"
       }
     }
   },
@@ -980,8 +980,8 @@
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "클랜을 찾을 수 없습니다",
+    "SearchPlaceholder": "정확한 클랜 이름 입력"
   },
   "ProfileSearch": {
     "ActiveProfile": "활성화된 프로필",
@@ -1067,8 +1067,8 @@
     }
   },
   "RewardHistory": {
-    "Name": "🦘 Reward History",
-    "Info": "🦘 Press to display session history."
+    "Name": "보상 내역",
+    "Info": "세션 기록을 보려면 누르세요"
   },
   "Search": {
     "Error": {
@@ -1623,7 +1623,7 @@
       "NoFunds": "재료가 충분하지 않습니다.",
       "NoInventorySpace": "공간이 부족합니다.",
       "UniquenessViolation": "한 번에 하나만 소지할 수 있습니다.",
-      "UnknownError": "🦘 Unknown error"
+      "UnknownError": "알 수 없는 오류"
     }
   },
   "Voluspa": {
