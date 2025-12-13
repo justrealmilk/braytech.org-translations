@@ -1364,15 +1364,15 @@
       }
     },
     "BraytechLegend": {
-      "Updated": "🦘 Your legend has been updated. ✨",
-      "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many perks including the ability to grab a custom username.",
-      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
-      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
-      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
-      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
+      "Updated": "당신의 전설이 업데이트되었습니다. ✨",
+      "Disabled": "당신의 전설이 비활성화되었습니다.",
+      "Info": "고유한 사용자명으로 프로필을 꾸미고 공유를 쉽게 하며, 프로필 공유 시 강조할 도전과제나 통계를 선택하고, 캐릭터 지정 없이 공유된 링크의 기본 캐릭터를 선택할 수 있습니다.\\n\\n[구독자](/settings/subscriptions)는 커스텀 사용자명을 획득할 수 있는 권한을 포함한 많은 혜택을 받습니다.",
+      "AuthRequired": "Bungie.net으로 인증하여 전설 설정을 변경할 수 있습니다.",
+      "SubscriptionRequired": "사용자명을 획득하고 다른 기능을 사용하려면 구독자여야 합니다. [Braytech 지원](/settings/subscriptions)",
+      "Username": "고유한 사용자명을 선택하거나 Bungie 이름으로 돌아갈 수 있습니다. 언제든지 변경할 수 있습니다.\\n\\n브랜딩 전문가 필요시 적당한 비용으로 제공됩니다.",
+      "UsernameSpecifications": "사용자명의 최대 길이는 127자입니다. 모든 문자(a-zA-Z0-9_ 해당)와 일부 이모지가 지원됩니다.",
+      "DefaultCharacter": "캐릭터 지정 없이 공유된 링크의 기본 캐릭터를 선택할 수 있습니다.\\n\\n예를 들어, https://bray.tech/@/{{username}} 링크를 공유하면 Braytech가 사용자에게 캐릭터를 선택하도록 요청합니다. 또는 선호하는 캐릭터를 선택할 수 있습니다.",
+      "ShareHighlight": "프로필이 공유될 때 당신을 위한 이미지가 생성됩니다. 자랑스러운 도전과제나 통계를 강조하도록 선택할 수 있습니다. 이것은 [전설](/legend) 보기에도 표시됩니다."
     },
     "Sync": {
       "Action": {
