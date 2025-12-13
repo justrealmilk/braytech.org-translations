@@ -1502,7 +1502,7 @@
     "NearTriumphs": "거의 달성됨",
     "NearLimit": "성능상의 이유로 {{number}}개 도전과제만 표시됩니다.",
     "NearTotal": "**{{number}}**개의 도전과제가 남아있습니다.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "PartiallyComplete": "{{number}}개 일부 완료됨",
     "Classified": {
       "Description": "이 업적은 기밀 처리되어 있으며 나중에 공개될 수 있습니다.",
       "Name": "기밀 업적"
@@ -1516,9 +1516,9 @@
       "OpenView": "세부 정보",
       "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
     },
-    "DudTriumphs": "🦘 Duds",
-    "EventCard": "🦘 Event Card",
-    "LegacyTitle_plural": "🦘 Legacy Titles",
+    "DudTriumphs": "무효",
+    "EventCard": "이벤트 카드",
+    "LegacyTitle_plural": "유산 칭호",
     "LegacyTriumph_plural": "유산 업적",
     "SelectEntry": "읽을 지식을 선택하세요.",
     "Record": {
@@ -1529,14 +1529,14 @@
       "Score": "이 업적에서 얻을 수 있는 점수입니다.",
       "ScoreProgress": "🦘 The score value earned for this triumph."
     },
-    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
-    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
-    "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
-    "RecordsUnavailable": "🦘 There are no records available for display.",
-    "Title": "🦘 Title",
-    "Title_plural": "🦘 Titles",
+    "BraytechActiveScore": "Braytech가 산정한 활성 도전과제 점수는 {{number}}점입니다. 이 값은 획득 가능한 도전과제를 분석하여 계산됩니다.",
+    "BraytechLegacyScore": "Braytech가 산정한 유산 도전과제 점수는 {{number}}점입니다. 이 값은 현재 API 데이터로 획득 가능한 도전과제를 분석하여 계산됩니다.",
+    "BungieScore": "Bungie에 따르면 점수는 {{number}}점입니다. 제거되었거나 점수 값이 변경된 일부 도전과제가 반영되지 않아 부정확할 수 있습니다.",
+    "PotentialUnattainedScore": "수호자가 획득 가능한 점수는 {{number}}점입니다.",
+    "RecordsRedeemed": "해당 기록을 모두 획득하고 숨김 처리하셨습니다.",
+    "RecordsUnavailable": "표시할 수 있는 기록이 없습니다.",
+    "Title": "칭호",
+    "Title_plural": "칭호",
     "Titles": {
       "AvailableTitle": "🦘 Available title: **{{title}}**",
       "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
@@ -1598,25 +1598,25 @@
       }
     },
     "NoTrackedRecords": "추적중인 업적이 없습니다!",
-    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
+    "NoHiddenRecords": "아직 숨긴 도전과제가 없습니다!\\n\\n[설정](/settings)에서 동기화를 활성화하여 도전과제를 동기화할 수 있습니다.",
     "TrackedTriumphs": "추적중인 업적",
-    "Triumph": "🦘 Triumph",
+    "Triumph": "도전과제",
     "Triumph_plural": "업적",
     "UnobtainableTriumphs": "획득 불가능",
     "UnredeemedTriumphs": "획득하지 않은 업적",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
-    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
+    "TrackedSync": "Voluspa로 추적 중인 도전과제를 기기 간 동기화합니다.",
+    "PinPresentationNodes": "프레젠테이션 노드를 우클릭하여 목록 상단에 고정할 수 있습니다."
   },
   "Subscriptions": {
-    "SupportBraytech": "🦘 Support Braytech",
-    "BuildBraytech": "🦘 Build Braytech",
-    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-    "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-    "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-    "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-    "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
-    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
-    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
+    "SupportBraytech": "Braytech 후원하기",
+    "BuildBraytech": "Braytech 빌드하기",
+    "Info": "광고는 별로니까 안 씁니다만, 개발자도 밥은 먹어야 하거든요.",
+    "RewardSeraph": "**세라프** 훈장을 획득하세요. 전쟁지능과 그 자산을 보호하고 인류를 발전시키려는 헌신과 약속의 상징입니다.",
+    "RewardSubmind": "서브마인드 등급 후원자는 이 애니메이션 전쟁지능 울트라 훈장을 획득합니다.",
+    "Rewards": "Braytech Patreon을 구독하여 고유한 프로필 훈장을 획득하세요.",
+    "Leaderboards": "리더보드요? 엄청 고됩니다. 머리도 아프고 돈도 많이 들어요. 데이터베이스 입문서까지 샀다니까요. 수집광이시라면 Braytech 프로필에 [희귀 훈장 하나](https://www.patreon.com/braytech) 어떠신가요?",
+    "MemberLinkExample": "바로 _당신_도 이렇게 될 수 있습니다. 멤버 링크에 간지나는 훈장 달고 Braytech 지원자임을 과시하세요.\\n\\n_Braytech와 계열사는 클로비스 브레이 1세와 그 아류들의 만행을 절대 지지하지 않습니다._",
+    "UpsellInfo": "후원을 통해 앱이 계속 돌아가게 하고, 새 기능이 추가되게 하고, 개발자의 목숨을 부지시킵니다!"
   },
   "Vendor": {
     "FailureStrings": {
@@ -1634,24 +1634,24 @@
     },
     "CollectedBy": "{{number}}명의 유저가 이것을 획득했습니다.",
     "Commonality": "희소성",
-    "Frequency": "🦘 Frequency",
+    "Frequency": "빈도",
     "CompletedBy": "{{number}}명의 유저가 이것을 완료했습니다.",
     "Crawled": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
-    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
+    "Assessed": "Voluspa가 현재 {{number}}명의 플레이어를 분석하고 있습니다.",
     "GraphType": {
       "Frequency": "🦘 Frequency",
       "TimeSeries": "🦘 Time Series"
     },
     "LastCrawled": "{{time}} 전 색인됨",
-    "ProfilesAssessed": "🦘 Profiles Assessed"
+    "ProfilesAssessed": "분석된 프로필"
   },
   "Operations": {
     "NoActivitiesAvailable": "참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
-    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
-    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
-    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
-    "VanguardAlert": "🦘 Vanguard Alert",
+    "NoActivitiesAvailableNoLicense": "필요한 확장팩을 소유하고 있지 않아 사용 가능한 활동이 없습니다.",
+    "SeasonalChallengesAvailable": "시즌 도전과제 {{number}}개 이용 가능",
+    "SieveBegins": "추출기가 **{{duration}}** 후 {{time}}에 시작됩니다",
+    "SieveAvailable": "추출기가 앞으로 **{{duration}}** 동안 이용 가능합니다",
+    "VanguardAlert": "선봉대 경보",
     "Event": {
       "ActiveOrders": "🦘 Active Orders",
       "EventRank": "🦘 Event Rank",
