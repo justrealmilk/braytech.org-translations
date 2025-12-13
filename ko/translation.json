@@ -152,7 +152,7 @@
       "LoadingPeriod": "스캔 중... {{date}}",
       "NoBookmarks": "아직 북마크를 추가하지 않았습니다!\n\n[설정](/settings#sync)에서 동기화를 활성화해 북마크를 동기화할 수 있습니다.",
       "NoHistoryAvailable": "화력팀을 찾아 여행자의 적들을 무찌르는 영광을 노려보세요.",
-      "PeriodNotFound": "요청한 기간이 이 캐릭터의 활동 기록에 없습니다.",
+      "PeriodNotFound": "해당 기간에 이 캐릭터의 활동 기록이 없습니다.",
       "RequestHistory": "활동 기록 분석중",
       "RequestHistoryPage": "활동 기록 {{page}}번째 불러오는 중"
     },
