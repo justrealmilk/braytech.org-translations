@@ -53,7 +53,7 @@
     "NextNth": "다음 {{number}}개",
     "SeeNextNth": "다음 {{number}}개 보기",
     "None": "없음",
-    "Now": "지금 ",
+    "Now": "지금",
     "Open": "열기",
     "Okay": "확인",
     "Previous": "이전",
@@ -62,7 +62,7 @@
     "ReloadAppAutomatically": "자동으로 앱 재시작하기",
     "RemoveBookmark": "북마크 제거",
     "Reset": "리셋",
-    "SelectDate": "날짜 ",
+    "SelectDate": "날짜 선택",
     "SelectMasterwork": "걸작 고르기",
     "SelectYourCharacter": "캐릭터 선택",
     "Set": "설정",
@@ -274,7 +274,7 @@
         }
       }
     },
-    "Founded": "생성일: {{time}} ",
+    "Founded": "창립일: **{{time}}**",
     "Members": "{{number}}명",
     "MembersLoading": "{{name}} 멤버 로딩 중",
     "NoClan": {
@@ -478,7 +478,7 @@
     "Objectives": "진척도",
     "Offline": "오프라인",
     "Patreon": "Patreon",
-    "Patron_plural": "Patrons",
+    "Patron_plural": "후원자",
     "Power": "전투력",
     "Platform": "플랫폼",
     "Player": "플레이어",
