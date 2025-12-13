@@ -1098,7 +1098,7 @@
   "Settings": {
     "Developer": {
       "ExperimentalFeatures": {
-        "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
+        "Description": "아직 제대로 개발, 개선 또는 품질 검사되지 않은 기능을 사용해보세요.",
         "Name": "실험중인 기능 활성화"
       },
       "Maps": {
@@ -1136,7 +1136,7 @@
     },
     "Interface": {
       "AlternateAppIcon": {
-        "Info": "🦘 Alter the appearance of the app's icon."
+        "Info": "앱 아이콘의 모양을 변경할 수 있습니다."
       },
       "FlipSubviewNav": {
         "Info": "튀고 싶거나 오른손으로 휴대폰을 사용하는 유저들을 위한 기능입니다.",
@@ -1193,8 +1193,8 @@
     },
     "Language": {
       "Colloquial": {
-        "Description": "🦘 Activate user-contributed slang in place of official texts.",
-        "Name": "🦘 Use Colloquial Language"
+        "Description": "공식 텍스트 대신 사용자가 기여한 속어를 활성화합니다.",
+        "Name": "속어 사용"
       }
     },
     "Maps": {
@@ -1229,33 +1229,33 @@
       "NoProfileSelected": "프로필 선택"
     },
     "PushNotifications": {
-      "Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
+      "Info": "푸시 알림은 브라우저와 운영 체제 API를 사용하여 앱을 사용하지 않을 때도 알림을 보냅니다.\\n\\nBraytech에서 알림을 받으려면 여기서 언제, 어디서, 왜 받을지 제어할 수 있습니다.",
       "Condition": {
-        "AnyActivity": "🦘 Any Activity",
-        "AnyMod": "🦘 Any Mod",
-        "AnyReward": "🦘 Any Reward",
-        "AnySale": "🦘 Any Sale",
-        "AnyShader": "🦘 Any Shader",
-        "Multiple": "🦘 Multiple",
-        "Uncollected": "🦘 Uncollected"
+        "AnyActivity": "모든 활동",
+        "AnyMod": "모든 개조부품",
+        "AnyReward": "모든 보상",
+        "AnySale": "모든 판매",
+        "AnyShader": "모든 쉐이더",
+        "Multiple": "여러 개",
+        "Uncollected": "미수집"
       },
-      "Conditions": "🦘 Conditions",
-      "Configure": "🦘 Configure Push Notifications",
-      "Event": "🦘 Event",
-      "Frequency": "🦘 Frequency",
-      "Incompatible": "🦘 Your browser doesn't support push notifications yet.",
-      "NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
-      "PermissionDenied": "🦘 Your browser says you've denied permission to send notifications. You'll need to manually enable or reset them before we can continue.",
-      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
+      "Conditions": "조건",
+      "Configure": "푸시 알림 설정",
+      "Event": "이벤트",
+      "Frequency": "빈도",
+      "Incompatible": "아직 이 브라우저는 푸시 알림을 지원하지 않습니다.",
+      "NoServiceWorker": "서비스 워커가 아직 설치되지 않았습니다. Braytech을 다시 로드해보세요.",
+      "PermissionDenied": "푸시 알림 권한을 거부했습니다. 계속하려면 브라우저와 기기 설정에서 수동으로 활성화하거나 재설정해야 합니다.",
+      "ServiceWorkerInstalling": "서비스 워커를 설치 중입니다. 잠시 기다려주세요.",
       "PreviewNotifications": {
-        "Description": "🦘 Dispatch enabled notifications immediately.",
-        "Name": "🦘 Preview Notifications"
+        "Description": "설정된 알림을 미리보려면 선택하세요. Voluspa가 기기로 즉시 전송합니다.",
+        "Name": "알림 미리보기"
       },
-      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
+      "Stats": "**{{subscribers}}** 명의 사용자가 **{{subscriptions}}** 개의 기기를 구독했으며, 이 중 **{{subscribed}}** 명이 구독으로 Braytech을 지원합니다."
     },
     "ReloadRequired": {
-      "Description": "🦘 Select reload app to activate your changes immediately.",
-      "Name": "🦘 Reload Required"
+      "Description": "앱을 다시 로드하여 변경 사항을 즉시 적용하세요.",
+      "Name": "다시 로드 필요"
     },
     "Reports": {
       "Info": "보고서들이 다운로드가 되면 빠른 접근을 위해 장치 저장소에 저장됩니다. 모든 보고서들은 해당 보고서를 보기 위해 거쳐진 회원과 연결됩니다. 여기서 각 회원별로 보고서를 지울 수 있습니다. 너무 많은 보고서를 받은 경우, 초기 로딩 시간 최소화를 위해 이 작업을 할 수 있습니다.",
@@ -1265,21 +1265,21 @@
     },
     "Search": {
       "HideFeatureSuggestions": {
-        "Description": "🦘 Hold your breath–I know what I'm doing.",
-        "Name": "🦘 Hide Feature Suggestions"
+        "Description": "걱정하지 마세요. 내가 알고 있어요.",
+        "Name": "기능 제안 숨기기"
       },
       "ItemVisibilityOverride": {
-        "Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
-        "Name": "🦘 Show Completed and Acquired"
+        "Description": "이 설정으로 항목 표시 전체 설정을 무시할 수 있습니다.",
+        "Name": "완료 및 획득한 항목 표시"
       }
     },
     "SubCategory": {
       "Authentication": "인증",
-      "BraytechIdentity": "🦘 Braytech Username",
+      "BraytechIdentity": "Braytech 사용자명",
       "Developer": "개발자",
       "IDB": "데이터베이스 저장소",
       "Interface": {
-        "AlternateAppIcon": "🦘 App Icon",
+        "AlternateAppIcon": "앱 아이콘",
         "FlipSubviewNav": "하위 보기 뒤집기",
         "ItemSize": "인벤토리 아이템"
       },
@@ -1288,7 +1288,7 @@
       "Language": "언어",
       "Reports": "보고서 저장소",
       "SavedProfile": "저장된 프로필",
-      "Search": "🦘 Search",
+      "Search": "검색",
       "Synchronisation": "동기화",
       "System": "시스템",
       "Theme": "테마",
@@ -1296,70 +1296,70 @@
       "VisualFidelity": "시각적 정확도"
     },
     "Subscriptions": {
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "Info": "광고는 구려서 Braytech은 광고를 달지 않았습니다. 하지만 이 모든 게 무료도 아니고 쉽지도 않거든요.\\n\\n광고 수익 대신 저는 여러분의 관대함에 의존합니다. 여러분의 지원이 앱이 계속 돌아가게 하고, 새로운 기능을 개발하며, 제 임대료를 지불하게 해줍니다.\\n\\n다음 중 하나의 구독 플랜을 선택해 특별한 기능을 누려보세요!",
+      "Help": "언제든지 [Discord](https://discord.bray.tech)로 참여하거나 [subscriptions@bray.tech](mailto:subscriptions@bray.tech)으로 이메일을 보내 도움을 받을 수 있습니다.",
+      "HelpMore": "플랜 가격은 USD로 표시됩니다. 플랜을 변경하려면 다른 플랜으로 다시 구독하면 됩니다.\\n\\n언제든지 [Discord](https://discord.bray.tech)로 참여하거나 [subscriptions@bray.tech](mailto:subscriptions@bray.tech)으로 이메일을 보내 도움을 받을 수 있습니다.\\n\\n여러분의 질문은 이미 [자주 묻는 질문](/addendums/faq)에서 답변되었을 수 있습니다.\\n\\n어떤 종류의 피드백이든 [직접 저에게](mailto:subscriptions@bray.tech) 또는 [Discord](https://discord.bray.tech)를 통해 전달해주세요. 그러면 제 서비스를 개선할 수 있습니다.",
+      "AuthRequired": "Bungie.net으로 인증하여 구독 생성 및 관리와 Discord 연결을 할 수 있습니다.",
       "State": {
-        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**.",
-        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
+        "Ending": "**{{created}}**에 구독했으며 구독이 **{{currentPeriodEnd}}**에 **만료**됩니다.",
+        "Renewing": "**{{created}}**에 구독했으며 구독이 **{{currentPeriodEnd}}**에 **갱신**됩니다.",
+        "Cancelled": "구독이 **{{currentPeriodEnd}}**에 **만료**되었습니다. 지원해주셔서 감사합니다!"
       },
       "DiscordProfile": {
-        "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
-        "Linked": "🦘 **{{username}}** is linked"
+        "Connected": "연결된 Discord 프로필입니다.",
+        "Disconnected": "서버 혜택을 받고, 문양 코드 같은 보상을 받을 수 있으며, Braytech 개발에 함께 참여하는 대화에 나누세요!",
+        "Linked": "**{{username}}** 연결됨"
       },
-      "UpsellSubscription": "🦘 Support with a subscription",
-      "ActiveSubscription": "🦘 Active Subscription",
-      "InactiveSubscription": "🦘 Inactive",
-      "ManageSubscription": "🦘 Manage Subscription",
-      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "UpsellSubscription": "구독으로 지원하기",
+      "ActiveSubscription": "활성 구독",
+      "InactiveSubscription": "비활성",
+      "ManageSubscription": "구독 관리",
+      "Stripe": "Stripe에 방문하여 구독을 관리할 수 있습니다.",
       "Newsletter": {
-        "Name": "🦘 Receive Email",
-        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+        "Name": "이메일 받기",
+        "Description": "Braytech의 블로그 글과 구독자 관련 정보를 바로 받아보세요."
       },
       "ChangeTier": {
-        "Name": "🦘 Change Tier",
-        "Description": "🦘 Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+        "Name": "티어 변경",
+        "Description": "티어를 변경하는 것은 빠르고 쉽습니다. 확인만 하면 됩니다. 즉시 요금이 청구됩니다.\\n\\n언제나처럼, 문제가 있거나 대화하고 싶으면 주저하지 말고 [subscriptions@bray.tech](mailto:subscriptions@bray.tech)으로 연락하거나 [Discord](https://discord.bray.tech)에서 멘션해주세요."
       },
-      "Perks": "🦘 Perks",
-      "Tiers": "🦘 Tiers",
-      "Legends": "🦘 Legends",
-      "Connect": "🦘 Connect",
-      "BlogInfo": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "DiscordInfo": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubsInfo": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
-      "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
-      "JustOnce": "🦘 Just Once",
+      "Perks": "혜택",
+      "Tiers": "티어",
+      "Legends": "전설",
+      "Connect": "연결",
+      "BlogInfo": "Braytech의 최신 블로그 글을 읽으며 개발 소식을 받아보세요. 최대한 흥미롭고 통찰력 있게 작성하려고 노력합니다!",
+      "DiscordInfo": "Braytech 커뮤니티에 참여하세요! 편하게 지내고, 제안을 남기고, 버그를 신고하고, 앱 관련 도움을 즉시 받을 수 있습니다.",
+      "NewSubsInfo": "Braytech을 지탱하는 최근 구독자",
+      "OneTime": "Braytech을 지원하기 위해 일회성 기부를 해보세요. 조건 없이, 대신 제가 당신을 위해 한 잔 사겠습니다.",
+      "JustOnce": "한 번만",
       "Perk": {
         "Username": {
-          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
-          "Name": "🦘 Username"
+          "Description": "길고 지루한 숫자 주소를 더 멋있게 바꿔보세요.\\n\\n고유한 이름을 선택하거나 Bungie 이름과 맞추는 등 마음대로 하세요. 다른 플레이어와 여러분을 구별하는 재미있는 방법이고, 처음 사용하는 기기에서도 프로필로 바로 갈 수 있습니다.\\n\\n이모지도 지원됩니다 **🐸**",
+          "Name": "사용자명"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
-          "Name": "🦘 Highlight"
+          "Description": "특별한 도전과제나 인상적인 통계 추적기를 강조하세요.\\n\\n이 강조는 [전설](/legend) 보기와 인터넷에서 공유될 때 생성되는 이미지에 표시됩니다.",
+          "Name": "강조"
         },
         "EmblemCodes": {
-          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
-          "Name": "🦘 Emblem Codes"
+          "Description": "Braytech은 어마어마한 문양 코드 컬렉션을 모았으며, 때로는 관대한 사용자들이 기여하기도 합니다.\\n\\n구독자로서 [개발자 보관함]({{url}})에서 문양 코드를 받을 수 있습니다.",
+          "Name": "문양 코드"
         },
         "AdvancedLeaderboards": {
-          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
-          "Name": "🦘 Advanced Leaderboards"
+          "Description": "[리더보드](/leaderboards) 파워 유저라면 두 가지 도구가 더 생깁니다.\\n\\n구독자로서 리더보드에서 인접한 두 플레이어의 차이를 비교할 수 있고, 프로필의 리더보드 데이터를 업데이트하고 모든 리더보드를 재평가하도록 선택할 수 있습니다.",
+          "Name": "고급 리더보드"
         },
         "Medal": {
-          "Description": "🦘 High tier subscribers unlock a permanent medal for their profiles, displayed wherever their profile appears, both on roster entries and in player details dialogs.",
-          "Name": "🦘 Medals"
+          "Description": "높은 티어 구독자는 프로필에 영구 훈장을 획득합니다. 이 훈장은 로스터 항목과 플레이어 상세 정보 대화상자 등 프로필이 표시되는 모든 곳에 등장합니다.",
+          "Name": "훈장"
         },
         "PriorityDevelopment": {
-          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
-          "Name": "🦘 Priority Development"
+          "Description": "Braytech은 사용자에게 유용한 만큼만 훌륭합니다. 저, 개발자는 항상 사용자들의 피드백과 제안을 받아왔습니다.\\n\\n사용자들이 Braytech을 더 훌륭하게 만들었고, 여러분의 피드백과 제안을 우선시하겠습니다.",
+          "Name": "개발 우선순위"
         },
         "Newsletter": {
-          "Description": "🦘 Subscribe to Braytech's newsletter to receive blog posts and more directly to your email inbox. It's an old Cryptarch technology, but it's functional.",
-          "Name": "🦘 Newsletter"
+          "Description": "Braytech 뉴스레터를 구독하여 블로그 글 등을 이메일로 바로 받아보세요. 오래된 해독가 기술이지만, 작동합니다.",
+          "Name": "뉴스레터"
         }
       }
     },
@@ -1388,10 +1388,10 @@
           "Description": "Voluspa의 정기적인 동기화를 활성화합니다."
         }
       },
-      "Enabled": "🦘 Sync Enabled",
-      "Configure": "🦘 Configure Sync Service",
+      "Enabled": "동기화 활성화",
+      "Configure": "동기화 서비스 설정",
       "Info": "아이템 보기, 지도, 추적한 업적 및 프로필 검색 기록에 대한 설정을 동기화합니다.",
-      "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
+      "RequirementsNotMet": "동기화를 사용하려면 먼저 Braytech을 Bungie.net으로 인증해야 합니다.",
       "State": {
         "Merged": "{{duration}} 전에 마지막 병합됨",
         "Synced": "{{duration}} 전에 마지막 동기화됨"
@@ -1399,8 +1399,8 @@
     },
     "System": {
       "PromptForMinorVersions": {
-        "Description": "🦘 Notify me to update even for minor versions.",
-        "Name": "🦘 Minor Version Updates"
+        "Description": "마이너 버전 업데이트도 알려주세요.",
+        "Name": "마이너 버전 업데이트"
       },
       "ReloadAppAutomatically": {
         "Description": "Braytech의 업데이트가 준비되면, 하던 일과 관계 없이 앱을 자동으로 재시작합니다.",
@@ -1409,11 +1409,11 @@
     },
     "Theme": {
       "Light": "라이트",
-      "Medium": "🦘 Medium",
+      "Medium": "중간",
       "Dark": "다크",
       "Black": "블랙",
       "SystemPreference": {
-        "Name": "🦘 Match System",
+        "Name": "시스템 설정 따르기",
         "Description": "Braytech는 장치에서 사용자의 시스템 기본 설정 사용을 허용한다면, 이를 반영합니다."
       }
     },
@@ -1433,8 +1433,8 @@
         "Name": "활성화 ✨"
       },
       "Grinch": {
-        "Description": "🦘 You are the Grinch who stole Christmas.",
-        "Name": "🦘 Grinch 🚫🎄"
+        "Description": "당신은 크리스마스를 훔친 그린치입니다.",
+        "Name": "그린치 🚫🎄"
       },
       "ReducedMotion": {
         "Description": "여러 애니메이션을 비활성화하여 UI 애니메이션의 사용량을 줄입니다. CPU 사용을 줄입니다.",
