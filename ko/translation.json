@@ -168,12 +168,12 @@
   "App": {
     "BungieError": "Bungie 오류",
     "ErrorBoundary": {
-      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
-      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
+      "NextSteps": "Braytech에 오류가 발생했습니다. 방금 하신 작업을 다시 시도해보세요. 문제가 해결되지 않으면 [Discord](https://discord.bray.tech)에 참여하여 도움을 받으세요. 스크린샷을 찍어 #problems 채널에 공유해주세요.",
+      "NextStepsApp": "Braytech에 치명적인 오류가 발생했습니다. 제공된 작업으로 문제가 해결되지 않으면 [Discord](https://discord.bray.tech)에 참여하여 도움을 받으세요. 스크린샷을 찍어 #problems 채널에 공유해주세요."
     },
     "FriendlyError": {
-      "Description": "🦘 Please, do not tell Commander Zavala... Yet.",
-      "Name": "🦘 Pardon Our Dust"
+      "Description": "자발라 사령관에게는... 아직은 말하지 말아주세요.",
+      "Name": "먼지 좀 닦는 중"
     },
     "NetworkError": {
       "Description": "네트워크 오류가 발생했습니다. 앱을 재시작하거나 다른 화면으로 이동하면 해결되는 일시적인 오류입니다.",
@@ -192,8 +192,8 @@
       "Name": "지원하지 않는 브라우저"
     },
     "AuthReset": {
-      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
-      "Name": "🦘 Authentication Reset"
+      "Description": "인증 데이터 업데이트 중 Bungie에서 예상치 못한 오류를 반환했습니다. 그 결과 인증 데이터가 초기화되었습니다.\\n\\n편하신 시간에 **설정**에서 Bungie.net으로 다시 인증해주세요.",
+      "Name": "인증 초기화"
     },
     "Version": "버전",
     "Updated": "Braytech가 최신 버전으로 업데이트되었습니다! 자세한 내용은 변경 로그를 확인하세요. 탭하여 확인하세요!",
@@ -209,12 +209,8 @@
     "SuggestionShort": "Bungie.net으로 인증하여 프로필을 로드하고 다양한 기능을 잠금 해제하세요.",
     "SuggestionLong": "Braytech의 대부분 기능은 모든 사용자가 사용할 수 있으며 공개 데이터에 의존하지만, Destiny의 일부 기능은 더 명확한 접근 권한이 필요하며 Bungie.net으로 인증하여 Braytech에 권한을 부여할 수 있습니다.",
     "MembershipsInfo": "현재 Bungie.net 프로필과 연결된 멤버십입니다.",
-    "Friends": {
-      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
-    },
-    "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
-    },
+    "Friends": "Bungie.net으로 인증하여 Bungie 친구 목록을 확인하세요! 누가 접속 중인지 보고 서로의 프로필을 확인할 수 있는 편리한 지름길입니다!",
+    "Dresstiny": "Bungie.net으로 인증하여 Dresstiny 코디를 생성하고 관리하세요!",
     "SubscriptionFeature": "구독 기능입니다. 일부 기능은 구독자 지원으로만 제공됩니다. [자세히 알아보기](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
@@ -234,7 +230,7 @@
       "UnusedEnergy": "미사용 에너지"
     },
     "Compare": {
-      "ObtainFromVendor": "🦘 Obtain From {{name}}"
+      "ObtainFromVendor": "{{name}}에서 획득"
     },
     "ActualLight": "실제 전투력",
     "Auth": "장비를 관리하려면 [Bungie.net으로 인증]({{url}})하세요.",
@@ -338,13 +334,13 @@
     "CatalystIncomplete": "촉매 미완료",
     "CatalystCompleted": "촉매 완료",
     "Grouped": {
-      "Season": "🦘 Group by Season",
-      "Ungroup": "🦘 Ungroup"
+      "Season": "시즌별 보기",
+      "Ungroup": "그룹 해제"
     },
     "Options": {
       "HideAcquiredAll": {
-        "Name": "🦘 Hide Acquired",
-        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+        "Name": "획득한 항목 숨김",
+        "Description": "선택한 모든 멤버가 획득한 수집품을 숨깁니다."
       }
     },
     "RecentlyDiscovered": "최근 발견",
@@ -699,13 +695,13 @@
     "FeaturedThisWeek": "이번 주",
     "CallToAction": "Braytech를 통해 Destiny를 탐험하여 어둠의 세력과의 전투에 대한 달콤한 보상과 통찰을 얻으세요",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "Destiny 2 캐릭터 진행도, 클랜, 도전과제, 수집품 등을 확인하세요. Braytech는 사용자가 체크리스트를 보고 매핑하고, 도전과제를 추적 및 확인하고, 수집품을 검사하고 훨씬 더 많은 것을 할 수 있는 Destiny 팬 사이트입니다.\\n\\nBraytech는 체크리스트 앱으로 시작했지만 다양한 재능의 괴물로 성장했습니다. 계속 개선되고 확장되고 있습니다.\\n\\n빠르게 찾을 것이 있으신가요? 를 누르고 입력하세요! Braytech는 앱 어디서나 사용할 수 있는 검색 인터페이스를 제공합니다.\\n\\nBraytech는 데스크톱 사용자를 우선으로 설계되었지만, 더 작은 기기에서도 동등하게 작동하고 아름답습니다. 실제로 [iPhone 앱](https://apps.apple.com/app/braytech/id1593151816)과 [Android 앱](https://play.google.com/store/apps/details?id=braytech.org.twa)도 있습니다. 제안이 있으신가요? [Discord](https://discord.bray.tech)에 참여하세요!",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support",
-      "Action": "🦘 Become a Supporter"
+      "Description": "Braytech는 제 직업입니다. 저는 자신을 개선하고 모든 수호자를 돕기 위해 밤새 코딩합니다. 광고를 안 달았더니 통장이 텅장이 되어버렸네요. 여러분의 후원이 없으면 불도 못 키고, 밥도 굶어야 하고, Braytech도 만들 수 없습니다. 여러분의 지원이 있어야 최고의 작업을 할 수 있고, 새로운 기능도 추가할 수 있습니다. 사랑하며 만든 앱인 만큼 여러분도 사용하면서 사랑해주셨으면 좋겠습니다! \\n\\n[Discord](https://discord.bray.tech)에 참여해서 다른 후원자분들과 함께 Braytech 연구팀에서 뵙겠습니다.",
+      "Name": "Braytech를 좋아하시나요? 후원해주세요",
+      "Action": "후원자 되기"
     },
     "Polls": "투표",
     "PollsChannel": "[Discord](https://discord.bray.tech)에서 대화에 참여하고 Braytech 개선 방법에 투표하세요.",
@@ -848,11 +844,11 @@
       "Name": "Bungie 오류"
     },
     "VoluspaError": {
-      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please verify your WAN accessibility.",
-      "Name": "🦘 Voluspa Error"
+      "Description": "Braytech가 Voluspa 네트워크에 연결할 수 없습니다. 인터넷 연결을 확인해주세요.",
+      "Name": "Voluspa 오류"
     },
     "IndexedDBError": {
-      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."
+      "Description": "브라우저 저장소 접근 중 문제가 발생했습니다.\\n\\n이 오류가 반복되면 브라우저나 기기가 호환되지 않거나 잘못 구성되었을 수 있습니다."
     },
     "IndexedDBErrorFatal": {
       "Description": "브라우저 저장소에 액세스하는 동안 오류가 발생했습니다.\n\n앱을 재시작하고 다시 시도하세요."
@@ -877,7 +873,7 @@
     },
     "SettingsFetchError": {
       "Description": "Bungie로부터 API 설정을 수집하는 동안 오류가 발생했습니다.\n\n앱을 재시작하고 다시 시도하세요.",
-      "Name": "🦘 Configuration failure"
+      "Name": "구성 실패"
     },
     "Status": {
       "DownloadingManifest": "Bungie에서 데이터 내려받는 중",
@@ -964,8 +960,8 @@
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "클립보드에 링크를 복사하지 못했습니다.",
+      "Success": "클립보드에 링크가 복사되었습니다."
     },
     "NthMore": "외 {{number}}건",
     "NthRemaining": "외 {{number}}개",
@@ -975,8 +971,8 @@
       "Name": "경고!"
     },
     "SubscriptionEndpointChanged": {
-      "Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
-      "Name": "🦘 Push Notifications"
+      "Description": "바깥 나들이 하시는 동안, 기기가 Voluspa의 푸시 알림 권한을 마음대로 취소해버렸네요.\\n\\n이게 의도하신 게 아니라면 설정을 다시 확인해보세요.",
+      "Name": "푸시 알림"
     }
   },
   "GroupSearch": {
@@ -1059,11 +1055,11 @@
     "XPBonuses": "보너스",
     "SuggestedPath": "추천 경로",
     "Sorted": {
-      "Completion": "🦘 Sorted by **Completion**",
-      "Name": "🦘 Sorted by **Name**",
-      "Expiry": "🦘 Sorted by **Expiry**",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "Completion": "**완료도**순 정렬",
+      "Name": "**이름**순 정렬",
+      "Expiry": "**만료일**순 정렬",
+      "User": "**사용자**순 정렬",
+      "None": "정렬 안 함"
     }
   },
   "RewardHistory": {
@@ -1072,7 +1068,7 @@
   },
   "Search": {
     "Error": {
-      "MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index."
+      "MissingDefinitions": "색인에 정의가 없어 매니페스트 검색을 수행할 수 없습니다."
     },
     "Examples": {
       "Description": "description:clovis bray",
@@ -1084,10 +1080,10 @@
     "Placeholder": "이름 또는 설명을 입력하세요",
     "Results": {
       "MatchesAllHidden": "결과가 나왔지만 이걸 숨긴 상태네요!",
-      "MatchesAllHidden_plural": "🦘  {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
+      "MatchesAllHidden_plural": "{{count}}개의 결과가 있지만 숨김 처리하셨습니다!",
       "NoMatches": "설정한 조건과 맞는 결과가 없습니다.",
       "Top10Upsell": "상위 10개의 결과를 표시합니다. 전체 검색 결과를 보려면  를 누르세요.",
-      "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
+      "TopNSpecificity": "상위 {{number}}개 결과를 표시합니다. 더 구체적으로 검색해보세요."
     },
     "ShortcutKey": "어디서나  을 눌러 검색 기능을 사용하세요.",
     "Suggestions": "검색은 접두사로 필터를 지원합니다. 매니페스트 식별자로도 검색할 수 있습니다. 예를 들어 게임 최고의 무기 `564802913`.\\n\\n결과는 이름, 출처, 설명 순으로 우선순위가 지정됩니다.",
@@ -1628,9 +1624,9 @@
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have discovered this collectible.",
-      "Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have completed this record.",
-      "Name": "🦘 Adjust Graph"
+      "Description": "다른 그래프 유형을 선택하여 이 데이터를 다른 방식으로 확인하세요.\\n\\n**Voluspa**는 {{crawled}}명의 플레이어로부터 데이터를 수집합니다. 이 중 **{{assessed}}**명이 성공적으로 **분석**되어 이 데이터를 제공합니다. 분석된 {{assessed}}명의 플레이어 중 **{{frequency}}**명이 이 수집품을 **발견**했습니다.",
+      "Description_record": "다른 그래프 유형을 선택하여 이 데이터를 다른 방식으로 확인하세요.\\n\\n**Voluspa**는 {{crawled}}명의 플레이어로부터 데이터를 수집합니다. 이 중 **{{assessed}}**명이 성공적으로 **분석**되어 이 데이터를 제공합니다. 분석된 {{assessed}}명의 플레이어 중 **{{frequency}}**명이 이 도전과제를 **완료**했습니다.",
+      "Name": "그래프 조정"
     },
     "CollectedBy": "{{number}}명의 유저가 이것을 획득했습니다.",
     "Commonality": "희소성",
@@ -1639,8 +1635,8 @@
     "Crawled": "{{number}}명의 유저가 Voluspa에 등록되어 있습니다.",
     "Assessed": "Voluspa가 현재 {{number}}명의 플레이어를 분석하고 있습니다.",
     "GraphType": {
-      "Frequency": "🦘 Frequency",
-      "TimeSeries": "🦘 Time Series"
+      "Frequency": "빈도",
+      "TimeSeries": "시계열"
     },
     "LastCrawled": "{{time}} 전 색인됨",
     "ProfilesAssessed": "분석된 프로필"
