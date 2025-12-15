@@ -1071,11 +1071,11 @@
       "MissingDefinitions": "색인에 정의가 없어 매니페스트 검색을 수행할 수 없습니다."
     },
     "Examples": {
-      "Description": "description:clovis bray",
-      "Expiration": "expiration:seraph",
-      "Name": "name:mida",
-      "Source": "source:leveling",
-      "Type": "type:scout rifle"
+      "Description": "description:클로비스 브레이",
+      "Expiration": "expiration:세라프",
+      "Name": "name:미다",
+      "Source": "source:레벨 달성",
+      "Type": "type:정찰 소총"
     },
     "Placeholder": "이름 또는 설명을 입력하세요",
     "Results": {
@@ -1235,7 +1235,7 @@
         "AnyMod": "모든 개조부품",
         "AnyReward": "모든 보상",
         "AnySale": "모든 판매",
-        "AnyShader": "모든 쉐이더",
+        "AnyShader": "모든 안료",
         "Multiple": "여러 개",
         "Uncollected": "미수집"
       },
