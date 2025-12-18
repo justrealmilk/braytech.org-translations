@@ -1028,7 +1028,8 @@
     "SearchPlaceholder": "ゲーマータグもしくはSteamId64を入力してください",
     "SelectACharacter": "キャラクターを選択する",
     "ThirdPartyApps": "このプレイヤーのプロフィールを、提携している外部アプリで表示します。",
-    "ContentOwned": "このプレイヤーは、最後にプレイしたプラットフォーム上で以下のコンテンツを所持しています。"
+    "ContentOwned": "このプレイヤーは、最後にプレイしたプラットフォーム上で以下のコンテンツを所持しています。",
+    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
   },
   "Progression": {
     "Points": "ポイント",
