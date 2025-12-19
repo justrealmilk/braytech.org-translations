@@ -200,7 +200,6 @@
     "TemporaryError": "Se ha producido un error temporal de Bungie.",
     "MemberServiceInactive": "Debido a la inactividad, la actualización en segundo plano de los datos de tu perfil se ha detenido.\n\nLa interacción con la aplicación reactivará el servicio.",
     "WindowSize": "Esta experiencia funciona mejor en una ventana más grande. Hazla más grande, cariño.",
-    "MilestonesError": "No se han podido cargar los datos de los hitos. La API de Bungie puede estar experimentando problemas de disponibilidad.",
     "APIIssue": "Un [problema con la API de Bungie]({{url}}) conocido impide que Braytech muestre esto correctamente en este momento."
   },
   "Auth": {

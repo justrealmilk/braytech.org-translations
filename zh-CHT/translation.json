@@ -200,7 +200,6 @@
     "TemporaryError": "Bungie發生了一個臨時錯誤",
     "MemberServiceInactive": "由於沒有活動，您的個人資料的背景重新整理已暫停。\n\n與應用程式互動將重新啟用服務。",
     "WindowSize": "用大窗口觀看效果最佳。親愛的，把窗口調大一點。",
-    "MilestonesError": "里程碑資料載入失敗。Bungie 的 API 可能遇到可用性問題。",
     "APIIssue": "由於已知的 [Bungie API 問題]({{url}})，Braytech 目前無法正確顯示此內容。"
   },
   "Auth": {

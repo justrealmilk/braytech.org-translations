@@ -200,7 +200,6 @@
     "TemporaryError": "Bungie 发生了一个临时错误。",
     "MemberServiceInactive": "由于处于闲置状态，后台已暂停了对你档案数据的刷新",
     "WindowSize": "这种体验在更大的窗口中效果最好。把它弄大一点，亲爱的。",
-    "MilestonesError": "里程碑数据加载失败。Bungie的API可能遇到了可用性问题。",
     "APIIssue": "一个已知的[Bungie API问题]({{url}})阻止了Braytech此时的正确显示。"
   },
   "Auth": {
