@@ -196,11 +196,11 @@
       "Name": "Authentication Reset"
     },
     "Version": "Version",
-    "Updated": "Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
+    "Updated": "Braytech was just updated to the latest version! Check out the change log for details. Tap this to take a look!",
     "TemporaryError": "A temporary Bungie error occurred.",
     "MemberServiceInactive": "Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
     "WindowSize": "This experience works best in a larger window. Make it bigger, honey.",
-    "MilestonesError": "Milestones data failed to load. Bungie's API may be experiencing issues with availablilty.",
+    "MilestonesError": "Milestones data failed to load. Bungie's API may be experiencing issues with availability.",
     "APIIssue": "A known [Bungie API issue]({{url}}) prevents Braytech from displaying this correctly at this time."
   },
   "Auth": {
@@ -1024,7 +1024,8 @@
     "SearchPlaceholder": "enter BungieName#0343",
     "SelectACharacter": "Select a Character",
     "ThirdPartyApps": "View this player's profile on one of our friend's apps.",
-    "ContentOwned": "This player owns the following content on the platform which they last played."
+    "ContentOwned": "This player owns the following content on the platform which they last played.",
+    "BungieNet": "This profile is attached to a Bungie.net account."
   },
   "Progression": {
     "Points": "Points",
@@ -1355,7 +1356,7 @@
           "Name": "Medals"
         },
         "PriorityDevelopment": {
-          "Description": "Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
+          "Description": "Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritise your feedback and suggestions.",
           "Name": "Priority Development"
         },
         "Newsletter": {

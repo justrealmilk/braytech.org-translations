@@ -1028,7 +1028,8 @@
     "SearchPlaceholder": "请输入游戏标签或 Steam 64 位 ID",
     "SelectACharacter": "选择一个角色",
     "ThirdPartyApps": "从其中一个其他朋友开发的应用程序中查看此玩家的资料。",
-    "ContentOwned": "此玩家在最近游玩的平台上拥有如下内容。"
+    "ContentOwned": "此玩家在最近游玩的平台上拥有如下内容。",
+    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
   },
   "Progression": {
     "Points": "点数",

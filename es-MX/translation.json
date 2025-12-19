@@ -1028,7 +1028,8 @@
     "SearchPlaceholder": "introduce NombreDelJugador#1234",
     "SelectACharacter": "Selecciona un personaje",
     "ThirdPartyApps": "Ve el perfil de este jugador en una de las aplicaciones de nuestros amigos.",
-    "ContentOwned": "Este jugador posee los siguientes contenidos en la plataforma en la que jugó por última vez."
+    "ContentOwned": "Este jugador posee los siguientes contenidos en la plataforma en la que jugó por última vez.",
+    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
   },
   "Progression": {
     "Points": "Puntos",
