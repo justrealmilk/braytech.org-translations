@@ -43,7 +43,7 @@
     "HideHiddenStats": "高级状态",
     "HideRedeemed": "隐藏已兑换项",
     "Jump": "跳转到",
-    "LinkToDiscord": "🦘 Link to Discord",
+    "LinkToDiscord": "连接到 Discord",
     "List": "🦘 List",
     "Lock": "锁定",
     "Logout": "注销",
@@ -121,7 +121,7 @@
       },
       "TrialsPassage": "试炼门票"
     },
-    "Modifiers": "🦘 Modifiers",
+    "Modifiers": "修改器",
     "ModifiersUnavailable": "修改器目前不可用。",
     "NoMedalsAwarded": "未取得奖章",
     "NoStatsAvailable": "没有可用的统计信息 ",
@@ -212,7 +212,7 @@
       "Text": "验证 Bungie.net 档案后能在这里看到你的好友列表！你可以在这里快速查看在线好友并查看他们的个人资料！"
     },
     "Dresstiny": {
-      "Text": "使用Bungie.net进行认证，以创建和管理您的Dresstiny配装！"
+      "Text": "使用 Bungie.net 进行认证，以创建和管理您的 Dresstiny 配装！"
     },
     "SubscriptionFeature": "这是一个订阅功能。某些功能只有在用户订阅后才可使用。 [了解更多](/settings/subscriptions)",
     "Error": {
@@ -236,7 +236,7 @@
       "ObtainFromVendor": "从{{name}}获得"
     },
     "ActualLight": "🦘 Actual Light",
-    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
+    "Auth": "[通过 Bungie.net 登录]({{url}}) 来管理你的装备。",
     "DiffProfile": "你正在查看他人的个人资料。点击该页面下的任意按钮不会有任何反应！",
     "Placeholder": "输入物品名称",
     "WorldDropsNeeded": "为了避免浪费最佳光等提升，请从世界掉落中获取装备，直到你到达 **{{light}}** 光等。",
@@ -332,10 +332,10 @@
     "Collectible_plural": "收藏品",
     "CollectiblesAcquired": "你已经收集了所有可收集品 选中并隐藏它们",
     "CollectiblesUnavailable": "暂无可供展示的收藏品",
-    "Discovered": "🦘 Discovered",
-    "Undiscovered": "🦘 Undiscovered",
-    "CatalystIncomplete": "🦘 Catalyst Incomplete",
-    "CatalystCompleted": "🦘 Catalyst Completed",
+    "Discovered": "已发现",
+    "Undiscovered": "未发现",
+    "CatalystIncomplete": "未完成催化",
+    "CatalystCompleted": "已完成催化",
     "Grouped": {
       "Season": "按赛季分组",
       "Ungroup": "未分组"
@@ -672,7 +672,7 @@
     "Locked": "已锁定",
     "Mods": "模组",
     "Marked": "已标记",
-    "PatternUnlockProgress": "🦘 Pattern unlock progress",
+    "PatternUnlockProgress": "模式解锁进度",
     "PerkEverything": "该特性适合所有活动",
     "PerkPvE": "该特性推荐用于 PVE",
     "PerkPvP": "该特性推荐用于 PVP",
@@ -689,7 +689,7 @@
     "Sunset": "退环境",
     "TransferMaximumStack": " {{name}} 的最大堆积上限为 {{size}}。消耗掉一些物品并于稍后再试。",
     "UndiscoveredCollectibleVendor": "获取这个物品并添加进你的收藏之中",
-    "Uninstanced": "该物品未显示任何实例数据，因为显示在集合中。",
+    "Uninstanced": "该物品以收藏品显示，无实例数据。",
     "Weapons": "武器",
     "WeaponKills": "武器击杀",
     "WeaponStats": "武器属性",
@@ -1015,7 +1015,7 @@
         "Name": "无角色"
       }
     },
-    "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **Authenticate** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
+    "GetStarted": "看来你是第一次使用 Braytech！你可以通过点击 **认证** 按钮来通过 Bungie.net 进行登录，或者你可以搜索你的 Bungie 用户名来手动载入你的档案。",
     "Authenticate": "使用 Bungie.net 安全地进行认证并载入你的资料，并能使用物品管理等超多功能。",
     "RemoveHistory": "右键单击一个资料，从列表中移除。",
     "NewLight": "新曙光",
@@ -1028,7 +1028,7 @@
     "SelectACharacter": "选择一个角色",
     "ThirdPartyApps": "从其中一个其他朋友开发的应用程序中查看此玩家的资料。",
     "ContentOwned": "此玩家在最近游玩的平台上拥有如下内容。",
-    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
+    "BungieNet": "该档案已关联到 Bungie.net 账户。"
   },
   "Progression": {
     "Points": "点数",
@@ -1061,8 +1061,8 @@
     "SuggestedPath": "建议路径",
     "Sorted": {
       "Completion": "🦘 Sorted by **Completion**",
-      "Name": "🦘 Sorted by **Name**",
-      "Expiry": "🦘 Sorted by **Expiry**",
+      "Name": "按 **名称** 排序",
+      "Expiry": "按 **过期时间** 排序",
       "User": "🦘 Sorted by **User**",
       "None": "🦘 Unsorted"
     }
@@ -1131,7 +1131,7 @@
         "Name": "清除清单"
       },
       "ClearReports": {
-        "Description": "删除存储在该设备上的所有赛后 PGCR 报告。",
+        "Description": "删除存储在该设备上的所有 PGCR 报告。",
         "Name": "清除报告"
       },
       "Usage": {
@@ -1308,16 +1308,16 @@
       "State": {
         "Ending": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **结束**。",
         "Renewing": "你的订阅有效期自 **{{created}}** 开始，并会在 **{{currentPeriodEnd}}** **自动续订**。",
-        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
+        "Cancelled": "你的订阅已在 **{{currentPeriodEnd}} 结束。感谢你的支持！"
       },
       "DiscordProfile": {
         "Connected": "你已关联 Discord 账户",
         "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
-        "Linked": "🦘 **{{username}}** is linked"
+        "Linked": "已连接到 **{{username}}** 。"
       },
       "UpsellSubscription": "订阅支持",
       "ActiveSubscription": "当前订阅",
-      "InactiveSubscription": "🦘 Inactive",
+      "InactiveSubscription": "无订阅",
       "ManageSubscription": "管理订阅",
       "Stripe": "访问Stripe管理您的订阅。",
       "Newsletter": {
@@ -1530,7 +1530,7 @@
       "Score": "这个成就的分数",
       "ScoreProgress": "此成就已获得的分数"
     },
-    "BraytechActiveScore": "您的活跃成就得分是 **{{number}}**，由Braytech确定。此值是通过检查可用的成就来计算的。",
+    "BraytechActiveScore": "您的活跃成就得分是 **{{number}}**，由 Braytech 确定。此值是通过检查可用的成就来计算的。",
     "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
     "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
     "PotentialUnattainedScore": "守护者有 **{{number}}** 成就分数等待着被解锁",
