@@ -5,12 +5,12 @@
     "AddEvent": "イベントを追加",
     "AllClasses": "すべてのクラス",
     "Authenticate": "認証",
-    "Approve": "🦘 Approve",
-    "Ban": "🦘 Ban",
-    "Demote": "🦘 Demote",
-    "Deny": "🦘 Deny",
-    "Kick": "🦘 Kick",
-    "Promote": "🦘 Promote",
+    "Approve": "承認",
+    "Ban": "Ban",
+    "Demote": "降格",
+    "Deny": "却下",
+    "Kick": "Kick",
+    "Promote": "昇格",
     "Avoid": "回避する",
     "Back": "戻る",
     "Browse": "閲覧",
@@ -23,9 +23,9 @@
     "Customise": "カスタマイズ",
     "Delete": "消去",
     "Disable": "無効",
-    "Disconnect": "🦘 Disconnect",
+    "Disconnect": "Disconnect",
     "Dismiss": "閉じる",
-    "Download": "🦘 Download",
+    "Download": "ダウンロード",
     "Done": "完了",
     "Edit": "編集",
     "Enable": "有効にする",
@@ -36,7 +36,7 @@
     "GoToBNet": "Bungie.netへ進む",
     "GoToMaps": "マップへ進む",
     "GoToBluesky": "Bluesky(SNS)へ進む",
-    "Grid": "🦘 Grid",
+    "Grid": "Grid",
     "HideAcquired": "取得済みを表示しない",
     "HideCollectionsRolls": "可能性があるロールを隠す",
     "HideCompleted": "完了済みを表示しない",
@@ -45,7 +45,7 @@
     "HideRedeemed": "入手済みを表示しない",
     "Jump": "ジャンプ",
     "LinkToDiscord": "Discordサーバーへのリンク",
-    "List": "🦘 List",
+    "List": "リスト",
     "Lock": "ロックする",
     "Logout": "ログアウト",
     "Mark": "マーク",
@@ -83,7 +83,7 @@
   "Activity": {
     "ActiveRotator": "今週のローテーション",
     "BookmarksSync": "VoluspaとPCまたは携帯に記録されているブックマーク情報を同期します",
-    "Difficulty": "🦘 Difficulty",
+    "Difficulty": "難易度",
     "Fireteam": {
       "Closed": "ファイアチームはクローズしました",
       "Full": "ファイアチームは満員です",
@@ -93,20 +93,20 @@
       "SinglePlayer": "ソロプレイでのアクティビティ"
     },
     "AllCharacters": {
-      "Name": "🦘 All Characters",
-      "Description": "🦘 Display activity from all characters combined."
+      "Name": "全キャラクター",
+      "Description": "すべてのキャラクターで計上する"
     },
     "DeletedCharacters": {
-      "Name": "🦘 Deleted Characters",
-      "Description": "🦘 Include activity from deleted characters."
+      "Name": "削除したキャラクター",
+      "Description": "過去に削除したキャラクター含めて計上する"
     },
     "SelectCharacter": {
-      "Name": "🦘 Select Character",
-      "Description": "🦘 Select a specific character."
+      "Name": "キャラクター選択",
+      "Description": "マップ表示したいキャラクターを選んでください"
     },
     "FireteamSolo": "シングルプレイヤー",
-    "FireteamPlayers3": "ファイアチーム: 1-3プレイヤー",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
+    "FireteamPlayers3": "ファイアチーム: 1-3 プレイヤー",
+    "FireteamPlayers6": "ファイアチーム: 1-6 プレイヤー",
     "MatchmakingOn": "マッチメイキング:有効",
     "Modes": {
       "Lifetime": "生涯",
@@ -122,11 +122,11 @@
       },
       "TrialsPassage": "試練の道のり"
     },
-    "Modifiers": "🦘 Modifiers",
+    "Modifiers": "戦闘条件",
     "ModifiersUnavailable": "作戦条件はありません。",
     "NoMedalsAwarded": "メダルを取得していません",
     "NoStatsAvailable": "ステータスはありません",
-    "Scoreboard": "🦘 Scoreboard",
+    "Scoreboard": "スコアボード",
     "SelectMode": "モード選択",
     "SelectModeInfo": "特定のアクティビティの詳細を見るには、上のメニューからモードを選択します。",
     "SelectDateFromGraph": "上のグラフからアクティビティが行われた日を選択してください。",
@@ -157,7 +157,7 @@
       "RequestHistory": "アクティビティの履歴を分析しています",
       "RequestHistoryPage": "{{page}}ページ目の活動履歴を取得しています"
     },
-    "RewardScoreSummary": "🦘 Reward Score Summary",
+    "RewardScoreSummary": "報酬スコア",
     "Team": {
       "Allies": "見方チーム",
       "Alpha": "アルファ",
@@ -169,8 +169,8 @@
   "App": {
     "BungieError": "Bungieエラー",
     "ErrorBoundary": {
-      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
-      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
+      "NextSteps": "Braytechでエラーが発生しました。先ほどの操作を再度お試しください。解決しない場合は、[Discord](https://discord.bray.tech)に参加し、発生時のスクリーンショットを #problems チャンネルに投稿してください。",
+      "NextStepsApp": "Braytechで重大なエラーが発生しました。ブラウザやOS再起動、別の端末操作でも解決しない場合は、問題解決のためにDiscord（https://discord.bray.tech）にご参加ください。この画面のスクリーンショットを撮り、#problems チャンネルに共有してください。"
     },
     "FriendlyError": {
       "Description": "ザヴァラ司令官にはまだ報告しないでください...",
@@ -205,10 +205,10 @@
   },
   "Auth": {
     "Login": "Bungie.netでログインする",
-    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
-    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
-    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
-    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
+    "DeleteAuth": "デバイスに保存されたBungie.netの認証データを削除します。個人情報を盗まれないので通常は不要ですが、安心のために利用できます。",
+    "SuggestionShort": "Bungie.netで認証するとゲームデータを読み込んで、さまざまな機能が利用可能になります。",
+    "SuggestionLong": "Braytechの多くの機能はBungie APIの公開データを利用しているため、すべてのユーザーが利用できます。ただし、Destinyの一部機能にはアカウントへのアクセス許可が必要です。Bungie.netで認証することで、Braytechにその権限を付与できます。",
+    "MembershipsInfo": "現在、Bungie.netプロフィールに紐付けられているアカウントです。",
     "Friends": {
       "Text": "Bungie.netで認証すると、Bungieのフレンドリストがここに表示されます。誰がオンラインになっているのか、プロフィールを確認するのに便利なショートカットです。"
     },
@@ -237,7 +237,7 @@
       "ObtainFromVendor": "{{name}}から入手する"
     },
     "ActualLight": "現在のパワー値",
-    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
+    "Auth": "[Bungie.net認証]({{url}})をして装備を管理します。",
     "DiffProfile": "現在、他のプレイヤープロファイルを見ています。閲覧はできても、ボタンを押して悪戯まではできませんよ!",
     "Placeholder": "アイテム検索ワード",
     "WorldDropsNeeded": "より高いパワーのアイテムドロップを無駄にしないよう、**{{light}}** に到達するまではワールドドロップを狙いましょう。",
@@ -261,20 +261,20 @@
     "Exotics": {
       "Options": {
         "WorldDrops": {
-          "Description": "🦘 Display weapon world drops. There's a lot of them so they're hidden by default to improve rendering performance.",
-          "Name": "🦘 Weapon World Drops"
+          "Description": "ワールドドロップ武器を表示します。数が多いため、ブラウザ表示の描画パフォーマンスが落ちる可能性があるためデフォルトでは非表示になっています。",
+          "Name": "ワールドドロップ武器"
         },
         "ArmorTitan": {
-          "Description": "🦘 Display Titan armor. Thick, strong stuff.",
-          "Name": "🦘 Titan Armor"
+          "Description": "タイタンの防具を表示します。重厚で頑丈。",
+          "Name": "タイタンアーマー"
         },
         "ArmorHunter": {
-          "Description": "🦘 Display Hunter armor. Conniving.",
-          "Name": "🦘 Hunter Hunter"
+          "Description": "ハンターの防具を表示します。抜け目がない。",
+          "Name": "ハンターアーマー"
         },
         "ArmorWarlock": {
-          "Description": "🦘 Display Warlock armor. The best and most useful class.",
-          "Name": "🦘 Warlock Hunter"
+          "Description": "ウォーロックの防具を表示します。最も実用主義的。",
+          "Name": "ウォーロックアーマー"
         }
       }
     },
@@ -291,9 +291,9 @@
       "BestFriends": "ベストフレンド",
       "RomanticPartnerships": "最も仲が良いプレーヤー",
       "UndiscoveredFriends": "フレンド候補",
-      "DetailsGraph": "🦘 Displaying player activity history by date, with and without clan members.",
-      "DetailsTable": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
-      "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
+      "DetailsGraph": "クランメンバーの有無を含め、日付ごとにプレイヤーのアクティビティ履歴を表示します。",
+      "DetailsTable": "アクティビティ履歴を集計し、参加者とクラン情報を照合して、このプレイヤーが一緒にプレイしたクランメンバーを表示します。表示対象は現在のシーズンのみです。",
+      "NoEncounters": "このプレイヤーは選択した期間中、アクティビティの行動履歴を公開していません。",
       "NoFriends": "あなたは孤独ではありません。いずれ友人を作れるでしょう...クランに友人を誘って、いくつかのアクティビティに出かけてみましょう",
       "NoParters": "誰もデートが簡単だとは言っていません。戦いに戻りましょう、ガーディアン!",
       "SocialButterfly": "おつかれさまです! 今シーズンは全メンバーとプレイできました",
@@ -314,7 +314,7 @@
         }
       }
     },
-    "SortMembers": "🦘 Sort Members"
+    "SortMembers": "メンバー並び替え"
   },
   "Collections": {
     "AllAcquired": "すべて入手済です",
@@ -333,10 +333,10 @@
     "Collectible_plural": "コレクション",
     "CollectiblesAcquired": "コレクションをすべて収集し、取得済のアイテムは表示しないように設定されています",
     "CollectiblesUnavailable": "表示できるコレクションはありません",
-    "Discovered": "🦘 Discovered",
-    "Undiscovered": "🦘 Undiscovered",
-    "CatalystIncomplete": "🦘 Catalyst Incomplete",
-    "CatalystCompleted": "🦘 Catalyst Completed",
+    "Discovered": "発見済み",
+    "Undiscovered": "未発見",
+    "CatalystIncomplete": "媒体未完成",
+    "CatalystCompleted": "媒体マスターワーク済",
     "Grouped": {
       "Season": "シーズン毎にグループ化",
       "Ungroup": "グループ解除"
@@ -373,11 +373,11 @@
     "ActivityBonus": "アクティビティ ボーナス",
     "ActivityMembers": "活動中のメンバー",
     "Activity_plural": "アクティビティ",
-    "ActivityNth": "🦘 {{number}} Activity",
-    "ActivityNth_plural": "🦘 {{number}} Activities",
+    "ActivityNth": "{{number}} 名がプレイ中",
+    "ActivityNth_plural": "{{number}}  名がプレイ中",
     "Addendums": "補足",
     "All": "すべて",
-    "Alphabetical": "🦘 Alphabetical",
+    "Alphabetical": "アルファベット順",
     "Armour": "防具",
     "AscendantChallenge": "アセンダントの挑戦",
     "Available": "入手可能",
@@ -399,7 +399,7 @@
     "ClanMember": "クランメンバー",
     "ClanMember_plural": "クランメンバー",
     "ClanMembersNth_plural": "クランメンバー",
-    "Class": "🦘 Class",
+    "Class": "クラス",
     "Classified": "機密情報",
     "Collectibles": "収集品",
     "Collections": "コレクション",
@@ -457,15 +457,15 @@
     "Inventory": "所持品",
     "ItemRolls": "ロール",
     "Items": "アイテム",
-    "Joined": "🦘 Joined",
-    "Last": "🦘 Last",
-    "Legend": "🦘 Legend",
+    "Joined": "加入期間",
+    "Last": "最終プレイ時間",
+    "Legend": "アイコン説明",
     "Loadout": "ロードアウト",
-    "Loadout_plural": "🦘 Loadouts",
+    "Loadout_plural": "ロードアウト",
     "LoadoutSlotPreview": "ロードアウトスロット{{number}}のプレビュー",
     "Slot": "{{number}} スロット",
     "LevelNth": "レベル{{number}}",
-    "Light": "🦘 Light",
+    "Light": "パワー",
     "LikeNth": "**1** いいね",
     "LikeNth_plural": "**{{number}}** いいね",
     "Like_plural": " いいね",
@@ -475,17 +475,17 @@
     "Map": "マップ",
     "Medal_plural": "メダル",
     "Member_plural": "メンバー",
-    "MembersOnline": "{{number}} はオンラインです",
+    "MembersOnline": "{{number}} 名がオンラインです",
     "Meta": "メタ",
     "Name": "名前",
     "NothingHereYet": "まだ何も無いようです",
     "Objectives": "達成状況",
     "Offline": "オフライン",
-    "Overview": "🦘 Overview",
+    "Overview": "概要",
     "Patreon": "Patreon",
     "Patron_plural": "支援者",
     "Power": "パワー",
-    "Platform": "🦘 Platform",
+    "Platform": "プラットフォーム",
     "Player": "プレイヤー",
     "Player_plural": "プレイヤー",
     "Preview": "プレビュー",
@@ -504,9 +504,9 @@
     "Reset": "リセットする",
     "Reset_plural": "リセット",
     "Reward": "報酬",
-    "PossibleReward": "🦘 Possible Reward",
+    "PossibleReward": "入手可能な報酬",
     "Reward_plural": "報酬",
-    "PossibleReward_plural": "🦘 Possible Rewards",
+    "PossibleReward_plural": "入手可能な報酬",
     "Savathûn'sCurse": "サバスンの呪い",
     "Score": "スコア",
     "Score_plural": "スコア",
@@ -522,7 +522,7 @@
     "Season_plural": "シーズン",
     "Settings": "設定",
     "Source": "入手方法",
-    "Sort": "🦘 Sort",
+    "Sort": "並び順",
     "SpecialCommendationAbr_plural": "摘要",
     "SpecialCommendation_plural": "特別欄",
     "Statistics": "ステータス値",
@@ -533,7 +533,7 @@
     "TimeStarted": "開始時刻",
     "TimeRemaining": "残り時間",
     "TopNth": "トップ {{number}}",
-    "Total": "🦘 Total",
+    "Total": "合計順",
     "Translator_plural": "翻訳者",
     "TrialsPassage": "試練の道のり",
     "TrialsPoints": "試練のポイント",
@@ -556,8 +556,8 @@
     "WebringInfo": "Braytechと親交のあるコミュニティで作られた、新しいDestinyのプロジェクトを見てみよう!",
     "WeekNth": "第{{number}}週",
     "Week_plural": "週",
-    "WeeklyClanXP": "🦘 Weekly XP",
-    "Winner_plural": "🦘 Winners",
+    "WeeklyClanXP": "週間経験値",
+    "Winner_plural": "勝者",
     "XP": "経験値 {{number}} ポイント"
   },
   "Dresstiny": {
@@ -640,9 +640,9 @@
     "Ammo": "弾薬",
     "AmmoType": "弾薬タイプ",
     "Armor": "アーマー",
-    "ArmorSetBonus": "🦘 Armor Set Bonus",
-    "ArmorSetBonusRequired2": "🦘 Requires 2 set pieces to be equipped",
-    "ArmorSetBonusRequired4": "🦘 Requires 4 set pieces to be equipped",
+    "ArmorSetBonus": "アーマーセットボーナス",
+    "ArmorSetBonusRequired2": "セット防具を2つ装備すると発動",
+    "ArmorSetBonusRequired4": "セット防具を4つ装備すると発動",
     "ArmorStats": "アーマーステータス",
     "Appearance": "外観",
     "BasicCharacteristics": "基本特性",
@@ -653,7 +653,7 @@
     "ClassType": "クラスタイプ",
     "CollectionsRoll": "コレクション品のステータス",
     "CumulativeStats": "累積ステータス値",
-    "CurrentlyEquipped": "🦘 Currently Equipped",
+    "CurrentlyEquipped": "現在装備中",
     "DamageType": "ダメージタイプ",
     "Dupes": "複製",
     "CouldntFindItemForUnequip": "{{name}}で装備しているはずのアイテムが見つかりませんでした",
@@ -666,7 +666,7 @@
     "EnergyMeter": "エネルギー",
     "EnergyUnused": "残りスロット",
     "History": "アイテム履歴",
-    "Holofoil": "🦘 Holofoil",
+    "Holofoil": "ホロフォイル",
     "Inspect": "詳細",
     "Intrinsic": "内在特性",
     "ItemAction": "アイテム操作",
@@ -1029,7 +1029,7 @@
     "SelectACharacter": "キャラクターを選択する",
     "ThirdPartyApps": "このプレイヤーのプロフィールを、提携している外部アプリで表示します。",
     "ContentOwned": "このプレイヤーは、最後にプレイしたプラットフォーム上で以下のコンテンツを所持しています。",
-    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
+    "BungieNet": "このプロファイルはBungie.netアカウントに紐付けられています。"
   },
   "Progression": {
     "Points": "ポイント",
@@ -1061,11 +1061,11 @@
     "XPBonuses": "経験値ボーナス",
     "SuggestedPath": "パス候補",
     "Sorted": {
-      "Completion": "🦘 Sorted by **Completion**",
-      "Name": "🦘 Sorted by **Name**",
-      "Expiry": "🦘 Sorted by **Expiry**",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "Completion": "**達成状況** で並び替え",
+      "Name": "**名前** で並び替え",
+      "Expiry": "**残り時間** で並び替え",
+      "User": "**ユーザー** で並び替え",
+      "None": "未ソート"
     }
   },
   "RewardHistory": {
@@ -1313,7 +1313,7 @@
       },
       "DiscordProfile": {
         "Connected": "連携しているDiscordアカウント",
-        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
+        "Disconnected": "サーバー特典を入手し、ゲーム内の限定エンブレムコードなどの報酬を受け取るチャンスを獲得。さらに、Braytechの開発に関するディスカッションにも参加できます!",
         "Linked": "**{{username}}**はリンクされています"
       },
       "UpsellSubscription": "サブスクリプションで支援する",
@@ -1439,8 +1439,8 @@
         "Name": "あっ…（察し）✨"
       },
       "Grinch": {
-        "Description": "🦘 You are the Grinch who stole Christmas.",
-        "Name": "🦘 Grinch 🚫🎄"
+        "Description": "あっ、クリスマスを盗んだグリンチだ!",
+        "Name": "いじわるグリンチ 🚫🎄"
       },
       "ReducedMotion": {
         "Description": "様々なアニメーションを無効にすることで、ユーザーインターフェースの動きを抑えることができます。CPU使用率を低減します。",
@@ -1653,22 +1653,22 @@
     "SeasonalChallengesAvailable": "{{number}}個のシーズンの挑戦が可能です。",
     "SieveBegins": "**{{duration}}**後に「ふるい」が始まります",
     "SieveAvailable": "次の「ふるい」は**{{duration}}**に始まります",
-    "VanguardAlert": "🦘 Vanguard Alert",
-    "VanguardAlert_plural": "🦘 Vanguard Alerts",
+    "VanguardAlert": "ヴァンガードの警告",
+    "VanguardAlert_plural": "ヴァンガードの警告",
     "Event": {
-      "ActiveOrders": "🦘 Active Orders",
-      "Conquests": "🦘 Conquests",
-      "SeasonalTitle": "🦘 Seasonal Title",
-      "EventTitle": "🦘 Event Title",
+      "ActiveOrders": "有効な指令",
+      "Conquests": "制覇",
+      "SeasonalTitle": "シーズンの称号",
+      "EventTitle": "イベントタイトル",
       "EventRank": "イベントランク",
       "WeeklyRank": "ウイークリーランク",
-      "WeeklyRewards": "🦘 Weekly Rewards",
+      "WeeklyRewards": "週間報酬",
       "DailyChallenges": "日刊の挑戦",
       "WeeklyChallenges": "週間の挑戦",
       "EndsIn": "**{{duration}}**にイベント終了"
     },
     "Waypoints": {
-      "NoWaypoints": "🦘 Voluspa couldn't think of any appropriate waypoints. Check back soon."
+      "NoWaypoints": "Voluspaにて適切な中継ポイントを見つけられませんでした。後でもう一度確認してください。"
     }
   }
 }
