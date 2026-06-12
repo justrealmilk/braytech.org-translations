@@ -1,1674 +1,1670 @@
 {
   "Action": {
-    "Accept": "🦘 확인",
-    "AddBookmark": "🦘 Add Bookmark",
-    "AddEvent": "🦘 이벤트 추가",
-    "AllClasses": "🦘 모든 직업",
-    "Authenticate": "🦘 Authenticate",
-    "Approve": "🦘 Approve",
-    "Ban": "🦘 Ban",
-    "Demote": "🦘 Demote",
-    "Deny": "🦘 Deny",
-    "Kick": "🦘 Kick",
-    "Promote": "🦘 Promote",
-    "Avoid": "🦘 Avoid",
-    "Back": "🦘 Back",
-    "Browse": "🦘 Browse",
-    "Cancel": "🦘 Cancel",
-    "Close": "🦘 Close",
-    "Condense": "🦘 Condense",
-    "Collapse": "🦘 Collapse",
-    "CollapseFilters": "🦘 Collapse Filters",
-    "Confirm": "🦘 Confirm",
-    "Customise": "🦘 Customise",
-    "Delete": "🦘 삭제",
-    "Disable": "🦘 Disable",
-    "Disconnect": "🦘 Disconnect",
-    "Dismiss": "🦘 Dismiss",
-    "Download": "🦘 Download",
-    "Done": "🦘 완료",
-    "Edit": "🦘 Edit",
-    "Enable": "🦘 Enable",
-    "Equip": "🦘 Equip",
-    "Expand": "🦘 Expand",
-    "ExpandFilters": "🦘 Expand Filters",
-    "GatherInVault": "🦘 Gather In Vault",
-    "GoToBNet": "🦘 Go to Bungie.net",
-    "GoToMaps": "🦘 지도로 이동",
-    "GoToBluesky": "🦘 Go to Bluesky",
-    "Grid": "🦘 Grid",
-    "HideAcquired": "🦘 Hide Acquired",
-    "HideCollectionsRolls": "🦘 Hide Possible Rolls",
-    "HideCompleted": "🦘 완료한 항목 숨김",
-    "HideDiscovered": "🦘 발견한 항목 숨김",
-    "HideHiddenStats": "🦘 고급 ",
-    "HideRedeemed": "🦘 Hide Redeemed",
-    "Jump": "🦘 Jump",
-    "LinkToDiscord": "🦘 Link to Discord",
-    "List": "🦘 List",
-    "Lock": "🦘 잠금",
-    "Logout": "🦘 Logout",
-    "Mark": "🦘 Mark",
-    "Unmark": "🦘 Unmark",
-    "MemberRemove": "🦘 Remove Member",
-    "NextNth": "🦘 Next {{number}}",
-    "SeeNextNth": "🦘 No partially completed triumphs. Choose an objective and get started!",
-    "None": "🦘 None",
-    "Now": "🦘 Now",
-    "Open": "🦘 Open",
-    "Okay": "🦘 Okay",
-    "Previous": "🦘 Previous",
-    "PullPostmaster": "🦘 Pull From Postmaster",
-    "ReloadApp": "🦘 Reload App",
-    "ReloadAppAutomatically": "🦘 Reload App Automatically",
-    "RemoveBookmark": "🦘 Remove Bookmark",
-    "Reset": "🦘 Reset",
-    "SelectDate": "🦘 Select Date",
-    "SelectMasterwork": "🦘 Any Masterwork",
-    "SelectYourCharacter": "🦘 Select Your Character",
-    "Set": "🦘 Set",
-    "Snatch": "🦘 Snatch",
-    "Submit": "🦘 Submit",
-    "Share": "🦘 Share",
-    "ShowAll": "🦘 Show All",
-    "ShowCollectionsRolls": "🦘 Show Possible Rolls",
-    "ShowHiddenStats": "🦘 기본 능력치",
-    "TryAgain": "🦘 Try Again",
-    "Unlock": "🦘 잠금 해제",
-    "UserReady": "🦘 Let's go!",
-    "Update": "🦘 Update",
-    "ViewHistoricalData": "🦘 이전 판매 물품 보기",
-    "ViewMore": "🦘 View More"
+    "Accept": "Zaakceptuj",
+    "AddBookmark": "Dodaj zakładkę",
+    "AddEvent": "Dodaj wydarzenie",
+    "AllClasses": "Wszystkie klasy",
+    "Authenticate": "Uwierzytelnij",
+    "Approve": "Zatwierdź",
+    "Ban": "Zbanuj",
+    "Demote": "Degraduj",
+    "Deny": "Odrzuć",
+    "Kick": "Wyrzuć",
+    "Promote": "Awansuj",
+    "Avoid": "Unikaj",
+    "Back": "Wstecz",
+    "Browse": "Przeglądaj",
+    "Cancel": "Anuluj",
+    "Close": "Zamknij",
+    "Condense": "Zwiń",
+    "Collapse": "Zwiń",
+    "CollapseFilters": "Zwiń filtry",
+    "Confirm": "Potwierdź",
+    "Customise": "Dostosuj",
+    "Delete": "Usuń",
+    "Disable": "Wyłącz",
+    "Disconnect": "Rozłącz",
+    "Dismiss": "Zamknij",
+    "Download": "Pobierz",
+    "Done": "Gotowe",
+    "Edit": "Edytuj",
+    "Enable": "Włącz",
+    "Equip": "Wyposaż",
+    "Expand": "Rozwiń",
+    "ExpandFilters": "Rozwiń filtry",
+    "GatherInVault": "Zbierz w skarbcu",
+    "GoToBNet": "Przejdź do Bungie.net",
+    "GoToMaps": "Przejdź do map",
+    "GoToBluesky": "Przejdź do Bluesky",
+    "Grid": "Siatka",
+    "HideAcquired": "Ukryj zdobyte",
+    "HideCollectionsRolls": "Ukryj możliwe cechy",
+    "HideCompleted": "Ukryj ukończone",
+    "HideDiscovered": "Ukryj odkryte",
+    "HideHiddenStats": "Statystyki zaawansowane",
+    "HideRedeemed": "Ukryj odebrane",
+    "Jump": "Skocz",
+    "LinkToDiscord": "Połącz z Discordem",
+    "List": "Lista",
+    "Lock": "Zablokuj",
+    "Logout": "Wyloguj się",
+    "Mark": "Oznacz",
+    "Unmark": "Odznacz",
+    "MemberRemove": "Usuń członka",
+    "NextNth": "Następne {{number}}",
+    "SeeNextNth": "Zobacz następne {{number}}",
+    "None": "Brak",
+    "Now": "Teraz",
+    "Open": "Otwórz",
+    "Okay": "OK",
+    "Previous": "Poprzednie",
+    "PullPostmaster": "Odbierz od poczmistrza",
+    "ReloadApp": "Odśwież aplikację",
+    "ReloadAppAutomatically": "Automatycznie odśwież aplikację",
+    "RemoveBookmark": "Usuń zakładkę",
+    "Reset": "Resetuj",
+    "SelectDate": "Wybierz datę",
+    "SelectMasterwork": "Dowolna mistrzowska robota",
+    "SelectYourCharacter": "Wybierz swoją postać",
+    "Set": "Ustaw",
+    "Snatch": "Zgarnij",
+    "Submit": "Prześlij",
+    "Share": "Udostępnij",
+    "ShowAll": "Pokaż wszystko",
+    "ShowCollectionsRolls": "Pokaż możliwe cechy",
+    "ShowHiddenStats": "Statystyki podstawowe",
+    "TryAgain": "Spróbuj ponownie",
+    "Unlock": "Odblokuj",
+    "UserReady": "Zaczynamy!",
+    "Update": "Aktualizuj",
+    "ViewHistoricalData": "Zobacz dane historyczne",
+    "ViewMore": "Zobacz więcej"
   },
   "Activity": {
-    "ActiveRotator": "🦘 Active Rotator",
-    "BookmarksSync": "🦘 Sync bookmarks between devices with Voluspa.",
-    "Difficulty": "🦘 Difficulty",
+    "ActiveRotator": "Aktywny rotator",
+    "BookmarksSync": "Synchronizuj zakładki między urządzeniami za pomocą Voluspy.",
+    "Difficulty": "Poziom trudności",
     "Fireteam": {
-      "Closed": "🦘 Fireteam Closed",
-      "Full": "🦘 Fireteam Full",
-      "MatchLoading": "🦘 Match Is Loading",
-      "Matchmaking": "🦘 Matchmaking",
-      "Open": "🦘 Fireteam Open",
-      "SinglePlayer": "🦘 Single Player Activity"
+      "Closed": "Drużyna ogniowa zamknięta",
+      "Full": "Drużyna ogniowa pełna",
+      "MatchLoading": "Wczytywanie meczu",
+      "Matchmaking": "Dobieranie graczy",
+      "Open": "Drużyna ogniowa otwarta",
+      "SinglePlayer": "Aktywność dla jednego gracza"
     },
     "AllCharacters": {
-      "Name": "🦘 All Characters",
-      "Description": "🦘 Display activity from all characters combined."
+      "Name": "Wszystkie postacie",
+      "Description": "Wyświetl aktywność wszystkich postaci łącznie."
     },
     "DeletedCharacters": {
-      "Name": "🦘 Deleted Characters",
-      "Description": "🦘 Include activity from deleted characters."
+      "Name": "Usunięte postacie",
+      "Description": "Uwzględnij aktywność usuniętych postaci."
     },
     "SelectCharacter": {
-      "Name": "🦘 Select Character",
-      "Description": "🦘 Select a specific character."
+      "Name": "Wybierz postać",
+      "Description": "Wybierz konkretną postać."
     },
-    "FireteamSolo": "🦘 Single Player",
-    "FireteamPlayers3": "🦘 Fireteam: 1-3 Players",
-    "FireteamPlayers6": "🦘 Fireteam: 1-6 Players",
-    "MatchmakingOn": "🦘 Matchmaking: On",
+    "FireteamSolo": "Jeden gracz",
+    "FireteamPlayers3": "Drużyna ogniowa: 1–3 graczy",
+    "FireteamPlayers6": "Drużyna ogniowa: 1–6 graczy",
+    "MatchmakingOn": "Dobieranie graczy: Włączone",
     "Modes": {
-      "Lifetime": "🦘 Lifetime",
+      "Lifetime": "Cały okres",
       "Line": {
-        "AverageKD": "🦘 Average K/D"
+        "AverageKD": "Średnie K/D"
       },
       "Scatter": {
-        "PvEFailure": "🦘 Failure",
-        "PvEFlawless": "🦘 Flawless",
-        "PvPFlawless": "🦘 Flawless",
-        "PvPLoss": "🦘 Loss",
-        "PvPWin": "🦘 Win"
+        "PvEFailure": "Porażka",
+        "PvEFlawless": "Bez strat",
+        "PvPFlawless": "Bez strat",
+        "PvPLoss": "Przegrana",
+        "PvPWin": "Wygrana"
       },
-      "TrialsPassage": "🦘 Trials Passage"
+      "TrialsPassage": "Karta Prób"
     },
-    "Modifiers": "🦘 Modifiers",
-    "ModifiersUnavailable": "🦘 Modifiers aren't available right now.",
-    "NoMedalsAwarded": "🦘 No Medals Awarded",
-    "NoStatsAvailable": "🦘 통계 없음",
-    "Scoreboard": "🦘 Scoreboard",
-    "SelectMode": "🦘 Select Mode",
-    "SelectModeInfo": "🦘 To drill down to a specific activity, select a mode from the interface above",
-    "SelectDateFromGraph": "🦘 Select a date with activities played from the graph above.",
-    "SelectedDateFromGraph": "🦘 Activities for the selected mode played on the date selected.",
-    "SelectDateInfo": "🦘 Select a date below and prepare to jump",
-    "SelectDateWaiting": "🦘 Strap in—the more activities you play and the further you jump, the longer this'll take!\n\nBungie's API doesn't enable requesting activity history from a specific period, so we're doing a drive-by.",
+    "Modifiers": "Modyfikatory",
+    "ModifiersUnavailable": "Modyfikatory są obecnie niedostępne.",
+    "NoMedalsAwarded": "Nie przyznano żadnych medali",
+    "NoStatsAvailable": "Brak dostępnych statystyk",
+    "Scoreboard": "Tabela wyników",
+    "SelectMode": "Wybierz tryb",
+    "SelectModeInfo": "Aby przejść do konkretnej aktywności, wybierz tryb z powyższego interfejsu",
+    "SelectDateFromGraph": "Wybierz datę z aktywnościami na powyższym wykresie, stukając słupek.",
+    "SelectedDateFromGraph": "Aktywności dla wybranego trybu rozegrane we wskazanym dniu.",
+    "SelectDateInfo": "Wybierz datę poniżej i przygotuj się do skoku",
+    "SelectDateWaiting": "Zapnij pasy – im więcej aktywności rozegrasz i im dalszy skok wykonasz, tym dłużej to potrwa!\n\nAPI Bungie nie pozwala na żądanie historii aktywności z określonego przedziału czasu, więc robimy to na bieżąco.",
     "Standing": {
-      "Defeat": "🦘 Defeat",
-      "DidNotFinish": "🦘 Player did not finish",
-      "Mercy": "🦘 Mercy",
-      "Tie": "🦘 Tie",
-      "Victory": "🦘 Victory",
-      "ObjectiveFailed": "🦘 Objective Failed",
-      "Failure": "🦘 Failure"
+      "Defeat": "Porażka",
+      "DidNotFinish": "Gracz nie ukończył",
+      "Mercy": "Litość",
+      "Tie": "Remis",
+      "Victory": "Zwycięstwo",
+      "ObjectiveFailed": "Cel nieosiągnięty",
+      "Failure": "Porażka"
     },
     "State": {
-      "ActivityHistoryError": "🦘 Something went wrong while trying to load activity history. Please try again.",
-      "DownloadingReports": "🦘 Collecting fireteam data from Bungie.net",
-      "RestoringReportsProgressValue": "🦘 Restoring Reports",
-      "DownloadingReportsProgressValue": "🦘 Downloading Reports",
-      "GenericError": "🦘 Something went wrong. Please try again.",
-      "HydratingReportsCache": "🦘 Restoring reports data from device storage",
-      "LoadGroupMembers": "🦘 Analysing clan and activity history",
-      "LoadingPeriod": "🦘 Scanning... {{date}}",
-      "NoBookmarks": "🦘 You haven't added any bookmarks yet!\n\nYou can sync your bookmarks by enabling sync in _Settings_.",
-      "NoHistoryAvailable": "🦘 Find a fireteam and seek triumph against enemies of the Traveler.",
-      "PeriodNotFound": "🦘 The requested period could not be found in this character's activity history.",
-      "RequestHistory": "🦘 Analysing activity history",
-      "RequestHistoryPage": "🦘 Analysing activity history... Retrieving page {{page}}"
+      "ActivityHistoryError": "Coś poszło nie tak podczas wczytywania historii aktywności. Spróbuj ponownie.",
+      "DownloadingReports": "Pobieranie danych drużyny ogniowej z Bungie.net",
+      "RestoringReportsProgressValue": "Przywracanie raportów",
+      "DownloadingReportsProgressValue": "Pobieranie raportów",
+      "GenericError": "Coś poszło nie tak. Spróbuj ponownie.",
+      "HydratingReportsCache": "Przywracanie danych raportów z pamięci urządzenia",
+      "LoadGroupMembers": "Analizowanie historii klanu i aktywności",
+      "LoadingPeriod": "Skanowanie... {{date}}",
+      "NoBookmarks": "Nie dodano jeszcze żadnych zakładek!\n\nMożesz zsynchronizować swoje zakładki, włączając synchronizację w [Ustawieniach](/settings#sync).",
+      "NoHistoryAvailable": "Znajdź drużynę ogniową i sięgnij po triumf przeciwko wrogom Wędrowca.",
+      "PeriodNotFound": "Nie można odnaleźć żądanego okresu w historii aktywności tej postaci.",
+      "RequestHistory": "Analizowanie historii aktywności",
+      "RequestHistoryPage": "Analizowanie historii aktywności... Pobieranie strony {{page}}"
     },
-    "RewardScoreSummary": "🦘 Reward Score Summary",
+    "RewardScoreSummary": "Podsumowanie punktacji nagród",
     "Team": {
-      "Allies": "🦘 Their Team",
-      "Alpha": "🦘 Alpha",
-      "Bravo": "🦘 Bravo",
-      "Opposition": "🦘 Enemy Team"
+      "Allies": "Ich drużyna",
+      "Alpha": "Alfa",
+      "Bravo": "Bravo",
+      "Opposition": "Drużyna przeciwna"
     },
-    "TeamScore": "🦘 Team Score"
+    "TeamScore": "Wynik drużyny"
   },
   "App": {
-    "BungieError": "🦘 Bungie Error",
+    "BungieError": "Błąd Bungie",
     "ErrorBoundary": {
-      "NextSteps": "🦘 Braytech has encountered an error. Try whatever it is you did, again. If that does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel.",
-      "NextStepsApp": "🦘 Braytech has encountered a fatal error. If one of the available actions does not resolve your issue, please join the [Discord](https://discord.bray.tech) for further assistance. Take a screenshot of this and share it in the #problems channel."
+      "NextSteps": "Wystąpił błąd w działaniu aplikacji Braytech. Spróbuj powtórzyć wykonaną czynność. Jeśli to nie rozwiąże problemu, dołącz do naszego serwera [Discord](https://discord.bray.tech), aby uzyskać pomoc. Zrób zrzut ekranu tej wiadomości i udostępnij go na kanale #problems.",
+      "NextStepsApp": "Wystąpił krytyczny błąd w działaniu aplikacji Braytech. Jeśli żadne z dostępnych działań nie rozwiąże problemu, dołącz do naszego serwera [Discord](https://discord.bray.tech), aby uzyskać pomoc. Zrób zrzut ekranu tej wiadomości i udostępnij go na kanale #problems."
     },
     "FriendlyError": {
-      "Description": "🦘 Please, do not tell Commander Zavala... Yet.",
-      "Name": "🦘 Pardon Our Dust"
+      "Description": "Proszę, nie mów jeszcze komendantowi Zavali... Na razie.",
+      "Name": "Przepraszamy za usterki"
     },
     "NetworkError": {
-      "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by reloading or navigating away from this view.",
-      "Name": "🦘 네트워크 오류"
+      "Description": "Wystąpił błąd sieci. Jest to błąd tymczasowy, który można rozwiązać poprzez odświeżenie strony lub przejście do innego widoku.",
+      "Name": "Błąd sieci"
     },
     "ServiceWorkerInstalling": {
-      "Description": "🦘 An app update is installing in the background."
+      "Description": "Aktualizacja aplikacji instaluje się w tle."
     },
     "ServiceWorkerReload": {
-      "Description": "🦘 A fresh update for Braytech is available. Please select reload to use a better version of this app.\n\nCheck the change log on the index view for details on what's new.",
-      "Name": "🦘 Update Available"
+      "Description": "Dostępna jest nowa wersja Braytech. Wybierz opcję odświeżenia, aby korzystać z lepszej wersji aplikacji.\n\nSzczegółowe informacje o zmianach znajdziesz w rejestrze zmian na stronie głównej.",
+      "Name": "Dostępna aktualizacja"
     },
-    "UnknownError": "🦘 Unknown Error",
+    "UnknownError": "Nieznany błąd",
     "UnsupportedBrowser": {
-      "Description": "🦘 Braytech requires modern browser features in order to operate. The minumum browser requirements are set to allow browsers that are well over a year old to run Braytech. As such, if you encounter this message, it's time to move on to something new.\n\nA Chromium-based browser such as Microsoft Edge is recommended.@className=warning@",
-      "Name": "🦘 Unsupported Browser"
+      "Description": "Braytech wymaga nowoczesnych funkcji przeglądarki do działania. Minimalne wymagania są ustawione tak, aby umożliwiać działanie na przeglądarkach mających ponad rok. Jeśli widzisz ten komunikat, czas przesiąść się na coś nowszego.\n\nZalecana jest przeglądarka oparta na silniku Chromium, np. Microsoft Edge.@className=warning@",
+      "Name": "Niewspierana przeglądarka"
     },
     "AuthReset": {
-      "Description": "🦘 While updating authentication data, Bungie returned an unexpected error. As a result, your authentication data has been reset.\n\nPlease visit **Settings** to re-authenticate with Bungie.net at your convenience.",
-      "Name": "🦘 Authentication Reset"
+      "Description": "Podczas aktualizowania danych uwierzytelniania Bungie zwróciło nieoczekiwany błąd. W rezultacie twoje dane uwierzytelniania zostały zresetowane.\n\nOdwiedź **Ustawienia**, aby ponownie uwierzytelnić się za pośrednictwem Bungie.net.",
+      "Name": "Reset uwierzytelniania"
     },
-    "Version": "🦘 Version",
-    "Updated": "🦘 Braytech was just updated to the latest vesion! Check out the change log for details. Tap this to take a look!",
-    "TemporaryError": "🦘 A temporary Bungie error occurred.",
-    "MemberServiceInactive": "🦘 Due to inactivity, background refresh of your profile data has paused.\n\nInteracting with the app will reactivate the service.",
-    "WindowSize": "🦘 This experience works best in a larger window. Make it bigger, honey.",
-    "APIIssue": "🦘 A known [Bungie API issue]({{url}}) is prevents Braytech from displaying this correctly at this time."
+    "Version": "Wersja",
+    "Updated": "Braytech został zaktualizowany do najnowszej wersji! Zobacz rejestr zmian, aby dowiedzieć się więcej. Stuknij tutaj, aby rzucić okiem!",
+    "TemporaryError": "Wystąpił tymczasowy błąd Bungie.",
+    "MemberServiceInactive": "Ze względu na brak aktywności odświeżanie danych profilu w tle zostało wstrzymane.\n\nInterakcja z aplikacją spowoduje ponowne uruchomienie usługi.",
+    "WindowSize": "Ta aplikacja działa najlepiej w większym oknie. Zwiększ jego rozmiar, skarbie.",
+    "APIIssue": "Znany [błąd API Bungie]({{url}}) uniemożliwia obecnie poprawne wyświetlanie tych informacji w Braytech."
   },
   "Auth": {
-    "Login": "🦘 Login with Bungie.net",
-    "DeleteAuth": "🦘 Delete the authentication data stored on your device. While unnecessary, this function is provided for your peace of mind.",
-    "SuggestionShort": "🦘 Authenticate with Bungie.net to load your profile and unlock tonnes of features.",
-    "SuggestionLong": "🦘 Most of Braytech's features are available to all users and depend on publically available data, but some of Destiny's features require more explicit access permissions which you can grant to Braytech by authenticating with Bungie.net.",
-    "MembershipsInfo": "🦘 These are the memberships that are currently associated with your Bungie.net profile.",
-    "Friends": {
-      "Text": "🦘 Authenticate with Bungie.net to see your Bungie friends list here! It's a handy shortcut to see who's on and to check each other's profiles!"
-    },
-    "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
-    },
-    "SubscriptionFeature": "🦘 This is a subscription feature. Some features are made possible only with subscriber support. [Learn more](/settings/subscriptions)",
+    "Login": "Zaloguj się przez Bungie.net",
+    "DeleteAuth": "Usuń dane uwierzytelniania zapisane na urządzeniu. Ta funkcja jest dostępna dla twojego spokoju ducha, choć nie jest wymagana.",
+    "SuggestionShort": "Uwierzytelnij się przez Bungie.net, aby wczytać swój profil i odblokować mnóstwo funkcji.",
+    "SuggestionLong": "Większość funkcji Braytech jest dostępna dla wszystkich użytkowników i bazuje na publicznych danych, jednak niektóre funkcje Destiny wymagają wyraźnych uprawnień, które możesz przyznać Braytech poprzez uwierzytelnienie za pomocą Bungie.net.",
+    "MembershipsInfo": "Oto konta powiązane obecnie z twoim profilem Bungie.net.",
+    "Friends": "Uwierzytelnij się przez Bungie.net, aby zobaczyć tu listę znajomych z Bungie! To wygodny skrót, aby sprawdzić, kto jest online, i przejrzeć profile!",
+    "Dresstiny": "Uwierzytelnij się przez Bungie.net, aby tworzyć i zarządzać swoimi stylizacjami Dresstiny!",
+    "SubscriptionFeature": "To jest funkcja subskrypcyjna. Niektóre funkcje są możliwe do zrealizowania tylko dzięki wsparciu subskrybentów. [Dowiedz się więcej](/settings/subscriptions)",
     "Error": {
       "NoAuth": {
-        "Description": "🦘 Some features of Braytech require your written permission to activate, generally to protect your privacy.\n\nTo use this feature, please tell Bungie that you approve. No personal information is shared by doing so—only an authentication code with which you may interact with more API endpoints.",
-        "Name": "🦘 Authentication Required"
+        "Description": "Niektóre funkcje Braytech require twojej pisemnej zgody do aktywacji, głównie w celu ochrony twojej prywatności.\n\nAby korzystać z tej funkcji, potwierdź swoją zgodę w Bungie. Nie wiąże się to z udostępnieniem żadnych danych osobowych – otrzymujemy jedynie kod uwierzytelniający, z którym można korzystać z dodatkowych punktów końcowych API.",
+        "Name": "Wymagane uwierzytelnienie"
       },
       "DiffProfile": {
-        "Description": "🦘 You are not authorised to access a different user's profile data, but you may use these helpful links to return to your own.\n\nYou can find more information regarding your authentication in the _Settings_ view.",
-        "Name": "🦘 Oh, honey... Honnnnneyyyy"
+        "Description": "Nie masz uprawnień do dostępu do danych profilu innego użytkownika, ale możesz użyć tych pomocnych linków, aby powrócić do własnego.\n\nWięcej informacji na temat uwierzytelniania znajdziesz w sekcji _Ustawienia_.",
+        "Name": "Ojej, kochanie... No co ty..."
       }
     }
   },
   "Character": {
     "Breakdown": {
-      "EffectiveMods": "🦘 Effective Mods",
-      "SlottedMods": "🦘 Slotted Mods",
-      "UnusedEnergy": "🦘 Unused Energy"
+      "EffectiveMods": "Aktywne modyfikacje",
+      "SlottedMods": "Umieszczone modyfikacje",
+      "UnusedEnergy": "Niewykorzystana energia"
     },
     "Compare": {
-      "ObtainFromVendor": "🦘 Obtain From {{name}}"
+      "ObtainFromVendor": "Zdobądź od: {{name}}"
     },
-    "ActualLight": "🦘 Actual Light",
-    "Auth": "🦘 [Authenticate with Bungie.net]({{url}}) to manage your equipment.",
-    "DiffProfile": "🦘 You're viewing someone else's profile. You can look but if you try to push buttons, don't expect results!",
-    "Placeholder": "🦘 enter item name",
-    "WorldDropsNeeded": "🦘 Seek out world drops until you've reached **{{light}}** to avoid wasting drops with greater potential.",
-    "PowerfulDropsNeeded": "🦘 Engage with activities which reward Powerful Gear to reach **{{light}}**.",
-    "PinnacleDropsNeeded": "🦘 You're on the Pinnacle Gear grind. Attain **{{light}}** by completing the most challenging activities."
+    "ActualLight": "Rzeczywista Moc",
+    "Auth": "[Uwierzytelnij się przez Bungie.net]({{url}}), aby zarządzać swoim ekwipunkiem.",
+    "DiffProfile": "Przeglądasz profil innego gracza. Możesz patrzeć, ale nie oczekuj rezultatów, jeśli zaczniesz klikać przyciski!",
+    "Placeholder": "wprowadź nazwę przedmiotu",
+    "WorldDropsNeeded": "Zdobywaj łupy ze świata gry, dopóki nie osiągniesz poziomu **{{light}}**, aby nie marnować nagród o większym potencjale.",
+    "PowerfulDropsNeeded": "Wykonuj aktywności nagradzające potężnym sprzętem, aby osiągnąć poziom **{{light}}**.",
+    "PinnacleDropsNeeded": "Jesteś na etapie zdobywania sprzętu szczytowego. Osiągnij poziom **{{light}}**, wykonując najtrudniejsze aktywności."
   },
   "Clan": {
-    "BannerPerks": "🦘 Banner Perks",
+    "BannerPerks": "Modyfikatory sztandaru",
     "ClanBannerBuilder": {
-      "BannerColor": "🦘 Banner Color",
-      "BannerDetail": "🦘 Banner Detail",
-      "BannerDetailColor": "🦘 Banner Detail Color",
-      "BannerEmblem": "🦘 Banner Emblem",
-      "Description": "🦘 Collaborate with clan members on a new clan banner: make your selections and tap Share to show off your style.",
-      "EmblemBackgroundColor": "🦘 Emblem Background Color",
-      "EmblemForegroundColor": "🦘 Emblem Foreground Color",
-      "Name": "🦘 Clan Banner Builder"
+      "BannerColor": "Kolor sztandaru",
+      "BannerDetail": "Detale sztandaru",
+      "BannerDetailColor": "Kolor detali sztandaru",
+      "BannerEmblem": "Emblemat sztandaru",
+      "Description": "Współpracuj z członkami klanu nad nowym sztandarem klanowym: dokonaj wyboru i stuknij Udostępnij, aby pochwalić się swoim stylem.",
+      "EmblemBackgroundColor": "Kolor tła emblematu",
+      "EmblemForegroundColor": "Kolor pierwszego planu emblematu",
+      "Name": "Kreator sztandaru klanowego"
     },
-    "ClanGonfalon": "🦘 Gonfalon",
-    "ClanAbout": "🦘 About",
+    "ClanGonfalon": "Gonfalon",
+    "ClanAbout": "O klanie",
     "Exotics": {
       "Options": {
         "WorldDrops": {
-          "Description": "🦘 Display weapon world drops. There's a lot of them so they're hidden by default to improve rendering performance.",
-          "Name": "🦘 Weapon World Drops"
+          "Description": "Wyświetl broń wypadającą w świecie gry. Jest jej dużo, więc domyślnie jest ukryta, aby poprawić wydajność aplikacji.",
+          "Name": "Bronie ze świata gry"
         },
         "ArmorTitan": {
-          "Description": "🦘 Display Titan armor. Thick, strong stuff.",
-          "Name": "🦘 Titan Armor"
+          "Description": "Wyświetl pancerz Tytana. Grube, solidne rzeczy.",
+          "Name": "Pancerz Tytana"
         },
         "ArmorHunter": {
-          "Description": "🦘 Display Hunter armor. Conniving.",
-          "Name": "🦘 Hunter Hunter"
+          "Description": "Wyświetl pancerz Łowcy. Podstępny.",
+          "Name": "Pancerz Łowcy"
         },
         "ArmorWarlock": {
-          "Description": "🦘 Display Warlock armor. The best and most useful class.",
-          "Name": "🦘 Warlock Hunter"
+          "Description": "Wyświetl pancerz Czarownika. Najlepsza i najbardziej użyteczna klasa.",
+          "Name": "Pancerz Czarownika"
         }
       }
     },
-    "Founded": "🦘 Founded {{time}}",
-    "Members": "🦘 {{number}} Members",
-    "MembersLoading": "🦘 Loading {{name}} members",
+    "Founded": "Założono **{{time}}**",
+    "Members": "**{{number}}** członków",
+    "MembersLoading": "Wczytywanie członków klanu **{{name}}**",
     "NoClan": {
-      "Description": "🦘 Clans are optional groups of friends that enhance your online gaming experience. Coordinate with your clanmates to take on co-op challenges or just simply represent them in your solo play to earn extra rewards.\n\nJoin your friend's clan, meet some new friends, or create your own on the companion app or at [Bungie.net](https://bungie.net/).",
-      "Name": "🦘 No clan affiliation"
+      "Description": "Klany to opcjonalne grupy znajomych, które ułatwiają wspólną grę. Koordynuj działania z klanowiczami, aby podejmować kooperacyjne wyzwania, lub po prostu reprezentuj klan w pojedynkę, by zdobywać dodatkowe nagrody.\n\nDołącz do klanu znajomego, poznaj nowych ludzi lub stwórz własny klan w aplikacji towarzyszącej lub na stronie [Bungie.net](https://bungie.net/).",
+      "Name": "Brak przynależności klanowej"
     },
-    "Progression": "🦘 As your clan levels up, clan banner perks are unlocked for all members. Complete activities throughout the system to increase your clan's level.",
-    "RitualRewards": "🦘 As a clan, complete ritual activities to unlock engrams from Suraya Hawthorne for all members.",
+    "Progression": "W miarę wzrostu poziomu klanu odblokowywane są modyfikatory sztandaru klanowego dla wszystkich członków. Ukończ aktywności w całym układzie, aby zwiększyć poziom klanu.",
+    "RitualRewards": "Jako klan kończcie aktywności rytualne, aby odblokować engramy od Surayi Hawthorne dla wszystkich członków.",
     "Relationships": {
-      "BestFriends": "🦘 Best Friends",
-      "RomanticPartnerships": "🦘 Romantic Partnerships",
-      "UndiscoveredFriends": "🦘 Undiscovered Friends",
-      "DetailsGraph": "🦘 Displaying player activity history by date, with and without clan members.",
-      "DetailsTable": "🦘 Displaying clan members this player has played with, by aggregating their activity reports and cross-referencing activity participants with clan membership. Limited to the current season for expediency.",
-      "NoEncounters": "🦘 This player hasn't shared any activities during the selected time frame.",
-      "NoFriends": "🦘 You're not alone–you'll make a friend eventually... Invite a clan friend to hang out for a few activities!",
-      "NoParters": "🦘 No one said dating was easy. Back to the fight, Guardian!",
-      "SocialButterfly": "🦘 You get around! You've played with everyone this season.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "BestFriends": "Najlepsi przyjaciele",
+      "RomanticPartnerships": "Związki romantyczne",
+      "UndiscoveredFriends": "Nieodkryci przyjaciele",
+      "DetailsGraph": "Wyświetlanie historii aktywności gracza według daty, z członkami klanu i bez nich.",
+      "DetailsTable": "Wyświetlanie członków klanu, z którymi grał ten gracz, poprzez agregację ich raportów aktywności i porównanie uczestników z listą członków klanu. Ze względów wydajnościowych ograniczone do bieżącego sezonu.",
+      "NoEncounters": "Ten gracz nie rozegrał żadnych aktywności w wybranym przedziale czasowym.",
+      "NoFriends": "Nie jesteś sam – w końcu znajdziesz przyjaciela... Zaproś klanowicza do wspólnego rozegrania kilku aktywności!",
+      "NoParters": "Nikt nie mówił, że randkowanie jest łatwe. Wracaj do walki, Strażniku!",
+      "SocialButterfly": "Wszędzie cię pełno! W tym sezonie grasz ze wszystkimi.",
+      "TopFireteams": "Najczęstsze kompozycje drużyn ogniowych (najlepsze {{number}})",
+      "TopFriends": "Najlepsi znajomi według rozegranych aktywności (najlepsze {{number}})",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Wczytuj tylko aktywności z bieżącego sezonu.",
+          "Name": "Bieżący sezon"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Filtruj spotkania i drużyny ogniowe, aby uwzględnić tylko członków swojego klanu.",
+          "Name": "Członkowie klanu"
         },
         "LimitBungieFriends": {
-          "Description": "🦘 Filter encounters and fireteams to only include Bungie friends.",
-          "Name": "🦘 Bungie Friends"
+          "Description": "Filtruj spotkania i drużyny ogniowe, aby uwzględnić tylko znajomych z Bungie.",
+          "Name": "Znajomi z Bungie"
         }
       }
     },
-    "SortMembers": "🦘 Sort Members"
+    "SortMembers": "Sortuj członków"
   },
   "Collections": {
-    "AllAcquired": "🦘 모두 획득함",
-    "Badge": "🦘 Badge",
-    "Badge_plural": "🦘 Badges",
+    "AllAcquired": "Wszystkie zdobyte",
+    "Badge": "Odznaka",
+    "Badge_plural": "Odznaki",
     "Badges": {
       "Commonality": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this badge.",
-        "Name": "🦘 Badge Commonality"
+        "Description": "Procent graczy skanowanych i ocenianych przez Voluspę, którzy ukończyli tę odznakę.",
+        "Name": "Popularność odznaki"
       },
-      "Completed": "🦘 Badge Completed",
-      "Progress": "🦘 Badge Progress"
+      "Completed": "Odznaka ukończona",
+      "Progress": "Postęp odznaki"
     },
-    "CollectedBy": "🦘 Collected",
-    "Collectible": "Collectible",
-    "Collectible_plural": "🦘 Collectibles",
-    "CollectiblesAcquired": "🦘 You have acquired all of these collectibles and chosen to hide them.",
-    "CollectiblesUnavailable": "🦘 There are no collectibles available for display.",
-    "Discovered": "🦘 Discovered",
-    "Undiscovered": "🦘 Undiscovered",
-    "CatalystIncomplete": "🦘 Catalyst Incomplete",
-    "CatalystCompleted": "🦘 Catalyst Completed",
+    "CollectedBy": "Zdobyte",
+    "Collectible": "Przedmiot kolekcjonerski",
+    "Collectible_plural": "Przedmioty kolekcjonerskie",
+    "CollectiblesAcquired": "Zdobyłeś wszystkie te przedmioty kolekcjonerskie i zdecydowałeś się je ukryć.",
+    "CollectiblesUnavailable": "Brak przedmiotów kolekcjonerskich do wyświetlenia.",
+    "Discovered": "Odkryte",
+    "Undiscovered": "Nieodkryte",
+    "CatalystIncomplete": "Katalizator niekompletny",
+    "CatalystCompleted": "Katalizator ukończony",
     "Grouped": {
-      "Season": "🦘 Group by Season",
-      "Ungroup": "🦘 Ungroup"
+      "Season": "Grupuj według sezonu",
+      "Ungroup": "Rozgrupuj"
     },
     "Options": {
       "HideAcquiredAll": {
-        "Name": "🦘 Hide Acquired",
-        "Description": "🦘 Hide all collectibles which are acquired by all selected members."
+        "Name": "Ukryj zdobyte",
+        "Description": "Ukryj wszystkie przedmioty kolekcjonerskie, które zostały zdobyte przez wszystkich wybranych członków."
       }
     },
-    "RecentlyDiscovered": "🦘 Recently Discovered",
-    "SetComplete": "🦘 Set complete",
-    "SomeAcquiredSomeInvisible": "🦘 Some acquired, {{invisible}} invisible",
-    "Encounter": "🦘 Encounter",
-    "AnyEncounter": "🦘 Any Encounter",
-    "FinalEncounter": "🦘 Final Encounter",
-    "StashFavourites": "🦘 Stash all of your favourite collectibles here!\n\nYou can sync your collectibles by enabling sync in [Settings](/settings#sync).",
-    "EververseGambling": "🦘 Successful projections depend on pattern-matching (if there even is one) and manifest content. If a projection isn't visible, it's not available."
+    "RecentlyDiscovered": "Ostatnio odkryte",
+    "SetComplete": "Zestaw skompletowany",
+    "SomeAcquiredSomeInvisible": "Część zdobyta, {{invisible}} niewidocznych",
+    "Encounter": "Etap",
+    "AnyEncounter": "Dowolny etap",
+    "FinalEncounter": "Finałowy etap",
+    "StashFavourites": "Przechowuj tutaj wszystkie swoje ulubione przedmioty kolekcjonerskie!\n\nMożesz zsynchronizować swoje przedmioty kolekcjonerskie, włączając synchronizację w [Ustawieniach](/settings#sync).",
+    "EververseGambling": "Pomyślne projekcje zależą od dopasowania wzorców (jeśli w ogóle jakieś istnieją) oraz zawartości manifestu. Jeśli projekcja nie jest widoczna, oznacza to, że jest niedostępna."
   },
   "Commendations": {
-    "Received": "🦘 Received",
-    "ReceivedAbr": "🦘 Recvd.",
-    "Sent": "🦘 Sent",
-    "SentAbr": "🦘 Sent",
-    "ScoreCardSend": "🦘 Send for **{{number}}** score",
-    "ScoreCardReceived": "🦘 Receive for **{{number}}** score"
+    "Received": "Otrzymane",
+    "ReceivedAbr": "Otrzym.",
+    "Sent": "Wysłane",
+    "SentAbr": "Wysł.",
+    "ScoreCardSend": "Wyślij za **{{number}}** pkt.",
+    "ScoreCardReceived": "Odbierz za **{{number}}** pkt."
   },
   "Common": {
-    "Actions": "🦘 Actions",
-    "Activate": "🦘 활성화",
-    "Active": "🦘 Active",
-    "ActiveModifiers": "🦘 Active Modifiers",
-    "Activity": "🦘 Activity",
-    "ActivityBonus": "🦘 Activity Bonus",
-    "ActivityMembers": "🦘 Activity Members",
-    "Activity_plural": "🦘 Activities",
-    "ActivityNth": "🦘 {{number}} Activity",
-    "ActivityNth_plural": "🦘 {{number}} Activities",
-    "Addendums": "🦘 Addendums",
-    "All": "🦘 All",
-    "Alphabetical": "🦘 Alphabetical",
-    "Armour": "🦘 방어구",
-    "AscendantChallenge": "🦘 Ascendant Challenge",
-    "Available": "🦘 Available",
-    "AvailableActivities": "🦘 Available Activities",
-    "App_plural": "🦘 Apps",
-    "Browse": "🦘 Browse",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
-    "Cancel": "🦘 Cancel",
-    "Challenge": "🦘 Challenge",
-    "Challenge_plural": "🦘 Challenges",
-    "Character": "🦘 Character",
-    "CurrentRankNth": "🦘 Current Rank: {{value}}",
-    "CharacterClass": "🦘 Character Class",
-    "CharacterLight": "🦘 Character Light",
-    "CharacterSpecific": "🦘 As is with most Braytech features, this view is character-specific.",
-    "Character_plural": "🦘 Characters",
-    "Checklists": "🦘 Checklists",
-    "Clan": "🦘 Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
-    "ClanMembersNth_plural": "🦘 Clan Members",
-    "Class": "🦘 Class",
-    "Classified": "🦘 Classified",
-    "Collectibles": "🦘 Collectibles",
-    "Collections": "🦘 Collections",
-    "CollectionScore": "🦘 Collections Score",
-    "CommendationAbr_plural": "🦘 Comms.",
-    "Completed": "🦘 Completed",
-    "ContentOwned": "🦘 Content Owned",
-    "CruciblePlaylist": "🦘 Crucible Playlist",
-    "Currency": "🦘 Currency",
-    "Currency_plural": "🦘 Currencies",
-    "DateTime": "🦘 날짜/시간",
-    "Emblem": "🦘 Emblem",
-    "Emblem_plural": "🦘 Emblems",
-    "Empty": "🦘 Empty",
-    "Equipment": "🦘 Equipment",
-    "Error": "🦘 Error",
-    "Episode": "🦘 Episode",
-    "EpisodeNth": "🦘 Episode {{number}}",
-    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
-    "Event": "🦘 이벤트",
-    "EventNth": "🦘 1 Event",
-    "EventNth_plural": "🦘 {{count}} イベント",
-    "Examples": "🦘 Examples",
-    "Exotic": "🦘 Exotic",
-    "Experience": "🦘 Experience",
-    "Expiration": "🦘 만료",
-    "Expired": "🦘 Expired",
-    "Expiry": "🦘 Expiry",
-    "Failure": "🦘 Failure",
-    "Favourite_plural": "🦘 Favourites",
-    "FeaturedEvent": "🦘 Featured Event",
-    "FeaturedNightfall": "🦘 Featured Nightfall",
-    "FeaturedPlaylist": "🦘 Featured Playlist",
-    "Filter": "🦘 Filter",
-    "Filter_plural": "🦘 Filters",
-    "FiltersApplied": "🦘 Filters Applied",
-    "Fireteam": "🦘 Fireteam",
-    "Fireteam_plural": "🦘 Fireteams",
-    "FireteamMembers": "🦘 Fireteam Members",
-    "FireteamReserves": "🦘 예비 화력팀",
-    "FireteamSize": "🦘 화력팀 크기",
-    "Friend": "🦘 Friend",
-    "Friend_plural": "🦘 Friends",
-    "FriendNth_plural": "🦘 {{number}} Friends",
-    "GloryPoints": "🦘 Glory Points",
-    "Graph": "🦘 Graph",
-    "GuardianRank": "🦘 Guardian Rank",
-    "Guardians": "🦘 Guardians",
-    "Help": "🦘 Help",
-    "Highlight": "🦘 Highlight",
-    "HistoricalStats": "🦘 Historical Stats",
-    "Inactive": "🦘 Inactive",
-    "InfamyPoints": "🦘 Infamy Points",
-    "Inspect": "🦘 Inspect",
-    "Inventory": "🦘 Inventory",
-    "ItemRolls": "🦘 아이템 목록",
-    "Items": "🦘 Items",
-    "Joined": "🦘 Joined",
-    "Last": "🦘 Last",
-    "Legend": "🦘 Legend",
-    "Loadout": "🦘 Loadout",
-    "Loadout_plural": "🦘 Loadouts",
-    "LoadoutSlotPreview": "🦘 Loadout Slot {{number}} Preview",
-    "Slot": "🦘 Slot {{number}}",
-    "LevelNth": "🦘 Level {{number}}",
-    "Light": "🦘 Light",
-    "LikeNth": "🦘 **1** Like",
-    "LikeNth_plural": "🦘 **{{number}}** Likes",
-    "Like_plural": "🦘 Likes",
-    "Location": "🦘 위치",
-    "Lore": "🦘 지식",
-    "LoreBook": "🦘 Lore Book",
-    "Map": "🦘 지도",
-    "Medal_plural": "🦘 Medals",
-    "Member_plural": "🦘 Members",
-    "MembersOnline": "🦘 {{number}} Online",
-    "Meta": "🦘 Meta",
-    "Name": "🦘 Name",
-    "NothingHereYet": "🦘 There's nothing here yet",
-    "Objectives": "🦘 Objectives",
-    "Offline": "🦘 Offline",
-    "Overview": "🦘 Overview",
-    "Patreon": "🦘 Patreon",
-    "Patron_plural": "🦘 Patrons",
-    "Power": "🦘 Power",
-    "Platform": "🦘 Platform",
-    "Player": "🦘 Player",
-    "Player_plural": "🦘 Players",
-    "Preview": "🦘 Preview",
-    "Profile": "🦘 Profile",
-    "Profile_plural": "🦘 Profiles",
-    "Progress": "🦘 Progress",
-    "Progression": "🦘 Progression",
-    "Quests": "🦘 Quests",
-    "Rank": "🦘 Rank",
-    "Rank_plural": "🦘 Ranks",
-    "Rarity": "🦘 Rarity",
-    "Recent": "🦘 Recent",
-    "Redacted": "🦘 Redacted",
-    "Report_plural": "🦘 Reports",
-    "Reputation": "🦘 평판",
-    "Reset": "🦘 Reset",
-    "Reset_plural": "🦘 Resets",
-    "Reward": "🦘 Reward",
-    "PossibleReward": "🦘 Possible Reward",
-    "Reward_plural": "🦘 Rewards",
-    "PossibleReward_plural": "🦘 Possible Rewards",
-    "Savathûn'sCurse": "🦘 Savathûn's Curse",
-    "Score": "🦘 Score",
-    "Score_plural": "🦘 Scores",
-    "ScoreValue": "🦘 Score Value",
-    "Screenshot": "🦘 스크린샷",
-    "Search": "🦘 Search",
-    "Season": "🦘 Season",
-    "SeasonNth": "🦘 Season {{number}}",
-    "SeasonEndsIn": "🦘 Season {{number}}: ends in {{duration}}",
-    "StatTracker_plural": "🦘 Stat Trackers",
-    "SeasonPass": "🦘 Season Pass",
-    "SeasonRank": "🦘 Season Rank",
-    "Season_plural": "🦘 시즌",
-    "Settings": "🦘 Settings",
-    "Source": "🦘 Source",
-    "Sort": "🦘 Sort",
-    "SpecialCommendationAbr_plural": "🦘 Sp. Comms.",
-    "SpecialCommendation_plural": "🦘 Special Comms.",
-    "Statistics": "🦘 Statistics",
-    "Submit": "🦘 Submit",
-    "Support": "🦘 Support",
-    "ThirdPartyApps": "🦘 Third Party Apps",
-    "TimePlayed": "🦘 Time Played",
-    "TimeStarted": "🦘 Time Started",
-    "TimeRemaining": "🦘 남은 시간",
-    "TopNth": "🦘 Top {{number}}",
-    "Total": "🦘 Total",
-    "Translator_plural": "🦘 Translators",
-    "TrialsPassage": "🦘 시험 통행권",
-    "TrialsPoints": "🦘 시험 점수",
-    "ActiveScore": "🦘 Active Score",
-    "LegacyScore": "🦘 Legacy Score",
-    "TriumphScore": "🦘 Triumph Score",
-    "ActiveTriumphs": "🦘 Active Triumphs",
-    "LegacyTriumphs": "🦘 Legacy Triumphs",
-    "Unknown": "🦘 Unknown",
-    "Year": "🦘 Year",
-    "You": "🦘 You",
-    "Users": "🦘 Users",
-    "Username": "🦘 Username",
-    "ValorPoints": "🦘 Valor Points",
-    "VanguardPoints": "🦘 선봉대 점수",
-    "Vendor": "🦘 ",
-    "Vendor_plural": "🦘 Vendors",
-    "Views": "🦘 Views",
-    "Weapon": "🦘 Weapon",
-    "WebringInfo": "🦘 Visit a friend of Braytech, another community-created Destiny project.",
-    "WeekNth": "🦘 Week {{number}}",
-    "Week_plural": "🦘 주일",
-    "WeeklyClanXP": "🦘 Weekly XP",
-    "Winner_plural": "🦘 Winners",
-    "XP": "🦘 {{number}} XP"
+    "Actions": "Działania",
+    "Activate": "Aktywuj",
+    "Active": "Aktywne",
+    "ActiveModifiers": "Aktywne modyfikatory",
+    "Activity": "Aktywność",
+    "ActivityBonus": "Premia do aktywności",
+    "ActivityMembers": "Uczestnicy aktywności",
+    "Activity_plural": "Aktywności",
+    "ActivityNth": "{{number}} aktywność",
+    "ActivityNth_plural": "{{number}} aktywności",
+    "Addendums": "Załączniki",
+    "All": "Wszystko",
+    "Alphabetical": "Alfabetycznie",
+    "Armour": "Pancerz",
+    "AscendantChallenge": "Wyzwanie Wstąpienia",
+    "Available": "Dostępne",
+    "AvailableActivities": "Dostępne aktywności",
+    "App_plural": "Aplikacje",
+    "Browse": "Przeglądaj",
+    "BrowseNthMembers_plural": "Przeglądaj {{number}} członków",
+    "Cancel": "Anuluj",
+    "Challenge": "Wyzwanie",
+    "Challenge_plural": "Wyzwania",
+    "Character": "Postać",
+    "CurrentRankNth": "Bieżąca ranga: {{value}}",
+    "CharacterClass": "Klasa postaci",
+    "CharacterLight": "Moc postaci",
+    "CharacterSpecific": "Podobnie jak większość funkcji Braytech, ten widok jest powiązany z konkretną postacią.",
+    "Character_plural": "Postacie",
+    "Checklists": "Listy kontrolne",
+    "Clan": "Klan",
+    "ClanMember": "Członek klanu",
+    "ClanMember_plural": "Członkowie klanu",
+    "ClanMembersNth_plural": "{{number}} członków klanu",
+    "Class": "Klasa",
+    "Classified": "Tajne",
+    "Collectibles": "Przedmioty kolekcjonerskie",
+    "Collections": "Kolekcje",
+    "CollectionScore": "Wynik kolekcji",
+    "CommendationAbr_plural": "Pochwały",
+    "Completed": "Ukończone",
+    "ContentOwned": "Posiadana zawartość",
+    "CruciblePlaylist": "Playlista Tygla",
+    "Currency": "Waluta",
+    "Currency_plural": "Waluty",
+    "DateTime": "Data i godzina",
+    "Emblem": "Emblemat",
+    "Emblem_plural": "Emblematy",
+    "Empty": "Puste",
+    "Equipment": "Ekwipunek",
+    "Error": "Błąd",
+    "Episode": "Epizod",
+    "EpisodeNth": "Epizod {{number}}",
+    "EpisodeEndsIn": "Epizod {{number}}: koniec za {{duration}}",
+    "Event": "Wydarzenie",
+    "EventNth": "1 Wydarzenie",
+    "EventNth_plural": "Wydarzenia ({{count}})",
+    "Examples": "Przykłady",
+    "Exotic": "Egzotyczny",
+    "Experience": "Doświadczenie",
+    "Expiration": "Wygaśnięcie",
+    "Expired": "Wygasło",
+    "Expiry": "Wygaśnięcie",
+    "Failure": "Porażka",
+    "Favourite_plural": "Ulubione",
+    "FeaturedEvent": "Wyróżnione wydarzenie",
+    "FeaturedNightfall": "Wyróżniony nocny szturm",
+    "FeaturedPlaylist": "Wyróżniona playlista",
+    "Filter": "Filtr",
+    "Filter_plural": "Filtry",
+    "FiltersApplied": "Zastosowane filtry",
+    "Fireteam": "Drużyna ogniowa",
+    "Fireteam_plural": "Drużyny ogniowe",
+    "FireteamMembers": "Członkowie drużyny ogniowej",
+    "FireteamReserves": "Rezerwy drużyny ogniowej",
+    "FireteamSize": "Rozmiar drużyny ogniowej",
+    "Friend": "Znajomy",
+    "Friend_plural": "Znajomi",
+    "FriendNth_plural": "{{number}} znajomych",
+    "GloryPoints": "Punkty chwały",
+    "Graph": "Wykres",
+    "GuardianRank": "Ranga Strażnika",
+    "Guardians": "Strażnicy",
+    "Help": "Pomoc",
+    "Highlight": "Wyróżnienie",
+    "HistoricalStats": "Statystyki historyczne",
+    "Inactive": "Nieaktywne",
+    "InfamyPoints": "Punkty złej sławy",
+    "Inspect": "Zbadaj",
+    "Inventory": "Ekwipunek",
+    "ItemRolls": "Wersje cech",
+    "Items": "Przedmioty",
+    "Joined": "Dołączono",
+    "Last": "Ostatni",
+    "Legend": "Legenda",
+    "Loadout": "Zestaw wyposażenia",
+    "Loadout_plural": "Zestawy wyposażenia",
+    "LoadoutSlotPreview": "Podgląd miejsca na zestaw wyposażenia {{number}}",
+    "Slot": "Miejsce {{number}}",
+    "LevelNth": "Poziom {{number}}",
+    "Light": "Moc",
+    "LikeNth": "Polubienie: **1**",
+    "LikeNth_plural": "Polubienia: **{{number}}**",
+    "Like_plural": "Polubienia",
+    "Location": "Lokalizacja",
+    "Lore": "Wiedza",
+    "LoreBook": "Księga wiedzy",
+    "Map": "Mapa",
+    "Medal_plural": "Medale",
+    "Member_plural": "Członkowie",
+    "MembersOnline": "Dostępni: **{{number}}**",
+    "Meta": "Meta",
+    "Name": "Nazwa",
+    "NothingHereYet": "Jeszcze nic tu nie ma",
+    "Objectives": "Cele",
+    "Offline": "Niedostępny",
+    "Overview": "Przegląd",
+    "Patreon": "Patreon",
+    "Patron_plural": "Patroni",
+    "Power": "Moc",
+    "Platform": "Platforma",
+    "Player": "Gracz",
+    "Player_plural": "Gracze",
+    "Preview": "Podgląd",
+    "Profile": "Profil",
+    "Profile_plural": "Profile",
+    "Progress": "Postęp",
+    "Progression": "Progresja",
+    "Quests": "Zadania",
+    "Rank": "Ranga",
+    "Rank_plural": "Rangi",
+    "Rarity": "Rzadkość",
+    "Recent": "Ostatnie",
+    "Redacted": "[ZATAJONO]",
+    "Report_plural": "Raporty",
+    "Reputation": "Reputacja",
+    "Reset": "Resetuj",
+    "Reset_plural": "Resety",
+    "Reward": "Nagroda",
+    "PossibleReward": "Możliwa nagroda",
+    "Reward_plural": "Nagrody",
+    "PossibleReward_plural": "Możliwe nagrody",
+    "Savathûn'sCurse": "Klątwa Savathûn",
+    "Score": "Wynik",
+    "Score_plural": "Wyniki",
+    "ScoreValue": "Wartość punktowa",
+    "Screenshot": "Zrzut ekranu",
+    "Search": "Szukaj",
+    "Season": "Sezon",
+    "SeasonNth": "Sezon {{number}}",
+    "SeasonEndsIn": "Sezon {{number}}: koniec za {{duration}}",
+    "StatTracker_plural": "Monitory statystyk",
+    "SeasonPass": "Przepustka sezonowa",
+    "SeasonRank": "Ranga sezonowa",
+    "Season_plural": "Sezony",
+    "Settings": "Ustawienia",
+    "Source": "Źródło",
+    "Sort": "Sortuj",
+    "SpecialCommendationAbr_plural": "Wyjątkowe pochwały",
+    "SpecialCommendation_plural": "Wyjątkowe pochwały",
+    "Statistics": "Statystyki",
+    "Submit": "Prześlij",
+    "Support": "Wsparcie",
+    "ThirdPartyApps": "Aplikacje zewnętrzne",
+    "TimePlayed": "Czas gry",
+    "TimeStarted": "Czas rozpoczęcia",
+    "TimeRemaining": "Pozostały czas",
+    "TopNth": "Najlepsze {{number}}",
+    "Total": "Łącznie",
+    "Translator_plural": "Tłumacze",
+    "TrialsPassage": "Karta Prób",
+    "TrialsPoints": "Punkty Prób",
+    "ActiveScore": "Aktywny wynik",
+    "LegacyScore": "Klasyczny wynik",
+    "TriumphScore": "Wynik triumfów",
+    "ActiveTriumphs": "Aktywne triumfy",
+    "LegacyTriumphs": "Klasyczne triumfy",
+    "Unknown": "Nieznane",
+    "Year": "Rok",
+    "You": "Ty",
+    "Users": "Użytkownicy",
+    "Username": "Nazwa użytkownika",
+    "ValorPoints": "Waleczność",
+    "VanguardPoints": "Punkty Straży Przedniej",
+    "Vendor": "Sprzedawca",
+    "Vendor_plural": "Sprzedawcy",
+    "Views": "Widoki",
+    "Weapon": "Broń",
+    "WebringInfo": "Odwiedź zaprzyjaźniony projekt ze społeczności Destiny.",
+    "WeekNth": "Tydzień {{number}}",
+    "Week_plural": "Tygodnie",
+    "WeeklyClanXP": "Tygodniowe PD klanu",
+    "Winner_plural": "Zwycięzcy",
+    "XP": "{{number}} PD"
   },
   "Dresstiny": {
-    "Fit": "🦘 Fit",
-    "Fit_plural": "🦘 Fits",
-    "Popular": "🦘 Popular",
+    "Fit": "Stylizacja",
+    "Fit_plural": "Stylizacje",
+    "Popular": "Popularne",
     "CreateFit": {
-      "Name": "🦘 Create",
-      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+      "Name": "Utwórz",
+      "Description": "Utwórz nową stylizację na podstawie swojego ekwipunku lub wyobraźni."
     },
     "AlterFit": {
-      "Name": "🦘 Alter",
-      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+      "Name": "Zmień",
+      "Description": "Zmień istniejącą stylizację i dopasuj luźne szczegóły."
     },
     "Form": {
       "Loadout": {
-        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+        "Info": "Dostosuj swój ekwipunek w grze przed utworzeniem stylizacji. Odzwierciedlenie zmian przez API może zająć trochę czasu. _Przed przesłaniem upewnij się, że wyświetlany ekwipunek jest zgodny._ **Najnowsze dane z API pochodzą z {{time}}.**"
       },
       "Overwrite": {
-        "Info": "🦘 Overwrite the stored loadout with the selected character's current equipment.",
-        "Name": "🦘 Overwrite Equipment"
+        "Info": "Zastąp zapisany zestaw wyposażenia aktualnym ekwipunkiem wybranej postaci.",
+        "Name": "Nadpisz ekwipunek"
       },
       "Name": {
-        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
-        "Placeholder": "🦘 <name>"
+        "Info": "Oryginalna nazwa pasująca do twojej niezwykłej urody, uroku i charyzmy.",
+        "Placeholder": "<nazwa>"
       },
       "Description": {
-        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
-        "Placeholder": "🦘 <description>"
+        "Info": "Opisy są opcjonalne i nie mogą przekraczać 256 znaków.",
+        "Placeholder": "<opis>"
       },
       "Screenshot": {
-        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
-        "Placeholder": "🦘 <screenshot>"
+        "Info": "- Zrzuty ekranu należy wykonywać w grze na ekranie **Dostosowywanie wyglądu**.\n- Aby uzyskać najlepsze wyniki, umieść kursor na dole na środku.\n- _Ustaw jasność ekranu na 3 w ustawieniach gry._\n- **Wszelkie odstępstwa od tych wytycznych mogą skutkować odrzuceniem stylizacji.**",
+        "Placeholder": "<zrzut ekranu>"
       },
       "Url": {
-        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
-        "Placeholder": "🦘 <url> [optional]"
+        "Info": "Dołącz link do swojego posta w serwisie Reddit na r/DestinyFashion.",
+        "Placeholder": "<url> [opcjonalnie]"
       }
     },
     "Stats": {
       "Total": {
-        "Info": "🦘 The length of this zesty lookbook.",
-        "Name": "🦘 Total"
+        "Info": "Liczba pozycji w tym modnym katalogu.",
+        "Name": "Łącznie"
       },
       "Likes": {
-        "Info": "🦘 The number of times the fits have been \"checked.\" The passion of the people is fervorous.",
-        "Name": "🦘 Likes"
+        "Info": "Liczba polubień tych stylizacji. Ludzie oszaleli na ich punkcie.",
+        "Name": "Polubienia"
       },
       "Members": {
-        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
-        "Name": "🦘 Members"
+        "Info": "Siła napędowa tego modowego szaleństwa. Każdy z nich to wyznacznik trendów.",
+        "Name": "Członkowie"
       },
       "ClassDistribution": {
-        "Info": "🦘 It's a popularity contest–this is how it's won.",
-        "Name": "🦘 Class Distribution"
+        "Info": "To konkurs popularności – oto jak się wygrywa.",
+        "Name": "Rozkład klas"
       }
     }
   },
   "GettingStarted": {
     "Header": {
-      "Description": "🦘 Welcome to Braytech! Before you get started, I've got a handful of tips for you.\n\nIf you have feedback or questions, we can chat on Discord or you can check out the FAQ!",
-      "Name": "🦘 Getting Started"
+      "Description": "Witamy w Braytech! Zanim zaczniesz, mam dla ciebie kilka wskazówek.\n\nJeśli masz opinie lub pytania, możemy porozmawiać na [Discordzie](https://discord.bray.tech) lub możesz zajrzeć do sekcji [FAQ](/addendums/faq)!",
+      "Name": "Pierwsze kroki"
     },
     "Tips": {
       "Search": {
-        "Description": "🦘 Need to find something quick? Braytech has a search HUD, available anywhere in the app.\n\nPress  or tap the magnifying glass button, and start typing!",
-        "Name": "🦘 Search"
+        "Description": "Chcesz coś szybko znaleźć? Braytech ma wyszukiwarkę dostępną w dowolnym miejscu aplikacji.\n\nNaciśnij **** lub stuknij **** i zacznij pisać!",
+        "Name": "Szukaj"
       },
       "Settings": {
-        "Description": "🦘 Braytech is jam-packed full of settings from dark themes to item visibility options to settings sync.\n\nFind \"Settings\" in the top corner.",
-        "Name": "🦘 Settings"
+        "Description": "Braytech jest pełen ustawień: od ciemnych motywów po opcje widoczności przedmiotów i synchronizację ustawień.\n\nZnajdź **** w górnym rogu.",
+        "Name": "Ustawienia"
       },
       "Views": {
-        "Description": "🦘 See all of Braytech's features at a glance by selecting **** from the top of the app!",
-        "Name": "🦘 More"
+        "Description": "Zobacz wszystkie funkcje Braytech jednym rzutem oka, wybierając **** na górze aplikacji!",
+        "Name": "Więcej"
       }
     }
   },
   "Item": {
-    "Ammo": "🦘 Ammo",
-    "AmmoType": "🦘 사용 탄약",
-    "Armor": "🦘 Armor",
-    "ArmorSetBonus": "🦘 Armor Set Bonus",
-    "ArmorSetBonusRequired2": "🦘 Requires 2 set pieces to be equipped",
-    "ArmorSetBonusRequired4": "🦘 Requires 4 set pieces to be equipped",
-    "ArmorStats": "🦘 방어구 스텟",
-    "Appearance": "🦘 Appearance",
-    "BasicCharacteristics": "🦘 기본 속성",
-    "Breaker": "🦘 Breaker",
-    "BreakerType": "🦘 대 용사 속성",
-    "ClassEquipped": "🦘 {{name}} (Equipped)",
-    "ClassPostmaster": "🦘 {{name}} (Postmaster)",
-    "ClassType": "🦘 Class Type",
-    "CollectionsRoll": "🦘 Collections Roll",
-    "CumulativeStats": "🦘 Cumulative Stats",
-    "CurrentlyEquipped": "🦘 Currently Equipped",
-    "DamageType": "🦘 Damage Type",
-    "Dupes": "🦘 Dupes",
-    "CouldntFindItemForUnequip": "🦘 An item to equip in {{name}}'s place could not be found on the character which it's located.",
-    "CraftingRequiredLevel": "🦘 Requires Weapon Level {{number}}",
-    "CurrentlyCantRoll": "🦘 This perk can not currently roll for this weapon",
-    "Energy": "🦘 Energy",
-    "EnergyAffinity": "🦘 에너지 속성",
-    "EnergyCapacity": "🦘 Energy",
-    "EnergyCost": "🦘 Energy",
-    "EnergyMeter": "🦘 Energy",
-    "EnergyUnused": "🦘 Unused",
-    "History": "🦘 Item History",
-    "Holofoil": "🦘 Holofoil",
-    "Inspect": "🦘 Inspect",
-    "Intrinsic": "🦘 Intrinsic",
-    "ItemAction": "🦘 Item Action",
-    "Locked": "🦘 Locked",
-    "Mods": "🦘 Mods",
-    "Marked": "🦘 Marked",
-    "PatternUnlockProgress": "🦘 Pattern unlock progress",
-    "PerkEverything": "🦘 This perk is highly sought after for all activities",
-    "PerkPvE": "🦘 This perk is encouraged for Vanguard engagements",
-    "PerkPvP": "🦘 This perk is encouraged for Crucible engagements",
-    "PerkRecommended": "🦘 This perk is recommended",
-    "Perks": "🦘 Perks",
-    "PowerLimit": "🦘 전투력 제한",
-    "RedeemWithCode": "🦘 Use code `{{code}}` at [https://www.bungie.net/7/en/Codes/Redeem](https://www.bungie.net/7/en/Codes/Redeem?token={{code}}) to unlock this emblem.",
-    "Shaped": "🦘 Shaped",
-    "ShapedDate": "🦘 T.D. {{date}}",
-    "StatTotal": "🦘 총",
-    "State": "🦘 State",
-    "Stats": "🦘 Stats",
-    "Subclass": "🦘 Subclass",
-    "Sunset": "🦘 시즌 전투력 상한선",
-    "TransferMaximumStack": "🦘 {{name}} has a maximum stack size of {{size}}. Consume some items and try again.",
-    "UndiscoveredCollectibleVendor": "🦘 Acquire this item to add it to your Collections",
-    "Uninstanced": "🦘 This item is displayed without any instance data, as it would appear within Collections.",
-    "Weapons": "🦘 Weapons",
-    "WeaponKills": "🦘 Weapon Kills",
-    "WeaponStats": "🦘 최대 사용 가능한 시즌",
-    "Tier": "🦘 Tier"
+    "Ammo": "Amunicja",
+    "AmmoType": "Typ amunicji",
+    "Armor": "Pancerz",
+    "ArmorSetBonus": "Premia za zestaw pancerza",
+    "ArmorSetBonusRequired2": "Wymaga wyposażenia 2 elementów zestawu",
+    "ArmorSetBonusRequired4": "Wymaga wyposażenia 4 elementów zestawu",
+    "ArmorStats": "Statystyki pancerza",
+    "Appearance": "Wygląd",
+    "BasicCharacteristics": "Podstawowa charakterystyka",
+    "Breaker": "Przebijający",
+    "BreakerType": "Właściwości przełamujące",
+    "ClassEquipped": "{{name}} (Wyposażono)",
+    "ClassPostmaster": "{{name}} (Poczmistrz)",
+    "ClassType": "Typ klasy",
+    "CollectionsRoll": "Wersja z kolekcji",
+    "CumulativeStats": "Statystyki skumulowane",
+    "CurrentlyEquipped": "Aktualnie wyposażone",
+    "DamageType": "Typ obrażeń",
+    "Dupes": "Duplikaty",
+    "CouldntFindItemForUnequip": "Nie udało się znaleźć przedmiotu na danej postaci, który mógłby zastąpić przedział wyposażenia dla: {{name}}.",
+    "CraftingRequiredLevel": "Wymaga poziomu broni: {{number}}",
+    "CurrentlyCantRoll": "Ta cecha nie może obecnie wylosować się dla tej broni",
+    "Energy": "Energia",
+    "EnergyAffinity": "Atrybut energii",
+    "EnergyCapacity": "Pojemność energii",
+    "EnergyCost": "Koszt energii",
+    "EnergyMeter": "Wskaźnik energii",
+    "EnergyUnused": "Niewykorzystana",
+    "History": "Historia przedmiotu",
+    "Holofoil": "Holofolia",
+    "Inspect": "Zbadaj",
+    "Intrinsic": "Cecha wrodzona",
+    "ItemAction": "Działanie przedmiotu",
+    "Locked": "Zablokowane",
+    "Mods": "Modyfikacje",
+    "Marked": "Oznaczone",
+    "PatternUnlockProgress": "Postęp odblokowania wzorca",
+    "PerkEverything": "Ta cecha jest bardzo pożądana we wszystkich aktywnościach",
+    "PerkPvE": "Ta cecha jest zalecana do starć ze Strażą Przednią",
+    "PerkPvP": "Ta cecha jest zalecana do starć w Tyglu",
+    "PerkRecommended": "Ta cecha jest zalecana",
+    "Perks": "Cechy",
+    "PowerLimit": "Limit mocy",
+    "RedeemWithCode": "Użyj kodu `{{code}}` na stronie [https://www.bungie.net/7/pl/Codes/Redeem](https://www.bungie.net/7/pl/Codes/Redeem?token={{code}}), aby odblokować ten emblemat.",
+    "Shaped": "Ukształtowano",
+    "ShapedDate": "Ukształtowano: {{date}}",
+    "StatTotal": "Razem",
+    "State": "Stan",
+    "Stats": "Statystyki",
+    "Subclass": "Podklasa",
+    "Sunset": "Limit mocy",
+    "TransferMaximumStack": "Maksymalny rozmiar stosu dla przedmiotu {{name}} wynosi {{size}}. Zużyj część przedmiotów i spróbuj ponownie.",
+    "UndiscoveredCollectibleVendor": "Zdobądź ten przedmiot, aby dodać go do swoich Kolekcji",
+    "Uninstanced": "Ten przedmiot wyświetlany jest bez danych konkretnego egzemplarza, w formie, w jakiej pojawia się w Kolekcjach.",
+    "Weapons": "Bronie",
+    "WeaponKills": "Zabójstwa bronią",
+    "WeaponStats": "Statystyki broni",
+    "Tier": "Klasa"
   },
   "Landing": {
-    "FeaturedThisWeek": "🦘 This Week",
-    "CallToAction": "🦘 Explore Destiny through Braytech for sweet gains and insight into your fights against the forces of Darkness",
+    "FeaturedThisWeek": "W tym tygodniu",
+    "CallToAction": "Odkrywaj Destiny z aplikacją Braytech, aby czerpać słodkie korzyści i wgląd w swoje walki z siłami Ciemności.",
     "Features": {
-      "Description": "🦘 Destiny 2 character progression, clans, triumphs, collections, and more. Braytech is a Destiny fan site that allows users to view and map checklists, track and view triumphs, inspect collectibles, and so much more.\n\nBraytech started as a checklist app and has bellowed into a monstrosity of many talents. It's always being refined and expanded.\n\nNeed to find something quick? Press  and start typing! Braytech has a search interface, available anywhere in the app.\n\nBraytech is built for desktop users first, but functions as well and looks as beautiful on smaller devices. In fact, there's an [iPhone app](https://apps.apple.com/app/braytech/id1593151816) and an [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Want to make a suggestion? Join the [Discord](https://discord.bray.tech)!",
-      "Name": "🦘 Braytech"
+      "Description": "Postępy postaci, klany, triumfy, kolekcje z Destiny 2 i wiele więcej. Braytech to strona dla fanów Destiny, która pozwala użytkownikom przeglądać i mapować listy kontrolne, śledzić i wyświetlać triumfy, badać przedmioty kolekcjonerskie i wiele więcej.\n\nBraytech powstał jako aplikacja z listami kontrolnymi i rozrósł się w potężne narzędzie o wielu talentach. Jest stale rozwijany i udoskonalany.\n\nChcesz coś szybko znaleźć? Naciśnij **** i zacznij pisać! Braytech posiada interfejs wyszukiwania dostępny w dowolnym miejscu aplikacji.\n\nBraytech jest tworzony przede wszystkim dla użytkowników komputerów stacjonarnych, ale działa równie dobrze i wygląda równie pięknie na mniejszych urządzeniach. Istnieje również [aplikacja na iPhone'a](https://apps.apple.com/app/braytech/id1593151816) oraz [aplikacja na Androida](https://play.google.com/store/apps/details?id=braytech.org.twa). Chcesz zgłosić sugestię? Dołącz do serwera [Discord](https://discord.bray.tech)!",
+      "Name": "Braytech"
     },
     "Support": {
-      "Description": "🦘 Braytech is a full-time job—I design and develop to improve myself and to aid all Guardians. I'm anti-ads, to my own demise. Your support helps me keep the lights on and allows me to do my best work and to make your Destiny experience even better. I hope you love using it as much as I love building it! 💖\n\nJoin the [Discord](https://discord.bray.tech) and the other patrons in the Braytech Research Division.",
-      "Name": "🦘 Are you a fan? Show your support",
-      "Action": "🦘 Become a Supporter"
+      "Description": "Praca nad Braytech to zajęcie na pełny etat – projektuję i programuję, aby rozwijać własne umiejętności i pomagać wszystkim Strażnikom. Jestem przeciwnikiem reklam, na własną zgubę. Twoje wsparcie pomaga mi utrzymać serwery oraz pozwala mi wykonywać moją pracę najlepiej jak potrafię, czyniąc twoje doświadczenie w Destiny jeszcze lepszym. Mam nadzieję, że korzystasz z aplikacji z taką samą przyjemnością, z jaką ją tworzę! 💖\n\nDołącz do [Discorda](https://discord.bray.tech) oraz do innych subskrybentów w Braytech Research Division.",
+      "Name": "Jesteś fanem? Wesprzyj projekt",
+      "Action": "Zostań wspierającym"
     },
-    "Polls": "🦘 Polls",
-    "PollsChannel": "🦘 Join the conversation on [Discord](https://discord.bray.tech) and vote on how Braytech can improve.",
-    "Updates": "🦘 Updates",
+    "Polls": "Ankiety",
+    "PollsChannel": "Dołącz do rozmowy na [Discordzie](https://discord.bray.tech) i głosuj na to, jak możemy ulepszyć Braytech.",
+    "Updates": "Aktualizacje",
     "Blog": {
-      "AllPosts": "🦘 All Posts",
-      "Error": "🦘 Blog posts couldn't be loaded at this time.",
-      "Name": "🦘 Blog"
+      "AllPosts": "Wszystkie wpisy",
+      "Error": "W tej chwili nie udało się wczytać wpisów na blogu.",
+      "Name": "Blog"
     }
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
-      "MetresAbr_plural": "🦘 {{metres}} Mtrs",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "MetresAbr": "1 m",
+      "MetresAbr_plural": "{{count}} m",
+      "WeightAbr": "1 kg",
+      "WeightAbr_plural": "{{count}} kg"
     },
     "Time": {
       "Frequency": {
-        "Daily": "🦘 Daily",
-        "Weekly": "🦘 Weekly",
-        "Monthly": "🦘 Monthly",
-        "Annually": "🦘 Annually"
+        "Daily": "Codziennie",
+        "Weekly": "Co tydzień",
+        "Monthly": "Co miesiąc",
+        "Annually": "Co roku"
       },
       "Relative": {
-        "Future": "🦘 in {{duration}}",
-        "Past": "🦘 {{duration}} ago",
-        "Updated": "🦘 Updated {{duration}}"
+        "Future": "za {{duration}}",
+        "Past": "{{duration}} temu",
+        "Updated": "Zaktualizowano {{duration}}"
       }
     }
   },
   "Leaderboards": {
-    "Rank": "🦘 Rank",
-    "Global": "🦘 Global",
-    "Active": "🦘 Active",
-    "Title": "🦘 Title",
-    "Gild": "🦘 Gild",
-    "Legacy": "🦘 Legacy",
-    "Triumph": "🦘 Triumph",
-    "Collection": "🦘 Collection",
-    "ActiveScore": "🦘 Active Score",
-    "TitleScore": "🦘 Title Score",
-    "GildScore": "🦘 Gild Score",
-    "LegacyScore": "🦘 Legacy Score",
-    "TriumphScore": "🦘 Triumph Score",
-    "CollectionScore": "🦘 Collections Score",
-    "ProfileLastUpdated": "🦘 Profile last updated",
-    "LeaderboardsLastUpdated": "🦘 Leaderboards last updated",
-    "RequestUpdate": "🦘 As a subscriber, you may request that your profile be immediately updated prior to all leaderboards being updated.",
-    "Unranked": "🦘 This leaderboard is being ranked with new data. It'll be ready in a few minutes.",
-    "UnrankedMember": "🦘 This player hasn't been ranked yet. They've been added to the queue.",
-    "UnrankedGroup": "🦘 No one in this clan has been ranked yet.",
-    "NoDifference": "🦘 No Difference",
+    "Rank": "Miejsce",
+    "Global": "Globalny",
+    "Active": "Aktywny",
+    "Title": "Tytuł",
+    "Gild": "Pozłocenie",
+    "Legacy": "Klasyczny",
+    "Triumph": "Triumf",
+    "Collection": "Kolekcja",
+    "ActiveScore": "Aktywny wynik",
+    "TitleScore": "Wynik tytułów",
+    "GildScore": "Wynik pozłocenia",
+    "LegacyScore": "Klasyczny wynik",
+    "TriumphScore": "Wynik triumfów",
+    "CollectionScore": "Wynik kolekcji",
+    "ProfileLastUpdated": "Ostatnia aktualizacja profilu",
+    "LeaderboardsLastUpdated": "Ostatnia aktualizacja tablicy wyników",
+    "RequestUpdate": "Jako subskrybent możesz zażądać natychmiastowej aktualizacji swojego profilu przed ogólną aktualizacją tablicy wyników.",
+    "Unranked": "Ta tabela wyników jest właśnie aktualizowana. Będzie gotowa za kilka minut.",
+    "UnrankedMember": "Ten gracz nie został jeszcze sklasyfikowany. Został dodany do kolejki i otrzyma rangę, o ile jego dane postępu są publiczne.",
+    "UnrankedGroup": "Nikt w tym klanie nie został jeszcze sklasyfikowany.",
+    "NoDifference": "Brak różnic",
     "ActiveProfile": {
-      "Name": "🦘 You",
-      "Description": "🦘 Select a profile to use with Braytech and see your ranks."
+      "Name": "Ty",
+      "Description": "Wybierz profil do używania z Braytech i sprawdź swoje rangi."
     },
     "GroupSearch": {
-      "Name": "🦘 Find Clan",
-      "Description": "🦘 Look up a clan and see how its members rank."
+      "Name": "Znajdź klan",
+      "Description": "Wyszukaj klan i zobacz, jak plasują się jego członkowie."
     },
     "MemberSearch": {
-      "Name": "🦘 Find Guardian",
-      "Description": "🦘 Look up a friend or foe and see how you compare."
+      "Name": "Znajdź Strażnika",
+      "Description": "Wyszukaj znajomego lub wroga i zobacz, jak wypadasz na jego tle."
     },
     "Comparison": {
-      "Name": "🦘 Comparison",
-      "Description": "🦘 Records and collectibles which **{{a}}** has but **{{b}}** doesn't.\n\nThis comparison is made from live data and as such may contradict the current leaderboard ranking."
+      "Name": "Porównanie",
+      "Description": "Triumfy i przedmioty kolekcjonerskie, które posiada **{{a}}**, a których nie ma **{{b}}**.\n\nTo porównanie jest sporządzane na podstawie danych na żywo i może różnić się od aktualnego rankingu na tablicy wyników."
     },
     "Stats": {
-      "MinActiveScore": "🦘 Players with at least {{number}} Active Score",
-      "MinCollectionScore": "🦘 Players with at least {{number}} Collections Score",
+      "MinActiveScore": "Gracze z co najmniej {{number}} aktywnego wyniku",
+      "MinCollectionScore": "Gracze z co najmniej {{number}} wyniku kolekcji",
       "RankedPlayers": {
-        "Name": "🦘 Ranked players",
-        "Info": "🦘 Only players who've played Destiny since the latest expansion release are ranked."
+        "Name": "Sklasyfikowani gracze",
+        "Info": "Klasyfikowani są tylko gracze, którzy grali w Destiny od czasu premiery najnowszego dodatku."
       },
       "RankedDate": {
-        "Name": "🦘 Ranked date",
-        "Info": "🦘 Leaderboards were last generated with fresh data at this time."
+        "Name": "Ostatnia aktualizacja",
+        "Info": "W tym czasie tablice wyników zostały wygenerowane z najnowszych danych."
       },
-      "RarestTriumphs": "🦘 Rarest Triumphs",
-      "RarestCollectibles": "🦘 Rarest Collectibles"
+      "RarestTriumphs": "Najrzadsze triumfy",
+      "RarestCollectibles": "Najrzadsze przedmioty kolekcjonerskie"
     }
   },
   "Legend": {
     "Profile": {
-      "Description": "🦘 What gives you power; through light and dark, do you hold the frontlines as a Titan, disintegrate entire armies from afar as a Warlock, or move cowardly through the shadows as a Hunter?"
+      "Description": "Co daje ci moc? Czy chronisz pierwszą linię jako Tytan, unicestwiasz całe armie z daleka jako Czarownik, czy tchórzliwie przemykasz w cieniu jako Łowca?"
     },
     "Medals": {
-      "Description": "🦘 Recognition\n\nDigital tokens of recognition, medals celebrate various forms of contribution and achievement. Displayed proudly on your profile, they highlight your involvement, support, and accomplishments within the Destiny community.",
-      "Name": "🦘 Medals"
+      "Description": "Uznanie\n\nCyfrowe dowody uznania, medale upamiętniają różne formy wkładu i osiągnięć. Wyświetlane dumnie na twoim profilu, podkreślają twoje zaangażowanie, wsparcie i dokonania w społeczności Destiny.",
+      "Name": "Medale"
     },
     "Activity": {
-      "Description": "🦘 A Ghost's Guardian\n\nYour life after your life begins here. You are a risen, chosen by a Ghost, and bestowed with great power through Light and Darkness.\n\nThese were your first steps.",
-      "Name": "🦘 First Risen"
+      "Description": "Strażnik Ducha\n\nTwoje drugie życie zaczyna się tutaj. Jesteś wskrzeszonym, wybranym przez Ducha i obdarzonym wielką mocą przez Światło i Ciemność.\n\nOto twoje pierwsze kroki.",
+      "Name": "Pierwszy Wskrzeszony"
     },
     "Dresstiny": {
-      "Description": "🦘 Fancy pants\n\nSome say you're a leader in fashion, others say you're a trendsetter, but one thing is for sure: you know how to equip items!\n\nThis is the true endgame: Dresstiny.",
-      "Name": "🦘 Dresstiny"
+      "Description": "Modnisia\n\nJedni mówią, że wyznaczasz trendy, inni, że rządzisz w świecie mody, ale jedno jest pewne: wiesz, jak dopasować elementy wyposażenia!\n\nOto prawdziwy endgame: Dresstiny.",
+      "Name": "Dresstiny"
     },
     "Highlight": {
-      "Description": "🦘 Your pride and joy\n\nYou've elected to wear this accomplishment on your shoulder, for all around to see.",
-      "Name": "🦘 Highlight"
+      "Description": "Duma i radość\n\nTo trofeum, odznaka honoru i znak wyróżnienia. Coś, czym chcesz się pochwalić przed znajomymi i rodziną.\n\nTo jest to, z czego chcesz słynąć.",
+      "Name": "Wyróżnienie"
     },
     "Ranks": {
-      "Description": "🦘 Through boldness to the stars\n\nLead fireteams to victory against minions of the Darkness and compete against one another in the Crucible for accolades from Lord Shaxx himself.",
-      "Name": "🦘 Guardian Standing"
+      "Description": "Odwagą do gwiazd\n\nProwadź drużyny ogniowe do zwycięstwa przeciwko sługom Ciemności i rywalizuj ze sobą w Tyglu o uznanie samego Lorda Shaxxa.\n\nOto jak wypadasz w tym sezonie.",
+      "Name": "Rangi"
     },
     "Commonality": {
-      "Description": "🦘 Triumph and claim your rewards\n\nEarth and worlds beyond touched by the Traveler hold wonderful oddities and sought-after treasures of myth.\n\nThe fun is in the chase.",
-      "Name": "🦘 Rare Treasures & Exotic Style"
+      "Description": "Triumfuj i odbieraj nagrody\n\nZiemia i inne światy dotknięte przez Wędrowca skrywają niezwykłe osobliwości i poszukiwane, legendarne skarby.\n\nNajlepsza zabawa to pogoń za nimi.",
+      "Name": "Rzadkie skarby i egzotyczny styl"
     },
     "Titles": {
-      "Description": "🦘 Emblems of victory\n\nThe ultimate measure of a completionist and collector; wear them well.",
-      "Name": "🦘 Triumph Titles"
+      "Description": "Symbole zwycięstwa\n\nNajwyższa miara perfekcjonisty i kolekcjonera. Noś je z dumą.",
+      "Name": "Tytuły triumfów"
     },
     "Gambit": {
-      "Description": "🦘 Infamous\n\nWell, well, well... look who's been stackin' motes and droppin' Blockers like it's target practice. You Guardians are a real storm—Invadin', bankin', clearin' waves like it's child's play.\n\n{{number}} wins, huh? That's somethin' special. You're not just playin' Gambit—you are Gambit. Reckon the Darkness is takin' notes.",
-      "Name": "🦘 Gambit"
+      "Description": "Niesławny\n\nNo, no, no... zobacz, kto tu zbierał pył i zrzucał Blokery jak na strzelnicy. Wy Strażnicy jesteście jak żywioł – najeżdżacie, bankujecie, czyścicie fale jakby to była dziecinna igraszka.\n\n{{number}} wygranych, co? To coś wyjątkowego. Nie tylko grasz w Gambit – jesteś Gambitem. Założę się, że Ciemność robi notatki.",
+      "Name": "Gambit"
     },
     "Crucible": {
-      "Description": "🦘 [Incoherent screaming]\n\nYES! This... this is what the Crucible was MADE for! Your Light blazes like a sun, burning through doubt and weakness! I am HONORED to witness such power! Now get back in there—show them what LEGENDS are made of!",
-      "Name": "🦘 Crucible"
+      "Description": "[Nieskładny krzyk]\n\nTAK! Właśnie po TO powstał Tygiel! Twoje Światło płonie jak słońce, wypalając wszelkie wątpliwości i słabości! To dla mnie ZASZCZYT być świadkiem takiej mocy! A teraz wracaj tam i pokaż im, jak rodzą się LEGENDY!",
+      "Name": "Tygiel"
     },
     "AggregateActivityStats": {
-      "Description": "🦘 Cumulative Experience\n\nSure, you've annihilated \"gods,\" and in some cases, formed weapons from their remains, but just how many times have you thoughtlessly murdered them...",
-      "Name": "🦘 Aggregate Activity Stats"
+      "Description": "Skumulowane doświadczenie\n\nJasne, zgładziłeś „bogów”, a w niektórych przypadkach stworzyłeś broń z ich szczątków, ale ile to już razy zabiłeś ich bez zastanowienia...",
+      "Name": "Zbiorcze statystyki aktywności"
     },
     "Share": {
-      "Description": "🦘 Brag about it\n\nShare a link to your Legend and a unique preview image will be generated for you to share with your friends.\n\nThis image is generated from your current profile data and updates regularly; however, some services may cache it for a period of time.",
-      "Name": "🦘 Share"
+      "Description": "Pochwal się tym\n\nUdostępnij link do swojej Legendy, a wygenerowany zostanie unikalny obraz podglądu, którym możesz podzielić się ze znajomymi.\n\nObraz ten jest generowany na podstawie aktualnych danych profilu i regularnie aktualizowany, jednak niektóre serwisy mogą go przez pewien czas przechowywać w pamięci podręcznej.",
+      "Name": "Udostępnij"
     }
   },
   "Loading": {
     "Error": {
-      "Description": "🦘 Something very unexpected and irrecoverable occurred."
+      "Description": "Wystąpił bardzo nieoczekiwany i nieodwracalny błąd."
     },
     "BungieError": {
-      "Description": "🦘 Crucial API data couldn't be loaded at this time. This is an intermittent issue. Please try again.\n\nIf this error does persist, the API may be experiencing a wider outage or your local network is restricting Bungie API requests.",
-      "Name": "🦘 Bungie Error"
+      "Description": "W tej chwili nie udało się wczytać kluczowych danych API. Jest to problem przejściowy. Spróbuj ponownie.\n\nJeśli błąd będzie się powtarzał, API może doświadczać awarii na szerszą skalę lub twoja sieć lokalna ogranicza żądania do API Bungie.",
+      "Name": "Błąd Bungie"
     },
     "VoluspaError": {
-      "Description": "🦘 Braytech couldn't reach the Voluspa network. Please verify your WAN accessibility.",
-      "Name": "🦘 Voluspa Error"
+      "Description": "Braytech nie mógł nawiązać połączenia z siecią Voluspa. Sprawdź swoje połączenie z internetem.",
+      "Name": "Błąd Voluspa"
     },
     "IndexedDBError": {
-      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nIf this error occurs again, your browser or device may be incompatible or improperly configured."
+      "Description": "Coś poszło nie tak podczas próby dostępu do pamięci przeglądarki.\n\nJeśli ten błąd się powtórzy, twoja przeglądarka lub urządzenie może być niekompatybilne lub niepoprawnie skonfigurowane."
     },
     "IndexedDBErrorFatal": {
-      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nPlease reload the app and try again."
+      "Description": "Coś poszło nie tak podczas próby dostępu do pamięci przeglądarki.\n\nOdśwież aplikację i spróbuj ponownie."
     },
     "IndexedDBOpenFailedError": {
-      "Description": "🦘 Something went wrong while trying to access browser storage.\n\nSome browsers disallow access to _Indexed DB_ when browsing in private modes.\n\nPlease reload the app and try again."
+      "Description": "Coś poszło nie tak podczas próby dostępu do pamięci przeglądarki.\n\nNiektóre przeglądarki blokują dostęp do _IndexedDB_ podczas przeglądania w trybie prywatnym.\n\nOdśwież aplikację i spróbuj ponownie."
     },
     "MaintenanceError": {
-      "Description": "🦘 The Bungie API is currently down for maintenance.\n\nTune into @BungieHelp on Twitter for more information.",
-      "Name": "🦘 Bungie Maintenance"
+      "Description": "API Bungie jest obecnie wyłączone z powodu prac konserwacyjnych.\n\nŚledź profil @BungieHelp na Twitterze, aby uzyskać więcej informacji.",
+      "Name": "Prace konserwacyjne Bungie"
     },
     "ManifestDownloadError": {
-      "Description": "🦘 Something went wrong while trying to download the manifest from Bungie.\n\nPlease reload the app and try again.",
-      "Name": "🦘 Manifest download failed"
+      "Description": "Coś poszło nie tak podczas próby pobrania manifestu od Bungie.\n\nOdśwież aplikację i spróbuj ponownie.",
+      "Name": "Pobieranie manifestu nie powiodło się"
     },
     "ManifestError": {
-      "Description": "🦘 Something went wrong while trying to update the manifest with Bungie.\n\nPlease reload the app and try again.",
-      "Name": "🦘 Manifest error"
+      "Description": "Coś poszło nie tak podczas próby aktualizacji manifestu od Bungie.\n\nOdśwież aplikację i spróbuj ponownie.",
+      "Name": "Błąd manifestu"
     },
     "NoInternetError": {
-      "Description": "🦘 Are you offline? Your web browser thinks you are..."
+      "Description": "Czy jesteś offline? Twoja przeglądarka tak uważa..."
     },
     "SettingsFetchError": {
-      "Description": "🦘 Something went wrong while trying to collect the API configuration from Bungie.\n\nPlease reload the app and try again.",
-      "Name": "🦘 Configuration failure"
+      "Description": "Coś poszło nie tak podczas próby pobrania konfiguracji API od Bungie.\n\nOdśwież aplikację i spróbuj ponownie.",
+      "Name": "Błąd konfiguracji"
     },
     "Status": {
-      "DownloadingManifest": "🦘 Downloading Data From Bungie",
-      "FatalError": "🦘 Fatal Error",
-      "NoInternetError": "🦘 No Internet",
-      "Other": "🦘 Starting Windows 95",
-      "ReadStoredPGCR": "🦘 Load Stored Carnage Reports",
-      "SettingsFetch": "🦘 Connecting to Bungie.net",
-      "StoreManifest": "🦘 Storing Manifest Data"
+      "DownloadingManifest": "Pobieranie danych od Bungie",
+      "FatalError": "Błąd krytyczny",
+      "NoInternetError": "Brak internetu",
+      "Other": "Uruchamianie Windows 95",
+      "ReadStoredPGCR": "Wczytywanie zapisanych raportów z gier",
+      "SettingsFetch": "Łączenie z Bungie.net",
+      "StoreManifest": "Zapisywanie danych manifestu"
     },
-    "WaitingForBungie": "🦘 Waiting for Bungie",
-    "WaitingForVoluspa": "🦘 Waiting for Voluspa"
+    "WaitingForBungie": "Oczekiwanie na Bungie",
+    "WaitingForVoluspa": "Oczekiwanie na Voluspę"
   },
   "Maps": {
     "Context": {
-      "Rotations": "🦘 Rotations",
-      "PublicEvents": "🦘 Public Events",
-      "Next": "🦘 Next: {{next}}",
-      "ChecklistsAndMore": "🦘 Checklists + More",
-      "NoChecklistItems": "🦘 No items detected"
+      "Rotations": "Rotacje",
+      "PublicEvents": "Wydarzenia publiczne",
+      "Next": "Następne: {{next}}",
+      "ChecklistsAndMore": "Listy kontrolne i więcej",
+      "NoChecklistItems": "Nie wykryto żadnych elementów"
     },
     "Inspect": {
-      "Instructions": "🦘 Instructions",
+      "Instructions": "Instrukcje",
       "ProposeChanges": {
         "Form": {
           "Description": {
-            "Name": "🦘 Description"
+            "Name": "Opis"
           },
           "Issues": {
-            "Name": "🦘 Issues"
+            "Name": "Problemy"
           },
           "Screenshots": {
-            "Name": "🦘 Screenshots",
-            "Select": "🦘 Select Screenshots"
+            "Name": "Zrzuty ekranu",
+            "Select": "Wybierz zrzuty ekranu"
           },
           "Video": {
-            "Name": "🦘 Name"
+            "Name": "Nazwa"
           }
         },
-        "Name": "🦘 Propose Changes"
+        "Name": "Zaproponuj zmiany"
       },
-      "AvailableEvery": "🦘 Available: every {{period}}",
-      "UntrackableChecklistItem": "🦘 Untrackable Checklist Item",
-      "RelatedVideo": "🦘 This node has a related video: {{url}}",
+      "AvailableEvery": "Dostępne: co {{period}}",
+      "UntrackableChecklistItem": "Nieśledzony element listy kontrolnej",
+      "RelatedVideo": "Ten punkt posiada powiązany film: {{url}}",
       "Vendor": {
-        "NoSales": "🦘 Fresh out of stock."
+        "NoSales": "Brak towaru na stanie."
       }
     },
     "Nodes": {
-      "Unavailable": "🦘 Unavailable",
-      "UnavailableInGame": "🦘 Unavailable: this node is no longer available in-game.",
-      "UnavailableUnreliableApi": "🦘 Unavailable: something is preventing this node from relaying its status reliably."
+      "Unavailable": "Niedostępne",
+      "UnavailableInGame": "Niedostępne: ten punkt nie jest już dostępny w grze.",
+      "UnavailableUnreliableApi": "Niedostępne: coś uniemożliwia niezawodne przekazywanie statusu tego punktu."
     },
     "ProposeChanges": {
-      "Description": "🦘 Submit a proposal for changes to this node's data and improve maps for other Guardians.",
+      "Description": "Prześlij propozycję zmian danych tego punktu, aby ulepszyć mapy dla innych Strażników.",
       "Form": {
         "Description": {
-          "Placeholder": "🦘 Example: by a rock on the far side of the last room"
+          "Placeholder": "Przykład: przy skale po drugiej stronie ostatniego pomieszczenia"
         },
         "Issues": {
-          "Placeholder": "🦘 Example: the node is no longer accessible"
+          "Placeholder": "Przykład: punkt nie jest już dostępny"
         },
         "Screenshots": {
-          "Description": "🦘 Proposed screenshots must meet a strict quality criteria:\n- display resolution of 1920x1080\n- no visible HUD\n- no visible Guardians or equipment\n- no visible enemies\n- maximum video settings\n  - including a render resolution of 200%"
+          "Description": "Proponowane zrzuty ekranu muszą spełniać surowe kryteria jakościowe:\n- rozdzielczość ekranu 1920x1080\n- brak widocznego interfejsu (HUD)\n- brak widocznych Strażników lub ekwipunku\n- brak widocznych przeciwników\n- maksymalne ustawienia graficzne\n  - w tym rozdzielczość renderowania na poziomie 200%"
         }
       }
     },
-    "ScreenshotUnavailable": "🦘 Screenshot Unavailable",
+    "ScreenshotUnavailable": "Zrzut ekranu niedostępny",
     "Surveyor": {
-      "Capture": "🦘 Capture Position",
-      "CopyDefinitions": "🦘 Copy Definitions",
-      "CopyNodes": "🦘 Copy Nodes",
-      "NoNodes": "🦘 Select a position on the map to begin."
+      "Capture": "Zapisz pozycję",
+      "CopyDefinitions": "Kopiuj definicje",
+      "CopyNodes": "Kopiuj punkty",
+      "NoNodes": "Wybierz pozycję na mapie, aby rozpocząć."
     },
     "Within": {
-      "Activity": "🦘 Found within activity",
-      "ActivityName": "🦘 Found within activity: {{string}}",
-      "AscendantChallenge": "🦘 Found within Ascendant Challenge: {{string}}",
-      "Cyst": "🦘 Found within Cyst: {{string}}",
-      "LostSector": "🦘 Found within Lost Sector: {{string}}",
-      "Story": "🦘 Found within Story: {{string}}",
-      "Strike": "🦘 Found within Strike: {{string}}"
+      "Activity": "Znaleziono w aktywności",
+      "ActivityName": "Znaleziono w aktywności: {{string}}",
+      "AscendantChallenge": "Znaleziono w wyzwaniu Wstąpienia: {{string}}",
+      "Cyst": "Znaleziono w torbieli: {{string}}",
+      "LostSector": "Znaleziono w utraconym sektorze: {{string}}",
+      "Story": "Znaleziono w misji fabularnej: {{string}}",
+      "Strike": "Znaleziono w szturmie: {{string}}"
     }
   },
   "Notifications": {
     "CopyLink": {
-      "Fail": "🦘 I failed to copy this link to your clipboard.",
-      "Success": "🦘 A link has been copied to your clipboard."
+      "Fail": "Nie udało się skopiować linku do schowka.",
+      "Success": "Link został skopiowany do schowka."
     },
-    "NthMore": "🦘 and {{number}} more",
-    "NthRemaining": "🦘 {{number}} others",
+    "NthMore": "i {{number}} więcej",
+    "NthRemaining": "{{number}} innych",
     "PostmasterCapacityWarning": {
-      "DescriptionAlmostFull": "🦘 The Postmaster is almost out of space. If you do not retrieve your items, you will lose them forever!",
-      "DescriptionFull": "🦘 The Postmaster is completely out of space. If you do not retrieve your items, you will lose them forever!",
-      "Name": "🦘 Warning!"
+      "DescriptionAlmostFull": "Poczmistrz ma już prawie pełną skrzynkę. Jeśli nie odbierzesz swoich przedmiotów, stracisz je na zawsze!",
+      "DescriptionFull": "Poczmistrz ma całkowicie pełną skrzynkę. Jeśli nie odbierzesz swoich przedmiotów, stracisz je na zawsze!",
+      "Name": "Ostrzeżenie!"
     },
     "SubscriptionEndpointChanged": {
-      "Description": "🦘 While you were out touching grass, your device rescinded Voluspa's authority to send you push notifications.\n\nYou may want to review your settings if this is not what you wanted.",
-      "Name": "🦘 Push Notifications"
+      "Description": "Podczas gdy ty odpoczywałeś na łonie natury, twoje urządzenie cofnęło uprawnienie Voluspy do wysyłania ci powiadomień push.\n\nMożesz przejrzeć swoje ustawienia, jeśli to nie było twoim zamiarem.",
+      "Name": "Powiadomienia push"
     }
   },
   "GroupSearch": {
-    "NoGroupsFound": "🦘 No Clans Found",
-    "SearchPlaceholder": "🦘 enter precise clan name"
+    "NoGroupsFound": "Nie znaleziono klanów",
+    "SearchPlaceholder": "wprowadź dokładną nazwę klanu"
   },
   "ProfileSearch": {
-    "ActiveProfile": "🦘 Active Profile",
-    "ChangeProfile": "🦘 Change Profile",
-    "CrossSaveProfile": "🦘 This player has enabled Cross Save.",
+    "ActiveProfile": "Aktywny profil",
+    "ChangeProfile": "Zmień profil",
+    "CrossSaveProfile": "Ten gracz ma włączoną usługę zapisu międzyplatformowego.",
     "Error": {
       "Network": {
-        "Description": "🦘 A network error has occurred. This is a temporary error which may be resolved by dismissing the dialog and trying again.",
-        "Name": "🦘 Network Error"
+        "Description": "Wystąpił błąd sieci. Jest to błąd tymczasowy, który można rozwiązać poprzez zamknięcie okna i ponowną próbę.",
+        "Name": "Błąd sieci"
       },
       "Banned": {
-        "Botting": "🦘 Player was observed employing mechanisms to avoid inactivity detection countermeasures (botting).",
-        "Dickhead": "🦘 Dickhead.",
-        "Hacking": "🦘 Player was observed using external tools to manipulate the rules of engagement (hacking).",
-        "Teabagging": "🦘 Player was observed engaging in behaviours that are not conducive of a friendly environment."
+        "Botting": "U gracza zaobserwowano stosowanie mechanizmów mających na celu unikanie wykrycia braku aktywności (botowanie).",
+        "Dickhead": "Dupek.",
+        "Hacking": "U gracza zaobserwowano używanie zewnętrznych narzędzi do manipulowania regułami gry (hakowanie).",
+        "Teabagging": "Zaobserwowano, że gracz zachowywał się w sposób niesprzyjający przyjaznej atmosferze (teabagging)."
       },
       "CharacterMissing": {
-        "Description": "🦘 The character you tried to load is unavailable—maybe it's been deleted.",
-        "Name": "🦘 Character Unavailable"
+        "Description": "Postać, którą próbujesz wczytać, jest niedostępna – być może została usunięta.",
+        "Name": "Postać niedostępna"
       },
       "MemberBanned": {
-        "Description": "🦘 This Destiny profile has been banned from this app. This isn't an error.",
-        "Name": "🦘 Profile Banned"
+        "Description": "Ten profil Destiny został zablokowany w tej aplikacji. To nie jest błąd.",
+        "Name": "Profil zablokowany"
       },
       "PrivateProgression": {
-        "Description": "🦘 Your profile's progression data isn't available. Your profile may be set to private on Bungie.net.\n\nYou may change your privacy settings on Bungie.net or authenticate Braytech with Bungie.net",
-        "Name": "🦘 Private Profile"
+        "Description": "Dane postępu tego profilu są niedostępne. Ich profil może być ustawiony jako prywatny na Bungie.net.\n\nUstawienia prywatności profilu można zmienić na Bungie.net.",
+        "Name": "Profil prywatny"
       },
       "NoCharacters": {
-        "Description": "🦘 This player hasn't created any characters yet!",
-        "Name": "🦘 No Characters"
+        "Description": "Ten gracz nie stworzył jeszcze żadnych postaci!",
+        "Name": "Brak postaci"
       }
     },
-    "GetStarted": "🦘 Looks like you may be new here! You can get started by tapping **Authenticate** and logging in at Bungie.net or you can search for your Bungie name and load your profile manually!",
-    "Authenticate": "🦘 Authenticate securely with Bungie.net to load your profile, enable profile actions such as inventory management, and unlock tonnes of other features.",
-    "RemoveHistory": "🦘 Right click a profile to remove it from the list.",
-    "NewLight": "🦘 New Light",
-    "NoProfilesFound": "🦘 No Profiles Found",
-    "PreviousSearches": "🦘 Previous Searches",
-    "ReturnToAuthMembership": "🦘 Return to {{displayName}}",
-    "SavedProfile": "🦘 Saved Profile",
-    "SearchForPlayer": "🦘 Profile Search",
-    "SearchPlaceholder": "🦘 enter BungieName#0343",
-    "SelectACharacter": "🦘 Select A Character",
-    "ThirdPartyApps": "🦘 View this player's profile on one of our friend's apps.",
-    "ContentOwned": "🦘 This players owns the following content on the platform which they last played.",
-    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
+    "GetStarted": "Wygląda na to, że jesteś tu nowy! Możesz zacząć, stukając **Uwierzytelnij** i logując się na Bungie.net lub wyszukując swoją nazwę Bungie i wczytując swój profil ręcznie!",
+    "Authenticate": "Uwierzytelnij się bezpiecznie za pomocą Bungie.net, aby wczytać swój profil, włączyć akcje profilu, takie jak zarządzanie ekwipunkiem, i odblokować mnóstwo innych funkcji.",
+    "RemoveHistory": "Kliknij profil prawym przyciskiem myszy, aby usunąć go z listy.",
+    "NewLight": "Nowe Światło",
+    "NoProfilesFound": "Nie znaleziono profili",
+    "PreviousSearches": "Poprzednie wyszukiwania",
+    "ReturnToAuthMembership": "Powróć do {{displayName}}",
+    "SavedProfile": "Zapisany profil",
+    "SearchForPlayer": "Wyszukiwanie profilu",
+    "SearchPlaceholder": "wprowadź NazwaBungie#0343",
+    "SelectACharacter": "Wybierz postać",
+    "ThirdPartyApps": "Zobacz profil tego gracza w jednej z zaprzyjaźnionych aplikacji.",
+    "ContentOwned": "Ten gracz posiada następującą zawartość na platformie, na której ostatnio grał.",
+    "BungieNet": "Ten profil jest powiązany z kontem Bungie.net."
   },
   "Progression": {
-    "Points": "🦘 Points",
-    "PointsNextRank": "🦘 Points until next rank",
-    "PointsTotal": "🦘 Total points",
-    "PrestigeNth": "🦘 Prestige {{number}}",
-    "ResetsNth": "🦘 1 Reset",
-    "ResetsNth_plural": "🦘 {{number}} Resets",
-    "Rank": "🦘 Rank",
-    "RankNth": "🦘 Rank {{number}}",
-    "ResetVendor": "🦘 Return to the vendor to reset your rank",
-    "Streak": "🦘 Streak",
-    "Title": "🦘 Title",
+    "Points": "Punkty",
+    "PointsNextRank": "Punkty do następnej rangi",
+    "PointsTotal": "Łączna liczba punktów",
+    "PrestigeNth": "Prestiż {{number}}",
+    "ResetsNth": "1 reset",
+    "ResetsNth_plural": "Resety: {{number}}",
+    "Rank": "Ranga",
+    "RankNth": "Ranga {{number}}",
+    "ResetVendor": "Wróć do sprzedawcy, aby zresetować swoją rangę",
+    "Streak": "Seria",
+    "Title": "Tytuł",
     "TrialsPassage": {
-      "Flawless": "🦘 무결점",
-      "FlawlessPassage": "🦘 Flawless Passage",
-      "WeeklyTimesFlawless": "🦘 Flawless This Week",
-      "Wins": "🦘 Wins"
+      "Flawless": "Bez strat",
+      "FlawlessPassage": "Karta bez strat",
+      "WeeklyTimesFlawless": "Bez strat w tym tygodniu",
+      "Wins": "Wygrane"
     }
   },
   "Quests": {
-    "NoBounties": "🦘 Bounties you acquire will appear here.",
-    "NoQuests": "🦘 Quests you acquire will appear here.",
-    "Rewards": "🦘 Quest Rewards",
-    "Steps": "🦘 Quest Steps",
-    "ProjectedRanks": "🦘 The value of your completed bounties equates to the above season pass ranks should you claim them.",
-    "ExperienceNeeded": "🦘 Experience needed for next rank.",
-    "BountiesValue": "🦘 The value of your completed bounties.",
-    "XPBonuses": "🦘 Bonuses",
-    "SuggestedPath": "🦘 Suggested Path",
+    "NoBounties": "Zlecenia, które zdobędziesz, pojawią się tutaj.",
+    "NoQuests": "Zadania, które zdobędziesz, pojawią się tutaj.",
+    "Rewards": "Nagrody za zadania",
+    "Steps": "Kroki zadania",
+    "ProjectedRanks": "Wartość twoich ukończonych zleceń odpowiada powyższym rangom przepustki sezonowej, jeśli zdecydujesz się je odebrać.",
+    "ExperienceNeeded": "Punkty doświadczenia potrzebne do następnej rangi.",
+    "BountiesValue": "Wartość twoich ukończonych zleceń.",
+    "XPBonuses": "Premie",
+    "SuggestedPath": "Sugerowana ścieżka",
     "Sorted": {
-      "Completion": "🦘 Sorted by **Completion**",
-      "Name": "🦘 Sorted by **Name**",
-      "Expiry": "🦘 Sorted by **Expiry**",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "Completion": "Sortowanie: **Ukończenie**",
+      "Name": "Sortowanie: **Nazwa**",
+      "Expiry": "Sortowanie: **Czas wygaśnięcia**",
+      "User": "Sortowanie: **Użytkownik**",
+      "None": "Niesortowane"
     }
   },
   "RewardHistory": {
-    "Name": "🦘 Reward History",
-    "Info": "🦘 Press to display session history."
+    "Name": "Historia nagród",
+    "Info": "Naciśnij, aby wyświetlić historię sesji."
   },
   "Search": {
     "Error": {
-      "MissingDefinitions": "🦘 Failed to perform a manifest search because there are no definitions in the index."
+      "MissingDefinitions": "Nie udało się przeszukać manifestu, ponieważ w indeksie brakuje definicji."
     },
     "Examples": {
-      "Description": "🦘 description:clovis bray",
-      "Expiration": "🦘 expiration:seraph",
-      "Name": "🦘 name:mida",
-      "Source": "🦘 source:leveling",
-      "Type": "🦘 type:scout rifle"
+      "Description": "description:clovis bray",
+      "Expiration": "expiration:seraph",
+      "Name": "name:mida",
+      "Source": "source:leveling",
+      "Type": "type:scout rifle"
     },
-    "Placeholder": "🦘 enter name or description",
+    "Placeholder": "wprowadź nazwę lub opis",
     "Results": {
-      "MatchesAllHidden": "🦘 There is a match, but you've chosen to hide it!",
-      "MatchesAllHidden_plural": "🦘  {{count}} 件見つかりました。しかし表示しないように設定しているようです。",
-      "NoMatches": "🦘 Nothing matched your terms.",
-      "Top10Upsell": "🦘 Showing the top 10 matches. Press  at any time for a full search experience.",
-      "TopNSpecificity": "🦘 Showing the top {{number}} matches. Try being more specific."
+      "MatchesAllHidden": "Znaleziono dopasowanie, ale zdecydowałeś się je ukryć!",
+      "MatchesAllHidden_plural": "Liczba dopasowań: {{count}}, ale zdecydowałeś się je ukryć!",
+      "NoMatches": "Nic nie pasuje do twoich kryteriów.",
+      "Top10Upsell": "Wyświetlanie 10 najlepszych dopasowań. Naciśnij  w dowolnym momencie, aby przejść do pełnego wyszukiwania.",
+      "TopNSpecificity": "Wyświetlanie {{number}} najlepszych dopasowań. Spróbuj uściślić wyszukiwanie."
     },
-    "ShortcutKey": "🦘 Press  to toggle search from anywhere",
-    "Suggestions": "🦘 Search supports filters as prefixes. You may also search by manifest identifier. For example, the best weapon in the game, `564802913`.\n\nTrying to find a Braytech feature? Search for what it may be named.\n\nResults are prioritised by name, source, and description.",
-    "VanguardArchives": "🦘 Welcome to the Vanguard archives."
+    "ShortcutKey": "Naciśnij , aby włączyć wyszukiwanie z dowolnego miejsca",
+    "Suggestions": "Wyszukiwanie obsługuje filtry w formie prefiksów. Możesz również wyszukiwać po identyfikatorze manifestu. Na przykład, najlepsza broń w grze: `564802913`.\n\nPróbujesz znaleźć funkcję Braytech? Wyszukaj jej potencjalną nazwę.\n\nWyniki są priorytetyzowane według nazwy, źródła i opisu.",
+    "VanguardArchives": "Witamy w archiwach Straży Przedniej."
   },
   "SeasonPass": {
-    "ProgressPassLevel": "🦘 시즌 등급 진행 상황",
-    "ProgressPowerBonus": "🦘 Power Bonus Progress",
-    "SeasonProgress": "🦘 Season Progress",
-    "SeasonProgressDays": "🦘 Days"
+    "ProgressPassLevel": "Postęp rangi sezonowej",
+    "ProgressPowerBonus": "Postęp premii do mocy",
+    "SeasonProgress": "Postęp sezonu",
+    "SeasonProgressDays": "Dni"
   },
   "Settings": {
     "Developer": {
       "ExperimentalFeatures": {
-        "Description": "🦘 Start using features which may not yet be properly developed, refined, or quality checked.",
-        "Name": "🦘 Enable Experimental Features"
+        "Description": "Zacznij korzystać z funkcji, które mogą nie być jeszcze w pełni dopracowane, przetestowane lub zweryfikowane pod kątem jakości.",
+        "Name": "Włącz eksperymentalne funkcje"
       },
       "Maps": {
         "Debug": {
-          "Description": "🦘 Enable Maps debugging settings.",
-          "Name": "🦘 Maps Debug Mode"
+          "Description": "Włącz ustawienia debugowania map.",
+          "Name": "Tryb debugowania map"
         },
         "LogDetails": {
-          "Description": "🦘 Console.log details for the mouse-invoked node.",
-          "Name": "🦘 Log Node Details"
+          "Description": "Zapisuj w konsoli (console.log) szczegóły dotyczące punktu wskazanego myszą.",
+          "Name": "Loguj szczegóły punktów"
         },
         "Surveyor": {
-          "Description": "🦘 An additional maps control allowing the easy and rapid collection of map nodes.",
-          "Name": "🦘 Use Surveyor"
+          "Description": "Dodatkowe opcje sterowania mapami umożliwiające szybkie i łatwe zbieranie punktów mapy.",
+          "Name": "Użyj Surveyor"
         }
       }
     },
     "IDB": {
       "ClearCache": {
-        "Description": "🦘 Clear cached assets such as map images. These assets are downloaded as they're required.",
-        "Name": "🦘 Clear Cache"
+        "Description": "Wyczyść pobrane zasoby, takie jak obrazy map. Te zasoby są pobierane ponownie w razie potrzeby.",
+        "Name": "Wyczyść pamięć podręczną"
       },
       "ClearManifest": {
-        "Description": "🦘 Delete the Destiny manifest stored on this device. Braytech requires the manifest to function and it will be downloaded again next time the app is started.",
-        "Name": "🦘 Clear Manifest"
+        "Description": "Usuń manifest Destiny zapisany na tym urządzeniu. Braytech wymaga manifestu do działania – zostanie on pobrany przy następnym uruchomieniu aplikacji.",
+        "Name": "Wyczyść manifest"
       },
       "ClearReports": {
-        "Description": "🦘 Delete all post game carnage reports stored on this device.",
-        "Name": "🦘 Clear Reports"
+        "Description": "Usuń wszystkie raporty z gier (PGCR) zapisane na tym urządzeniu.",
+        "Name": "Wyczyść raporty"
       },
       "Usage": {
-        "Description": "🦘 Storage used by Destiny's manifest, cached post game carnage reports, and cached assets.",
-        "Name": "🦘 Usage"
+        "Description": "Pamięć zajmowana przez manifest Destiny, zapisane raporty z gier oraz pobrane zasoby.",
+        "Name": "Użycie pamięci"
       }
     },
     "Interface": {
       "AlternateAppIcon": {
-        "Info": "🦘 Alter the appearance of the app's icon."
+        "Info": "Zmień wygląd ikony aplikacji."
       },
       "FlipSubviewNav": {
-        "Info": "🦘 For users who want to be different and for users who use Braytech on their mobile device with their right hand.",
-        "Left": "🦘 Left",
-        "Right": "🦘 Right"
+        "Info": "Dla użytkowników, którzy chcą czegoś innego lub korzystają z Braytech na urządzeniu mobilnym prawą ręką.",
+        "Left": "Do lewej",
+        "Right": "Do prawej"
       },
       "ItemSize": {
-        "Info": "🦘 Adjust the size of inventory item icons for most Braytech features."
+        "Info": "Dostosuj rozmiar ikon przedmiotów w większości funkcji Braytech."
       }
     },
     "ItemVisibility": {
       "HideCompletedCollectibles": {
-        "Description": "🦘 If a collectible has been acquired, it will be hidden under Collections views.",
-        "Name": "🦘 Hide Acquired Collection Items"
+        "Description": "Ukryj zdobyte przedmioty kolekcjonerskie w widoku Kolekcji.",
+        "Name": "Ukryj zdobyte przedmioty z kolekcji"
       },
       "HideCompletedRecords": {
-        "Description": "🦘 If a triumph record is completed and redeemed, it will be hidden under Triumphs views.",
-        "Name": "🦘 Hide Completed Triumph Records"
+        "Description": "Ukryj ukończone i odebrane triumfy w widoku Triumfów.",
+        "Name": "Ukryj ukończone triumfy"
       },
       "HideInvisibleCollectibles": {
-        "Description": "🦘 If the game specifies that you are unable to see a particular collectible, it will be hidden under Collections views.",
-        "Name": "🦘 Hide Invisible Collection Items"
+        "Description": "Jeśli gra określa, że dany przedmiot kolekcjonerski jest niewidoczny, zostanie on ukryty w widoku Kolekcji.",
+        "Name": "Ukryj niewidoczne przedmioty z kolekcji"
       },
       "HideInvisibleRecords": {
-        "Description": "🦘 If the game specifies that you are unable to see a particular record, it will render as \"Secret\" under Triumphs views.",
-        "Name": "🦘 Hide Invisible Triumph Records"
+        "Description": "Jeśli gra określa, że dany triumf jest niewidoczny, będzie on wyświetlany jako „Sekretny” w widoku Triumfów.",
+        "Name": "Ukryj niewidoczne triumfy"
       },
       "HideUnobtainableRecords": {
-        "Description": "🦘 Hide unobtainable records from view. This is a manually curated [list](/triumphs/unobtainable).",
-        "Name": "🦘 Hide Unobtainable Triumph Records"
+        "Description": "Ukryj niezdobywalne triumfy z widoku. Jest to ręcznie tworzona lista.",
+        "Name": "Ukryj niezdobywalne triumfy"
       }
     },
     "LS": {
       "ResetEverything": {
-        "Description": "🦘 Reset all user settings, saved data, and history.",
-        "Name": "🦘 Reset Everything"
+        "Description": "Zresetuj wszystkie ustawienia użytkownika, zapisane dane oraz historię.",
+        "Name": "Zresetuj wszystko"
       },
       "ResetNotifications": {
-        "Description": "🦘 Reset dismissed notifications to their default state.",
-        "Name": "🦘 Reset Notifications"
+        "Description": "Przywróć odrzucone powiadomienia do stanu domyślnego.",
+        "Name": "Zresetuj powiadomienia"
       },
       "ResetProfileHistory": {
-        "Description": "🦘 Delete the stored list of previously loaded profiles (Profile Search).",
-        "Name": "🦘 Reset Profile History"
+        "Description": "Usuń zapisaną listę wcześniej wyszukiwanych profili.",
+        "Name": "Wyczyść historię wyszukiwania profili"
       },
       "ResetTips": {
-        "Description": "🦘 Restore informational tips to their default state.",
-        "Name": "🦘 Reset Tips"
+        "Description": "Przywróć porady informacyjne do stanu domyślnego.",
+        "Name": "Zresetuj wskazówki"
       },
       "ResetTrackedTriumphs": {
-        "Description": "🦘 Untrack all user-tracked triumphs. Will not affect the state of in-game triumphs.",
-        "Name": "🦘 Reset Tracked Triumphs"
+        "Description": "Przestań śledzić wszystkie śledzone triumfy. Nie wpłynie to na stan triumfów w grze.",
+        "Name": "Zresetuj śledzone triumfy"
       }
     },
     "Language": {
       "Colloquial": {
-        "Description": "🦘 Activate user-contributed slang in place of official texts.",
-        "Name": "🦘 Use Colloquial Language"
+        "Description": "Włącz slang tworzony przez społeczność w miejsce oficjalnych tekstów.",
+        "Name": "Używaj języka potocznego"
       }
     },
     "Maps": {
       "Checklists": {
-        "Info": "🦘 Toggle the visibility of checklists. Keep it clean."
+        "Info": "Przełącz widoczność list kontrolnych. Dbaj o przejrzystość."
       },
       "Developer": {
-        "Info": "🦘 Tools to assist developers when working on maps"
+        "Info": "Narzędzia ułatwiające programistom pracę z mapami"
       },
       "ItemVisibility": {
         "HideDiscoveredNodes": {
-          "Description": "🦘 If a node has been discovered, omit it from the map unless selected.",
-          "Name": "🦘 Hide Discovered Nodes"
+          "Description": "Ukryj odkryte punkty na mapie, chyba że zostaną wybrane.",
+          "Name": "Ukryj odkryte punkty"
         },
         "HidePatrols": {
-          "Description": "🦘 Hide all patrol beacons.",
-          "Name": "🦘 Hide Patrols"
+          "Description": "Ukryj wszystkie nadajniki patrolowe.",
+          "Name": "Ukryj patrole"
         }
       },
       "Visual": {
         "Atmosphere": {
-          "Description": "🦘 Display weather such as cloud cover.",
-          "Name": "🦘 Atmosphere"
+          "Description": "Wyświetlaj warunki pogodowe, takie jak zachmurzenie.",
+          "Name": "Atmosfera"
         }
       },
       "VisualFidelity": {
-        "Info": "🦘 Alter the appearance of visual flourishes"
+        "Info": "Zmień wygląd ozdobników wizualnych"
       }
     },
     "Profile": {
-      "Info": "🦘 Braytech makes it easy to view many player profiles, but it remembers the last profile you selected from [Profile Search](/profile-search).",
-      "NoProfileSelected": "🦘 Select a profile"
+      "Info": "Braytech ułatwia przeglądanie profili wielu graczy, ale zapamiętuje ostatnio wybrany profil z wyszukiwarki profili.",
+      "NoProfileSelected": "Wybierz profil"
     },
     "PushNotifications": {
-      "Info": "🦘 Push notifications use browser and operating system APIs to send you notifications even when you're not using the app.\n\nIf you want Braytech to send you notifications, you can control if, when, and why, here.",
+      "Info": "Powiadomienia push używają interfejsów API przeglądarki i systemu operacyjnego, aby wysyłać powiadomienia, nawet gdy aplikacja nie jest używana.\n\nJeśli chcesz, aby Braytech wysyłał ci powiadomienia, możesz kontrolować tutaj czy, kiedy i dlaczego mają być wysyłane.",
       "Condition": {
-        "AnyActivity": "🦘 Any Activity",
-        "AnyMod": "🦘 Any Mod",
-        "AnyReward": "🦘 Any Reward",
-        "AnySale": "🦘 Any Sale",
-        "AnyShader": "🦘 Any Shader",
-        "Multiple": "🦘 Multiple",
-        "Uncollected": "🦘 Uncollected"
+        "AnyActivity": "Dowolna aktywność",
+        "AnyMod": "Dowolna modyfikacja",
+        "AnyReward": "Dowolna nagroda",
+        "AnySale": "Dowolna oferta",
+        "AnyShader": "Dowolny barwnik",
+        "Multiple": "Wiele",
+        "Uncollected": "Niezebrane"
       },
-      "Conditions": "🦘 Conditions",
-      "Configure": "🦘 Configure Push Notifications",
-      "Event": "🦘 Event",
-      "Frequency": "🦘 Frequency",
-      "Incompatible": "🦘 Your browser doesn't support push notifications yet.",
-      "NoServiceWorker": "🦘 A service worker hasn't been installed yet. Try reloading Braytech.",
-      "PermissionDenied": "🦘 You've denied permission to send notifications. You'll need to manually enable or reset them before we can continue. Check your browser and device settings.",
-      "ServiceWorkerInstalling": "🦘 A service worker is installing. Please wait.",
+      "Conditions": "Warunki",
+      "Configure": "Konfiguruj powiadomienia push",
+      "Event": "Wydarzenie",
+      "Frequency": "Częstotliwość",
+      "Incompatible": "Twoja przeglądarka nie obsługuje jeszcze powiadomień push.",
+      "NoServiceWorker": "Skrypt usługi (Service Worker) nie został jeszcze zainstalowany. Spróbuj odświeżyć Braytech.",
+      "PermissionDenied": "Zablokowałeś uprawnienia do wysyłania powiadomień. Musisz je ręcznie włączyć lub zresetować w ustawieniach przeglądarki lub urządzenia, aby kontynuować.",
+      "ServiceWorkerInstalling": "Instalowanie skryptu usługi. Proszę czekać.",
       "PreviewNotifications": {
-        "Description": "🦘 Dispatch enabled notifications immediately.",
-        "Name": "🦘 Preview Notifications"
+        "Description": "Wybierz, aby przetestować skonfigurowane powiadomienia. Voluspa wyśle je natychmiast na twoje urządzenie.",
+        "Name": "Testuj powiadomienia"
       },
-      "Stats": "🦘 **{{subscriptions}}** subscribed devices by **{{subscribers}}** users, of which **{{subscribed}}** support Braytech with a subscription."
+      "Stats": "Subskrybowane urządzenia: **{{subscriptions}}** przez **{{subscribers}}** użytkowników, z czego **{{subscribed}}** wspiera Braytech subskrypcją."
     },
     "ReloadRequired": {
-      "Description": "🦘 Select reload app to activate your changes immediately.",
-      "Name": "🦘 Reload Required"
+      "Description": "Wybierz odświeżenie aplikacji, aby natychmiast zastosować zmiany.",
+      "Name": "Wymagane odświeżenie"
     },
     "Reports": {
-      "Info": "🦘 Once downloaded, reports are saved to device storage for rapid access after the fact. All reports are associated with the member through which they were originally viewed. You can clear them here, member by member. You may wish to do this in order to minimise initial load time, if you've downloaded many reports.",
-      "NoReports": "🦘 No reports are stored on this device.",
-      "ReportsCount": "🦘 Count",
-      "ReportsMember": "🦘 Member"
+      "Info": "Po pobraniu raporty są zapisywane w pamięci urządzenia w celu szybkiego dostępu. Wszystkie raporty są powiązane z kontem użytkownika, przez który były pierwotnie przeglądane. Możesz je tutaj wyczyścić, dla każdego konta osobno. Warto to zrobić, aby zminimalizować czas wczytywania, jeśli pobrano wiele raportów.",
+      "NoReports": "Brak raportów zapisanych na tym urządzeniu.",
+      "ReportsCount": "Liczba",
+      "ReportsMember": "Członek"
     },
     "Search": {
       "HideFeatureSuggestions": {
-        "Description": "🦘 Hold your breath–I know what I'm doing.",
-        "Name": "🦘 Hide Feature Suggestions"
+        "Description": "Wstrzymaj oddech – wiem, co robię.",
+        "Name": "Ukryj sugestie funkcji"
       },
       "ItemVisibilityOverride": {
-        "Description": "🦘 Use this setting to override global Item Visibility settings for records and collectibles.",
-        "Name": "🦘 Show Completed and Acquired"
+        "Description": "Użyj tego ustawienia, aby zastąpić globalne ustawienia widoczności dla triumfów i przedmiotów kolekcjonerskich.",
+        "Name": "Pokaż ukończone i zdobyte"
       }
     },
     "SubCategory": {
-      "Authentication": "🦘 Authentication",
-      "BraytechIdentity": "🦘 Braytech Username",
-      "Developer": "🦘 Developer",
-      "IDB": "🦘 Database Storage",
+      "Authentication": "Uwierzytelnianie",
+      "BraytechIdentity": "Tożsamość Braytech",
+      "Developer": "Deweloper",
+      "IDB": "Pamięć bazy danych",
       "Interface": {
-        "AlternateAppIcon": "🦘 App Icon",
-        "FlipSubviewNav": "🦘 Flip Subview Nav",
-        "ItemSize": "🦘 Inventory Item Size"
+        "AlternateAppIcon": "Ikona aplikacji",
+        "FlipSubviewNav": "Odwrócenie nawigacji podwidoku",
+        "ItemSize": "Rozmiar ikon w ekwipunku"
       },
-      "ItemVisibility": "🦘 Item Visibility",
-      "LS": "🦘 Local Storage",
-      "Language": "🦘 Language",
-      "Reports": "🦘 Reports Storage",
-      "SavedProfile": "🦘 Saved Profile",
-      "Search": "🦘 Search",
-      "Synchronisation": "🦘 Synchronisation",
-      "System": "🦘 System",
-      "Theme": "🦘 Theme",
-      "Troubleshooting": "🦘 Troubleshooting",
-      "VisualFidelity": "🦘 Visual Fidelity"
+      "ItemVisibility": "Widoczność przedmiotów",
+      "LS": "Pamięć lokalna",
+      "Language": "Język",
+      "Reports": "Pamięć raportów",
+      "SavedProfile": "Zapisany profil",
+      "Search": "Szukaj",
+      "Synchronisation": "Synchronizacja",
+      "System": "System",
+      "Theme": "Motyw",
+      "Troubleshooting": "Rozwiązywanie problemów",
+      "VisualFidelity": "Efekty wizualne"
     },
     "Subscriptions": {
-      "Info": "🦘 Ads suck so Braytech doesn't use them, but none of this is free or easy!\n\nIn place of ads, I depend on your generosity. Your support helps keep the app online, enables me to work on new features, and pays my rent!\n\nSubscribe at one of the following tiers for cool rewards such as profile medals!",
-      "Help": "🦘 You can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "HelpMore": "🦘 Subscription tier pricing is displayed in USD. Changing tiers is achieved by resubscribing at a different tier.\n\nYou can get help with this at any time by jumping on [Discord](https://discord.bray.tech) or by emailing [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
-      "AuthRequired": "🦘 Authenticate with Bungie.net to create or manage a subscription.",
+      "Info": "Reklamy są kiepskie, dlatego Braytech ich nie używa, ale utrzymanie aplikacji nie jest darmowe ani proste!\n\nW miejsce reklam liczę na twoją szczodrość. Twoje wsparcie pomaga utrzymać aplikację online, pozwala mi pracować nad nowymi funkcjami i opłacić czynsz!\n\nSubskrybuj jeden z poniższych progów, aby zyskać wyjątkowe funkcje!",
+      "Help": "Pomoc w tym zakresie możesz uzyskać w dowolnym momencie, wchodząc na serwer [Discord](https://discord.bray.tech) lub wysyłając e-mail na adres [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
+      "HelpMore": "Pomoc w tym zakresie możesz uzyskać w dowolnym momencie, wchodząc na serwer [Discord](https://discord.bray.tech) lub wysyłając e-mail na adres [subscriptions@bray.tech](mailto:subscriptions@bray.tech).\n\nTwoje pytanie mogło już zostać wyjaśnione w [Najczęściej zadawanych pytaniach (FAQ)](/addendums/faq).\n\nJeśli masz jakiekolwiek uwagi, prześlij je bezpośrednio na mój adres e-mail lub za pośrednictwem Discorda, abym mógł ulepszać swoje usługi!",
+      "AuthRequired": "Uwierzytelnij się za pomocą Bungie.net, aby utworzyć subskrypcję lub nią zarządzać, bądź też połączyć konto z Discordem.",
       "State": {
-        "Ending": "🦘 You subscribed on **{{created}}** and your subscription will **end** on **{{currentPeriodEnd}}**.",
-        "Renewing": "🦘 You subscribed on **{{created}}** and your subscription will **renew** on **{{currentPeriodEnd}}**.",
-        "Cancelled": "🦘 Your subscrition **ended** on **{{currentPeriodEnd}}**. Thank you for your support!"
+        "Ending": "Subskrypcja rozpoczęta **{{created}}** zakończy się dnia **{{currentPeriodEnd}}**.",
+        "Renewing": "Subskrypcja rozpoczęta **{{created}}** odnowi się dnia **{{currentPeriodEnd}}**.",
+        "Cancelled": "Subskrypcja zakończyła się dnia **{{currentPeriodEnd}}**. Dziękujemy za wsparcie!"
       },
       "DiscordProfile": {
-        "Connected": "🦘 Your connected Discord profile.",
-        "Disconnected": "🦘 Get your server perks, be eligble to receive rewards such as emblem codes, and participate in the conversation to help shape Braytech's development!",
-        "Linked": "🦘 **{{username}}** is linked"
+        "Connected": "Twój połączony profil Discord.\nPonieważ twój profil Discord i profil Bungie.net są teraz połączone, możesz otrzymywać bonusy subskrybenckie oraz nagrody z programów Braytech.",
+        "Disconnected": "Zdobądź bonusy na serwerze, kwalifikuj się do otrzymywania nagród takich jak kody na emblematy i dołącz do rozmowy, aby pomóc w kształtowaniu rozwoju Braytech!",
+        "Linked": "Konto **{{username}}** jest powiązane"
       },
-      "UpsellSubscription": "🦘 Support with a subscription",
-      "ActiveSubscription": "🦘 Active Subscription",
-      "InactiveSubscription": "🦘 Inactive",
-      "ManageSubscription": "🦘 Manage Subscription",
-      "Stripe": "🦘 Visit Stripe to manage your subscription.",
+      "UpsellSubscription": "Wesprzyj subskrypcją",
+      "ActiveSubscription": "Aktywna subskrypcja",
+      "InactiveSubscription": "Nieaktywna subskrypcja",
+      "ManageSubscription": "Zarządzaj subskrypcją",
+      "Stripe": "Odwiedź Stripe, aby zarządzać subskrypcją.",
       "Newsletter": {
-        "Name": "🦘 Receive Email",
-        "Description": "🦘 Get Braytech's blog posts and any relevant subscriber information delivered directly to your inbox."
+        "Name": "Subskrybuj e-mail",
+        "Description": "Otrzymuj wpisy z bloga Braytech oraz wszelkie istotne informacje dla subskrybentów bezpośrednio do swojej skrzynki odbiorczej."
       },
       "ChangeTier": {
-        "Name": "🦘 Change Tier",
-        "Description": "🦘 Changing tiers is fast and easy. All you need to do is confirm. You will be billed immediately.\n\nAs always, if you have any issues or want to chat, please don't hesistate–hit me up at [subscriptions@bray.tech](mailto:subscriptions@bray.tech) or @ me on [Discord](https://discord.bray.tech)."
+        "Name": "Zmień próg",
+        "Description": "Zmiana progu subskrypcji jest szybka i prosta. Wystarczy potwierdzić wybór. Płatność zostanie naliczona natychmiast.\n\nW razie jakichkolwiek problemów napisz do mnie na adres [subscriptions@bray.tech](mailto:subscriptions@bray.tech) lub oznacz mnie na [Discordzie](https://discord.bray.tech)."
       },
-      "Perks": "🦘 Perks",
-      "Tiers": "🦘 Tiers",
-      "Legends": "🦘 Legends",
-      "Connect": "🦘 Connect",
-      "BlogInfo": "🦘 Keep track of Braytech's development by following along with the latest blog posts. I try to keep these as interesting and insightful as I can!",
-      "DiscordInfo": "🦘 Join the Braytech community! Hang out, drop suggestions, report bugs, and get help for the app instantly.",
-      "NewSubsInfo": "🦘 Recent subscribers who carry Braytech on their shoulders, enabling its continuous development.",
-      "OneTime": "🦘 Make a one-time donation to support Braytech. No strings attached, but I will take you out for a drink.",
-      "JustOnce": "🦘 Just Once",
+      "Perks": "Zalety",
+      "Tiers": "Progi",
+      "Legends": "Legendy",
+      "Connect": "Połącz",
+      "BlogInfo": "Śledź rozwój Braytech, czytając najnowsze wpisy na blogu. Staram się, aby były jak najciekawsze i najbardziej wartościowe!",
+      "DiscordInfo": "Dołącz do społeczności Braytech! Spędzaj z nami czas, zgłaszaj sugestie i błędy oraz uzyskuj natychmiastową pomoc dotyczącą aplikacji.",
+      "NewSubsInfo": "Niedawni subskrybenci, którzy wspierają Braytech na swoich barkach, umożliwiając jego ciągły rozwój.",
+      "OneTime": "Przekaż jednorazową darowiznę na wsparcie Braytech. Bez żadnych zobowiązań, ale chętnie zaproszę cię na drinka.",
+      "JustOnce": "Tylko raz",
       "Perk": {
         "Username": {
-          "Description": "🦘 Shorten your address from a bunch of long numbers to something superior.\n\nChoose a unique name or match your Bungie name, it's up to you. This is just another cute way to distinguish yourself from other players and it makes it easier to go straight to your profile on a device you haven't used.\n\nEmoji supported **🐸**",
-          "Name": "🦘 Username"
+          "Description": "Skróć swój adres z ciągu długich cyfr na coś lepszego.\n\nWybierz unikalną nazwę lub dopasuj ją do swojej nazwy Bungie. To kolejny fajny sposób na wyróżnienie się spośród innych graczy i ułatwia bezpośrednie przejście do profilu na nowym urządzeniu.\n\nObsługiwane są emoji **🐸**",
+          "Name": "Nazwa użytkownika"
         },
         "Highlight": {
-          "Description": "🦘 Choose to highlight a special triumph or an impressive stat tracker.\n\nThis highlight is displayed on your [Legend](/legend) view and in images generated for links you share around the internet.",
-          "Name": "🦘 Highlight"
+          "Description": "Wybierz specjalny triumf lub imponujący monitor statystyk do wyróżnienia.\n\nTo wyróżnienie będzie wyświetlane w widoku twojej [Legendy](/legend) oraz na obrazach generowanych dla linków, które udostępniasz w internecie.",
+          "Name": "Wyróżnienie"
         },
         "EmblemCodes": {
-          "Description": "🦘 Braytech has amassed a grand collection of emblem codes, sometimes contributed to by its most benevolent users.\n\nAs a subscriber, you may redeem an emblem code from [The Developer's Stash]({{url}}).",
-          "Name": "🦘 Emblem Codes"
+          "Description": "Braytech zgromadził pokaźną kolekcję kodów na emblematy, częściowo przekazanych przez życzliwych użytkowników.\n\nJako subskrybent możesz odebrać kod na emblemat ze [Skrytki dewelopera]({{url}}).",
+          "Name": "Kody na emblematy"
         },
         "AdvancedLeaderboards": {
-          "Description": "🦘 If you're a [Leaderboards](/leaderboards) power user, you've got two more tools in your inventory.\n\nAs a subscriber, you can compare the difference between two adjacent players on a leaderboard, and you have option to update your profile's Leaderboards data and reassess all leaderboards on demand.",
-          "Name": "🦘 Advanced Leaderboards"
+          "Description": "Jeśli jesteś zaawansowanym użytkownikiem tablicy wyników, otrzymujesz dwa dodatkowe narzędzia.\n\nJako subskrybent możesz porównywać różnice między dwoma sąsiadującymi graczami na tablicy wyników oraz na żądanie zaktualizować dane swojego profilu i przeliczyć wszystkie tablice wyników.",
+          "Name": "Zaawansowane tablice wyników"
         },
         "Medal": {
-          "Description": "🦘 High tier subscribers unlock a permanent medal for their profiles, displayed wherever their profile appears, both on roster entries and in player details dialogs.",
-          "Name": "🦘 Medals"
+          "Description": "Subskrybenci wyższych progów odblokowują stały medal na swoim profilu, wyświetlany wszędzie tam, gdzie pojawia się ich profil, zarówno na listach członków, jak i w oknach szczegółów gracza.",
+          "Name": "Medale"
         },
         "PriorityDevelopment": {
-          "Description": "🦘 Braytech is only as great as its usefulness to its users. I, the developer, have always taken feedback and suggestions from users.\n\nUsers have made Braytech greater, and I'll prioritse your feedback and suggesstions.",
-          "Name": "🦘 Priority Development"
+          "Description": "Aplikacja Braytech jest tak dobra, jak jej użyteczność dla użytkowników. Jako deweloper zawsze brałem pod uwagę opinie i sugestie społeczności.\n\nUżytkownicy uczynili Braytech lepszym, a ja traktuję twoje opinie i sugestie priorytetowo.",
+          "Name": "Priorytetowy rozwój"
         },
         "Newsletter": {
-          "Description": "🦘 Subscribe to Braytech's newsletter to receive blog posts and more directly to your email inbox. It's an old Cryptarch technology, but it's functional.",
-          "Name": "🦘 Newsletter"
+          "Description": "Subskrybuj biuletyn Braytech, aby otrzymywać wpisy z bloga i inne informacje bezpośrednio na skrzynkę e-mail. To stara kryptarchiczna technologia, ale działa.",
+          "Name": "Newsletter"
         }
       }
     },
     "BraytechLegend": {
-      "Updated": "🦘 Your legend has been updated. ✨",
-      "Disabled": "🦘 Your legend has been disabled.",
-      "Info": "🦘 Brandish your profile with a unique username to make sharing easier, select a triumph or tracker to highlight when your profile is shared, and choose a character to default to when a link to your profile is shared without a character specified.\n\n[Subscribers](/settings/subscriptions) get many perks including the ability to grab a custom username.",
-      "AuthRequired": "🦘 To alter your legend, you need to first authenticate Braytech with Bungie.net.",
-      "SubscriptionRequired": "🦘 To claim a username and other cool tricks, you need to be a subscriber. [Support Braytech](/settings/subscriptions) through a subscription.",
-      "Username": "🦘 Select a unique username or fallback to your Bungie name. You can change this at any time.\n\nA branding specialist is available upon request for a modest fee.",
-      "UsernameSpecifications": "🦘 Maximum length for usernames is 127 characters. Any word character (equivalent to [a-zA-Z0-9_]) and some emoji are supported.",
-      "DefaultCharacter": "🦘 You can choose a character to be a default for links shared without a character identifier.\n\nFor example, if you share a link to https://bray.tech/@/{{username}}, Braytech will ask the viewer to select a character. You can select a preferred character instead.",
-      "ShareHighlight": "🦘 When your profile is shared, an image specific to you is generated. You can choose to highlight a triumph or tracker you're proud of. This will also be displayed on the [Legend](/legend) view."
+      "Updated": "Twoja legenda została zaktualizowana. ✨",
+      "Disabled": "Twoja legenda została wyłączona.",
+      "Info": "Wyróżnij swój profil unikalną nazwą użytkownika, aby ułatwić udostępnianie, wybierz triumf lub monitor statystyk do wyróżnienia, gdy profil jest udostępniany, oraz wybierz postać, która ma być domyślnie wyświetlana przy udostępnianiu linku bez określonej postaci.\n\n[Subskrybenci](/settings/subscriptions) otrzymują wiele korzyści, w tym możliwość posiadania własnej nazwy użytkownika.",
+      "AuthRequired": "Uwierzytelnij się za pomocą Bungie.net, aby zmienić ustawienia Legendy.",
+      "SubscriptionRequired": "Aby zastrzec nazwę użytkownika i korzystać z innych fajnych opcji, musisz być subskrybentem. [Wesprzyj Braytech subskrypcją](/settings/subscriptions).",
+      "Username": "Wybierz unikalną nazwę użytkownika lub powróć do swojej nazwy Bungie. Możesz ją zmienić w dowolnym momencie.\n\nSpecjalista ds. wizerunku marki jest dostępny na żądanie za skromną opłatą.",
+      "UsernameSpecifications": "Maksymalna długość nazwy użytkownika to 127 znaków. Obsługiwane są znaki alfanumeryczne, znak podkreślenia ([a-zA-Z0-9_]) oraz niektóre emoji.",
+      "DefaultCharacter": "Możesz wybrać postać, która będzie domyślnie wyświetlana w udostępnianych linkach pozbawionych identyfikatora postaci.\n\nNa przykład, jeśli udostępnisz link https://bray.tech/@/{{username}}, Braytech poprosi oglądającego o wybranie postaci. Zamiast tego możesz wskazać preferowaną postać.",
+      "ShareHighlight": "Gdy twój profil jest udostępniany, generowany jest spersonalizowany obraz. Możesz wyróżnić triumf lub monitor statystyk, z którego jesteś dumny. Będzie on również wyświetlany w widoku twojej [Legendy](/legend)."
     },
     "Sync": {
       "Action": {
         "DeleteSyncedSettings": {
-          "Description": "🦘 Disable sync and delete settings stored with Voluspa.",
-          "Name": "🦘 Delete Synced Settings"
+          "Description": "Wyłącz synchronizację i usuń ustawienia zapisane w sieci Voluspa.",
+          "Name": "Usuń zsynchronizowane ustawienia"
         },
         "DownloadSyncedSettings": {
-          "Description": "🦘 Download synced settings immediately, overwriting current settings.",
-          "Name": "🦘 Download Synced Settings"
+          "Description": "Natychmiast pobierz zsynchronizowane ustawienia, nadpisując bieżące.",
+          "Name": "Pobierz zsynchronizowane ustawienia"
         },
         "Enable": {
-          "Description": "🦘 Enable sync and regularly sync with Voluspa."
+          "Description": "Włącz synchronizację i regularnie synchronizuj dane z Voluspą."
         }
       },
-      "Enabled": "🦘 Sync Enabled",
-      "Configure": "🦘 Configure Sync Service",
-      "Info": "🦘 Sync your settings for item visibility, maps, tracked triumphs, and profile search history.",
-      "RequirementsNotMet": "🦘 Synchronisation requires that you first authenticate Braytech with Bungie.net.",
+      "Enabled": "Synchronizacja włączona",
+      "Configure": "Konfiguruj usługę synchronizacji",
+      "Info": "Synchronizuj swoje ustawienia widoczności przedmiotów, map, śledzonych triumfów oraz historii wyszukiwania profili.",
+      "RequirementsNotMet": "Synchronizacja wymaga wcześniejszego uwierzytelnienia Braytech na Bungie.net.",
       "State": {
-        "Merged": "🦘 Last merged {{duration}} ago",
-        "Synced": "🦘 Last synced {{duration}} ago"
+        "Merged": "Ostatnie scalenie: {{duration}} temu",
+        "Synced": "Ostatnia synchronizacja: {{duration}} temu"
       }
     },
     "System": {
       "PromptForMinorVersions": {
-        "Description": "🦘 Notify me to update even for minor versions.",
-        "Name": "🦘 Minor Version Updates"
+        "Description": "Powiadamiaj mnie o aktualizacjach nawet przy niewielkich zmianach wersji.",
+        "Name": "Aktualizacje wersji podrzędnych"
       },
       "ReloadAppAutomatically": {
-        "Description": "🦘 When an update for Braytech is ready, reload the app automatically irregardless of what you're doing.",
-        "Name": "🦘 Reload App Automatically"
+        "Description": "Gdy aktualizacja Braytech jest gotowa, odśwież aplikację automatycznie, niezależnie od tego, co robisz.",
+        "Name": "Automatyczne odświeżanie aplikacji"
       }
     },
     "Theme": {
-      "Light": "🦘 Light",
-      "Medium": "🦘 Medium",
-      "Dark": "🦘 Dark",
-      "Black": "🦘 Black",
+      "Light": "Jasny",
+      "Medium": "Średni",
+      "Dark": "Ciemny",
+      "Black": "Czarny",
       "SystemPreference": {
-        "Name": "🦘 Match System",
-        "Description": "🦘 Where supported, Braytech will mirror your system preference."
+        "Name": "Zgodnie z systemem",
+        "Description": "Tam, gdzie to możliwe, Braytech odzwierciedli preferencje twojego systemu."
       }
     },
     "Troubleshooting": {
       "DumpServiceWorker": {
-        "Description": "🦘 Attempt to unregister the installed service worker. If successful, reloading the app will allow a new service worker to take its place.",
-        "Name": "🦘 Dump Service Worker"
+        "Description": "Spróbuj wyrejestrować zainstalowany skrypt usługi (Service Worker). Jeśli się powiedzie, odświeżenie aplikacji pozwoli na zainstalowanie nowego skryptu.",
+        "Name": "Usuń skrypt usługi"
       },
       "UpdateServiceWorker": {
-        "Description": "🦘 Attempt to update the service worker immediately. This function will disable the button temporarily. You may continue to use Braytech while it attempts to update in the background. If successful, you will be prompted to reload the app.",
-        "Name": "🦘 Update Service Worker"
+        "Description": "Spróbuj natychmiast zaktualizować skrypt usługi. Ta funkcja tymczasowo wyłączy przycisk. Możesz nadal korzystać z Braytech, podczas gdy aktualizacja będzie pobierana w tle. Jeśli się powiedzie, zostaniesz poproszony o odświeżenie aplikacji.",
+        "Name": "Aktualizuj skrypt usługi"
       }
     },
     "VisualFidelity": {
       "Gay": {
-        "Description": "🦘 Gay it up, bitch. Light up your life with fabulous, limited edition, ground-shattering, Braytech® exclusive! technological innovation.",
-        "Name": "🦘 Enable 🌈"
+        "Description": "Rozkręć tę tęczową imprezę, laska. Rozświetl swoje życie z bajeczną, limitowaną, przełomową innowacją technologiczną wyłącznie na Braytech®.",
+        "Name": "Włącz 🌈"
       },
       "Grinch": {
-        "Description": "🦘 You are the Grinch who stole Christmas.",
-        "Name": "🦘 Grinch 🚫🎄"
+        "Description": "Jesteś Grinchem, który ukradł święta.",
+        "Name": "Grinch 🚫🎄"
       },
       "ReducedMotion": {
-        "Description": "🦘 Reduce the motion of the user interface, namely by disabling various animations. Reduces CPU usage.",
-        "Name": "🦘 Reduced Motion"
+        "Description": "Ogranicz ruch interfejsu użytkownika, głównie poprzez wyłączenie niektórych animacji. Zmniejsza zużycie procesora.",
+        "Name": "Ruch ograniczony"
       }
     }
   },
   "Sync": {
     "Delete": {
-      "Failure": "🦘 Your settings could not be deleted at this time. This is a temporary failure.",
-      "Success": "🦘 Your settings have been deleted. Sync is now disabled."
+      "Failure": "W tej chwili nie udało się usunąć twoich ustawień. Jest to błąd tymczasowy.",
+      "Success": "Twoje ustawienia zostały usunięte. Synchronizacja została wyłączona."
     },
     "Merge": {
-      "Failure": "🦘 While trying to merge your settings, there was an error. This is a temporary failure.",
-      "Success": "🦘 Your settings have been merged."
+      "Failure": "Podczas próby scalenia twoich ustawień wystąpił błąd. Jest to błąd tymczasowy.",
+      "Success": "Twoje ustawienia zostały scalone."
     },
     "Sync": {
-      "Failure": "🦘 While trying to sync your settings, there was an error. This is a temporary failure.",
-      "Success": "🦘 Your settings have been synced."
+      "Failure": "Podczas próby synchronizacji twoich ustawień wystąpił błąd. Jest to błąd tymczasowy.",
+      "Success": "Twoje ustawienia zostały zsynchronizowane."
     }
   },
   "Tooltip": {
     "Actions": {
-      "Acquire": "🦘 Acquire",
-      "Compare": "🦘 Compare",
-      "Commonality": "🦘 Commonality",
-      "Delete": "🦘 Delete",
-      "Equip": "🦘 Equip",
-      "Favourite": "🦘 Favourite",
-      "Garbage": "🦘 Garbage",
-      "Details": "🦘 Details",
-      "Lock": "🦘 Lock",
-      "Lore": "🦘 Lore",
-      "NotGarbage": "🦘 Not Garbage",
-      "Overwrite": "🦘 Overwrite",
-      "Remove": "🦘 Remove",
-      "SaveNew": "🦘 Save New",
-      "Select": "🦘 Select",
-      "Show": "🦘 Show",
-      "Store": "🦘 Store",
-      "Unfavourite": "🦘 Unfavourite",
-      "Unlock": "🦘 Unlock",
-      "Vault": "🦘 Vault",
-      "Track": "🦘 Track",
-      "Pin": "🦘 Pin",
-      "Hide": "🦘 Hide",
-      "ShowMenu": "🦘 Show Menu",
-      "HideMenu": "🦘 Hide Menu"
+      "Acquire": "Zdobądź",
+      "Compare": "Porównaj",
+      "Commonality": "Popularność",
+      "Delete": "Usuń",
+      "Equip": "Wyposaż",
+      "Favourite": "Dodaj do ulubionych",
+      "Garbage": "Oznacz jako śmieć",
+      "Details": "Szczegóły",
+      "Lock": "Zablokuj",
+      "Lore": "Wiedza",
+      "NotGarbage": "Cofnij oznaczenie śmiecia",
+      "Overwrite": "Nadpisz",
+      "Remove": "Usuń",
+      "SaveNew": "Zapisz jako nowy",
+      "Select": "Wybierz",
+      "Show": "Pokaż",
+      "Store": "Przechowaj",
+      "Unfavourite": "Usuń z ulubionych",
+      "Unlock": "Odblokuj",
+      "Vault": "Skarbiec",
+      "Track": "Śledź",
+      "Pin": "Przypnij",
+      "Hide": "Ukryj",
+      "ShowMenu": "Pokaż menu",
+      "HideMenu": "Ukryj menu"
     },
     "Item": {
-      "ExpiresIn": "🦘 Expires in {{duration}}.",
-      "ItemMissing": "🦘 Item cannot be found.",
-      "NoDescription": "🦘 No description available.",
-      "Quantity": "🦘 Quantity",
-      "QuantityMax": "🦘 Max"
+      "ExpiresIn": "Wygasa za {{duration}}.",
+      "ItemMissing": "Nie można odnaleźć przedmiotu.",
+      "NoDescription": "Brak dostępnego opisu.",
+      "Quantity": "Ilość",
+      "QuantityMax": "Maks."
     }
   },
   "Triumphs": {
-    "AllCompleted": "🦘 모두 완료했습니다.",
-    "NonePartiallyComplete": "🦘 No partially completed triumphs. Choose an objective and get started!",
-    "NearTriumphs": "🦘 Near",
-    "NearLimit": "🦘 Display is limited to {{number}} triumphs for performance reasons.",
-    "NearTotal": "🦘 You have **{{number}}** triumphs remaining.",
-    "PartiallyComplete": "🦘 {{number}} Partially Completed",
+    "AllCompleted": "Wszystkie ukończone",
+    "NonePartiallyComplete": "Brak częściowo ukończonych triumfów. Wybierz cel i zacznij działać!",
+    "NearTriumphs": "Bliskie ukończenia",
+    "NearLimit": "Ze względów wydajnościowych wyświetlanie ograniczone jest do **{{number}}** triumfów.",
+    "NearTotal": "Pozostało ci **{{number}}** triumfów.",
+    "PartiallyComplete": "Częściowo ukończone: {{number}}",
     "Classified": {
-      "Description": "🦘 This record is classified and may be revealed at a later time.",
-      "Name": "🦘 Classified Record"
+      "Description": "Ten triumf jest tajny i może zostać ujawniony w późniejszym terminie.",
+      "Name": "Tajny triumf"
     },
     "Details": {
-      "Completed": "🦘 Completed",
-      "FireteamLoading": "🦘 Loading fireteam members",
-      "NoClanOrFireteam": "🦘 Join a fireteam or a clan to see how your fellow Guardians stack up next to you!",
-      "LoadBungieFriends": "🦘 Would you like to display your Bungie friends? This will take a few seconds.",
-      "NotCompleted": "🦘 Not Completed",
-      "OpenView": "🦘 Open Details View",
-      "HasItem": "🦘 This record is related to an item. You can view this item's [details]({{string}})."
+      "Completed": "Ukończone",
+      "FireteamLoading": "Wczytywanie członków drużyny ogniowej",
+      "NoClanOrFireteam": "Dołącz do drużyny ogniowej lub klanu, aby zobaczyć, jak wypadają inni Strażnicy w porównaniu z tobą!",
+      "LoadBungieFriends": "Czy chcesz wyświetlić swoich znajomych z Bungie? Zajmie to kilka sekund.",
+      "NotCompleted": "Nieukończone",
+      "OpenView": "Otwórz widok szczegółów",
+      "HasItem": "Ten triumf jest powiązany z przedmiotem. Możesz wyświetlić [szczegóły]({{string}}) tego przedmiotu."
     },
-    "DudTriumphs": "🦘 Duds",
-    "EventCard": "🦘 Event Card",
-    "LegacyTitle_plural": "🦘 Legacy Titles",
-    "LegacyTriumph_plural": "🦘 Legacy Triumphs",
-    "SelectEntry": "🦘 Select an entry to read.",
+    "DudTriumphs": "Niewypały",
+    "EventCard": "Karta wydarzenia",
+    "LegacyTitle_plural": "Klasyczne tytuły",
+    "LegacyTriumph_plural": "Klasyczne triumfy",
+    "SelectEntry": "Wybierz pozycję do przeczytania.",
     "Record": {
-      "Commonality": "🦘 Percentage of players who are crawled and assessed by Voluspa who've completed this record.",
-      "Expiration": "🦘 이 업적은 만료되면 더 이상 얻을 수 없습니다.",
-      "Expires": "🦘 {{season}} 시즌 종료와 함께 만료됩니다.",
-      "IntervalFraction": "🦘 {{numerator}} of {{denominator}}",
-      "Score": "🦘 This record's finite triumph score value.",
-      "ScoreProgress": "🦘 The score value earned for this triumph."
+      "Commonality": "Procent graczy skanowanych i ocenianych przez Voluspę, którzy ukończyli ten triumf.",
+      "Expiration": "Po wygaśnięciu ten triumf może nie być już zdobywalny.",
+      "Expires": "Wygasa wraz z końcem sezonu {{season}}",
+      "IntervalFraction": "{{numerator}} z {{denominator}}",
+      "Score": "Stała wartość punktowa tego triumfu.",
+      "ScoreProgress": "Punkty zdobyte za ten triumf."
     },
-    "BraytechActiveScore": "🦘 Your active triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs.",
-    "BraytechLegacyScore": "🦘 Your legacy triumph score is **{{number}}**, as determined by Braytech. This value is calculated by examining available triumphs with current API data.",
-    "BungieScore": "🦘 According to Bungie, your score is **{{number}}**. This may be inaccurate as it may not consider some triumphs which have since been removed or had their score values altered.",
-    "PotentialUnattainedScore": "🦘 The Guardian has **{{number}}** score waiting to be to unlocked.",
-    "RecordsRedeemed": "🦘 You have redeemed all of these records and chosen to hide them.",
-    "RecordsUnavailable": "🦘 There are no records available for display.",
-    "Title": "🦘 Title",
-    "Title_plural": "🦘 Titles",
+    "BraytechActiveScore": "Twój aktywny wynik triumfów wynosi **{{number}}**, według wyliczeń Braytech. Wartość ta jest obliczana na podstawie dostępnych triumfów w aktualnych danych API.",
+    "BraytechLegacyScore": "Twój klasyczny wynik triumfów wynosi **{{number}}**, według wyliczeń Braytech. Wartość ta jest obliczana na podstawie dostępnych triumfów w aktualnych danych API.",
+    "BungieScore": "Według Bungie twój wynik wynosi **{{number}}**. Może być on niedokładny, ponieważ nie musi uwzględniać niektórych triumfów, które zostały usunięte lub których wartość punktowa uległa zmianie.",
+    "PotentialUnattainedScore": "Strażnik ma **{{number}}** punktów czekających na odblokowanie.",
+    "RecordsRedeemed": "Odebrałeś wszystkie te triumfy i zdecydowałeś się je ukryć.",
+    "RecordsUnavailable": "Brak triumfów do wyświetlenia.",
+    "Title": "Tytuł",
+    "Title_plural": "Tytuły",
     "Titles": {
-      "AvailableTitle": "🦘 Available title: **{{title}}**",
-      "CanBeGilded": "🦘 This Title can be gilded. Gilded Titles demonstrate unprecedented skill and achievement but reset each Season.",
+      "AvailableTitle": "Dostępny tytuł: **{{title}}**",
+      "CanBeGilded": "Ten tytuł można pozłocić. Pozłacane tytuły świadczą o bezprecedensowych umiejętnościach i osiągnięciach, ale są resetowane w każdym sezonie.",
       "Commonality": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired this title.",
-        "Name": "🦘 Title Commonality"
+        "Description": "Procent graczy skanowanych i ocenianych przez Voluspę, którzy zdobyli ten tytuł.",
+        "Name": "Popularność tytułu"
       },
       "CommonalityGilded": {
-        "Description": "🦘 Percentage of players who are crawled and assessed by Voluspa who've acquired and gilded this title.",
-        "Name": "🦘 Gilded Title Commonality"
+        "Description": "Procent graczy skanowanych i ocenianych przez Voluspę, którzy zdobyli i pozłocili ten tytuł.",
+        "Name": "Popularność pozłacanego tytułu"
       },
-      "PlayerTitle": "🦘 Player title: **{{title}}**",
-      "TitleCompleted": "🦘 Title Completed",
-      "TitleGilded": "🦘 Title Gilded",
-      "TitleGildedProgress": "🦘 Gilded Progress",
-      "TitleProgress": "🦘 Title Progress"
+      "PlayerTitle": "Tytuł gracza: **{{title}}**",
+      "TitleCompleted": "Tytuł ukończony",
+      "TitleGilded": "Tytuł pozłocony",
+      "TitleGildedProgress": "Postęp pozłacania",
+      "TitleProgress": "Postęp tytułu"
     },
     "Secret": {
-      "Name": "🦘 Secret Triumph",
-      "Description": "🦘 A mystery that you haven't yet unraveled."
+      "Name": "Sekretny triumf",
+      "Description": "Tajemnica, której jeszcze nie rozwikłałeś."
     },
     "Sorted": {
-      "Completion": "🦘 Sorted by Completion",
-      "Name": "🦘 Sorted by **Name**",
-      "Rarity": "🦘 Sorted by Rarity",
-      "Score": "🦘 Sorted by Score",
-      "Bungie": "🦘 Sorted by Bungie",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "Completion": "Sortowanie: **Postęp**",
+      "Name": "Sortowanie: **Nazwa**",
+      "Rarity": "Sortowanie: **Rzadkość**",
+      "Score": "Sortowanie: **Wynik**",
+      "Bungie": "Sortowanie: **Bungie**",
+      "User": "Sortowanie: **Użytkownik**",
+      "None": "Niesortowane"
     },
     "Options": {
       "GrantsScore": {
-        "Name": "🦘 Grants Score",
-        "Description": "🦘 Only display records which grant triumph score upon completion."
+        "Name": "Daje punkty",
+        "Description": "Wyświetlaj tylko triumfy, które dają punkty po ukończeniu."
       },
       "MatchClass": {
-        "Name": "🦘 Match Class",
-        "Description": "🦘 Only display class-related triumphs which match the selected character's class."
+        "Name": "Dopasuj klasę",
+        "Description": "Wyświetlaj tylko triumfy powiązane z klasą, które odpowiadają klasie wybranej postaci."
       },
       "Flatten": {
-        "Name": "🦘 Flatten",
-        "Description": "🦘 Use a flat list for display rather than a tree-style view."
+        "Name": "Spłaszcz listę",
+        "Description": "Użyj płaskiej listy zamiast widoku drzewiastego do wyświetlania."
       },
       "HideCompletedAll": {
-        "Name": "🦘 Hide Completed",
-        "Description": "🦘 Hide all triumphs which are completed by all selected members."
+        "Name": "Ukryj ukończone",
+        "Description": "Ukryj wszystkie triumfy, które zostały ukończone przez wszystkich wybranych członków."
       },
       "ExpandAll": {
-        "Name": "🦘 Expand All",
-        "Description": "🦘 Expand all nodes so that you may be overwhelmed in the grandeur of your tasks."
+        "Name": "Rozwiń wszystko",
+        "Description": "Rozwiń wszystkie gałęzie, aby w pełni docenić ogrom swoich zadań."
       },
       "CollapseAll": {
-        "Name": "🦘 Collapse All",
-        "Description": "🦘 Collapse all nodes so that you may explore at your own leisure."
+        "Name": "Zwiń wszystko",
+        "Description": "Zwiń wszystkie gałęzie, aby móc eksplorować je we własnym tempie."
       },
       "RootNode": {
-        "Name": "🦘 Root Node",
-        "Description": "🦘 Select a root node to explore."
+        "Name": "Węzeł główny",
+        "Description": "Wybierz węzeł główny do eksploracji."
       }
     },
-    "NoTrackedRecords": "🦘 You aren't tracking any records yet!",
-    "NoHiddenRecords": "🦘 You aren't hiding any triumphs yet!\n\nYou can sync your triumphs by enabling sync in [Settings](/settings).",
-    "TrackedTriumphs": "🦘 Tracked Records",
-    "Triumph": "🦘 Triumph",
-    "Triumph_plural": "🦘 Triumphs",
-    "UnobtainableTriumphs": "🦘 Unobtainable",
-    "UnredeemedTriumphs": "🦘 Unredeemed Triumphs",
-    "TrackedSync": "🦘 Sync tracked triumphs between devices with Voluspa.",
-    "PinPresentationNodes": "🦘 Right click a presentation node to pin it to the top of the list."
+    "NoTrackedRecords": "Nie śledzisz jeszcze żadnych triumfów! Możesz zacząć śledzić triumf, wchodząc w interakcję z zielonym znacznikiem.\n\nMożesz zsynchronizować swoje triumfy, włączając synchronizację w [Ustawieniach](/settings#sync).",
+    "NoHiddenRecords": "Nie ukrywasz jeszcze żadnych triumfów!\n\nMożesz zsynchronizować swoje triumfy, włączając synchronizację w [Ustawieniach](/settings#sync).",
+    "TrackedTriumphs": "Śledzone",
+    "Triumph": "Triumf",
+    "Triumph_plural": "Triumfy",
+    "UnobtainableTriumphs": "Niezdobywalne",
+    "UnredeemedTriumphs": "Nieodebrane",
+    "TrackedSync": "Synchronizuj śledzone triumfy między urządzeniami za pomocą Voluspy.",
+    "PinPresentationNodes": "Kliknij prawym przyciskiem myszy węzeł prezentacji, aby przypiąć go na górze listy."
   },
   "Subscriptions": {
-    "SupportBraytech": "🦘 Support Braytech",
-    "BuildBraytech": "🦘 Build Braytech",
-    "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
-    "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
-    "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
-    "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",
-    "Leaderboards": "🦘 Leaderboards are a lot of work, which while thought-provoking, is particularly costly. I had to buy Databases for Dummies and everything. If you like collecting things, maybe I could [interest you in unlocking some a rare medal](https://www.patreon.com/braytech) for your Braytech profile?",
-    "MemberLinkExample": "🦘 This could be _you_, with a cool little medal on your member link to demonstrate your support for Braytech and its development.\n\n_Braytech and its subsidiaries do not endorse the actions of Clovis Bray I or their variants._",
-    "UpsellInfo": "🦘 Your support helps keep the app online, enables work on new features, and keeps the developer alive!"
+    "SupportBraytech": "Wesprzyj Braytech",
+    "BuildBraytech": "Budujmy Braytech razem",
+    "Info": "Reklamy są kiepskie, dlatego Braytech z nich nie korzysta, ale tworzenie Braytech kosztuje czas.\n\nW miejsce reklam Braytech liczy na twoją szczodrość. Twoje wsparcie pomaga utrzymać aplikację online, umożliwia pracę nad nowymi funkcjami oraz utrzymuje dewelopera przy życiu i zapewnia mu dach nad głową.\n\nSprawdź [Subskrypcje](/settings/subscriptions), aby zobaczyć, jakie korzyści mogą cię czekać!",
+    "RewardSeraph": "Odblokuj medal **Serafina** – symbol oddania i zaangażowania w ochronę Umysłu Bojowego oraz jego zasobów, a także ulepszanie ludzkości.",
+    "RewardSubmind": "Odblokuj animowany, złoty medal **Umysłu Bojowego**. Gwarantujemy, że każdy medal Umysłu Bojowego zawiera co najmniej 7,00% pyłu z fragmentów Umysłu Bojowego™.",
+    "Rewards": "Odblokuj unikalne medale profilu, subskrybując Patreon Braytech!",
+    "Leaderboards": "Tablice wyników wymagają mnóstwa pracy, co – choć skłania do myślenia – jest szczególnie kosztowne. Musiałem nawet kupić książkę „Bazy danych dla bystrzaków”. Jeśli lubisz kolekcjonować rzeczy, może [zainteresuje cię odblokowanie rzadkiego medalu](/settings/subscriptions) dla swojego profilu Braytech?",
+    "MemberLinkExample": "To możesz być _ty_ – z fajnym małym medalem przy twoim profilu, potwierdzającym twoje wsparcie dla Braytech i jego rozwoju.\n\n_Braytech i podmioty zależne nie popierają działań Clovisa Braya I ani jego wariantów._",
+    "UpsellInfo": "Twoje wsparcie pomaga utrzymać aplikację online, umożliwia pracę nad nowymi funkcjami i chroni dewelopera przed zamarznięciem w nocy."
   },
   "Vendor": {
     "FailureStrings": {
-      "NoFunds": "🦘 Not Enough Materials",
-      "NoInventorySpace": "🦘 Not Enough Space",
-      "UniquenessViolation": "🦘 Can only hold one at a time",
-      "UnknownError": "🦘 Unknown error"
+      "NoFunds": "Niewystarczająca ilość materiałów",
+      "NoInventorySpace": "Brak miejsca w ekwipunku",
+      "UniquenessViolation": "Możesz posiadać tylko jedną sztukę jednocześnie",
+      "UnknownError": "Nieznany błąd"
     }
   },
   "Voluspa": {
     "AdjustGraph": {
-      "Description": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have discovered this collectible.",
-      "Description_record": "🦘 View this data in a different manner by selecting an alternate type of graph.\n\n_Voluspa_ collects data from {{crawled}} players. Of those players, {{assessed}} were successfully assessed for the purpose of providing this data. Of {{assessed}} assessed players, {{frequency}} have completed this record.",
-      "Name": "🦘 Adjust Graph"
+      "Description": "Wyświetl te dane w inny sposób, wybierając alternatywny typ wykresu.\n\n**Voluspa** zbiera dane od {{crawled}} graczy. Spośród tych graczy **{{assessed}}** zostało pomyślnie **sklasyfikowanych** w celu dostarczenia tych danych. Spośród {{assessed}} sklasyfikowanych graczy **{{frequency}}** **odkryło** ten przedmiot kolekcjonerski.",
+      "Description_record": "Wyświetl te dane w inny sposób, wybierając alternatywny typ wykresu.\n\n**Voluspa** zbiera dane od {{crawled}} graczy. Spośród tych graczy **{{assessed}}** zostało pomyślnie **sklasyfikowanych** w celu dostarczenia tych danych. Spośród {{assessed}} sklasyfikowanych graczy **{{frequency}}** **ukończyło** ten triumf.",
+      "Name": "Dostosuj wykres"
     },
-    "CollectedBy": "🦘 {{number}}명의 유저가 이것을 획득했습니다.",
-    "Commonality": "🦘 Commonality",
-    "Frequency": "🦘 Frequency",
-    "CompletedBy": "🦘 {{number}}명의 유저가 이것을 완료했습니다.",
-    "Crawled": "🦘 {{number}} players are currently crawled by Voluspa.",
-    "Assessed": "🦘 {{number}} players are currently assessed by Voluspa.",
+    "CollectedBy": "Ten przedmiot zdobyło {{number}} graczy.",
+    "Commonality": "Popularność",
+    "Frequency": "Częstotliwość",
+    "CompletedBy": "Ten triumf ukończyło {{number}} graczy.",
+    "Crawled": "Voluspa skanuje obecnie {{number}} graczy.",
+    "Assessed": "Voluspa ocenia obecnie {{number}} graczy.",
     "GraphType": {
-      "Frequency": "🦘 Frequency",
-      "TimeSeries": "🦘 Time Series"
+      "Frequency": "Częstotliwość",
+      "TimeSeries": "Szereg czasowy"
     },
-    "LastCrawled": "🦘 Last crawled {{time}}",
-    "ProfilesAssessed": "🦘 Profiles Assessed"
+    "LastCrawled": "Ostatnie skanowanie: {{time}}",
+    "ProfilesAssessed": "Ocenione profile"
   },
   "Operations": {
-    "NoActivitiesAvailable": "🦘 참여 가능한 활동이 없습니다. 필요 조건을 만족하지 못했을 수 있습니다...",
-    "NoActivitiesAvailableNoLicense": "🦘 There aren't any activities available to you as you don't own the required expansion.",
-    "SeasonalChallengesAvailable": "🦘 {{number}} Seasonal Challenges Available",
-    "SieveBegins": "🦘 The Sieve begins in **{{duration}}**",
-    "SieveAvailable": "🦘 The Sieve is available for the next **{{duration}}**",
-    "VanguardAlert": "🦘 Vanguard Alert",
-    "VanguardAlert_plural": "🦘 Vanguard Alerts",
+    "NoActivitiesAvailable": "Nie masz dostępnych żadnych aktywności. Być może nie spełniasz wymagań...",
+    "NoActivitiesAvailableNoLicense": "Nie masz dostępnych żadnych aktywności, ponieważ nie posiadasz wymaganego dodatku.",
+    "SeasonalChallengesAvailable": "Dostępne wyzwania sezonowe: {{number}}",
+    "SieveBegins": "Sito rozpocznie się za **{{duration}}** o {{time}}",
+    "SieveAvailable": "Sito jest dostępne przez następne **{{duration}}**",
+    "VanguardAlert": "Alarm Straży Przedniej",
+    "VanguardAlert_plural": "Alarmy Straży Przedniej",
     "Event": {
-      "ActiveOrders": "🦘 Active Orders",
-      "Conquests": "🦘 Conquests",
-      "SeasonalTitle": "🦘 Seasonal Title",
-      "EventTitle": "🦘 Event Title",
-      "EventRank": "🦘 Event Rank",
-      "WeeklyRank": "🦘 Weekly Rank",
-      "WeeklyRewards": "🦘 Weekly Rewards",
-      "DailyChallenges": "🦘 Daily Challenges",
-      "WeeklyChallenges": "🦘 Weekly Challenges",
-      "EndsIn": "🦘 Event ends in **{{duration}}**"
+      "ActiveOrders": "Aktywne rozkazy",
+      "Conquests": "Podboje",
+      "SeasonalTitle": "Tytuł sezonowy",
+      "EventTitle": "Tytuł wydarzenia",
+      "EventRank": "Ranga wydarzenia",
+      "WeeklyRank": "Ranga tygodniowa",
+      "WeeklyRewards": "Tygodniowe nagrody",
+      "DailyChallenges": "Wyzwania codzienne",
+      "WeeklyChallenges": "Wyzwania tygodniowe",
+      "EndsIn": "Wydarzenie kończy się za **{{duration}}**"
     },
     "Waypoints": {
-      "NoWaypoints": "🦘 Voluspa couldn't think of any appropriate waypoints. Check back soon."
+      "NoWaypoints": "Voluspa nie mogła znaleźć żadnych odpowiednich punktów nawigacyjnych. Zajrzyj tu wkrótce."
     }
   }
 }
