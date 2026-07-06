@@ -1609,6 +1609,10 @@
     "SupportBraytech": "Braytech 후원하기",
     "BuildBraytech": "Braytech 빌드하기",
     "Info": "광고는 별로니까 안 씁니다만, 개발자도 밥은 먹어야 하거든요.\n\n광고 대신 Braytech는 여러분의 관대함에 의존합니다. 여러분의 지원이 앱을 계속 온라인으로 유지하고, 새로운 기능 작업을 가능하게 하며, 개발자가 살아있고 주거를 유지하게 합니다.\n\n[구독](/settings/subscriptions)을 확인하여 얻을 수 있는 혜택을 확인하세요!",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "**세라프** 훈장을 획득하세요. 전쟁지능과 그 자산을 보호하고 인류를 발전시키려는 헌신과 약속의 상징입니다.",
     "RewardSubmind": "애니메이션 **전쟁지능** 골드 티어 훈장을 잠금 해제하세요. 모든 전쟁지능 훈장은 최소 7.00%의 전쟁지능 파편 먼지™를 포함하고 있습니다.",
     "Rewards": "Braytech Patreon을 구독하여 고유한 프로필 훈장을 획득하세요.",

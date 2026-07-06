@@ -1609,6 +1609,10 @@
     "SupportBraytech": "Support Braytech",
     "BuildBraytech": "Build Braytech together",
     "Info": "Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed\n\nCheck out [Subscriptions](/settings/subscriptions) to see the kinds of perks you could be in for!",
+    "CostsCovered": {
+      "Name": "Costs Covered",
+      "Description": "Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
     "RewardSubmind": "Unlock the animated **Warmind** gold tier medal. Every Warmind medal guarenteed to contain at least 7.00% Warmind fragment dust™",
     "Rewards": "Unlock unique profile medals when you subscribe to Braytech's Patreon!",

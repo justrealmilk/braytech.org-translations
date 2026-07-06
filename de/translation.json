@@ -1613,6 +1613,10 @@
     "SupportBraytech": "Unterstütze Braytech",
     "BuildBraytech": "Baue Braytech",
     "Info": "Werbung ist ätzend, deshalb verwendet Braytech keine, allerdings kostet es eine Menge Zeit, an Braytech zu arbeiten.\n\nStatt Werbung ist Braytech auf deine Großzügigkeit angewiesen. Deine Unterstützung hilft, die App am Laufen zu halten, ermöglicht die Arbeit an neuen Funktionen und hält den Entwickler am Leben und unter einem Dach!",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "Schalte das **Seraph****-Abzeichen frei, ein Symbol der Hingabe und des Engagements für den Schutz des Kriegsgeistes und seiner Ressourcen ... und für die Verbesserung der Menschheit.",
     "RewardSubmind": "Submind-Stufe Patrons schalten dieses animierte Krigsgeist-Ultra-Abzeichen frei.",
     "Rewards": "Schalte einzigartig Profil Abzeichen frei, indem du Braytechs Patreon abonnierst.",

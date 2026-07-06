@@ -1613,6 +1613,10 @@
     "SupportBraytech": "Apoya Braytech",
     "BuildBraytech": "Construye Braytech",
     "Info": "Los anuncios apestan, así que Braytech no los usa, pero construir Braytech cuesta tiempo.\n\nEn lugar de anuncios, Braytech depende de tu generosidad. Tu apoyo ayuda a mantener la aplicación en línea, permite trabajar en nuevas características, y mantiene al desarrollador ¡vivo y con casa!",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "Desbloquea la medalla **Serafín**, un símbolo de dedicación y compromiso con la protección del Estratega y sus recursos, y con el desarrollo de la humanidad.",
     "RewardSubmind": "Los mecenas de nivel Submente desbloquean esta ultrainsignia animada del Estratega.",
     "Rewards": "Desbloquea insignias de perfil únicas al suscribirte al Patreon de Braytech.",

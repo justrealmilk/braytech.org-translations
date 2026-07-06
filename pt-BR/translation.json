@@ -1613,6 +1613,10 @@
     "SupportBraytech": "🦘 Support Braytech",
     "BuildBraytech": "🦘 Build Braytech",
     "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "🦘 Unlock the **Seraph** medal, a symbol of dedication and commitment to protecting the Warmind and its assets, and bettering humankind.",
     "RewardSubmind": "🦘 Submind tier patrons unlock this animated Warmind ultra medal.",
     "Rewards": "🦘 Unlock unique profile medals when you subscribe to Braytech's Patreon.",

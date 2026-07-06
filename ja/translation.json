@@ -1613,6 +1613,10 @@
     "SupportBraytech": "Braytechを支援する",
     "BuildBraytech": "Braytech維持協力のお願い",
     "Info": "Braytechではサイトの景観を損ねる原因となるため広告バナーを一切使っていませんが、いつまでも更新できる状況ではありません。\n\n そこでスパチャではないですが、経済的に不安な状況を少しでも減らしてBraytech開発に専念できるように皆様からの支援をお願いします。",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "**熾天使**メダルのロック解除します。このメダルは、ウォーマインドを保護し、人類の発展へ尽くしてきた者の象徴です。",
     "RewardSubmind": "Patreonのサブマインドランクの方には謹製ウォーマインドアニメーションメダルがアンロックされます",
     "Rewards": "BraytechのPatreonにてサブスクリプション支援をされた方には特別メダルがアンロックされます",

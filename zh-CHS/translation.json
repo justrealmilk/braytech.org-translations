@@ -1613,6 +1613,10 @@
     "SupportBraytech": "赞助 Braytech",
     "BuildBraytech": "构建 Braytech",
     "Info": " 广告很烦人，所以 Braytech 不会添加广告。但开发和维护 Braytech 需要花费时间。\n\n为了替代广告，Braytech 需要你的慷慨支持。你的支持将帮助 Braytech 能够持续提供在线服务，使我能够开发新功能，并且让开发者能够维持生计和住所！",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "解锁 **炽天使** 奖牌, 这象征着对于保护战争思维及其资源，以及改善人类的奉献与承诺。",
     "RewardSubmind": "在 Patreon 达到 Submind 赞助等级来解锁该动态战争思维风格的徽章。",
     "Rewards": "通过在 Braytech 的 Patreon 中订阅赞助来获得这个独特的勋章。",

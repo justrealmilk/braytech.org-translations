@@ -1613,6 +1613,10 @@
     "SupportBraytech": "支持 Braytech",
     "BuildBraytech": "構建 Braytech",
     "Info": "廣告很煩人，所以 Braytech 不使用廣告，但開發 Braytech 需要時間。\n\nBraytech 依靠您慷慨的捐款來維持營運。您的支援有助於保持應用程式在線，開發新功能，並讓開發者能夠繼續工作！",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "解鎖 **熾天使**勳章，象徵著對保護戰爭智慧及其資產以及改善人類的奉獻和承諾。",
     "RewardSubmind": "Submind 等級贊助者可解鎖這款動畫版 戰爭思維超級勳章。",
     "Rewards": "訂閱 Braytech 的 Patreon 即可解鎖獨特的個人資料勳章。",

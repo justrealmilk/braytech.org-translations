@@ -1613,6 +1613,10 @@
     "SupportBraytech": "Supporta Braytech",
     "BuildBraytech": "🦘 Build Braytech",
     "Info": "🦘 Ads suck so Braytech doesn't use them, but building Braytech costs time.\n\nIn place of ads, Braytech depends on your generosity. Your support helps keep the app online, enables work on new features, and keeps the developer alive and housed!",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "Sblocca la medaglia **Serafino**, simbolo di dedizione e impegno per il miglioramento dell'umanità.",
     "RewardSubmind": "Sblocca la medaglia d'oro animata **Mente bellica**. È garantito che ogni medaglia contenga almeno il 7,00% di polvere di frammenti di Mente bellica™",
     "Rewards": "Sblocca medaglie profilo uniche quando ti abboni al Patreon di Braytech.",

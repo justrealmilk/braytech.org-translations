@@ -1613,6 +1613,10 @@
     "SupportBraytech": "Soutenir Braytech",
     "BuildBraytech": "Construire Braytech",
     "Info": "Les publicités sont nulles, donc Braytech ne les utilise pas, mais construire Braytech coûte du temps.\n\nA la place des publicités, Braytech dépend de votre générosité. Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités, et de maintenir le développeur en vie et logé !",
+    "CostsCovered": {
+      "Name": "🦘 Costs Covered",
+      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+    },
     "RewardSeraph": "Débloquez la médaille **Seraph**, un symbole de dévouement et d'engagement pour la protection de l'Esprit Tutélaire et de ses biens, et pour l'amélioration de l'humanité.",
     "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée d'Esprit Tutélaire ultra.",
     "Rewards": "Débloquez des médailles de profil uniques lorsque vous vous abonnez à la page Patreon de Braytech.",
