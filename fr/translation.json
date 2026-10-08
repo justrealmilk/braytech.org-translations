@@ -11,7 +11,7 @@
     "Deny": "Refuser",
     "Kick": "Exclure",
     "Promote": "Promouvoir",
-    "Avoid": "Eviter",
+    "Avoid": "Éviter",
     "Back": "Retour",
     "Browse": "Parcourir",
     "Cancel": "Annuler",
@@ -23,13 +23,13 @@
     "Customise": "Personnaliser",
     "Delete": "Supprimer",
     "Disable": "Désactiver",
-    "Disconnect": "🦘 Disconnect",
+    "Disconnect": "Se déconnecter",
     "Dismiss": "Retour",
     "Download": "Télécharger",
     "Done": "Terminé",
-    "Edit": "Editer",
+    "Edit": "Éditer",
     "Enable": "Activer",
-    "Equip": "Equiper",
+    "Equip": "Équiper",
     "Expand": "Agrandir",
     "ExpandFilters": "Étendre les filtres",
     "GatherInVault": "Regrouper dans le coffre",
@@ -38,7 +38,7 @@
     "GoToBluesky": "Aller sur Bluesky",
     "Grid": "Grille",
     "HideAcquired": "Masquer acquis",
-    "HideCollectionsRolls": "Masquer les possibles rolls",
+    "HideCollectionsRolls": "Masquer les attributs possibles",
     "HideCompleted": "Masquer complétés",
     "HideDiscovered": "Masquer découverts",
     "HideHiddenStats": "Stats avancées",
@@ -58,24 +58,24 @@
     "Open": "Ouvrir",
     "Okay": "Ok",
     "Previous": "Précédent",
-    "PullPostmaster": "Retirer du Commis des Postes",
+    "PullPostmaster": "Récupérer auprès du commis des postes",
     "ReloadApp": "Recharger l'application",
     "ReloadAppAutomatically": "Recharger automatiquement l'application",
     "RemoveBookmark": "Supprimer ce favori",
     "Reset": "Réinitialiser",
     "SelectDate": "Sélectionnez une date",
-    "SelectMasterwork": "Sélectionner Pièce Maîtresse",
+    "SelectMasterwork": "Sélectionner une pièce maîtresse",
     "SelectYourCharacter": "Sélectionner votre personnage",
     "Set": "Confirmer",
     "Snatch": "Arracher",
     "Submit": "Soumettre",
     "Share": "Partager",
     "ShowAll": "Tout montrer",
-    "ShowCollectionsRolls": "Montrer les possibles rolls",
+    "ShowCollectionsRolls": "Afficher les attributs possibles",
     "ShowHiddenStats": "Stats basiques",
-    "TryAgain": "Réessayez",
+    "TryAgain": "Réessayer",
     "Unlock": "Déverrouiller",
-    "UserReady": "Allons-y!",
+    "UserReady": "Allons-y !",
     "Update": "Mettre à jour",
     "ViewHistoricalData": "Voir les données historiques",
     "ViewMore": "Voir plus"
@@ -97,12 +97,12 @@
       "Description": "Affiche l'activité combinée de tous les personnages."
     },
     "DeletedCharacters": {
-      "Name": "🦘 Deleted Characters",
-      "Description": "🦘 Include activity from deleted characters."
+      "Name": "Personnages supprimés",
+      "Description": "Inclure les activités des personnages supprimés."
     },
     "SelectCharacter": {
-      "Name": "🦘 Select Character",
-      "Description": "🦘 Select a specific character."
+      "Name": "Sélectionner un personnage",
+      "Description": "Sélectionner un personnage précis."
     },
     "FireteamSolo": "Solo",
     "FireteamPlayers3": "Escouade : 1-3 joueurs",
@@ -115,8 +115,8 @@
       },
       "Scatter": {
         "PvEFailure": "Échec",
-        "PvEFlawless": "Sans-fautes",
-        "PvPFlawless": "Sans-Faute",
+        "PvEFlawless": "Sans faute",
+        "PvPFlawless": "Sans faute",
         "PvPLoss": "Défaite",
         "PvPWin": "Victoire"
       },
@@ -132,22 +132,22 @@
     "SelectDateFromGraph": "Sélectionnez une date avec des activités jouées dans le graphique ci-dessus.",
     "SelectedDateFromGraph": "Activités pour le mode sélectionné jouées à la date choisie.",
     "SelectDateInfo": "Sélectionnez une date ci-dessous et préparez-vous à y aller",
-    "SelectDateWaiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer!\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité.",
+    "SelectDateWaiting": "Accrochez-vous — plus vous jouez d'activités et plus vous irez loin, plus cela prendra de temps à récupérer !\n\nL'API de Bungie ne permet pas de demander l'historique des activités d'une période spécifique, nous faisons donc une récupération complète activité par activité.",
     "Standing": {
       "Defeat": "Défaite",
       "DidNotFinish": "Le joueur n'a pas terminé la partie",
       "Mercy": "Clémence",
       "Tie": "Égalité",
       "Victory": "Victoire",
-      "ObjectiveFailed": "Echec de l'objectif",
-      "Failure": "Echec"
+      "ObjectiveFailed": "Échec de l’objectif",
+      "Failure": "Échec"
     },
     "State": {
       "ActivityHistoryError": "Une erreur s'est produite lors de la tentative de chargement de l'historique des activités. Veuillez réessayer.",
       "DownloadingReports": "Téléchargement des rapports",
       "RestoringReportsProgressValue": "Restauration des rapports",
       "DownloadingReportsProgressValue": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",
-      "GenericError": "Quelque chose s'est mal passé. Veuillez réessayer.",
+      "GenericError": "Une erreur s’est produite. Veuillez réessayer.",
       "HydratingReportsCache": "Les données des rapports sont en cours de chargement dans la mémoire à partir du stockage de l'appareil.",
       "LoadGroupMembers": "En cours d'analyse de l'historique des clans et des activités",
       "LoadingPeriod": "Scan en cours... {{date}}",
@@ -174,7 +174,7 @@
     },
     "FriendlyError": {
       "Description": "S'il vous plaît, ne le dites pas au commandant Zavala... Pour l'instant.",
-      "Name": "Excusez pour la poussière"
+      "Name": "Excusez la poussière"
     },
     "NetworkError": {
       "Description": "Une erreur de connexion s'est produite. C'est une erreur temporaire qui peut être résolue en rechargeant la page ou en naviguant vers une autre page.",
@@ -193,8 +193,8 @@
       "Name": "Navigateur non supporté"
     },
     "AuthReset": {
-      "Description": "Lors de la mise à jour des données d'authentification, Bungie a renvoyé une erreur inattendue. Par conséquent, vos données d'authentification ont été réinitialisées. Veuillez consulter les **Settings** pour vous réauthentifier sur Bungie.net à votre convenance.",
-      "Name": "Réinitalisation d'authentification"
+      "Description": "Lors de la mise à jour des données d’authentification, Bungie a renvoyé une erreur inattendue. Vos données d’authentification ont donc été réinitialisées. Rendez-vous dans les **Paramètres** pour vous authentifier à nouveau sur Bungie.net.",
+      "Name": "Réinitialisation de l’authentification"
     },
     "Version": "Version",
     "Updated": "Braytech vient d'être mis à jour vers la dernière version ! Consultez le journal des modifications pour plus de détails. Appuyez ici pour y jeter un œil !",
@@ -261,20 +261,20 @@
     "Exotics": {
       "Options": {
         "WorldDrops": {
-          "Description": "🦘 Display weapon world drops. There's a lot of them so they're hidden by default to improve rendering performance.",
-          "Name": "🦘 Weapon World Drops"
+          "Description": "Afficher les armes obtenues dans le monde. Elles sont nombreuses et sont donc masquées par défaut pour améliorer les performances d’affichage.",
+          "Name": "Armes obtenues dans le monde"
         },
         "ArmorTitan": {
-          "Description": "🦘 Display Titan armor. Thick, strong stuff.",
-          "Name": "🦘 Titan Armor"
+          "Description": "Afficher les armures de Titan. Solides et résistantes.",
+          "Name": "Armures de Titan"
         },
         "ArmorHunter": {
-          "Description": "🦘 Display Hunter armor. Conniving.",
-          "Name": "🦘 Hunter Hunter"
+          "Description": "Afficher les armures de Chasseur. Rusées, comme leurs propriétaires.",
+          "Name": "Armures de Chasseur"
         },
         "ArmorWarlock": {
-          "Description": "🦘 Display Warlock armor. The best and most useful class.",
-          "Name": "🦘 Warlock Hunter"
+          "Description": "Afficher les armures d’Arcaniste. La classe la plus utile, évidemment.",
+          "Name": "Armures d’Arcaniste"
         }
       }
     },
@@ -295,8 +295,8 @@
       "DetailsTable": "Affichage des membres du clan avec lesquels ce joueur a joué, en agrégeant leurs rapports d'activité et en recoupant les participants avec l'appartenance au clan. Limité à la saison actuelle pour la rapidité.",
       "NoEncounters": "Ce joueur n'a partagé aucune activité pendant la période sélectionnée.",
       "NoFriends": "Vous n'êtes pas seul - vous vous ferez éventuellement un ami... Invitez un ami du clan à sortir pour quelques activités!",
-      "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, gardien!",
-      "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
+      "NoParters": "Personne n’a dit que les rencontres étaient faciles. Retournez au combat, Gardien !",
+      "SocialButterfly": "Vous êtes partout ! Vous avez joué avec tout le monde cette saison.",
       "TopFireteams": "Top {{number}} des compositions d'équipe",
       "TopFriends": "Top {{number}} des amis par activités jouées",
       "Options": {
@@ -314,7 +314,7 @@
         }
       }
     },
-    "SortMembers": "🦘 Sort Members"
+    "SortMembers": "Trier les membres"
   },
   "Collections": {
     "AllAcquired": "Tout a été récupéré",
@@ -333,12 +333,12 @@
     "Collectible_plural": "Collectibles",
     "CollectiblesAcquired": "Vous avez acquis tous ces objets de collection et choisi de les cacher",
     "CollectiblesUnavailable": "Il n'y a pas d'objets de collection disponibles pour l'affichage",
-    "Discovered": "🦘 Discovered",
-    "Undiscovered": "🦘 Undiscovered",
-    "CatalystIncomplete": "🦘 Catalyst Incomplete",
-    "CatalystCompleted": "🦘 Catalyst Completed",
+    "Discovered": "Découvert",
+    "Undiscovered": "Non découvert",
+    "CatalystIncomplete": "Catalyseur incomplet",
+    "CatalystCompleted": "Catalyseur terminé",
     "Grouped": {
-      "Season": "Grouper par Saison",
+      "Season": "Regrouper par saison",
       "Ungroup": "Dégrouper"
     },
     "Options": {
@@ -349,11 +349,11 @@
     },
     "RecentlyDiscovered": "Découvert récemment",
     "SetComplete": "Ensemble complet",
-    "SomeAcquiredSomeInvisible": "Quelques uns ont été obtenu, {{invisible}} est invisible",
+    "SomeAcquiredSomeInvisible": "Certains ont été obtenus ; {{invisible}} sont invisibles.",
     "Encounter": "Rencontre",
     "AnyEncounter": "Toute rencontre",
     "FinalEncounter": "Dernière rencontre",
-    "StashFavourites": "Rangez tous vos objets de collection préférés ici !\n\nVous pouvez synchroniser vos objets de collection en activant la synchronisation dans [Paramètres](/settings#sync).",
+    "StashFavourites": "Rangez tous vos objets de collection préférés ici  !\n\nVous pouvez synchroniser vos objets de collection en activant la synchronisation dans [Paramètres](/settings#sync).",
     "EververseGambling": "Les projections réussies dépendent de la correspondance des motifs (s'il y en a un) et du contenu du manifeste. Si une projection n'est pas visible, elle n'est pas disponible."
   },
   "Commendations": {
@@ -376,20 +376,20 @@
     "ActivityNth": "{{number}} activité",
     "ActivityNth_plural": "{{number}} activités",
     "Addendums": "Addendums",
-    "All": "All",
-    "Alphabetical": "🦘 Alphabetical",
+    "All": "Tout",
+    "Alphabetical": "Alphabétique",
     "Armour": "Armure",
     "AscendantChallenge": "Défi Ascendant",
     "Available": "Disponible",
     "AvailableActivities": "Activités disponibles",
-    "App_plural": "Apps",
+    "App_plural": "Applications",
     "Browse": "Naviguer",
     "BrowseNthMembers_plural": "Parcourir {{number}} membres",
     "Cancel": "Annuler",
     "Challenge": "Défi",
     "Challenge_plural": "Défis",
     "Character": "Personnage",
-    "CurrentRankNth": "Rang actuel: {{value}}",
+    "CurrentRankNth": "Rang actuel : {{value}}",
     "CharacterClass": "Classe du personnage",
     "CharacterLight": "Puissance du personnage",
     "CharacterSpecific": "Comme pour la plupart des fonctions Braytech, cette vue est spécifique à un personnage.",
@@ -416,15 +416,15 @@
     "Empty": "Vide",
     "Equipment": "Équipement",
     "Error": "Erreur",
-    "Episode": "Episode",
-    "EpisodeNth": "Episode {{number}}",
-    "EpisodeEndsIn": "Episode {{number}}: se termine dans {{duration}}",
+    "Episode": "Épisode",
+    "EpisodeNth": "Épisode {{number}}",
+    "EpisodeEndsIn": "L’épisode {{number}} se termine dans {{duration}}",
     "Event": "Évènement",
-    "EventNth": "1 évènement",
-    "EventNth_plural": "{{count}} évènements",
+    "EventNth": "1 événement",
+    "EventNth_plural": "{{count}} événements",
     "Examples": "Exemples",
     "Exotic": "Exotique",
-    "Experience": "Experience",
+    "Experience": "Expérience",
     "Expiration": "Expiration",
     "Expired": "Expiré",
     "Expiry": "Expiration",
@@ -435,7 +435,7 @@
     "FeaturedPlaylist": "Activité PVP actuelle",
     "Filter": "Filtre",
     "Filter_plural": "Filtres",
-    "FiltersApplied": "Filtres Appliqués",
+    "FiltersApplied": "Filtres appliqués",
     "Fireteam": "Escouade",
     "Fireteam_plural": "Escouades",
     "FireteamMembers": "Membres d'escouade",
@@ -459,16 +459,16 @@
     "Items": "Objets",
     "Joined": "Rejoint",
     "Last": "Dernier",
-    "Legend": "🦘 Legend",
+    "Legend": "Légende",
     "Loadout": "Équipement",
     "Loadout_plural": "Équipements",
     "LoadoutSlotPreview": "Aperçu de l'emplacement d'équipement {{number}}",
     "Slot": "Emplacement {{number}}",
     "LevelNth": "Niveau {{number}}",
     "Light": "Puissance",
-    "LikeNth": " **1** J'aime",
-    "LikeNth_plural": " **{{number}}** J'aimes",
-    "Like_plural": "J'aimes",
+    "LikeNth": "**1** J’aime",
+    "LikeNth_plural": "**{{number}}** J’aime",
+    "Like_plural": "J’aime",
     "Location": "Position",
     "Lore": "Légende",
     "LoreBook": "Livre de Légendes",
@@ -476,12 +476,12 @@
     "Medal_plural": "Médailles",
     "Member_plural": "Membres",
     "MembersOnline": "{{number}} en ligne",
-    "Meta": "Meta",
+    "Meta": "Méta",
     "Name": "Nom",
     "NothingHereYet": "Il n'y a encore rien ici",
     "Objectives": "Objectifs",
     "Offline": "Hors ligne",
-    "Overview": "🦘 Overview",
+    "Overview": "Vue d’ensemble",
     "Patreon": "Patreon",
     "Patron_plural": "Patrons",
     "Power": "Puissance",
@@ -499,7 +499,7 @@
     "Rarity": "Rareté",
     "Recent": "Récent",
     "Redacted": "Censuré",
-    "Report_plural": "Reports",
+    "Report_plural": "Rapports",
     "Reputation": "Réputation",
     "Reset": "Réinitialisation",
     "Reset_plural": "Réinitialisations",
@@ -511,20 +511,20 @@
     "Score": "Score",
     "Score_plural": "Scores",
     "ScoreValue": "Valeur du score",
-    "Screenshot": "Capture d'écran",
+    "Screenshot": "Capture d’écran",
     "Search": "Recherche",
     "Season": "Saison",
     "SeasonNth": "Saison {{number}}",
-    "SeasonEndsIn": "La Saison {{number}}: se termine dans {{duration}}",
-    "StatTracker_plural": "Tracker de Statistiques",
+    "SeasonEndsIn": "La saison {{number}} se termine dans {{duration}}",
+    "StatTracker_plural": "Suivis de statistiques",
     "SeasonPass": "Pass saisonnier",
     "SeasonRank": "Rang de saison",
     "Season_plural": "Saisons",
     "Settings": "Paramètres",
     "Source": "Source",
-    "Sort": "🦘 Sort",
+    "Sort": "Trier",
     "SpecialCommendationAbr_plural": "Éloges spéc.",
-    "SpecialCommendation_plural": "Éloges spéciales",
+    "SpecialCommendation_plural": "Éloges spéciaux",
     "Statistics": "Statistiques",
     "Submit": "Envoyer",
     "Support": "Assistance",
@@ -533,12 +533,12 @@
     "TimeStarted": "Heure de départ",
     "TimeRemaining": "Temps restant",
     "TopNth": "Top {{number}}",
-    "Total": "🦘 Total",
+    "Total": "Total",
     "Translator_plural": "Traducteurs",
     "TrialsPassage": "Passage du Jugement",
     "TrialsPoints": "Points du Jugement",
-    "ActiveScore": "Score Actif",
-    "LegacyScore": "Score Héritage",
+    "ActiveScore": "Score actif",
+    "LegacyScore": "Score héritage",
     "TriumphScore": "Score de triomphe",
     "ActiveTriumphs": "Triomphes actifs",
     "LegacyTriumphs": "Triomphes classiques",
@@ -585,7 +585,7 @@
         "Placeholder": "<nom>"
       },
       "Description": {
-        "Info": " Les descriptions sont facultatives et doivent faire 256 caractères ou moins.",
+        "Info": "Les descriptions sont facultatives et ne doivent pas dépasser 256 caractères.",
         "Placeholder": "<description>"
       },
       "Screenshot": {
@@ -593,8 +593,8 @@
         "Placeholder": "<capture>"
       },
       "Url": {
-        "Info": "Incluez un lien vers ton post sur Reddit r/DestinyFashion.",
-        "Placeholder": "<url> [optional]"
+        "Info": "Incluez un lien vers votre publication sur Reddit r/DestinyFashion.",
+        "Placeholder": "<url> [facultatif]"
       }
     },
     "Stats": {
@@ -649,18 +649,18 @@
     "Breaker": "Champion",
     "BreakerType": "Type de Champion",
     "ClassEquipped": "{{name}} (Équipé)",
-    "ClassPostmaster": "{{name}} (Commis des postes)",
+    "ClassPostmaster": "{{name}} (commis des postes)",
     "ClassType": "Type de classe",
     "CollectionsRoll": "Collection d'attributs",
     "CumulativeStats": "Statistiques cumulatives",
     "CurrentlyEquipped": "Actuellement équipé",
-    "DamageType": "Type de dégât",
+    "DamageType": "Type de dégâts",
     "Dupes": "Dupes",
     "CouldntFindItemForUnequip": "Un objet à équiper à la place de {{name}} est introuvable sur le personnage où il se trouve.",
-    "CraftingRequiredLevel": "Nécessite arme de niveau {{number}}",
+    "CraftingRequiredLevel": "Nécessite une arme de niveau {{number}}",
     "CurrentlyCantRoll": "Cet attribut n'est pas compatible avec cette arme",
     "Energy": "Énergie",
-    "EnergyAffinity": "Affinité Energétique",
+    "EnergyAffinity": "Affinité énergétique",
     "EnergyCapacity": "Énergie",
     "EnergyCost": "Énergie",
     "EnergyMeter": "Énergie",
@@ -670,7 +670,7 @@
     "Inspect": "Inspecter",
     "Intrinsic": "Armature",
     "ItemAction": "Action de l'objet",
-    "Locked": "Verouillé",
+    "Locked": "Verrouillé",
     "Mods": "Mods",
     "Marked": "Marqué",
     "PatternUnlockProgress": "Progression de déverrouillage du modèle",
@@ -688,16 +688,16 @@
     "Stats": "Stats",
     "Subclass": "Doctrine",
     "Sunset": "Crépuscule",
-    "TransferMaximumStack": "{{name}} a un nombre maximal de {{size}}. Utilisez en quelques-uns et réessayez.",
+    "TransferMaximumStack": "La quantité maximale de {{name}} est de {{size}}. Utilisez-en quelques-uns, puis réessayez.",
     "UndiscoveredCollectibleVendor": "Acquérez cet article pour l'ajouter à vos collections",
     "Uninstanced": "Cet élément est affiché sans aucune donnée d'instance, comme il apparaîtrait dans les collections.",
     "Weapons": "Armes",
-    "WeaponKills": "Tués à l'arme",
+    "WeaponKills": "Éliminations avec l’arme",
     "WeaponStats": "Statistiques d'armes",
     "Tier": "Palier"
   },
   "Landing": {
-    "FeaturedThisWeek": "Cette Semaine",
+    "FeaturedThisWeek": "Cette semaine",
     "CallToAction": "Explorez Destiny via Braytech pour obtenir une plus-value intéressante et un aperçu de vos combats contre les forces des ténèbres",
     "Features": {
       "Description": "La progression des personnages de Destiny 2, les clans, les triomphes, les collections, et plus encore.\n\nBraytech a commencé comme une application de liste de contrôle et s'est transformé en une monstruosité aux multiples talents. Elle est toujours en cours d'amélioration et d'expansion.\n\nVous avez besoin de trouver quelque chose rapidement ? Appuyez sur  et commencez à taper ! Braytech dispose d'une interface de recherche, disponible partout dans l'application.\n\nBraytech est d'abord conçu pour les utilisateurs d'ordinateurs de bureau, mais il fonctionne aussi bien et est aussi beau sur les petits appareils. En fait, il existe une [iPhone app](https://apps.apple.com/app/braytech/id1593151816) et une [Android app](https://play.google.com/store/apps/details?id=braytech.org.twa). Envie de faire une suggestion ? Rejoins le [Discord](https://discord.bray.tech)!",
@@ -705,24 +705,24 @@
     },
     "Support": {
       "Description": "Braytech est un travail à plein temps : je conçois et développe pour m'améliorer et pour aider tous les Gardiens. Je suis contre les publicités, à ma propre perte. Votre soutien m'aide à garder la lumière allumée et me permet de faire mon meilleur travail et de rendre votre expérience de Destiny encore meilleure. J'espère que vous aimerez l'utiliser autant que j'aime le construire ! 💖\n\nRejoins le [Discord](https://discord.bray.tech) et les autres mécènes de la Division de Recherche Braytech.",
-      "Name": "Es-tu un fan? Montre ton support",
-      "Action": "Deviens un supporteur"
+      "Name": "Vous aimez Braytech ? Montrez votre soutien",
+      "Action": "Devenir mécène"
     },
     "Polls": "Sondages",
     "PollsChannel": "Rejoins la conversation [Discord](https://discord.bray.tech) et vote sur comment Braytech peut évoluer.",
     "Updates": "Mises à jour",
     "Blog": {
-      "AllPosts": "Tous les posts",
-      "Error": "Les posts de Blog ne peuvent pas être chargés maintenant.",
+      "AllPosts": "Toutes les publications",
+      "Error": "Impossible de charger les articles du blog pour le moment.",
       "Name": "Blog"
     }
   },
   "Language": {
     "Space": {
-      "MetresAbr": "1 Mtr",
+      "MetresAbr": "1 m",
       "MetresAbr_plural": "{{count}} m",
-      "WeightAbr": "{{count}} Kg",
-      "WeightAbr_plural": "{{count}} Kg"
+      "WeightAbr": "{{count}} kg",
+      "WeightAbr_plural": "{{count}} kg"
     },
     "Time": {
       "Frequency": {
@@ -755,7 +755,7 @@
     "CollectionScore": "Score de collection",
     "ProfileLastUpdated": "Profil mis à jour pour la dernière fois",
     "LeaderboardsLastUpdated": "Classements mis à jour pour la dernière fois",
-    "RequestUpdate": "En tant qu'abonné, vous pouvez demander que votre profil soit immédiatement mis à jour avant que tous les classements ne soient mis à jour..",
+    "RequestUpdate": "En tant qu’abonné, vous pouvez demander la mise à jour immédiate de votre profil avant l’actualisation de tous les classements.",
     "Unranked": "Ce classement est en cours d'élaboration avec de nouvelles données. Il sera prêt dans quelques minutes.",
     "UnrankedMember": "Ce joueur n'a pas encore été classé. Il a été ajouté à la file d'attente.",
     "UnrankedGroup": "Aucun membre de ce clan n'a encore été classé.",
@@ -765,7 +765,7 @@
       "Description": "Sélectionnez un profil à utiliser avec Braytech et voyez vos rangs."
     },
     "GroupSearch": {
-      "Name": "Trouver un Clan",
+      "Name": "Trouver un clan",
       "Description": "Recherchez un clan et voyez le classement de ses membres."
     },
     "MemberSearch": {
@@ -804,7 +804,7 @@
       "Name": "Première apparition"
     },
     "Dresstiny": {
-      "Description": "\n\nCertains disent que vous êtes un leader de la mode, d'autres disent que vous êtes un créateur de tendances, mais une chose est sûre : vous savez comment équiper les articles !\n\nVoici le véritable objectif final : Dresstiny.",
+      "Description": "\n\nCertains disent que vous êtes un leader de la mode, d'autres disent que vous êtes un créateur de tendances, mais une chose est sûre : vous savez comment équiper les articles  !\n\nVoici le véritable objectif final : Dresstiny.",
       "Name": "Dresstiny"
     },
     "Highlight": {
@@ -828,8 +828,8 @@
       "Name": "Gambit"
     },
     "Crucible": {
-      "Description": "[Cris incohérents]\n\nOUI ! C'est… c'est pour ça que l'Epreuve a été créé ! Votre Lumière brille comme un soleil, brûlant le doute et la faiblesse ! Je suis honoré d'être témoin d'une telle puissance ! Maintenant, retournez-y et montrez-leur de quoi sont faites les LÉGENDES !",
-      "Name": "Epreuve"
+      "Description": "[Cris incohérents]\n\nOUI ! C’est… c’est pour ça que l’Épreuve a été créée ! Votre Lumière brille comme un soleil, brûlant le doute et la faiblesse ! Je suis honoré d’être témoin d’une telle puissance ! Maintenant, retournez-y et montrez-leur de quoi sont faites les LÉGENDES !",
+      "Name": "Épreuve"
     },
     "AggregateActivityStats": {
       "Description": "Expérience cumulative\n\nBien sûr, vous avez anéanti des « dieux » et, dans certains cas, formé des armes à partir de leurs restes, mais combien de fois les avez-vous assassinés sans réfléchir...",
@@ -849,7 +849,7 @@
       "Name": "Erreur Bungie"
     },
     "VoluspaError": {
-      "Description": "Braytech n'a pas pu atteindre le réseau Voluspa. Veuillez vérifier la connexion de la ligne téléphonique de votre modem 56k..",
+      "Description": "Braytech n’a pas pu joindre le réseau Voluspa. Veuillez vérifier le branchement de votre modem 56k.",
       "Name": "Erreur Voluspa"
     },
     "IndexedDBError": {
@@ -877,7 +877,7 @@
       "Description": "Êtes-vous déconnecté ? Votre navigateur Web pense que vous l'êtes ..."
     },
     "SettingsFetchError": {
-      "Description": "Une erreur s'est produite lors de la tentative de collecte de la configuration de l'API auprès de Bungie.\n\nS'il vous plaît, veuillez recharger l'application et réessayer.",
+      "Description": "Une erreur s'est produite lors de la tentative de collecte de la configuration de l'API auprès de Bungie.\n\nVeuillez recharger l'application et réessayer.",
       "Name": "Échec de la configuration"
     },
     "Status": {
@@ -995,7 +995,7 @@
       },
       "Banned": {
         "Botting": "Un joueur a été observé en train d'utiliser des mécanismes pour éviter les contre-mesures de détection d'inactivité (botting).",
-        "Dickhead": "Tête de noœud.",
+        "Dickhead": "Tête de nœud.",
         "Hacking": "Un joueur a été observé utilisant des outils externes pour manipuler les règles d'engagement (piratage).",
         "Teabagging": "Le joueur a été observé en train d'adopter des comportements qui ne sont pas propices à un environnement amical."
       },
@@ -1008,7 +1008,7 @@
         "Name": "Profil banni"
       },
       "PrivateProgression": {
-        "Description": "Les données de progression de votre profil ne sont pas disponibles. Votre profil est peut être défini comme privé sur Bungie.net.\n\nVous pouvez modifier vos paramètres de confidentialité sur Bungie.net ou authentifier Braytech avec Bungie.net",
+        "Description": "Les données de progression de votre profil ne sont pas disponibles. Votre profil est peut-être défini comme privé sur Bungie.net.\n\nVous pouvez modifier vos paramètres de confidentialité sur Bungie.net ou authentifier Braytech avec Bungie.net",
         "Name": "Profil privé"
       },
       "NoCharacters": {
@@ -1016,11 +1016,11 @@
         "Name": "Pas de personnage"
       }
     },
-    "GetStarted": "Il semblerait que tu sois nouveau ici ! Tu peux commencer en appuyant sur **Authenticate** et en te connectant sur Bungie.net ou tu peux rechercher ton nom Bungie et charger ton profil manuellement !",
+    "GetStarted": "Vous semblez nouveau ici ! Pour commencer, sélectionnez **S’authentifier** et connectez-vous à Bungie.net, ou recherchez votre nom Bungie pour charger votre profil manuellement.",
     "Authenticate": "Authentifiez-vous en toute sécurité avec Bungie.net pour charger votre profil, activer les actions de profil telles que la gestion de l'inventaire et débloquer des tonnes d'autres fonctionnalités.",
     "RemoveHistory": "Faites un clic droit sur un profil pour le supprimer de la liste.",
     "NewLight": "Nouvelle Lumière",
-    "NoProfilesFound": "Pas de profils trouvés",
+    "NoProfilesFound": "Aucun profil trouvé",
     "PreviousSearches": "Recherches précédentes",
     "ReturnToAuthMembership": "Retourner vers {{displayName}}",
     "SavedProfile": "Profil sauvegardé",
@@ -1029,7 +1029,7 @@
     "SelectACharacter": "Sélectionner un personnage",
     "ThirdPartyApps": "Consultez le profil de ce joueur sur l'une des applications de nos amis.",
     "ContentOwned": "Ce joueur possède le contenu suivant sur la plateforme sur laquelle il a joué en dernier.",
-    "BungieNet": "🦘 This profile is attached to a Bungie.net account."
+    "BungieNet": "Ce profil est associé à un compte Bungie.net."
   },
   "Progression": {
     "Points": "Points",
@@ -1044,9 +1044,9 @@
     "Streak": "Série",
     "Title": "Titre",
     "TrialsPassage": {
-      "Flawless": "Sans-Faute",
-      "FlawlessPassage": "Passage Sans-Faute",
-      "WeeklyTimesFlawless": "Sans-Faute cette semaine",
+      "Flawless": "Sans faute",
+      "FlawlessPassage": "Passage Sans faute",
+      "WeeklyTimesFlawless": "Sans faute cette semaine",
       "Wins": "Victoires"
     }
   },
@@ -1055,17 +1055,17 @@
     "NoQuests": "Les quêtes que vous obtenez apparaissent ici.",
     "Rewards": "Récompenses de quête",
     "Steps": "Étapes de quête",
-    "ProjectedRanks": "La valeur de vos contrats complétées équivaut aux rangs du pass saisonnier ci-dessus si vous les réclamez.",
+    "ProjectedRanks": "L’expérience de vos contrats terminés correspond aux rangs du passe saisonnier indiqués ci-dessus, si vous récupérez leurs récompenses.",
     "ExperienceNeeded": "Expérience requise pour le rang suivant.",
-    "BountiesValue": "La valeur de vos contrats complétées.",
+    "BountiesValue": "Valeur de vos contrats terminés.",
     "XPBonuses": "Bonus",
     "SuggestedPath": "Chemin suggéré",
     "Sorted": {
-      "Completion": "🦘 Sorted by **Completion**",
-      "Name": "🦘 Sorted by **Name**",
-      "Expiry": "🦘 Sorted by **Expiry**",
-      "User": "🦘 Sorted by **User**",
-      "None": "🦘 Unsorted"
+      "Completion": "Trié par **progression**",
+      "Name": "Trié par **nom**",
+      "Expiry": "Trié par **expiration**",
+      "User": "Trié par **utilisateur**",
+      "None": "Non trié"
     }
   },
   "RewardHistory": {
@@ -1089,7 +1089,7 @@
       "MatchesAllHidden_plural": "Il y a des correspondances, mais vous avez choisi de les cacher !",
       "NoMatches": "Rien ne correspond à votre recherche.",
       "Top10Upsell": "Affichage des 10 meilleurs résultats. Appuyer sur  à tout moment pour une expérience de recherche plus complète.",
-      "TopNSpecificity": "Affichage des {{number}} meilleurs résultats. Soyez plus précis.."
+      "TopNSpecificity": "Affichage des {{number}} meilleurs résultats. Affinez votre recherche."
     },
     "ShortcutKey": "Pressez  pour activer la recherche depuis n'importe où",
     "Suggestions": "La recherche prend en charge les filtres en tant que préfixes. Vous pouvez également effectuer une recherche par identifiant de manifeste. Par exemple, la meilleure arme du jeu, `564802913`.\n\nLes résultats sont classés par nom, source et description.",
@@ -1185,7 +1185,7 @@
         "Name": "Réinitialiser les notifications"
       },
       "ResetProfileHistory": {
-        "Description": "Supprimez l'historique des profils chargés précedemments (recherche de profil)",
+        "Description": "Supprimez l’historique des profils chargés précédemment (recherche de profil).",
         "Name": "Réinitialiser l'historique du profil"
       },
       "ResetTips": {
@@ -1193,7 +1193,7 @@
         "Name": "Réinitialiser les astuces"
       },
       "ResetTrackedTriumphs": {
-        "Description": "Supprimez les triomphes suivis. Cela aura aucun effet sur l'état des triomphes dans le jeu.",
+        "Description": "Supprimez les triomphes suivis. Cela n’aura aucun effet sur leur état dans le jeu.",
         "Name": "Réinitialiser les triomphes suivis"
       }
     },
@@ -1252,7 +1252,7 @@
       "Incompatible": "Votre navigateur ne prend pas encore en charge les notifications 'Push'.",
       "NoServiceWorker": "Un service 'worker' n'a pas encore été installé. Essayez de recharger Braytech.",
       "PermissionDenied": "Votre navigateur indique que vous avez refusé l'autorisation d'envoyer des notifications. Vous devrez les activer ou les réinitialiser manuellement avant que nous puissions continuer.",
-      "ServiceWorkerInstalling": "Un service worker est en train d'installer. S'il vous plaît, patientez.",
+      "ServiceWorkerInstalling": "Un service worker est en cours d’installation. Veuillez patienter.",
       "PreviewNotifications": {
         "Description": "Envoyez immédiatement les notifications activées.",
         "Name": "Aperçu des notifications"
@@ -1302,7 +1302,7 @@
       "VisualFidelity": "Fidélité visuelle"
     },
     "Subscriptions": {
-      "Info": "Les publicités ne sont pas intéressantes, donc Braytech ne les utilise pas, mais rien de tout cela n'est gratuit ou facile !\n\nEn lieu et place des publicités, je compte sur votre générosité. Votre soutien m'aide à maintenir l'application en ligne, me permet de travailler sur de nouvelles fonctionnalités et me permet de payer mon loyer !\n\nAbonnez-vous à l'un des niveaux suivants pour obtenir des récompenses intéressantes telles que des médailles de profil !",
+      "Info": "Les publicités ne sont pas intéressantes, donc Braytech ne les utilise pas, mais rien de tout cela n'est gratuit ou facile  !\n\nEn lieu et place des publicités, je compte sur votre générosité. Votre soutien m'aide à maintenir l'application en ligne, me permet de travailler sur de nouvelles fonctionnalités et me permet de payer mon loyer  !\n\nAbonnez-vous à l'un des niveaux suivants pour obtenir des récompenses intéressantes telles que des médailles de profil !",
       "Help": "Vous pouvez obtenir de l'aide à ce sujet à tout moment en vous connectant sur [Discord](https://discord.bray.tech) ou en envoyant un e-mail à [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "HelpMore": "Le prix des abonnements est affiché en USD. Pour changer de niveau, il suffit de se réabonner à un autre niveau. Vous pouvez obtenir de l'aide à tout moment sur [Discord](https://discord.bray.tech) ou par e-mail à [subscriptions@bray.tech](mailto:subscriptions@bray.tech).",
       "AuthRequired": "Authentifiez-vous auprès de Bungie.net pour créer ou gérer un abonnement.",
@@ -1323,7 +1323,7 @@
       "Stripe": "Visitez Stripe pour gérer votre abonnement.",
       "Newsletter": {
         "Name": "Recevoir un e-mail",
-        "Description": "Recevez les articles du blog de Braytech et toutes les informations pertinentes pour les abonnés directement dans votre boîte de réception.."
+        "Description": "Recevez les articles du blog de Braytech et toutes les informations pertinentes pour les abonnés directement dans votre boîte de réception."
       },
       "ChangeTier": {
         "Name": "Changer de palier",
@@ -1373,7 +1373,7 @@
       "Updated": "Votre légende a été mise à jour. ✨",
       "Disabled": "Votre légende a été désactivée.",
       "Info": "Améliorez votre profil avec un nom d'utilisateur unique pour faciliter le partage, sélectionnez un triomphe ou un tracker à mettre en évidence lorsque votre profil est partagé et choisissez un personnage par défaut lorsqu'un lien vers votre profil est partagé sans personnage spécifié.\n\n[Les abonnés](/settings/subscriptions) bénéficient de nombreux avantages, notamment la possibilité de choisir un nom d'utilisateur personnalisé.",
-      "AuthRequired": "To alter your legend, you need to first authenticate Braytech with Bungie.net.",
+      "AuthRequired": "Pour modifier votre légende, vous devez d’abord authentifier Braytech auprès de Bungie.net.",
       "SubscriptionRequired": "Pour obtenir un nom d'utilisateur et d'autres astuces, vous devez être abonné. [Soutenir Braytech](/settings/subscriptions) via un abonnement.",
       "Username": "Choisissez un nom d'utilisateur unique ou utilisez votre nom Bungie. Vous pouvez le modifier à tout moment.",
       "UsernameSpecifications": "La longueur maximale des noms d'utilisateur est de 127 caractères. Tous les caractères alphabétiques (équivalent à [a-zA-Z0-9_]) et certains émojis sont pris en charge.",
@@ -1439,8 +1439,8 @@
         "Name": "Activer ✨"
       },
       "Grinch": {
-        "Description": "🦘 You are the Grinch who stole Christmas.",
-        "Name": "🦘 Grinch 🚫🎄"
+        "Description": "Vous êtes le Grinch qui a volé Noël.",
+        "Name": "Grinch 🚫🎄"
       },
       "ReducedMotion": {
         "Description": "Réduit les animations de l'interface. Permet de réduire l'usage CPU.",
@@ -1516,7 +1516,7 @@
       "LoadBungieFriends": "Souhaitez-vous afficher vos amis Bungie ? Cela prendra quelques secondes.",
       "NotCompleted": "Pas complété",
       "OpenView": "Ouvrir la vue des détails",
-      "HasItem": "Cet enregistrement est lié à un élément. Vous pouvez consulter les [details] de cet élément ({{string}})."
+      "HasItem": "Ce triomphe est associé à un objet. Vous pouvez en consulter les [détails] ({{string}})."
     },
     "DudTriumphs": "Ratés",
     "EventCard": "Carte de l'évènement",
@@ -1526,12 +1526,12 @@
     "Record": {
       "Commonality": "Pourcentage de joueurs indexés par Voluspa qui ont validé ce triomphe.",
       "Expiration": "Ce triomphe ne pourra plus être obtenu une fois expiré.",
-      "Expires": "Expire à la fin de la Saison {{season}}",
+      "Expires": "Expire à la fin de la saison {{season}}",
       "IntervalFraction": "{{numerator}} sur {{denominator}}",
       "Score": "Valeur du score de triomphe terminé pour cet enregistrement.",
       "ScoreProgress": "La valeur du score gagné pour ce triomphe."
     },
-    "BraytechActiveScore": "Votre score de triomphe actif est de **{{number}}**, tel que déterminé par Braytech. Cette valeur est calculée en examinant les triomphes disponibles..",
+    "BraytechActiveScore": "Votre score de triomphe actif est de **{{number}}**, selon Braytech. Il est calculé à partir des triomphes disponibles.",
     "BraytechLegacyScore": "Votre score de triomphes héritage est **{{number}}**, tel que déterminé par Braytech. Cette valeur est calculée en examinant les triomphes disponibles avec les données actuelles de l'API.",
     "BungieScore": "Selon Bungie, votre score est **{{number}}**. Cela peut être inexact car certains triomphes supprimés ou modifiés peuvent ne pas être pris en compte.",
     "PotentialUnattainedScore": "Le Gardien a **{{number}}** de points en attente de déblocage.",
@@ -1562,11 +1562,11 @@
     },
     "Sorted": {
       "Completion": "Trié par achèvement",
-      "Name": "Trié par **Name**",
+      "Name": "Trié par **nom**",
       "Rarity": "Trié par rareté",
       "Score": "Trié par score",
       "Bungie": "Trié par Bungie",
-      "User": "Trié par **User**",
+      "User": "Trié par **utilisateur**",
       "None": "Non-filtré"
     },
     "Options": {
@@ -1575,7 +1575,7 @@
         "Description": "N'afficher que les enregistrements qui accordent un score de triomphe à l'issue de l'exercice."
       },
       "MatchClass": {
-        "Name": "Match Class",
+        "Name": "Correspondance de classe",
         "Description": "Afficher uniquement les triomphes liés à la classe qui correspondent à la classe du personnage sélectionné."
       },
       "Flatten": {
@@ -1600,7 +1600,7 @@
       }
     },
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
-    "NoHiddenRecords": "Vous ne cachez pas encore de triomphes !\n\nVous pouvez synchroniser vos triomphes en activant la synchronisation dans [Settings](/settings).",
+    "NoHiddenRecords": "Vous n’avez encore masqué aucun triomphe ! Vous pouvez synchroniser vos triomphes en activant la synchronisation dans les [Paramètres](/settings).",
     "TrackedTriumphs": "Enregistrements suivis",
     "Triumph": "Triomphe",
     "Triumph_plural": "Triomphes",
@@ -1612,10 +1612,10 @@
   "Subscriptions": {
     "SupportBraytech": "Soutenir Braytech",
     "BuildBraytech": "Construire Braytech",
-    "Info": "Les publicités sont nulles, donc Braytech ne les utilise pas, mais construire Braytech coûte du temps.\n\nA la place des publicités, Braytech dépend de votre générosité. Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités, et de maintenir le développeur en vie et logé !",
+    "Info": "Les publicités sont nulles, donc Braytech ne les utilise pas, mais construire Braytech coûte du temps.\n\nÀ la place des publicités, Braytech dépend de votre générosité. Votre soutien permet de maintenir l'application en ligne, de travailler sur de nouvelles fonctionnalités, et de maintenir le développeur en vie et logé !",
     "CostsCovered": {
-      "Name": "🦘 Costs Covered",
-      "Description": "🦘 Progress made towards covering this month's server and dev cost."
+      "Name": "Frais couverts",
+      "Description": "Progression vers la couverture des frais de serveur et de développement de ce mois-ci."
     },
     "RewardSeraph": "Débloquez la médaille **Seraph**, un symbole de dévouement et d'engagement pour la protection de l'Esprit Tutélaire et de ses biens, et pour l'amélioration de l'humanité.",
     "RewardSubmind": "Les mécènes du niveau \"Submind\" débloquent cette médaille animée d'Esprit Tutélaire ultra.",
@@ -1657,16 +1657,16 @@
     "SeasonalChallengesAvailable": "{{number}} défis saisonniers disponibles",
     "SieveBegins": "Le Tamis commence dans **{{duration}}**",
     "SieveAvailable": "Le Tamis est disponible pour les **{{duration}}** à venir",
-    "VanguardAlert": "🦘 Vanguard Alert",
-    "VanguardAlert_plural": "🦘 Vanguard Alerts",
+    "VanguardAlert": "Alerte de l’Avant-garde",
+    "VanguardAlert_plural": "Alertes de l’Avant-garde",
     "Event": {
-      "ActiveOrders": "🦘 Active Orders",
-      "Conquests": "🦘 Conquests",
-      "SeasonalTitle": "🦘 Seasonal Title",
-      "EventTitle": "🦘 Event Title",
+      "ActiveOrders": "Ordres actifs",
+      "Conquests": "Conquêtes",
+      "SeasonalTitle": "Titre saisonnier",
+      "EventTitle": "Titre d’événement",
       "EventRank": "Rang d'événement",
       "WeeklyRank": "Rang hebdomadaire",
-      "WeeklyRewards": "🦘 Weekly Rewards",
+      "WeeklyRewards": "Récompenses hebdomadaires",
       "DailyChallenges": "Défis quotidiens",
       "WeeklyChallenges": "Défis hebdomadaires",
       "EndsIn": "L'événement se termine dans **{{duration}}**"
