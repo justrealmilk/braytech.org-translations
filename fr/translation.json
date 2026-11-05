@@ -139,7 +139,7 @@
       "Mercy": "Clémence",
       "Tie": "Égalité",
       "Victory": "Victoire",
-      "ObjectiveFailed": "Échec de l’objectif",
+      "ObjectiveFailed": "Échec de l'objectif",
       "Failure": "Échec"
     },
     "State": {
@@ -147,7 +147,7 @@
       "DownloadingReports": "Téléchargement des rapports",
       "RestoringReportsProgressValue": "Restauration des rapports",
       "DownloadingReportsProgressValue": "En cours de récupération de données d'escouade sur Bungie.net. Cela peut prendre un certain temps en fonction de votre réseau et du nombre d'activités.",
-      "GenericError": "Une erreur s’est produite. Veuillez réessayer.",
+      "GenericError": "Une erreur s'est produite. Veuillez réessayer.",
       "HydratingReportsCache": "Les données des rapports sont en cours de chargement dans la mémoire à partir du stockage de l'appareil.",
       "LoadGroupMembers": "En cours d'analyse de l'historique des clans et des activités",
       "LoadingPeriod": "Scan en cours... {{date}}",
@@ -193,8 +193,8 @@
       "Name": "Navigateur non supporté"
     },
     "AuthReset": {
-      "Description": "Lors de la mise à jour des données d’authentification, Bungie a renvoyé une erreur inattendue. Vos données d’authentification ont donc été réinitialisées. Rendez-vous dans les **Paramètres** pour vous authentifier à nouveau sur Bungie.net.",
-      "Name": "Réinitialisation de l’authentification"
+      "Description": "Lors de la mise à jour des données d'authentification, Bungie a renvoyé une erreur inattendue. Vos données d'authentification ont donc été réinitialisées. Rendez-vous dans les **Paramètres** pour vous authentifier à nouveau sur Bungie.net.",
+      "Name": "Réinitialisation de l'authentification"
     },
     "Version": "Version",
     "Updated": "Braytech vient d'être mis à jour vers la dernière version ! Consultez le journal des modifications pour plus de détails. Appuyez ici pour y jeter un œil !",
@@ -261,7 +261,7 @@
     "Exotics": {
       "Options": {
         "WorldDrops": {
-          "Description": "Afficher les armes obtenues dans le monde. Elles sont nombreuses et sont donc masquées par défaut pour améliorer les performances d’affichage.",
+          "Description": "Afficher les armes obtenues dans le monde. Elles sont nombreuses et sont donc masquées par défaut pour améliorer les performances d'affichage.",
           "Name": "Armes obtenues dans le monde"
         },
         "ArmorTitan": {
@@ -273,8 +273,8 @@
           "Name": "Armures de Chasseur"
         },
         "ArmorWarlock": {
-          "Description": "Afficher les armures d’Arcaniste. La classe la plus utile, évidemment.",
-          "Name": "Armures d’Arcaniste"
+          "Description": "Afficher les armures d'Arcaniste. La classe la plus utile, évidemment.",
+          "Name": "Armures d'Arcaniste"
         }
       }
     },
@@ -295,7 +295,7 @@
       "DetailsTable": "Affichage des membres du clan avec lesquels ce joueur a joué, en agrégeant leurs rapports d'activité et en recoupant les participants avec l'appartenance au clan. Limité à la saison actuelle pour la rapidité.",
       "NoEncounters": "Ce joueur n'a partagé aucune activité pendant la période sélectionnée.",
       "NoFriends": "Vous n'êtes pas seul - vous vous ferez éventuellement un ami... Invitez un ami du clan à sortir pour quelques activités!",
-      "NoParters": "Personne n’a dit que les rencontres étaient faciles. Retournez au combat, Gardien !",
+      "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, Gardien !",
       "SocialButterfly": "Vous êtes partout ! Vous avez joué avec tout le monde cette saison.",
       "TopFireteams": "Top {{number}} des compositions d'équipe",
       "TopFriends": "Top {{number}} des amis par activités jouées",
@@ -418,7 +418,7 @@
     "Error": "Erreur",
     "Episode": "Épisode",
     "EpisodeNth": "Épisode {{number}}",
-    "EpisodeEndsIn": "L’épisode {{number}} se termine dans {{duration}}",
+    "EpisodeEndsIn": "L'épisode {{number}} se termine dans {{duration}}",
     "Event": "Évènement",
     "EventNth": "1 événement",
     "EventNth_plural": "{{count}} événements",
@@ -466,9 +466,9 @@
     "Slot": "Emplacement {{number}}",
     "LevelNth": "Niveau {{number}}",
     "Light": "Puissance",
-    "LikeNth": "**1** J’aime",
-    "LikeNth_plural": "**{{number}}** J’aime",
-    "Like_plural": "J’aime",
+    "LikeNth": "**1** J'aime",
+    "LikeNth_plural": "**{{number}}** J'aime",
+    "Like_plural": "J'aime",
     "Location": "Position",
     "Lore": "Légende",
     "LoreBook": "Livre de Légendes",
@@ -481,7 +481,7 @@
     "NothingHereYet": "Il n'y a encore rien ici",
     "Objectives": "Objectifs",
     "Offline": "Hors ligne",
-    "Overview": "Vue d’ensemble",
+    "Overview": "Vue d'ensemble",
     "Patreon": "Patreon",
     "Patron_plural": "Patrons",
     "Power": "Puissance",
@@ -511,7 +511,7 @@
     "Score": "Score",
     "Score_plural": "Scores",
     "ScoreValue": "Valeur du score",
-    "Screenshot": "Capture d’écran",
+    "Screenshot": "Capture d'écran",
     "Search": "Recherche",
     "Season": "Saison",
     "SeasonNth": "Saison {{number}}",
@@ -574,7 +574,7 @@
     },
     "Form": {
       "Loadout": {
-        "Info": "Ajustez votre équipement en jeu avant de créer une apparence. L’API peut prendre un peu de temps pour refléter les changements."
+        "Info": "Ajustez votre équipement en jeu avant de créer une apparence. L'API peut prendre un peu de temps pour refléter les changements."
       },
       "Overwrite": {
         "Info": "Remplacez l'équipement stocké par l'équipement actuel du personnage sélectionné.",
@@ -589,7 +589,7 @@
         "Placeholder": "<description>"
       },
       "Screenshot": {
-        "Info": "Les captures doivent être prises depuis l’écran « Personnaliser l’apparence » en jeu. Elles doivent respecter un format d’image 16:9, 21:9 ou 32:9 (ex. : 1920 x 1080), faire moins de 3 mégaoctets, être en format JPEG. Placez votre curseur en bas au centre de l’image pour de meilleurs résultats. Tout écart à ces consignes peut entraîner le rejet de votre apparence.",
+        "Info": "Les captures doivent être prises depuis l'écran « Personnaliser l'apparence » en jeu. Elles doivent respecter un format d'image 16:9, 21:9 ou 32:9 (ex. : 1920 x 1080), faire moins de 3 mégaoctets, être en format JPEG. Placez votre curseur en bas au centre de l'image pour de meilleurs résultats. Tout écart à ces consignes peut entraîner le rejet de votre apparence.",
         "Placeholder": "<capture>"
       },
       "Url": {
@@ -607,11 +607,11 @@
         "Name": "Likes"
       },
       "Members": {
-        "Info": "La force vive de ce tourbillon de tendances. Chacun d’eux est un créateur de mode.",
+        "Info": "La force vive de ce tourbillon de tendances. Chacun d'eux est un créateur de mode.",
         "Name": "Membres"
       },
       "ClassDistribution": {
-        "Info": "C’est un concours de popularité – voici comment il est remporté.",
+        "Info": "C'est un concours de popularité – voici comment il est remporté.",
         "Name": "Répartition des classes"
       }
     }
@@ -692,7 +692,7 @@
     "UndiscoveredCollectibleVendor": "Acquérez cet article pour l'ajouter à vos collections",
     "Uninstanced": "Cet élément est affiché sans aucune donnée d'instance, comme il apparaîtrait dans les collections.",
     "Weapons": "Armes",
-    "WeaponKills": "Éliminations avec l’arme",
+    "WeaponKills": "Éliminations avec l'arme",
     "WeaponStats": "Statistiques d'armes",
     "Tier": "Palier"
   },
@@ -755,7 +755,7 @@
     "CollectionScore": "Score de collection",
     "ProfileLastUpdated": "Profil mis à jour pour la dernière fois",
     "LeaderboardsLastUpdated": "Classements mis à jour pour la dernière fois",
-    "RequestUpdate": "En tant qu’abonné, vous pouvez demander la mise à jour immédiate de votre profil avant l’actualisation de tous les classements.",
+    "RequestUpdate": "En tant qu'abonné, vous pouvez demander la mise à jour immédiate de votre profil avant l'actualisation de tous les classements.",
     "Unranked": "Ce classement est en cours d'élaboration avec de nouvelles données. Il sera prêt dans quelques minutes.",
     "UnrankedMember": "Ce joueur n'a pas encore été classé. Il a été ajouté à la file d'attente.",
     "UnrankedGroup": "Aucun membre de ce clan n'a encore été classé.",
@@ -828,7 +828,7 @@
       "Name": "Gambit"
     },
     "Crucible": {
-      "Description": "[Cris incohérents]\n\nOUI ! C’est… c’est pour ça que l’Épreuve a été créée ! Votre Lumière brille comme un soleil, brûlant le doute et la faiblesse ! Je suis honoré d’être témoin d’une telle puissance ! Maintenant, retournez-y et montrez-leur de quoi sont faites les LÉGENDES !",
+      "Description": "[Cris incohérents]\n\nOUI ! C'est… c'est pour ça que l'Épreuve a été créée ! Votre Lumière brille comme un soleil, brûlant le doute et la faiblesse ! Je suis honoré d'être témoin d'une telle puissance ! Maintenant, retournez-y et montrez-leur de quoi sont faites les LÉGENDES !",
       "Name": "Épreuve"
     },
     "AggregateActivityStats": {
@@ -849,7 +849,7 @@
       "Name": "Erreur Bungie"
     },
     "VoluspaError": {
-      "Description": "Braytech n’a pas pu joindre le réseau Voluspa. Veuillez vérifier le branchement de votre modem 56k.",
+      "Description": "Braytech n'a pas pu joindre le réseau Voluspa. Veuillez vérifier le branchement de votre modem 56k.",
       "Name": "Erreur Voluspa"
     },
     "IndexedDBError": {
@@ -862,7 +862,7 @@
       "Description": "Une erreur s'est produite lors de la tentative d'accès au stockage du navigateur.\n\nCertains navigateurs interdisent l'accès à la base de données lors de la navigation en mode privé.\n\nVeuillez recharger l'application et réessayer."
     },
     "MaintenanceError": {
-      "Description": "L’API Bungie est actuellement en maintenance.\n\nConsultez @BungieHelp sur Twitter pour obtenir plus d’informations.",
+      "Description": "L'API Bungie est actuellement en maintenance.\n\nConsultez @BungieHelp sur Twitter pour obtenir plus d'informations.",
       "Name": "Maintenance des services de Bungie"
     },
     "ManifestDownloadError": {
@@ -1016,7 +1016,7 @@
         "Name": "Pas de personnage"
       }
     },
-    "GetStarted": "Vous semblez nouveau ici ! Pour commencer, sélectionnez **S’authentifier** et connectez-vous à Bungie.net, ou recherchez votre nom Bungie pour charger votre profil manuellement.",
+    "GetStarted": "Vous semblez nouveau ici ! Pour commencer, sélectionnez **S'authentifier** et connectez-vous à Bungie.net, ou recherchez votre nom Bungie pour charger votre profil manuellement.",
     "Authenticate": "Authentifiez-vous en toute sécurité avec Bungie.net pour charger votre profil, activer les actions de profil telles que la gestion de l'inventaire et débloquer des tonnes d'autres fonctionnalités.",
     "RemoveHistory": "Faites un clic droit sur un profil pour le supprimer de la liste.",
     "NewLight": "Nouvelle Lumière",
@@ -1055,7 +1055,7 @@
     "NoQuests": "Les quêtes que vous obtenez apparaissent ici.",
     "Rewards": "Récompenses de quête",
     "Steps": "Étapes de quête",
-    "ProjectedRanks": "L’expérience de vos contrats terminés correspond aux rangs du passe saisonnier indiqués ci-dessus, si vous récupérez leurs récompenses.",
+    "ProjectedRanks": "L'expérience de vos contrats terminés correspond aux rangs du passe saisonnier indiqués ci-dessus, si vous récupérez leurs récompenses.",
     "ExperienceNeeded": "Expérience requise pour le rang suivant.",
     "BountiesValue": "Valeur de vos contrats terminés.",
     "XPBonuses": "Bonus",
@@ -1185,7 +1185,7 @@
         "Name": "Réinitialiser les notifications"
       },
       "ResetProfileHistory": {
-        "Description": "Supprimez l’historique des profils chargés précédemment (recherche de profil).",
+        "Description": "Supprimez l'historique des profils chargés précédemment (recherche de profil).",
         "Name": "Réinitialiser l'historique du profil"
       },
       "ResetTips": {
@@ -1193,7 +1193,7 @@
         "Name": "Réinitialiser les astuces"
       },
       "ResetTrackedTriumphs": {
-        "Description": "Supprimez les triomphes suivis. Cela n’aura aucun effet sur leur état dans le jeu.",
+        "Description": "Supprimez les triomphes suivis. Cela n'aura aucun effet sur leur état dans le jeu.",
         "Name": "Réinitialiser les triomphes suivis"
       }
     },
@@ -1252,7 +1252,7 @@
       "Incompatible": "Votre navigateur ne prend pas encore en charge les notifications 'Push'.",
       "NoServiceWorker": "Un service 'worker' n'a pas encore été installé. Essayez de recharger Braytech.",
       "PermissionDenied": "Votre navigateur indique que vous avez refusé l'autorisation d'envoyer des notifications. Vous devrez les activer ou les réinitialiser manuellement avant que nous puissions continuer.",
-      "ServiceWorkerInstalling": "Un service worker est en cours d’installation. Veuillez patienter.",
+      "ServiceWorkerInstalling": "Un service worker est en cours d'installation. Veuillez patienter.",
       "PreviewNotifications": {
         "Description": "Envoyez immédiatement les notifications activées.",
         "Name": "Aperçu des notifications"
@@ -1373,7 +1373,7 @@
       "Updated": "Votre légende a été mise à jour. ✨",
       "Disabled": "Votre légende a été désactivée.",
       "Info": "Améliorez votre profil avec un nom d'utilisateur unique pour faciliter le partage, sélectionnez un triomphe ou un tracker à mettre en évidence lorsque votre profil est partagé et choisissez un personnage par défaut lorsqu'un lien vers votre profil est partagé sans personnage spécifié.\n\n[Les abonnés](/settings/subscriptions) bénéficient de nombreux avantages, notamment la possibilité de choisir un nom d'utilisateur personnalisé.",
-      "AuthRequired": "Pour modifier votre légende, vous devez d’abord authentifier Braytech auprès de Bungie.net.",
+      "AuthRequired": "Pour modifier votre légende, vous devez d'abord authentifier Braytech auprès de Bungie.net.",
       "SubscriptionRequired": "Pour obtenir un nom d'utilisateur et d'autres astuces, vous devez être abonné. [Soutenir Braytech](/settings/subscriptions) via un abonnement.",
       "Username": "Choisissez un nom d'utilisateur unique ou utilisez votre nom Bungie. Vous pouvez le modifier à tout moment.",
       "UsernameSpecifications": "La longueur maximale des noms d'utilisateur est de 127 caractères. Tous les caractères alphabétiques (équivalent à [a-zA-Z0-9_]) et certains émojis sont pris en charge.",
@@ -1600,7 +1600,7 @@
       }
     },
     "NoTrackedRecords": "Vous n'avez aucun triomphe suivi pour le moment",
-    "NoHiddenRecords": "Vous n’avez encore masqué aucun triomphe ! Vous pouvez synchroniser vos triomphes en activant la synchronisation dans les [Paramètres](/settings).",
+    "NoHiddenRecords": "Vous n'avez encore masqué aucun triomphe ! Vous pouvez synchroniser vos triomphes en activant la synchronisation dans les [Paramètres](/settings).",
     "TrackedTriumphs": "Enregistrements suivis",
     "Triumph": "Triomphe",
     "Triumph_plural": "Triomphes",
@@ -1657,13 +1657,13 @@
     "SeasonalChallengesAvailable": "{{number}} défis saisonniers disponibles",
     "SieveBegins": "Le Tamis commence dans **{{duration}}**",
     "SieveAvailable": "Le Tamis est disponible pour les **{{duration}}** à venir",
-    "VanguardAlert": "Alerte de l’Avant-garde",
-    "VanguardAlert_plural": "Alertes de l’Avant-garde",
+    "VanguardAlert": "Alerte de l'Avant-garde",
+    "VanguardAlert_plural": "Alertes de l'Avant-garde",
     "Event": {
       "ActiveOrders": "Ordres actifs",
       "Conquests": "Conquêtes",
       "SeasonalTitle": "Titre saisonnier",
-      "EventTitle": "Titre d’événement",
+      "EventTitle": "Titre d'événement",
       "EventRank": "Rang d'événement",
       "WeeklyRank": "Rang hebdomadaire",
       "WeeklyRewards": "Récompenses hebdomadaires",
