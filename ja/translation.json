@@ -1630,6 +1630,10 @@
       "NoInventorySpace": "空きスペースがありません",
       "UniquenessViolation": "複数所持はできません",
       "UnknownError": "不明なエラー"
+    },
+    "Eververse": {
+      "PrimaryBrightDustOffers": "🦘 Primary Bright Dust Offers",
+      "OtherBrightDustOffers": "🦘 Other Bright Dust Offers"
     }
   },
   "Voluspa": {

@@ -1630,6 +1630,10 @@
       "NoInventorySpace": "Nicht ausreichend Platz",
       "UniquenessViolation": "Besitz nur von einem möglich",
       "UnknownError": "Unbekannter Fehler"
+    },
+    "Eververse": {
+      "PrimaryBrightDustOffers": "🦘 Primary Bright Dust Offers",
+      "OtherBrightDustOffers": "🦘 Other Bright Dust Offers"
     }
   },
   "Voluspa": {

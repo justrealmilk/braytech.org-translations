@@ -1444,6 +1444,10 @@
       "NoInventorySpace": "Not Enough Space",
       "UniquenessViolation": "Can onwy howd one at a time",
       "UnknownError": "Unknown ewwow"
+    },
+    "Eververse": {
+      "PrimaryBrightDustOffers": "🦘 Primary Bright Dust Offers",
+      "OtherBrightDustOffers": "🦘 Other Bright Dust Offers"
     }
   },
   "Voluspa": {

@@ -1630,6 +1630,10 @@
       "NoInventorySpace": "Недостаточно места",
       "UniquenessViolation": "Может быть только 1",
       "UnknownError": "Неизвестная ошибка"
+    },
+    "Eververse": {
+      "PrimaryBrightDustOffers": "🦘 Primary Bright Dust Offers",
+      "OtherBrightDustOffers": "🦘 Other Bright Dust Offers"
     }
   },
   "Voluspa": {
