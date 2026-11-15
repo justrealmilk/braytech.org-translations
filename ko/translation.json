@@ -1628,8 +1628,9 @@
       "UnknownError": "알 수 없는 오류"
     },
     "Eververse": {
-      "PrimaryBrightDustOffers": "🦘 Primary Bright Dust Offers",
-      "OtherBrightDustOffers": "🦘 Other Bright Dust Offers"
+      "PrimaryBrightDustSales": "🦘 Primary Bright Dust Sales",
+      "OtherBrightDustSales": "🦘 Other Bright Dust Sales",
+      "EverythingElse": "🦘 Everything Else"
     }
   },
   "Voluspa": {
