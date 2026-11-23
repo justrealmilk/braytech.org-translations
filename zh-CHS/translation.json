@@ -1607,7 +1607,52 @@
     "UnobtainableTriumphs": "无法获取",
     "UnredeemedTriumphs": "未兑换成就",
     "TrackedSync": "通过Voluspa在设备之间同步已跟踪的成就.",
-    "PinPresentationNodes": "右键单击演示文稿节点将其固定到列表顶部。"
+    "PinPresentationNodes": "右键单击演示文稿节点将其固定到列表顶部。",
+    "Visibility": {
+      "Name": "🦘 Visibility",
+      "Showing": {
+        "Active": "🦘 Showing **active** triumphs.",
+        "Legacy": "🦘 Showing **legacy** triumphs."
+      },
+      "NoMatch": {
+        "Active": "🦘 No active triumphs match this filter.",
+        "Legacy": "🦘 No legacy triumphs match this filter."
+      },
+      "NoDefinition": "🦘 No definition in the manifest for: {{string}}",
+      "Bucket": {
+        "Redeemed": "🦘 Redeemed",
+        "Unredeemed": "🦘 Unredeemed",
+        "Incomplete": "🦘 Incomplete",
+        "UserHidden": "🦘 Hidden by you",
+        "Unobtainable": "🦘 Unobtainable",
+        "Invisible": "🦘 Invisible",
+        "Redacted": "🦘 Redacted",
+        "Missing": "🦘 No component"
+      },
+      "Flag": {
+        "Obscured": "🦘 Secret (obscured)",
+        "EntitlementUnowned": "🦘 Needs unowned content",
+        "RewardUnavailable": "🦘 Reward unavailable",
+        "InvisibleRedeemed": "🦘 Invisible but redeemed",
+        "CharacterScoped": "🦘 Character-scoped",
+        "Scored": "🦘 Worth score"
+      },
+      "Explainer": {
+        "Missing": "🦘 The manifest defines these, but the API sent no record state for this account, so there is nothing to show.",
+        "Redacted": "🦘 Bungie has redacted the definition: no name, description or icon until it is revealed, usually with upcoming content.",
+        "Invisible": "🦘 The API sets the Invisible flag on these, which the game uses to hide them.",
+        "InvisibleHidden": "🦘 Braytech hides them too, per your settings.",
+        "InvisibleShown": "🦘 You have chosen to show them anyway, but they still aren't counted.",
+        "Unobtainable": "🦘 Braytech keeps a list of triumphs that can no longer be earned. These are on it and you haven't redeemed them.",
+        "UnobtainableHidden": "🦘 They are hidden, per your settings.",
+        "UnobtainableShown": "🦘 You have chosen to show them.",
+        "UserHidden": "🦘 You hid these from triumph lists.",
+        "Obscured": "🦘 The API sets the Obscured flag on these: the game shows them as secret triumphs until you make progress.",
+        "EntitlementUnowned": "🦘 The API sets the EntitlementUnowned flag on these: they need content this account doesn't own.",
+        "RewardUnavailable": "🦘 The API sets the RewardUnavailable flag on these: the reward can no longer be claimed.",
+        "InvisibleRedeemed": "🦘 Redeemed, but the API still marks them Invisible. The game hides some triumphs once you've earned them."
+      }
+    }
   },
   "Subscriptions": {
     "SupportBraytech": "赞助 Braytech",
