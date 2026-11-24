@@ -317,6 +317,50 @@
     "SortMembers": "Trier les membres"
   },
   "Collections": {
+    "Sources": {
+      "Name": "🦘 Sources",
+      "Family": {
+        "Eververse": "🦘 Eververse",
+        "Campaign": "🦘 Campaigns and exotics",
+        "Seasonal": "🦘 Seasonal",
+        "Crucible": "🦘 Crucible",
+        "Raids": "🦘 Raids",
+        "Events": "🦘 Events",
+        "Strikes": "🦘 Strikes and ops",
+        "Gambit": "🦘 Gambit",
+        "Dungeons": "🦘 Dungeons",
+        "Other": "🦘 Destinations and vendors",
+        "RealWorld": "🦘 Real world",
+        "Unknown": "🦘 No source"
+      },
+      "Flag": {
+        "Vaulted": "🦘 From vaulted content",
+        "Multiple": "🦘 In multiple categories",
+        "NoSeason": "🦘 No season",
+        "Triumph": "🦘 Triumph rewards"
+      },
+      "Explainer": {
+        "Eververse": "🦘 Sold by Tess Everis at Eververse for Silver or Bright Dust, or found in Bright Engrams.",
+        "Campaign": "🦘 Earned through campaigns, exotic quests, the Monument to Lost Lights, and legendary engrams.",
+        "Seasonal": "🦘 Rewards from season passes and deluxe editions.",
+        "Crucible": "🦘 Earned in the Crucible, Iron Banner, and Trials of Osiris.",
+        "Raids": "🦘 Dropped by raids.",
+        "Events": "🦘 Rewards from seasonal events such as the Dawning, Solstice, and Festival of the Lost.",
+        "Strikes": "🦘 Earned from strikes, Nightfalls, Lost Sectors, and Pinnacle Ops.",
+        "Gambit": "🦘 Earned in Gambit and Gambit Prime.",
+        "Dungeons": "🦘 Dropped by dungeons.",
+        "Other": "🦘 Destiny Item Manager knows where these come from, just not in one of the families above: destinations, vendors, seasonal activities, and the like.",
+        "RealWorld": "🦘 Braytech's own sources for things earned outside the game: charity fundraisers, the Bungie Store, Twitch drops, redemption codes, Bungie Rewards, community spotlights, and more.",
+        "Unknown": "🦘 The API has nothing useful to say: no source at all (most emotes), a placeholder source with no text, or a source no one has categorised yet.",
+        "Vaulted": "🦘 From a source Destiny Item Manager marks as having entered the Destiny Content Vault. Some of these items have since returned elsewhere.",
+        "Multiple": "🦘 Matches more than one source category. Each item is counted once, in the first family it matches.",
+        "NoSeason": "🦘 Braytech can't place these in a season from their watermark or source.",
+        "Triumph": "🦘 Unlocked by completing a triumph."
+      },
+      "NoMatch": "🦘 No collectibles match this source.",
+      "NoSourceHash": "🦘 No source",
+      "NoSourceString": "🦘 Source without text"
+    },
     "AllAcquired": "Tout a été récupéré",
     "Badge": "Badge",
     "Badge_plural": "Badges",
